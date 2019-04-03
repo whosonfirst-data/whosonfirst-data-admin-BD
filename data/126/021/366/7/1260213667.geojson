@@ -1,0 +1,73 @@
+{
+  "id": 1260213667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.67543,26.33668,88.67543,26.33668",
+    "geom:latitude":26.33668,
+    "geom:longitude":88.67543,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5577.0",
+    "gn:admin3_code":"557773.0",
+    "gn:admin4_code":"55777323.0",
+    "gn:asciiname":"Nuniyapara",
+    "gn:country_code":"BD",
+    "gn:dem":70,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7104809,
+    "gn:latitude":26.33668,
+    "gn:longitude":88.67543,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Nuniyapara",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Nuniyapara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7104809
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"8f0840fda5b49dc531c4aa7c8e8a3392",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694697,
+            "locality_id":1260213667,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1260213667,
+    "wof:lastmodified":1537586286,
+    "wof:name":"Nuniyapara",
+    "wof:parent_id":1108694697,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.67543,
+    26.33668,
+    88.67543,
+    26.33668
+],
+  "geometry": {"coordinates":[88.67543000000001,26.33668],"type":"Point"}
+}

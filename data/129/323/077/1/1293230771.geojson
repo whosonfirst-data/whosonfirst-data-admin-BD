@@ -1,0 +1,70 @@
+{
+  "id": 1293230771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.07662,22.9175,90.07662,22.9175",
+    "geom:latitude":22.9175,
+    "geom:longitude":90.07662,
+    "gn:admin1_code":"85",
+    "gn:admin2_code":"1006",
+    "gn:admin3_code":"100694.0",
+    "gn:admin4_code":"10069473.0",
+    "gn:asciiname":"Satla",
+    "gn:country_code":"BD",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1188422,
+    "gn:latitude":22.9175,
+    "gn:longitude":90.07662,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"S\u0101tla",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669019,
+        421187745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1188422
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"81dd1e4e0ba1d81b9118d87f8a850408",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421187745,
+            "locality_id":1293230771,
+            "region_id":85669019
+        }
+    ],
+    "wof:id":1293230771,
+    "wof:lastmodified":1536660353,
+    "wof:name":"Satla",
+    "wof:parent_id":421187745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.07662,
+    22.9175,
+    90.07662,
+    22.9175
+],
+  "geometry": {"coordinates":[90.07662000000001,22.9175],"type":"Point"}
+}

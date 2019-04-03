@@ -1,0 +1,73 @@
+{
+  "id": 1310043875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"92.05313,22.77947,92.05313,22.77947",
+    "geom:latitude":22.77947,
+    "geom:longitude":92.05313,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2084.0",
+    "gn:admin3_code":"208475.0",
+    "gn:admin4_code":"20847519.0",
+    "gn:asciiname":"Tilokmahajanpara",
+    "gn:country_code":"BD",
+    "gn:dem":41,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7477280,
+    "gn:latitude":22.77947,
+    "gn:longitude":92.05313,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Tilokmahajanp\u0101ra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Tilokmahajanp\u0101ra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421188983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7477280
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"f0383c50901d8af641a9f3bb52696842",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421188983,
+            "locality_id":1310043875,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1310043875,
+    "wof:lastmodified":1537586364,
+    "wof:name":"Tilokmahajanpara",
+    "wof:parent_id":421188983,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    92.05313,
+    22.77947,
+    92.05313,
+    22.77947
+],
+  "geometry": {"coordinates":[92.05313,22.77947],"type":"Point"}
+}

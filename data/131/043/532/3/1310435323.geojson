@@ -1,0 +1,74 @@
+{
+  "id": 1310435323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.46636,23.51258,90.46636,23.51258",
+    "geom:latitude":23.51258,
+    "geom:longitude":90.46636,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3059",
+    "gn:admin3_code":"305994.0",
+    "gn:admin4_code":"30599494.0",
+    "gn:asciiname":"Tangibari",
+    "gn:country_code":"BD",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1185090,
+    "gn:latitude":23.51258,
+    "gn:longitude":90.46636,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Tangib\u0101ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tongibari",
+        "Tangib\u0101ri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421205059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1185090
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"45137d6f73e3604ca3f9bb91d9d93267",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421205059,
+            "locality_id":1310435323,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1310435323,
+    "wof:lastmodified":1537585686,
+    "wof:name":"Tangibari",
+    "wof:parent_id":421205059,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.46636,
+    23.51258,
+    90.46636,
+    23.51258
+],
+  "geometry": {"coordinates":[90.46635999999999,23.51258],"type":"Point"}
+}

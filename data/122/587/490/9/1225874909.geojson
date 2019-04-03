@@ -1,0 +1,70 @@
+{
+  "id": 1225874909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.25639,22.35662,89.25639,22.35662",
+    "geom:latitude":22.35662,
+    "geom:longitude":89.25639,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4087.0",
+    "gn:admin3_code":"408704.0",
+    "gn:admin4_code":"40870477.0",
+    "gn:asciiname":"Chakla Telikhali",
+    "gn:country_code":"BD",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1207738,
+    "gn:latitude":22.35662,
+    "gn:longitude":89.25639,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Ch\u0101kla Telikh\u0101li",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        421201927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1207738
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"2eae054daddea7289c546c4e75fb24c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421201927,
+            "locality_id":1225874909,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1225874909,
+    "wof:lastmodified":1536971387,
+    "wof:name":"Chakla Telikhali",
+    "wof:parent_id":421201927,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.25639,
+    22.35662,
+    89.25639,
+    22.35662
+],
+  "geometry": {"coordinates":[89.25639,22.35662],"type":"Point"}
+}

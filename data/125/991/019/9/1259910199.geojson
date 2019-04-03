@@ -1,0 +1,70 @@
+{
+  "id": 1259910199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.68333,23.75,90.68333,23.75",
+    "geom:latitude":23.75,
+    "geom:longitude":90.68333,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3067.0",
+    "gn:admin3_code":"306702.0",
+    "gn:admin4_code":"30670294.0",
+    "gn:asciiname":"Chauthai",
+    "gn:country_code":"BD",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1206284,
+    "gn:latitude":23.75,
+    "gn:longitude":90.68333,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Chauth\u0101i",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421197045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1206284
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"5209ab5cc9bcfa1e4bed82f2dc96f857",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421197045,
+            "locality_id":1259910199,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1259910199,
+    "wof:lastmodified":1536740609,
+    "wof:name":"Chauthai",
+    "wof:parent_id":421197045,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.68333,
+    23.75,
+    90.68333,
+    23.75
+],
+  "geometry": {"coordinates":[90.68333,23.75],"type":"Point"}
+}

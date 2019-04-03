@@ -1,0 +1,68 @@
+{
+  "id": 1209663751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.82812,23.49874,90.82812,23.49874",
+    "geom:latitude":23.49874,
+    "geom:longitude":90.82812,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2019.0",
+    "gn:admin3_code":"201936.0",
+    "gn:admin4_code":"20193673.0",
+    "gn:asciiname":"Baynagar",
+    "gn:country_code":"BD",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1209775,
+    "gn:latitude":23.49874,
+    "gn:longitude":90.82812,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"B\u0101ynagar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Raynagar",
+        "B\u0101ynagar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1209775
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"d2b03be4753141f2d8a1dcfe1a424e59",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209663751
+        }
+    ],
+    "wof:id":1209663751,
+    "wof:lastmodified":1537586152,
+    "wof:name":"Baynagar",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.82812,
+    23.49874,
+    90.82812,
+    23.49874
+],
+  "geometry": {"coordinates":[90.82812,23.49874],"type":"Point"}
+}

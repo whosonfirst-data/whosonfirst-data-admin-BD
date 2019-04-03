@@ -1,0 +1,73 @@
+{
+  "id": 1343295445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.60244,23.59217,90.60244,23.59217",
+    "geom:latitude":23.59217,
+    "geom:longitude":90.60244,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3059.0",
+    "gn:admin3_code":"305924.0",
+    "gn:admin4_code":"30592463.0",
+    "gn:asciiname":"Bhabanip",
+    "gn:country_code":"BD",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1209412,
+    "gn:latitude":23.59217,
+    "gn:longitude":90.60244,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Bhabanip",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bhab\u0101nipur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421205059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1209412
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"b6374887b3221b32bd5f8f6c160ea400",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421205059,
+            "locality_id":1343295445,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1343295445,
+    "wof:lastmodified":1537586146,
+    "wof:name":"Bhabanip",
+    "wof:parent_id":421205059,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.60244,
+    23.59217,
+    90.60244,
+    23.59217
+],
+  "geometry": {"coordinates":[90.60244,23.59217],"type":"Point"}
+}

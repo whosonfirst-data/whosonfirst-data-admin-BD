@@ -1,0 +1,64 @@
+{
+  "id": 1209452243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.53574,23.38909,89.53574,23.38909",
+    "geom:latitude":23.38909,
+    "geom:longitude":89.53574,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4055",
+    "gn:admin3_code":"405566.0",
+    "gn:admin4_code":"40556684.0",
+    "gn:asciiname":"Kalamdhari",
+    "gn:country_code":"BD",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1199231,
+    "gn:latitude":23.38909,
+    "gn:longitude":89.53574,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Kalamdh\u0101ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1199231
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"37ccf0f7286adc55c16d3a39c0030021",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209452243
+        }
+    ],
+    "wof:id":1209452243,
+    "wof:lastmodified":1536286637,
+    "wof:name":"Kalamdhari",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.53574,
+    23.38909,
+    89.53574,
+    23.38909
+],
+  "geometry": {"coordinates":[89.53574,23.38909],"type":"Point"}
+}

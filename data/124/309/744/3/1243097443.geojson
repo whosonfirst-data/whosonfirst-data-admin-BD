@@ -1,0 +1,75 @@
+{
+  "id": 1243097443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.55706,23.70651,89.55706,23.70651",
+    "geom:latitude":23.70651,
+    "geom:longitude":89.55706,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3082",
+    "gn:admin3_code":"308207.0",
+    "gn:admin4_code":"30820747.0",
+    "gn:asciiname":"Khalkula",
+    "gn:country_code":"BD",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1197682,
+    "gn:latitude":23.70651,
+    "gn:longitude":89.55706,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Kh\u0101lkula",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Khalkulia",
+        "Khal Khola",
+        "Kh\u0101lkula"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        1108694699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1197682
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"5a24950b68f39bce1050601a0ba44adc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694699,
+            "locality_id":1243097443,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1243097443,
+    "wof:lastmodified":1537585930,
+    "wof:name":"Khalkula",
+    "wof:parent_id":1108694699,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.55705999999998,
+    23.70651,
+    89.55705999999998,
+    23.70651
+],
+  "geometry": {"coordinates":[89.55705999999998,23.70651],"type":"Point"}
+}

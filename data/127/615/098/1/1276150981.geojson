@@ -1,0 +1,70 @@
+{
+  "id": 1276150981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.85511,23.85916,89.85511,23.85916",
+    "geom:latitude":23.85916,
+    "geom:longitude":89.85511,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3056.0",
+    "gn:admin3_code":"305678.0",
+    "gn:admin4_code":"30567823.0",
+    "gn:asciiname":"Bagjan",
+    "gn:country_code":"BD",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1211892,
+    "gn:latitude":23.85916,
+    "gn:longitude":89.85511,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"B\u0101gj\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421191745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1211892
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"88e1656801fe83c88f68f8263a4d24b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421191745,
+            "locality_id":1276150981,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1276150981,
+    "wof:lastmodified":1537022193,
+    "wof:name":"Bagjan",
+    "wof:parent_id":421191745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.85511,
+    23.85916,
+    89.85511,
+    23.85916
+],
+  "geometry": {"coordinates":[89.85511,23.85916],"type":"Point"}
+}

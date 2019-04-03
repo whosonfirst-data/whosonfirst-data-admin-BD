@@ -1,0 +1,74 @@
+{
+  "id": 1360015701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.80127,22.9965,89.80127,22.9965",
+    "geom:latitude":22.9965,
+    "geom:longitude":89.80127,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3035",
+    "gn:admin3_code":"303532.0",
+    "gn:admin4_code":"30353200.0",
+    "gn:asciiname":"Manikdaha",
+    "gn:country_code":"BD",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1194970,
+    "gn:latitude":22.9965,
+    "gn:longitude":89.80127,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"M\u0101nikdaha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Manikdha",
+        "M\u0101nikdaha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421194867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1194970
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"5d691af2a664500f7ef4fdb8ab07bae3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421194867,
+            "locality_id":1360015701,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1360015701,
+    "wof:lastmodified":1537585878,
+    "wof:name":"Manikdaha",
+    "wof:parent_id":421194867,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.80127,
+    22.9965,
+    89.80127,
+    22.9965
+],
+  "geometry": {"coordinates":[89.80127,22.9965],"type":"Point"}
+}

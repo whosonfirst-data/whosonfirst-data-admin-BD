@@ -1,0 +1,73 @@
+{
+  "id": 1242811101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.99496,24.5884,89.99496,24.5884",
+    "geom:latitude":24.5884,
+    "geom:longitude":89.99496,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3093.0",
+    "gn:admin3_code":"309357.0",
+    "gn:admin4_code":"30935709.0",
+    "gn:asciiname":"Golpath",
+    "gn:country_code":"BD",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1202043,
+    "gn:latitude":24.5884,
+    "gn:longitude":89.99496,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Golpath",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gopath"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421185471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1202043
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"c928c14e22f184dc8fa916ea9629dd45",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421185471,
+            "locality_id":1242811101,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1242811101,
+    "wof:lastmodified":1537586010,
+    "wof:name":"Golpath",
+    "wof:parent_id":421185471,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.99495999999998,
+    24.5884,
+    89.99495999999998,
+    24.5884
+],
+  "geometry": {"coordinates":[89.99495999999998,24.5884],"type":"Point"}
+}

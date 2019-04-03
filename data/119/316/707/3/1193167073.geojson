@@ -1,0 +1,70 @@
+{
+  "id": 1193167073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.75562,23.28669,89.75562,23.28669",
+    "geom:latitude":23.28669,
+    "geom:longitude":89.75562,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3035.0",
+    "gn:admin3_code":"303543.0",
+    "gn:admin4_code":"30354340.0",
+    "gn:asciiname":"Biswanathpur",
+    "gn:country_code":"BD",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1208262,
+    "gn:latitude":23.28669,
+    "gn:longitude":89.75562,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Biswan\u0101thpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421194867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1208262
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"aebe6fdfd7d0bd3f6759cd6b6dad40b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421194867,
+            "locality_id":1193167073,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1193167073,
+    "wof:lastmodified":1536384451,
+    "wof:name":"Biswanathpur",
+    "wof:parent_id":421194867,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.75562,
+    23.28669,
+    89.75562,
+    23.28669
+],
+  "geometry": {"coordinates":[89.75561999999999,23.28669],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1326663451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.02108,23.34272,89.02108,23.34272",
+    "geom:latitude":23.34272,
+    "geom:longitude":89.02108,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4041",
+    "gn:admin3_code":"404111.0",
+    "gn:admin4_code":"40411125.0",
+    "gn:asciiname":"Tahirpur",
+    "gn:country_code":"BD",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1186716,
+    "gn:latitude":23.34272,
+    "gn:longitude":89.02108,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"T\u0101hirpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "T\u0101hirpur"
+    ],
+    "name:und_x_variant":[
+        "Taherpur",
+        "T\u0101hirpur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        421176039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1186716
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"5da9cdcde6611bdccceeee57ea3b8792",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421176039,
+            "locality_id":1326663451,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1326663451,
+    "wof:lastmodified":1537585723,
+    "wof:name":"Tahirpur",
+    "wof:parent_id":421176039,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.02108,
+    23.34272,
+    89.02108,
+    23.34272
+],
+  "geometry": {"coordinates":[89.02108,23.34272],"type":"Point"}
+}

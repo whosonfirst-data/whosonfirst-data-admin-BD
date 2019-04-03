@@ -1,0 +1,73 @@
+{
+  "id": 1226580937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.98808,23.48522,88.98808,23.48522",
+    "geom:latitude":23.48522,
+    "geom:longitude":88.98808,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4044.0",
+    "gn:admin3_code":"404442.0",
+    "gn:admin4_code":"40444227.0",
+    "gn:asciiname":"Garsuti",
+    "gn:country_code":"BD",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7485149,
+    "gn:latitude":23.48522,
+    "gn:longitude":88.98808,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Garsuti",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Garsuti"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        1108694679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7485149
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"993417885bf3b1a66366a8f8e62a8477",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694679,
+            "locality_id":1226580937,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1226580937,
+    "wof:lastmodified":1537586583,
+    "wof:name":"Garsuti",
+    "wof:parent_id":1108694679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.98808000000002,
+    23.48522,
+    88.98808000000002,
+    23.48522
+],
+  "geometry": {"coordinates":[88.98808000000002,23.48522],"type":"Point"}
+}

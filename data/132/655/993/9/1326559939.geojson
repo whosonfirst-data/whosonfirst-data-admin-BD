@@ -1,0 +1,73 @@
+{
+  "id": 1326559939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.78505,25.12541,89.78505,25.12541",
+    "geom:latitude":25.12541,
+    "geom:longitude":89.78505,
+    "gn:admin1_code":"H",
+    "gn:admin2_code":"3039",
+    "gn:admin3_code":"303915.0",
+    "gn:admin4_code":"30391558.0",
+    "gn:asciiname":"Cazokanda",
+    "gn:country_code":"BD",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7921993,
+    "gn:latitude":25.12541,
+    "gn:longitude":89.78505,
+    "gn:modification_date":"2016-11-17",
+    "gn:name":"Cazokanda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Cazokanda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        1108803101,
+        421191923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7921993
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"33d9a6c41410107274e74e216c2c8bfb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421191923,
+            "locality_id":1326559939,
+            "region_id":1108803101
+        }
+    ],
+    "wof:id":1326559939,
+    "wof:lastmodified":1537586784,
+    "wof:name":"Cazokanda",
+    "wof:parent_id":421191923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.78505,
+    25.12541,
+    89.78505,
+    25.12541
+],
+  "geometry": {"coordinates":[89.78505,25.12541],"type":"Point"}
+}

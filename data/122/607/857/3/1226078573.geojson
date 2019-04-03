@@ -1,0 +1,70 @@
+{
+  "id": 1226078573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.8736,24.76234,90.8736,24.76234",
+    "geom:latitude":24.76234,
+    "geom:longitude":90.8736,
+    "gn:admin1_code":"H",
+    "gn:admin2_code":"3072",
+    "gn:admin3_code":"307204.0",
+    "gn:admin4_code":"30720423.0",
+    "gn:asciiname":"Srirampasa",
+    "gn:country_code":"BD",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1187172,
+    "gn:latitude":24.76234,
+    "gn:longitude":90.8736,
+    "gn:modification_date":"2016-11-17",
+    "gn:name":"Sr\u012br\u0101mp\u0101sa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        1108803101,
+        421200811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1187172
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"85b96a27550a06539adeb3cdffcc674e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421200811,
+            "locality_id":1226078573,
+            "region_id":1108803101
+        }
+    ],
+    "wof:id":1226078573,
+    "wof:lastmodified":1536677944,
+    "wof:name":"Srirampasa",
+    "wof:parent_id":421200811,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.8736,
+    24.76234,
+    90.8736,
+    24.76234
+],
+  "geometry": {"coordinates":[90.8736,24.76234],"type":"Point"}
+}

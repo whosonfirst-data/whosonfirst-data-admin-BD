@@ -1,0 +1,70 @@
+{
+  "id": 1326563413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.48273,23.73969,89.48273,23.73969",
+    "geom:latitude":23.73969,
+    "geom:longitude":89.48273,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3082",
+    "gn:admin3_code":"308273.0",
+    "gn:admin4_code":"30827355.0",
+    "gn:asciiname":"Sripur",
+    "gn:country_code":"BD",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1187197,
+    "gn:latitude":23.73969,
+    "gn:longitude":89.48273,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Sr\u012bpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        1108694699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1187197
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"50a973350efdd10a5ddcaf4028c1d52b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694699,
+            "locality_id":1326563413,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1326563413,
+    "wof:lastmodified":1536939803,
+    "wof:name":"Sripur",
+    "wof:parent_id":1108694699,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.48273,
+    23.73969,
+    89.48273,
+    23.73969
+],
+  "geometry": {"coordinates":[89.48273,23.73969],"type":"Point"}
+}

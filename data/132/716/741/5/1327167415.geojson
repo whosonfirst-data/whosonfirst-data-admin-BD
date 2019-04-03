@@ -1,0 +1,76 @@
+{
+  "id": 1327167415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.1645,25.48394,89.1645,25.48394",
+    "geom:latitude":25.48394,
+    "geom:longitude":89.1645,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5585",
+    "gn:admin3_code":"558576.0",
+    "gn:admin4_code":"55857625.0",
+    "gn:asciiname":"Daneshnagar",
+    "gn:country_code":"BD",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8064660,
+    "gn:latitude":25.48394,
+    "gn:longitude":89.1645,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Daneshnagar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Daneshnagar"
+    ],
+    "name:ben_x_variant":[
+        "Danishnagar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8064660
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"7af7259e8c17f1911d97c82738ee2e65",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694701,
+            "locality_id":1327167415,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1327167415,
+    "wof:lastmodified":1537586844,
+    "wof:name":"Daneshnagar",
+    "wof:parent_id":1108694701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.1645,
+    25.48394,
+    89.1645,
+    25.48394
+],
+  "geometry": {"coordinates":[89.1645,25.48394],"type":"Point"}
+}

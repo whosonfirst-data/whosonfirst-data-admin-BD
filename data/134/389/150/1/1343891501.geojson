@@ -1,0 +1,77 @@
+{
+  "id": 1343891501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.99818,22.24889,89.99818,22.24889",
+    "geom:latitude":22.24889,
+    "geom:longitude":89.99818,
+    "gn:admin1_code":"82",
+    "gn:asciiname":"Uttar Halta",
+    "gn:country_code":"BD",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1187412,
+    "gn:latitude":22.24889,
+    "gn:longitude":89.99818,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Uttar Halta",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Uttar Halta"
+    ],
+    "name:ben_x_variant":[
+        "South H\u0101lta"
+    ],
+    "name:und_x_variant":[
+        "Dakshin Halta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669019,
+        421172031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1187412,
+        "wk:page":"South_Halta"
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"76aac170ff0048a54aef73058308b416",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421172031,
+            "locality_id":1343891501,
+            "region_id":85669019
+        }
+    ],
+    "wof:id":1343891501,
+    "wof:lastmodified":1537585736,
+    "wof:name":"Uttar Halta",
+    "wof:parent_id":421172031,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.99818,
+    22.24889,
+    89.99818,
+    22.24889
+],
+  "geometry": {"coordinates":[89.99818,22.24889],"type":"Point"}
+}

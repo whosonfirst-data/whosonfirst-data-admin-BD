@@ -1,0 +1,70 @@
+{
+  "id": 1276904895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.59429,24.98231,90.59429,24.98231",
+    "geom:latitude":24.98231,
+    "geom:longitude":90.59429,
+    "gn:admin1_code":"H",
+    "gn:admin2_code":"3072",
+    "gn:admin3_code":"307283.0",
+    "gn:admin4_code":"30728371.0",
+    "gn:asciiname":"Paschim Maudam",
+    "gn:country_code":"BD",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1192260,
+    "gn:latitude":24.98231,
+    "gn:longitude":90.59429,
+    "gn:modification_date":"2016-11-17",
+    "gn:name":"Paschim Maud\u0101m",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        1108803101,
+        421200811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1192260
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"396a66203e4fab42f856c5fd068f0423",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421200811,
+            "locality_id":1276904895,
+            "region_id":1108803101
+        }
+    ],
+    "wof:id":1276904895,
+    "wof:lastmodified":1537007106,
+    "wof:name":"Paschim Maudam",
+    "wof:parent_id":421200811,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.59429,
+    24.98231,
+    90.59429,
+    24.98231
+],
+  "geometry": {"coordinates":[90.59429,24.98231],"type":"Point"}
+}

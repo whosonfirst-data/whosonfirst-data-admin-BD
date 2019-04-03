@@ -1,0 +1,70 @@
+{
+  "id": 1326458237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.47051,22.96445,90.47051,22.96445",
+    "geom:latitude":22.96445,
+    "geom:longitude":90.47051,
+    "gn:admin1_code":"85",
+    "gn:admin2_code":"1006",
+    "gn:admin3_code":"100636.0",
+    "gn:admin4_code":"10063667.0",
+    "gn:asciiname":"Purbba Kandi",
+    "gn:country_code":"BD",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1190681,
+    "gn:latitude":22.96445,
+    "gn:longitude":90.47051,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Purbba K\u0101ndi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669019,
+        421187745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1190681
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"72db9a2af9d5640e5a3abc1d27f270b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421187745,
+            "locality_id":1326458237,
+            "region_id":85669019
+        }
+    ],
+    "wof:id":1326458237,
+    "wof:lastmodified":1537087557,
+    "wof:name":"Purbba Kandi",
+    "wof:parent_id":421187745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.47051,
+    22.96445,
+    90.47051,
+    22.96445
+],
+  "geometry": {"coordinates":[90.47051,22.96445],"type":"Point"}
+}

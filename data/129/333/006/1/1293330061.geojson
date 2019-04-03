@@ -1,0 +1,74 @@
+{
+  "id": 1293330061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.50468,23.61912,89.50468,23.61912",
+    "geom:latitude":23.61912,
+    "geom:longitude":89.50468,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3082.0",
+    "gn:admin3_code":"308207.0",
+    "gn:admin4_code":"30820766.0",
+    "gn:asciiname":"Garakola",
+    "gn:country_code":"BD",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1202887,
+    "gn:latitude":23.61912,
+    "gn:longitude":89.50468,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"G\u0101r\u0101kola",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gara Khola",
+        "G\u0101r\u0101kola"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        1108694699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1202887
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"7c9f85e49ceb15123fb3354a9243ca24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694699,
+            "locality_id":1293330061,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1293330061,
+    "wof:lastmodified":1537586026,
+    "wof:name":"Garakola",
+    "wof:parent_id":1108694699,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.50468000000002,
+    23.61912,
+    89.50468000000002,
+    23.61912
+],
+  "geometry": {"coordinates":[89.50468000000002,23.61912],"type":"Point"}
+}

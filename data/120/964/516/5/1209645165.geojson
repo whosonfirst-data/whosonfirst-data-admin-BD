@@ -1,0 +1,67 @@
+{
+  "id": 1209645165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.62397,25.563,89.62397,25.563",
+    "geom:latitude":25.563,
+    "geom:longitude":89.62397,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5532",
+    "gn:admin3_code":"553291.0",
+    "gn:admin4_code":"55329144.0",
+    "gn:asciiname":"Char Patrakhata",
+    "gn:country_code":"BD",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7926517,
+    "gn:latitude":25.563,
+    "gn:longitude":89.62397,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Char Patrakhata",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Char Patrakhata"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7926517
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"4ca6edad6a0df0f52e4a8126dafec567",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209645165
+        }
+    ],
+    "wof:id":1209645165,
+    "wof:lastmodified":1537586827,
+    "wof:name":"Char Patrakhata",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.62397,
+    25.563,
+    89.62397,
+    25.563
+],
+  "geometry": {"coordinates":[89.62397,25.563],"type":"Point"}
+}

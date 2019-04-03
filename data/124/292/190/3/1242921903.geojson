@@ -1,0 +1,70 @@
+{
+  "id": 1242921903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.04385,23.45226,91.04385,23.45226",
+    "geom:latitude":23.45226,
+    "geom:longitude":91.04385,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2019",
+    "gn:admin3_code":"201927.0",
+    "gn:admin4_code":"20192739.0",
+    "gn:asciiname":"Pihar",
+    "gn:country_code":"BD",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1191122,
+    "gn:latitude":23.45226,
+    "gn:longitude":91.04385,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Pih\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421187801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1191122
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"aff0c78f2736a9f132fe1d794c9f9b77",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421187801,
+            "locality_id":1242921903,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1242921903,
+    "wof:lastmodified":1537062142,
+    "wof:name":"Pihar",
+    "wof:parent_id":421187801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.04385,
+    23.45226,
+    91.04385,
+    23.45226
+],
+  "geometry": {"coordinates":[91.04385000000001,23.45226],"type":"Point"}
+}

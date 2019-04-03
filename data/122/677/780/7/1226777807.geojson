@@ -1,0 +1,70 @@
+{
+  "id": 1226777807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.51465,24.30311,90.51465,24.30311",
+    "geom:latitude":24.30311,
+    "geom:longitude":90.51465,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3033.0",
+    "gn:admin3_code":"303386.0",
+    "gn:admin4_code":"30338638.0",
+    "gn:asciiname":"Beldia",
+    "gn:country_code":"BD",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1209639,
+    "gn:latitude":24.30311,
+    "gn:longitude":90.51465,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Beldia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421203493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1209639
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"6e47e2e688b4e1ecab76cca82e8ab8cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421203493,
+            "locality_id":1226777807,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1226777807,
+    "wof:lastmodified":1536669496,
+    "wof:name":"Beldia",
+    "wof:parent_id":421203493,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.51465,
+    24.30311,
+    90.51465,
+    24.30311
+],
+  "geometry": {"coordinates":[90.51465,24.30311],"type":"Point"}
+}

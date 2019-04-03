@@ -1,0 +1,73 @@
+{
+  "id": 1293921043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.98226,25.25111,89.98226,25.25111",
+    "geom:latitude":25.25111,
+    "geom:longitude":89.98226,
+    "gn:admin1_code":"H",
+    "gn:admin2_code":"3089",
+    "gn:admin3_code":"308990.0",
+    "gn:admin4_code":"30899071.0",
+    "gn:asciiname":"Haluahati",
+    "gn:country_code":"BD",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7921230,
+    "gn:latitude":25.25111,
+    "gn:longitude":89.98226,
+    "gn:modification_date":"2016-11-17",
+    "gn:name":"Haluahati",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Haluahati"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        1108803101,
+        421190979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7921230
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"2cef97b822ebce89346ea17f08c9cc65",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421190979,
+            "locality_id":1293921043,
+            "region_id":1108803101
+        }
+    ],
+    "wof:id":1293921043,
+    "wof:lastmodified":1537586781,
+    "wof:name":"Haluahati",
+    "wof:parent_id":421190979,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.98226,
+    25.25111,
+    89.98226,
+    25.25111
+],
+  "geometry": {"coordinates":[89.98226,25.25111],"type":"Point"}
+}

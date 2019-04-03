@@ -1,0 +1,75 @@
+{
+  "id": 1309854369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.82743,23.35655,90.82743,23.35655",
+    "geom:latitude":23.35655,
+    "geom:longitude":90.82743,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2013",
+    "gn:admin3_code":"201358.0",
+    "gn:admin4_code":"20135894.0",
+    "gn:asciiname":"Tulpar Fatehpur",
+    "gn:country_code":"BD",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1185944,
+    "gn:latitude":23.35655,
+    "gn:longitude":90.82743,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Tulp\u0101r Fatehpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tulpai Fatepur",
+        "Tulp\u0101i Fatehpur",
+        "Tulp\u0101r Fatehpur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        1108694669
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1185944
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"374db76d34b6a4dbf49e3691f023280f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694669,
+            "locality_id":1309854369,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1309854369,
+    "wof:lastmodified":1537585711,
+    "wof:name":"Tulpar Fatehpur",
+    "wof:parent_id":1108694669,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.82743,
+    23.35655,
+    90.82743,
+    23.35655
+],
+  "geometry": {"coordinates":[90.82743000000001,23.35655],"type":"Point"}
+}

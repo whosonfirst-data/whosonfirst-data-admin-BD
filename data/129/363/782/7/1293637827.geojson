@@ -1,0 +1,74 @@
+{
+  "id": 1293637827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.98572,23.2933,90.98572,23.2933",
+    "geom:latitude":23.2933,
+    "geom:longitude":90.98572,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2019.0",
+    "gn:admin3_code":"201909.0",
+    "gn:admin4_code":"20190912.0",
+    "gn:asciiname":"Adra Ramchandrapur",
+    "gn:country_code":"BD",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1213235,
+    "gn:latitude":23.2933,
+    "gn:longitude":90.98572,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"\u0100dra R\u0101mchandrapur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0100dra R\u0101mchandrapur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421187801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1213235,
+        "wk:page":"Adra_Ramchandrapur"
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"c16ee8f2cbd2192268948850d5a2d2c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421187801,
+            "locality_id":1293637827,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1293637827,
+    "wof:lastmodified":1537586210,
+    "wof:name":"Adra Ramchandrapur",
+    "wof:parent_id":421187801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.98572,
+    23.2933,
+    90.98572,
+    23.2933
+],
+  "geometry": {"coordinates":[90.98572,23.2933],"type":"Point"}
+}

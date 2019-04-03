@@ -1,0 +1,70 @@
+{
+  "id": 1242808003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.33333,23.53333,90.33333,23.53333",
+    "geom:latitude":23.53333,
+    "geom:longitude":90.33333,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3059",
+    "gn:admin3_code":"305984.0",
+    "gn:admin4_code":"30598494.0",
+    "gn:asciiname":"Rujdi",
+    "gn:country_code":"BD",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1189490,
+    "gn:latitude":23.53333,
+    "gn:longitude":90.33333,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Rujdi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421205059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1189490
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"1101736eb39a2de5d91cc10a203d64fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421205059,
+            "locality_id":1242808003,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1242808003,
+    "wof:lastmodified":1536732184,
+    "wof:name":"Rujdi",
+    "wof:parent_id":421205059,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.33333,
+    23.53333,
+    90.33333,
+    23.53333
+],
+  "geometry": {"coordinates":[90.33333,23.53333],"type":"Point"}
+}

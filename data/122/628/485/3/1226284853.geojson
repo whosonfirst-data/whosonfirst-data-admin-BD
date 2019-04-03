@@ -1,0 +1,70 @@
+{
+  "id": 1226284853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.83789,22.24858,91.83789,22.24858",
+    "geom:latitude":22.24858,
+    "geom:longitude":91.83789,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2015.0",
+    "gn:admin3_code":"201504.0",
+    "gn:admin4_code":"20150419.0",
+    "gn:asciiname":"Badalpura",
+    "gn:country_code":"BD",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6415539,
+    "gn:latitude":22.24858,
+    "gn:longitude":91.83789,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"B\u0101dalpura",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "B\u0101dalpura"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6415539
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"3c62796eaa4b1ec988666417d0816a48",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "locality_id":1226284853,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1226284853,
+    "wof:lastmodified":1537586247,
+    "wof:name":"Badalpura",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.83789,
+    22.24858,
+    91.83789,
+    22.24858
+],
+  "geometry": {"coordinates":[91.83789,22.24858],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1243202105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.06169,22.45695,89.06169,22.45695",
+    "geom:latitude":22.45695,
+    "geom:longitude":89.06169,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4087",
+    "gn:admin3_code":"408747.0",
+    "gn:admin4_code":"40874755.0",
+    "gn:asciiname":"Tulakati",
+    "gn:country_code":"BD",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1185960,
+    "gn:latitude":22.45695,
+    "gn:longitude":89.06169,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Tul\u0101k\u0101ti",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Tul\u0101k\u0101ti"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        421201927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1185960
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"5d4a02505526d63b87790e2a1e6ee251",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421201927,
+            "locality_id":1243202105,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1243202105,
+    "wof:lastmodified":1537585711,
+    "wof:name":"Tulakati",
+    "wof:parent_id":421201927,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.06169,
+    22.45695,
+    89.06169,
+    22.45695
+],
+  "geometry": {"coordinates":[89.06169,22.45695],"type":"Point"}
+}

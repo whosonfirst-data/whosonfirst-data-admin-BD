@@ -1,0 +1,70 @@
+{
+  "id": 1293916647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.43454,25.1428,89.43454,25.1428",
+    "geom:latitude":25.1428,
+    "geom:longitude":89.43454,
+    "gn:admin1_code":"83",
+    "gn:asciiname":"Mirzapur",
+    "gn:country_code":"BD",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7892046,
+    "gn:latitude":25.1428,
+    "gn:longitude":89.43454,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Mirz\u0101pur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Mirz\u0101pur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7892046
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"775729092a234a7a3f1750aa6ac6305d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694675,
+            "locality_id":1293916647,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1293916647,
+    "wof:lastmodified":1537586755,
+    "wof:name":"Mirzapur",
+    "wof:parent_id":1108694675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.43454,
+    25.1428,
+    89.43454,
+    25.1428
+],
+  "geometry": {"coordinates":[89.43454,25.1428],"type":"Point"}
+}

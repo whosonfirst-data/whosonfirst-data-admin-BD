@@ -1,0 +1,70 @@
+{
+  "id": 1293913489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.70247,25.20887,89.70247,25.20887",
+    "geom:latitude":25.20887,
+    "geom:longitude":89.70247,
+    "gn:admin1_code":"H",
+    "gn:asciiname":"Sinai",
+    "gn:country_code":"BD",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7905699,
+    "gn:latitude":25.20887,
+    "gn:longitude":89.70247,
+    "gn:modification_date":"2016-12-05",
+    "gn:name":"Sin\u0101i",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Sin\u0101i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        1108803101,
+        421191923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7905699
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"b69c2dfa759ee191a897dda624d9e113",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421191923,
+            "locality_id":1293913489,
+            "region_id":1108803101
+        }
+    ],
+    "wof:id":1293913489,
+    "wof:lastmodified":1537586779,
+    "wof:name":"Sinai",
+    "wof:parent_id":421191923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.70246999999998,
+    25.20887,
+    89.70246999999998,
+    25.20887
+],
+  "geometry": {"coordinates":[89.70246999999998,25.20887],"type":"Point"}
+}

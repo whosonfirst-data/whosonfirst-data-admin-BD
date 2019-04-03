@@ -1,0 +1,74 @@
+{
+  "id": 1327267317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.80773,25.00108,90.80773,25.00108",
+    "geom:latitude":25.00108,
+    "geom:longitude":90.80773,
+    "gn:admin1_code":"H",
+    "gn:admin2_code":"3072.0",
+    "gn:admin3_code":"307240.0",
+    "gn:admin4_code":"30724023.0",
+    "gn:asciiname":"Hapania Kalmakanda",
+    "gn:country_code":"BD",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1201594,
+    "gn:latitude":25.00108,
+    "gn:longitude":90.80773,
+    "gn:modification_date":"2016-11-17",
+    "gn:name":"H\u0101p\u0101nia Kalm\u0101k\u0101nda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kalm\u0101k\u0101nd\u0101",
+        "H\u0101p\u0101nia Kalm\u0101k\u0101nda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        1108803101,
+        421200811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1201594
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"28222e2272267fc7d6db6ba17124f817",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421200811,
+            "locality_id":1327267317,
+            "region_id":1108803101
+        }
+    ],
+    "wof:id":1327267317,
+    "wof:lastmodified":1537586002,
+    "wof:name":"Hapania Kalmakanda",
+    "wof:parent_id":421200811,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.80773,
+    25.00108,
+    90.80773,
+    25.00108
+],
+  "geometry": {"coordinates":[90.80773000000001,25.00108],"type":"Point"}
+}

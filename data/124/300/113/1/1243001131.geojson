@@ -1,0 +1,75 @@
+{
+  "id": 1243001131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.387,25.31772,89.387,25.31772",
+    "geom:latitude":25.31772,
+    "geom:longitude":89.387,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5532.0",
+    "gn:admin3_code":"553282.0",
+    "gn:admin4_code":"55328251.0",
+    "gn:asciiname":"Gobindaray Debottor",
+    "gn:country_code":"BD",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1202259,
+    "gn:latitude":25.31772,
+    "gn:longitude":89.387,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Gobindaray Debottor",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gobinda Ray Debottar",
+        "Gobind\u0101rai Dev Aut\u0101r",
+        "Gobindaray Debottor"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1202259
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"a57647ad4d09325b7287ecda1894e012",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694675,
+            "locality_id":1243001131,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1243001131,
+    "wof:lastmodified":1537586014,
+    "wof:name":"Gobindaray Debottor",
+    "wof:parent_id":1108694675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.387,
+    25.31772,
+    89.387,
+    25.31772
+],
+  "geometry": {"coordinates":[89.387,25.31772],"type":"Point"}
+}

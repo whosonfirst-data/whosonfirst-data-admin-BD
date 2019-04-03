@@ -1,0 +1,77 @@
+{
+  "id": 1226172485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.1743,22.24085,90.1743,22.24085",
+    "geom:latitude":22.24085,
+    "geom:longitude":90.1743,
+    "gn:admin1_code":"85",
+    "gn:admin2_code":"1004",
+    "gn:admin3_code":"100428.0",
+    "gn:admin4_code":"10042876.0",
+    "gn:asciiname":"Tarabunia",
+    "gn:country_code":"BD",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1186543,
+    "gn:latitude":22.24085,
+    "gn:longitude":90.1743,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Tarabunia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Tarabunia"
+    ],
+    "name:ben_x_variant":[
+        "T\u0101r\u0101bania"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669019,
+        421176043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1186543,
+        "wk:page":"Tarabania"
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"6e76adf2b26975e3ac822b4986503fdf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421176043,
+            "locality_id":1226172485,
+            "region_id":85669019
+        }
+    ],
+    "wof:id":1226172485,
+    "wof:lastmodified":1537585720,
+    "wof:name":"Tarabunia",
+    "wof:parent_id":421176043,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.1743,
+    22.24085,
+    90.1743,
+    22.24085
+],
+  "geometry": {"coordinates":[90.1743,22.24085],"type":"Point"}
+}

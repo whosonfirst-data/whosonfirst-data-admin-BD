@@ -1,0 +1,73 @@
+{
+  "id": 1243491789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.08428,21.95625,90.08428,21.95625",
+    "geom:latitude":21.95625,
+    "geom:longitude":90.08428,
+    "gn:admin1_code":"85",
+    "gn:admin2_code":"1004.0",
+    "gn:admin3_code":"100409.0",
+    "gn:admin4_code":"10040939.0",
+    "gn:asciiname":"Chhota Bhaijora",
+    "gn:country_code":"BD",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7477708,
+    "gn:latitude":21.95625,
+    "gn:longitude":90.08428,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Chhota Bh\u0101ijora",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Chhota Bh\u0101ijora"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669019,
+        421176043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7477708
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"9f4bb2dc32ea568326b947312c221094",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421176043,
+            "locality_id":1243491789,
+            "region_id":85669019
+        }
+    ],
+    "wof:id":1243491789,
+    "wof:lastmodified":1537586373,
+    "wof:name":"Chhota Bhaijora",
+    "wof:parent_id":421176043,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.08428,
+    21.95625,
+    90.08428,
+    21.95625
+],
+  "geometry": {"coordinates":[90.08428000000001,21.95625],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1293517607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.11506,23.68299,89.11506,23.68299",
+    "geom:latitude":23.68299,
+    "geom:longitude":89.11506,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4044.0",
+    "gn:admin3_code":"404414.0",
+    "gn:admin4_code":"40441473.0",
+    "gn:asciiname":"Padmanaga",
+    "gn:country_code":"BD",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7478974,
+    "gn:latitude":23.68299,
+    "gn:longitude":89.11506,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Padmanaga",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Padmanaga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        1108694679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7478974
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"1681bf53c17cf92d7d16f21efa3eb0b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694679,
+            "locality_id":1293517607,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1293517607,
+    "wof:lastmodified":1537586406,
+    "wof:name":"Padmanaga",
+    "wof:parent_id":1108694679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.11506,
+    23.68299,
+    89.11506,
+    23.68299
+],
+  "geometry": {"coordinates":[89.11506,23.68299],"type":"Point"}
+}

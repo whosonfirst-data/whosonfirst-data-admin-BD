@@ -1,0 +1,73 @@
+{
+  "id": 1242711427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.06606,22.13806,90.06606,22.13806",
+    "geom:latitude":22.13806,
+    "geom:longitude":90.06606,
+    "gn:admin1_code":"85",
+    "gn:admin2_code":"1004.0",
+    "gn:admin3_code":"100428.0",
+    "gn:admin4_code":"10042847.0",
+    "gn:asciiname":"Latabaria",
+    "gn:country_code":"BD",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7476544,
+    "gn:latitude":22.13806,
+    "gn:longitude":90.06606,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Latabaria",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Latabaria"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669019,
+        421176043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7476544
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"3203992cc58be30278bb3d9e18a78508",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421176043,
+            "locality_id":1242711427,
+            "region_id":85669019
+        }
+    ],
+    "wof:id":1242711427,
+    "wof:lastmodified":1537586347,
+    "wof:name":"Latabaria",
+    "wof:parent_id":421176043,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.06606,
+    22.13806,
+    90.06606,
+    22.13806
+],
+  "geometry": {"coordinates":[90.06605999999999,22.13806],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1309837459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.28114,24.8074,88.28114,24.8074",
+    "geom:latitude":24.8074,
+    "geom:longitude":88.28114,
+    "gn:admin1_code":"83",
+    "gn:admin2_code":"5070.0",
+    "gn:admin3_code":"507037.0",
+    "gn:admin4_code":"50703731.0",
+    "gn:asciiname":"Gauripur",
+    "gn:country_code":"BD",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7489333,
+    "gn:latitude":24.8074,
+    "gn:longitude":88.28114,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Ga\u016bripur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Ga\u016bripur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669031,
+        421191607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7489333
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"ce8e97cdc3d04d40dcc7fead7e17ea6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421191607,
+            "locality_id":1309837459,
+            "region_id":85669031
+        }
+    ],
+    "wof:id":1309837459,
+    "wof:lastmodified":1537586694,
+    "wof:name":"Gauripur",
+    "wof:parent_id":421191607,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.28114000000002,
+    24.8074,
+    88.28114000000002,
+    24.8074
+],
+  "geometry": {"coordinates":[88.28114000000002,24.8074],"type":"Point"}
+}

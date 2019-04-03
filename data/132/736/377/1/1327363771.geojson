@@ -1,0 +1,73 @@
+{
+  "id": 1327363771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.19948,23.02697,89.19948,23.02697",
+    "geom:latitude":23.02697,
+    "geom:longitude":89.19948,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4041",
+    "gn:admin3_code":"404161.0",
+    "gn:admin4_code":"40416155.0",
+    "gn:asciiname":"Majhiali",
+    "gn:country_code":"BD",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1195342,
+    "gn:latitude":23.02697,
+    "gn:longitude":89.19948,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"M\u0101jhiali",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "M\u0101jhiali"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        421176039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1195342
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"b3da166c324eeb265e0c60bddaf0ac7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421176039,
+            "locality_id":1327363771,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1327363771,
+    "wof:lastmodified":1537585885,
+    "wof:name":"Majhiali",
+    "wof:parent_id":421176039,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.19948000000002,
+    23.02697,
+    89.19948000000002,
+    23.02697
+],
+  "geometry": {"coordinates":[89.19948000000002,23.02697],"type":"Point"}
+}

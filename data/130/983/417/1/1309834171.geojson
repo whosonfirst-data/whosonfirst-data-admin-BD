@@ -1,0 +1,70 @@
+{
+  "id": 1309834171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.21667,23.9,89.21667,23.9",
+    "geom:latitude":23.9,
+    "geom:longitude":89.21667,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4050",
+    "gn:admin3_code":"405071.0",
+    "gn:admin4_code":"40507194.0",
+    "gn:asciiname":"Lala Darigram",
+    "gn:country_code":"BD",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1196245,
+    "gn:latitude":23.9,
+    "gn:longitude":89.21667,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"L\u0101la Darigr\u0101m",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        890438075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1196245
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"42b766f122362ccd038d53163b9ede0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":890438075,
+            "locality_id":1309834171,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1309834171,
+    "wof:lastmodified":1536889965,
+    "wof:name":"Lala Darigram",
+    "wof:parent_id":890438075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.21667,
+    23.9,
+    89.21667,
+    23.9
+],
+  "geometry": {"coordinates":[89.21666999999999,23.9],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1209848999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.20544,22.92253,90.20544,22.92253",
+    "geom:latitude":22.92253,
+    "geom:longitude":90.20544,
+    "gn:admin1_code":"85",
+    "gn:admin2_code":"1006.0",
+    "gn:admin3_code":"100602.0",
+    "gn:admin4_code":"10060287.0",
+    "gn:asciiname":"Chhaygram",
+    "gn:country_code":"BD",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1206147,
+    "gn:latitude":22.92253,
+    "gn:longitude":90.20544,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Chhaygr\u0101m",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chhaygr\u0101m"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669019,
+        421187745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1206147,
+        "wk:page":"Chhaygram"
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"1abf9985d5180a443b3c8912af10d5ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421187745,
+            "locality_id":1209848999,
+            "region_id":85669019
+        }
+    ],
+    "wof:id":1209848999,
+    "wof:lastmodified":1537586087,
+    "wof:name":"Chhaygram",
+    "wof:parent_id":421187745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.20544,
+    22.92253,
+    90.20544,
+    22.92253
+],
+  "geometry": {"coordinates":[90.20544,22.92253],"type":"Point"}
+}

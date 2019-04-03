@@ -1,0 +1,73 @@
+{
+  "id": 1344000327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.96764,22.92386,90.96764,22.92386",
+    "geom:latitude":22.92386,
+    "geom:longitude":90.96764,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2051",
+    "gn:admin3_code":"205143.0",
+    "gn:admin4_code":"20514320.0",
+    "gn:asciiname":"Dakhin Dhanyapur",
+    "gn:country_code":"BD",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1187439,
+    "gn:latitude":22.92386,
+    "gn:longitude":90.96764,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Dakhin Dhanyapur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "South Dhanyapur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421166521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1187439
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"048e542b2b13f20175a77c755683e7ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421166521,
+            "locality_id":1344000327,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1344000327,
+    "wof:lastmodified":1537585737,
+    "wof:name":"Dakhin Dhanyapur",
+    "wof:parent_id":421166521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.96764,
+    22.92386,
+    90.96764,
+    22.92386
+],
+  "geometry": {"coordinates":[90.96764,22.92386],"type":"Point"}
+}

@@ -1,0 +1,84 @@
+{
+  "id": 421166485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.413,24.38044,91.413,24.38044",
+    "geom:latitude":24.38044,
+    "geom:longitude":91.413,
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "Hobiganj"
+    ],
+    "qs:gn_country":"BD",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":1185209,
+    "qs:gn_pop":88760,
+    "qs:name":"Habiganj",
+    "qs:name_adm0":"Bangladesh",
+    "qs:name_adm1":"Sylhet",
+    "qs:photos":33,
+    "qs:photos_1k":7,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":33,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"8",
+    "qs:qs_id":266889,
+    "qs:woe_adm0":23424759,
+    "qs:woe_id":1915072,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":1687,
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669025,
+        421176045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1185209,
+        "gp:id":1915072,
+        "qs:id":266889,
+        "wd:id":"Q1438974"
+    },
+    "wof:country":"BD",
+    "wof:created":1459008692,
+    "wof:geomhash":"c04f53fdf627fde8589e050c0ad3bf03",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421176045,
+            "locality_id":421166485,
+            "region_id":85669025
+        }
+    ],
+    "wof:id":421166485,
+    "wof:lastmodified":1527716102,
+    "wof:name":"Habiganj",
+    "wof:parent_id":421176045,
+    "wof:placetype":"locality",
+    "wof:population":88760,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.413,
+    24.38044,
+    91.413,
+    24.38044
+],
+  "geometry": {"coordinates":[91.413,24.38044],"type":"Point"}
+}

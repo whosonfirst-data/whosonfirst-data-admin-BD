@@ -1,0 +1,73 @@
+{
+  "id": 1225882677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.85094,22.30028,91.85094,22.30028",
+    "geom:latitude":22.30028,
+    "geom:longitude":91.85094,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2015.0",
+    "gn:admin3_code":"201561.0",
+    "gn:admin4_code":"20156124.0",
+    "gn:asciiname":"Purba Char Rakha",
+    "gn:country_code":"BD",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6414027,
+    "gn:latitude":22.30028,
+    "gn:longitude":91.85094,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Purba Char Rakha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Purba Char Rakha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421201541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6414027
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"1dfa85ae58124ac12ce8f4ff5ce63d98",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421201541,
+            "locality_id":1225882677,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1225882677,
+    "wof:lastmodified":1537586218,
+    "wof:name":"Purba Char Rakha",
+    "wof:parent_id":421201541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.85094,
+    22.30028,
+    91.85094,
+    22.30028
+],
+  "geometry": {"coordinates":[91.85093999999999,22.30028],"type":"Point"}
+}

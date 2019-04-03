@@ -1,0 +1,79 @@
+{
+  "id": 421166487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.84064,23.60612,89.84064,23.60612",
+    "geom:latitude":23.60612,
+    "geom:longitude":89.84064,
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"BD",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":1203344,
+    "qs:gn_pop":112187,
+    "qs:name":"Faridpur",
+    "qs:name_adm0":"Bangladesh",
+    "qs:name_adm1":"Dhaka",
+    "qs:photos":105,
+    "qs:photos_1k":21,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":105,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"9",
+    "qs:qs_id":266890,
+    "qs:woe_adm0":23424759,
+    "qs:woe_id":1915053,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421198063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1203344,
+        "gp:id":1915053,
+        "qs:id":266890
+    },
+    "wof:country":"BD",
+    "wof:created":1459008692,
+    "wof:geomhash":"3249f51a385bfbf1a06f1dcafbd07adc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421198063,
+            "locality_id":421166487,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":421166487,
+    "wof:lastmodified":1505340582,
+    "wof:name":"Faridpur",
+    "wof:parent_id":421198063,
+    "wof:placetype":"locality",
+    "wof:population":112187,
+    "wof:population_rank":9,
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.84064,
+    23.60612,
+    89.84064,
+    23.60612
+],
+  "geometry": {"coordinates":[89.84063999999999,23.60612],"type":"Point"}
+}

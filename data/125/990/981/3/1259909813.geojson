@@ -1,0 +1,76 @@
+{
+  "id": 1259909813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.69959,24.69135,88.69959,24.69135",
+    "geom:latitude":24.69135,
+    "geom:longitude":88.69959,
+    "gn:admin1_code":"83",
+    "gn:admin2_code":"5064",
+    "gn:admin3_code":"506447.0",
+    "gn:admin4_code":"50644774.0",
+    "gn:asciiname":"Kalinogar",
+    "gn:country_code":"BD",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1199064,
+    "gn:latitude":24.69135,
+    "gn:longitude":88.69959,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"K\u0101linogar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "K\u0101linogar"
+    ],
+    "name:ben_x_variant":[
+        "K\u0101linagar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669031,
+        421191663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1199064
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"91f2cf1fc7a21fd4fe9cb9329bf0d093",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421191663,
+            "locality_id":1259909813,
+            "region_id":85669031
+        }
+    ],
+    "wof:id":1259909813,
+    "wof:lastmodified":1537585954,
+    "wof:name":"Kalinogar",
+    "wof:parent_id":421191663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.69959,
+    24.69135,
+    88.69959,
+    24.69135
+],
+  "geometry": {"coordinates":[88.69959,24.69135],"type":"Point"}
+}

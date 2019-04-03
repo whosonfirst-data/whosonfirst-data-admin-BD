@@ -1,0 +1,74 @@
+{
+  "id": 1293916769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.68532,23.90771,90.68532,23.90771",
+    "geom:latitude":23.90771,
+    "geom:longitude":90.68532,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3068",
+    "gn:admin3_code":"306860.0",
+    "gn:admin4_code":"30686095.0",
+    "gn:asciiname":"Mamudpur Char",
+    "gn:country_code":"BD",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1195081,
+    "gn:latitude":23.90771,
+    "gn:longitude":90.68532,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Mamudpur Char",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mamudpur",
+        "Mamudpur Char"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421169707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1195081
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"b15b4a394baee73319805306aadb27d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421169707,
+            "locality_id":1293916769,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1293916769,
+    "wof:lastmodified":1537585879,
+    "wof:name":"Mamudpur Char",
+    "wof:parent_id":421169707,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.68532,
+    23.90771,
+    90.68532,
+    23.90771
+],
+  "geometry": {"coordinates":[90.68532,23.90771],"type":"Point"}
+}

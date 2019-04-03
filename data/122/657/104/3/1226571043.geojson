@@ -1,0 +1,74 @@
+{
+  "id": 1226571043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.09886,24.87069,89.09886,24.87069",
+    "geom:latitude":24.87069,
+    "geom:longitude":89.09886,
+    "gn:admin1_code":"83",
+    "gn:admin2_code":"5010",
+    "gn:admin3_code":"501033.0",
+    "gn:admin4_code":"50103354.0",
+    "gn:asciiname":"Unahata",
+    "gn:country_code":"BD",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1185759,
+    "gn:latitude":24.87069,
+    "gn:longitude":89.09886,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Un\u0101hata",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Unahat",
+        "Un\u0101hata"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669031,
+        421187793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1185759
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"540208e45465c3378f66bf20d8d9f850",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421187793,
+            "locality_id":1226571043,
+            "region_id":85669031
+        }
+    ],
+    "wof:id":1226571043,
+    "wof:lastmodified":1537585707,
+    "wof:name":"Unahata",
+    "wof:parent_id":421187793,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.09886,
+    24.87069,
+    89.09886,
+    24.87069
+],
+  "geometry": {"coordinates":[89.09886,24.87069],"type":"Point"}
+}

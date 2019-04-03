@@ -1,0 +1,75 @@
+{
+  "id": 1310343509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.21667,22.83333,91.21667,22.83333",
+    "geom:latitude":22.83333,
+    "geom:longitude":91.21667,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2075",
+    "gn:admin3_code":"207589.0",
+    "gn:admin4_code":"20758955.0",
+    "gn:asciiname":"Purba Fatehpur",
+    "gn:cc2":"BD",
+    "gn:country_code":"BD",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1190765,
+    "gn:latitude":22.83333,
+    "gn:longitude":91.21667,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Purba Fatehpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "East Fatepur",
+        "Purba Fatehpur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421177051
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1190765
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"0fbbfcfb3ab43b85d3fff647b4eb81ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421177051,
+            "locality_id":1310343509,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1310343509,
+    "wof:lastmodified":1537585802,
+    "wof:name":"Purba Fatehpur",
+    "wof:parent_id":421177051,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.21667,
+    22.83333,
+    91.21667,
+    22.83333
+],
+  "geometry": {"coordinates":[91.21666999999999,22.83333],"type":"Point"}
+}

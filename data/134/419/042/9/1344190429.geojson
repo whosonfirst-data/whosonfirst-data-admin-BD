@@ -1,0 +1,73 @@
+{
+  "id": 1344190429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.10908,25.25525,89.10908,25.25525",
+    "geom:latitude":25.25525,
+    "geom:longitude":89.10908,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5527",
+    "gn:admin3_code":"552747.0",
+    "gn:admin4_code":"55274713.0",
+    "gn:asciiname":"Shik Para",
+    "gn:country_code":"BD",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8065011,
+    "gn:latitude":25.25525,
+    "gn:longitude":89.10908,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Shik Para",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Shik Para"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8065011
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"0b3de9e93d9e4c189d10a7ec730fe327",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694671,
+            "locality_id":1344190429,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1344190429,
+    "wof:lastmodified":1537586857,
+    "wof:name":"Shik Para",
+    "wof:parent_id":1108694671,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.10908,
+    25.25525,
+    89.10908,
+    25.25525
+],
+  "geometry": {"coordinates":[89.10908000000001,25.25525],"type":"Point"}
+}

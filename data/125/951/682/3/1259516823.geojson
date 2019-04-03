@@ -1,0 +1,70 @@
+{
+  "id": 1259516823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.47012,23.74294,89.47012,23.74294",
+    "geom:latitude":23.74294,
+    "geom:longitude":89.47012,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3082",
+    "gn:admin3_code":"308273.0",
+    "gn:admin4_code":"30827310.0",
+    "gn:asciiname":"Paiksia",
+    "gn:country_code":"BD",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1191470,
+    "gn:latitude":23.74294,
+    "gn:longitude":89.47012,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"P\u0101iksia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        1108694699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1191470
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"abd7d22b4d6c4273f3f4a45a07a1aac1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694699,
+            "locality_id":1259516823,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1259516823,
+    "wof:lastmodified":1536810494,
+    "wof:name":"Paiksia",
+    "wof:parent_id":1108694699,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.47012,
+    23.74294,
+    89.47012,
+    23.74294
+],
+  "geometry": {"coordinates":[89.47011999999999,23.74294],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1293038211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.06632,23.13231,89.06632,23.13231",
+    "geom:latitude":23.13231,
+    "geom:longitude":89.06632,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4041",
+    "gn:admin3_code":"404123.0",
+    "gn:admin4_code":"40412353.0",
+    "gn:asciiname":"Misridiara",
+    "gn:country_code":"BD",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1194283,
+    "gn:latitude":23.13231,
+    "gn:longitude":89.06632,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Misridi\u0101ra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Misridi\u0101ra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        421176039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1194283
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"86c0277e327788a18d167020cb433631",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421176039,
+            "locality_id":1293038211,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1293038211,
+    "wof:lastmodified":1537585866,
+    "wof:name":"Misridiara",
+    "wof:parent_id":421176039,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.06631999999998,
+    23.13231,
+    89.06631999999998,
+    23.13231
+],
+  "geometry": {"coordinates":[89.06631999999998,23.13231],"type":"Point"}
+}

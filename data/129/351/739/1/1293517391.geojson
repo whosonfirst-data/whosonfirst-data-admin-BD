@@ -1,0 +1,70 @@
+{
+  "id": 1293517391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.39965,25.54166,89.39965,25.54166",
+    "geom:latitude":25.54166,
+    "geom:longitude":89.39965,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5585",
+    "gn:admin3_code":"558558.0",
+    "gn:admin4_code":"55855878.0",
+    "gn:asciiname":"Birapara",
+    "gn:country_code":"BD",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7890181,
+    "gn:latitude":25.54166,
+    "gn:longitude":89.39965,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Birapara",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7890181
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"ebf0f67bd738e84fd521f661a82437dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694701,
+            "locality_id":1293517391,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1293517391,
+    "wof:lastmodified":1536743814,
+    "wof:name":"Birapara",
+    "wof:parent_id":1108694701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.39965,
+    25.54166,
+    89.39965,
+    25.54166
+],
+  "geometry": {"coordinates":[89.39964999999999,25.54166],"type":"Point"}
+}

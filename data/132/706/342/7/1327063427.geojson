@@ -1,0 +1,70 @@
+{
+  "id": 1327063427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.67735,24.94103,90.67735,24.94103",
+    "geom:latitude":24.94103,
+    "geom:longitude":90.67735,
+    "gn:admin1_code":"H",
+    "gn:admin2_code":"3072",
+    "gn:admin3_code":"307283.0",
+    "gn:admin4_code":"30728331.0",
+    "gn:asciiname":"Paschim Nagain",
+    "gn:country_code":"BD",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1192255,
+    "gn:latitude":24.94103,
+    "gn:longitude":90.67735,
+    "gn:modification_date":"2016-11-17",
+    "gn:name":"Paschim N\u0101g\u0101in",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        1108803101,
+        421200811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1192255
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"4ad8a1bc86091f4a2af2c2770917caeb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421200811,
+            "locality_id":1327063427,
+            "region_id":1108803101
+        }
+    ],
+    "wof:id":1327063427,
+    "wof:lastmodified":1536716089,
+    "wof:name":"Paschim Nagain",
+    "wof:parent_id":421200811,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.67735,
+    24.94103,
+    90.67735,
+    24.94103
+],
+  "geometry": {"coordinates":[90.67735,24.94103],"type":"Point"}
+}

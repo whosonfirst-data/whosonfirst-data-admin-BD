@@ -1,0 +1,64 @@
+{
+  "id": 1209545455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.42216,22.5579,90.42216,22.5579",
+    "geom:latitude":22.5579,
+    "geom:longitude":90.42216,
+    "gn:admin1_code":"85",
+    "gn:admin2_code":"1006",
+    "gn:admin3_code":"100607.0",
+    "gn:admin4_code":"10060761.0",
+    "gn:asciiname":"Pyarpur",
+    "gn:country_code":"BD",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1190609,
+    "gn:latitude":22.5579,
+    "gn:longitude":90.42216,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Py\u0101rpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1190609
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"c4c5a8fea4f40b70480ac1bdac1c9ef0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209545455
+        }
+    ],
+    "wof:id":1209545455,
+    "wof:lastmodified":1536283856,
+    "wof:name":"Pyarpur",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.42216,
+    22.5579,
+    90.42216,
+    22.5579
+],
+  "geometry": {"coordinates":[90.42216000000001,22.5579],"type":"Point"}
+}

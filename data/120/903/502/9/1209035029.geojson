@@ -1,0 +1,68 @@
+{
+  "id": 1209035029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.18499,23.26343,90.18499,23.26343",
+    "geom:latitude":23.26343,
+    "geom:longitude":90.18499,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3054",
+    "gn:admin3_code":"305487.0",
+    "gn:admin4_code":"30548710.0",
+    "gn:asciiname":"Sekhpur",
+    "gn:country_code":"BD",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1188312,
+    "gn:latitude":23.26343,
+    "gn:longitude":90.18499,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Sekhpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shekpur",
+        "Sekhpur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1188312
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"d22e1dcf508b77209877a2d2eed3fe90",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209035029
+        }
+    ],
+    "wof:id":1209035029,
+    "wof:lastmodified":1537585759,
+    "wof:name":"Sekhpur",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.18499,
+    23.26343,
+    90.18499,
+    23.26343
+],
+  "geometry": {"coordinates":[90.18499,23.26343],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1226280085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.67047,23.25836,89.67047,23.25836",
+    "geom:latitude":23.25836,
+    "geom:longitude":89.67047,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3029",
+    "gn:admin3_code":"302903.0",
+    "gn:admin4_code":"30290384.0",
+    "gn:asciiname":"Phulbaria",
+    "gn:country_code":"BD",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1191175,
+    "gn:latitude":23.25836,
+    "gn:longitude":89.67047,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Phulb\u0101ria",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421198063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1191175
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"c1a04d2d74f6ec12b3ecd46b40ea0471",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421198063,
+            "locality_id":1226280085,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1226280085,
+    "wof:lastmodified":1536883447,
+    "wof:name":"Phulbaria",
+    "wof:parent_id":421198063,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.67047,
+    23.25836,
+    89.67047,
+    23.25836
+],
+  "geometry": {"coordinates":[89.67046999999999,23.25836],"type":"Point"}
+}

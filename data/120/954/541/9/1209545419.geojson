@@ -1,0 +1,67 @@
+{
+  "id": 1209545419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.52429,23.25089,89.52429,23.25089",
+    "geom:latitude":23.25089,
+    "geom:longitude":89.52429,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4065.0",
+    "gn:admin3_code":"406552.0",
+    "gn:admin4_code":"40655279.0",
+    "gn:asciiname":"Brahmaninagar",
+    "gn:country_code":"BD",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1208117,
+    "gn:latitude":23.25089,
+    "gn:longitude":89.52429,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Br\u0101hmaninagar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Br\u0101hmaninagar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1208117
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"c06706580abdd4b12256aa08ac2d44e8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209545419
+        }
+    ],
+    "wof:id":1209545419,
+    "wof:lastmodified":1537586124,
+    "wof:name":"Brahmaninagar",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.52429000000002,
+    23.25089,
+    89.52429000000002,
+    23.25089
+],
+  "geometry": {"coordinates":[89.52429000000002,23.25089],"type":"Point"}
+}

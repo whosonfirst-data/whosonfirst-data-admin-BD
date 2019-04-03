@@ -1,0 +1,70 @@
+{
+  "id": 1343292123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.50301,24.93722,89.50301,24.93722",
+    "geom:latitude":24.93722,
+    "geom:longitude":89.50301,
+    "gn:admin1_code":"83",
+    "gn:admin2_code":"5010",
+    "gn:admin3_code":"501040.0",
+    "gn:admin4_code":"50104074.0",
+    "gn:asciiname":"Sukhanpukur",
+    "gn:country_code":"BD",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1187018,
+    "gn:latitude":24.93722,
+    "gn:longitude":89.50301,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Sukh\u0101npukur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669031,
+        421187793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1187018
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"72c95c45227ab8206f0379119b002b10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421187793,
+            "locality_id":1343292123,
+            "region_id":85669031
+        }
+    ],
+    "wof:id":1343292123,
+    "wof:lastmodified":1536988503,
+    "wof:name":"Sukhanpukur",
+    "wof:parent_id":421187793,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.50301,
+    24.93722,
+    89.50301,
+    24.93722
+],
+  "geometry": {"coordinates":[89.50301,24.93722],"type":"Point"}
+}

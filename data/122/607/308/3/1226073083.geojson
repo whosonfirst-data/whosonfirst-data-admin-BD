@@ -1,0 +1,73 @@
+{
+  "id": 1226073083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.01619,23.83423,89.01619,23.83423",
+    "geom:latitude":23.83423,
+    "geom:longitude":89.01619,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4050.0",
+    "gn:admin3_code":"405094.0",
+    "gn:admin4_code":"40509480.0",
+    "gn:asciiname":"Anandanagar",
+    "gn:country_code":"BD",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7485634,
+    "gn:latitude":23.83423,
+    "gn:longitude":89.01619,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Anandanagar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Anandanagar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        890438075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7485634
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"55963280404e3a5664ef0a6ad153fb29",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":890438075,
+            "locality_id":1226073083,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1226073083,
+    "wof:lastmodified":1537586596,
+    "wof:name":"Anandanagar",
+    "wof:parent_id":890438075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.01619000000002,
+    23.83423,
+    89.01619000000002,
+    23.83423
+],
+  "geometry": {"coordinates":[89.01619000000002,23.83423],"type":"Point"}
+}

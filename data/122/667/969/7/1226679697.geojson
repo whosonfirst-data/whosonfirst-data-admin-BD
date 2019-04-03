@@ -1,0 +1,74 @@
+{
+  "id": 1226679697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.79864,24.80999,90.79864,24.80999",
+    "geom:latitude":24.80999,
+    "geom:longitude":90.79864,
+    "gn:admin1_code":"H",
+    "gn:admin2_code":"3072",
+    "gn:admin3_code":"307204.0",
+    "gn:admin4_code":"30720447.0",
+    "gn:asciiname":"Nasibpur",
+    "gn:country_code":"BD",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1193128,
+    "gn:latitude":24.80999,
+    "gn:longitude":90.79864,
+    "gn:modification_date":"2016-11-17",
+    "gn:name":"Nasibpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nasibpur Gandharbbapur",
+        "Nasibpur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        1108803101,
+        421200811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1193128
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"7505525032f5cdb77abd1f1ae06b3e93",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421200811,
+            "locality_id":1226679697,
+            "region_id":1108803101
+        }
+    ],
+    "wof:id":1226679697,
+    "wof:lastmodified":1537585847,
+    "wof:name":"Nasibpur",
+    "wof:parent_id":421200811,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.79864,
+    24.80999,
+    90.79864,
+    24.80999
+],
+  "geometry": {"coordinates":[90.79864000000001,24.80999],"type":"Point"}
+}

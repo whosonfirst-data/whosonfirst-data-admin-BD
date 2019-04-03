@@ -1,0 +1,75 @@
+{
+  "id": 1225787435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.11667,22.86667,91.11667,22.86667",
+    "geom:latitude":22.86667,
+    "geom:longitude":91.11667,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2075",
+    "gn:admin3_code":"207587.0",
+    "gn:admin4_code":"20758775.0",
+    "gn:asciiname":"Rajarampur",
+    "gn:cc2":"BD",
+    "gn:country_code":"BD",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1190305,
+    "gn:latitude":22.86667,
+    "gn:longitude":91.11667,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"R\u0101j\u0101r\u0101mpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "West Rajarampur",
+        "R\u0101j\u0101r\u0101mpur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421177051
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1190305
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"fbaa570bd130a34c68ed251a368eb5c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421177051,
+            "locality_id":1225787435,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1225787435,
+    "wof:lastmodified":1537585794,
+    "wof:name":"Rajarampur",
+    "wof:parent_id":421177051,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.11667,
+    22.86667000000001,
+    91.11667,
+    22.86667000000001
+],
+  "geometry": {"coordinates":[91.11667,22.86667000000001],"type":"Point"}
+}

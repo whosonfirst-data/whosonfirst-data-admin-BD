@@ -1,0 +1,73 @@
+{
+  "id": 1226380067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.82882,25.12096,89.82882,25.12096",
+    "geom:latitude":25.12096,
+    "geom:longitude":89.82882,
+    "gn:admin1_code":"H",
+    "gn:admin2_code":"3039",
+    "gn:admin3_code":"303929.0",
+    "gn:admin4_code":"30392947.0",
+    "gn:asciiname":"Mahmara",
+    "gn:country_code":"BD",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7921987,
+    "gn:latitude":25.12096,
+    "gn:longitude":89.82882,
+    "gn:modification_date":"2016-11-17",
+    "gn:name":"Mahmara",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Mahmara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        1108803101,
+        421191923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7921987
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"4d17baaab040e4cb6b55b176b7a73778",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421191923,
+            "locality_id":1226380067,
+            "region_id":1108803101
+        }
+    ],
+    "wof:id":1226380067,
+    "wof:lastmodified":1537586784,
+    "wof:name":"Mahmara",
+    "wof:parent_id":421191923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.82882,
+    25.12096,
+    89.82882,
+    25.12096
+],
+  "geometry": {"coordinates":[89.82881999999999,25.12096],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1360121939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.73211,24.09418,90.73211,24.09418",
+    "geom:latitude":24.09418,
+    "geom:longitude":90.73211,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3068",
+    "gn:admin3_code":"306852.0",
+    "gn:admin4_code":"30685254.0",
+    "gn:asciiname":"Uttar Noadia",
+    "gn:country_code":"BD",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1185524,
+    "gn:latitude":24.09418,
+    "gn:longitude":90.73211,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Uttar No\u0101dia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421169707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1185524
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"95e5cb96a6e521ae8a788c0edbf773f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421169707,
+            "locality_id":1360121939,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1360121939,
+    "wof:lastmodified":1536892054,
+    "wof:name":"Uttar Noadia",
+    "wof:parent_id":421169707,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.73211,
+    24.09418,
+    90.73211,
+    24.09418
+],
+  "geometry": {"coordinates":[90.73211000000001,24.09418],"type":"Point"}
+}

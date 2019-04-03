@@ -1,0 +1,73 @@
+{
+  "id": 1293921839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.88056,22.58692,91.88056,22.58692",
+    "geom:latitude":22.58692,
+    "geom:longitude":91.88056,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2015.0",
+    "gn:admin3_code":"201574.0",
+    "gn:admin4_code":"20157444.0",
+    "gn:asciiname":"Uttar Safia",
+    "gn:country_code":"BD",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6414367,
+    "gn:latitude":22.58692,
+    "gn:longitude":91.88056,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Uttar Safia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Uttar Safia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421201541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6414367
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"b48142e8880b0c093198c82dc86c0a5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421201541,
+            "locality_id":1293921839,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1293921839,
+    "wof:lastmodified":1537586225,
+    "wof:name":"Uttar Safia",
+    "wof:parent_id":421201541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.88056,
+    22.58692000000001,
+    91.88056,
+    22.58692000000001
+],
+  "geometry": {"coordinates":[91.88056,22.58692000000001],"type":"Point"}
+}

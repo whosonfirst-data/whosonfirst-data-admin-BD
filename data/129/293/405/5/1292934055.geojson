@@ -1,0 +1,72 @@
+{
+  "id": 1292934055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.96295,25.00845,90.96295,25.00845",
+    "geom:latitude":25.00845,
+    "geom:longitude":90.96295,
+    "gn:admin1_code":"81",
+    "gn:asciiname":"Koluma",
+    "gn:country_code":"BD",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1197039,
+    "gn:latitude":25.00845,
+    "gn:longitude":90.96295,
+    "gn:modification_date":"2013-01-10",
+    "gn:name":"Koluma",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kolma",
+        "Koluma",
+        "Kaluma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669025,
+        421201931
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1197039
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"0a9c8c95f0227d33c4a7f7af5f5e0581",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421201931,
+            "locality_id":1292934055,
+            "region_id":85669025
+        }
+    ],
+    "wof:id":1292934055,
+    "wof:lastmodified":1537585915,
+    "wof:name":"Koluma",
+    "wof:parent_id":421201931,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.96295,
+    25.00845,
+    90.96295,
+    25.00845
+],
+  "geometry": {"coordinates":[90.96295000000001,25.00845],"type":"Point"}
+}

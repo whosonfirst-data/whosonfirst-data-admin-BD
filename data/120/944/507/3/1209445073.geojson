@@ -1,0 +1,67 @@
+{
+  "id": 1209445073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.63263,23.83424,88.63263,23.83424",
+    "geom:latitude":23.83424,
+    "geom:longitude":88.63263,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4057.0",
+    "gn:admin3_code":"405787.0",
+    "gn:admin4_code":"40578757.0",
+    "gn:asciiname":"Shibpur",
+    "gn:country_code":"BD",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7484105,
+    "gn:latitude":23.83424,
+    "gn:longitude":88.63263,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Shibpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Shibpur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7484105
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"7d0deb5018b1e87cfc5b22cde6d00787",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209445073
+        }
+    ],
+    "wof:id":1209445073,
+    "wof:lastmodified":1537586555,
+    "wof:name":"Shibpur",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.63263,
+    23.83424,
+    88.63263,
+    23.83424
+],
+  "geometry": {"coordinates":[88.63263000000001,23.83424],"type":"Point"}
+}

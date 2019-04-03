@@ -1,0 +1,70 @@
+{
+  "id": 1226475903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.6471,23.49959,89.6471,23.49959",
+    "geom:latitude":23.49959,
+    "geom:longitude":89.6471,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3029.0",
+    "gn:admin3_code":"302956.0",
+    "gn:admin4_code":"30295652.0",
+    "gn:asciiname":"Ghorakhali",
+    "gn:country_code":"BD",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1202543,
+    "gn:latitude":23.49959,
+    "gn:longitude":89.6471,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Ghor\u0101kh\u0101li",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421198063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1202543
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"37227729ac8a4a1a82d69637e5c05f11",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421198063,
+            "locality_id":1226475903,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1226475903,
+    "wof:lastmodified":1537095479,
+    "wof:name":"Ghorakhali",
+    "wof:parent_id":421198063,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.6471,
+    23.49959,
+    89.6471,
+    23.49959
+],
+  "geometry": {"coordinates":[89.64709999999999,23.49959],"type":"Point"}
+}

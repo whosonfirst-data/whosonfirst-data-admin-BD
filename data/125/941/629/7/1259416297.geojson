@@ -1,0 +1,70 @@
+{
+  "id": 1259416297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.65514,22.13012,90.65514,22.13012",
+    "geom:latitude":22.13012,
+    "geom:longitude":90.65514,
+    "gn:admin1_code":"82",
+    "gn:asciiname":"Char Maya",
+    "gn:country_code":"BD",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1206632,
+    "gn:latitude":22.13012,
+    "gn:longitude":90.65514,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Char M\u0101ya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Char M\u0101ya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669019,
+        421184491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1206632
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"ddaff719ad9f65500f22932f5c70fdd3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421184491,
+            "locality_id":1259416297,
+            "region_id":85669019
+        }
+    ],
+    "wof:id":1259416297,
+    "wof:lastmodified":1537586097,
+    "wof:name":"Char Maya",
+    "wof:parent_id":421184491,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.65514,
+    22.13012,
+    90.65514,
+    22.13012
+],
+  "geometry": {"coordinates":[90.65514,22.13012],"type":"Point"}
+}

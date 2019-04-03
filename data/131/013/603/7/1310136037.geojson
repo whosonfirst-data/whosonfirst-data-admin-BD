@@ -1,0 +1,70 @@
+{
+  "id": 1310136037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.06667,23.96667,89.06667,23.96667",
+    "geom:latitude":23.96667,
+    "geom:longitude":89.06667,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4050",
+    "gn:admin3_code":"405094.0",
+    "gn:admin4_code":"40509494.0",
+    "gn:asciiname":"Ranakhari",
+    "gn:country_code":"BD",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1189871,
+    "gn:latitude":23.96667,
+    "gn:longitude":89.06667,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"R\u0101n\u0101khari",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        890438075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1189871
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"c3db5d11ad1c71e349db424bdf27f8fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":890438075,
+            "locality_id":1310136037,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1310136037,
+    "wof:lastmodified":1536952728,
+    "wof:name":"Ranakhari",
+    "wof:parent_id":890438075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.06667,
+    23.96667,
+    89.06667,
+    23.96667
+],
+  "geometry": {"coordinates":[89.06667,23.96667],"type":"Point"}
+}

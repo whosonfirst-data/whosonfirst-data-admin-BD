@@ -1,0 +1,73 @@
+{
+  "id": 1209745375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.82895,25.89107,88.82895,25.89107",
+    "geom:latitude":25.89107,
+    "geom:longitude":88.82895,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5573.0",
+    "gn:admin3_code":"557364.0",
+    "gn:admin4_code":"55736450.0",
+    "gn:asciiname":"Salhati",
+    "gn:country_code":"BD",
+    "gn:dem":48,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7489048,
+    "gn:latitude":25.89107,
+    "gn:longitude":88.82895,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"S\u0101lh\u0101ti",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "S\u0101lh\u0101ti"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7489048
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"d7f0e2be341a959b23b8ae017b00cb64",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694695,
+            "locality_id":1209745375,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1209745375,
+    "wof:lastmodified":1537586686,
+    "wof:name":"Salhati",
+    "wof:parent_id":1108694695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.82895,
+    25.89107000000001,
+    88.82895,
+    25.89107000000001
+],
+  "geometry": {"coordinates":[88.82895000000001,25.89107000000001],"type":"Point"}
+}

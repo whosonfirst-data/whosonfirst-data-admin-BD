@@ -1,0 +1,73 @@
+{
+  "id": 1243400703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.98332,25.13486,89.98332,25.13486",
+    "geom:latitude":25.13486,
+    "geom:longitude":89.98332,
+    "gn:admin1_code":"H",
+    "gn:admin2_code":"3089",
+    "gn:admin3_code":"308990.0",
+    "gn:admin4_code":"30899039.0",
+    "gn:asciiname":"Bharara",
+    "gn:country_code":"BD",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7921358,
+    "gn:latitude":25.13486,
+    "gn:longitude":89.98332,
+    "gn:modification_date":"2016-11-17",
+    "gn:name":"Bharara",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Bharara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        1108803101,
+        421190979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7921358
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"4ad9416e78963d00028b520e404824b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421190979,
+            "locality_id":1243400703,
+            "region_id":1108803101
+        }
+    ],
+    "wof:id":1243400703,
+    "wof:lastmodified":1537586783,
+    "wof:name":"Bharara",
+    "wof:parent_id":421190979,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.98331999999998,
+    25.13486,
+    89.98331999999998,
+    25.13486
+],
+  "geometry": {"coordinates":[89.98331999999998,25.13486],"type":"Point"}
+}

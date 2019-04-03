@@ -1,0 +1,73 @@
+{
+  "id": 1260009725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.69831,26.08575,89.69831,26.08575",
+    "geom:latitude":26.08575,
+    "geom:longitude":89.69831,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5549",
+    "gn:admin3_code":"554906.0",
+    "gn:admin4_code":"55490666.0",
+    "gn:asciiname":"Beldaha Dipuhat",
+    "gn:country_code":"BD",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8038821,
+    "gn:latitude":26.08575,
+    "gn:longitude":89.69831,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Beldaha Dipuhat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Beldaha Dipuhat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8038821
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"48f7243f891c8fbe1ac1aac709393b77",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694685,
+            "locality_id":1260009725,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1260009725,
+    "wof:lastmodified":1537586833,
+    "wof:name":"Beldaha Dipuhat",
+    "wof:parent_id":1108694685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.69830999999998,
+    26.08575,
+    89.69830999999998,
+    26.08575
+],
+  "geometry": {"coordinates":[89.69830999999998,26.08575],"type":"Point"}
+}

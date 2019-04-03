@@ -1,0 +1,73 @@
+{
+  "id": 1343503567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"92.32386,20.76084,92.32386,20.76084",
+    "geom:latitude":20.76084,
+    "geom:longitude":92.32386,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2022.0",
+    "gn:admin3_code":"202290.0",
+    "gn:admin4_code":"20229047.0",
+    "gn:asciiname":"Satghariapara",
+    "gn:country_code":"BD",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7476492,
+    "gn:latitude":20.76084,
+    "gn:longitude":92.32386,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"S\u0101tghar\u012bap\u0101ra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "S\u0101tghar\u012bap\u0101ra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421205057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7476492
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"88da1d389368b11f5f03f9dd15ee78f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421205057,
+            "locality_id":1343503567,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1343503567,
+    "wof:lastmodified":1537586346,
+    "wof:name":"Satghariapara",
+    "wof:parent_id":421205057,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    92.32386,
+    20.76084,
+    92.32386,
+    20.76084
+],
+  "geometry": {"coordinates":[92.32386,20.76084],"type":"Point"}
+}

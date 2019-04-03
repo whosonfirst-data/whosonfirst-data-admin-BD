@@ -1,0 +1,70 @@
+{
+  "id": 1276908163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.93119,23.95865,88.93119,23.95865",
+    "geom:latitude":23.95865,
+    "geom:longitude":88.93119,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4050.0",
+    "gn:admin3_code":"405039.0",
+    "gn:admin4_code":"40503967.0",
+    "gn:asciiname":"sherpur bazar, mirpur, kushtia",
+    "gn:country_code":"BD",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7521887,
+    "gn:latitude":23.95865,
+    "gn:longitude":88.93119,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"sherpur bazar, mirpur, kushtia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        890438075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7521887
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"b635431418881d20583d0f867524dbd5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":890438075,
+            "locality_id":1276908163,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1276908163,
+    "wof:lastmodified":1537002630,
+    "wof:name":"sherpur bazar, mirpur, kushtia",
+    "wof:parent_id":890438075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.93119,
+    23.95865,
+    88.93119,
+    23.95865
+],
+  "geometry": {"coordinates":[88.93119,23.95865],"type":"Point"}
+}

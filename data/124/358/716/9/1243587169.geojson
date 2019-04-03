@@ -1,0 +1,70 @@
+{
+  "id": 1243587169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.00777,23.16619,89.00777,23.16619",
+    "geom:latitude":23.16619,
+    "geom:longitude":89.00777,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4041.0",
+    "gn:admin3_code":"404123.0",
+    "gn:admin4_code":"40412329.0",
+    "gn:asciiname":"Gaursuti",
+    "gn:country_code":"BD",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1202775,
+    "gn:latitude":23.16619,
+    "gn:longitude":89.00777,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Gaursuti",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        421176039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1202775
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"75dfe810780fc1a2922da1989abe0765",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421176039,
+            "locality_id":1243587169,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1243587169,
+    "wof:lastmodified":1537096398,
+    "wof:name":"Gaursuti",
+    "wof:parent_id":421176039,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.00777,
+    23.16619,
+    89.00777,
+    23.16619
+],
+  "geometry": {"coordinates":[89.00776999999999,23.16619],"type":"Point"}
+}

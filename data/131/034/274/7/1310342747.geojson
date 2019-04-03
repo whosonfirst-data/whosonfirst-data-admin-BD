@@ -1,0 +1,70 @@
+{
+  "id": 1310342747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.25115,22.32232,90.25115,22.32232",
+    "geom:latitude":22.32232,
+    "geom:longitude":90.25115,
+    "gn:admin1_code":"82",
+    "gn:asciiname":"Matibhanga",
+    "gn:country_code":"BD",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7476547,
+    "gn:latitude":22.32232,
+    "gn:longitude":90.25115,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"Matibhanga",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Matibhanga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669019,
+        421169845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7476547
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"9abaca23ca3b3389c3270cd13414faad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421169845,
+            "locality_id":1310342747,
+            "region_id":85669019
+        }
+    ],
+    "wof:id":1310342747,
+    "wof:lastmodified":1537586347,
+    "wof:name":"Matibhanga",
+    "wof:parent_id":421169845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.25115,
+    22.32232,
+    90.25115,
+    22.32232
+],
+  "geometry": {"coordinates":[90.25115,22.32232],"type":"Point"}
+}

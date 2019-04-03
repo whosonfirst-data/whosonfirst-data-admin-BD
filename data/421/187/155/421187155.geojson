@@ -1,0 +1,79 @@
+{
+  "id": 421187155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.87936,26.17079,88.87936,26.17079",
+    "geom:latitude":26.17079,
+    "geom:longitude":88.87936,
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ben_x_preferred":[
+        "Jaldanp\u0101ra"
+    ],
+    "qs:gn_country":"BD",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":7105511,
+    "qs:gn_pop":0,
+    "qs:name":"Jaldapara",
+    "qs:name_adm0":"India",
+    "qs:name_adm1":"West Bengal",
+    "qs:photos":60,
+    "qs:photos_1k":12,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":60,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1081943,
+    "qs:woe_adm0":23424848,
+    "qs:woe_id":29000905,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7105511,
+        "gp:id":29000905,
+        "qs:id":1081943
+    },
+    "wof:country":"BD",
+    "wof:created":1459009503,
+    "wof:geomhash":"a69cd82d34ec4c44d59c5d21a89bf628",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694695,
+            "locality_id":421187155,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":421187155,
+    "wof:lastmodified":1501273150,
+    "wof:name":"Jaldapara",
+    "wof:parent_id":1108694695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.87936,
+    26.17079,
+    88.87936,
+    26.17079
+],
+  "geometry": {"coordinates":[88.87936000000001,26.17079],"type":"Point"}
+}

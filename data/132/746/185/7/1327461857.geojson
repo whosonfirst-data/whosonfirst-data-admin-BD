@@ -1,0 +1,70 @@
+{
+  "id": 1327461857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.73436,25.04536,89.73436,25.04536",
+    "geom:latitude":25.04536,
+    "geom:longitude":89.73436,
+    "gn:admin1_code":"H",
+    "gn:asciiname":"Pachabahara",
+    "gn:country_code":"BD",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8537424,
+    "gn:latitude":25.04536,
+    "gn:longitude":89.73436,
+    "gn:modification_date":"2016-12-05",
+    "gn:name":"Pach\u0101bahara",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Pach\u0101bahara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        1108803101,
+        421191923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8537424
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"051e59c5456c86ea042a73f52b895593",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421191923,
+            "locality_id":1327461857,
+            "region_id":1108803101
+        }
+    ],
+    "wof:id":1327461857,
+    "wof:lastmodified":1537586871,
+    "wof:name":"Pachabahara",
+    "wof:parent_id":421191923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.73436,
+    25.04536,
+    89.73436,
+    25.04536
+],
+  "geometry": {"coordinates":[89.73436,25.04536],"type":"Point"}
+}

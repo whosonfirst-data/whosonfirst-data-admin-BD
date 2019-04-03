@@ -1,0 +1,73 @@
+{
+  "id": 1243484639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.75066,26.06392,89.75066,26.06392",
+    "geom:latitude":26.06392,
+    "geom:longitude":89.75066,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5549",
+    "gn:admin3_code":"554906.0",
+    "gn:admin4_code":"55490628.0",
+    "gn:asciiname":"Boldeya",
+    "gn:country_code":"BD",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8037870,
+    "gn:latitude":26.06392,
+    "gn:longitude":89.75066,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Boldeya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Boldeya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8037870
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"243f5e9b827cc4cd8204198ae0010f1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694685,
+            "locality_id":1243484639,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1243484639,
+    "wof:lastmodified":1537586832,
+    "wof:name":"Boldeya",
+    "wof:parent_id":1108694685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.75066,
+    26.06392,
+    89.75066,
+    26.06392
+],
+  "geometry": {"coordinates":[89.75066,26.06392],"type":"Point"}
+}

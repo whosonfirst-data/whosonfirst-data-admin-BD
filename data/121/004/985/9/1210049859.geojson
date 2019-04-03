@@ -1,0 +1,73 @@
+{
+  "id": 1210049859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.86889,23.58917,88.86889,23.58917",
+    "geom:latitude":23.58917,
+    "geom:longitude":88.86889,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4018.0",
+    "gn:admin3_code":"401823.0",
+    "gn:admin4_code":"40182371.0",
+    "gn:asciiname":"Jalsuk",
+    "gn:country_code":"BD",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7484695,
+    "gn:latitude":23.58917,
+    "gn:longitude":88.86889,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"J\u0101lsuk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "J\u0101lsuk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        421194153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7484695
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"6d7ee67d6bf8661097c0d0960e644c24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421194153,
+            "locality_id":1210049859,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1210049859,
+    "wof:lastmodified":1537586571,
+    "wof:name":"Jalsuk",
+    "wof:parent_id":421194153,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.86889000000002,
+    23.58917000000001,
+    88.86889000000002,
+    23.58917000000001
+],
+  "geometry": {"coordinates":[88.86889000000002,23.58917000000001],"type":"Point"}
+}

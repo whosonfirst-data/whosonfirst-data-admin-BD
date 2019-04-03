@@ -1,0 +1,73 @@
+{
+  "id": 1276472513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.03246,23.57425,89.03246,23.57425",
+    "geom:latitude":23.57425,
+    "geom:longitude":89.03246,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4044.0",
+    "gn:admin3_code":"404419.0",
+    "gn:admin4_code":"40441984.0",
+    "gn:asciiname":"Gilapol",
+    "gn:country_code":"BD",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7478754,
+    "gn:latitude":23.57425,
+    "gn:longitude":89.03246,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Gil\u0101pol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Gil\u0101pol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        1108694679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7478754
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"d643176b93f17d907e744062f2d352ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694679,
+            "locality_id":1276472513,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1276472513,
+    "wof:lastmodified":1537586400,
+    "wof:name":"Gilapol",
+    "wof:parent_id":1108694679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.03246,
+    23.57425,
+    89.03246,
+    23.57425
+],
+  "geometry": {"coordinates":[89.03246,23.57425],"type":"Point"}
+}

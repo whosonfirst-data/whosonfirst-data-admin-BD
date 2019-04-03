@@ -1,0 +1,75 @@
+{
+  "id": 1293726713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.90096,24.13976,90.90096,24.13976",
+    "geom:latitude":24.13976,
+    "geom:longitude":90.90096,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3048",
+    "gn:admin3_code":"304854.0",
+    "gn:admin4_code":"30485483.0",
+    "gn:asciiname":"Kandulia Maupara",
+    "gn:country_code":"BD",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1198634,
+    "gn:latitude":24.13976,
+    "gn:longitude":90.90096,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Kandulia Maupara",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kandulia Mijpara",
+        "K\u0101ndulia M\u0101ijp\u0101ra",
+        "Kandulia Maupara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421170483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1198634
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"cb5d2429263ecd6bbb35ebdaab74ba00",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421170483,
+            "locality_id":1293726713,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1293726713,
+    "wof:lastmodified":1537585948,
+    "wof:name":"Kandulia Maupara",
+    "wof:parent_id":421170483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.90096,
+    24.13976,
+    90.90096,
+    24.13976
+],
+  "geometry": {"coordinates":[90.90096,24.13976],"type":"Point"}
+}

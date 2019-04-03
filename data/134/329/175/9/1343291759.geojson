@@ -1,0 +1,73 @@
+{
+  "id": 1343291759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.67487,23.22868,89.67487,23.22868",
+    "geom:latitude":23.22868,
+    "geom:longitude":89.67487,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4065.0",
+    "gn:admin3_code":"406552.0",
+    "gn:admin4_code":"40655223.0",
+    "gn:asciiname":"Char Bagjuri",
+    "gn:country_code":"BD",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7480203,
+    "gn:latitude":23.22868,
+    "gn:longitude":89.67487,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Char B\u0101gjuri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Char B\u0101gjuri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        421205213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7480203
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"66c1575895d4106807949f648170187a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421205213,
+            "locality_id":1343291759,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1343291759,
+    "wof:lastmodified":1537586443,
+    "wof:name":"Char Bagjuri",
+    "wof:parent_id":421205213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.67487,
+    23.22868,
+    89.67487,
+    23.22868
+],
+  "geometry": {"coordinates":[89.67487,23.22868],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1310234865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.65094,24.47779,90.65094,24.47779",
+    "geom:latitude":24.47779,
+    "geom:longitude":90.65094,
+    "gn:admin1_code":"H",
+    "gn:admin2_code":"3061.0",
+    "gn:admin3_code":"306172.0",
+    "gn:admin4_code":"30617239.0",
+    "gn:asciiname":"Dhalapata",
+    "gn:country_code":"BD",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1204525,
+    "gn:latitude":24.47779,
+    "gn:longitude":90.65094,
+    "gn:modification_date":"2016-11-17",
+    "gn:name":"Dhal\u0101p\u0101ta",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        1108803101,
+        421185469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1204525
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"ff74f74151eed238b1b5e0ca62292e36",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421185469,
+            "locality_id":1310234865,
+            "region_id":1108803101
+        }
+    ],
+    "wof:id":1310234865,
+    "wof:lastmodified":1536809618,
+    "wof:name":"Dhalapata",
+    "wof:parent_id":421185469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.65094,
+    24.47779,
+    90.65094,
+    24.47779
+],
+  "geometry": {"coordinates":[90.65094000000001,24.47779],"type":"Point"}
+}

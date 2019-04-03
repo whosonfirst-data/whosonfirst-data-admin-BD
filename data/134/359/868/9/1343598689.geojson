@@ -1,0 +1,70 @@
+{
+  "id": 1343598689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.09111,23.94922,90.09111,23.94922",
+    "geom:latitude":23.94922,
+    "geom:longitude":90.09111,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3026",
+    "gn:admin3_code":"302614.0",
+    "gn:admin4_code":"30261441.0",
+    "gn:asciiname":"Jalsa",
+    "gn:country_code":"BD",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1200368,
+    "gn:latitude":23.94922,
+    "gn:longitude":90.09111,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"J\u0101lsa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421187803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1200368
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"45d09c7b9d51f279c7c512bb59a8aabd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421187803,
+            "locality_id":1343598689,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1343598689,
+    "wof:lastmodified":1537042276,
+    "wof:name":"Jalsa",
+    "wof:parent_id":421187803,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.09111,
+    23.94922,
+    90.09111,
+    23.94922
+],
+  "geometry": {"coordinates":[90.09111,23.94922],"type":"Point"}
+}

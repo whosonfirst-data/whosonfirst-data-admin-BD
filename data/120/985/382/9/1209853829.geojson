@@ -1,0 +1,73 @@
+{
+  "id": 1209853829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.86861,21.90862,91.86861,21.90862",
+    "geom:latitude":21.90862,
+    "geom:longitude":91.86861,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2022.0",
+    "gn:admin3_code":"202245.0",
+    "gn:admin4_code":"20224581.0",
+    "gn:asciiname":"Noakata",
+    "gn:country_code":"BD",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6415793,
+    "gn:latitude":21.90862,
+    "gn:longitude":91.86861,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"No\u0101k\u0101ta",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "No\u0101k\u0101ta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421205057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6415793
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"a67e58f54b8bc23815279a1a48f426ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421205057,
+            "locality_id":1209853829,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1209853829,
+    "wof:lastmodified":1537586252,
+    "wof:name":"Noakata",
+    "wof:parent_id":421205057,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.86861,
+    21.90862000000001,
+    91.86861,
+    21.90862000000001
+],
+  "geometry": {"coordinates":[91.86861,21.90862000000001],"type":"Point"}
+}

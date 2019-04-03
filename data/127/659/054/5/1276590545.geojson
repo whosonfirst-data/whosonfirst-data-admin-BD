@@ -1,0 +1,73 @@
+{
+  "id": 1276590545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.89539,22.43182,91.89539,22.43182",
+    "geom:latitude":22.43182,
+    "geom:longitude":91.89539,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2015.0",
+    "gn:admin3_code":"201574.0",
+    "gn:admin4_code":"20157463.0",
+    "gn:asciiname":"Paschim Noapara",
+    "gn:country_code":"BD",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6414273,
+    "gn:latitude":22.43182,
+    "gn:longitude":91.89539,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Paschim No\u0101p\u0101ra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Paschim No\u0101p\u0101ra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421201541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6414273
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"d0eede3e2bdbf2d4a7d77f35cc706625",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421201541,
+            "locality_id":1276590545,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1276590545,
+    "wof:lastmodified":1537586223,
+    "wof:name":"Paschim Noapara",
+    "wof:parent_id":421201541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.89539,
+    22.43182,
+    91.89539,
+    22.43182
+],
+  "geometry": {"coordinates":[91.89539000000001,22.43182],"type":"Point"}
+}

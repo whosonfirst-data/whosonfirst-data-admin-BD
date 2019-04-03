@@ -1,0 +1,66 @@
+{
+  "id": 1292939061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.5556,22.22077,90.5556,22.22077",
+    "geom:latitude":22.22077,
+    "geom:longitude":90.5556,
+    "gn:admin1_code":"82",
+    "gn:asciiname":"Chungar Char",
+    "gn:country_code":"BD",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7478306,
+    "gn:latitude":22.22077,
+    "gn:longitude":90.5556,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"Chung\u0101r Char",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Chung\u0101r Char"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7478306
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"b81e35f4ab2621fa5c72fcc311829530",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":-1,
+            "locality_id":1292939061,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1292939061,
+    "wof:lastmodified":1537586388,
+    "wof:name":"Chungar Char",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.5556,
+    22.22077,
+    90.5556,
+    22.22077
+],
+  "geometry": {"coordinates":[90.5556,22.22077],"type":"Point"}
+}

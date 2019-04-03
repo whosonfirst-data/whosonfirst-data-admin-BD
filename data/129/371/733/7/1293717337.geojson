@@ -1,0 +1,74 @@
+{
+  "id": 1293717337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.49501,23.63561,89.49501,23.63561",
+    "geom:latitude":23.63561,
+    "geom:longitude":89.49501,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3082",
+    "gn:admin3_code":"308207.0",
+    "gn:admin4_code":"30820785.0",
+    "gn:asciiname":"Larua",
+    "gn:country_code":"BD",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1196156,
+    "gn:latitude":23.63561,
+    "gn:longitude":89.49501,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"L\u0101rua",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Narua",
+        "L\u0101rua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        1108694699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1196156
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"84cef1fcac3267b8020f3bd06d2125c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694699,
+            "locality_id":1293717337,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1293717337,
+    "wof:lastmodified":1537585901,
+    "wof:name":"Larua",
+    "wof:parent_id":1108694699,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.49501,
+    23.63561,
+    89.49501,
+    23.63561
+],
+  "geometry": {"coordinates":[89.49500999999999,23.63561],"type":"Point"}
+}

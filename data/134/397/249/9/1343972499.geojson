@@ -1,0 +1,67 @@
+{
+  "id": 1343972499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.87712,23.03929,88.87712,23.03929",
+    "geom:latitude":23.03929,
+    "geom:longitude":88.87712,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Petrapol",
+    "gn:country_code":"BD",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1191223,
+    "gn:latitude":23.03929,
+    "gn:longitude":88.87712,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Petr\u0101pol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632469,
+        85672219,
+        1108696079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1191223
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"64466deaab48169df6d0b4060bb318bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108696079,
+            "locality_id":1343972499,
+            "region_id":85672219
+        }
+    ],
+    "wof:id":1343972499,
+    "wof:lastmodified":1537001812,
+    "wof:name":"Petrapol",
+    "wof:parent_id":1108696079,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.87711999999998,
+    23.03929,
+    88.87711999999998,
+    23.03929
+],
+  "geometry": {"coordinates":[88.87711999999998,23.03929],"type":"Point"}
+}

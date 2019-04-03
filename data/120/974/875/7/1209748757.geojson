@@ -1,0 +1,73 @@
+{
+  "id": 1209748757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.73615,26.02322,89.73615,26.02322",
+    "geom:latitude":26.02322,
+    "geom:longitude":89.73615,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5549",
+    "gn:admin3_code":"554961.0",
+    "gn:admin4_code":"55496182.0",
+    "gn:asciiname":"Char Lachhni",
+    "gn:country_code":"BD",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8038774,
+    "gn:latitude":26.02322,
+    "gn:longitude":89.73615,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Char Lachhni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Char Lachhni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8038774
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"2241aa8d4de17b2b3645ad8e196c19db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694685,
+            "locality_id":1209748757,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1209748757,
+    "wof:lastmodified":1537586832,
+    "wof:name":"Char Lachhni",
+    "wof:parent_id":1108694685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.73615,
+    26.02322,
+    89.73615,
+    26.02322
+],
+  "geometry": {"coordinates":[89.73614999999999,26.02322],"type":"Point"}
+}

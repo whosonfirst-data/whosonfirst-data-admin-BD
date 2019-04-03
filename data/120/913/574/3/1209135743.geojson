@@ -1,0 +1,64 @@
+{
+  "id": 1209135743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.2625,22.6915,90.2625,22.6915",
+    "geom:latitude":22.6915,
+    "geom:longitude":90.2625,
+    "gn:admin1_code":"85",
+    "gn:admin2_code":"1042",
+    "gn:admin3_code":"104273.0",
+    "gn:admin4_code":"10427363.0",
+    "gn:asciiname":"Piranda",
+    "gn:country_code":"BD",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1191083,
+    "gn:latitude":22.6915,
+    "gn:longitude":90.2625,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Piranda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1191083
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"f040baf8b58d06228a7a1fc83bb7ceb2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209135743
+        }
+    ],
+    "wof:id":1209135743,
+    "wof:lastmodified":1536296666,
+    "wof:name":"Piranda",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.2625,
+    22.6915,
+    90.2625,
+    22.6915
+],
+  "geometry": {"coordinates":[90.2625,22.6915],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1209156875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.9861,21.78566,91.9861,21.78566",
+    "geom:latitude":21.78566,
+    "geom:longitude":91.9861,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2022.0",
+    "gn:admin3_code":"202216.0",
+    "gn:admin4_code":"20221622.0",
+    "gn:asciiname":"Khonanali",
+    "gn:country_code":"BD",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6415704,
+    "gn:latitude":21.78566,
+    "gn:longitude":91.9861,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Khonanali",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Khonanali"
+    ],
+    "name:ben_x_variant":[
+        "Khananali"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6415704
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"cbe1d33372da69630cd4f74d2d3a8023",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209156875
+        }
+    ],
+    "wof:id":1209156875,
+    "wof:lastmodified":1537586250,
+    "wof:name":"Khonanali",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.9861,
+    21.78566,
+    91.9861,
+    21.78566
+],
+  "geometry": {"coordinates":[91.98609999999999,21.78566],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1226676473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.65373,24.11412,89.65373,24.11412",
+    "geom:latitude":24.11412,
+    "geom:longitude":89.65373,
+    "gn:admin1_code":"83",
+    "gn:admin2_code":"5088.0",
+    "gn:admin3_code":"508867.0",
+    "gn:admin4_code":"50886714.0",
+    "gn:asciiname":"Bayra",
+    "gn:country_code":"BD",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1209773,
+    "gn:latitude":24.11412,
+    "gn:longitude":89.65373,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Bayra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669031,
+        421201929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1209773
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"bc80197918f8e2a8dd97d499dda3294d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421201929,
+            "locality_id":1226676473,
+            "region_id":85669031
+        }
+    ],
+    "wof:id":1226676473,
+    "wof:lastmodified":1536814639,
+    "wof:name":"Bayra",
+    "wof:parent_id":421201929,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.65373000000002,
+    24.11412,
+    89.65373000000002,
+    24.11412
+],
+  "geometry": {"coordinates":[89.65373000000002,24.11412],"type":"Point"}
+}

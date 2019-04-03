@@ -1,0 +1,77 @@
+{
+  "id": 1326768019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.23114,23.40892,89.23114,23.40892",
+    "geom:latitude":23.40892,
+    "geom:longitude":89.23114,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4044",
+    "gn:admin3_code":"404433.0",
+    "gn:admin4_code":"40443347.0",
+    "gn:asciiname":"Maydharpur",
+    "gn:country_code":"BD",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1194534,
+    "gn:latitude":23.40892,
+    "gn:longitude":89.23114,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Maydharpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Maydharpur"
+    ],
+    "name:und_x_variant":[
+        "Mayaharpur",
+        "Maydharpur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        1108694679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1194534
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"41ecf639cb9c1ee83c63b8782d02305a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694679,
+            "locality_id":1326768019,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1326768019,
+    "wof:lastmodified":1537585871,
+    "wof:name":"Maydharpur",
+    "wof:parent_id":1108694679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.23114,
+    23.40892,
+    89.23114,
+    23.40892
+],
+  "geometry": {"coordinates":[89.23114,23.40892],"type":"Point"}
+}

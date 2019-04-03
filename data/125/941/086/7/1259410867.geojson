@@ -1,0 +1,73 @@
+{
+  "id": 1259410867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.84887,23.32485,88.84887,23.32485",
+    "geom:latitude":23.32485,
+    "geom:longitude":88.84887,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4044",
+    "gn:admin3_code":"404471.0",
+    "gn:admin4_code":"40447165.0",
+    "gn:asciiname":"Pantapara",
+    "gn:country_code":"BD",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1192537,
+    "gn:latitude":23.32485,
+    "gn:longitude":88.84887,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"P\u0101nt\u0101para",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "P\u0101nt\u0101para"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        1108694679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1192537
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"41c5e7d7f475728e49bd76aca2dceec0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694679,
+            "locality_id":1259410867,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1259410867,
+    "wof:lastmodified":1537585837,
+    "wof:name":"Pantapara",
+    "wof:parent_id":1108694679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.84886999999998,
+    23.32485,
+    88.84886999999998,
+    23.32485
+],
+  "geometry": {"coordinates":[88.84886999999998,23.32485],"type":"Point"}
+}

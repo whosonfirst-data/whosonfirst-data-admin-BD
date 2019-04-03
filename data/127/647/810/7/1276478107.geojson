@@ -1,0 +1,70 @@
+{
+  "id": 1276478107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.40403,23.48251,90.40403,23.48251",
+    "geom:latitude":23.48251,
+    "geom:longitude":90.40403,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3059.0",
+    "gn:admin3_code":"305994.0",
+    "gn:admin4_code":"30599415.0",
+    "gn:asciiname":"Hat Baligaon",
+    "gn:country_code":"BD",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1201252,
+    "gn:latitude":23.48251,
+    "gn:longitude":90.40403,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"H\u0101t B\u0101ligaon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421205059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1201252
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"ade30020bb092f212dfacfeffae7492c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421205059,
+            "locality_id":1276478107,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1276478107,
+    "wof:lastmodified":1537078874,
+    "wof:name":"Hat Baligaon",
+    "wof:parent_id":421205059,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.40403,
+    23.48251,
+    90.40403,
+    23.48251
+],
+  "geometry": {"coordinates":[90.40403000000001,23.48251],"type":"Point"}
+}

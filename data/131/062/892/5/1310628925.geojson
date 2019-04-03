@@ -1,0 +1,73 @@
+{
+  "id": 1310628925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.44614,25.30241,89.44614,25.30241",
+    "geom:latitude":25.30241,
+    "geom:longitude":89.44614,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5532",
+    "gn:admin3_code":"553267.0",
+    "gn:admin4_code":"55326719.0",
+    "gn:asciiname":"Mostafapur",
+    "gn:country_code":"BD",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7896363,
+    "gn:latitude":25.30241,
+    "gn:longitude":89.44614,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Mostafapur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Mostafapur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7896363
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"83222ffccd5a422ac1b4b8229686e036",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694675,
+            "locality_id":1310628925,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1310628925,
+    "wof:lastmodified":1537586765,
+    "wof:name":"Mostafapur",
+    "wof:parent_id":1108694675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.44614,
+    25.30241,
+    89.44614,
+    25.30241
+],
+  "geometry": {"coordinates":[89.44614,25.30241],"type":"Point"}
+}

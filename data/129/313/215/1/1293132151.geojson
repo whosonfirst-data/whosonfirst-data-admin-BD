@@ -1,0 +1,70 @@
+{
+  "id": 1293132151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.29739,23.52842,90.29739,23.52842",
+    "geom:latitude":23.52842,
+    "geom:longitude":90.29739,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3059.0",
+    "gn:admin3_code":"305984.0",
+    "gn:admin4_code":"30598461.0",
+    "gn:asciiname":"Basailbhog",
+    "gn:country_code":"BD",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1210010,
+    "gn:latitude":23.52842,
+    "gn:longitude":90.29739,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Bas\u0101ilbhog",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421205059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1210010
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"35c80b92c18811068d4e3e7674754894",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421205059,
+            "locality_id":1293132151,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1293132151,
+    "wof:lastmodified":1536802436,
+    "wof:name":"Basailbhog",
+    "wof:parent_id":421205059,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.29739,
+    23.52842,
+    90.29739,
+    23.52842
+],
+  "geometry": {"coordinates":[90.29738999999999,23.52842],"type":"Point"}
+}

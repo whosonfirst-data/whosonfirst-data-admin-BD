@@ -1,0 +1,67 @@
+{
+  "id": 1209448465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.7949,26.09001,88.7949,26.09001",
+    "geom:latitude":26.09001,
+    "geom:longitude":88.7949,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5573.0",
+    "gn:admin3_code":"557315.0",
+    "gn:admin4_code":"55731595.0",
+    "gn:asciiname":"Chikanmati",
+    "gn:country_code":"BD",
+    "gn:dem":58,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7105372,
+    "gn:latitude":26.09001,
+    "gn:longitude":88.7949,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Chikanmati",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Chikanmati"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7105372
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"bfbe852cb7ef74bd71da0c6c57659c75",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209448465
+        }
+    ],
+    "wof:id":1209448465,
+    "wof:lastmodified":1537586301,
+    "wof:name":"Chikanmati",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.7949,
+    26.09001,
+    88.7949,
+    26.09001
+],
+  "geometry": {"coordinates":[88.7949,26.09001],"type":"Point"}
+}

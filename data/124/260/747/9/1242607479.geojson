@@ -1,0 +1,70 @@
+{
+  "id": 1242607479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.49336,22.30124,90.49336,22.30124",
+    "geom:latitude":22.30124,
+    "geom:longitude":90.49336,
+    "gn:admin1_code":"82",
+    "gn:asciiname":"Banparia akuioaria",
+    "gn:country_code":"BD",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7476332,
+    "gn:latitude":22.30124,
+    "gn:longitude":90.49336,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"Banp\u0101ria akuioaria",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Banp\u0101ria akuioaria"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669019,
+        421169845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7476332
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"dd68dc49acc8150f9c6e31a6381a43f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421169845,
+            "locality_id":1242607479,
+            "region_id":85669019
+        }
+    ],
+    "wof:id":1242607479,
+    "wof:lastmodified":1537586342,
+    "wof:name":"Banparia akuioaria",
+    "wof:parent_id":421169845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.49336,
+    22.30124,
+    90.49336,
+    22.30124
+],
+  "geometry": {"coordinates":[90.49336,22.30124],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1293832327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"92.15339,21.98025,92.15339,21.98025",
+    "geom:latitude":21.98025,
+    "geom:longitude":92.15339,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2015",
+    "gn:admin3_code":"201547.0",
+    "gn:admin4_code":"20154743.0",
+    "gn:asciiname":"Purba Kalaujan",
+    "gn:country_code":"BD",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1190683,
+    "gn:latitude":21.98025,
+    "gn:longitude":92.15339,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Purba Kalaujan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Purba Kalaujan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421169477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1190683
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"a1c848307ed06e34de02662d90a3fe3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421169477,
+            "locality_id":1293832327,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1293832327,
+    "wof:lastmodified":1537585800,
+    "wof:name":"Purba Kalaujan",
+    "wof:parent_id":421169477,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    92.15339,
+    21.98025,
+    92.15339,
+    21.98025
+],
+  "geometry": {"coordinates":[92.15339,21.98025],"type":"Point"}
+}

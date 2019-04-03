@@ -1,0 +1,70 @@
+{
+  "id": 1209845697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.3,22.9,90.3,22.9",
+    "geom:latitude":22.9,
+    "geom:longitude":90.3,
+    "gn:admin1_code":"85",
+    "gn:admin2_code":"1006",
+    "gn:admin3_code":"100632.0",
+    "gn:admin4_code":"10063294.0",
+    "gn:asciiname":"Kismat Bhutardia",
+    "gn:country_code":"BD",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1197170,
+    "gn:latitude":22.9,
+    "gn:longitude":90.3,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Kismat Bhutardia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669019,
+        421187745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1197170
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"5cf00be61b08ebd147684995859e419a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421187745,
+            "locality_id":1209845697,
+            "region_id":85669019
+        }
+    ],
+    "wof:id":1209845697,
+    "wof:lastmodified":1536390766,
+    "wof:name":"Kismat Bhutardia",
+    "wof:parent_id":421187745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.3,
+    22.9,
+    90.3,
+    22.9
+],
+  "geometry": {"coordinates":[90.3,22.9],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1360015631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.88983,24.60711,88.88983,24.60711",
+    "geom:latitude":24.60711,
+    "geom:longitude":88.88983,
+    "gn:admin1_code":"83",
+    "gn:admin2_code":"5081",
+    "gn:admin3_code":"508112.0",
+    "gn:admin4_code":"50811263.0",
+    "gn:asciiname":"Uttar Sanjura",
+    "gn:country_code":"BD",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1185487,
+    "gn:latitude":24.60711,
+    "gn:longitude":88.88983,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Uttar Sanjura",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Uttar Sanjura"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669031,
+        421172439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1185487
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"232b1333033bf617c1611631085a8edf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421172439,
+            "locality_id":1360015631,
+            "region_id":85669031
+        }
+    ],
+    "wof:id":1360015631,
+    "wof:lastmodified":1537585703,
+    "wof:name":"Uttar Sanjura",
+    "wof:parent_id":421172439,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.88983,
+    24.60711,
+    88.88983,
+    24.60711
+],
+  "geometry": {"coordinates":[88.88983,24.60711],"type":"Point"}
+}

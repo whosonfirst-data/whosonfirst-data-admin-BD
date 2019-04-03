@@ -1,0 +1,64 @@
+{
+  "id": 1209648745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.75899,24.5018,90.75899,24.5018",
+    "geom:latitude":24.5018,
+    "geom:longitude":90.75899,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3048.0",
+    "gn:admin3_code":"304849.0",
+    "gn:admin4_code":"30484977.0",
+    "gn:asciiname":"Barabhag",
+    "gn:country_code":"BD",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1210702,
+    "gn:latitude":24.5018,
+    "gn:longitude":90.75899,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Barabh\u0101g",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1210702
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"b793d8d2bf9f03da4825b60312271c89",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209648745
+        }
+    ],
+    "wof:id":1209648745,
+    "wof:lastmodified":1536280649,
+    "wof:name":"Barabhag",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.75899,
+    24.5018,
+    90.75899,
+    24.5018
+],
+  "geometry": {"coordinates":[90.75899,24.5018],"type":"Point"}
+}

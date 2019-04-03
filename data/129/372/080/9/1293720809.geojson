@@ -1,0 +1,70 @@
+{
+  "id": 1293720809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.60286,23.54046,90.60286,23.54046",
+    "geom:latitude":23.54046,
+    "geom:longitude":90.60286,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3059",
+    "gn:admin3_code":"305924.0",
+    "gn:admin4_code":"30592442.0",
+    "gn:asciiname":"Mathabhanga",
+    "gn:country_code":"BD",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1194658,
+    "gn:latitude":23.54046,
+    "gn:longitude":90.60286,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"M\u0101th\u0101bh\u0101nga",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421205059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1194658
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"3f5c6825fa63e0994b49b25e04b47caa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421205059,
+            "locality_id":1293720809,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1293720809,
+    "wof:lastmodified":1536948465,
+    "wof:name":"Mathabhanga",
+    "wof:parent_id":421205059,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.60286,
+    23.54046,
+    90.60286,
+    23.54046
+],
+  "geometry": {"coordinates":[90.60286000000001,23.54046],"type":"Point"}
+}

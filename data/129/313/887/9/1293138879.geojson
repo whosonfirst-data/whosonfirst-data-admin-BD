@@ -1,0 +1,70 @@
+{
+  "id": 1293138879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.1,23.61667,91.1,23.61667",
+    "geom:latitude":23.61667,
+    "geom:longitude":91.1,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2019.0",
+    "gn:admin3_code":"201915.0",
+    "gn:admin4_code":"20191518.0",
+    "gn:asciiname":"Dirghabhumi",
+    "gn:country_code":"BD",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1203961,
+    "gn:latitude":23.61667,
+    "gn:longitude":91.1,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"D\u012brgh\u0101bh\u016bmi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421187801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1203961
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"abbfdb143bf8513892564e58e30bc2ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421187801,
+            "locality_id":1293138879,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1293138879,
+    "wof:lastmodified":1536792941,
+    "wof:name":"Dirghabhumi",
+    "wof:parent_id":421187801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.1,
+    23.61667000000001,
+    91.1,
+    23.61667000000001
+],
+  "geometry": {"coordinates":[91.09999999999999,23.61667000000001],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1310628961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.16433,22.90269,90.16433,22.90269",
+    "geom:latitude":22.90269,
+    "geom:longitude":90.16433,
+    "gn:admin1_code":"85",
+    "gn:admin2_code":"1006",
+    "gn:admin3_code":"100694.0",
+    "gn:admin4_code":"10069452.0",
+    "gn:asciiname":"Pirerpar",
+    "gn:country_code":"BD",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1191078,
+    "gn:latitude":22.90269,
+    "gn:longitude":90.16433,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Pirerp\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669019,
+        421187745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1191078
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"7d6053c5ac499f36abde8539c2c19d37",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421187745,
+            "locality_id":1310628961,
+            "region_id":85669019
+        }
+    ],
+    "wof:id":1310628961,
+    "wof:lastmodified":1536738859,
+    "wof:name":"Pirerpar",
+    "wof:parent_id":421187745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.16433,
+    22.90269,
+    90.16433,
+    22.90269
+],
+  "geometry": {"coordinates":[90.16433000000001,22.90269],"type":"Point"}
+}

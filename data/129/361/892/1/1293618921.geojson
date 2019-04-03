@@ -1,0 +1,70 @@
+{
+  "id": 1293618921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.2311,25.06753,90.2311,25.06753",
+    "geom:latitude":25.06753,
+    "geom:longitude":90.2311,
+    "gn:admin1_code":"H",
+    "gn:admin2_code":"3089.0",
+    "gn:admin3_code":"308970.0",
+    "gn:admin4_code":"30897094.0",
+    "gn:asciiname":"Gajakura",
+    "gn:country_code":"BD",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1203115,
+    "gn:latitude":25.06753,
+    "gn:longitude":90.2311,
+    "gn:modification_date":"2016-11-17",
+    "gn:name":"G\u0101jakura",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        1108803101,
+        421190979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1203115
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"3463bd491adbc8127f299c99644003ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421190979,
+            "locality_id":1293618921,
+            "region_id":1108803101
+        }
+    ],
+    "wof:id":1293618921,
+    "wof:lastmodified":1537091656,
+    "wof:name":"Gajakura",
+    "wof:parent_id":421190979,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.2311,
+    25.06753,
+    90.2311,
+    25.06753
+],
+  "geometry": {"coordinates":[90.2311,25.06753],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1276580135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.67615,25.97182,89.67615,25.97182",
+    "geom:latitude":25.97182,
+    "geom:longitude":89.67615,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5549",
+    "gn:admin3_code":"554961.0",
+    "gn:admin4_code":"55496169.0",
+    "gn:asciiname":"Balatari",
+    "gn:country_code":"BD",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7923458,
+    "gn:latitude":25.97182,
+    "gn:longitude":89.67615,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Balatari",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Balatari"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7923458
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"a8cc2a0861c5a3a19350af8a2d8a7fda",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694685,
+            "locality_id":1276580135,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1276580135,
+    "wof:lastmodified":1537586798,
+    "wof:name":"Balatari",
+    "wof:parent_id":1108694685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.67615,
+    25.97182,
+    89.67615,
+    25.97182
+],
+  "geometry": {"coordinates":[89.67615000000001,25.97182],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1344187009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.92328,24.043,88.92328,24.043",
+    "geom:latitude":24.043,
+    "geom:longitude":88.92328,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4050",
+    "gn:admin3_code":"405015.0",
+    "gn:admin4_code":"40501554.0",
+    "gn:asciiname":"Patuakandi",
+    "gn:country_code":"BD",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1192081,
+    "gn:latitude":24.043,
+    "gn:longitude":88.92328,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"P\u0101tu\u0101k\u0101ndi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "P\u0101tu\u0101k\u0101ndi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        890438075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1192081
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"78b493b97c788fd6afd926ca93381d05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":890438075,
+            "locality_id":1344187009,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1344187009,
+    "wof:lastmodified":1537585829,
+    "wof:name":"Patuakandi",
+    "wof:parent_id":890438075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.92328,
+    24.04300000000001,
+    88.92328,
+    24.04300000000001
+],
+  "geometry": {"coordinates":[88.92328000000001,24.04300000000001],"type":"Point"}
+}

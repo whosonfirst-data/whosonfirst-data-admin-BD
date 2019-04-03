@@ -1,0 +1,70 @@
+{
+  "id": 1226175953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.32009,23.51618,90.32009,23.51618",
+    "geom:latitude":23.51618,
+    "geom:longitude":90.32009,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3059",
+    "gn:admin3_code":"305984.0",
+    "gn:admin4_code":"30598454.0",
+    "gn:asciiname":"Pailbhog",
+    "gn:country_code":"BD",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1191457,
+    "gn:latitude":23.51618,
+    "gn:longitude":90.32009,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"P\u0101ilbhog",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421205059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1191457
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"fde26adfc0a56d9db14a33d06f7eec80",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421205059,
+            "locality_id":1226175953,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1226175953,
+    "wof:lastmodified":1537032771,
+    "wof:name":"Pailbhog",
+    "wof:parent_id":421205059,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.32009,
+    23.51618,
+    90.32009,
+    23.51618
+],
+  "geometry": {"coordinates":[90.32008999999999,23.51618],"type":"Point"}
+}

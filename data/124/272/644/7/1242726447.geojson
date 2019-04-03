@@ -1,0 +1,73 @@
+{
+  "id": 1242726447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.98545,21.47319,91.98545,21.47319",
+    "geom:latitude":21.47319,
+    "geom:longitude":91.98545,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2022.0",
+    "gn:admin3_code":"202224.0",
+    "gn:admin4_code":"20222459.0",
+    "gn:asciiname":"Hat Khole",
+    "gn:country_code":"BD",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6415911,
+    "gn:latitude":21.47319,
+    "gn:longitude":91.98545,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"H\u0101t Khole",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "H\u0101t Khole"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421205057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6415911
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"050ce0d0b0eba63a7a09410de4c65095",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421205057,
+            "locality_id":1242726447,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1242726447,
+    "wof:lastmodified":1537586253,
+    "wof:name":"Hat Khole",
+    "wof:parent_id":421205057,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.98545,
+    21.47319,
+    91.98545,
+    21.47319
+],
+  "geometry": {"coordinates":[91.98545,21.47319],"type":"Point"}
+}

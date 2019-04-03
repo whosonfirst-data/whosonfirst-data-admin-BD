@@ -1,0 +1,67 @@
+{
+  "id": 1209039917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.2263,22.45756,89.2263,22.45756",
+    "geom:latitude":22.45756,
+    "geom:longitude":89.2263,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4087.0",
+    "gn:admin3_code":"408704.0",
+    "gn:admin4_code":"40870408.0",
+    "gn:asciiname":"Ghastia",
+    "gn:country_code":"BD",
+    "gn:dem":0,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7485901,
+    "gn:latitude":22.45756,
+    "gn:longitude":89.2263,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Gh\u0101stia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Gh\u0101stia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7485901
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"991ed20419272c1f885eb0b925496efc",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209039917
+        }
+    ],
+    "wof:id":1209039917,
+    "wof:lastmodified":1537586603,
+    "wof:name":"Ghastia",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.2263,
+    22.45756,
+    89.2263,
+    22.45756
+],
+  "geometry": {"coordinates":[89.22629999999999,22.45756],"type":"Point"}
+}

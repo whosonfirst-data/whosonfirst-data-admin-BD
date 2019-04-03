@@ -1,0 +1,74 @@
+{
+  "id": 1259520801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.0156,24.00797,90.0156,24.00797",
+    "geom:latitude":24.00797,
+    "geom:longitude":90.0156,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3056.0",
+    "gn:admin3_code":"305670.0",
+    "gn:admin4_code":"30567019.0",
+    "gn:asciiname":"Garjjana",
+    "gn:country_code":"BD",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1202835,
+    "gn:latitude":24.00797,
+    "gn:longitude":90.0156,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Garjjana",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Garjana",
+        "Garjjana"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421191745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1202835
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"99621a15a864cba3f9cd10f34a6cc7e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421191745,
+            "locality_id":1259520801,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1259520801,
+    "wof:lastmodified":1537586025,
+    "wof:name":"Garjjana",
+    "wof:parent_id":421191745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.0156,
+    24.00797,
+    90.0156,
+    24.00797
+],
+  "geometry": {"coordinates":[90.01560000000001,24.00797],"type":"Point"}
+}

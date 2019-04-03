@@ -1,0 +1,70 @@
+{
+  "id": 1226372559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.31617,25.51975,89.31617,25.51975",
+    "geom:latitude":25.51975,
+    "geom:longitude":89.31617,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5585",
+    "gn:admin3_code":"558558.0",
+    "gn:admin4_code":"55855816.0",
+    "gn:asciiname":"Chhota Hazratpur",
+    "gn:country_code":"BD",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7890327,
+    "gn:latitude":25.51975,
+    "gn:longitude":89.31617,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Chhota Hazratpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7890327
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"cce23b0480e20c8561272451fdf95245",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694701,
+            "locality_id":1226372559,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1226372559,
+    "wof:lastmodified":1536750958,
+    "wof:name":"Chhota Hazratpur",
+    "wof:parent_id":1108694701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.31617,
+    25.51975,
+    89.31617,
+    25.51975
+],
+  "geometry": {"coordinates":[89.31617,25.51975],"type":"Point"}
+}

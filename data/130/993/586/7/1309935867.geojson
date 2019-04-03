@@ -1,0 +1,74 @@
+{
+  "id": 1309935867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.60025,24.94077,90.60025,24.94077",
+    "geom:latitude":24.94077,
+    "geom:longitude":90.60025,
+    "gn:admin1_code":"H",
+    "gn:admin2_code":"3072",
+    "gn:admin3_code":"307283.0",
+    "gn:admin4_code":"30728394.0",
+    "gn:asciiname":"Purbadhala",
+    "gn:country_code":"BD",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":1185133,
+    "gn:latitude":24.94077,
+    "gn:longitude":90.60025,
+    "gn:modification_date":"2016-11-17",
+    "gn:name":"Purbadhala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Purbba Dhala",
+        "Purbadhala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        1108803101,
+        421200811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1185133
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"82fe237270ac0e6bd56b6e4609350139",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421200811,
+            "locality_id":1309935867,
+            "region_id":1108803101
+        }
+    ],
+    "wof:id":1309935867,
+    "wof:lastmodified":1537585687,
+    "wof:name":"Purbadhala",
+    "wof:parent_id":421200811,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.60025,
+    24.94077,
+    90.60025,
+    24.94077
+],
+  "geometry": {"coordinates":[90.60025,24.94077],"type":"Point"}
+}

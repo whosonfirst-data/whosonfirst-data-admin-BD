@@ -1,0 +1,75 @@
+{
+  "id": 1293538093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.15,22.81667,91.15,22.81667",
+    "geom:latitude":22.81667,
+    "geom:longitude":91.15,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2075",
+    "gn:admin3_code":"207589.0",
+    "gn:admin4_code":"20758995.0",
+    "gn:asciiname":"Pachchhim Rajurgaon",
+    "gn:cc2":"BD",
+    "gn:country_code":"BD",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1191637,
+    "gn:latitude":22.81667,
+    "gn:longitude":91.15,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Pachchhim R\u0101jurgaon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "West Rajurgaon",
+        "Pachchhim R\u0101jurgaon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421177051
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1191637
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"141952c7b9e6653d296105618f2e7bcc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421177051,
+            "locality_id":1293538093,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1293538093,
+    "wof:lastmodified":1537585817,
+    "wof:name":"Pachchhim Rajurgaon",
+    "wof:parent_id":421177051,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.15,
+    22.81667,
+    91.15,
+    22.81667
+],
+  "geometry": {"coordinates":[91.15000000000001,22.81667],"type":"Point"}
+}

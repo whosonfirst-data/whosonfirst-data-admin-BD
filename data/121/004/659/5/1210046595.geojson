@@ -1,0 +1,73 @@
+{
+  "id": 1210046595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.50334,25.03734,88.50334,25.03734",
+    "geom:latitude":25.03734,
+    "geom:longitude":88.50334,
+    "gn:admin1_code":"83",
+    "gn:admin2_code":"5064.0",
+    "gn:admin3_code":"506479.0",
+    "gn:admin4_code":"50647923.0",
+    "gn:asciiname":"Paschim Deulia",
+    "gn:country_code":"BD",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7488595,
+    "gn:latitude":25.03734,
+    "gn:longitude":88.50334,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Paschim Deulia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Paschim Deulia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669031,
+        421191663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7488595
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"6729eb08afed784ee3ff52c88752b1a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421191663,
+            "locality_id":1210046595,
+            "region_id":85669031
+        }
+    ],
+    "wof:id":1210046595,
+    "wof:lastmodified":1537586672,
+    "wof:name":"Paschim Deulia",
+    "wof:parent_id":421191663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.50334000000002,
+    25.03734,
+    88.50334000000002,
+    25.03734
+],
+  "geometry": {"coordinates":[88.50334000000002,25.03734],"type":"Point"}
+}

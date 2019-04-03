@@ -1,0 +1,70 @@
+{
+  "id": 1193167407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.788,25.04449,91.788,25.04449",
+    "geom:latitude":25.04449,
+    "geom:longitude":91.788,
+    "gn:admin1_code":"86",
+    "gn:admin2_code":"6091.0",
+    "gn:admin3_code":"609127.0",
+    "gn:admin4_code":"60912747.0",
+    "gn:asciiname":"Barni",
+    "gn:country_code":"BD",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1210102,
+    "gn:latitude":25.04449,
+    "gn:longitude":91.788,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Barni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669025,
+        421187795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1210102
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"9a4aae2c11767677b046b5885bfb2334",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421187795,
+            "locality_id":1193167407,
+            "region_id":85669025
+        }
+    ],
+    "wof:id":1193167407,
+    "wof:lastmodified":1536384170,
+    "wof:name":"Barni",
+    "wof:parent_id":421187795,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.788,
+    25.04449,
+    91.788,
+    25.04449
+],
+  "geometry": {"coordinates":[91.788,25.04449],"type":"Point"}
+}

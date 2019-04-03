@@ -1,0 +1,70 @@
+{
+  "id": 1260217235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.90411,23.56024,89.90411,23.56024",
+    "geom:latitude":23.56024,
+    "geom:longitude":89.90411,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3029.0",
+    "gn:admin3_code":"302947.0",
+    "gn:admin4_code":"30294707.0",
+    "gn:asciiname":"Aliabad",
+    "gn:country_code":"BD",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1212994,
+    "gn:latitude":23.56024,
+    "gn:longitude":89.90411,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"\u0100li\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421198063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1212994
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"9f2df51c1c885db58354894e5411f942",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421198063,
+            "locality_id":1260217235,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1260217235,
+    "wof:lastmodified":1536801910,
+    "wof:name":"Aliabad",
+    "wof:parent_id":421198063,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.90411,
+    23.56024,
+    89.90411,
+    23.56024
+],
+  "geometry": {"coordinates":[89.90411,23.56024],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1343991385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.12604,25.24385,89.12604,25.24385",
+    "geom:latitude":25.24385,
+    "geom:longitude":89.12604,
+    "gn:admin1_code":"87",
+    "gn:asciiname":"Molan",
+    "gn:country_code":"BD",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7888678,
+    "gn:latitude":25.24385,
+    "gn:longitude":89.12604,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Mol\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7888678
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"7061de85cc07c84d42b403d090a5fd18",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694671,
+            "locality_id":1343991385,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1343991385,
+    "wof:lastmodified":1536974887,
+    "wof:name":"Molan",
+    "wof:parent_id":1108694671,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.12604,
+    25.24385,
+    89.12604,
+    25.24385
+],
+  "geometry": {"coordinates":[89.12604,25.24385],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1243209529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.16541,23.76362,90.16541,23.76362",
+    "geom:latitude":23.76362,
+    "geom:longitude":90.16541,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3056",
+    "gn:admin3_code":"305682.0",
+    "gn:admin4_code":"30568277.0",
+    "gn:asciiname":"Sayesta",
+    "gn:country_code":"BD",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":11591969,
+    "gn:latitude":23.76362,
+    "gn:longitude":90.16541,
+    "gn:modification_date":"2017-06-11",
+    "gn:name":"Sayesta",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421191745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11591969
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"7c438934e77a058a8b6b8900608c9a5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421191745,
+            "locality_id":1243209529,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1243209529,
+    "wof:lastmodified":1536649862,
+    "wof:name":"Sayesta",
+    "wof:parent_id":421191745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.16541,
+    23.76362,
+    90.16541,
+    23.76362
+],
+  "geometry": {"coordinates":[90.16540999999999,23.76362],"type":"Point"}
+}

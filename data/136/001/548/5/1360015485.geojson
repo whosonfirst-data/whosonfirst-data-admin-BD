@@ -1,0 +1,70 @@
+{
+  "id": 1360015485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.84236,23.90623,89.84236,23.90623",
+    "geom:latitude":23.90623,
+    "geom:longitude":89.84236,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3056.0",
+    "gn:admin3_code":"305622.0",
+    "gn:admin4_code":"30562247.0",
+    "gn:asciiname":"Bara Thakurkandi",
+    "gn:country_code":"BD",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1210219,
+    "gn:latitude":23.90623,
+    "gn:longitude":89.84236,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Bara Th\u0101kurk\u0101ndi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421191745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1210219
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"cfb13376475b42ff6afff90f9b2a66b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421191745,
+            "locality_id":1360015485,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1360015485,
+    "wof:lastmodified":1537044359,
+    "wof:name":"Bara Thakurkandi",
+    "wof:parent_id":421191745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.84236,
+    23.90623,
+    89.84236,
+    23.90623
+],
+  "geometry": {"coordinates":[89.84236,23.90623],"type":"Point"}
+}

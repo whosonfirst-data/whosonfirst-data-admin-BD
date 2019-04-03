@@ -1,0 +1,73 @@
+{
+  "id": 1210053935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.10105,23.15281,89.10105,23.15281",
+    "geom:latitude":23.15281,
+    "geom:longitude":89.10105,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4041.0",
+    "gn:admin3_code":"404123.0",
+    "gn:admin4_code":"40412353.0",
+    "gn:asciiname":"Phulbari",
+    "gn:country_code":"BD",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7478827,
+    "gn:latitude":23.15281,
+    "gn:longitude":89.10105,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Phulbari",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Phulbari"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        421176039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7478827
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"ac28368b7a7128548f13c9632349bf95",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421176039,
+            "locality_id":1210053935,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1210053935,
+    "wof:lastmodified":1537586402,
+    "wof:name":"Phulbari",
+    "wof:parent_id":421176039,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.10105,
+    23.15281,
+    89.10105,
+    23.15281
+],
+  "geometry": {"coordinates":[89.10105,23.15281],"type":"Point"}
+}

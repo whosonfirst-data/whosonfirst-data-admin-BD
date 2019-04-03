@@ -1,0 +1,70 @@
+{
+  "id": 1226777855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.72746,24.12685,90.72746,24.12685",
+    "geom:latitude":24.12685,
+    "geom:longitude":90.72746,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3068.0",
+    "gn:admin3_code":"306852.0",
+    "gn:admin4_code":"30685294.0",
+    "gn:asciiname":"Gandhardia",
+    "gn:country_code":"BD",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1203025,
+    "gn:latitude":24.12685,
+    "gn:longitude":90.72746,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Gandhardia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421169707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1203025
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"61b771b745d0ac75f2f9dd3d91589f55",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421169707,
+            "locality_id":1226777855,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1226777855,
+    "wof:lastmodified":1536669427,
+    "wof:name":"Gandhardia",
+    "wof:parent_id":421169707,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.72746,
+    24.12685,
+    90.72746,
+    24.12685
+],
+  "geometry": {"coordinates":[90.72745999999999,24.12685],"type":"Point"}
+}

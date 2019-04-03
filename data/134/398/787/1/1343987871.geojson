@@ -1,0 +1,70 @@
+{
+  "id": 1343987871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.43494,24.88573,89.43494,24.88573",
+    "geom:latitude":24.88573,
+    "geom:longitude":89.43494,
+    "gn:admin1_code":"83",
+    "gn:admin2_code":"5010.0",
+    "gn:admin3_code":"501040.0",
+    "gn:admin4_code":"50104061.0",
+    "gn:asciiname":"Hamidpur",
+    "gn:country_code":"BD",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1201651,
+    "gn:latitude":24.88573,
+    "gn:longitude":89.43494,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"H\u0101midpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669031,
+        421187793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1201651
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"2b1814bb7300997b63ede4afca54016d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421187793,
+            "locality_id":1343987871,
+            "region_id":85669031
+        }
+    ],
+    "wof:id":1343987871,
+    "wof:lastmodified":1536979899,
+    "wof:name":"Hamidpur",
+    "wof:parent_id":421187793,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.43494,
+    24.88573,
+    89.43494,
+    24.88573
+],
+  "geometry": {"coordinates":[89.43494,24.88573],"type":"Point"}
+}

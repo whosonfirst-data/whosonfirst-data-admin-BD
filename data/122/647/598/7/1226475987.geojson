@@ -1,0 +1,70 @@
+{
+  "id": 1226475987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.1,24.98333,89.1,24.98333",
+    "geom:latitude":24.98333,
+    "geom:longitude":89.1,
+    "gn:admin1_code":"83",
+    "gn:admin2_code":"5038.0",
+    "gn:admin3_code":"503861.0",
+    "gn:admin4_code":"50386157.0",
+    "gn:asciiname":"Baruil",
+    "gn:country_code":"BD",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1210051,
+    "gn:latitude":24.98333,
+    "gn:longitude":89.1,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"B\u0101ruil",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669031,
+        1108694681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1210051
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"f282fd8c4db15f3c292cb49a011cdcd1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694681,
+            "locality_id":1226475987,
+            "region_id":85669031
+        }
+    ],
+    "wof:id":1226475987,
+    "wof:lastmodified":1537095356,
+    "wof:name":"Baruil",
+    "wof:parent_id":1108694681,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.1,
+    24.98333,
+    89.1,
+    24.98333
+],
+  "geometry": {"coordinates":[89.09999999999999,24.98333],"type":"Point"}
+}

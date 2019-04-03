@@ -1,0 +1,70 @@
+{
+  "id": 1360015813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.40835,24.43474,90.40835,24.43474",
+    "geom:latitude":24.43474,
+    "geom:longitude":90.40835,
+    "gn:admin1_code":"H",
+    "gn:admin2_code":"3061",
+    "gn:admin3_code":"306113.0",
+    "gn:admin4_code":"30611317.0",
+    "gn:asciiname":"Purura",
+    "gn:country_code":"BD",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1190655,
+    "gn:latitude":24.43474,
+    "gn:longitude":90.40835,
+    "gn:modification_date":"2016-11-17",
+    "gn:name":"Purura",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        1108803101,
+        421185469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1190655
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"ddbb0e3c94d556bb6024de00ecf09934",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421185469,
+            "locality_id":1360015813,
+            "region_id":1108803101
+        }
+    ],
+    "wof:id":1360015813,
+    "wof:lastmodified":1537043909,
+    "wof:name":"Purura",
+    "wof:parent_id":421185469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.40835,
+    24.43474,
+    90.40835,
+    24.43474
+],
+  "geometry": {"coordinates":[90.40835,24.43474],"type":"Point"}
+}

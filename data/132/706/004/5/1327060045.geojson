@@ -1,0 +1,73 @@
+{
+  "id": 1327060045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.42383,24.5893,91.42383,24.5893",
+    "geom:latitude":24.5893,
+    "geom:longitude":91.42383,
+    "gn:admin1_code":"86",
+    "gn:admin2_code":"6036.0",
+    "gn:admin3_code":"603611.0",
+    "gn:admin4_code":"60361144.0",
+    "gn:asciiname":"Halimpur",
+    "gn:country_code":"BD",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1212974,
+    "gn:latitude":24.5893,
+    "gn:longitude":91.42383,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Halimpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0100limpur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669025,
+        421176045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1212974
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"c4df563530a886d238118e437bc797cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421176045,
+            "locality_id":1327060045,
+            "region_id":85669025
+        }
+    ],
+    "wof:id":1327060045,
+    "wof:lastmodified":1537586205,
+    "wof:name":"Halimpur",
+    "wof:parent_id":421176045,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.42383,
+    24.5893,
+    91.42383,
+    24.5893
+],
+  "geometry": {"coordinates":[91.42383,24.5893],"type":"Point"}
+}

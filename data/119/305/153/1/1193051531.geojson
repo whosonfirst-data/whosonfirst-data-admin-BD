@@ -1,0 +1,70 @@
+{
+  "id": 1193051531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.65704,23.78177,90.65704,23.78177",
+    "geom:latitude":23.78177,
+    "geom:longitude":90.65704,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3067",
+    "gn:admin3_code":"306702.0",
+    "gn:admin4_code":"30670207.0",
+    "gn:asciiname":"Sibpur",
+    "gn:country_code":"BD",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1188032,
+    "gn:latitude":23.78177,
+    "gn:longitude":90.65704,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Sibpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421197045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1188032
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"ba1fc843b3fec93e555a86c2508732d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421197045,
+            "locality_id":1193051531,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1193051531,
+    "wof:lastmodified":1536365756,
+    "wof:name":"Sibpur",
+    "wof:parent_id":421197045,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.65704,
+    23.78177,
+    90.65704,
+    23.78177
+],
+  "geometry": {"coordinates":[90.65703999999999,23.78177],"type":"Point"}
+}

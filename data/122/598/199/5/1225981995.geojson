@@ -1,0 +1,73 @@
+{
+  "id": 1225981995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.11082,25.80555,89.11082,25.80555",
+    "geom:latitude":25.80555,
+    "geom:longitude":89.11082,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5585",
+    "gn:admin3_code":"558549.0",
+    "gn:admin4_code":"55854931.0",
+    "gn:asciiname":"Malitari",
+    "gn:country_code":"BD",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7924009,
+    "gn:latitude":25.80555,
+    "gn:longitude":89.11082,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"M\u0101litari",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "M\u0101litari"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7924009
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"0a4349e68f82524e21b42c0a71bb7061",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694701,
+            "locality_id":1225981995,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1225981995,
+    "wof:lastmodified":1537586814,
+    "wof:name":"Malitari",
+    "wof:parent_id":1108694701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.11081999999998,
+    25.80555,
+    89.11081999999998,
+    25.80555
+],
+  "geometry": {"coordinates":[89.11081999999998,25.80555],"type":"Point"}
+}

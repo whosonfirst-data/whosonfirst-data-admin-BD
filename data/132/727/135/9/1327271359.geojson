@@ -1,0 +1,76 @@
+{
+  "id": 1327271359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.32101,24.19768,91.32101,24.19768",
+    "geom:latitude":24.19768,
+    "geom:longitude":91.32101,
+    "gn:admin1_code":"86",
+    "gn:admin2_code":"6036.0",
+    "gn:admin3_code":"603671.0",
+    "gn:admin4_code":"60367143.0",
+    "gn:asciiname":"Chhetiain",
+    "gn:country_code":"BD",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1206199,
+    "gn:latitude":24.19768,
+    "gn:longitude":91.32101,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Chh\u0113ti\u0101in",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chh\u0101ti\u0101nin",
+        "Chatian",
+        "Chh\u0101ti\u0101in",
+        "Chh\u0113ti\u0101in"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669025,
+        421176045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1206199
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"5073206a9a0fd1e90b7de02d24ea18d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421176045,
+            "locality_id":1327271359,
+            "region_id":85669025
+        }
+    ],
+    "wof:id":1327271359,
+    "wof:lastmodified":1537586088,
+    "wof:name":"Chhetiain",
+    "wof:parent_id":421176045,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.32101,
+    24.19768,
+    91.32101,
+    24.19768
+],
+  "geometry": {"coordinates":[91.32101,24.19768],"type":"Point"}
+}

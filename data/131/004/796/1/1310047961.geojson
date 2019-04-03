@@ -1,0 +1,73 @@
+{
+  "id": 1310047961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"92.14568,21.30826,92.14568,21.30826",
+    "geom:latitude":21.30826,
+    "geom:longitude":92.14568,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2022.0",
+    "gn:admin3_code":"202294.0",
+    "gn:admin4_code":"20229415.0",
+    "gn:asciiname":"Lambabil",
+    "gn:country_code":"BD",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6416552,
+    "gn:latitude":21.30826,
+    "gn:longitude":92.14568,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"L\u0101mb\u0101b\u012bl",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "L\u0101mb\u0101b\u012bl"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421205057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6416552
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"1805915896f590d74edfd9f5ccb2163c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421205057,
+            "locality_id":1310047961,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1310047961,
+    "wof:lastmodified":1537586265,
+    "wof:name":"Lambabil",
+    "wof:parent_id":421205057,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    92.14568,
+    21.30826,
+    92.14568,
+    21.30826
+],
+  "geometry": {"coordinates":[92.14568,21.30826],"type":"Point"}
+}

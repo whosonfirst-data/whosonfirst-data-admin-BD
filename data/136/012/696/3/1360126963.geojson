@@ -1,0 +1,70 @@
+{
+  "id": 1360126963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.08111,22.9475,91.08111,22.9475",
+    "geom:latitude":22.9475,
+    "geom:longitude":91.08111,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2075.0",
+    "gn:admin3_code":"207507.0",
+    "gn:admin4_code":"20750724.0",
+    "gn:asciiname":"Sonapur",
+    "gn:country_code":"BD",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1462719,
+    "gn:latitude":22.9475,
+    "gn:longitude":91.08111,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Sonapur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421177051
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1462719
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"4c90a41d3f5e6e105c6b26a10ec940c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421177051,
+            "locality_id":1360126963,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1360126963,
+    "wof:lastmodified":1536884761,
+    "wof:name":"Sonapur",
+    "wof:parent_id":421177051,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.08111,
+    22.9475,
+    91.08111,
+    22.9475
+],
+  "geometry": {"coordinates":[91.08111,22.9475],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1327461783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.69613,22.09146,90.69613,22.09146",
+    "geom:latitude":22.09146,
+    "geom:longitude":90.69613,
+    "gn:admin1_code":"82",
+    "gn:asciiname":"Char Sasibhusan",
+    "gn:country_code":"BD",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7477637,
+    "gn:latitude":22.09146,
+    "gn:longitude":90.69613,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"Char Sasibhusan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Char Sasibhusan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669019,
+        421184491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7477637
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"ccc5164b313b03b03889301b93d7751b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421184491,
+            "locality_id":1327461783,
+            "region_id":85669019
+        }
+    ],
+    "wof:id":1327461783,
+    "wof:lastmodified":1537586372,
+    "wof:name":"Char Sasibhusan",
+    "wof:parent_id":421184491,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.69613,
+    22.09146,
+    90.69613,
+    22.09146
+],
+  "geometry": {"coordinates":[90.69613,22.09146],"type":"Point"}
+}

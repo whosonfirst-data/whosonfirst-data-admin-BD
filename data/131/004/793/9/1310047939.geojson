@@ -1,0 +1,73 @@
+{
+  "id": 1310047939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.97533,22.9857,91.97533,22.9857",
+    "geom:latitude":22.9857,
+    "geom:longitude":91.97533,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2046.0",
+    "gn:admin3_code":"204665.0",
+    "gn:admin4_code":"20466547.0",
+    "gn:asciiname":"Manchandrapara",
+    "gn:country_code":"BD",
+    "gn:dem":318,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7477591,
+    "gn:latitude":22.9857,
+    "gn:longitude":91.97533,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Manchandr\u0101p\u0101ra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Manchandr\u0101p\u0101ra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        1108694683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7477591
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"4044d73bc6a0a0513495482948646354",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694683,
+            "locality_id":1310047939,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1310047939,
+    "wof:lastmodified":1537586371,
+    "wof:name":"Manchandrapara",
+    "wof:parent_id":1108694683,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.97533,
+    22.9857,
+    91.97533,
+    22.9857
+],
+  "geometry": {"coordinates":[91.97533,22.9857],"type":"Point"}
+}

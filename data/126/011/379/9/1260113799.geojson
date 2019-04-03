@@ -1,0 +1,70 @@
+{
+  "id": 1260113799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.30002,23.70942,90.30002,23.70942",
+    "geom:latitude":23.70942,
+    "geom:longitude":90.30002,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3026.0",
+    "gn:admin3_code":"302638.0",
+    "gn:admin4_code":"30263825.0",
+    "gn:asciiname":"Belna",
+    "gn:country_code":"BD",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1209610,
+    "gn:latitude":23.70942,
+    "gn:longitude":90.30002,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Belna",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421187803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1209610
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"017dcbf91ddf8c39049c43ac00c750c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421187803,
+            "locality_id":1260113799,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1260113799,
+    "wof:lastmodified":1536944913,
+    "wof:name":"Belna",
+    "wof:parent_id":421187803,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.30002,
+    23.70942,
+    90.30002,
+    23.70942
+],
+  "geometry": {"coordinates":[90.30002,23.70942],"type":"Point"}
+}

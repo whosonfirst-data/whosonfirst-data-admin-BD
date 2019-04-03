@@ -1,0 +1,73 @@
+{
+  "id": 1293913225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.91781,25.41229,88.91781,25.41229",
+    "geom:latitude":25.41229,
+    "geom:longitude":88.91781,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5527.0",
+    "gn:admin3_code":"552738.0",
+    "gn:admin4_code":"55273828.0",
+    "gn:asciiname":"Sankarpur",
+    "gn:country_code":"BD",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7481349,
+    "gn:latitude":25.41229,
+    "gn:longitude":88.91781,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Sankarpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Sankarpur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7481349
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"2470efa8b1de1eb62d58e9ef94850692",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694671,
+            "locality_id":1293913225,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1293913225,
+    "wof:lastmodified":1537586476,
+    "wof:name":"Sankarpur",
+    "wof:parent_id":1108694671,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.91781,
+    25.41229,
+    88.91781,
+    25.41229
+],
+  "geometry": {"coordinates":[88.91781,25.41229],"type":"Point"}
+}

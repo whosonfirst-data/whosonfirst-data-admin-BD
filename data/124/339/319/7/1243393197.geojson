@@ -1,0 +1,70 @@
+{
+  "id": 1243393197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.90721,24.30471,90.90721,24.30471",
+    "geom:latitude":24.30471,
+    "geom:longitude":90.90721,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3048",
+    "gn:admin3_code":"304876.0",
+    "gn:admin4_code":"30487647.0",
+    "gn:asciiname":"Kamalpur",
+    "gn:country_code":"BD",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1198881,
+    "gn:latitude":24.30471,
+    "gn:longitude":90.90721,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"K\u0101m\u0101lpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421170483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1198881
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"edb80b93a6437ef47c47d64db17f0c24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421170483,
+            "locality_id":1243393197,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1243393197,
+    "wof:lastmodified":1536881815,
+    "wof:name":"Kamalpur",
+    "wof:parent_id":421170483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.90721,
+    24.30471,
+    90.90721,
+    24.30471
+],
+  "geometry": {"coordinates":[90.90721000000001,24.30471],"type":"Point"}
+}

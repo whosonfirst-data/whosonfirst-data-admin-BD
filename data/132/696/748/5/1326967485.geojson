@@ -1,0 +1,70 @@
+{
+  "id": 1326967485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.85,24.7,90.85,24.7",
+    "geom:latitude":24.7,
+    "geom:longitude":90.85,
+    "gn:admin1_code":"H",
+    "gn:admin2_code":"3072",
+    "gn:admin3_code":"307247.0",
+    "gn:admin4_code":"30724774.0",
+    "gn:asciiname":"Simulatia",
+    "gn:country_code":"BD",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1187877,
+    "gn:latitude":24.7,
+    "gn:longitude":90.85,
+    "gn:modification_date":"2016-11-17",
+    "gn:name":"Simul\u0101tia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        1108803101,
+        421200811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1187877
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"0f6522016ddb5d85d5fe05c89988cf70",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421200811,
+            "locality_id":1326967485,
+            "region_id":1108803101
+        }
+    ],
+    "wof:id":1326967485,
+    "wof:lastmodified":1536852863,
+    "wof:name":"Simulatia",
+    "wof:parent_id":421200811,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.85,
+    24.7,
+    90.85,
+    24.7
+],
+  "geometry": {"coordinates":[90.84999999999999,24.7],"type":"Point"}
+}

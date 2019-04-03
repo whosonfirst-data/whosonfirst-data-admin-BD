@@ -1,0 +1,73 @@
+{
+  "id": 1259616679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.24814,25.50831,89.24814,25.50831",
+    "geom:latitude":25.50831,
+    "geom:longitude":89.24814,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5585",
+    "gn:admin3_code":"558576.0",
+    "gn:admin4_code":"55857618.0",
+    "gn:asciiname":"Panbari",
+    "gn:country_code":"BD",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7890271,
+    "gn:latitude":25.50831,
+    "gn:longitude":89.24814,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"P\u0101nb\u0101ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "P\u0101nb\u0101ri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7890271
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"f0f6f156ba31feca6d2dd937558b7429",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694701,
+            "locality_id":1259616679,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1259616679,
+    "wof:lastmodified":1537586742,
+    "wof:name":"Panbari",
+    "wof:parent_id":1108694701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.24814,
+    25.50831,
+    89.24814,
+    25.50831
+],
+  "geometry": {"coordinates":[89.24814000000001,25.50831],"type":"Point"}
+}

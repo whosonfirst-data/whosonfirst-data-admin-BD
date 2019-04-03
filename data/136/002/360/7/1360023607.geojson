@@ -1,0 +1,70 @@
+{
+  "id": 1360023607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.94166,23.61454,90.94166,23.61454",
+    "geom:latitude":23.61454,
+    "geom:longitude":90.94166,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2019.0",
+    "gn:admin3_code":"201981.0",
+    "gn:admin4_code":"20198136.0",
+    "gn:asciiname":"Aralia",
+    "gn:country_code":"BD",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1212605,
+    "gn:latitude":23.61454,
+    "gn:longitude":90.94166,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"\u0100r\u0101lia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421187801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1212605
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"a7d40c1c778da53891b2016f54b6d9e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421187801,
+            "locality_id":1360023607,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1360023607,
+    "wof:lastmodified":1537032873,
+    "wof:name":"Aralia",
+    "wof:parent_id":421187801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.94166,
+    23.61454,
+    90.94166,
+    23.61454
+],
+  "geometry": {"coordinates":[90.94166,23.61454],"type":"Point"}
+}

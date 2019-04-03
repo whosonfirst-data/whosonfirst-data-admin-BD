@@ -1,0 +1,76 @@
+{
+  "id": 1243010513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.12199,22.36407,89.12199,22.36407",
+    "geom:latitude":22.36407,
+    "geom:longitude":89.12199,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4087.0",
+    "gn:admin3_code":"408786.0",
+    "gn:admin4_code":"40878655.0",
+    "gn:asciiname":"Deola",
+    "gn:country_code":"BD",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1204665,
+    "gn:latitude":22.36407,
+    "gn:longitude":89.12199,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Deola",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Deola"
+    ],
+    "name:und_x_variant":[
+        "Deol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        421201927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1204665
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"3b3cf2ac23f459489b1d8d52a3b47139",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421201927,
+            "locality_id":1243010513,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1243010513,
+    "wof:lastmodified":1537586061,
+    "wof:name":"Deola",
+    "wof:parent_id":421201927,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.12199,
+    22.36407,
+    89.12199,
+    22.36407
+],
+  "geometry": {"coordinates":[89.12199,22.36407],"type":"Point"}
+}

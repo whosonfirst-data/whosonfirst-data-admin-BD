@@ -1,0 +1,70 @@
+{
+  "id": 1209764089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.1219,24.18357,91.1219,24.18357",
+    "geom:latitude":24.18357,
+    "geom:longitude":91.1219,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2012",
+    "gn:admin3_code":"201290.0",
+    "gn:admin4_code":"20129007.0",
+    "gn:asciiname":"Kutai",
+    "gn:country_code":"BD",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1196473,
+    "gn:latitude":24.18357,
+    "gn:longitude":91.1219,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Kut\u0101i",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        1108694667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1196473
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"c5ed6cd8ccedaff88e7a16fbf2652465",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694667,
+            "locality_id":1209764089,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1209764089,
+    "wof:lastmodified":1536387238,
+    "wof:name":"Kutai",
+    "wof:parent_id":1108694667,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.1219,
+    24.18357,
+    91.1219,
+    24.18357
+],
+  "geometry": {"coordinates":[91.1219,24.18357],"type":"Point"}
+}

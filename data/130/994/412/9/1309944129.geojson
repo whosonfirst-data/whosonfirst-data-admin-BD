@@ -1,0 +1,74 @@
+{
+  "id": 1309944129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.921,23.03255,90.921,23.03255",
+    "geom:latitude":23.03255,
+    "geom:longitude":90.921,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2075",
+    "gn:admin3_code":"207510.0",
+    "gn:admin4_code":"20751085.0",
+    "gn:asciiname":"Shibrampur",
+    "gn:country_code":"BD",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1188133,
+    "gn:latitude":23.03255,
+    "gn:longitude":90.921,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Shibr\u0101mpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sibr\u0101mpur",
+        "Shibr\u0101mpur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421177051
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1188133
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"be6b613f8b04b16d563d0287589d5be9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421177051,
+            "locality_id":1309944129,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1309944129,
+    "wof:lastmodified":1537585753,
+    "wof:name":"Shibrampur",
+    "wof:parent_id":421177051,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.921,
+    23.03255,
+    90.921,
+    23.03255
+],
+  "geometry": {"coordinates":[90.92100000000001,23.03255],"type":"Point"}
+}

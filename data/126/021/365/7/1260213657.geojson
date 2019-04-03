@@ -1,0 +1,77 @@
+{
+  "id": 1260213657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.20243,22.48415,90.20243,22.48415",
+    "geom:latitude":22.48415,
+    "geom:longitude":90.20243,
+    "gn:admin1_code":"85",
+    "gn:admin2_code":"1006",
+    "gn:admin3_code":"100607.0",
+    "gn:admin4_code":"10060781.0",
+    "gn:asciiname":"Niamati",
+    "gn:country_code":"BD",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1192903,
+    "gn:latitude":22.48415,
+    "gn:longitude":90.20243,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Ni\u0101m\u0101ti",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Ni\u0101m\u0101ti"
+    ],
+    "name:und_x_variant":[
+        "Nyamati"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669019,
+        421187745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1192903,
+        "wk:page":"Niamati"
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"28efa02631e7d8dd64e3ca1201d80c32",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421187745,
+            "locality_id":1260213657,
+            "region_id":85669019
+        }
+    ],
+    "wof:id":1260213657,
+    "wof:lastmodified":1537585843,
+    "wof:name":"Niamati",
+    "wof:parent_id":421187745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.20243,
+    22.48415,
+    90.20243,
+    22.48415
+],
+  "geometry": {"coordinates":[90.20243000000001,22.48415],"type":"Point"}
+}

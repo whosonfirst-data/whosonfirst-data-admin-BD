@@ -1,0 +1,70 @@
+{
+  "id": 1277104861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.93984,22.1949,90.93984,22.1949",
+    "geom:latitude":22.1949,
+    "geom:longitude":90.93984,
+    "gn:admin1_code":"82",
+    "gn:asciiname":"Batan Khali",
+    "gn:country_code":"BD",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7477969,
+    "gn:latitude":22.1949,
+    "gn:longitude":90.93984,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"Bat\u0101n Kh\u0101li",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Bat\u0101n Kh\u0101li"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669019,
+        421184491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7477969
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"3f2378961af2112910f07203df526197",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421184491,
+            "locality_id":1277104861,
+            "region_id":85669019
+        }
+    ],
+    "wof:id":1277104861,
+    "wof:lastmodified":1537586380,
+    "wof:name":"Batan Khali",
+    "wof:parent_id":421184491,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.93984,
+    22.1949,
+    90.93984,
+    22.1949
+],
+  "geometry": {"coordinates":[90.93984,22.1949],"type":"Point"}
+}

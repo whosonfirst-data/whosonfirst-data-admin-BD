@@ -1,0 +1,71 @@
+{
+  "id": 1260329855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.07472,23.0225,91.07472,23.0225",
+    "geom:latitude":23.0225,
+    "geom:longitude":91.07472,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2075.0",
+    "gn:admin3_code":"207508.0",
+    "gn:admin4_code":"20750894.0",
+    "gn:asciiname":"Begumganj",
+    "gn:country_code":"BD",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1462748,
+    "gn:latitude":23.0225,
+    "gn:longitude":91.07472,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Begumganj",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421177051
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1462748,
+        "wk:page":"Chowmuhani"
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"f7de4b9c37bbbb2a2d8e49a8146d0fa1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421177051,
+            "locality_id":1260329855,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1260329855,
+    "wof:lastmodified":1537487102,
+    "wof:name":"Begumganj",
+    "wof:parent_id":421177051,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.07472,
+    23.0225,
+    91.07472,
+    23.0225
+],
+  "geometry": {"coordinates":[91.07472,23.0225],"type":"Point"}
+}

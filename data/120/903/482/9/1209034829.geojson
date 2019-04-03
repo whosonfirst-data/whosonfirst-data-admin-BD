@@ -1,0 +1,67 @@
+{
+  "id": 1209034829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.03802,25.10563,90.03802,25.10563",
+    "geom:latitude":25.10563,
+    "geom:longitude":90.03802,
+    "gn:admin1_code":"H",
+    "gn:admin2_code":"3089",
+    "gn:admin3_code":"308937.0",
+    "gn:admin4_code":"30893717.0",
+    "gn:asciiname":"Lar Khan",
+    "gn:country_code":"BD",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7924200,
+    "gn:latitude":25.10563,
+    "gn:longitude":90.03802,
+    "gn:modification_date":"2016-11-17",
+    "gn:name":"L\u0101r Kh\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "L\u0101r Kh\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7924200
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"03dce8ed63d35599731f2d84786a98be",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209034829
+        }
+    ],
+    "wof:id":1209034829,
+    "wof:lastmodified":1537586817,
+    "wof:name":"Lar Khan",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.03801999999997,
+    25.10563,
+    90.03801999999997,
+    25.10563
+],
+  "geometry": {"coordinates":[90.03801999999997,25.10563],"type":"Point"}
+}

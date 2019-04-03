@@ -1,0 +1,77 @@
+{
+  "id": 1310238169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.91336,22.4633,89.91336,22.4633",
+    "geom:latitude":22.4633,
+    "geom:longitude":89.91336,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4001.0",
+    "gn:admin3_code":"400160.0",
+    "gn:admin4_code":"40016041.0",
+    "gn:asciiname":"Bara Badura",
+    "gn:country_code":"BD",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1210780,
+    "gn:latitude":22.4633,
+    "gn:longitude":89.91336,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Bara Badura",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Bara Badura"
+    ],
+    "name:ben_x_variant":[
+        "Bara B\u0101duria"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        421187747
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1210780,
+        "wk:page":"Bara_Baduria"
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"5e7073b015f81088a869c76459ea5ea3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421187747,
+            "locality_id":1310238169,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1310238169,
+    "wof:lastmodified":1537586167,
+    "wof:name":"Bara Badura",
+    "wof:parent_id":421187747,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.91336,
+    22.4633,
+    89.91336,
+    22.4633
+],
+  "geometry": {"coordinates":[89.91336,22.4633],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1226073237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.87108,25.03311,88.87108,25.03311",
+    "geom:latitude":25.03311,
+    "geom:longitude":88.87108,
+    "gn:admin1_code":"83",
+    "gn:admin2_code":"5064.0",
+    "gn:admin3_code":"506475.0",
+    "gn:admin4_code":"50647517.0",
+    "gn:asciiname":"Subaldanga",
+    "gn:country_code":"BD",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7481606,
+    "gn:latitude":25.03311,
+    "gn:longitude":88.87108,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Subald\u0101nga",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Subald\u0101nga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669031,
+        421191663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7481606
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"130a3d1e8338f3004bdad34ef1ed5484",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421191663,
+            "locality_id":1226073237,
+            "region_id":85669031
+        }
+    ],
+    "wof:id":1226073237,
+    "wof:lastmodified":1537586484,
+    "wof:name":"Subaldanga",
+    "wof:parent_id":421191663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.87108,
+    25.03311,
+    88.87108,
+    25.03311
+],
+  "geometry": {"coordinates":[88.87108000000001,25.03311],"type":"Point"}
+}

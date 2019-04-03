@@ -1,0 +1,73 @@
+{
+  "id": 1193167451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.31135,25.42883,89.31135,25.42883",
+    "geom:latitude":25.42883,
+    "geom:longitude":89.31135,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5585",
+    "gn:admin3_code":"558576.0",
+    "gn:admin4_code":"55857669.0",
+    "gn:asciiname":"Gungarampur",
+    "gn:country_code":"BD",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7892025,
+    "gn:latitude":25.42883,
+    "gn:longitude":89.31135,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Gungarampur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Gungarampur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7892025
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"cc41f7587a5157a95e29a116564e3366",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694701,
+            "locality_id":1193167451,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1193167451,
+    "wof:lastmodified":1537586754,
+    "wof:name":"Gungarampur",
+    "wof:parent_id":1108694701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.31135,
+    25.42883,
+    89.31135,
+    25.42883
+],
+  "geometry": {"coordinates":[89.31135,25.42883],"type":"Point"}
+}

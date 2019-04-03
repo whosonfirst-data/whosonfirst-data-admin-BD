@@ -1,0 +1,70 @@
+{
+  "id": 1260110361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.2729,22.9197,90.2729,22.9197",
+    "geom:latitude":22.9197,
+    "geom:longitude":90.2729,
+    "gn:admin1_code":"85",
+    "gn:admin2_code":"1006",
+    "gn:admin3_code":"100632.0",
+    "gn:admin4_code":"10063231.0",
+    "gn:asciiname":"South Bankura",
+    "gn:country_code":"BD",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1187471,
+    "gn:latitude":22.9197,
+    "gn:longitude":90.2729,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"South B\u0101nkura",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669019,
+        421187745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1187471
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"b82c66d9e85f371b52081eaa4b586f4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421187745,
+            "locality_id":1260110361,
+            "region_id":85669019
+        }
+    ],
+    "wof:id":1260110361,
+    "wof:lastmodified":1536949775,
+    "wof:name":"South Bankura",
+    "wof:parent_id":421187745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.2729,
+    22.9197,
+    90.2729,
+    22.9197
+],
+  "geometry": {"coordinates":[90.27290000000001,22.9197],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1310534661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.38846,23.67668,89.38846,23.67668",
+    "geom:latitude":23.67668,
+    "geom:longitude":89.38846,
+    "gn:admin1_code":"81",
+    "gn:asciiname":"Bil Salua",
+    "gn:country_code":"BD",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1208505,
+    "gn:latitude":23.67668,
+    "gn:longitude":89.38846,
+    "gn:modification_date":"2013-02-08",
+    "gn:name":"B\u012bl S\u0101lua",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        1108694699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1208505
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"c660d58b107d44a4b3992eb0f1ccdccc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694699,
+            "locality_id":1310534661,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1310534661,
+    "wof:lastmodified":1536873930,
+    "wof:name":"Bil Salua",
+    "wof:parent_id":1108694699,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.38846,
+    23.67668,
+    89.38846,
+    23.67668
+],
+  "geometry": {"coordinates":[89.38845999999999,23.67668],"type":"Point"}
+}

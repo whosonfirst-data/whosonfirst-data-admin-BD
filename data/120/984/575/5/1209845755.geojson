@@ -1,0 +1,73 @@
+{
+  "id": 1209845755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.20284,25.18486,90.20284,25.18486",
+    "geom:latitude":25.18486,
+    "geom:longitude":90.20284,
+    "gn:admin1_code":"H",
+    "gn:admin2_code":"3089",
+    "gn:admin3_code":"308970.0",
+    "gn:admin4_code":"30897086.0",
+    "gn:asciiname":"Jarultalp",
+    "gn:country_code":"BD",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7922676,
+    "gn:latitude":25.18486,
+    "gn:longitude":90.20284,
+    "gn:modification_date":"2016-11-17",
+    "gn:name":"J\u0101rultalp",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "J\u0101rultalp"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        1108803101,
+        421190979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7922676
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"d1fa56627bb67ba883a65d608db90bf1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421190979,
+            "locality_id":1209845755,
+            "region_id":1108803101
+        }
+    ],
+    "wof:id":1209845755,
+    "wof:lastmodified":1537586789,
+    "wof:name":"Jarultalp",
+    "wof:parent_id":421190979,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.20284,
+    25.18486,
+    90.20284,
+    25.18486
+],
+  "geometry": {"coordinates":[90.20283999999999,25.18486],"type":"Point"}
+}

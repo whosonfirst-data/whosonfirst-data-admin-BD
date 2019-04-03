@@ -1,0 +1,76 @@
+{
+  "id": 1343310477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.88312,22.39685,91.88312,22.39685",
+    "geom:latitude":22.39685,
+    "geom:longitude":91.88312,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2015",
+    "gn:admin3_code":"201541.0",
+    "gn:admin4_code":"20154105.0",
+    "gn:asciiname":"Kalurghat",
+    "gn:country_code":"BD",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1198082,
+    "gn:latitude":22.39685,
+    "gn:longitude":91.88312,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Kalurgh\u0101t",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Kalurgh\u0101t"
+    ],
+    "name:und_x_variant":[
+        "Kaugh\u0101t"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421201541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1198082
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"48d61eb9c8eac1ec013a751dec481788",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421201541,
+            "locality_id":1343310477,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1343310477,
+    "wof:lastmodified":1537585937,
+    "wof:name":"Kalurghat",
+    "wof:parent_id":421201541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.88312,
+    22.39685,
+    91.88312,
+    22.39685
+],
+  "geometry": {"coordinates":[91.88312000000001,22.39685],"type":"Point"}
+}

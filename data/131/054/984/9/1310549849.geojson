@@ -1,0 +1,73 @@
+{
+  "id": 1310549849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.91585,22.25245,91.91585,22.25245",
+    "geom:latitude":22.25245,
+    "geom:longitude":91.91585,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2015",
+    "gn:admin3_code":"201561.0",
+    "gn:admin4_code":"20156164.0",
+    "gn:asciiname":"Paraikora",
+    "gn:country_code":"BD",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1192494,
+    "gn:latitude":22.25245,
+    "gn:longitude":91.91585,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Paraikora",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Paraikora"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421201541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1192494
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"29addc6a19287c0ab0ffbdd9f97655f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421201541,
+            "locality_id":1310549849,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1310549849,
+    "wof:lastmodified":1537585836,
+    "wof:name":"Paraikora",
+    "wof:parent_id":421201541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.91585,
+    22.25245,
+    91.91585,
+    22.25245
+],
+  "geometry": {"coordinates":[91.91585000000001,22.25245],"type":"Point"}
+}

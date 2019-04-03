@@ -1,0 +1,70 @@
+{
+  "id": 1293326133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.23874,23.97184,90.23874,23.97184",
+    "geom:latitude":23.97184,
+    "geom:longitude":90.23874,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3026",
+    "gn:admin3_code":"302672.0",
+    "gn:admin4_code":"30267283.0",
+    "gn:asciiname":"Kaltasuti",
+    "gn:country_code":"BD",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1199004,
+    "gn:latitude":23.97184,
+    "gn:longitude":90.23874,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Kalt\u0101suti",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421187803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1199004
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"cd582b5aabc8b903f786a17807a06975",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421187803,
+            "locality_id":1293326133,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1293326133,
+    "wof:lastmodified":1537018907,
+    "wof:name":"Kaltasuti",
+    "wof:parent_id":421187803,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.23874,
+    23.97184,
+    90.23874,
+    23.97184
+],
+  "geometry": {"coordinates":[90.23874000000001,23.97184],"type":"Point"}
+}

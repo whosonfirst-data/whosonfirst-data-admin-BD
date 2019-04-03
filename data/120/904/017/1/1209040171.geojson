@@ -1,0 +1,64 @@
+{
+  "id": 1209040171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.95927,23.75708,89.95927,23.75708",
+    "geom:latitude":23.75708,
+    "geom:longitude":89.95927,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3056",
+    "gn:admin3_code":"305628.0",
+    "gn:admin4_code":"30562836.0",
+    "gn:asciiname":"Kshetritola",
+    "gn:country_code":"BD",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1196836,
+    "gn:latitude":23.75708,
+    "gn:longitude":89.95927,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Kshetritola",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1196836
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"36ea2bb16c06173bbf024974692a1087",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209040171
+        }
+    ],
+    "wof:id":1209040171,
+    "wof:lastmodified":1536299570,
+    "wof:name":"Kshetritola",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.95926999999998,
+    23.75708,
+    89.95926999999998,
+    23.75708
+],
+  "geometry": {"coordinates":[89.95926999999998,23.75708],"type":"Point"}
+}

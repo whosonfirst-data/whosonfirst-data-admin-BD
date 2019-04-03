@@ -1,0 +1,73 @@
+{
+  "id": 1242907145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.51441,25.80599,89.51441,25.80599",
+    "geom:latitude":25.80599,
+    "geom:longitude":89.51441,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5549",
+    "gn:admin3_code":"554977.0",
+    "gn:admin4_code":"55497773.0",
+    "gn:asciiname":"Singerdabrihat",
+    "gn:country_code":"BD",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7923636,
+    "gn:latitude":25.80599,
+    "gn:longitude":89.51441,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Singerdabrih\u0101t",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Singerdabrih\u0101t"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7923636
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"710dda63f23163d6ec14680eb36a3c56",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694685,
+            "locality_id":1242907145,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1242907145,
+    "wof:lastmodified":1537586804,
+    "wof:name":"Singerdabrihat",
+    "wof:parent_id":1108694685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.51441,
+    25.80599,
+    89.51441,
+    25.80599
+],
+  "geometry": {"coordinates":[89.51441,25.80599],"type":"Point"}
+}

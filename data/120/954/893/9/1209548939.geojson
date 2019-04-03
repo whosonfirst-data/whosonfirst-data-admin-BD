@@ -1,0 +1,67 @@
+{
+  "id": 1209548939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.35831,24.37859,90.35831,24.37859",
+    "geom:latitude":24.37859,
+    "geom:longitude":90.35831,
+    "gn:admin1_code":"H",
+    "gn:admin2_code":"3061.0",
+    "gn:admin3_code":"306113.0",
+    "gn:admin4_code":"30611369.0",
+    "gn:asciiname":"Dhamsir",
+    "gn:country_code":"BD",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1204459,
+    "gn:latitude":24.37859,
+    "gn:longitude":90.35831,
+    "gn:modification_date":"2016-11-17",
+    "gn:name":"Dhamsir",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dh\u0101msur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1204459
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"5d317d4d4ea6127010e03b528c976400",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209548939
+        }
+    ],
+    "wof:id":1209548939,
+    "wof:lastmodified":1537586057,
+    "wof:name":"Dhamsir",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.35831,
+    24.37859,
+    90.35831,
+    24.37859
+],
+  "geometry": {"coordinates":[90.35831,24.37859],"type":"Point"}
+}

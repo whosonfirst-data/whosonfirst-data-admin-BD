@@ -1,0 +1,74 @@
+{
+  "id": 1343389033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.45453,25.17779,89.45453,25.17779",
+    "geom:latitude":25.17779,
+    "geom:longitude":89.45453,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5532",
+    "gn:admin3_code":"553230.0",
+    "gn:admin4_code":"55323067.0",
+    "gn:asciiname":"Kajla",
+    "gn:country_code":"BD",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1199358,
+    "gn:latitude":25.17779,
+    "gn:longitude":89.45453,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"K\u0101jla",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kazla",
+        "K\u0101jla"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1199358
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"25c226e385a36231a4cdd1f94cc1cc99",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694675,
+            "locality_id":1343389033,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1343389033,
+    "wof:lastmodified":1537585958,
+    "wof:name":"Kajla",
+    "wof:parent_id":1108694675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.45453,
+    25.17779,
+    89.45453,
+    25.17779
+],
+  "geometry": {"coordinates":[89.45453000000001,25.17779],"type":"Point"}
+}

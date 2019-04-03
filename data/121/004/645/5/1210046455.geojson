@@ -1,0 +1,73 @@
+{
+  "id": 1210046455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.46228,25.6111,89.46228,25.6111",
+    "geom:latitude":25.6111,
+    "geom:longitude":89.46228,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5585",
+    "gn:admin3_code":"558573.0",
+    "gn:admin4_code":"55857357.0",
+    "gn:asciiname":"Kandi Machhbari",
+    "gn:country_code":"BD",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7889539,
+    "gn:latitude":25.6111,
+    "gn:longitude":89.46228,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"K\u0101ndi Machhb\u0101ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "K\u0101ndi Machhb\u0101ri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7889539
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"a65c0cc2abd99330743d1325a0d45f2b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694701,
+            "locality_id":1210046455,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1210046455,
+    "wof:lastmodified":1537586734,
+    "wof:name":"Kandi Machhbari",
+    "wof:parent_id":1108694701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.46228,
+    25.6111,
+    89.46228,
+    25.6111
+],
+  "geometry": {"coordinates":[89.46228000000001,25.6111],"type":"Point"}
+}

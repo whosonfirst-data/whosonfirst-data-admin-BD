@@ -1,0 +1,70 @@
+{
+  "id": 1344086807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.32698,23.53947,90.32698,23.53947",
+    "geom:latitude":23.53947,
+    "geom:longitude":90.32698,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3059.0",
+    "gn:admin3_code":"305984.0",
+    "gn:admin4_code":"30598406.0",
+    "gn:asciiname":"Hasargaon",
+    "gn:country_code":"BD",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1201301,
+    "gn:latitude":23.53947,
+    "gn:longitude":90.32698,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"H\u0101s\u0101rgaon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421205059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1201301
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"3943f1766e968d90a78f68a9c2a51cdc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421205059,
+            "locality_id":1344086807,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1344086807,
+    "wof:lastmodified":1536836688,
+    "wof:name":"Hasargaon",
+    "wof:parent_id":421205059,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.32698,
+    23.53947,
+    90.32698,
+    23.53947
+],
+  "geometry": {"coordinates":[90.32698000000001,23.53947],"type":"Point"}
+}

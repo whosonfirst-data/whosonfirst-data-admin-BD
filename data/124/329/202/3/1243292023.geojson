@@ -1,0 +1,70 @@
+{
+  "id": 1243292023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.80048,25.05101,89.80048,25.05101",
+    "geom:latitude":25.05101,
+    "geom:longitude":89.80048,
+    "gn:admin1_code":"H",
+    "gn:admin2_code":"3039",
+    "gn:admin3_code":"303961.0",
+    "gn:admin4_code":"30396128.0",
+    "gn:asciiname":"Hamla",
+    "gn:country_code":"BD",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7914730,
+    "gn:latitude":25.05101,
+    "gn:longitude":89.80048,
+    "gn:modification_date":"2016-11-17",
+    "gn:name":"Hamla",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        1108803101,
+        421191923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7914730
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"fac0f7b15100c3e515a643f66c58871a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421191923,
+            "locality_id":1243292023,
+            "region_id":1108803101
+        }
+    ],
+    "wof:id":1243292023,
+    "wof:lastmodified":1537027080,
+    "wof:name":"Hamla",
+    "wof:parent_id":421191923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.80048000000002,
+    25.05101,
+    89.80048000000002,
+    25.05101
+],
+  "geometry": {"coordinates":[89.80048000000002,25.05101],"type":"Point"}
+}

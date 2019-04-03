@@ -1,0 +1,73 @@
+{
+  "id": 1343399143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"92.1873,22.38997,92.1873,22.38997",
+    "geom:latitude":22.38997,
+    "geom:longitude":92.1873,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2084.0",
+    "gn:admin3_code":"208436.0",
+    "gn:admin4_code":"20843676.0",
+    "gn:asciiname":"Muru Khyong Para",
+    "gn:country_code":"BD",
+    "gn:dem":57,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":6416266,
+    "gn:latitude":22.38997,
+    "gn:longitude":92.1873,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Muru Khyong Para",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Muru Khyong Para"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421188983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6416266
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"1cc8527e1eb7bc7e4c0a4e4b9ca68b9a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421188983,
+            "locality_id":1343399143,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1343399143,
+    "wof:lastmodified":1537586259,
+    "wof:name":"Muru Khyong Para",
+    "wof:parent_id":421188983,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    92.1873,
+    22.38997,
+    92.1873,
+    22.38997
+],
+  "geometry": {"coordinates":[92.18729999999999,22.38997],"type":"Point"}
+}

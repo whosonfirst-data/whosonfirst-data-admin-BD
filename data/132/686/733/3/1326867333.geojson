@@ -1,0 +1,70 @@
+{
+  "id": 1326867333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.96667,24.3,89.96667,24.3",
+    "geom:latitude":24.3,
+    "geom:longitude":89.96667,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3093",
+    "gn:admin3_code":"309347.0",
+    "gn:admin4_code":"30934780.0",
+    "gn:asciiname":"Kharshila",
+    "gn:country_code":"BD",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1197516,
+    "gn:latitude":24.3,
+    "gn:longitude":89.96667,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Kharshila",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421185471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1197516
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"131c878ad1ec13052f63dc843d26d770",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421185471,
+            "locality_id":1326867333,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1326867333,
+    "wof:lastmodified":1536997325,
+    "wof:name":"Kharshila",
+    "wof:parent_id":421185471,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.96667,
+    24.3,
+    89.96667,
+    24.3
+],
+  "geometry": {"coordinates":[89.96666999999999,24.3],"type":"Point"}
+}

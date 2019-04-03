@@ -1,0 +1,70 @@
+{
+  "id": 1276904847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.9999,25.26344,89.9999,25.26344",
+    "geom:latitude":25.26344,
+    "geom:longitude":89.9999,
+    "gn:admin1_code":"H",
+    "gn:admin2_code":"3089",
+    "gn:admin3_code":"308990.0",
+    "gn:admin4_code":"30899071.0",
+    "gn:asciiname":"Balajuri",
+    "gn:country_code":"BD",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7912466,
+    "gn:latitude":25.26344,
+    "gn:longitude":89.9999,
+    "gn:modification_date":"2016-11-17",
+    "gn:name":"B\u0101l\u0101juri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        1108803101,
+        421190979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7912466
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"ea2fa54898a4d02e63d690a38a15393e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421190979,
+            "locality_id":1276904847,
+            "region_id":1108803101
+        }
+    ],
+    "wof:id":1276904847,
+    "wof:lastmodified":1537007168,
+    "wof:name":"Balajuri",
+    "wof:parent_id":421190979,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.9999,
+    25.26344,
+    89.9999,
+    25.26344
+],
+  "geometry": {"coordinates":[89.9999,25.26344],"type":"Point"}
+}

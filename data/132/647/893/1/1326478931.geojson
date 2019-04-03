@@ -1,0 +1,76 @@
+{
+  "id": 1326478931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.19167,23.03,91.19167,23.03",
+    "geom:latitude":23.03,
+    "geom:longitude":91.19167,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2075.0",
+    "gn:admin3_code":"207580.0",
+    "gn:admin4_code":"20758066.0",
+    "gn:asciiname":"Arjuntala",
+    "gn:cc2":"BD",
+    "gn:country_code":"BD",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1212500,
+    "gn:latitude":23.03,
+    "gn:longitude":91.19167,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Arjuntala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Arjuntola",
+        "Arjjuntala",
+        "Arjuntala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421177051
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1212500
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"342accaa04aefe66ab0c9e40939f3bd8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421177051,
+            "locality_id":1326478931,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1326478931,
+    "wof:lastmodified":1537586197,
+    "wof:name":"Arjuntala",
+    "wof:parent_id":421177051,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.19167,
+    23.03,
+    91.19167,
+    23.03
+],
+  "geometry": {"coordinates":[91.19167,23.03],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1209034951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.6265,25.76277,88.6265,25.76277",
+    "geom:latitude":25.76277,
+    "geom:longitude":88.6265,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5527.0",
+    "gn:admin3_code":"552756.0",
+    "gn:admin4_code":"55275647.0",
+    "gn:asciiname":"Ishanpur",
+    "gn:country_code":"BD",
+    "gn:dem":41,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7105888,
+    "gn:latitude":25.76277,
+    "gn:longitude":88.6265,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Ish\u0101npur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Ish\u0101npur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7105888
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"0f32fabfb3ec1daff6d8673cd611ddd5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209034951
+        }
+    ],
+    "wof:id":1209034951,
+    "wof:lastmodified":1537586315,
+    "wof:name":"Ishanpur",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.6265,
+    25.76277,
+    88.6265,
+    25.76277
+],
+  "geometry": {"coordinates":[88.62649999999999,25.76277],"type":"Point"}
+}

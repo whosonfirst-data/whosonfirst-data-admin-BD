@@ -1,0 +1,73 @@
+{
+  "id": 1243097173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.58856,23.83882,88.58856,23.83882",
+    "geom:latitude":23.83882,
+    "geom:longitude":88.58856,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4057.0",
+    "gn:admin3_code":"405787.0",
+    "gn:admin4_code":"40578757.0",
+    "gn:asciiname":"Rudranagar",
+    "gn:country_code":"BD",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7484079,
+    "gn:latitude":23.83882,
+    "gn:longitude":88.58856,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Rudranagar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Rudranagar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632469,
+        85672219,
+        1108696075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7484079
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"21e92f3500c37439f7efee89fb08d937",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108696075,
+            "locality_id":1243097173,
+            "region_id":85672219
+        }
+    ],
+    "wof:id":1243097173,
+    "wof:lastmodified":1537586555,
+    "wof:name":"Rudranagar",
+    "wof:parent_id":1108696075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.58856,
+    23.83882,
+    88.58856,
+    23.83882
+],
+  "geometry": {"coordinates":[88.58856,23.83882],"type":"Point"}
+}

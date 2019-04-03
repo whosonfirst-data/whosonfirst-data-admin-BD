@@ -1,0 +1,73 @@
+{
+  "id": 1327171495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.25365,25.43086,89.25365,25.43086",
+    "geom:latitude":25.43086,
+    "geom:longitude":89.25365,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5585",
+    "gn:admin3_code":"558576.0",
+    "gn:admin4_code":"55857650.0",
+    "gn:asciiname":"Dhare Kol",
+    "gn:country_code":"BD",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7891671,
+    "gn:latitude":25.43086,
+    "gn:longitude":89.25365,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Dhare Kol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Dhare Kol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7891671
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"b7b3c0dc9c98766319b1585948acc90f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694701,
+            "locality_id":1327171495,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1327171495,
+    "wof:lastmodified":1537586753,
+    "wof:name":"Dhare Kol",
+    "wof:parent_id":1108694701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.25365,
+    25.43086,
+    89.25365,
+    25.43086
+],
+  "geometry": {"coordinates":[89.25364999999999,25.43086],"type":"Point"}
+}

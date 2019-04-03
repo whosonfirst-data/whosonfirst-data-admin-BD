@@ -1,0 +1,75 @@
+{
+  "id": 1193206301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.13333,23.53333,91.13333,23.53333",
+    "geom:latitude":23.53333,
+    "geom:longitude":91.13333,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2019.0",
+    "gn:admin3_code":"201918.0",
+    "gn:admin4_code":"20191894.0",
+    "gn:asciiname":"Ghazipur",
+    "gn:cc2":"BD",
+    "gn:country_code":"BD",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1202608,
+    "gn:latitude":23.53333,
+    "gn:longitude":91.13333,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Gh\u0101z\u012bpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gazipur",
+        "Gh\u0101z\u012bpur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421187801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1202608
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"b31bb15828c819c87d610c9e093412a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421187801,
+            "locality_id":1193206301,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1193206301,
+    "wof:lastmodified":1537586020,
+    "wof:name":"Ghazipur",
+    "wof:parent_id":421187801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.13333,
+    23.53333,
+    91.13333,
+    23.53333
+],
+  "geometry": {"coordinates":[91.13333,23.53333],"type":"Point"}
+}

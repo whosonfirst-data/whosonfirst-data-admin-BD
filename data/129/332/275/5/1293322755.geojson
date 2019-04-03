@@ -1,0 +1,74 @@
+{
+  "id": 1293322755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.5863,23.54982,89.5863,23.54982",
+    "geom:latitude":23.54982,
+    "geom:longitude":89.5863,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3029",
+    "gn:admin3_code":"302956.0",
+    "gn:admin4_code":"30295663.0",
+    "gn:asciiname":"Konrakdi",
+    "gn:country_code":"BD",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1196989,
+    "gn:latitude":23.54982,
+    "gn:longitude":89.5863,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Konrakdi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Korakdi",
+        "Konrakdi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421198063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1196989
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"6df32b669ea5b0e9cf6e1b2055f588f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421198063,
+            "locality_id":1293322755,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1293322755,
+    "wof:lastmodified":1537585914,
+    "wof:name":"Konrakdi",
+    "wof:parent_id":421198063,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.5863,
+    23.54982,
+    89.5863,
+    23.54982
+],
+  "geometry": {"coordinates":[89.58629999999999,23.54982],"type":"Point"}
+}

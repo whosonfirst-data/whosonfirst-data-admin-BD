@@ -1,0 +1,73 @@
+{
+  "id": 1259516627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.17767,25.99585,88.17767,25.99585",
+    "geom:latitude":25.99585,
+    "geom:longitude":88.17767,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5594.0",
+    "gn:admin3_code":"559486.0",
+    "gn:admin4_code":"55948631.0",
+    "gn:asciiname":"Gorpara Dharmagar",
+    "gn:country_code":"BD",
+    "gn:dem":51,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7487500,
+    "gn:latitude":25.99585,
+    "gn:longitude":88.17767,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Gorpara Dharmagar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Gorpara Dharmagar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7487500
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"5dba68c81c2f3773ac05a9168a855b0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694703,
+            "locality_id":1259516627,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1259516627,
+    "wof:lastmodified":1537586641,
+    "wof:name":"Gorpara Dharmagar",
+    "wof:parent_id":1108694703,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.17766999999998,
+    25.99585,
+    88.17766999999998,
+    25.99585
+],
+  "geometry": {"coordinates":[88.17766999999998,25.99585],"type":"Point"}
+}

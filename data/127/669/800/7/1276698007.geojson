@@ -1,0 +1,73 @@
+{
+  "id": 1276698007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"92.19688,21.46137,92.19688,21.46137",
+    "geom:latitude":21.46137,
+    "geom:longitude":92.19688,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2022.0",
+    "gn:admin3_code":"202266.0",
+    "gn:admin4_code":"20226619.0",
+    "gn:asciiname":"Jaospara",
+    "gn:country_code":"BD",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6416726,
+    "gn:latitude":21.46137,
+    "gn:longitude":92.19688,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Jaosp\u0101ra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Jaosp\u0101ra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421205057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6416726
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"46a6956f2f87d32f8fc67c2b8c6587ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421205057,
+            "locality_id":1276698007,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1276698007,
+    "wof:lastmodified":1537586269,
+    "wof:name":"Jaospara",
+    "wof:parent_id":421205057,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    92.19688,
+    21.46137,
+    92.19688,
+    21.46137
+],
+  "geometry": {"coordinates":[92.19687999999999,21.46137],"type":"Point"}
+}

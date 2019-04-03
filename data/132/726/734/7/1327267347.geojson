@@ -1,0 +1,73 @@
+{
+  "id": 1327267347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.09866,25.28137,89.09866,25.28137",
+    "geom:latitude":25.28137,
+    "geom:longitude":89.09866,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5527",
+    "gn:admin3_code":"552747.0",
+    "gn:admin4_code":"55274713.0",
+    "gn:asciiname":"Hariharpur",
+    "gn:country_code":"BD",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8065008,
+    "gn:latitude":25.28137,
+    "gn:longitude":89.09866,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Hariharpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Hariharpur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8065008
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"adc462e5d5d16ea009eb6093099c9b37",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694671,
+            "locality_id":1327267347,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1327267347,
+    "wof:lastmodified":1537586857,
+    "wof:name":"Hariharpur",
+    "wof:parent_id":1108694671,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.09866,
+    25.28137000000001,
+    89.09866,
+    25.28137000000001
+],
+  "geometry": {"coordinates":[89.09866,25.28137000000001],"type":"Point"}
+}

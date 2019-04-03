@@ -1,0 +1,70 @@
+{
+  "id": 1226683633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.43395,22.48084,90.43395,22.48084",
+    "geom:latitude":22.48084,
+    "geom:longitude":90.43395,
+    "gn:admin1_code":"82",
+    "gn:asciiname":"Char Mayna",
+    "gn:country_code":"BD",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7476655,
+    "gn:latitude":22.48084,
+    "gn:longitude":90.43395,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"Char Mayna",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Char Mayna"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669019,
+        421187745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7476655
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"30e8fcbf9a4ae0d8637846db32043cac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421187745,
+            "locality_id":1226683633,
+            "region_id":85669019
+        }
+    ],
+    "wof:id":1226683633,
+    "wof:lastmodified":1537586350,
+    "wof:name":"Char Mayna",
+    "wof:parent_id":421187745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.43395,
+    22.48084,
+    90.43395,
+    22.48084
+],
+  "geometry": {"coordinates":[90.43395,22.48084],"type":"Point"}
+}

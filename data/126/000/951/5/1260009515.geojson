@@ -1,0 +1,70 @@
+{
+  "id": 1260009515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.00504,24.46765,90.00504,24.46765",
+    "geom:latitude":24.46765,
+    "geom:longitude":90.00504,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3093.0",
+    "gn:admin3_code":"309328.0",
+    "gn:admin4_code":"30932869.0",
+    "gn:asciiname":"Chamtara",
+    "gn:country_code":"BD",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1207532,
+    "gn:latitude":24.46765,
+    "gn:longitude":90.00504,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Ch\u0101mt\u0101ra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421185471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1207532
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"0ceae65b1c4c87c1eb21a74b5d456fcf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421185471,
+            "locality_id":1260009515,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1260009515,
+    "wof:lastmodified":1537091344,
+    "wof:name":"Chamtara",
+    "wof:parent_id":421185471,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.00504000000002,
+    24.46765,
+    90.00504000000002,
+    24.46765
+],
+  "geometry": {"coordinates":[90.00504000000002,24.46765],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1309754631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.19642,23.1015,91.19642,23.1015",
+    "geom:latitude":23.1015,
+    "geom:longitude":91.19642,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2019",
+    "gn:admin3_code":"201987.0",
+    "gn:admin4_code":"20198760.0",
+    "gn:asciiname":"Jodda",
+    "gn:country_code":"BD",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1199819,
+    "gn:latitude":23.1015,
+    "gn:longitude":91.19642,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Jodda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421187801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1199819
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"7679882f6d071ae2c74ce28364b97827",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421187801,
+            "locality_id":1309754631,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1309754631,
+    "wof:lastmodified":1537004213,
+    "wof:name":"Jodda",
+    "wof:parent_id":421187801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.19642,
+    23.1015,
+    91.19642,
+    23.1015
+],
+  "geometry": {"coordinates":[91.19642,23.1015],"type":"Point"}
+}

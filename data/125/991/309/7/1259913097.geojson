@@ -1,0 +1,73 @@
+{
+  "id": 1259913097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.96788,23.47446,88.96788,23.47446",
+    "geom:latitude":23.47446,
+    "geom:longitude":88.96788,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4044.0",
+    "gn:admin3_code":"404442.0",
+    "gn:admin4_code":"40444227.0",
+    "gn:asciiname":"Chhay Khada",
+    "gn:country_code":"BD",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7485155,
+    "gn:latitude":23.47446,
+    "gn:longitude":88.96788,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Chhay Khada",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Chhay Khada"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        1108694679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7485155
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"07465587cc2d1b2141a2d2bdd4ec9f06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694679,
+            "locality_id":1259913097,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1259913097,
+    "wof:lastmodified":1537586583,
+    "wof:name":"Chhay Khada",
+    "wof:parent_id":1108694679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.96788000000002,
+    23.47446,
+    88.96788000000002,
+    23.47446
+],
+  "geometry": {"coordinates":[88.96788000000002,23.47446],"type":"Point"}
+}

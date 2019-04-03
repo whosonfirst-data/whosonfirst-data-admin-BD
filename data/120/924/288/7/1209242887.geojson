@@ -1,0 +1,67 @@
+{
+  "id": 1209242887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.8927,24.16338,88.8927,24.16338",
+    "geom:latitude":24.16338,
+    "geom:longitude":88.8927,
+    "gn:admin1_code":"83",
+    "gn:admin2_code":"5081",
+    "gn:admin3_code":"508110.0",
+    "gn:admin4_code":"50811055.0",
+    "gn:asciiname":"Ramkrishnapur",
+    "gn:country_code":"BD",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1190044,
+    "gn:latitude":24.16338,
+    "gn:longitude":88.8927,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"R\u0101mkrishnapur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "R\u0101mkrishnapur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1190044
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"234dcac7c1c802dee701861a0f0c134f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209242887
+        }
+    ],
+    "wof:id":1209242887,
+    "wof:lastmodified":1537585790,
+    "wof:name":"Ramkrishnapur",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.8927,
+    24.16338,
+    88.8927,
+    24.16338
+],
+  "geometry": {"coordinates":[88.8927,24.16338],"type":"Point"}
+}

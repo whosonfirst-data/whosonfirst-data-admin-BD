@@ -1,0 +1,70 @@
+{
+  "id": 1310435275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.05261,23.75746,90.05261,23.75746",
+    "geom:latitude":23.75746,
+    "geom:longitude":90.05261,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3056.0",
+    "gn:admin3_code":"305646.0",
+    "gn:admin4_code":"30564639.0",
+    "gn:asciiname":"Band Mahisha",
+    "gn:country_code":"BD",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1211047,
+    "gn:latitude":23.75746,
+    "gn:longitude":90.05261,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"B\u0101nd Mahisha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421191745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1211047
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"0831668ed0212eb92ce9c93278e25357",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421191745,
+            "locality_id":1310435275,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1310435275,
+    "wof:lastmodified":1537017699,
+    "wof:name":"Band Mahisha",
+    "wof:parent_id":421191745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.05261,
+    23.75746,
+    90.05261,
+    23.75746
+],
+  "geometry": {"coordinates":[90.05261,23.75746],"type":"Point"}
+}

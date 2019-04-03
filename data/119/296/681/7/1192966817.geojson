@@ -1,0 +1,70 @@
+{
+  "id": 1192966817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.83344,23.03359,90.83344,23.03359",
+    "geom:latitude":23.03359,
+    "geom:longitude":90.83344,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2051",
+    "gn:admin3_code":"205143.0",
+    "gn:admin4_code":"20514375.0",
+    "gn:asciiname":"Sabilpur",
+    "gn:country_code":"BD",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1189412,
+    "gn:latitude":23.03359,
+    "gn:longitude":90.83344,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Sabilpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421166521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1189412
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"288c3cf38feae41b5013b0a283976e62",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421166521,
+            "locality_id":1192966817,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1192966817,
+    "wof:lastmodified":1536382572,
+    "wof:name":"Sabilpur",
+    "wof:parent_id":421166521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.83344,
+    23.03359,
+    90.83344,
+    23.03359
+],
+  "geometry": {"coordinates":[90.83344,23.03359],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1226372411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.56974,24.3944,88.56974,24.3944",
+    "geom:latitude":24.3944,
+    "geom:longitude":88.56974,
+    "gn:admin1_code":"83",
+    "gn:admin2_code":"5081.0",
+    "gn:admin3_code":"508172.0",
+    "gn:admin4_code":"50817231.0",
+    "gn:asciiname":"Aligonj",
+    "gn:country_code":"BD",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1212982,
+    "gn:latitude":24.3944,
+    "gn:longitude":88.56974,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Aligonj",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Aligonj"
+    ],
+    "name:ben_x_variant":[
+        "\u0100liganja"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669031,
+        421172439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1212982
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"5403d8b282514f182f78462f426d217b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421172439,
+            "locality_id":1226372411,
+            "region_id":85669031
+        }
+    ],
+    "wof:id":1226372411,
+    "wof:lastmodified":1537586205,
+    "wof:name":"Aligonj",
+    "wof:parent_id":421172439,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.56974,
+    24.3944,
+    88.56974,
+    24.3944
+],
+  "geometry": {"coordinates":[88.56974,24.3944],"type":"Point"}
+}

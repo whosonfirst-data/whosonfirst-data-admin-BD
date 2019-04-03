@@ -1,0 +1,67 @@
+{
+  "id": 1209136011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.66867,23.04351,89.66867,23.04351",
+    "geom:latitude":23.04351,
+    "geom:longitude":89.66867,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4065.0",
+    "gn:admin3_code":"406528.0",
+    "gn:admin4_code":"40652895.0",
+    "gn:asciiname":"Baladanga",
+    "gn:country_code":"BD",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7480159,
+    "gn:latitude":23.04351,
+    "gn:longitude":89.66867,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Bal\u0101danga",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Bal\u0101danga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7480159
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"dce0156cd111b9da12a6cf4acde5aa15",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209136011
+        }
+    ],
+    "wof:id":1209136011,
+    "wof:lastmodified":1537586441,
+    "wof:name":"Baladanga",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.66866999999998,
+    23.04351,
+    89.66866999999998,
+    23.04351
+],
+  "geometry": {"coordinates":[89.66866999999998,23.04351],"type":"Point"}
+}

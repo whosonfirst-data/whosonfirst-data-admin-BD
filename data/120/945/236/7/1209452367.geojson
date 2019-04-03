@@ -1,0 +1,67 @@
+{
+  "id": 1209452367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.19976,25.33032,89.19976,25.33032",
+    "geom:latitude":25.33032,
+    "geom:longitude":89.19976,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5527",
+    "gn:admin3_code":"552743.0",
+    "gn:admin4_code":"55274319.0",
+    "gn:asciiname":"Baratipur",
+    "gn:country_code":"BD",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8064786,
+    "gn:latitude":25.33032,
+    "gn:longitude":89.19976,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Baratipur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Baratipur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8064786
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"b0c3dce24257c63a1c791847a493ddc6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209452367
+        }
+    ],
+    "wof:id":1209452367,
+    "wof:lastmodified":1537586848,
+    "wof:name":"Baratipur",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.19976,
+    25.33032,
+    89.19976,
+    25.33032
+],
+  "geometry": {"coordinates":[89.19976,25.33032],"type":"Point"}
+}

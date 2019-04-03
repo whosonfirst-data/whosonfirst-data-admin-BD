@@ -1,0 +1,74 @@
+{
+  "id": 1243109665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.82304,23.45312,90.82304,23.45312",
+    "geom:latitude":23.45312,
+    "geom:longitude":90.82304,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2013.0",
+    "gn:admin3_code":"201358.0",
+    "gn:admin4_code":"20135879.0",
+    "gn:asciiname":"Chinaia Arazi",
+    "gn:country_code":"BD",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1205790,
+    "gn:latitude":23.45312,
+    "gn:longitude":90.82304,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Chin\u0101ia \u0100r\u0101zi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chinaia Araji",
+        "Chin\u0101ia \u0100r\u0101zi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        1108694669
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1205790
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"63c0af8886371c3a609281cbfd0f3148",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694669,
+            "locality_id":1243109665,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1243109665,
+    "wof:lastmodified":1537586081,
+    "wof:name":"Chinaia Arazi",
+    "wof:parent_id":1108694669,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.82304,
+    23.45312,
+    90.82304,
+    23.45312
+],
+  "geometry": {"coordinates":[90.82304000000001,23.45312],"type":"Point"}
+}

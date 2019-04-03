@@ -1,0 +1,70 @@
+{
+  "id": 1343995345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.78525,22.54161,89.78525,22.54161",
+    "geom:latitude":22.54161,
+    "geom:longitude":89.78525,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4001.0",
+    "gn:admin3_code":"400160.0",
+    "gn:admin4_code":"40016077.0",
+    "gn:asciiname":"Debraj",
+    "gn:country_code":"BD",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1204747,
+    "gn:latitude":22.54161,
+    "gn:longitude":89.78525,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Debr\u0101j",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        421187747
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1204747
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"3dfb6955f987eadc8584b203eb72b24e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421187747,
+            "locality_id":1343995345,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1343995345,
+    "wof:lastmodified":1536969209,
+    "wof:name":"Debraj",
+    "wof:parent_id":421187747,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.78525,
+    22.54161,
+    89.78525,
+    22.54161
+],
+  "geometry": {"coordinates":[89.78525,22.54161],"type":"Point"}
+}

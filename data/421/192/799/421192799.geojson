@@ -1,0 +1,76 @@
+{
+  "id": 421192799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.51407,23.6989,90.51407,23.6989",
+    "geom:latitude":23.6989,
+    "geom:longitude":90.51407,
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"BD",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":1212304,
+    "qs:gn_pop":0,
+    "qs:name":"Ati",
+    "qs:name_adm0":"Bangladesh",
+    "qs:name_adm1":"Dhaka",
+    "qs:photos":31,
+    "qs:photos_1k":6,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":31,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1175315,
+    "qs:woe_adm0":23424759,
+    "qs:woe_id":1888916,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421197045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1212304,
+        "gp:id":1888916,
+        "qs:id":1175315
+    },
+    "wof:country":"BD",
+    "wof:created":1459009749,
+    "wof:geomhash":"75d563b1dc3b511997ce39196c32e2ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421197045,
+            "locality_id":421192799,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":421192799,
+    "wof:lastmodified":1499925660,
+    "wof:name":"Ati",
+    "wof:parent_id":421197045,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.51407,
+    23.6989,
+    90.51407,
+    23.6989
+],
+  "geometry": {"coordinates":[90.51407,23.6989],"type":"Point"}
+}

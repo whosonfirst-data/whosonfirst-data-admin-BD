@@ -1,0 +1,76 @@
+{
+  "id": 1209849027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.45081,24.27729,91.45081,24.27729",
+    "geom:latitude":24.27729,
+    "geom:longitude":91.45081,
+    "gn:admin1_code":"86",
+    "gn:admin2_code":"6036",
+    "gn:admin3_code":"603644.0",
+    "gn:admin4_code":"60364485.0",
+    "gn:asciiname":"Shaistaganj",
+    "gn:country_code":"BD",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1188197,
+    "gn:latitude":24.27729,
+    "gn:longitude":91.45081,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Sh\u0101ist\u0101ganj",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sh\u0101istagani",
+        "Shaistaganjbazar",
+        "Sh\u0101isragang",
+        "Sh\u0101ist\u0101ganj"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669025,
+        421176045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1188197
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"f6a302276bb61d3b846aa0c2ac69be05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421176045,
+            "locality_id":1209849027,
+            "region_id":85669025
+        }
+    ],
+    "wof:id":1209849027,
+    "wof:lastmodified":1537585756,
+    "wof:name":"Shaistaganj",
+    "wof:parent_id":421176045,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.45081,
+    24.27729,
+    91.45081,
+    24.27729
+],
+  "geometry": {"coordinates":[91.45081,24.27729],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1326958429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.55544,25.07849,89.55544,25.07849",
+    "geom:latitude":25.07849,
+    "geom:longitude":89.55544,
+    "gn:admin1_code":"83",
+    "gn:asciiname":"Badinapara",
+    "gn:country_code":"BD",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7905618,
+    "gn:latitude":25.07849,
+    "gn:longitude":89.55544,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"B\u0101din\u0101p\u0101ra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "B\u0101din\u0101p\u0101ra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7905618
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"9e1f2950f5fca1413c29c0b33673d846",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694675,
+            "locality_id":1326958429,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1326958429,
+    "wof:lastmodified":1537586777,
+    "wof:name":"Badinapara",
+    "wof:parent_id":1108694675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.55544,
+    25.07849,
+    89.55544,
+    25.07849
+],
+  "geometry": {"coordinates":[89.55544,25.07849],"type":"Point"}
+}

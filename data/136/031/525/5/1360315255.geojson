@@ -1,0 +1,73 @@
+{
+  "id": 1360315255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.73917,24.08153,88.73917,24.08153",
+    "geom:latitude":24.08153,
+    "geom:longitude":88.73917,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4050.0",
+    "gn:admin3_code":"405039.0",
+    "gn:admin4_code":"40503988.0",
+    "gn:asciiname":"Bhagjot",
+    "gn:country_code":"BD",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7483410,
+    "gn:latitude":24.08153,
+    "gn:longitude":88.73917,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Bh\u0101gjot",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Bh\u0101gjot"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        890438075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7483410
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"d96487e4a99e654b16e81bdcc23e8d43",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":890438075,
+            "locality_id":1360315255,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1360315255,
+    "wof:lastmodified":1537586536,
+    "wof:name":"Bhagjot",
+    "wof:parent_id":890438075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.73917,
+    24.08153,
+    88.73917,
+    24.08153
+],
+  "geometry": {"coordinates":[88.73917,24.08153],"type":"Point"}
+}

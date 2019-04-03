@@ -1,0 +1,74 @@
+{
+  "id": 1327164151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.51997,22.60684,89.51997,22.60684",
+    "geom:latitude":22.60684,
+    "geom:longitude":89.51997,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4047",
+    "gn:admin3_code":"404717.0",
+    "gn:admin4_code":"40471731.0",
+    "gn:asciiname":"Pankhali",
+    "gn:country_code":"BD",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1192550,
+    "gn:latitude":22.60684,
+    "gn:longitude":89.51997,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"P\u0101nkh\u0101li",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "P\u0101nk\u0101li",
+        "P\u0101nkh\u0101li"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        421185473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1192550
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"2b7fdbbb7f7399cb5d3f71a1571cba07",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421185473,
+            "locality_id":1327164151,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1327164151,
+    "wof:lastmodified":1537585837,
+    "wof:name":"Pankhali",
+    "wof:parent_id":421185473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.51997,
+    22.60684,
+    89.51997,
+    22.60684
+],
+  "geometry": {"coordinates":[89.51997,22.60684],"type":"Point"}
+}

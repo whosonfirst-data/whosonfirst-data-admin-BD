@@ -1,0 +1,70 @@
+{
+  "id": 1310629033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.62738,23.6186,89.62738,23.6186",
+    "geom:latitude":23.6186,
+    "geom:longitude":89.62738,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3082.0",
+    "gn:admin3_code":"308207.0",
+    "gn:admin4_code":"30820757.0",
+    "gn:asciiname":"Bri Magura",
+    "gn:country_code":"BD",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1208062,
+    "gn:latitude":23.6186,
+    "gn:longitude":89.62738,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Bri M\u0101gura",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        1108694699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1208062
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"bbad7cc266178ec9cbcd548ba977060e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694699,
+            "locality_id":1310629033,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1310629033,
+    "wof:lastmodified":1536738759,
+    "wof:name":"Bri Magura",
+    "wof:parent_id":1108694699,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.62738,
+    23.6186,
+    89.62738,
+    23.6186
+],
+  "geometry": {"coordinates":[89.62738,23.6186],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1343691951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.91307,23.76125,88.91307,23.76125",
+    "geom:latitude":23.76125,
+    "geom:longitude":88.91307,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4018.0",
+    "gn:admin3_code":"401807.0",
+    "gn:admin4_code":"40180787.0",
+    "gn:asciiname":"Nauda Durgapur",
+    "gn:country_code":"BD",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7484482,
+    "gn:latitude":23.76125,
+    "gn:longitude":88.91307,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Nauda Durg\u0101pur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Nauda Durg\u0101pur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        421194153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7484482
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"b6a52e3dcddc1c2e4852829a818dd072",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421194153,
+            "locality_id":1343691951,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1343691951,
+    "wof:lastmodified":1537586565,
+    "wof:name":"Nauda Durgapur",
+    "wof:parent_id":421194153,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.91306999999998,
+    23.76125,
+    88.91306999999998,
+    23.76125
+],
+  "geometry": {"coordinates":[88.91306999999998,23.76125],"type":"Point"}
+}

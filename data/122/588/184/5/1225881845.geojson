@@ -1,0 +1,70 @@
+{
+  "id": 1225881845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.43068,25.74887,89.43068,25.74887",
+    "geom:latitude":25.74887,
+    "geom:longitude":89.43068,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5585.0",
+    "gn:admin3_code":"558542.0",
+    "gn:admin4_code":"55854227.0",
+    "gn:asciiname":"Haricharan",
+    "gn:country_code":"BD",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7887879,
+    "gn:latitude":25.74887,
+    "gn:longitude":89.43068,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Har\u012bch\u0101ran",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7887879
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"658671fce60b16e0fc7e4e851a6f9b6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694701,
+            "locality_id":1225881845,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1225881845,
+    "wof:lastmodified":1536961398,
+    "wof:name":"Haricharan",
+    "wof:parent_id":1108694701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.43068000000002,
+    25.74887,
+    89.43068000000002,
+    25.74887
+],
+  "geometry": {"coordinates":[89.43068000000002,25.74887],"type":"Point"}
+}

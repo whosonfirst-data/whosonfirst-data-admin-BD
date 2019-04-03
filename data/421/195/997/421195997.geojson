@@ -1,0 +1,81 @@
+{
+  "id": 421195997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.65432,23.22714,90.65432,23.22714",
+    "geom:latitude":23.22714,
+    "geom:longitude":90.65432,
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "Chadpur"
+    ],
+    "qs:gn_country":"BD",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":1207337,
+    "qs:gn_pop":0,
+    "qs:name":"Chandpur",
+    "qs:name_adm0":"Bangladesh",
+    "qs:name_adm1":"Chittagong",
+    "qs:photos":110,
+    "qs:photos_1k":22,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":110,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "qs:qs_id":1030154,
+    "qs:woe_adm0":23424759,
+    "qs:woe_id":1915017,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        1108694669
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1207337,
+        "gp:id":1915017,
+        "qs:id":1030154,
+        "wd:id":"Q3346357",
+        "wk:page":"Chandpur Sadar Upazila"
+    },
+    "wof:country":"BD",
+    "wof:created":1459009866,
+    "wof:geomhash":"58192be53cda4b41b984b17e7439b1c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694669,
+            "locality_id":421195997,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":421195997,
+    "wof:lastmodified":1501217021,
+    "wof:name":"Chandpur",
+    "wof:parent_id":1108694669,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.65432,
+    23.22714,
+    90.65432,
+    23.22714
+],
+  "geometry": {"coordinates":[90.65432,23.22714],"type":"Point"}
+}

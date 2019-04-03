@@ -1,0 +1,73 @@
+{
+  "id": 1259909867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.39565,25.94691,88.39565,25.94691",
+    "geom:latitude":25.94691,
+    "geom:longitude":88.39565,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5594.0",
+    "gn:admin3_code":"559482.0",
+    "gn:admin4_code":"55948260.0",
+    "gn:asciiname":"Arazi Ujjalkota",
+    "gn:country_code":"BD",
+    "gn:dem":51,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7487827,
+    "gn:latitude":25.94691,
+    "gn:longitude":88.39565,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"\u0100r\u0101zi Ujj\u0101lkota",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "\u0100r\u0101zi Ujj\u0101lkota"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7487827
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"cb16c05712fa1857f3cd78428a7c2966",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694703,
+            "locality_id":1259909867,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1259909867,
+    "wof:lastmodified":1537586650,
+    "wof:name":"Arazi Ujjalkota",
+    "wof:parent_id":1108694703,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.39565,
+    25.94691,
+    88.39565,
+    25.94691
+],
+  "geometry": {"coordinates":[88.39565,25.94691],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1242607375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.05674,25.20348,90.05674,25.20348",
+    "geom:latitude":25.20348,
+    "geom:longitude":90.05674,
+    "gn:admin1_code":"H",
+    "gn:admin2_code":"3089",
+    "gn:admin3_code":"308937.0",
+    "gn:admin4_code":"30893760.0",
+    "gn:asciiname":"Dephlai",
+    "gn:country_code":"BD",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7912476,
+    "gn:latitude":25.20348,
+    "gn:longitude":90.05674,
+    "gn:modification_date":"2016-11-17",
+    "gn:name":"Dephlai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        1108803101,
+        421190979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7912476
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"8e47c90c1c7076098df6cf7b46ac79f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421190979,
+            "locality_id":1242607375,
+            "region_id":1108803101
+        }
+    ],
+    "wof:id":1242607375,
+    "wof:lastmodified":1537019989,
+    "wof:name":"Dephlai",
+    "wof:parent_id":421190979,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.05674,
+    25.20348,
+    90.05674,
+    25.20348
+],
+  "geometry": {"coordinates":[90.05674,25.20348],"type":"Point"}
+}

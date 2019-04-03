@@ -1,0 +1,70 @@
+{
+  "id": 1260316645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.52003,23.28892,89.52003,23.28892",
+    "geom:latitude":23.28892,
+    "geom:longitude":89.52003,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4055",
+    "gn:admin3_code":"405566.0",
+    "gn:admin4_code":"40556663.0",
+    "gn:asciiname":"Masa Khali",
+    "gn:country_code":"BD",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1194760,
+    "gn:latitude":23.28892,
+    "gn:longitude":89.52003,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Masa Kh\u0101li",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        1108694689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1194760
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"4355d35466151ca2d395f3672a020a5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694689,
+            "locality_id":1260316645,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1260316645,
+    "wof:lastmodified":1536667594,
+    "wof:name":"Masa Khali",
+    "wof:parent_id":1108694689,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.52003,
+    23.28892,
+    89.52003,
+    23.28892
+],
+  "geometry": {"coordinates":[89.52003000000001,23.28892],"type":"Point"}
+}

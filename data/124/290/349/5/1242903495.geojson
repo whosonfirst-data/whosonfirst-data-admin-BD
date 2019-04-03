@@ -1,0 +1,73 @@
+{
+  "id": 1242903495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.04198,23.50445,89.04198,23.50445",
+    "geom:latitude":23.50445,
+    "geom:longitude":89.04198,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4044.0",
+    "gn:admin3_code":"404419.0",
+    "gn:admin4_code":"40441952.0",
+    "gn:asciiname":"Kubirkhali",
+    "gn:country_code":"BD",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7478861,
+    "gn:latitude":23.50445,
+    "gn:longitude":89.04198,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Kubirkh\u0101li",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Kubirkh\u0101li"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        1108694679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7478861
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"7d9ca35794065fdc568b47dde435a200",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694679,
+            "locality_id":1242903495,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1242903495,
+    "wof:lastmodified":1537586402,
+    "wof:name":"Kubirkhali",
+    "wof:parent_id":1108694679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.04198000000002,
+    23.50445,
+    89.04198000000002,
+    23.50445
+],
+  "geometry": {"coordinates":[89.04198000000002,23.50445],"type":"Point"}
+}

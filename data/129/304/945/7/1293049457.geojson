@@ -1,0 +1,70 @@
+{
+  "id": 1293049457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.91421,23.39055,90.91421,23.39055",
+    "geom:latitude":23.39055,
+    "geom:longitude":90.91421,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2019.0",
+    "gn:admin3_code":"201927.0",
+    "gn:admin4_code":"20192763.0",
+    "gn:asciiname":"Bhararua",
+    "gn:country_code":"BD",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1209170,
+    "gn:latitude":23.39055,
+    "gn:longitude":90.91421,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Bh\u0101r\u0101rua",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421187801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1209170
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"3ae60cce0b739929087e542de93248ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421187801,
+            "locality_id":1293049457,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1293049457,
+    "wof:lastmodified":1536922467,
+    "wof:name":"Bhararua",
+    "wof:parent_id":421187801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.91421,
+    23.39055,
+    90.91421,
+    23.39055
+],
+  "geometry": {"coordinates":[90.91421,23.39055],"type":"Point"}
+}

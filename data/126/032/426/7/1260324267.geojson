@@ -1,0 +1,74 @@
+{
+  "id": 1260324267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.18285,23.1074,90.18285,23.1074",
+    "geom:latitude":23.1074,
+    "geom:longitude":90.18285,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3054",
+    "gn:admin3_code":"305440.0",
+    "gn:admin4_code":"30544012.0",
+    "gn:asciiname":"Dakshin Dhuasar",
+    "gn:country_code":"BD",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1187437,
+    "gn:latitude":23.1074,
+    "gn:longitude":90.18285,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Dakshin Dhu\u0101s\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dakshin Dhu\u0101s\u0101r",
+        "South Dhu\u0101s\u0101r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421183929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1187437
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"48c79237794841abb01f30a9bd184d60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421183929,
+            "locality_id":1260324267,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1260324267,
+    "wof:lastmodified":1537585737,
+    "wof:name":"Dakshin Dhuasar",
+    "wof:parent_id":421183929,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.18285,
+    23.1074,
+    90.18285,
+    23.1074
+],
+  "geometry": {"coordinates":[90.18285,23.1074],"type":"Point"}
+}

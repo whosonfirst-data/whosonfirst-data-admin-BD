@@ -1,0 +1,75 @@
+{
+  "id": 1242707909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"92.1,24.8,92.1,24.8",
+    "geom:latitude":24.8,
+    "geom:longitude":92.1,
+    "gn:admin1_code":"86",
+    "gn:admin2_code":"6091",
+    "gn:admin3_code":"609117.0",
+    "gn:admin4_code":"60911794.0",
+    "gn:asciiname":"Tilpara",
+    "gn:cc2":"BD",
+    "gn:country_code":"BD",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1186059,
+    "gn:latitude":24.8,
+    "gn:longitude":92.1,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Tilp\u0101ra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tilapara",
+        "Tilp\u0101ra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669025,
+        421187795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1186059
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"062d9bb15fdf05e501c36661cdf23273",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421187795,
+            "locality_id":1242707909,
+            "region_id":85669025
+        }
+    ],
+    "wof:id":1242707909,
+    "wof:lastmodified":1537585712,
+    "wof:name":"Tilpara",
+    "wof:parent_id":421187795,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    92.1,
+    24.8,
+    92.1,
+    24.8
+],
+  "geometry": {"coordinates":[92.09999999999999,24.8],"type":"Point"}
+}

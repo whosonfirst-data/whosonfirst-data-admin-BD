@@ -1,0 +1,70 @@
+{
+  "id": 1226683699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.38417,23.99975,90.38417,23.99975",
+    "geom:latitude":23.99975,
+    "geom:longitude":90.38417,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3033",
+    "gn:admin3_code":"303330.0",
+    "gn:admin4_code":"30333013.0",
+    "gn:asciiname":"Telipara",
+    "gn:country_code":"BD",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1186300,
+    "gn:latitude":23.99975,
+    "gn:longitude":90.38417,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Telip\u0101ra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421203493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1186300
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"60eca03498321bcc5a235a746d817cdf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421203493,
+            "locality_id":1226683699,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1226683699,
+    "wof:lastmodified":1536804606,
+    "wof:name":"Telipara",
+    "wof:parent_id":421203493,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.38417,
+    23.99975,
+    90.38417,
+    23.99975
+],
+  "geometry": {"coordinates":[90.38417,23.99975],"type":"Point"}
+}

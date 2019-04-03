@@ -1,0 +1,70 @@
+{
+  "id": 1293034467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.97062,25.0328,89.97062,25.0328",
+    "geom:latitude":25.0328,
+    "geom:longitude":89.97062,
+    "gn:admin1_code":"H",
+    "gn:admin2_code":"3089.0",
+    "gn:admin3_code":"308988.0",
+    "gn:admin4_code":"30898840.0",
+    "gn:asciiname":"Char Sherpur",
+    "gn:country_code":"BD",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1206465,
+    "gn:latitude":25.0328,
+    "gn:longitude":89.97062,
+    "gn:modification_date":"2016-11-17",
+    "gn:name":"Char Sherpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        1108803101,
+        421190979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1206465
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"fe56eea650c647c3074a4437d5254284",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421190979,
+            "locality_id":1293034467,
+            "region_id":1108803101
+        }
+    ],
+    "wof:id":1293034467,
+    "wof:lastmodified":1536943786,
+    "wof:name":"Char Sherpur",
+    "wof:parent_id":421190979,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.97062,
+    25.0328,
+    89.97062,
+    25.0328
+],
+  "geometry": {"coordinates":[89.97062,25.0328],"type":"Point"}
+}

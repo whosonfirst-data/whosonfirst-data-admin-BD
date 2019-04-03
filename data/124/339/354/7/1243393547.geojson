@@ -1,0 +1,70 @@
+{
+  "id": 1243393547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.25253,22.44792,90.25253,22.44792",
+    "geom:latitude":22.44792,
+    "geom:longitude":90.25253,
+    "gn:admin1_code":"82",
+    "gn:asciiname":"Bajita",
+    "gn:country_code":"BD",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7476049,
+    "gn:latitude":22.44792,
+    "gn:longitude":90.25253,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"B\u0101jita",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "B\u0101jita"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669019,
+        421169845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7476049
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"38fe554a7fc37679127c35d6c816c54b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421169845,
+            "locality_id":1243393547,
+            "region_id":85669019
+        }
+    ],
+    "wof:id":1243393547,
+    "wof:lastmodified":1537586335,
+    "wof:name":"Bajita",
+    "wof:parent_id":421169845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.25253,
+    22.44792,
+    90.25253,
+    22.44792
+],
+  "geometry": {"coordinates":[90.25252999999999,22.44792],"type":"Point"}
+}

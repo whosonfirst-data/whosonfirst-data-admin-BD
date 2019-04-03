@@ -1,0 +1,73 @@
+{
+  "id": 1310035759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.1079,23.92533,89.1079,23.92533",
+    "geom:latitude":23.92533,
+    "geom:longitude":89.1079,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4050",
+    "gn:admin3_code":"405079.0",
+    "gn:admin4_code":"40507925.0",
+    "gn:asciiname":"Mangal Baria",
+    "gn:country_code":"BD",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1195001,
+    "gn:latitude":23.92533,
+    "gn:longitude":89.1079,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Mangal Baria",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Mangal Baria"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        890438075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1195001
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"575f2dd96d89ee7ebc7916deb1b71db2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":890438075,
+            "locality_id":1310035759,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1310035759,
+    "wof:lastmodified":1537585878,
+    "wof:name":"Mangal Baria",
+    "wof:parent_id":890438075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.1079,
+    23.92533,
+    89.1079,
+    23.92533
+],
+  "geometry": {"coordinates":[89.1079,23.92533],"type":"Point"}
+}

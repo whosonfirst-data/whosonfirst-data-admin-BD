@@ -1,0 +1,70 @@
+{
+  "id": 1260013069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.35222,25.17086,89.35222,25.17086",
+    "geom:latitude":25.17086,
+    "geom:longitude":89.35222,
+    "gn:admin1_code":"83",
+    "gn:asciiname":"Ghosaipur",
+    "gn:country_code":"BD",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7890395,
+    "gn:latitude":25.17086,
+    "gn:longitude":89.35222,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Ghosaipur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Ghosaipur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7890395
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"d60d71324630fa0beafee44aa9adc3bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694675,
+            "locality_id":1260013069,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1260013069,
+    "wof:lastmodified":1537586744,
+    "wof:name":"Ghosaipur",
+    "wof:parent_id":1108694675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.35221999999997,
+    25.17086,
+    89.35221999999997,
+    25.17086
+],
+  "geometry": {"coordinates":[89.35221999999997,25.17086],"type":"Point"}
+}

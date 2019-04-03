@@ -1,0 +1,73 @@
+{
+  "id": 1277104787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.73542,26.03406,89.73542,26.03406",
+    "geom:latitude":26.03406,
+    "geom:longitude":89.73542,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5549",
+    "gn:admin3_code":"554906.0",
+    "gn:admin4_code":"55490609.0",
+    "gn:asciiname":"Sakin Satbari",
+    "gn:country_code":"BD",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8037906,
+    "gn:latitude":26.03406,
+    "gn:longitude":89.73542,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Sakin Satbari",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Sakin Satbari"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8037906
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"1d76bdf3fd8ab9be88480f8a07c3f839",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694685,
+            "locality_id":1277104787,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1277104787,
+    "wof:lastmodified":1537586832,
+    "wof:name":"Sakin Satbari",
+    "wof:parent_id":1108694685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.73541999999998,
+    26.03406,
+    89.73541999999998,
+    26.03406
+],
+  "geometry": {"coordinates":[89.73541999999998,26.03406],"type":"Point"}
+}

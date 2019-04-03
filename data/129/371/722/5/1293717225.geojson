@@ -1,0 +1,73 @@
+{
+  "id": 1293717225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.61093,24.80899,90.61093,24.80899",
+    "geom:latitude":24.80899,
+    "geom:longitude":90.61093,
+    "gn:admin1_code":"H",
+    "gn:admin2_code":"3061",
+    "gn:admin3_code":"306123.0",
+    "gn:admin4_code":"30612349.0",
+    "gn:asciiname":"Kallatal",
+    "gn:country_code":"BD",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1197041,
+    "gn:latitude":24.80899,
+    "gn:longitude":90.61093,
+    "gn:modification_date":"2016-11-17",
+    "gn:name":"Kallatal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Koll\u0101tali"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        1108803101,
+        421185469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1197041
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"6107defb331dc356ba5b60f482cb6571",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421185469,
+            "locality_id":1293717225,
+            "region_id":1108803101
+        }
+    ],
+    "wof:id":1293717225,
+    "wof:lastmodified":1537585915,
+    "wof:name":"Kallatal",
+    "wof:parent_id":421185469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.61093,
+    24.80899,
+    90.61093,
+    24.80899
+],
+  "geometry": {"coordinates":[90.61093,24.80899],"type":"Point"}
+}

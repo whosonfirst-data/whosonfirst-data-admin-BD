@@ -1,0 +1,73 @@
+{
+  "id": 1293326123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.85598,23.83486,88.85598,23.83486",
+    "geom:latitude":23.83486,
+    "geom:longitude":88.85598,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4057.0",
+    "gn:admin3_code":"405747.0",
+    "gn:admin4_code":"40574784.0",
+    "gn:asciiname":"Amtail",
+    "gn:country_code":"BD",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7484382,
+    "gn:latitude":23.83486,
+    "gn:longitude":88.85598,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Amtail",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Amtail"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        421194153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7484382
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"6cdb7f9ef4a5bf27c25061f6160c3faf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421194153,
+            "locality_id":1293326123,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1293326123,
+    "wof:lastmodified":1537586563,
+    "wof:name":"Amtail",
+    "wof:parent_id":421194153,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.85598,
+    23.83486,
+    88.85598,
+    23.83486
+],
+  "geometry": {"coordinates":[88.85598,23.83486],"type":"Point"}
+}

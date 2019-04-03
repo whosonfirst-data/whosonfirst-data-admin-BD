@@ -1,0 +1,70 @@
+{
+  "id": 1310435391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.42371,25.15058,89.42371,25.15058",
+    "geom:latitude":25.15058,
+    "geom:longitude":89.42371,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5532",
+    "gn:admin3_code":"553230.0",
+    "gn:admin4_code":"55323067.0",
+    "gn:asciiname":"Lontala",
+    "gn:country_code":"BD",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1195996,
+    "gn:latitude":25.15058,
+    "gn:longitude":89.42371,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Lontala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1195996
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"44a5cf658d569330031403dbf9fcf944",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694675,
+            "locality_id":1310435391,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1310435391,
+    "wof:lastmodified":1537017536,
+    "wof:name":"Lontala",
+    "wof:parent_id":1108694675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.42371,
+    25.15058,
+    89.42371,
+    25.15058
+],
+  "geometry": {"coordinates":[89.42371,25.15058],"type":"Point"}
+}

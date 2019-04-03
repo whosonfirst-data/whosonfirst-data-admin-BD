@@ -1,0 +1,73 @@
+{
+  "id": 1310139201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.33069,21.86676,90.33069,21.86676",
+    "geom:latitude":21.86676,
+    "geom:longitude":90.33069,
+    "gn:admin1_code":"85",
+    "gn:admin2_code":"1078.0",
+    "gn:admin3_code":"107897.0",
+    "gn:admin4_code":"10789727.0",
+    "gn:asciiname":"Khashmahal",
+    "gn:country_code":"BD",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7634642,
+    "gn:latitude":21.86676,
+    "gn:longitude":90.33069,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Kh\u0101shmahal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Kh\u0101shmahal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669019,
+        421169845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7634642
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"89ec3806712d39b61cca33bedfece5c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421169845,
+            "locality_id":1310139201,
+            "region_id":85669019
+        }
+    ],
+    "wof:id":1310139201,
+    "wof:lastmodified":1537586711,
+    "wof:name":"Khashmahal",
+    "wof:parent_id":421169845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.33069,
+    21.86676,
+    90.33069,
+    21.86676
+],
+  "geometry": {"coordinates":[90.33069,21.86676],"type":"Point"}
+}

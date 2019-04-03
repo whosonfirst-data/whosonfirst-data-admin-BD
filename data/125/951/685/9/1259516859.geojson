@@ -1,0 +1,76 @@
+{
+  "id": 1259516859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.85843,24.17673,88.85843,24.17673",
+    "geom:latitude":24.17673,
+    "geom:longitude":88.85843,
+    "gn:admin1_code":"83",
+    "gn:admin2_code":"5081",
+    "gn:admin3_code":"508110.0",
+    "gn:admin4_code":"50811055.0",
+    "gn:asciiname":"Kheyerhata",
+    "gn:country_code":"BD",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1197442,
+    "gn:latitude":24.17673,
+    "gn:longitude":88.85843,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Kheyerh\u0101ta",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Kheyerh\u0101ta"
+    ],
+    "name:ben_x_variant":[
+        "Khayerh\u0101t"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669031,
+        421172439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1197442
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"74dcc5f6ae6074e9a70cdfdaa33855ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421172439,
+            "locality_id":1259516859,
+            "region_id":85669031
+        }
+    ],
+    "wof:id":1259516859,
+    "wof:lastmodified":1537585926,
+    "wof:name":"Kheyerhata",
+    "wof:parent_id":421172439,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.85843,
+    24.17673,
+    88.85843,
+    24.17673
+],
+  "geometry": {"coordinates":[88.85843,24.17673],"type":"Point"}
+}

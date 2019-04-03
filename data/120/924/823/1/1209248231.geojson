@@ -1,0 +1,67 @@
+{
+  "id": 1209248231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.15019,25.95515,88.15019,25.95515",
+    "geom:latitude":25.95515,
+    "geom:longitude":88.15019,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5594.0",
+    "gn:admin3_code":"559451.0",
+    "gn:admin4_code":"55945167.0",
+    "gn:asciiname":"Madandighi",
+    "gn:country_code":"BD",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7487369,
+    "gn:latitude":25.95515,
+    "gn:longitude":88.15019,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Madandighi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Madandighi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7487369
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"265e6a0940cf0da6b4564ac0172d84d3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209248231
+        }
+    ],
+    "wof:id":1209248231,
+    "wof:lastmodified":1537586637,
+    "wof:name":"Madandighi",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.15019000000002,
+    25.95515,
+    88.15019000000002,
+    25.95515
+],
+  "geometry": {"coordinates":[88.15019000000002,25.95515],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1209139367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.14394,25.01521,90.14394,25.01521",
+    "geom:latitude":25.01521,
+    "geom:longitude":90.14394,
+    "gn:admin1_code":"H",
+    "gn:admin2_code":"3089",
+    "gn:admin3_code":"308967.0",
+    "gn:admin4_code":"30896738.0",
+    "gn:asciiname":"Bihirirpar",
+    "gn:country_code":"BD",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7923164,
+    "gn:latitude":25.01521,
+    "gn:longitude":90.14394,
+    "gn:modification_date":"2016-11-17",
+    "gn:name":"Bihirirp\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Bihirirp\u0101r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7923164
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"3e6c5eaa9130142caa9ab00ac7916a7a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209139367
+        }
+    ],
+    "wof:id":1209139367,
+    "wof:lastmodified":1537586793,
+    "wof:name":"Bihirirpar",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.14394,
+    25.01521,
+    90.14394,
+    25.01521
+],
+  "geometry": {"coordinates":[90.14394,25.01521],"type":"Point"}
+}

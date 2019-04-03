@@ -1,0 +1,75 @@
+{
+  "id": 1343594571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.10803,25.74157,89.10803,25.74157",
+    "geom:latitude":25.74157,
+    "geom:longitude":89.10803,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5585",
+    "gn:admin3_code":"558549.0",
+    "gn:admin4_code":"55854931.0",
+    "gn:asciiname":"Maminpur",
+    "gn:country_code":"BD",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1195106,
+    "gn:latitude":25.74157,
+    "gn:longitude":89.10803,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Maminpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Momilpoor",
+        "Maminpore",
+        "Maminpur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1195106
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"45f2c3bbd2d935f7ae3fa6b5672fb363",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694701,
+            "locality_id":1343594571,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1343594571,
+    "wof:lastmodified":1537585880,
+    "wof:name":"Maminpur",
+    "wof:parent_id":1108694701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.10803,
+    25.74157,
+    89.10803,
+    25.74157
+],
+  "geometry": {"coordinates":[89.10803,25.74157],"type":"Point"}
+}

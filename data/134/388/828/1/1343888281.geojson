@@ -1,0 +1,73 @@
+{
+  "id": 1343888281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.62751,25.90091,89.62751,25.90091",
+    "geom:latitude":25.90091,
+    "geom:longitude":89.62751,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5549",
+    "gn:admin3_code":"554918.0",
+    "gn:admin4_code":"55491827.0",
+    "gn:asciiname":"Bhangamor",
+    "gn:country_code":"BD",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7923438,
+    "gn:latitude":25.90091,
+    "gn:longitude":89.62751,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Bh\u0101ng\u0101mor",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Bh\u0101ng\u0101mor"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7923438
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"1c7a5ccf8183f41cecd9cb9be6166500",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694685,
+            "locality_id":1343888281,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1343888281,
+    "wof:lastmodified":1537586798,
+    "wof:name":"Bhangamor",
+    "wof:parent_id":1108694685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.62751,
+    25.90091,
+    89.62751,
+    25.90091
+],
+  "geometry": {"coordinates":[89.62751,25.90091],"type":"Point"}
+}

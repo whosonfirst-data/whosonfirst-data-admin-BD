@@ -1,0 +1,70 @@
+{
+  "id": 1259721031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.54129,24.02598,90.54129,24.02598",
+    "geom:latitude":24.02598,
+    "geom:longitude":90.54129,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3033",
+    "gn:admin3_code":"303334.0",
+    "gn:admin4_code":"30333469.0",
+    "gn:asciiname":"Saldia",
+    "gn:country_code":"BD",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1188995,
+    "gn:latitude":24.02598,
+    "gn:longitude":90.54129,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"S\u0101ldia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421203493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1188995
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"ea91ffac97613e5c338ac51cd0aef322",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421203493,
+            "locality_id":1259721031,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1259721031,
+    "wof:lastmodified":1537012145,
+    "wof:name":"Saldia",
+    "wof:parent_id":421203493,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.54129,
+    24.02598,
+    90.54129,
+    24.02598
+],
+  "geometry": {"coordinates":[90.54129,24.02598],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1209645491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.34706,24.44151,88.34706,24.44151",
+    "geom:latitude":24.44151,
+    "geom:longitude":88.34706,
+    "gn:admin1_code":"83",
+    "gn:admin2_code":"5081",
+    "gn:admin3_code":"508134.0",
+    "gn:admin4_code":"50813457.0",
+    "gn:asciiname":"Matikata",
+    "gn:country_code":"BD",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1194597,
+    "gn:latitude":24.44151,
+    "gn:longitude":88.34706,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Matik\u0101ta",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Matik\u0101ta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1194597
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"525256de8516d6b0814600c71db7451f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209645491
+        }
+    ],
+    "wof:id":1209645491,
+    "wof:lastmodified":1537585872,
+    "wof:name":"Matikata",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.34706,
+    24.44151,
+    88.34706,
+    24.44151
+],
+  "geometry": {"coordinates":[88.34706,24.44151],"type":"Point"}
+}

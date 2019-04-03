@@ -1,0 +1,76 @@
+{
+  "id": 1243205665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.5889,25.28672,89.5889,25.28672",
+    "geom:latitude":25.28672,
+    "geom:longitude":89.5889,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5532.0",
+    "gn:admin3_code":"553221.0",
+    "gn:admin4_code":"55322171.0",
+    "gn:asciiname":"Burail",
+    "gn:country_code":"BD",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1208026,
+    "gn:latitude":25.28672,
+    "gn:longitude":89.5889,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Burail",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Burail"
+    ],
+    "name:ben_x_variant":[
+        "Bur\u0101il"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1208026
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"59021d84d60079aaccaf9a1100ac857c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694675,
+            "locality_id":1243205665,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1243205665,
+    "wof:lastmodified":1537586123,
+    "wof:name":"Burail",
+    "wof:parent_id":1108694675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.5889,
+    25.28672000000001,
+    89.5889,
+    25.28672000000001
+],
+  "geometry": {"coordinates":[89.5889,25.28672000000001],"type":"Point"}
+}

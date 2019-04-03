@@ -1,0 +1,67 @@
+{
+  "id": 1209549071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.52756,23.17303,89.52756,23.17303",
+    "geom:latitude":23.17303,
+    "geom:longitude":89.52756,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4065.0",
+    "gn:admin3_code":"406576.0",
+    "gn:admin4_code":"40657606.0",
+    "gn:asciiname":"Simakhali",
+    "gn:country_code":"BD",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7480292,
+    "gn:latitude":23.17303,
+    "gn:longitude":89.52756,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Sim\u0101kh\u0101li",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Sim\u0101kh\u0101li"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7480292
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"797bb673b34eee362903c0aa9b2308ad",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209549071
+        }
+    ],
+    "wof:id":1209549071,
+    "wof:lastmodified":1537586445,
+    "wof:name":"Simakhali",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.52756,
+    23.17303,
+    89.52756,
+    23.17303
+],
+  "geometry": {"coordinates":[89.52755999999999,23.17303],"type":"Point"}
+}

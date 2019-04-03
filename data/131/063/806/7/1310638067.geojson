@@ -1,0 +1,70 @@
+{
+  "id": 1310638067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.31298,25.18056,89.31298,25.18056",
+    "geom:latitude":25.18056,
+    "geom:longitude":89.31298,
+    "gn:admin1_code":"83",
+    "gn:asciiname":"Bhelamari",
+    "gn:country_code":"BD",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7890399,
+    "gn:latitude":25.18056,
+    "gn:longitude":89.31298,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Bhel\u0101m\u0101ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Bhel\u0101m\u0101ri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7890399
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"5164a3ce29d77b49cf06bd988a0bf6a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694675,
+            "locality_id":1310638067,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1310638067,
+    "wof:lastmodified":1537586744,
+    "wof:name":"Bhelamari",
+    "wof:parent_id":1108694675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.31298000000002,
+    25.18056,
+    89.31298000000002,
+    25.18056
+],
+  "geometry": {"coordinates":[89.31298000000002,25.18056],"type":"Point"}
+}

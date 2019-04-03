@@ -1,0 +1,64 @@
+{
+  "id": 1209452407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.17566,23.55954,90.17566,23.55954",
+    "geom:latitude":23.55954,
+    "geom:longitude":90.17566,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3026",
+    "gn:admin3_code":"302618.0",
+    "gn:admin4_code":"30261842.0",
+    "gn:asciiname":"Maitpara",
+    "gn:country_code":"BD",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1195368,
+    "gn:latitude":23.55954,
+    "gn:longitude":90.17566,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"M\u0101itp\u0101ra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1195368
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"def1449c8575c4264d1161fe50366825",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209452407
+        }
+    ],
+    "wof:id":1209452407,
+    "wof:lastmodified":1536286633,
+    "wof:name":"Maitpara",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.17566,
+    23.55954,
+    90.17566,
+    23.55954
+],
+  "geometry": {"coordinates":[90.17565999999999,23.55954],"type":"Point"}
+}

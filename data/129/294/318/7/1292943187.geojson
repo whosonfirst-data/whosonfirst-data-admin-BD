@@ -1,0 +1,70 @@
+{
+  "id": 1292943187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.06859,23.78328,90.06859,23.78328",
+    "geom:latitude":23.78328,
+    "geom:longitude":90.06859,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3056.0",
+    "gn:admin3_code":"305682.0",
+    "gn:admin4_code":"30568217.0",
+    "gn:asciiname":"Bangala",
+    "gn:country_code":"BD",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1211032,
+    "gn:latitude":23.78328,
+    "gn:longitude":90.06859,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"B\u0101ng\u0101la",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421191745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1211032
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"7e11581ffb4967ca7a9e1c97ae58fecd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421191745,
+            "locality_id":1292943187,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1292943187,
+    "wof:lastmodified":1537071554,
+    "wof:name":"Bangala",
+    "wof:parent_id":421191745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.06859,
+    23.78328,
+    90.06859,
+    23.78328
+],
+  "geometry": {"coordinates":[90.06859,23.78328],"type":"Point"}
+}

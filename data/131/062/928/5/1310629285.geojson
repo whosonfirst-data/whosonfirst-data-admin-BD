@@ -1,0 +1,70 @@
+{
+  "id": 1310629285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.45846,25.16104,89.45846,25.16104",
+    "geom:latitude":25.16104,
+    "geom:longitude":89.45846,
+    "gn:admin1_code":"83",
+    "gn:asciiname":"Madhypara",
+    "gn:country_code":"BD",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7892472,
+    "gn:latitude":25.16104,
+    "gn:longitude":89.45846,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Madhyp\u0101ra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Madhyp\u0101ra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7892472
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"be8e1ed76f17df0c0941fe1a7847ee28",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694675,
+            "locality_id":1310629285,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1310629285,
+    "wof:lastmodified":1537586757,
+    "wof:name":"Madhypara",
+    "wof:parent_id":1108694675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.45846,
+    25.16104,
+    89.45846,
+    25.16104
+],
+  "geometry": {"coordinates":[89.45846,25.16104],"type":"Point"}
+}

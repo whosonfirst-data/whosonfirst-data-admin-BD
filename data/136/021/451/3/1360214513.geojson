@@ -1,0 +1,70 @@
+{
+  "id": 1360214513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.54856,25.17563,89.54856,25.17563",
+    "geom:latitude":25.17563,
+    "geom:longitude":89.54856,
+    "gn:admin1_code":"83",
+    "gn:asciiname":"Bahman Doba",
+    "gn:country_code":"BD",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7905589,
+    "gn:latitude":25.17563,
+    "gn:longitude":89.54856,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Bahman Doba",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Bahman Doba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7905589
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"cbea4e176196b57b399bcd5fb48aa532",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694675,
+            "locality_id":1360214513,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1360214513,
+    "wof:lastmodified":1537586776,
+    "wof:name":"Bahman Doba",
+    "wof:parent_id":1108694675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.54856,
+    25.17563,
+    89.54856,
+    25.17563
+],
+  "geometry": {"coordinates":[89.54855999999999,25.17563],"type":"Point"}
+}

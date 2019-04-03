@@ -1,0 +1,73 @@
+{
+  "id": 1210046861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.18886,22.02232,90.18886,22.02232",
+    "geom:latitude":22.02232,
+    "geom:longitude":90.18886,
+    "gn:admin1_code":"85",
+    "gn:admin2_code":"1078.0",
+    "gn:admin3_code":"107866.0",
+    "gn:admin4_code":"10786611.0",
+    "gn:asciiname":"Sharikkhali",
+    "gn:country_code":"BD",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7477052,
+    "gn:latitude":22.02232,
+    "gn:longitude":90.18886,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Sharikkhali",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Sharikkhali"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669019,
+        421176043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7477052
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"eb53b9903ecdadcf8d5d7aa5db1e55b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421176043,
+            "locality_id":1210046861,
+            "region_id":85669019
+        }
+    ],
+    "wof:id":1210046861,
+    "wof:lastmodified":1537586360,
+    "wof:name":"Sharikkhali",
+    "wof:parent_id":421176043,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.18886,
+    22.02232,
+    90.18886,
+    22.02232
+],
+  "geometry": {"coordinates":[90.18886000000001,22.02232],"type":"Point"}
+}

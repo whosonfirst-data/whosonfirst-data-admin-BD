@@ -1,0 +1,70 @@
+{
+  "id": 1242707761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.493,23.50435,89.493,23.50435",
+    "geom:latitude":23.50435,
+    "geom:longitude":89.493,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3029.0",
+    "gn:admin3_code":"302956.0",
+    "gn:admin4_code":"30295642.0",
+    "gn:asciiname":"Arpara",
+    "gn:country_code":"BD",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1212481,
+    "gn:latitude":23.50435,
+    "gn:longitude":89.493,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"\u0100rp\u0101ra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421198063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1212481
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"52d16c8fbebd2be9070511d5bfc611a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421198063,
+            "locality_id":1242707761,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1242707761,
+    "wof:lastmodified":1536875494,
+    "wof:name":"Arpara",
+    "wof:parent_id":421198063,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.493,
+    23.50435,
+    89.493,
+    23.50435
+],
+  "geometry": {"coordinates":[89.49299999999999,23.50435],"type":"Point"}
+}

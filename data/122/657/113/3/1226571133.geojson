@@ -1,0 +1,73 @@
+{
+  "id": 1226571133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.84946,23.33416,88.84946,23.33416",
+    "geom:latitude":23.33416,
+    "geom:longitude":88.84946,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4044.0",
+    "gn:admin3_code":"404471.0",
+    "gn:admin4_code":"40447165.0",
+    "gn:asciiname":"Hudapara",
+    "gn:country_code":"BD",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7485069,
+    "gn:latitude":23.33416,
+    "gn:longitude":88.84946,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Hud\u0101p\u0101ra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Hud\u0101p\u0101ra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        1108694679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7485069
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"cb0c0c0dc845392cbd7622fc8bf79556",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694679,
+            "locality_id":1226571133,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1226571133,
+    "wof:lastmodified":1537586581,
+    "wof:name":"Hudapara",
+    "wof:parent_id":1108694679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.84946,
+    23.33416,
+    88.84946,
+    23.33416
+],
+  "geometry": {"coordinates":[88.84945999999999,23.33416],"type":"Point"}
+}

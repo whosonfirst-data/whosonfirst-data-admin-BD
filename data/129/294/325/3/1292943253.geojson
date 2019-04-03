@@ -1,0 +1,70 @@
+{
+  "id": 1292943253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.37082,23.6379,90.37082,23.6379",
+    "geom:latitude":23.6379,
+    "geom:longitude":90.37082,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3059.0",
+    "gn:admin3_code":"305974.0",
+    "gn:admin4_code":"30597406.0",
+    "gn:asciiname":"Char Galgalia",
+    "gn:country_code":"BD",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1206932,
+    "gn:latitude":23.6379,
+    "gn:longitude":90.37082,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Char Galgalia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421205059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1206932
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"6303e3da429f8f81912845674ff1ee1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421205059,
+            "locality_id":1292943253,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1292943253,
+    "wof:lastmodified":1537071463,
+    "wof:name":"Char Galgalia",
+    "wof:parent_id":421205059,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.37082,
+    23.6379,
+    90.37082,
+    23.6379
+],
+  "geometry": {"coordinates":[90.37081999999999,23.6379],"type":"Point"}
+}

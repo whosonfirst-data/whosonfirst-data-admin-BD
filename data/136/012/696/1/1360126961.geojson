@@ -1,0 +1,76 @@
+{
+  "id": 1360126961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.36667,22.88333,91.36667,22.88333",
+    "geom:latitude":22.88333,
+    "geom:longitude":91.36667,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2030",
+    "gn:admin3_code":"203094.0",
+    "gn:admin4_code":"20309438.0",
+    "gn:asciiname":"Kazir Hat",
+    "gn:cc2":"BD",
+    "gn:country_code":"BD",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1197979,
+    "gn:latitude":22.88333,
+    "gn:longitude":91.36667,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"K\u0101zir H\u0101t",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "K\u0101zar H\u0101t",
+        "K\u0101zir H\u0101t"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421181771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1197979,
+        "wk:page":"Kazir_Hat"
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"0385b6775dbae6a4cb6498fef9640522",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421181771,
+            "locality_id":1360126961,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1360126961,
+    "wof:lastmodified":1537585935,
+    "wof:name":"Kazir Hat",
+    "wof:parent_id":421181771,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.36667,
+    22.88333,
+    91.36667,
+    22.88333
+],
+  "geometry": {"coordinates":[91.36667,22.88333],"type":"Point"}
+}

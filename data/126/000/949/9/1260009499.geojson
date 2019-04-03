@@ -1,0 +1,70 @@
+{
+  "id": 1260009499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.23983,25.18858,89.23983,25.18858",
+    "geom:latitude":25.18858,
+    "geom:longitude":89.23983,
+    "gn:admin1_code":"83",
+    "gn:asciiname":"Maklain",
+    "gn:country_code":"BD",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7889216,
+    "gn:latitude":25.18858,
+    "gn:longitude":89.23983,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Makl\u0101in",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Makl\u0101in"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7889216
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"d1920a6e3eafc2c002c0d724c420bef8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694675,
+            "locality_id":1260009499,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1260009499,
+    "wof:lastmodified":1537586731,
+    "wof:name":"Maklain",
+    "wof:parent_id":1108694675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.23983,
+    25.18858,
+    89.23983,
+    25.18858
+],
+  "geometry": {"coordinates":[89.23983,25.18858],"type":"Point"}
+}

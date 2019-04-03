@@ -1,0 +1,70 @@
+{
+  "id": 1209950135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.42993,22.25961,90.42993,22.25961",
+    "geom:latitude":22.25961,
+    "geom:longitude":90.42993,
+    "gn:admin1_code":"82",
+    "gn:asciiname":"Pankhali Haridebpur",
+    "gn:country_code":"BD",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1192549,
+    "gn:latitude":22.25961,
+    "gn:longitude":90.42993,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"P\u0101nkh\u0101li Haridebpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "P\u0101nkh\u0101li Haridebpur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669019,
+        421169845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1192549
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"34e6ad801cbaea3199cc5d2aa6a4a251",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421169845,
+            "locality_id":1209950135,
+            "region_id":85669019
+        }
+    ],
+    "wof:id":1209950135,
+    "wof:lastmodified":1537585837,
+    "wof:name":"Pankhali Haridebpur",
+    "wof:parent_id":421169845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.42993,
+    22.25961,
+    90.42993,
+    22.25961
+],
+  "geometry": {"coordinates":[90.42993,22.25961],"type":"Point"}
+}

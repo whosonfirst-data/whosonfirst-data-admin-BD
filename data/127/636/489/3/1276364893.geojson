@@ -1,0 +1,73 @@
+{
+  "id": 1276364893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.59169,23.78469,89.59169,23.78469",
+    "geom:latitude":23.78469,
+    "geom:longitude":89.59169,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3082.0",
+    "gn:admin3_code":"308276.0",
+    "gn:admin4_code":"30827651.0",
+    "gn:asciiname":"Dayainagar",
+    "gn:country_code":"BD",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7479591,
+    "gn:latitude":23.78469,
+    "gn:longitude":89.59169,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Dayainagar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Dayainagar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        1108694699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7479591
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"50fb43c13d5d54eadeb460eddbf9832d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694699,
+            "locality_id":1276364893,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1276364893,
+    "wof:lastmodified":1537586424,
+    "wof:name":"Dayainagar",
+    "wof:parent_id":1108694699,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.59169,
+    23.78469,
+    89.59169,
+    23.78469
+],
+  "geometry": {"coordinates":[89.59169,23.78469],"type":"Point"}
+}

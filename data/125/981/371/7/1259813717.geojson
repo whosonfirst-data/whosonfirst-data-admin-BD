@@ -1,0 +1,70 @@
+{
+  "id": 1259813717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.01667,23.65,90.01667,23.65",
+    "geom:latitude":23.65,
+    "geom:longitude":90.01667,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3056.0",
+    "gn:admin3_code":"305628.0",
+    "gn:admin4_code":"30562807.0",
+    "gn:asciiname":"Azimnagar",
+    "gn:country_code":"BD",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1212210,
+    "gn:latitude":23.65,
+    "gn:longitude":90.01667,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"\u0100zimnagar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421191745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1212210
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"3fe94fea429fb0f56b46b7195294f3ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421191745,
+            "locality_id":1259813717,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1259813717,
+    "wof:lastmodified":1536879078,
+    "wof:name":"Azimnagar",
+    "wof:parent_id":421191745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.01666999999998,
+    23.65,
+    90.01666999999998,
+    23.65
+],
+  "geometry": {"coordinates":[90.01666999999998,23.65],"type":"Point"}
+}

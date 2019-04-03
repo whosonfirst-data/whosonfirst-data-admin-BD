@@ -1,0 +1,70 @@
+{
+  "id": 1360015807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.48394,24.81987,89.48394,24.81987",
+    "geom:latitude":24.81987,
+    "geom:longitude":89.48394,
+    "gn:admin1_code":"83",
+    "gn:admin2_code":"5010",
+    "gn:admin3_code":"501040.0",
+    "gn:admin4_code":"50104054.0",
+    "gn:asciiname":"Mahisaban",
+    "gn:country_code":"BD",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1195528,
+    "gn:latitude":24.81987,
+    "gn:longitude":89.48394,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Mahis\u0101b\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669031,
+        421187793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1195528
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"e04d9224a6d9a325403dcd809f3ef59f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421187793,
+            "locality_id":1360015807,
+            "region_id":85669031
+        }
+    ],
+    "wof:id":1360015807,
+    "wof:lastmodified":1537043918,
+    "wof:name":"Mahisaban",
+    "wof:parent_id":421187793,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.48394,
+    24.81987,
+    89.48394,
+    24.81987
+],
+  "geometry": {"coordinates":[89.48394,24.81987],"type":"Point"}
+}

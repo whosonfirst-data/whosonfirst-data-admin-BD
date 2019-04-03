@@ -1,0 +1,73 @@
+{
+  "id": 1292933895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.63822,26.28379,88.63822,26.28379",
+    "geom:latitude":26.28379,
+    "geom:longitude":88.63822,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5577.0",
+    "gn:admin3_code":"557725.0",
+    "gn:admin4_code":"55772558.0",
+    "gn:asciiname":"Dighalgram",
+    "gn:country_code":"BD",
+    "gn:dem":68,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7104636,
+    "gn:latitude":26.28379,
+    "gn:longitude":88.63822,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Digh\u0101lgram",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Digh\u0101lgram"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7104636
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"390f0e2069ace7238ec685c30592afa4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694697,
+            "locality_id":1292933895,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1292933895,
+    "wof:lastmodified":1537586281,
+    "wof:name":"Dighalgram",
+    "wof:parent_id":1108694697,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.63821999999998,
+    26.28379,
+    88.63821999999998,
+    26.28379
+],
+  "geometry": {"coordinates":[88.63821999999998,26.28379],"type":"Point"}
+}

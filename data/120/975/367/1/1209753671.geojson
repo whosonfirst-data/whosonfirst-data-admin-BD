@@ -1,0 +1,73 @@
+{
+  "id": 1209753671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.92473,21.58436,91.92473,21.58436",
+    "geom:latitude":21.58436,
+    "geom:longitude":91.92473,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2022.0",
+    "gn:admin3_code":"202249.0",
+    "gn:admin4_code":"20224983.0",
+    "gn:asciiname":"Moyakata",
+    "gn:country_code":"BD",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6416138,
+    "gn:latitude":21.58436,
+    "gn:longitude":91.92473,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Moy\u0101k\u0101ta",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Moy\u0101k\u0101ta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421205057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6416138
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"95a0debf92e2e90d00720e24eb51c5c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421205057,
+            "locality_id":1209753671,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1209753671,
+    "wof:lastmodified":1537586257,
+    "wof:name":"Moyakata",
+    "wof:parent_id":421205057,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.92473,
+    21.58436,
+    91.92473,
+    21.58436
+],
+  "geometry": {"coordinates":[91.92473,21.58436],"type":"Point"}
+}

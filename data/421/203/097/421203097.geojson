@@ -1,0 +1,84 @@
+{
+  "id": 421203097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.40243,25.06889,91.40243,25.06889",
+    "geom:latitude":25.06889,
+    "geom:longitude":91.40243,
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:eng_x_preferred":[
+        "Sunamganj"
+    ],
+    "name:unk_x_variant":[
+        "Sonamganj"
+    ],
+    "qs:gn_country":"BD",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":1185105,
+    "qs:gn_pop":0,
+    "qs:name":"Sunamganj",
+    "qs:name_adm0":"Bangladesh",
+    "qs:name_adm1":"Sylhet",
+    "qs:photos":208,
+    "qs:photos_1k":42,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":208,
+    "qs:photos_sr":4,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "qs:qs_id":229279,
+    "qs:woe_adm0":23424759,
+    "qs:woe_id":1915245,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669025,
+        421201931
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1185105,
+        "gp:id":1915245,
+        "qs:id":229279,
+        "wd:id":"Q7638780",
+        "wk:page":"Sunamganj District"
+    },
+    "wof:country":"BD",
+    "wof:created":1459010140,
+    "wof:geomhash":"3225efdef509b4126e9d4b47da035e1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421201931,
+            "locality_id":421203097,
+            "region_id":85669025
+        }
+    ],
+    "wof:id":421203097,
+    "wof:lastmodified":1513899125,
+    "wof:name":"Sunamganj",
+    "wof:parent_id":421201931,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.40243,
+    25.06889,
+    91.40243,
+    25.06889
+],
+  "geometry": {"coordinates":[91.40243,25.06889],"type":"Point"}
+}

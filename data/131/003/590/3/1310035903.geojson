@@ -1,0 +1,70 @@
+{
+  "id": 1310035903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.60503,22.04794,90.60503,22.04794",
+    "geom:latitude":22.04794,
+    "geom:longitude":90.60503,
+    "gn:admin1_code":"82",
+    "gn:asciiname":"Char Kuralia",
+    "gn:country_code":"BD",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7478293,
+    "gn:latitude":22.04794,
+    "gn:longitude":90.60503,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"Char Kur\u0101lia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Char Kur\u0101lia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669019,
+        421184491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7478293
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"9e61c4573bcd6d8f5bf0f87b76c728d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421184491,
+            "locality_id":1310035903,
+            "region_id":85669019
+        }
+    ],
+    "wof:id":1310035903,
+    "wof:lastmodified":1537586388,
+    "wof:name":"Char Kuralia",
+    "wof:parent_id":421184491,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.60503,
+    22.04794,
+    90.60503,
+    22.04794
+],
+  "geometry": {"coordinates":[90.60503,22.04794],"type":"Point"}
+}

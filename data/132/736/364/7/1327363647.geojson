@@ -1,0 +1,73 @@
+{
+  "id": 1327363647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.02608,23.19521,89.02608,23.19521",
+    "geom:latitude":23.19521,
+    "geom:longitude":89.02608,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4041.0",
+    "gn:admin3_code":"404123.0",
+    "gn:admin4_code":"40412329.0",
+    "gn:asciiname":"Gulbakpur",
+    "gn:country_code":"BD",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1201894,
+    "gn:latitude":23.19521,
+    "gn:longitude":89.02608,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Gulb\u0101kpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Gulb\u0101kpur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        421176039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1201894
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"1f7f34c8b6a44f9b2164dc6fe60c9f70",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421176039,
+            "locality_id":1327363647,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1327363647,
+    "wof:lastmodified":1537586007,
+    "wof:name":"Gulbakpur",
+    "wof:parent_id":421176039,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.02608000000002,
+    23.19521,
+    89.02608000000002,
+    23.19521
+],
+  "geometry": {"coordinates":[89.02608000000002,23.19521],"type":"Point"}
+}

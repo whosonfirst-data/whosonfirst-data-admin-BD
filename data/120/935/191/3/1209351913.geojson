@@ -1,0 +1,64 @@
+{
+  "id": 1209351913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.65837,24.36067,89.65837,24.36067",
+    "geom:latitude":24.36067,
+    "geom:longitude":89.65837,
+    "gn:admin1_code":"83",
+    "gn:admin2_code":"5088",
+    "gn:admin3_code":"508844.0",
+    "gn:admin4_code":"50884438.0",
+    "gn:asciiname":"Kamarkhanda",
+    "gn:country_code":"BD",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8430008,
+    "gn:latitude":24.36067,
+    "gn:longitude":89.65837,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"K\u0101m\u0101rkhanda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8430008
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"59482f1c61ae55502307da99aef94503",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209351913
+        }
+    ],
+    "wof:id":1209351913,
+    "wof:lastmodified":1536289713,
+    "wof:name":"Kamarkhanda",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.65836999999998,
+    24.36067,
+    89.65836999999998,
+    24.36067
+],
+  "geometry": {"coordinates":[89.65836999999998,24.36067],"type":"Point"}
+}

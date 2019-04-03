@@ -1,0 +1,74 @@
+{
+  "id": 1259616649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.28372,22.61283,90.28372,22.61283",
+    "geom:latitude":22.61283,
+    "geom:longitude":90.28372,
+    "gn:admin1_code":"85",
+    "gn:admin2_code":"1042.0",
+    "gn:admin3_code":"104273.0",
+    "gn:admin4_code":"10427384.0",
+    "gn:asciiname":"Dahara",
+    "gn:country_code":"BD",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1205609,
+    "gn:latitude":22.61283,
+    "gn:longitude":90.28372,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Dahara",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dahra",
+        "Dahara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669019,
+        1108694677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1205609
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"64e91b212b4e5a9880a0b32ba02ae4ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694677,
+            "locality_id":1259616649,
+            "region_id":85669019
+        }
+    ],
+    "wof:id":1259616649,
+    "wof:lastmodified":1537586077,
+    "wof:name":"Dahara",
+    "wof:parent_id":1108694677,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.28372,
+    22.61283,
+    90.28372,
+    22.61283
+],
+  "geometry": {"coordinates":[90.28372,22.61283],"type":"Point"}
+}

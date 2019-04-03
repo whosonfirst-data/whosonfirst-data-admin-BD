@@ -1,0 +1,73 @@
+{
+  "id": 1225874589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.55062,25.28286,89.55062,25.28286",
+    "geom:latitude":25.28286,
+    "geom:longitude":89.55062,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5532",
+    "gn:admin3_code":"553224.0",
+    "gn:admin4_code":"55322421.0",
+    "gn:asciiname":"Harinsingha",
+    "gn:country_code":"BD",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7905470,
+    "gn:latitude":25.28286,
+    "gn:longitude":89.55062,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Harinsingha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Harinsingha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7905470
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"866c22c18f191bb7e185098bb60f5a70",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694675,
+            "locality_id":1225874589,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1225874589,
+    "wof:lastmodified":1537586773,
+    "wof:name":"Harinsingha",
+    "wof:parent_id":1108694675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.55062,
+    25.28286,
+    89.55062,
+    25.28286
+],
+  "geometry": {"coordinates":[89.55062,25.28286],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1343389043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.07549,23.70191,89.07549,23.70191",
+    "geom:latitude":23.70191,
+    "geom:longitude":89.07549,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4044.0",
+    "gn:admin3_code":"404414.0",
+    "gn:admin4_code":"40441452.0",
+    "gn:asciiname":"Harishpur",
+    "gn:country_code":"BD",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1201363,
+    "gn:latitude":23.70191,
+    "gn:longitude":89.07549,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Harishpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Harishpur"
+    ],
+    "name:und_x_variant":[
+        "Harispur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        1108694679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1201363
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"73f76159c46e982f694b7ec12b9dfa41",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694679,
+            "locality_id":1343389043,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1343389043,
+    "wof:lastmodified":1537585998,
+    "wof:name":"Harishpur",
+    "wof:parent_id":1108694679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.07549,
+    23.70191,
+    89.07549,
+    23.70191
+],
+  "geometry": {"coordinates":[89.07549,23.70191],"type":"Point"}
+}

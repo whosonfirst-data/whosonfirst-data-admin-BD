@@ -1,0 +1,76 @@
+{
+  "id": 1293238011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.44755,22.88163,90.44755,22.88163",
+    "geom:latitude":22.88163,
+    "geom:longitude":90.44755,
+    "gn:admin1_code":"85",
+    "gn:admin2_code":"1006.0",
+    "gn:admin3_code":"100662.0",
+    "gn:admin4_code":"10066279.0",
+    "gn:asciiname":"Sonapur",
+    "gn:country_code":"BD",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1206447,
+    "gn:latitude":22.88163,
+    "gn:longitude":90.44755,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Son\u0101pur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tar Son\u0101pur",
+        "Char Son\u0101pur",
+        "Son\u0101pur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669019,
+        421187745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1206447,
+        "wk:page":"Char_Sonapur"
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"89c7d32ae37b4d73a8c7e780d1d793ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421187745,
+            "locality_id":1293238011,
+            "region_id":85669019
+        }
+    ],
+    "wof:id":1293238011,
+    "wof:lastmodified":1537586094,
+    "wof:name":"Sonapur",
+    "wof:parent_id":421187745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.44755,
+    22.88163,
+    90.44755,
+    22.88163
+],
+  "geometry": {"coordinates":[90.44755000000001,22.88163],"type":"Point"}
+}

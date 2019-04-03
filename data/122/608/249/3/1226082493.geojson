@@ -1,0 +1,70 @@
+{
+  "id": 1226082493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.27718,24.72314,90.27718,24.72314",
+    "geom:latitude":24.72314,
+    "geom:longitude":90.27718,
+    "gn:admin1_code":"H",
+    "gn:admin2_code":"3061.0",
+    "gn:admin3_code":"306165.0",
+    "gn:admin4_code":"30616560.0",
+    "gn:asciiname":"Chapuria",
+    "gn:country_code":"BD",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1207183,
+    "gn:latitude":24.72314,
+    "gn:longitude":90.27718,
+    "gn:modification_date":"2016-11-17",
+    "gn:name":"Ch\u0101puria",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        1108803101,
+        421185469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1207183
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"49b74525e6f31355e69bee51d32ba5ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421185469,
+            "locality_id":1226082493,
+            "region_id":1108803101
+        }
+    ],
+    "wof:id":1226082493,
+    "wof:lastmodified":1536672036,
+    "wof:name":"Chapuria",
+    "wof:parent_id":421185469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.27718,
+    24.72314,
+    90.27718,
+    24.72314
+],
+  "geometry": {"coordinates":[90.27718,24.72314],"type":"Point"}
+}

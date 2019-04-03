@@ -1,0 +1,70 @@
+{
+  "id": 1344094005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.9,24.53333,90.9,24.53333",
+    "geom:latitude":24.53333,
+    "geom:longitude":90.9,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3048.0",
+    "gn:admin3_code":"304892.0",
+    "gn:admin4_code":"30489240.0",
+    "gn:asciiname":"Baruha",
+    "gn:country_code":"BD",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1210062,
+    "gn:latitude":24.53333,
+    "gn:longitude":90.9,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Baruha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421170483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1210062
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"4bb06db5e694abaed36c1717b3923b76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421170483,
+            "locality_id":1344094005,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1344094005,
+    "wof:lastmodified":1536826179,
+    "wof:name":"Baruha",
+    "wof:parent_id":421170483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.9,
+    24.53333,
+    90.9,
+    24.53333
+],
+  "geometry": {"coordinates":[90.90000000000001,24.53333],"type":"Point"}
+}

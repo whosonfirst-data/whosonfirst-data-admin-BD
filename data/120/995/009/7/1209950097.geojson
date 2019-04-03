@@ -1,0 +1,75 @@
+{
+  "id": 1209950097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"92.26023,25.02674,92.26023,25.02674",
+    "geom:latitude":25.02674,
+    "geom:longitude":92.26023,
+    "gn:admin1_code":"86",
+    "gn:admin2_code":"6091.0",
+    "gn:admin3_code":"609159.0",
+    "gn:admin4_code":"60915947.0",
+    "gn:asciiname":"Bishanpur",
+    "gn:country_code":"BD",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1211787,
+    "gn:latitude":25.02674,
+    "gn:longitude":92.26023,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Bishanpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bayampur",
+        "Bahanpur",
+        "Bishanpur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669025,
+        421187795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1211787
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"19796aece07a620c7475bd15c48c468b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421187795,
+            "locality_id":1209950097,
+            "region_id":85669025
+        }
+    ],
+    "wof:id":1209950097,
+    "wof:lastmodified":1537586184,
+    "wof:name":"Bishanpur",
+    "wof:parent_id":421187795,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    92.26023,
+    25.02674,
+    92.26023,
+    25.02674
+],
+  "geometry": {"coordinates":[92.26023000000001,25.02674],"type":"Point"}
+}

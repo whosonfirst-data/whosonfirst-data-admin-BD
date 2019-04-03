@@ -1,0 +1,73 @@
+{
+  "id": 1193167105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.35449,25.66528,89.35449,25.66528",
+    "geom:latitude":25.66528,
+    "geom:longitude":89.35449,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5585.0",
+    "gn:admin3_code":"558573.0",
+    "gn:admin4_code":"55857366.0",
+    "gn:asciiname":"Sayadpur",
+    "gn:country_code":"BD",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7889149,
+    "gn:latitude":25.66528,
+    "gn:longitude":89.35449,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Sayadp\u016br",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Sayadp\u016br"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7889149
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"4f1458fe45acb960e118c519acffe603",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694701,
+            "locality_id":1193167105,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1193167105,
+    "wof:lastmodified":1537586729,
+    "wof:name":"Sayadpur",
+    "wof:parent_id":1108694701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.35449,
+    25.66528,
+    89.35449,
+    25.66528
+],
+  "geometry": {"coordinates":[89.35449,25.66528],"type":"Point"}
+}

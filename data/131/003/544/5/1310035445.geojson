@@ -1,0 +1,73 @@
+{
+  "id": 1310035445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.36281,25.75788,88.36281,25.75788",
+    "geom:latitude":25.75788,
+    "geom:longitude":88.36281,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5594.0",
+    "gn:admin3_code":"559482.0",
+    "gn:admin4_code":"55948251.0",
+    "gn:asciiname":"Dakshin Malancha",
+    "gn:country_code":"BD",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7487779,
+    "gn:latitude":25.75788,
+    "gn:longitude":88.36281,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Dakshin Malancha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Dakshin Malancha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7487779
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"19eb0d4c1fa4edbe7b9e03e6f1d806ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694703,
+            "locality_id":1310035445,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1310035445,
+    "wof:lastmodified":1537586649,
+    "wof:name":"Dakshin Malancha",
+    "wof:parent_id":1108694703,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.36281,
+    25.75788,
+    88.36281,
+    25.75788
+],
+  "geometry": {"coordinates":[88.36281,25.75788],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1209034707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.09316,21.97643,90.09316,21.97643",
+    "geom:latitude":21.97643,
+    "geom:longitude":90.09316,
+    "gn:admin1_code":"85",
+    "gn:admin2_code":"1004.0",
+    "gn:admin3_code":"100409.0",
+    "gn:admin4_code":"10040939.0",
+    "gn:asciiname":"Tulatali",
+    "gn:country_code":"BD",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7477718,
+    "gn:latitude":21.97643,
+    "gn:longitude":90.09316,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Tul\u0101tali",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Tul\u0101tali"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7477718
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"326785fc4f06e4ce7b14a2ae0f98c8f6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209034707
+        }
+    ],
+    "wof:id":1209034707,
+    "wof:lastmodified":1537586374,
+    "wof:name":"Tulatali",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.09316,
+    21.97643,
+    90.09316,
+    21.97643
+],
+  "geometry": {"coordinates":[90.09316,21.97643],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1276816789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.81188,23.1608,91.81188,23.1608",
+    "geom:latitude":23.1608,
+    "geom:longitude":91.81188,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2046.0",
+    "gn:admin3_code":"204670.0",
+    "gn:admin4_code":"20467011.0",
+    "gn:asciiname":"Diwan Bazar",
+    "gn:country_code":"BD",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1203956,
+    "gn:latitude":23.1608,
+    "gn:longitude":91.81188,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"D\u012bw\u0101n B\u0101z\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        1108694683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1203956
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"74ab1fac261a86ef6ea2c35621f055a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694683,
+            "locality_id":1276816789,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1276816789,
+    "wof:lastmodified":1536626379,
+    "wof:name":"Diwan Bazar",
+    "wof:parent_id":1108694683,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.81188,
+    23.1608,
+    91.81188,
+    23.1608
+],
+  "geometry": {"coordinates":[91.81188,23.1608],"type":"Point"}
+}

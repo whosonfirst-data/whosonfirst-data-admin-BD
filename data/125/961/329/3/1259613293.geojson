@@ -1,0 +1,70 @@
+{
+  "id": 1259613293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.94252,23.27598,89.94252,23.27598",
+    "geom:latitude":23.27598,
+    "geom:longitude":89.94252,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3035.0",
+    "gn:admin3_code":"303558.0",
+    "gn:admin4_code":"30355867.0",
+    "gn:asciiname":"Dhopadi",
+    "gn:country_code":"BD",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1204210,
+    "gn:latitude":23.27598,
+    "gn:longitude":89.94252,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Dhop\u0101di",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421194867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1204210
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"dfedbaf6886ba3000bd511a39b27d773",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421194867,
+            "locality_id":1259613293,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1259613293,
+    "wof:lastmodified":1536671923,
+    "wof:name":"Dhopadi",
+    "wof:parent_id":421194867,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.94252,
+    23.27598,
+    89.94252,
+    23.27598
+],
+  "geometry": {"coordinates":[89.94252,23.27598],"type":"Point"}
+}

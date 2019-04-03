@@ -1,0 +1,70 @@
+{
+  "id": 1209748753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.54421,23.37342,89.54421,23.37342",
+    "geom:latitude":23.37342,
+    "geom:longitude":89.54421,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4055.0",
+    "gn:admin3_code":"405566.0",
+    "gn:admin4_code":"40556684.0",
+    "gn:asciiname":"Gobarnada",
+    "gn:country_code":"BD",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1202353,
+    "gn:latitude":23.37342,
+    "gn:longitude":89.54421,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Gobarn\u0101da",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        1108694689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1202353
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"c0020a5c95eeecd8b48fb7aee07ca86b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694689,
+            "locality_id":1209748753,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1209748753,
+    "wof:lastmodified":1536393769,
+    "wof:name":"Gobarnada",
+    "wof:parent_id":1108694689,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.54420999999998,
+    23.37342,
+    89.54420999999998,
+    23.37342
+],
+  "geometry": {"coordinates":[89.54420999999998,23.37342],"type":"Point"}
+}

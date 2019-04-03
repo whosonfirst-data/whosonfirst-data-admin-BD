@@ -1,0 +1,70 @@
+{
+  "id": 1327167329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.04034,24.99005,90.04034,24.99005",
+    "geom:latitude":24.99005,
+    "geom:longitude":90.04034,
+    "gn:admin1_code":"H",
+    "gn:admin2_code":"3089",
+    "gn:admin3_code":"308988.0",
+    "gn:admin4_code":"30898820.0",
+    "gn:asciiname":"Madhya Baira",
+    "gn:country_code":"BD",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1195799,
+    "gn:latitude":24.99005,
+    "gn:longitude":90.04034,
+    "gn:modification_date":"2016-11-17",
+    "gn:name":"Madhya Baira",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        1108803101,
+        421190979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1195799
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"c6f4099264034fa53c3514ba379fa8bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421190979,
+            "locality_id":1327167329,
+            "region_id":1108803101
+        }
+    ],
+    "wof:id":1327167329,
+    "wof:lastmodified":1537060919,
+    "wof:name":"Madhya Baira",
+    "wof:parent_id":421190979,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.04034,
+    24.99005,
+    90.04034,
+    24.99005
+],
+  "geometry": {"coordinates":[90.04034,24.99005],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1193216315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.13899,23.75315,91.13899,23.75315",
+    "geom:latitude":23.75315,
+    "geom:longitude":91.13899,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2012.0",
+    "gn:admin3_code":"201263.0",
+    "gn:admin4_code":"20126363.0",
+    "gn:asciiname":"Araibari",
+    "gn:country_code":"BD",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1212623,
+    "gn:latitude":23.75315,
+    "gn:longitude":91.13899,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"\u0100r\u0101ib\u0101ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        1108694667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1212623
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"bff2cb6aeaec90fc72349f8268a896eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694667,
+            "locality_id":1193216315,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1193216315,
+    "wof:lastmodified":1536380196,
+    "wof:name":"Araibari",
+    "wof:parent_id":1108694667,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.13899,
+    23.75315,
+    91.13899,
+    23.75315
+],
+  "geometry": {"coordinates":[91.13899000000001,23.75315],"type":"Point"}
+}

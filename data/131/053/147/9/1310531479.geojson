@@ -1,0 +1,76 @@
+{
+  "id": 1310531479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.65377,23.85248,88.65377,23.85248",
+    "geom:latitude":23.85248,
+    "geom:longitude":88.65377,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4057.0",
+    "gn:admin3_code":"405747.0",
+    "gn:admin4_code":"40574742.0",
+    "gn:asciiname":"Garabaria",
+    "gn:country_code":"BD",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1202917,
+    "gn:latitude":23.85248,
+    "gn:longitude":88.65377,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"G\u0101r\u0101b\u0101ria",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "G\u0101r\u0101b\u0101ria"
+    ],
+    "name:ben_x_variant":[
+        "G\u0101nr\u0101b\u0101ria"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        421191661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1202917
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"6acce6f187cc38ab56edb42de4a791b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421191661,
+            "locality_id":1310531479,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1310531479,
+    "wof:lastmodified":1537586026,
+    "wof:name":"Garabaria",
+    "wof:parent_id":421191661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.65377,
+    23.85248,
+    88.65377,
+    23.85248
+],
+  "geometry": {"coordinates":[88.65376999999999,23.85248],"type":"Point"}
+}

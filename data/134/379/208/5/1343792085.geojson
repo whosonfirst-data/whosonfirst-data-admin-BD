@@ -1,0 +1,73 @@
+{
+  "id": 1343792085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.42351,23.20603,89.42351,23.20603",
+    "geom:latitude":23.20603,
+    "geom:longitude":89.42351,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4065.0",
+    "gn:admin3_code":"406576.0",
+    "gn:admin4_code":"40657694.0",
+    "gn:asciiname":"Bamanhat",
+    "gn:country_code":"BD",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7479937,
+    "gn:latitude":23.20603,
+    "gn:longitude":89.42351,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"B\u0101manh\u0101t",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "B\u0101manh\u0101t"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        421205213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7479937
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"1fc3050082f1f9e3964e7e005b0b9f31",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421205213,
+            "locality_id":1343792085,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1343792085,
+    "wof:lastmodified":1537586435,
+    "wof:name":"Bamanhat",
+    "wof:parent_id":421205213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.42351,
+    23.20603,
+    89.42351,
+    23.20603
+],
+  "geometry": {"coordinates":[89.42350999999999,23.20603],"type":"Point"}
+}

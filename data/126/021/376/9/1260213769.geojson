@@ -1,0 +1,70 @@
+{
+  "id": 1260213769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.13196,25.11432,90.13196,25.11432",
+    "geom:latitude":25.11432,
+    "geom:longitude":90.13196,
+    "gn:admin1_code":"H",
+    "gn:admin2_code":"3089",
+    "gn:admin3_code":"308970.0",
+    "gn:admin4_code":"30897008.0",
+    "gn:asciiname":"Baghoei Kalaspara",
+    "gn:country_code":"BD",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7914178,
+    "gn:latitude":25.11432,
+    "gn:longitude":90.13196,
+    "gn:modification_date":"2016-11-17",
+    "gn:name":"Baghoe\u012b Kalaspara",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        1108803101,
+        421190979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7914178
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"712209a7adefb15b05210d342ac7730c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421190979,
+            "locality_id":1260213769,
+            "region_id":1108803101
+        }
+    ],
+    "wof:id":1260213769,
+    "wof:lastmodified":1536806415,
+    "wof:name":"Baghoei Kalaspara",
+    "wof:parent_id":421190979,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.13196,
+    25.11432000000001,
+    90.13196,
+    25.11432000000001
+],
+  "geometry": {"coordinates":[90.13196000000001,25.11432000000001],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1310234891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.31174,25.13273,89.31174,25.13273",
+    "geom:latitude":25.13273,
+    "geom:longitude":89.31174,
+    "gn:admin1_code":"83",
+    "gn:asciiname":"Phulpukuria",
+    "gn:country_code":"BD",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7890098,
+    "gn:latitude":25.13273,
+    "gn:longitude":89.31174,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Phulpukuria",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Phulpukuria"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7890098
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"432161300ef22e55f69e884991723f01",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694675,
+            "locality_id":1310234891,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1310234891,
+    "wof:lastmodified":1537586740,
+    "wof:name":"Phulpukuria",
+    "wof:parent_id":1108694675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.31174,
+    25.13273,
+    89.31174,
+    25.13273
+],
+  "geometry": {"coordinates":[89.31174,25.13273],"type":"Point"}
+}

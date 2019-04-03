@@ -1,0 +1,74 @@
+{
+  "id": 1242910733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.39493,25.71195,89.39493,25.71195",
+    "geom:latitude":25.71195,
+    "geom:longitude":89.39493,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5585",
+    "gn:admin3_code":"558573.0",
+    "gn:admin4_code":"55857328.0",
+    "gn:asciiname":"Itakumari",
+    "gn:country_code":"BD",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1200660,
+    "gn:latitude":25.71195,
+    "gn:longitude":89.39493,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Itakum\u0101ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Itakum\u0101ri",
+        "It\u0101kum\u0101ri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1200660
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"01b369099ff2a2bd24c66d68c0b6bafd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694701,
+            "locality_id":1242910733,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1242910733,
+    "wof:lastmodified":1537585984,
+    "wof:name":"Itakumari",
+    "wof:parent_id":1108694701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.39493,
+    25.71195,
+    89.39493,
+    25.71195
+],
+  "geometry": {"coordinates":[89.39493,25.71195],"type":"Point"}
+}

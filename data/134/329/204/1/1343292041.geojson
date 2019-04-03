@@ -1,0 +1,71 @@
+{
+  "id": 1343292041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.254,22.72504,90.254,22.72504",
+    "geom:latitude":22.72504,
+    "geom:longitude":90.254,
+    "gn:admin1_code":"82",
+    "gn:asciiname":"West Sibaikati",
+    "gn:country_code":"BD",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1185321,
+    "gn:latitude":22.72504,
+    "gn:longitude":90.254,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"West Sib\u0101ik\u0101ti",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "West Shibaikati",
+        "West Sib\u0101ik\u0101ti"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669019,
+        1108694677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1185321
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"b9919fab7e2c0c5770f92aa9e48d1a76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694677,
+            "locality_id":1343292041,
+            "region_id":85669019
+        }
+    ],
+    "wof:id":1343292041,
+    "wof:lastmodified":1537585696,
+    "wof:name":"West Sibaikati",
+    "wof:parent_id":1108694677,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.254,
+    22.72504,
+    90.254,
+    22.72504
+],
+  "geometry": {"coordinates":[90.254,22.72504],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1276698021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.78181,23.52216,90.78181,23.52216",
+    "geom:latitude":23.52216,
+    "geom:longitude":90.78181,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2019",
+    "gn:admin3_code":"201936.0",
+    "gn:admin4_code":"20193690.0",
+    "gn:asciiname":"Ichhapura",
+    "gn:country_code":"BD",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1200832,
+    "gn:latitude":23.52216,
+    "gn:longitude":90.78181,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Ichh\u0101pura",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ichhapur",
+        "Ichh\u0101pura"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421187801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1200832
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"b2ae6c93e17ecec35d9b4774197996d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421187801,
+            "locality_id":1276698021,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1276698021,
+    "wof:lastmodified":1537585987,
+    "wof:name":"Ichhapura",
+    "wof:parent_id":421187801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.78181,
+    23.52216,
+    90.78181,
+    23.52216
+],
+  "geometry": {"coordinates":[90.78180999999999,23.52216],"type":"Point"}
+}

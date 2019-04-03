@@ -1,0 +1,107 @@
+{
+  "id": 85902977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":29209403.963836,
+    "geom:bbox":"91.824299,22.332965,91.824299,22.332965",
+    "geom:latitude":22.332965,
+    "geom:longitude":91.824299,
+    "iso:country":"BD",
+    "lbl:latitude":22.332965,
+    "lbl:longitude":91.824299,
+    "mps:latitude":22.329752,
+    "mps:longitude":91.822694,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":1,
+    "name:eng_x_colloquial":[
+        "Sadar Ghaat",
+        "Sadar Ghat"
+    ],
+    "name:eng_x_preferred":[
+        "Sadar Gh\u00e5t"
+    ],
+    "name:unk_x_variant":[
+        "Sadar Gh\u00e5t"
+    ],
+    "qs:gn_adm0_cc":"BD",
+    "qs:gn_id":0,
+    "qs:gn_local":1205733,
+    "qs:gn_nam_loc":"Chittagong, Chittagong, Chittagong, BD",
+    "qs:gn_namadm1":"84",
+    "qs:id":0,
+    "qs:local_max":310,
+    "qs:local_sum":310,
+    "qs:localhoods":1,
+    "qs:name":"Sadar Gh\u00e5t",
+    "qs:name_adm0":"Bangladesh",
+    "qs:name_adm1":"Chittagong",
+    "qs:name_adm2":"Chittagong",
+    "qs:name_local":"Chittagong",
+    "qs:photo_max":102,
+    "qs:photo_sum":310,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":30,
+    "qs:woe_adm0":23424759,
+    "qs:woe_adm1":2344790,
+    "qs:woe_adm2":23706416,
+    "qs:woe_lau":0,
+    "qs:woe_local":1915031,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        421201541,
+        85669023
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1911037
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"6697c9b2ab8ed0ae5c90bc21e6d0d28c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421201541,
+            "locality_id":-1,
+            "neighbourhood_id":85902977,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":85902977,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531935974,
+    "wof:name":"Sadar Gh\u00e5t",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.824299,
+    22.332965,
+    91.824299,
+    22.332965
+],
+  "geometry": {"coordinates":[91.824299,22.332965],"type":"Point"}
+}

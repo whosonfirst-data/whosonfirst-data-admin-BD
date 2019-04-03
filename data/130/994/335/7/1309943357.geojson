@@ -1,0 +1,79 @@
+{
+  "id": 1309943357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.59855,26.1432,88.59855,26.1432",
+    "geom:latitude":26.1432,
+    "geom:longitude":88.59855,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5594",
+    "gn:admin3_code":"559494.0",
+    "gn:admin4_code":"55949421.0",
+    "gn:asciiname":"Kismat Sukhanpukhri",
+    "gn:country_code":"BD",
+    "gn:dem":63,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1197130,
+    "gn:latitude":26.1432,
+    "gn:longitude":88.59855,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Kismat Sukhanpukhri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Kismat Sukhanpokhri"
+    ],
+    "name:ben_x_variant":[
+        "Kismat Sukhanpukhri"
+    ],
+    "name:und_x_variant":[
+        "Kismat Sukhanpukhari"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1197130
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"a215ec4ee9ba09239047ac0781184837",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694697,
+            "locality_id":1309943357,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1309943357,
+    "wof:lastmodified":1537585917,
+    "wof:name":"Kismat Sukhanpukhri",
+    "wof:parent_id":1108694697,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.59855,
+    26.1432,
+    88.59855,
+    26.1432
+],
+  "geometry": {"coordinates":[88.59855,26.1432],"type":"Point"}
+}

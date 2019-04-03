@@ -1,0 +1,75 @@
+{
+  "id": 1360322591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.24907,23.61965,90.24907,23.61965",
+    "geom:latitude":23.61965,
+    "geom:longitude":90.24907,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3059",
+    "gn:admin3_code":"305984.0",
+    "gn:admin4_code":"30598420.0",
+    "gn:asciiname":"Sibarampur",
+    "gn:country_code":"BD",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1188072,
+    "gn:latitude":23.61965,
+    "gn:longitude":90.24907,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Sibar\u0101mpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shibr\u0101mpur",
+        "Sibrampur",
+        "Sibar\u0101mpur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421205059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1188072
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"4770f808b5df68ab58324f61a88aec50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421205059,
+            "locality_id":1360322591,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1360322591,
+    "wof:lastmodified":1537585751,
+    "wof:name":"Sibarampur",
+    "wof:parent_id":421205059,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.24907,
+    23.61965,
+    90.24907,
+    23.61965
+],
+  "geometry": {"coordinates":[90.24907,23.61965],"type":"Point"}
+}

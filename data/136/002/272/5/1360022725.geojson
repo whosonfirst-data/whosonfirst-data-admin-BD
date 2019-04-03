@@ -1,0 +1,70 @@
+{
+  "id": 1360022725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.19307,22.71167,90.19307,22.71167",
+    "geom:latitude":22.71167,
+    "geom:longitude":90.19307,
+    "gn:admin1_code":"85",
+    "gn:admin2_code":"1042.0",
+    "gn:admin3_code":"104240.0",
+    "gn:admin4_code":"10424076.0",
+    "gn:asciiname":"Barahar",
+    "gn:country_code":"BD",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1210560,
+    "gn:latitude":22.71167,
+    "gn:longitude":90.19307,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Barah\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669019,
+        1108694677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1210560
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"e1686b9620f16f9fc317b97a8b8f723d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694677,
+            "locality_id":1360022725,
+            "region_id":85669019
+        }
+    ],
+    "wof:id":1360022725,
+    "wof:lastmodified":1537034007,
+    "wof:name":"Barahar",
+    "wof:parent_id":1108694677,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.19307,
+    22.71167,
+    90.19307,
+    22.71167
+],
+  "geometry": {"coordinates":[90.19307000000001,22.71167],"type":"Point"}
+}

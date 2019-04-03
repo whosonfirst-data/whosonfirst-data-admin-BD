@@ -1,0 +1,70 @@
+{
+  "id": 1193055555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.301,24.7502,90.301,24.7502",
+    "geom:latitude":24.7502,
+    "geom:longitude":90.301,
+    "gn:admin1_code":"H",
+    "gn:admin2_code":"3061.0",
+    "gn:admin3_code":"306165.0",
+    "gn:admin4_code":"30616569.0",
+    "gn:asciiname":"Ghoshbari",
+    "gn:country_code":"BD",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1202515,
+    "gn:latitude":24.7502,
+    "gn:longitude":90.301,
+    "gn:modification_date":"2016-11-17",
+    "gn:name":"Ghoshb\u0101ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        1108803101,
+        421185469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1202515
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"3a7d682668e99ebd343eb54a76e683ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421185469,
+            "locality_id":1193055555,
+            "region_id":1108803101
+        }
+    ],
+    "wof:id":1193055555,
+    "wof:lastmodified":1536383212,
+    "wof:name":"Ghoshbari",
+    "wof:parent_id":421185469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.301,
+    24.7502,
+    90.301,
+    24.7502
+],
+  "geometry": {"coordinates":[90.301,24.7502],"type":"Point"}
+}

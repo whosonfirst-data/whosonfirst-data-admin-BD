@@ -1,0 +1,70 @@
+{
+  "id": 1293427119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.6535,24.85293,90.6535,24.85293",
+    "geom:latitude":24.85293,
+    "geom:longitude":90.6535,
+    "gn:admin1_code":"H",
+    "gn:admin2_code":"3072.0",
+    "gn:admin3_code":"307283.0",
+    "gn:admin4_code":"30728387.0",
+    "gn:asciiname":"Baulam",
+    "gn:country_code":"BD",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1209815,
+    "gn:latitude":24.85293,
+    "gn:longitude":90.6535,
+    "gn:modification_date":"2016-11-17",
+    "gn:name":"Baul\u0101m",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        1108803101,
+        421200811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1209815
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"8839021f8bb15d4315de7f8b8c7856ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421200811,
+            "locality_id":1293427119,
+            "region_id":1108803101
+        }
+    ],
+    "wof:id":1293427119,
+    "wof:lastmodified":1536872957,
+    "wof:name":"Baulam",
+    "wof:parent_id":421200811,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.6535,
+    24.85293,
+    90.6535,
+    24.85293
+],
+  "geometry": {"coordinates":[90.65349999999999,24.85293],"type":"Point"}
+}

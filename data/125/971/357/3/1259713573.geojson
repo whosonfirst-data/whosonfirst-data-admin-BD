@@ -1,0 +1,73 @@
+{
+  "id": 1259713573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.29041,25.47545,89.29041,25.47545",
+    "geom:latitude":25.47545,
+    "geom:longitude":89.29041,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5585",
+    "gn:admin3_code":"558576.0",
+    "gn:admin4_code":"55857612.0",
+    "gn:asciiname":"Daserpara",
+    "gn:country_code":"BD",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7891536,
+    "gn:latitude":25.47545,
+    "gn:longitude":89.29041,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Daserpara",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Daserpara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7891536
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"c4ac6e98780b25be445f378cb9304071",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694701,
+            "locality_id":1259713573,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1259713573,
+    "wof:lastmodified":1537586752,
+    "wof:name":"Daserpara",
+    "wof:parent_id":1108694701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.29041,
+    25.47545,
+    89.29041,
+    25.47545
+],
+  "geometry": {"coordinates":[89.29040999999999,25.47545],"type":"Point"}
+}

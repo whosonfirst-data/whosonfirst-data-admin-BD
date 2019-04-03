@@ -1,0 +1,73 @@
+{
+  "id": 1344190641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.48963,25.88841,88.48963,25.88841",
+    "geom:latitude":25.88841,
+    "geom:longitude":88.48963,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5527.0",
+    "gn:admin3_code":"552721.0",
+    "gn:admin4_code":"55272140.0",
+    "gn:asciiname":"Sonkai",
+    "gn:country_code":"BD",
+    "gn:dem":51,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7487857,
+    "gn:latitude":25.88841,
+    "gn:longitude":88.48963,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Sonk\u0101i",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Sonk\u0101i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7487857
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"cd2b5258b4ef4a1cbcd82c21c8d3ee49",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694671,
+            "locality_id":1344190641,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1344190641,
+    "wof:lastmodified":1537586651,
+    "wof:name":"Sonkai",
+    "wof:parent_id":1108694671,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.48963,
+    25.88841,
+    88.48963,
+    25.88841
+],
+  "geometry": {"coordinates":[88.48963000000001,25.88841],"type":"Point"}
+}

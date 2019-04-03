@@ -1,0 +1,75 @@
+{
+  "id": 1360233305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.0,23.25,91.0,23.25",
+    "geom:latitude":23.25,
+    "geom:longitude":91.0,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2013",
+    "gn:admin3_code":"201395.0",
+    "gn:admin4_code":"20139580.0",
+    "gn:asciiname":"Pipalkara",
+    "gn:cc2":"BD",
+    "gn:country_code":"BD",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1191105,
+    "gn:latitude":23.25,
+    "gn:longitude":91.0,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"P\u012bpalk\u0101ra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pipulkara",
+        "P\u012bpalk\u0101ra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        1108694669
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1191105
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"6f5474d71ecfca1cb7a3ba85b5a9a722",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694669,
+            "locality_id":1360233305,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1360233305,
+    "wof:lastmodified":1537585808,
+    "wof:name":"Pipalkara",
+    "wof:parent_id":1108694669,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.0,
+    23.25,
+    91.0,
+    23.25
+],
+  "geometry": {"coordinates":[91.0,23.25],"type":"Point"}
+}

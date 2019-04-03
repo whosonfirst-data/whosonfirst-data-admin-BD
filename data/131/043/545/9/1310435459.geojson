@@ -1,0 +1,73 @@
+{
+  "id": 1310435459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.5525,25.87643,89.5525,25.87643",
+    "geom:latitude":25.87643,
+    "geom:longitude":89.5525,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5552",
+    "gn:admin3_code":"555255.0",
+    "gn:admin4_code":"55525507.0",
+    "gn:asciiname":"Baliram",
+    "gn:country_code":"BD",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7923529,
+    "gn:latitude":25.87643,
+    "gn:longitude":89.5525,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Balir\u0101m",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Balir\u0101m"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7923529
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"18673973fc3be60776f0e43b664fe375",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694687,
+            "locality_id":1310435459,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1310435459,
+    "wof:lastmodified":1537586800,
+    "wof:name":"Baliram",
+    "wof:parent_id":1108694687,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.5525,
+    25.87643,
+    89.5525,
+    25.87643
+],
+  "geometry": {"coordinates":[89.55249999999999,25.87643],"type":"Point"}
+}

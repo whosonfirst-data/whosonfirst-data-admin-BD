@@ -1,0 +1,70 @@
+{
+  "id": 1209944501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.68495,23.53339,88.68495,23.53339",
+    "geom:latitude":23.53339,
+    "geom:longitude":88.68495,
+    "gn:admin1_code":"82",
+    "gn:asciiname":"Chakulia",
+    "gn:country_code":"BD",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7484233,
+    "gn:latitude":23.53339,
+    "gn:longitude":88.68495,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Ch\u0101kulia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Ch\u0101kulia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632469,
+        85672219,
+        1108696075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7484233
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"c6a6973db1a5bcbb5474330abf539973",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108696075,
+            "locality_id":1209944501,
+            "region_id":85672219
+        }
+    ],
+    "wof:id":1209944501,
+    "wof:lastmodified":1537586559,
+    "wof:name":"Chakulia",
+    "wof:parent_id":1108696075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.68495,
+    23.53339,
+    88.68495,
+    23.53339
+],
+  "geometry": {"coordinates":[88.68495,23.53339],"type":"Point"}
+}

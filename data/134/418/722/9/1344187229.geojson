@@ -1,0 +1,76 @@
+{
+  "id": 1344187229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.31202,22.3623,89.31202,22.3623",
+    "geom:latitude":22.3623,
+    "geom:longitude":89.31202,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4047",
+    "gn:admin3_code":"404753.0",
+    "gn:admin4_code":"40475372.0",
+    "gn:asciiname":"Moharjpur",
+    "gn:country_code":"BD",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1195618,
+    "gn:latitude":22.3623,
+    "gn:longitude":89.31202,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Moh\u0101rjpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Moh\u0101rjpur"
+    ],
+    "name:ben_x_variant":[
+        "Mah\u0101r\u0101jpur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        421185473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1195618
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"3a7218df0ff392db7c05b3037e152bb7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421185473,
+            "locality_id":1344187229,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1344187229,
+    "wof:lastmodified":1537585893,
+    "wof:name":"Moharjpur",
+    "wof:parent_id":421185473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.31201999999998,
+    22.3623,
+    89.31201999999998,
+    22.3623
+],
+  "geometry": {"coordinates":[89.31201999999998,22.3623],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1276800657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.40163,25.54618,89.40163,25.54618",
+    "geom:latitude":25.54618,
+    "geom:longitude":89.40163,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5585",
+    "gn:admin3_code":"558558.0",
+    "gn:admin4_code":"55855878.0",
+    "gn:asciiname":"Kismat Sibdeulpara",
+    "gn:country_code":"BD",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1188063,
+    "gn:latitude":25.54618,
+    "gn:longitude":89.40163,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Kismat Sibdeulp\u0101ra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kismat Sibdeulp\u0101ra",
+        "Sib Deulp\u0101ra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1188063
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"8c87f1b0ad3607061cf6a2639251e912",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694701,
+            "locality_id":1276800657,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1276800657,
+    "wof:lastmodified":1537585750,
+    "wof:name":"Kismat Sibdeulpara",
+    "wof:parent_id":1108694701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.40163000000003,
+    25.54618,
+    89.40163000000003,
+    25.54618
+],
+  "geometry": {"coordinates":[89.40163000000003,25.54618],"type":"Point"}
+}

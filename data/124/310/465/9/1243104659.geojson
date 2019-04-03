@@ -1,0 +1,74 @@
+{
+  "id": 1243104659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.59891,23.57095,89.59891,23.57095",
+    "geom:latitude":23.57095,
+    "geom:longitude":89.59891,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3029",
+    "gn:admin3_code":"302956.0",
+    "gn:admin4_code":"30295663.0",
+    "gn:asciiname":"Par Asapur",
+    "gn:country_code":"BD",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1192441,
+    "gn:latitude":23.57095,
+    "gn:longitude":89.59891,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"P\u0101r \u0100s\u0101pur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Parashapur",
+        "P\u0101r \u0100s\u0101pur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421198063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1192441
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"34494da661e81f747df165269d3d2dcd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421198063,
+            "locality_id":1243104659,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1243104659,
+    "wof:lastmodified":1537585835,
+    "wof:name":"Par Asapur",
+    "wof:parent_id":421198063,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.59891,
+    23.57095,
+    89.59891,
+    23.57095
+],
+  "geometry": {"coordinates":[89.59891,23.57095],"type":"Point"}
+}

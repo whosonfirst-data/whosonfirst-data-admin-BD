@@ -1,0 +1,73 @@
+{
+  "id": 1210046811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.71005,25.96291,88.71005,25.96291",
+    "geom:latitude":25.96291,
+    "geom:longitude":88.71005,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5527.0",
+    "gn:admin3_code":"552760.0",
+    "gn:admin4_code":"55276015.0",
+    "gn:asciiname":"Fariabad",
+    "gn:country_code":"BD",
+    "gn:dem":54,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7106055,
+    "gn:latitude":25.96291,
+    "gn:longitude":88.71005,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Fari\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Fari\u0101b\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7106055
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"b9c9b734db9e286f8c9457b516ac86db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694671,
+            "locality_id":1210046811,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1210046811,
+    "wof:lastmodified":1537586320,
+    "wof:name":"Fariabad",
+    "wof:parent_id":1108694671,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.71005,
+    25.96291,
+    88.71005,
+    25.96291
+],
+  "geometry": {"coordinates":[88.71005,25.96291],"type":"Point"}
+}

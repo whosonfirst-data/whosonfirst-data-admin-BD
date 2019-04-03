@@ -1,0 +1,74 @@
+{
+  "id": 1293322453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.42126,24.1566,90.42126,24.1566",
+    "geom:latitude":24.1566,
+    "geom:longitude":90.42126,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3033",
+    "gn:admin3_code":"303330.0",
+    "gn:admin4_code":"30333067.0",
+    "gn:asciiname":"Mahona Bhabanipur",
+    "gn:country_code":"BD",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1195455,
+    "gn:latitude":24.1566,
+    "gn:longitude":90.42126,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"M\u0101hona Bhab\u0101nipur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mahona Bhobanipur",
+        "M\u0101hona Bhab\u0101nipur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421203493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1195455
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"ea306e909a7fbd472c11558fe8a1c647",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421203493,
+            "locality_id":1293322453,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1293322453,
+    "wof:lastmodified":1537585888,
+    "wof:name":"Mahona Bhabanipur",
+    "wof:parent_id":421203493,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.42126,
+    24.1566,
+    90.42126,
+    24.1566
+],
+  "geometry": {"coordinates":[90.42126,24.1566],"type":"Point"}
+}

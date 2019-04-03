@@ -1,0 +1,73 @@
+{
+  "id": 1193184607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"92.14031,21.76116,92.14031,21.76116",
+    "geom:latitude":21.76116,
+    "geom:longitude":92.14031,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2022",
+    "gn:admin3_code":"202216.0",
+    "gn:admin4_code":"20221655.0",
+    "gn:asciiname":"Manikpur",
+    "gn:country_code":"BD",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1194938,
+    "gn:latitude":21.76116,
+    "gn:longitude":92.14031,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"M\u0101nikpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "M\u0101nikpur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421169477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1194938
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"1e6c20e904625b96fc43bfbf8169a432",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421169477,
+            "locality_id":1193184607,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1193184607,
+    "wof:lastmodified":1537585877,
+    "wof:name":"Manikpur",
+    "wof:parent_id":421169477,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    92.14031,
+    21.76116,
+    92.14031,
+    21.76116
+],
+  "geometry": {"coordinates":[92.14031,21.76116],"type":"Point"}
+}

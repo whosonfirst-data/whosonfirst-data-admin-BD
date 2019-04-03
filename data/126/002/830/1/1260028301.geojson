@@ -1,0 +1,70 @@
+{
+  "id": 1260028301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.81997,23.30809,90.81997,23.30809",
+    "geom:latitude":23.30809,
+    "geom:longitude":90.81997,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2013",
+    "gn:admin3_code":"201349.0",
+    "gn:admin4_code":"20134950.0",
+    "gn:asciiname":"Nischintapur",
+    "gn:country_code":"BD",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1192767,
+    "gn:latitude":23.30809,
+    "gn:longitude":90.81997,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Nischintapur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        1108694669
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1192767
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"08e49f84f00bbad6aa27319ddb9c1c4d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694669,
+            "locality_id":1260028301,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1260028301,
+    "wof:lastmodified":1537064764,
+    "wof:name":"Nischintapur",
+    "wof:parent_id":1108694669,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.81997,
+    23.30809,
+    90.81997,
+    23.30809
+],
+  "geometry": {"coordinates":[90.81997,23.30809],"type":"Point"}
+}

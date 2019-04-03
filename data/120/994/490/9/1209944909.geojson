@@ -1,0 +1,70 @@
+{
+  "id": 1209944909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.1689,25.52279,89.1689,25.52279",
+    "geom:latitude":25.52279,
+    "geom:longitude":89.1689,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5585",
+    "gn:admin3_code":"558558.0",
+    "gn:admin4_code":"55855805.0",
+    "gn:asciiname":"Khiarpara Masimpur",
+    "gn:country_code":"BD",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1197411,
+    "gn:latitude":25.52279,
+    "gn:longitude":89.1689,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Khi\u0101rp\u0101ra M\u0101simpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1197411
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"d80b0f694e4404a9272180fc50ca1136",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694701,
+            "locality_id":1209944909,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1209944909,
+    "wof:lastmodified":1536386843,
+    "wof:name":"Khiarpara Masimpur",
+    "wof:parent_id":1108694701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.1689,
+    25.52279,
+    89.1689,
+    25.52279
+],
+  "geometry": {"coordinates":[89.16889999999999,25.52279],"type":"Point"}
+}

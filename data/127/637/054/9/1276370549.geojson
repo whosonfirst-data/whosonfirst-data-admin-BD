@@ -1,0 +1,70 @@
+{
+  "id": 1276370549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.4052,23.98735,90.4052,23.98735",
+    "geom:latitude":23.98735,
+    "geom:longitude":90.4052,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3033.0",
+    "gn:admin3_code":"303330.0",
+    "gn:admin4_code":"30333013.0",
+    "gn:asciiname":"Chandna",
+    "gn:country_code":"BD",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1207376,
+    "gn:latitude":23.98735,
+    "gn:longitude":90.4052,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Ch\u0101ndna",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421203493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1207376
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"a0fc93f524dffa4a47bd49d699a97796",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421203493,
+            "locality_id":1276370549,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1276370549,
+    "wof:lastmodified":1536729144,
+    "wof:name":"Chandna",
+    "wof:parent_id":421203493,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.4052,
+    23.98735,
+    90.4052,
+    23.98735
+],
+  "geometry": {"coordinates":[90.40519999999999,23.98735],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1343791801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.98333,24.31667,89.98333,24.31667",
+    "geom:latitude":24.31667,
+    "geom:longitude":89.98333,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3093.0",
+    "gn:admin3_code":"309347.0",
+    "gn:admin4_code":"30934780.0",
+    "gn:asciiname":"Bara Bajupara",
+    "gn:country_code":"BD",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1210769,
+    "gn:latitude":24.31667,
+    "gn:longitude":89.98333,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Bara B\u0101jup\u0101ra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421185471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1210769
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"01ae8d7e649e748d717e7713a6f79748",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421185471,
+            "locality_id":1343791801,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1343791801,
+    "wof:lastmodified":1536766252,
+    "wof:name":"Bara Bajupara",
+    "wof:parent_id":421185471,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.98333000000002,
+    24.31667,
+    89.98333000000002,
+    24.31667
+],
+  "geometry": {"coordinates":[89.98333000000002,24.31667],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1343591041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.16568,25.21541,89.16568,25.21541",
+    "geom:latitude":25.21541,
+    "geom:longitude":89.16568,
+    "gn:admin1_code":"87",
+    "gn:asciiname":"Mugar Chandipur",
+    "gn:country_code":"BD",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7888614,
+    "gn:latitude":25.21541,
+    "gn:longitude":89.16568,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Mugar Chandipur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Mugar Chandipur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669031,
+        1108694681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7888614
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"71f9bcc1be101f35e643fa63bd2ad674",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694681,
+            "locality_id":1343591041,
+            "region_id":85669031
+        }
+    ],
+    "wof:id":1343591041,
+    "wof:lastmodified":1537586725,
+    "wof:name":"Mugar Chandipur",
+    "wof:parent_id":1108694681,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.16568000000002,
+    25.21541,
+    89.16568000000002,
+    25.21541
+],
+  "geometry": {"coordinates":[89.16568000000002,25.21541],"type":"Point"}
+}

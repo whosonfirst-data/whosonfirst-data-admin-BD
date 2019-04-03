@@ -1,0 +1,70 @@
+{
+  "id": 1326963677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.46249,22.18868,90.46249,22.18868",
+    "geom:latitude":22.18868,
+    "geom:longitude":90.46249,
+    "gn:admin1_code":"82",
+    "gn:asciiname":"Chatra",
+    "gn:country_code":"BD",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7478710,
+    "gn:latitude":22.18868,
+    "gn:longitude":90.46249,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"Chatra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Chatra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669019,
+        421169845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7478710
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"395d7d08a553ee0a789721966fd03637",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421169845,
+            "locality_id":1326963677,
+            "region_id":85669019
+        }
+    ],
+    "wof:id":1326963677,
+    "wof:lastmodified":1537586399,
+    "wof:name":"Chatra",
+    "wof:parent_id":421169845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.46249,
+    22.18868,
+    90.46249,
+    22.18868
+],
+  "geometry": {"coordinates":[90.46249,22.18868],"type":"Point"}
+}

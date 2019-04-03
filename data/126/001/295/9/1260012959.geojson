@@ -1,0 +1,74 @@
+{
+  "id": 1260012959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.03333,22.76667,90.03333,22.76667",
+    "geom:latitude":22.76667,
+    "geom:longitude":90.03333,
+    "gn:admin1_code":"85",
+    "gn:admin2_code":"1079.0",
+    "gn:admin3_code":"107976.0",
+    "gn:admin4_code":"10797610.0",
+    "gn:asciiname":"Dighia",
+    "gn:country_code":"BD",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1203998,
+    "gn:latitude":22.76667,
+    "gn:longitude":90.03333,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"D\u012bghia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "D\u012bghia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669019,
+        421172031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1203998,
+        "wk:page":"Dighia"
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"4af149ca84eaf4ee36cabba8657d3729",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421172031,
+            "locality_id":1260012959,
+            "region_id":85669019
+        }
+    ],
+    "wof:id":1260012959,
+    "wof:lastmodified":1537586050,
+    "wof:name":"Dighia",
+    "wof:parent_id":421172031,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.03333,
+    22.76667,
+    90.03333,
+    22.76667
+],
+  "geometry": {"coordinates":[90.03333000000001,22.76667],"type":"Point"}
+}

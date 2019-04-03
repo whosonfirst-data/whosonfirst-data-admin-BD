@@ -1,0 +1,74 @@
+{
+  "id": 1360133221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.69592,23.65609,90.69592,23.65609",
+    "geom:latitude":23.65609,
+    "geom:longitude":90.69592,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2019",
+    "gn:admin3_code":"201975.0",
+    "gn:admin4_code":"20197519.0",
+    "gn:asciiname":"Shapmara Chandanpur",
+    "gn:country_code":"BD",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1188678,
+    "gn:latitude":23.65609,
+    "gn:longitude":90.69592,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Sh\u0101pm\u0101ra Ch\u0101ndanpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sh\u0101pm\u0101ra Ch\u0101ndanpur",
+        "S\u0101pm\u0101ra Chandanpur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421187801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1188678
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"ea7754ee837859e993ebe791efd87b0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421187801,
+            "locality_id":1360133221,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1360133221,
+    "wof:lastmodified":1537585766,
+    "wof:name":"Shapmara Chandanpur",
+    "wof:parent_id":421187801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.69592,
+    23.65609,
+    90.69592,
+    23.65609
+],
+  "geometry": {"coordinates":[90.69592,23.65609],"type":"Point"}
+}

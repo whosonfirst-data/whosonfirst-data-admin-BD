@@ -1,0 +1,76 @@
+{
+  "id": 1293132083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.57498,22.48394,90.57498,22.48394",
+    "geom:latitude":22.48394,
+    "geom:longitude":90.57498,
+    "gn:admin1_code":"85",
+    "gn:admin2_code":"1078.0",
+    "gn:admin3_code":"107838.0",
+    "gn:admin4_code":"10783871.0",
+    "gn:asciiname":"Char Bharipasa",
+    "gn:country_code":"BD",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1209146,
+    "gn:latitude":22.48394,
+    "gn:longitude":90.57498,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Char Bh\u0101rip\u0101sa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Char Bh\u0101rip\u0101sa"
+    ],
+    "name:ben_x_variant":[
+        "Bharip\u0101sa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669019,
+        421169845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1209146
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"f4eb968be420ed661d92f51c5ff1dbf0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421169845,
+            "locality_id":1293132083,
+            "region_id":85669019
+        }
+    ],
+    "wof:id":1293132083,
+    "wof:lastmodified":1537586142,
+    "wof:name":"Char Bharipasa",
+    "wof:parent_id":421169845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.57498,
+    22.48394,
+    90.57498,
+    22.48394
+],
+  "geometry": {"coordinates":[90.57498,22.48394],"type":"Point"}
+}

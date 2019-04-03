@@ -1,0 +1,70 @@
+{
+  "id": 1242707741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.9989,24.81593,89.9989,24.81593",
+    "geom:latitude":24.81593,
+    "geom:longitude":89.9989,
+    "gn:admin1_code":"H",
+    "gn:admin2_code":"3039",
+    "gn:admin3_code":"303936.0",
+    "gn:admin4_code":"30393671.0",
+    "gn:asciiname":"Kaidola",
+    "gn:country_code":"BD",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1199436,
+    "gn:latitude":24.81593,
+    "gn:longitude":89.9989,
+    "gn:modification_date":"2016-11-17",
+    "gn:name":"Kaidola",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        1108803101,
+        421191923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1199436
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"f443d13827a9c5779c010000d9db251d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421191923,
+            "locality_id":1242707741,
+            "region_id":1108803101
+        }
+    ],
+    "wof:id":1242707741,
+    "wof:lastmodified":1536875523,
+    "wof:name":"Kaidola",
+    "wof:parent_id":421191923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.9989,
+    24.81593,
+    89.9989,
+    24.81593
+],
+  "geometry": {"coordinates":[89.99890000000001,24.81593],"type":"Point"}
+}

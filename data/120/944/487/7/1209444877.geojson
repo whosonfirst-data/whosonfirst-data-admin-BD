@@ -1,0 +1,67 @@
+{
+  "id": 1209444877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.94523,25.75072,88.94523,25.75072",
+    "geom:latitude":25.75072,
+    "geom:longitude":88.94523,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5573.0",
+    "gn:admin3_code":"557385.0",
+    "gn:admin4_code":"55738513.0",
+    "gn:asciiname":"Baraisalpara",
+    "gn:country_code":"BD",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7489168,
+    "gn:latitude":25.75072,
+    "gn:longitude":88.94523,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"B\u0101r\u0101is\u0101lp\u0101ra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "B\u0101r\u0101is\u0101lp\u0101ra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7489168
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"1a20c8b9ecd386bfccb959631393f86b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209444877
+        }
+    ],
+    "wof:id":1209444877,
+    "wof:lastmodified":1537586690,
+    "wof:name":"Baraisalpara",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.94523000000002,
+    25.75072,
+    88.94523000000002,
+    25.75072
+],
+  "geometry": {"coordinates":[88.94523000000002,25.75072],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1226684559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.03561,23.57785,91.03561,23.57785",
+    "geom:latitude":23.57785,
+    "geom:longitude":91.03561,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2019",
+    "gn:admin3_code":"201940.0",
+    "gn:admin4_code":"20194065.0",
+    "gn:asciiname":"Jakarganj",
+    "gn:country_code":"BD",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1200603,
+    "gn:latitude":23.57785,
+    "gn:longitude":91.03561,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Jakarganj",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "J\u0101farganj"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421187801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1200603
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"c3936dee61513c575c99b1a2cdcd4c62",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421187801,
+            "locality_id":1226684559,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1226684559,
+    "wof:lastmodified":1537585982,
+    "wof:name":"Jakarganj",
+    "wof:parent_id":421187801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.03561,
+    23.57785,
+    91.03561,
+    23.57785
+],
+  "geometry": {"coordinates":[91.03561000000001,23.57785],"type":"Point"}
+}

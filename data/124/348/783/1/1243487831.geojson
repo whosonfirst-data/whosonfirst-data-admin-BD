@@ -1,0 +1,71 @@
+{
+  "id": 1243487831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.32191,23.76356,89.32191,23.76356",
+    "geom:latitude":23.76356,
+    "geom:longitude":89.32191,
+    "gn:admin1_code":"81",
+    "gn:asciiname":"South Khurd Basa",
+    "gn:country_code":"BD",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1187392,
+    "gn:latitude":23.76356,
+    "gn:longitude":89.32191,
+    "gn:modification_date":"2013-02-08",
+    "gn:name":"South Khurd Basa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dakshin Khordabasa",
+        "South Khurd Basa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        1108694699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1187392
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"877fe97b4e5f3a9cf0fd9ecfe94d451d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694699,
+            "locality_id":1243487831,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1243487831,
+    "wof:lastmodified":1537585735,
+    "wof:name":"South Khurd Basa",
+    "wof:parent_id":1108694699,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.32191,
+    23.76356,
+    89.32191,
+    23.76356
+],
+  "geometry": {"coordinates":[89.32191,23.76356],"type":"Point"}
+}

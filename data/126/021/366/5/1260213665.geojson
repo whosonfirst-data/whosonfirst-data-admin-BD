@@ -1,0 +1,74 @@
+{
+  "id": 1260213665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.32852,22.58313,89.32852,22.58313",
+    "geom:latitude":22.58313,
+    "geom:longitude":89.32852,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4047",
+    "gn:admin3_code":"404764.0",
+    "gn:admin4_code":"40476489.0",
+    "gn:asciiname":"Paikgacha",
+    "gn:country_code":"BD",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1185140,
+    "gn:latitude":22.58313,
+    "gn:longitude":89.32852,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"P\u0101ikg\u0101cha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Paikgachha",
+        "P\u0101ikg\u0101cha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        421185473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1185140
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"596727963fcccd20edeccb93f9d054a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421185473,
+            "locality_id":1260213665,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1260213665,
+    "wof:lastmodified":1537585688,
+    "wof:name":"Paikgacha",
+    "wof:parent_id":421185473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.32852,
+    22.58313,
+    89.32852,
+    22.58313
+],
+  "geometry": {"coordinates":[89.32852,22.58313],"type":"Point"}
+}

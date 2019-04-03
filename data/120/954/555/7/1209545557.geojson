@@ -1,0 +1,64 @@
+{
+  "id": 1209545557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.23409,24.85963,90.23409,24.85963",
+    "geom:latitude":24.85963,
+    "geom:longitude":90.23409,
+    "gn:admin1_code":"H",
+    "gn:admin2_code":"3061",
+    "gn:admin3_code":"306152.0",
+    "gn:admin4_code":"30615213.0",
+    "gn:asciiname":"Mahishmari",
+    "gn:country_code":"BD",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1195479,
+    "gn:latitude":24.85963,
+    "gn:longitude":90.23409,
+    "gn:modification_date":"2016-11-17",
+    "gn:name":"Mahishm\u0101ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1195479
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"13f4942bafe27670c03128046ee9bc0c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209545557
+        }
+    ],
+    "wof:id":1209545557,
+    "wof:lastmodified":1536283853,
+    "wof:name":"Mahishmari",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.23409,
+    24.85963,
+    90.23409,
+    24.85963
+],
+  "geometry": {"coordinates":[90.23408999999999,24.85963],"type":"Point"}
+}

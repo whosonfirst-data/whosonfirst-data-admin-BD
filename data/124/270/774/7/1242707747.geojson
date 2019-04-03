@@ -1,0 +1,73 @@
+{
+  "id": 1242707747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.57499,26.10313,88.57499,26.10313",
+    "geom:latitude":26.10313,
+    "geom:longitude":88.57499,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5594.0",
+    "gn:admin3_code":"559494.0",
+    "gn:admin4_code":"55949421.0",
+    "gn:asciiname":"Bagutadanga",
+    "gn:country_code":"BD",
+    "gn:dem":59,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7104967,
+    "gn:latitude":26.10313,
+    "gn:longitude":88.57499,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Bagut\u0101d\u0101nga",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Bagut\u0101d\u0101nga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7104967
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"7f00ba79aec77db3972ebba5f71595b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694703,
+            "locality_id":1242707747,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1242707747,
+    "wof:lastmodified":1537586290,
+    "wof:name":"Bagutadanga",
+    "wof:parent_id":1108694703,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.57499,
+    26.10313,
+    88.57499,
+    26.10313
+],
+  "geometry": {"coordinates":[88.57499,26.10313],"type":"Point"}
+}

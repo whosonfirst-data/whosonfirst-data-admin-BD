@@ -1,0 +1,73 @@
+{
+  "id": 1293814009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.59167,26.34871,88.59167,26.34871",
+    "geom:latitude":26.34871,
+    "geom:longitude":88.59167,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5577.0",
+    "gn:admin3_code":"557773.0",
+    "gn:admin4_code":"55777335.0",
+    "gn:asciiname":"Daluapara",
+    "gn:country_code":"BD",
+    "gn:dem":77,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7104694,
+    "gn:latitude":26.34871,
+    "gn:longitude":88.59167,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Dalu\u0101p\u0101ra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Dalu\u0101p\u0101ra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7104694
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"240587f27499413bd4b2bc19d3474360",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694697,
+            "locality_id":1293814009,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1293814009,
+    "wof:lastmodified":1537586282,
+    "wof:name":"Daluapara",
+    "wof:parent_id":1108694697,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.59167,
+    26.34871,
+    88.59167,
+    26.34871
+],
+  "geometry": {"coordinates":[88.59166999999999,26.34871],"type":"Point"}
+}

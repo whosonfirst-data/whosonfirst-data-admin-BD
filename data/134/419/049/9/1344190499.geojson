@@ -1,0 +1,76 @@
+{
+  "id": 1344190499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.86356,23.07353,89.86356,23.07353",
+    "geom:latitude":23.07353,
+    "geom:longitude":89.86356,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3035.0",
+    "gn:admin3_code":"303532.0",
+    "gn:admin4_code":"30353247.0",
+    "gn:asciiname":"Arua Kansur",
+    "gn:country_code":"BD",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1212463,
+    "gn:latitude":23.07353,
+    "gn:longitude":89.86356,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Arua K\u0101nsur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Arua K\u0101nsur"
+    ],
+    "name:und_x_variant":[
+        "Arua Kangsur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421194867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1212463
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"6a7482668fb4e95de41f3830dbe01aac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421194867,
+            "locality_id":1344190499,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1344190499,
+    "wof:lastmodified":1537586196,
+    "wof:name":"Arua Kansur",
+    "wof:parent_id":421194867,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.86355999999998,
+    23.07353,
+    89.86355999999998,
+    23.07353
+],
+  "geometry": {"coordinates":[89.86355999999998,23.07353],"type":"Point"}
+}

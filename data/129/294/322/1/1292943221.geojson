@@ -1,0 +1,73 @@
+{
+  "id": 1292943221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.77228,26.08972,89.77228,26.08972",
+    "geom:latitude":26.08972,
+    "geom:longitude":89.77228,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5549",
+    "gn:admin3_code":"554906.0",
+    "gn:admin4_code":"55490628.0",
+    "gn:asciiname":"Chhan Bandha",
+    "gn:country_code":"BD",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8037839,
+    "gn:latitude":26.08972,
+    "gn:longitude":89.77228,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Chhan Bandha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Chhan Bandha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8037839
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"843951462c1bb142c02a5a3f6905a5da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694685,
+            "locality_id":1292943221,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1292943221,
+    "wof:lastmodified":1537586831,
+    "wof:name":"Chhan Bandha",
+    "wof:parent_id":1108694685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.77228000000002,
+    26.08972,
+    89.77228000000002,
+    26.08972
+],
+  "geometry": {"coordinates":[89.77228000000002,26.08972],"type":"Point"}
+}

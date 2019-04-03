@@ -1,0 +1,70 @@
+{
+  "id": 1243393273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.26003,25.51587,89.26003,25.51587",
+    "geom:latitude":25.51587,
+    "geom:longitude":89.26003,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5585",
+    "gn:admin3_code":"558576.0",
+    "gn:admin4_code":"55857612.0",
+    "gn:asciiname":"Dhalarpara",
+    "gn:country_code":"BD",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7890267,
+    "gn:latitude":25.51587,
+    "gn:longitude":89.26003,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Dhal\u0101rp\u0101ra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7890267
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"1e90533e6fd2030029be32631492f3a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694701,
+            "locality_id":1243393273,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1243393273,
+    "wof:lastmodified":1536881702,
+    "wof:name":"Dhalarpara",
+    "wof:parent_id":1108694701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.26003,
+    25.51587,
+    89.26003,
+    25.51587
+],
+  "geometry": {"coordinates":[89.26003,25.51587],"type":"Point"}
+}

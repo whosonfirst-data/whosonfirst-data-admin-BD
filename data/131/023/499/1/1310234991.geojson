@@ -1,0 +1,73 @@
+{
+  "id": 1310234991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.13935,23.73959,89.13935,23.73959",
+    "geom:latitude":23.73959,
+    "geom:longitude":89.13935,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4050",
+    "gn:admin3_code":"405079.0",
+    "gn:admin4_code":"40507937.0",
+    "gn:asciiname":"Santidanga",
+    "gn:country_code":"BD",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1188736,
+    "gn:latitude":23.73959,
+    "gn:longitude":89.13935,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"S\u0101ntid\u0101nga",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "S\u0101ntid\u0101nga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        890438075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1188736
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"4534cfca12dccce25193fe762cbf1010",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":890438075,
+            "locality_id":1310234991,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1310234991,
+    "wof:lastmodified":1537585767,
+    "wof:name":"Santidanga",
+    "wof:parent_id":890438075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.13935,
+    23.73959,
+    89.13935,
+    23.73959
+],
+  "geometry": {"coordinates":[89.13934999999999,23.73959],"type":"Point"}
+}

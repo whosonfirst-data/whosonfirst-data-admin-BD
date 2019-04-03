@@ -1,0 +1,74 @@
+{
+  "id": 1310435381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.39638,25.15676,89.39638,25.15676",
+    "geom:latitude":25.15676,
+    "geom:longitude":89.39638,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5532.0",
+    "gn:admin3_code":"553230.0",
+    "gn:admin4_code":"55323011.0",
+    "gn:asciiname":"Baro Boalia",
+    "gn:country_code":"BD",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1208217,
+    "gn:latitude":25.15676,
+    "gn:longitude":89.39638,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Baro Bo\u0101lia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Baro Bo\u0101lia",
+        "Bo\u0101lia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1208217
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"eab65ceadd0bdb9e9e128438b35da68e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694675,
+            "locality_id":1310435381,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1310435381,
+    "wof:lastmodified":1537586126,
+    "wof:name":"Baro Boalia",
+    "wof:parent_id":1108694675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.39638000000002,
+    25.15676,
+    89.39638000000002,
+    25.15676
+],
+  "geometry": {"coordinates":[89.39638000000002,25.15676],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1293419773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.37733,26.00593,89.37733,26.00593",
+    "geom:latitude":26.00593,
+    "geom:longitude":89.37733,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5552",
+    "gn:admin3_code":"555202.0",
+    "gn:admin4_code":"55520211.0",
+    "gn:asciiname":"Lohakuchi Nithak",
+    "gn:country_code":"BD",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8539021,
+    "gn:latitude":26.00593,
+    "gn:longitude":89.37733,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Loh\u0101kuchi Nithak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Loh\u0101kuchi Nithak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8539021
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"c5f3828277fada8f29e5dc04796adbb8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694687,
+            "locality_id":1293419773,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1293419773,
+    "wof:lastmodified":1537586874,
+    "wof:name":"Lohakuchi Nithak",
+    "wof:parent_id":1108694687,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.37733,
+    26.00593,
+    89.37733,
+    26.00593
+],
+  "geometry": {"coordinates":[89.37733,26.00593],"type":"Point"}
+}

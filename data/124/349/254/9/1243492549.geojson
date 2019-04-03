@@ -1,0 +1,70 @@
+{
+  "id": 1243492549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.85966,23.16975,90.85966,23.16975",
+    "geom:latitude":23.16975,
+    "geom:longitude":90.85966,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2013",
+    "gn:admin3_code":"201345.0",
+    "gn:admin4_code":"20134553.0",
+    "gn:asciiname":"Manuri",
+    "gn:country_code":"BD",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1194845,
+    "gn:latitude":23.16975,
+    "gn:longitude":90.85966,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"M\u0101nuri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        1108694669
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1194845
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"13ba64b49b54909e4a3d4333c4d8e46e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694669,
+            "locality_id":1243492549,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1243492549,
+    "wof:lastmodified":1536738958,
+    "wof:name":"Manuri",
+    "wof:parent_id":1108694669,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.85966,
+    23.16975,
+    90.85966,
+    23.16975
+],
+  "geometry": {"coordinates":[90.85966000000001,23.16975],"type":"Point"}
+}

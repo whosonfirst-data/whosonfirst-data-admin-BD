@@ -1,0 +1,73 @@
+{
+  "id": 1226291241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.92539,22.26027,91.92539,22.26027",
+    "geom:latitude":22.26027,
+    "geom:longitude":91.92539,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2015.0",
+    "gn:admin3_code":"201561.0",
+    "gn:admin4_code":"20156164.0",
+    "gn:asciiname":"Kashiaish",
+    "gn:country_code":"BD",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7477365,
+    "gn:latitude":22.26027,
+    "gn:longitude":91.92539,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Kashiaish",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Kashiaish"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421201541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7477365
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"7e3cd0ae2d540d4f2deb4d38937a9bcc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421201541,
+            "locality_id":1226291241,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1226291241,
+    "wof:lastmodified":1537586366,
+    "wof:name":"Kashiaish",
+    "wof:parent_id":421201541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.92539,
+    22.26027,
+    91.92539,
+    22.26027
+],
+  "geometry": {"coordinates":[91.92538999999999,22.26027],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1344098955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.92177,21.77106,91.92177,21.77106",
+    "geom:latitude":21.77106,
+    "geom:longitude":91.92177,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2022.0",
+    "gn:admin3_code":"202295.0",
+    "gn:admin4_code":"20229578.0",
+    "gn:asciiname":"Kariasingha",
+    "gn:country_code":"BD",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6415944,
+    "gn:latitude":21.77106,
+    "gn:longitude":91.92177,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Kari\u0101singha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Kari\u0101singha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421205057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6415944
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"900b813da215bdf516eb9194a008463c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421205057,
+            "locality_id":1344098955,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1344098955,
+    "wof:lastmodified":1537586254,
+    "wof:name":"Kariasingha",
+    "wof:parent_id":421205057,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.92177,
+    21.77106,
+    91.92177,
+    21.77106
+],
+  "geometry": {"coordinates":[91.92177,21.77106],"type":"Point"}
+}

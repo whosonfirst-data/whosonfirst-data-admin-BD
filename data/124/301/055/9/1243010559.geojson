@@ -1,0 +1,73 @@
+{
+  "id": 1243010559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.81297,23.03069,89.81297,23.03069",
+    "geom:latitude":23.03069,
+    "geom:longitude":89.81297,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3035.0",
+    "gn:admin3_code":"303532.0",
+    "gn:admin4_code":"30353234.0",
+    "gn:asciiname":"Haridaspur",
+    "gn:country_code":"BD",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1201521,
+    "gn:latitude":23.03069,
+    "gn:longitude":89.81297,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Harid\u0101spur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Harid\u0101spur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421194867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1201521
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"f4f9240af224e7b696f7fbce8744e137",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421194867,
+            "locality_id":1243010559,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1243010559,
+    "wof:lastmodified":1537586001,
+    "wof:name":"Haridaspur",
+    "wof:parent_id":421194867,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.81296999999998,
+    23.03069,
+    89.81296999999998,
+    23.03069
+],
+  "geometry": {"coordinates":[89.81296999999998,23.03069],"type":"Point"}
+}

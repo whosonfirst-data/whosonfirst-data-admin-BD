@@ -1,0 +1,70 @@
+{
+  "id": 1327164133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.69856,24.92953,90.69856,24.92953",
+    "geom:latitude":24.92953,
+    "geom:longitude":90.69856,
+    "gn:admin1_code":"H",
+    "gn:admin2_code":"3072.0",
+    "gn:admin3_code":"307274.0",
+    "gn:admin4_code":"30727463.0",
+    "gn:asciiname":"Bangan",
+    "gn:country_code":"BD",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1211016,
+    "gn:latitude":24.92953,
+    "gn:longitude":90.69856,
+    "gn:modification_date":"2016-11-17",
+    "gn:name":"Bang\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        1108803101,
+        421200811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1211016
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"980c4e6da2a6e0010001579960bde4c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421200811,
+            "locality_id":1327164133,
+            "region_id":1108803101
+        }
+    ],
+    "wof:id":1327164133,
+    "wof:lastmodified":1537065397,
+    "wof:name":"Bangan",
+    "wof:parent_id":421200811,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.69856,
+    24.92953,
+    90.69856,
+    24.92953
+],
+  "geometry": {"coordinates":[90.69856,24.92953],"type":"Point"}
+}

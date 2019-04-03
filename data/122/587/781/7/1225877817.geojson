@@ -1,0 +1,73 @@
+{
+  "id": 1225877817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.95258,25.48475,88.95258,25.48475",
+    "geom:latitude":25.48475,
+    "geom:longitude":88.95258,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5527.0",
+    "gn:admin3_code":"552738.0",
+    "gn:admin4_code":"55273800.0",
+    "gn:asciiname":"Amrabari",
+    "gn:country_code":"BD",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1212808,
+    "gn:latitude":25.48475,
+    "gn:longitude":88.95258,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Amrabari",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Amrabari"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1212808
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"86dcd77192ba0d04a29c1f4eac70895d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694671,
+            "locality_id":1225877817,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1225877817,
+    "wof:lastmodified":1537586202,
+    "wof:name":"Amrabari",
+    "wof:parent_id":1108694671,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.95258000000003,
+    25.48475,
+    88.95258000000003,
+    25.48475
+],
+  "geometry": {"coordinates":[88.95258000000003,25.48475],"type":"Point"}
+}

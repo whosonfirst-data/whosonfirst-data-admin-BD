@@ -1,0 +1,70 @@
+{
+  "id": 1242906861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.30144,22.42389,90.30144,22.42389",
+    "geom:latitude":22.42389,
+    "geom:longitude":90.30144,
+    "gn:admin1_code":"82",
+    "gn:asciiname":"Chandkhali",
+    "gn:country_code":"BD",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7476197,
+    "gn:latitude":22.42389,
+    "gn:longitude":90.30144,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"Ch\u0101ndkhali",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Ch\u0101ndkhali"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669019,
+        421169845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7476197
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"7b6a450fce03b7f8114ac9a9ffe276d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421169845,
+            "locality_id":1242906861,
+            "region_id":85669019
+        }
+    ],
+    "wof:id":1242906861,
+    "wof:lastmodified":1537586339,
+    "wof:name":"Chandkhali",
+    "wof:parent_id":421169845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.30144,
+    22.42389,
+    90.30144,
+    22.42389
+],
+  "geometry": {"coordinates":[90.30144,22.42389],"type":"Point"}
+}

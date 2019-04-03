@@ -1,0 +1,70 @@
+{
+  "id": 1343891319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.26978,23.82908,90.26978,23.82908",
+    "geom:latitude":23.82908,
+    "geom:longitude":90.26978,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3026.0",
+    "gn:admin3_code":"302672.0",
+    "gn:admin4_code":"30267200.0",
+    "gn:asciiname":"Bil Baghil",
+    "gn:country_code":"BD",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1208636,
+    "gn:latitude":23.82908,
+    "gn:longitude":90.26978,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Bil B\u0101ghil",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421187803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1208636
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"49921a3603273dadfb86566c27ec9746",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421187803,
+            "locality_id":1343891319,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1343891319,
+    "wof:lastmodified":1536620007,
+    "wof:name":"Bil Baghil",
+    "wof:parent_id":421187803,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.26978,
+    23.82908,
+    90.26978,
+    23.82908
+],
+  "geometry": {"coordinates":[90.26978,23.82908],"type":"Point"}
+}

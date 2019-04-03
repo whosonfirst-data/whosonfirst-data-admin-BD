@@ -1,0 +1,73 @@
+{
+  "id": 1327164487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.19025,25.26357,89.19025,25.26357",
+    "geom:latitude":25.26357,
+    "geom:longitude":89.19025,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5527",
+    "gn:admin3_code":"552743.0",
+    "gn:admin4_code":"55274357.0",
+    "gn:asciiname":"Balahar",
+    "gn:country_code":"BD",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8064986,
+    "gn:latitude":25.26357,
+    "gn:longitude":89.19025,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Balahar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Balahar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8064986
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"1aba6127400698c63d5032b1c9933569",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694671,
+            "locality_id":1327164487,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1327164487,
+    "wof:lastmodified":1537586856,
+    "wof:name":"Balahar",
+    "wof:parent_id":1108694671,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.19025,
+    25.26357,
+    89.19025,
+    25.26357
+],
+  "geometry": {"coordinates":[89.19025000000001,25.26357],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1292939347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.82147,26.02046,88.82147,26.02046",
+    "geom:latitude":26.02046,
+    "geom:longitude":88.82147,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5573.0",
+    "gn:admin3_code":"557364.0",
+    "gn:admin4_code":"55736469.0",
+    "gn:asciiname":"Baragacha",
+    "gn:country_code":"BD",
+    "gn:dem":54,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7105409,
+    "gn:latitude":26.02046,
+    "gn:longitude":88.82147,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Bar\u0101gacha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Bar\u0101gacha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7105409
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"ac212b3d7c9e2d3983abb51fb1da6aed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694695,
+            "locality_id":1292939347,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1292939347,
+    "wof:lastmodified":1537586302,
+    "wof:name":"Baragacha",
+    "wof:parent_id":1108694695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.82146999999998,
+    26.02046,
+    88.82146999999998,
+    26.02046
+],
+  "geometry": {"coordinates":[88.82146999999998,26.02046],"type":"Point"}
+}

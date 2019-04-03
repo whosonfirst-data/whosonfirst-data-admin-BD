@@ -1,0 +1,70 @@
+{
+  "id": 1225977969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.26217,25.12658,89.26217,25.12658",
+    "geom:latitude":25.12658,
+    "geom:longitude":89.26217,
+    "gn:admin1_code":"83",
+    "gn:asciiname":"Rajahar",
+    "gn:country_code":"BD",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7889682,
+    "gn:latitude":25.12658,
+    "gn:longitude":89.26217,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"R\u0101j\u0101h\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "R\u0101j\u0101h\u0101r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7889682
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"526646acdee39cfd90efab53ba98e385",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694675,
+            "locality_id":1225977969,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1225977969,
+    "wof:lastmodified":1537586737,
+    "wof:name":"Rajahar",
+    "wof:parent_id":1108694675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.26217,
+    25.12658,
+    89.26217,
+    25.12658
+],
+  "geometry": {"coordinates":[89.26217,25.12658],"type":"Point"}
+}

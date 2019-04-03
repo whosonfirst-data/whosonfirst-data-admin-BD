@@ -1,0 +1,73 @@
+{
+  "id": 1259613489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.43743,25.2742,89.43743,25.2742",
+    "geom:latitude":25.2742,
+    "geom:longitude":89.43743,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5532",
+    "gn:admin3_code":"553267.0",
+    "gn:admin4_code":"55326719.0",
+    "gn:asciiname":"Buzruk Barkatpur",
+    "gn:country_code":"BD",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7895437,
+    "gn:latitude":25.2742,
+    "gn:longitude":89.43743,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Buzruk Barkatpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Buzruk Barkatpur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7895437
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"f8752dce2e6bb7eedc2eba854a85c3e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694675,
+            "locality_id":1259613489,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1259613489,
+    "wof:lastmodified":1537586761,
+    "wof:name":"Buzruk Barkatpur",
+    "wof:parent_id":1108694675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.43743,
+    25.2742,
+    89.43743,
+    25.2742
+],
+  "geometry": {"coordinates":[89.43743000000001,25.2742],"type":"Point"}
+}

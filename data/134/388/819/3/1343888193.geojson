@@ -1,0 +1,73 @@
+{
+  "id": 1343888193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.93783,25.89742,88.93783,25.89742",
+    "geom:latitude":25.89742,
+    "geom:longitude":88.93783,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5573.0",
+    "gn:admin3_code":"557364.0",
+    "gn:admin4_code":"55736406.0",
+    "gn:asciiname":"Beradanga",
+    "gn:country_code":"BD",
+    "gn:dem":44,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7489120,
+    "gn:latitude":25.89742,
+    "gn:longitude":88.93783,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Ber\u0101d\u0101nga",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Ber\u0101d\u0101nga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7489120
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"fac5ff75dba527391ff6b422ce3c3e51",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694695,
+            "locality_id":1343888193,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1343888193,
+    "wof:lastmodified":1537586688,
+    "wof:name":"Beradanga",
+    "wof:parent_id":1108694695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.93783,
+    25.89742,
+    88.93783,
+    25.89742
+],
+  "geometry": {"coordinates":[88.93783000000001,25.89742],"type":"Point"}
+}

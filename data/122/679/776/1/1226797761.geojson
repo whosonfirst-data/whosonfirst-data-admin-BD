@@ -1,0 +1,73 @@
+{
+  "id": 1226797761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"92.05571,21.85359,92.05571,21.85359",
+    "geom:latitude":21.85359,
+    "geom:longitude":92.05571,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2022",
+    "gn:admin3_code":"202216.0",
+    "gn:admin4_code":"20221650.0",
+    "gn:asciiname":"Kilarpur",
+    "gn:country_code":"BD",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1197203,
+    "gn:latitude":21.85359,
+    "gn:longitude":92.05571,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Kil\u0101rpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Kil\u0101rpur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421205057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1197203
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"5b49067fa7f186fe49a1cb446a286420",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421205057,
+            "locality_id":1226797761,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1226797761,
+    "wof:lastmodified":1537585919,
+    "wof:name":"Kilarpur",
+    "wof:parent_id":421205057,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    92.05571,
+    21.85359,
+    92.05571,
+    21.85359
+],
+  "geometry": {"coordinates":[92.05571,21.85359],"type":"Point"}
+}

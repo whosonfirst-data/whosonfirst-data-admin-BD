@@ -1,0 +1,74 @@
+{
+  "id": 1344190423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.56635,23.6088,89.56635,23.6088",
+    "geom:latitude":23.6088,
+    "geom:longitude":89.56635,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3082",
+    "gn:admin3_code":"308207.0",
+    "gn:admin4_code":"30820719.0",
+    "gn:asciiname":"Khurd Megchami",
+    "gn:country_code":"BD",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1197221,
+    "gn:latitude":23.6088,
+    "gn:longitude":89.56635,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Khurd Megch\u0101mi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Khordamegchami",
+        "Khurd Megch\u0101mi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        1108694699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1197221
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"5eceaf3c21afe44be4a4e1148e87a5e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694699,
+            "locality_id":1344190423,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1344190423,
+    "wof:lastmodified":1537585920,
+    "wof:name":"Khurd Megchami",
+    "wof:parent_id":1108694699,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.56635,
+    23.6088,
+    89.56635,
+    23.6088
+],
+  "geometry": {"coordinates":[89.56635,23.6088],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1276689221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.14508,24.40907,90.14508,24.40907",
+    "geom:latitude":24.40907,
+    "geom:longitude":90.14508,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3093.0",
+    "gn:admin3_code":"309385.0",
+    "gn:admin4_code":"30938567.0",
+    "gn:asciiname":"Bhatgara",
+    "gn:country_code":"BD",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1209086,
+    "gn:latitude":24.40907,
+    "gn:longitude":90.14508,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Bh\u0101tgara",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421185471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1209086
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"0c78f38586dcf4d0896206ccbd3af2c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421185471,
+            "locality_id":1276689221,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1276689221,
+    "wof:lastmodified":1536799060,
+    "wof:name":"Bhatgara",
+    "wof:parent_id":421185471,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.14508,
+    24.40907,
+    90.14508,
+    24.40907
+],
+  "geometry": {"coordinates":[90.14507999999999,24.40907],"type":"Point"}
+}

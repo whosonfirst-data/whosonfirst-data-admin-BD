@@ -1,0 +1,67 @@
+{
+  "id": 1226172677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.85556,24.52247,91.85556,24.52247",
+    "geom:latitude":24.52247,
+    "geom:longitude":91.85556,
+    "gn:admin1_code":"83",
+    "gn:asciiname":"Katajuri",
+    "gn:country_code":"BD",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8430522,
+    "gn:latitude":24.52247,
+    "gn:longitude":91.85556,
+    "gn:modification_date":"2012-12-07",
+    "gn:name":"Katajuri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669025,
+        1108694693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8430522
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"948fd8711312a0fed8d0a0330447bf46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694693,
+            "locality_id":1226172677,
+            "region_id":85669025
+        }
+    ],
+    "wof:id":1226172677,
+    "wof:lastmodified":1537037354,
+    "wof:name":"Katajuri",
+    "wof:parent_id":1108694693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.85556,
+    24.52247,
+    91.85556,
+    24.52247
+],
+  "geometry": {"coordinates":[91.85556,24.52247],"type":"Point"}
+}

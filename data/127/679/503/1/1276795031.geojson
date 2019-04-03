@@ -1,0 +1,70 @@
+{
+  "id": 1276795031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.10234,25.01609,90.10234,25.01609",
+    "geom:latitude":25.01609,
+    "geom:longitude":90.10234,
+    "gn:admin1_code":"H",
+    "gn:admin2_code":"3089",
+    "gn:admin3_code":"308988.0",
+    "gn:admin4_code":"30898847.0",
+    "gn:asciiname":"Kamaria",
+    "gn:country_code":"BD",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1198826,
+    "gn:latitude":25.01609,
+    "gn:longitude":90.10234,
+    "gn:modification_date":"2016-11-17",
+    "gn:name":"K\u0101m\u0101ria",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        1108803101,
+        421190979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1198826
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"f952d8a2fc412b70f3714b962d69cd40",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421190979,
+            "locality_id":1276795031,
+            "region_id":1108803101
+        }
+    ],
+    "wof:id":1276795031,
+    "wof:lastmodified":1536657539,
+    "wof:name":"Kamaria",
+    "wof:parent_id":421190979,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.10234,
+    25.01609,
+    90.10234,
+    25.01609
+],
+  "geometry": {"coordinates":[90.10234,25.01609],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1293517353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.12932,23.62887,89.12932,23.62887",
+    "geom:latitude":23.62887,
+    "geom:longitude":89.12932,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4044.0",
+    "gn:admin3_code":"404414.0",
+    "gn:admin4_code":"40441421.0",
+    "gn:asciiname":"Huda Radhanagar",
+    "gn:country_code":"BD",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7478936,
+    "gn:latitude":23.62887,
+    "gn:longitude":89.12932,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Huda R\u0101dh\u0101nagar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Huda R\u0101dh\u0101nagar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        1108694679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7478936
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"560d7db970e2c390ee9d949d4106f3e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694679,
+            "locality_id":1293517353,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1293517353,
+    "wof:lastmodified":1537586405,
+    "wof:name":"Huda Radhanagar",
+    "wof:parent_id":1108694679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.12931999999998,
+    23.62887000000001,
+    89.12931999999998,
+    23.62887000000001
+],
+  "geometry": {"coordinates":[89.12931999999998,23.62887000000001],"type":"Point"}
+}

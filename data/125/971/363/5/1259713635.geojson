@@ -1,0 +1,70 @@
+{
+  "id": 1259713635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.90566,23.87575,89.90566,23.87575",
+    "geom:latitude":23.87575,
+    "geom:longitude":89.90566,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3056.0",
+    "gn:admin3_code":"305622.0",
+    "gn:admin4_code":"30562211.0",
+    "gn:asciiname":"Bil Bamnapatal",
+    "gn:country_code":"BD",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1208633,
+    "gn:latitude":23.87575,
+    "gn:longitude":89.90566,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Bil B\u0101mn\u0101patal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421191745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1208633
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"1d6b59f76d32879b16955587e8be305d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421191745,
+            "locality_id":1259713635,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1259713635,
+    "wof:lastmodified":1537022757,
+    "wof:name":"Bil Bamnapatal",
+    "wof:parent_id":421191745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.90566,
+    23.87575,
+    89.90566,
+    23.87575
+],
+  "geometry": {"coordinates":[89.90566,23.87575],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1226272537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.96886,22.83666,88.96886,22.83666",
+    "geom:latitude":22.83666,
+    "geom:longitude":88.96886,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4087.0",
+    "gn:admin3_code":"408743.0",
+    "gn:admin4_code":"40874363.0",
+    "gn:asciiname":"Garakhali",
+    "gn:country_code":"BD",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7485510,
+    "gn:latitude":22.83666,
+    "gn:longitude":88.96886,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Gar\u0101kh\u0101li",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Gar\u0101kh\u0101li"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632469,
+        85672219,
+        1108696079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7485510
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"42427ac88f6e018369b49dcb64f61272",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108696079,
+            "locality_id":1226272537,
+            "region_id":85672219
+        }
+    ],
+    "wof:id":1226272537,
+    "wof:lastmodified":1537586592,
+    "wof:name":"Garakhali",
+    "wof:parent_id":1108696079,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.96885999999998,
+    22.83666,
+    88.96885999999998,
+    22.83666
+],
+  "geometry": {"coordinates":[88.96885999999998,22.83666],"type":"Point"}
+}

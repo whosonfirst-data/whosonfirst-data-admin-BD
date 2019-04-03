@@ -1,0 +1,74 @@
+{
+  "id": 1343598767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.81386,23.64507,89.81386,23.64507",
+    "geom:latitude":23.64507,
+    "geom:longitude":89.81386,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3029",
+    "gn:admin3_code":"302947.0",
+    "gn:admin4_code":"30294723.0",
+    "gn:asciiname":"South Char Madhabdia",
+    "gn:country_code":"BD",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1187450,
+    "gn:latitude":23.64507,
+    "gn:longitude":89.81386,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"South Char M\u0101dhabdia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dakshin Char Madhabdia",
+        "South Char M\u0101dhabdia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421198063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1187450
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"33548e0b9e6ed848bb3ead0bcbb42f3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421198063,
+            "locality_id":1343598767,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1343598767,
+    "wof:lastmodified":1537585738,
+    "wof:name":"South Char Madhabdia",
+    "wof:parent_id":421198063,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.81385999999998,
+    23.64507,
+    89.81385999999998,
+    23.64507
+],
+  "geometry": {"coordinates":[89.81385999999998,23.64507],"type":"Point"}
+}

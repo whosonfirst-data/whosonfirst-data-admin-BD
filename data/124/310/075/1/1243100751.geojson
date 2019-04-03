@@ -1,0 +1,73 @@
+{
+  "id": 1243100751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.83253,24.20708,88.83253,24.20708",
+    "geom:latitude":24.20708,
+    "geom:longitude":88.83253,
+    "gn:admin1_code":"83",
+    "gn:admin2_code":"5081.0",
+    "gn:admin3_code":"508110.0",
+    "gn:admin4_code":"50811015.0",
+    "gn:asciiname":"Chak Amodpur",
+    "gn:country_code":"BD",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7483895,
+    "gn:latitude":24.20708,
+    "gn:longitude":88.83253,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Chak Amodpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Chak Amodpur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669031,
+        421172439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7483895
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"a60be8788eb9b354c9b0f1effc8c57a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421172439,
+            "locality_id":1243100751,
+            "region_id":85669031
+        }
+    ],
+    "wof:id":1243100751,
+    "wof:lastmodified":1537586549,
+    "wof:name":"Chak Amodpur",
+    "wof:parent_id":421172439,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.83253,
+    24.20708,
+    88.83253,
+    24.20708
+],
+  "geometry": {"coordinates":[88.83253000000001,24.20708],"type":"Point"}
+}

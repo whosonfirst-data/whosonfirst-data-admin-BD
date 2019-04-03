@@ -1,0 +1,76 @@
+{
+  "id": 1226280099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.47556,23.34181,89.47556,23.34181",
+    "geom:latitude":23.34181,
+    "geom:longitude":89.47556,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4055",
+    "gn:admin3_code":"405557.0",
+    "gn:admin4_code":"40555713.0",
+    "gn:asciiname":"Per Polita",
+    "gn:country_code":"BD",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1192360,
+    "gn:latitude":23.34181,
+    "gn:longitude":89.47556,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Per Polita",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Per Polita"
+    ],
+    "name:ben_x_variant":[
+        "P\u0101r Palita"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        1108694689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1192360
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"f0365c87942bc0be769428121a4d0b88",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694689,
+            "locality_id":1226280099,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1226280099,
+    "wof:lastmodified":1537585834,
+    "wof:name":"Per Polita",
+    "wof:parent_id":1108694689,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.47556,
+    23.34181,
+    89.47556,
+    23.34181
+],
+  "geometry": {"coordinates":[89.47556,23.34181],"type":"Point"}
+}

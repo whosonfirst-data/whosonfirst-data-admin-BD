@@ -1,0 +1,75 @@
+{
+  "id": 1310139087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.35,23.81667,90.35,23.81667",
+    "geom:latitude":23.81667,
+    "geom:longitude":90.35,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3026",
+    "gn:admin3_code":"302640.0",
+    "gn:admin4_code":"30264008.0",
+    "gn:asciiname":"Maharambari",
+    "gn:cc2":"BD",
+    "gn:country_code":"BD",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1195610,
+    "gn:latitude":23.81667,
+    "gn:longitude":90.35,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Maharamb\u0101ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Maharram Bari",
+        "Maharamb\u0101ri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421187803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1195610
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"cafc60e0cd632fa95973efefc874b52d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421187803,
+            "locality_id":1310139087,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1310139087,
+    "wof:lastmodified":1537585892,
+    "wof:name":"Maharambari",
+    "wof:parent_id":421187803,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.35,
+    23.81667,
+    90.35,
+    23.81667
+],
+  "geometry": {"coordinates":[90.34999999999999,23.81667],"type":"Point"}
+}

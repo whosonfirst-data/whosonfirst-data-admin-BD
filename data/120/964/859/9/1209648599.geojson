@@ -1,0 +1,73 @@
+{
+  "id": 1209648599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.26466,24.63588,88.26466,24.63588",
+    "geom:latitude":24.63588,
+    "geom:longitude":88.26466,
+    "gn:admin1_code":"83",
+    "gn:admin2_code":"5070.0",
+    "gn:admin3_code":"507066.0",
+    "gn:admin4_code":"50706611.0",
+    "gn:asciiname":"Dinnathpur",
+    "gn:country_code":"BD",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1203970,
+    "gn:latitude":24.63588,
+    "gn:longitude":88.26466,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Dinn\u0101thpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Dinn\u0101thpur"
+    ],
+    "name:ben_x_variant":[
+        "Dinan\u0101thpur"
+    ],
+    "name:und_x_variant":[
+        "Naud\u0101p\u0101ra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1203970
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"eddb957d510979b273de818df97c86f7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209648599
+        }
+    ],
+    "wof:id":1209648599,
+    "wof:lastmodified":1537586050,
+    "wof:name":"Dinnathpur",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.26465999999998,
+    24.63588,
+    88.26465999999998,
+    24.63588
+],
+  "geometry": {"coordinates":[88.26465999999998,24.63588],"type":"Point"}
+}

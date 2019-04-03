@@ -1,0 +1,73 @@
+{
+  "id": 1343498457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.66117,23.19677,89.66117,23.19677",
+    "geom:latitude":23.19677,
+    "geom:longitude":89.66117,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4065.0",
+    "gn:admin3_code":"406552.0",
+    "gn:admin4_code":"40655263.0",
+    "gn:asciiname":"Mochra",
+    "gn:country_code":"BD",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7480195,
+    "gn:latitude":23.19677,
+    "gn:longitude":89.66117,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Mochra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Mochra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        421205213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7480195
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"23a635e1d090f18d0fd3aa092cb1d6e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421205213,
+            "locality_id":1343498457,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1343498457,
+    "wof:lastmodified":1537586442,
+    "wof:name":"Mochra",
+    "wof:parent_id":421205213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.66117,
+    23.19677,
+    89.66117,
+    23.19677
+],
+  "geometry": {"coordinates":[89.66117,23.19677],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1226480547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.08248,23.78457,91.08248,23.78457",
+    "geom:latitude":23.78457,
+    "geom:longitude":91.08248,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2012",
+    "gn:admin3_code":"201263.0",
+    "gn:admin4_code":"20126382.0",
+    "gn:asciiname":"Khewra",
+    "gn:country_code":"BD",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1197427,
+    "gn:latitude":23.78457,
+    "gn:longitude":91.08248,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Khewra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kheora"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        1108694667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1197427
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"3778a475f373d49e2518c5f96ea3876e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694667,
+            "locality_id":1226480547,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1226480547,
+    "wof:lastmodified":1537585925,
+    "wof:name":"Khewra",
+    "wof:parent_id":1108694667,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.08248,
+    23.78457,
+    91.08248,
+    23.78457
+],
+  "geometry": {"coordinates":[91.08248,23.78457],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1310135791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.60628,24.4064,90.60628,24.4064",
+    "geom:latitude":24.4064,
+    "geom:longitude":90.60628,
+    "gn:admin1_code":"H",
+    "gn:admin2_code":"3061.0",
+    "gn:admin3_code":"306122.0",
+    "gn:admin4_code":"30612294.0",
+    "gn:asciiname":"Diargaon",
+    "gn:country_code":"BD",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1204077,
+    "gn:latitude":24.4064,
+    "gn:longitude":90.60628,
+    "gn:modification_date":"2016-11-17",
+    "gn:name":"Di\u0101rgaon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        1108803101,
+        421185469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1204077
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"f7dad940dde3d9db2f40285ef40bf29d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421185469,
+            "locality_id":1310135791,
+            "region_id":1108803101
+        }
+    ],
+    "wof:id":1310135791,
+    "wof:lastmodified":1536953056,
+    "wof:name":"Diargaon",
+    "wof:parent_id":421185469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.60628,
+    24.4064,
+    90.60628,
+    24.4064
+],
+  "geometry": {"coordinates":[90.60628,24.4064],"type":"Point"}
+}

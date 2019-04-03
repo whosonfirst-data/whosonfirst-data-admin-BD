@@ -1,0 +1,73 @@
+{
+  "id": 1293618967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.63566,25.66927,88.63566,25.66927",
+    "geom:latitude":25.66927,
+    "geom:longitude":88.63566,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5527.0",
+    "gn:admin3_code":"552764.0",
+    "gn:admin4_code":"55276425.0",
+    "gn:asciiname":"Barail",
+    "gn:country_code":"BD",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1210478,
+    "gn:latitude":25.66927,
+    "gn:longitude":88.63566,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Barail",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Barail"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1210478
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"675eff767819ee88095769d47b6f111a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694671,
+            "locality_id":1293618967,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1293618967,
+    "wof:lastmodified":1537586162,
+    "wof:name":"Barail",
+    "wof:parent_id":1108694671,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.63566,
+    25.66927,
+    88.63566,
+    25.66927
+],
+  "geometry": {"coordinates":[88.63566,25.66927],"type":"Point"}
+}

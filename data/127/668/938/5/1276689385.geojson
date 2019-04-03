@@ -1,0 +1,70 @@
+{
+  "id": 1276689385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.21667,24.36645,90.21667,24.36645",
+    "geom:latitude":24.36645,
+    "geom:longitude":90.21667,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3093",
+    "gn:admin3_code":"309385.0",
+    "gn:admin4_code":"30938581.0",
+    "gn:asciiname":"Kalia",
+    "gn:country_code":"BD",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1199178,
+    "gn:latitude":24.36645,
+    "gn:longitude":90.21667,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"K\u0101lia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421185471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1199178
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"c2860d842dd74929820e8995dcd664bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421185471,
+            "locality_id":1276689385,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1276689385,
+    "wof:lastmodified":1536798844,
+    "wof:name":"Kalia",
+    "wof:parent_id":421185471,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.21667,
+    24.36645,
+    90.21667,
+    24.36645
+],
+  "geometry": {"coordinates":[90.21666999999999,24.36645],"type":"Point"}
+}

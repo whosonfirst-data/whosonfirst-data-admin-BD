@@ -1,0 +1,70 @@
+{
+  "id": 1209849155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.37716,25.50175,89.37716,25.50175",
+    "geom:latitude":25.50175,
+    "geom:longitude":89.37716,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5585",
+    "gn:admin3_code":"558558.0",
+    "gn:admin4_code":"55855844.0",
+    "gn:asciiname":"Juliarpara",
+    "gn:country_code":"BD",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7890340,
+    "gn:latitude":25.50175,
+    "gn:longitude":89.37716,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Juli\u0101rp\u0101ra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7890340
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"1320a0f25f6c9e12040e89df7eae0e27",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694701,
+            "locality_id":1209849155,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1209849155,
+    "wof:lastmodified":1536389268,
+    "wof:name":"Juliarpara",
+    "wof:parent_id":1108694701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.37716,
+    25.50175,
+    89.37716,
+    25.50175
+],
+  "geometry": {"coordinates":[89.37716,25.50175],"type":"Point"}
+}

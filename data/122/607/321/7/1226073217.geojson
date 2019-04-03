@@ -1,0 +1,74 @@
+{
+  "id": 1226073217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.31167,23.61549,90.31167,23.61549",
+    "geom:latitude":23.61549,
+    "geom:longitude":90.31167,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3059.0",
+    "gn:admin3_code":"305974.0",
+    "gn:admin4_code":"30597481.0",
+    "gn:asciiname":"Basniahati",
+    "gn:country_code":"BD",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1209952,
+    "gn:latitude":23.61549,
+    "gn:longitude":90.31167,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Basni\u0101h\u0101ti",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mirjakanda",
+        "Basni\u0101h\u0101ti"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421205059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1209952
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"4777b6e0a2e5ef049f124311cc2121a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421205059,
+            "locality_id":1226073217,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1226073217,
+    "wof:lastmodified":1537586154,
+    "wof:name":"Basniahati",
+    "wof:parent_id":421205059,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.31167,
+    23.61549,
+    90.31167,
+    23.61549
+],
+  "geometry": {"coordinates":[90.31167000000001,23.61549],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1243484591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.71225,24.78663,88.71225,24.78663",
+    "geom:latitude":24.78663,
+    "geom:longitude":88.71225,
+    "gn:admin1_code":"83",
+    "gn:admin2_code":"5064.0",
+    "gn:admin3_code":"506447.0",
+    "gn:admin4_code":"50644727.0",
+    "gn:asciiname":"Banihari",
+    "gn:country_code":"BD",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1210943,
+    "gn:latitude":24.78663,
+    "gn:longitude":88.71225,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"B\u0101nih\u0101ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "B\u0101nih\u0101ri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669031,
+        421191663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1210943
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"6a8d3d22159b8407e5bd56af52b080f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421191663,
+            "locality_id":1243484591,
+            "region_id":85669031
+        }
+    ],
+    "wof:id":1243484591,
+    "wof:lastmodified":1537586169,
+    "wof:name":"Banihari",
+    "wof:parent_id":421191663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.71225,
+    24.78663,
+    88.71225,
+    24.78663
+],
+  "geometry": {"coordinates":[88.71225,24.78663],"type":"Point"}
+}

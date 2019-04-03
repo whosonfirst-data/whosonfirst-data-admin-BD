@@ -1,0 +1,70 @@
+{
+  "id": 1259821739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.01667,23.26667,91.01667,23.26667",
+    "geom:latitude":23.26667,
+    "geom:longitude":91.01667,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2019.0",
+    "gn:admin3_code":"201909.0",
+    "gn:admin4_code":"20190982.0",
+    "gn:asciiname":"Dhuliamuri",
+    "gn:country_code":"BD",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1204156,
+    "gn:latitude":23.26667,
+    "gn:longitude":91.01667,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Dhuli\u0101muri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421187801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1204156
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"fbc6e53f6ec6594815bf5ec6e56735f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421187801,
+            "locality_id":1259821739,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1259821739,
+    "wof:lastmodified":1536866945,
+    "wof:name":"Dhuliamuri",
+    "wof:parent_id":421187801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.01667,
+    23.26667,
+    91.01667,
+    23.26667
+],
+  "geometry": {"coordinates":[91.01667,23.26667],"type":"Point"}
+}

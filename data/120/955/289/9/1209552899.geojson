@@ -1,0 +1,64 @@
+{
+  "id": 1209552899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.53643,25.10336,89.53643,25.10336",
+    "geom:latitude":25.10336,
+    "geom:longitude":89.53643,
+    "gn:admin1_code":"83",
+    "gn:asciiname":"Gurguria",
+    "gn:country_code":"BD",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7905555,
+    "gn:latitude":25.10336,
+    "gn:longitude":89.53643,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Gurguria",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Gurguria"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7905555
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"c27b5562db6d74b2da19f9153109d185",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209552899
+        }
+    ],
+    "wof:id":1209552899,
+    "wof:lastmodified":1537586775,
+    "wof:name":"Gurguria",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.53643000000002,
+    25.10336,
+    89.53643000000002,
+    25.10336
+],
+  "geometry": {"coordinates":[89.53643000000002,25.10336],"type":"Point"}
+}

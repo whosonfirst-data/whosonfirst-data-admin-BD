@@ -1,0 +1,73 @@
+{
+  "id": 1226676189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.86136,23.84957,88.86136,23.84957",
+    "geom:latitude":23.84957,
+    "geom:longitude":88.86136,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4057.0",
+    "gn:admin3_code":"405747.0",
+    "gn:admin4_code":"40574784.0",
+    "gn:asciiname":"Bholadanga",
+    "gn:country_code":"BD",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1208842,
+    "gn:latitude":23.84957,
+    "gn:longitude":88.86136,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Bhol\u0101d\u0101nga",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Bhol\u0101d\u0101nga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        421191661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1208842
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"6790a16c42121fa5612f419930267282",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421191661,
+            "locality_id":1226676189,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1226676189,
+    "wof:lastmodified":1537586137,
+    "wof:name":"Bholadanga",
+    "wof:parent_id":421191661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.86135999999998,
+    23.84957,
+    88.86135999999998,
+    23.84957
+],
+  "geometry": {"coordinates":[88.86135999999998,23.84957],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1310534709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.72459,22.43916,90.72459,22.43916",
+    "geom:latitude":22.43916,
+    "geom:longitude":90.72459,
+    "gn:admin1_code":"85",
+    "gn:admin2_code":"1009.0",
+    "gn:admin3_code":"100921.0",
+    "gn:admin4_code":"10092119.0",
+    "gn:asciiname":"Bara Pata",
+    "gn:country_code":"BD",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1210283,
+    "gn:latitude":22.43916,
+    "gn:longitude":90.72459,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Bara Pata",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Bara Pata"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669019,
+        421184491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1210283,
+        "wk:page":"Bara_Pata"
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"dbc33be43a6bc8294c8f0ea7373c5891",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421184491,
+            "locality_id":1310534709,
+            "region_id":85669019
+        }
+    ],
+    "wof:id":1310534709,
+    "wof:lastmodified":1537586159,
+    "wof:name":"Bara Pata",
+    "wof:parent_id":421184491,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.72459,
+    22.43916,
+    90.72459,
+    22.43916
+],
+  "geometry": {"coordinates":[90.72459000000001,22.43916],"type":"Point"}
+}

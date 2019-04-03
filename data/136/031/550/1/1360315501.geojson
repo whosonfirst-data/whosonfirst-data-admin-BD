@@ -1,0 +1,73 @@
+{
+  "id": 1360315501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.96498,26.41979,88.96498,26.41979",
+    "geom:latitude":26.41979,
+    "geom:longitude":88.96498,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5552.0",
+    "gn:admin3_code":"555270.0",
+    "gn:admin4_code":"55527081.0",
+    "gn:asciiname":"Panisala",
+    "gn:country_code":"BD",
+    "gn:dem":73,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7105275,
+    "gn:latitude":26.41979,
+    "gn:longitude":88.96498,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"P\u0101nis\u0101la",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "P\u0101nis\u0101la"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7105275
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"92f398f8f8482b0d6394eda68b9f7aa4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694687,
+            "locality_id":1360315501,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1360315501,
+    "wof:lastmodified":1537586298,
+    "wof:name":"Panisala",
+    "wof:parent_id":1108694687,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.96498000000003,
+    26.41979000000001,
+    88.96498000000003,
+    26.41979000000001
+],
+  "geometry": {"coordinates":[88.96498000000003,26.41979000000001],"type":"Point"}
+}

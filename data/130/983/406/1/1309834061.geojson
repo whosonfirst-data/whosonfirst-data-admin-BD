@@ -1,0 +1,70 @@
+{
+  "id": 1309834061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.19142,23.8761,90.19142,23.8761",
+    "geom:latitude":23.8761,
+    "geom:longitude":90.19142,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3026.0",
+    "gn:admin3_code":"302614.0",
+    "gn:admin4_code":"30261453.0",
+    "gn:asciiname":"Bijasin",
+    "gn:country_code":"BD",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1208735,
+    "gn:latitude":23.8761,
+    "gn:longitude":90.19142,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Bij\u0101sin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421187803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1208735
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"ab1202142543173bb08b763cf61655d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421187803,
+            "locality_id":1309834061,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1309834061,
+    "wof:lastmodified":1536890133,
+    "wof:name":"Bijasin",
+    "wof:parent_id":421187803,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.19142,
+    23.8761,
+    90.19142,
+    23.8761
+],
+  "geometry": {"coordinates":[90.19141999999999,23.8761],"type":"Point"}
+}

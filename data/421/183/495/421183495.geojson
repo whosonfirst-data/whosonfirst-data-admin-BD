@@ -1,0 +1,84 @@
+{
+  "id": 421183495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.78291,24.43944,90.78291,24.43944",
+    "geom:latitude":24.43944,
+    "geom:longitude":90.78291,
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "Kishoreganj"
+    ],
+    "qs:gn_country":"BD",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":1337249,
+    "qs:gn_pop":90690,
+    "qs:name":"Kishorganj",
+    "qs:name_adm0":"Bangladesh",
+    "qs:name_adm1":"Dhaka",
+    "qs:photos":92,
+    "qs:photos_1k":19,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":92,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"8",
+    "qs:qs_id":1031388,
+    "qs:woe_adm0":23424759,
+    "qs:woe_id":1915121,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421170483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1337249,
+        "gp:id":1915121,
+        "qs:id":1031388,
+        "wd:id":"Q2344833",
+        "wk:page":"Kishoreganj District"
+    },
+    "wof:country":"BD",
+    "wof:created":1459009371,
+    "wof:geomhash":"671767bb3a5c060308769e7ea25ce32a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421170483,
+            "locality_id":421183495,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":421183495,
+    "wof:lastmodified":1505340686,
+    "wof:name":"Kishorganj",
+    "wof:parent_id":421170483,
+    "wof:placetype":"locality",
+    "wof:population":90690,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.78291,
+    24.43944,
+    90.78291,
+    24.43944
+],
+  "geometry": {"coordinates":[90.78291,24.43944],"type":"Point"}
+}

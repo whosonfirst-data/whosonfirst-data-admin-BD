@@ -1,0 +1,70 @@
+{
+  "id": 1276594865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.1,23.55,91.1,23.55",
+    "geom:latitude":23.55,
+    "geom:longitude":91.1,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2019",
+    "gn:admin3_code":"201918.0",
+    "gn:admin4_code":"20191872.0",
+    "gn:asciiname":"North Gobindapur",
+    "gn:country_code":"BD",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1191881,
+    "gn:latitude":23.55,
+    "gn:longitude":91.1,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"North Gobind\u0101pur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421187801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1191881
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"f4b07d2ff5eed4c9bda7ad98c9caaaae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421187801,
+            "locality_id":1276594865,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1276594865,
+    "wof:lastmodified":1536926453,
+    "wof:name":"North Gobindapur",
+    "wof:parent_id":421187801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.1,
+    23.55,
+    91.1,
+    23.55
+],
+  "geometry": {"coordinates":[91.09999999999999,23.55],"type":"Point"}
+}

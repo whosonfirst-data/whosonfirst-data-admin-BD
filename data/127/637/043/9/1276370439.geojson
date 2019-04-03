@@ -1,0 +1,73 @@
+{
+  "id": 1276370439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.60906,24.58607,88.60906,24.58607",
+    "geom:latitude":24.58607,
+    "geom:longitude":88.60906,
+    "gn:admin1_code":"83",
+    "gn:admin2_code":"5081.0",
+    "gn:admin3_code":"508153.0",
+    "gn:admin4_code":"50815340.0",
+    "gn:asciiname":"Bage Deopur",
+    "gn:country_code":"BD",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7482873,
+    "gn:latitude":24.58607,
+    "gn:longitude":88.60906,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Bage Deopur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Bage Deopur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669031,
+        421172439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7482873
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"5320c29bfe8b755472bd1d2e832505d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421172439,
+            "locality_id":1276370439,
+            "region_id":85669031
+        }
+    ],
+    "wof:id":1276370439,
+    "wof:lastmodified":1537586520,
+    "wof:name":"Bage Deopur",
+    "wof:parent_id":421172439,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.60906,
+    24.58607,
+    88.60906,
+    24.58607
+],
+  "geometry": {"coordinates":[88.60906,24.58607],"type":"Point"}
+}

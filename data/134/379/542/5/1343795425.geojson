@@ -1,0 +1,70 @@
+{
+  "id": 1343795425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.9263,23.50099,89.9263,23.50099",
+    "geom:latitude":23.50099,
+    "geom:longitude":89.9263,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3029",
+    "gn:admin3_code":"302984.0",
+    "gn:admin4_code":"30298466.0",
+    "gn:asciiname":"Thengamari",
+    "gn:country_code":"BD",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1186129,
+    "gn:latitude":23.50099,
+    "gn:longitude":89.9263,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Theng\u0101m\u0101ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421198063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1186129
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"44125eefdb1ead556b9d6be0cbd53719",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421198063,
+            "locality_id":1343795425,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1343795425,
+    "wof:lastmodified":1536760771,
+    "wof:name":"Thengamari",
+    "wof:parent_id":421198063,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.9263,
+    23.50099,
+    89.9263,
+    23.50099
+],
+  "geometry": {"coordinates":[89.9263,23.50099],"type":"Point"}
+}

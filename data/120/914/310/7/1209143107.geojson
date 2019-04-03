@@ -1,0 +1,70 @@
+{
+  "id": 1209143107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.57921,24.99122,88.57921,24.99122",
+    "geom:latitude":24.99122,
+    "geom:longitude":88.57921,
+    "gn:admin1_code":"83",
+    "gn:admin2_code":"5064.0",
+    "gn:admin3_code":"506479.0",
+    "gn:admin4_code":"50647931.0",
+    "gn:asciiname":"Banmohan",
+    "gn:country_code":"BD",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1211251,
+    "gn:latitude":24.99122,
+    "gn:longitude":88.57921,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Banmohan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Balmohan"
+    ],
+    "name:ben_x_variant":[
+        "Banmohan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1211251
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"a0753cdcc798cbe0258da2dae681275e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209143107
+        }
+    ],
+    "wof:id":1209143107,
+    "wof:lastmodified":1537586174,
+    "wof:name":"Banmohan",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.57921,
+    24.99122,
+    88.57921,
+    24.99122
+],
+  "geometry": {"coordinates":[88.57921,24.99122],"type":"Point"}
+}

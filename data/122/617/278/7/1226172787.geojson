@@ -1,0 +1,71 @@
+{
+  "id": 1226172787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.3139,23.87512,89.3139,23.87512",
+    "geom:latitude":23.87512,
+    "geom:longitude":89.3139,
+    "gn:admin1_code":"82",
+    "gn:asciiname":"Chhota Gopgram",
+    "gn:country_code":"BD",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1205986,
+    "gn:latitude":23.87512,
+    "gn:longitude":89.3139,
+    "gn:modification_date":"2013-02-08",
+    "gn:name":"Chhota Gopgr\u0101m",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chhota Gopagram",
+        "Chhota Gopgr\u0101m"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        890438075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1205986
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"c7dce18b5666d4887d4994a8fefe65cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":890438075,
+            "locality_id":1226172787,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1226172787,
+    "wof:lastmodified":1537586084,
+    "wof:name":"Chhota Gopgram",
+    "wof:parent_id":890438075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.3139,
+    23.87512000000001,
+    89.3139,
+    23.87512000000001
+],
+  "geometry": {"coordinates":[89.3139,23.87512000000001],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1293326169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.19212,24.48892,89.19212,24.48892",
+    "geom:latitude":24.48892,
+    "geom:longitude":89.19212,
+    "gn:admin1_code":"83",
+    "gn:admin2_code":"5069",
+    "gn:admin3_code":"506991.0",
+    "gn:admin4_code":"50699147.0",
+    "gn:asciiname":"Tajpur",
+    "gn:country_code":"BD",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1186690,
+    "gn:latitude":24.48892,
+    "gn:longitude":89.19212,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"T\u0101jpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669031,
+        421182115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1186690
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"7a38f8c577d9b5f9eec1e55242e55d32",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421182115,
+            "locality_id":1293326169,
+            "region_id":85669031
+        }
+    ],
+    "wof:id":1293326169,
+    "wof:lastmodified":1537018859,
+    "wof:name":"Tajpur",
+    "wof:parent_id":421182115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.19211999999997,
+    24.48892,
+    89.19211999999997,
+    24.48892
+],
+  "geometry": {"coordinates":[89.19211999999997,24.48892],"type":"Point"}
+}

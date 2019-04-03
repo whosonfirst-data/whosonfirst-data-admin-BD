@@ -1,0 +1,70 @@
+{
+  "id": 1277110135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.3736,22.26581,90.3736,22.26581",
+    "geom:latitude":22.26581,
+    "geom:longitude":90.3736,
+    "gn:admin1_code":"82",
+    "gn:asciiname":"Chhituokhali",
+    "gn:country_code":"BD",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7476709,
+    "gn:latitude":22.26581,
+    "gn:longitude":90.3736,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"Chhituokhali",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Chhituokhali"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669019,
+        421169845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7476709
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"362e41b55f578ab06749483e8998bb7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421169845,
+            "locality_id":1277110135,
+            "region_id":85669019
+        }
+    ],
+    "wof:id":1277110135,
+    "wof:lastmodified":1537586352,
+    "wof:name":"Chhituokhali",
+    "wof:parent_id":421169845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.3736,
+    22.26581,
+    90.3736,
+    22.26581
+],
+  "geometry": {"coordinates":[90.3736,22.26581],"type":"Point"}
+}

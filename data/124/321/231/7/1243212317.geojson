@@ -1,0 +1,70 @@
+{
+  "id": 1243212317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.61389,22.64083,91.61389,22.64083",
+    "geom:latitude":22.64083,
+    "geom:longitude":91.61389,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2015.0",
+    "gn:admin3_code":"201586.0",
+    "gn:admin4_code":"20158695.0",
+    "gn:asciiname":"Purba Sahidpur",
+    "gn:country_code":"BD",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6413673,
+    "gn:latitude":22.64083,
+    "gn:longitude":91.61389,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Purba Sahidpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421201541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6413673
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"66a6b950c6b93f40b909c10e2b6f9fac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421201541,
+            "locality_id":1243212317,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1243212317,
+    "wof:lastmodified":1536645638,
+    "wof:name":"Purba Sahidpur",
+    "wof:parent_id":421201541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.61389,
+    22.64083,
+    91.61389,
+    22.64083
+],
+  "geometry": {"coordinates":[91.61389,22.64083],"type":"Point"}
+}

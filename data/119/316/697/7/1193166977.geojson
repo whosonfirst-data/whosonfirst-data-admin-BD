@@ -1,0 +1,74 @@
+{
+  "id": 1193166977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.58052,23.74047,89.58052,23.74047",
+    "geom:latitude":23.74047,
+    "geom:longitude":89.58052,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3082.0",
+    "gn:admin3_code":"308276.0",
+    "gn:admin4_code":"30827632.0",
+    "gn:asciiname":"Azugara",
+    "gn:country_code":"BD",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1212197,
+    "gn:latitude":23.74047,
+    "gn:longitude":89.58052,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"\u0100zugara",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ajugara",
+        "\u0100zugara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        1108694699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1212197
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"c1d10946104cf69fc574db041e256f1e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694699,
+            "locality_id":1193166977,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1193166977,
+    "wof:lastmodified":1537586191,
+    "wof:name":"Azugara",
+    "wof:parent_id":1108694699,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.58051999999998,
+    23.74047,
+    89.58051999999998,
+    23.74047
+],
+  "geometry": {"coordinates":[89.58051999999998,23.74047],"type":"Point"}
+}

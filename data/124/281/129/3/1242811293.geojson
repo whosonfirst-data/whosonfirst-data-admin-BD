@@ -1,0 +1,73 @@
+{
+  "id": 1242811293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.31298,26.13924,88.31298,26.13924",
+    "geom:latitude":26.13924,
+    "geom:longitude":88.31298,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5594.0",
+    "gn:admin3_code":"559408.0",
+    "gn:admin4_code":"55940852.0",
+    "gn:asciiname":"Bhotpara",
+    "gn:country_code":"BD",
+    "gn:dem":62,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7487154,
+    "gn:latitude":26.13924,
+    "gn:longitude":88.31298,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Bhotp\u0101ra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Bhotp\u0101ra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7487154
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"88dbe34bf52106eb5125c0d1ab6f86f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694703,
+            "locality_id":1242811293,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1242811293,
+    "wof:lastmodified":1537586631,
+    "wof:name":"Bhotpara",
+    "wof:parent_id":1108694703,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.31298000000002,
+    26.13924,
+    88.31298000000002,
+    26.13924
+],
+  "geometry": {"coordinates":[88.31298000000002,26.13924],"type":"Point"}
+}

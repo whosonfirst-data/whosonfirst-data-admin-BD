@@ -1,0 +1,73 @@
+{
+  "id": 1209764099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.78106,22.35387,91.78106,22.35387",
+    "geom:latitude":22.35387,
+    "geom:longitude":91.78106,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2015.0",
+    "gn:admin3_code":"201541.0",
+    "gn:admin4_code":"20154111.0",
+    "gn:asciiname":"Uttar Kattali",
+    "gn:country_code":"BD",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6413560,
+    "gn:latitude":22.35387,
+    "gn:longitude":91.78106,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Uttar K\u0101ttali",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Uttar K\u0101ttali"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421201541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6413560
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"97dd082c4f8cdbedfeb98323f0487289",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421201541,
+            "locality_id":1209764099,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1209764099,
+    "wof:lastmodified":1537586216,
+    "wof:name":"Uttar Kattali",
+    "wof:parent_id":421201541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.78106,
+    22.35387,
+    91.78106,
+    22.35387
+],
+  "geometry": {"coordinates":[91.78106,22.35387],"type":"Point"}
+}

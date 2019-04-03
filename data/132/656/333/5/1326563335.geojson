@@ -1,0 +1,70 @@
+{
+  "id": 1326563335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.48333,24.45,88.48333,24.45",
+    "geom:latitude":24.45,
+    "geom:longitude":88.48333,
+    "gn:admin1_code":"83",
+    "gn:admin2_code":"5081.0",
+    "gn:admin3_code":"508134.0",
+    "gn:admin4_code":"50813447.0",
+    "gn:asciiname":"Bil Patikola",
+    "gn:country_code":"BD",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1208522,
+    "gn:latitude":24.45,
+    "gn:longitude":88.48333,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"B\u012bl P\u0101tikola",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669031,
+        421172439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1208522
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"a1fb7b193d9053c1dd1de49b601cb9d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421172439,
+            "locality_id":1326563335,
+            "region_id":85669031
+        }
+    ],
+    "wof:id":1326563335,
+    "wof:lastmodified":1536939913,
+    "wof:name":"Bil Patikola",
+    "wof:parent_id":421172439,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.48333000000002,
+    24.45,
+    88.48333000000002,
+    24.45
+],
+  "geometry": {"coordinates":[88.48333000000002,24.45],"type":"Point"}
+}

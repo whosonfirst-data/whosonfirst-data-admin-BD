@@ -1,0 +1,70 @@
+{
+  "id": 1293526677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.98333,23.65,89.98333,23.65",
+    "geom:latitude":23.65,
+    "geom:longitude":89.98333,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3056.0",
+    "gn:admin3_code":"305628.0",
+    "gn:admin4_code":"30562807.0",
+    "gn:asciiname":"Char Hajinagar",
+    "gn:country_code":"BD",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1206893,
+    "gn:latitude":23.65,
+    "gn:longitude":89.98333,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Char H\u0101jinagar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421191745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1206893
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"beb5e6e5ea47490900a5294e1ea0443f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421191745,
+            "locality_id":1293526677,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1293526677,
+    "wof:lastmodified":1536730814,
+    "wof:name":"Char Hajinagar",
+    "wof:parent_id":421191745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.98333000000002,
+    23.65,
+    89.98333000000002,
+    23.65
+],
+  "geometry": {"coordinates":[89.98333000000002,23.65],"type":"Point"}
+}

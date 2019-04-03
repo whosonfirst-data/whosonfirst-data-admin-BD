@@ -1,0 +1,75 @@
+{
+  "id": 1260316617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.24762,24.80676,89.24762,24.80676",
+    "geom:latitude":24.80676,
+    "geom:longitude":89.24762,
+    "gn:admin1_code":"83",
+    "gn:admin2_code":"5010.0",
+    "gn:admin3_code":"501054.0",
+    "gn:admin4_code":"50105438.0",
+    "gn:asciiname":"Aolak",
+    "gn:country_code":"BD",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1212645,
+    "gn:latitude":24.80676,
+    "gn:longitude":89.24762,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"\u0100ol\u0101k",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Aolakhayer",
+        "\u0100ol\u0101khair",
+        "\u0100ol\u0101k"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669031,
+        421187793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1212645
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"31c24c3994dc4c715688f3d0276fd4b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421187793,
+            "locality_id":1260316617,
+            "region_id":85669031
+        }
+    ],
+    "wof:id":1260316617,
+    "wof:lastmodified":1537586200,
+    "wof:name":"Aolak",
+    "wof:parent_id":421187793,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.24762,
+    24.80676,
+    89.24762,
+    24.80676
+],
+  "geometry": {"coordinates":[89.24762,24.80676],"type":"Point"}
+}

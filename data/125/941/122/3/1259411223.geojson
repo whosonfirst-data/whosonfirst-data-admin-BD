@@ -1,0 +1,73 @@
+{
+  "id": 1259411223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.1317,25.8879,88.1317,25.8879",
+    "geom:latitude":25.8879,
+    "geom:longitude":88.1317,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5594.0",
+    "gn:admin3_code":"559451.0",
+    "gn:admin4_code":"55945127.0",
+    "gn:asciiname":"Tantihat",
+    "gn:country_code":"BD",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7487400,
+    "gn:latitude":25.8879,
+    "gn:longitude":88.1317,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"T\u0101ntih\u0101t",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "T\u0101ntih\u0101t"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7487400
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"879974a697a9202e0260ab2835ca9f72",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694703,
+            "locality_id":1259411223,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1259411223,
+    "wof:lastmodified":1537586638,
+    "wof:name":"Tantihat",
+    "wof:parent_id":1108694703,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.1317,
+    25.8879,
+    88.1317,
+    25.8879
+],
+  "geometry": {"coordinates":[88.1317,25.8879],"type":"Point"}
+}

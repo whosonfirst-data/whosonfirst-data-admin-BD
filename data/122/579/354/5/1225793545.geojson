@@ -1,0 +1,73 @@
+{
+  "id": 1225793545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"92.06487,22.61955,92.06487,22.61955",
+    "geom:latitude":22.61955,
+    "geom:longitude":92.06487,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2084.0",
+    "gn:admin3_code":"208425.0",
+    "gn:admin4_code":"20842557.0",
+    "gn:asciiname":"Parulchari",
+    "gn:country_code":"BD",
+    "gn:dem":51,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6415582,
+    "gn:latitude":22.61955,
+    "gn:longitude":92.06487,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"P\u0101rulchari",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "P\u0101rulchari"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421201541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6415582
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"9889ccad7c6433076c6380a14661c33e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421201541,
+            "locality_id":1225793545,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1225793545,
+    "wof:lastmodified":1537586248,
+    "wof:name":"Parulchari",
+    "wof:parent_id":421201541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    92.06487,
+    22.61955,
+    92.06487,
+    22.61955
+],
+  "geometry": {"coordinates":[92.06487,22.61955],"type":"Point"}
+}

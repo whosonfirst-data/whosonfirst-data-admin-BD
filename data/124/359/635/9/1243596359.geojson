@@ -1,0 +1,76 @@
+{
+  "id": 1243596359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"92.1577,22.33824,92.1577,22.33824",
+    "geom:latitude":22.33824,
+    "geom:longitude":92.1577,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2003",
+    "gn:admin3_code":"200314.0",
+    "gn:admin4_code":"20031447.0",
+    "gn:asciiname":"Udalpania",
+    "gn:country_code":"BD",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1185878,
+    "gn:latitude":22.33824,
+    "gn:longitude":92.1577,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Udalpania",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Udalpania"
+    ],
+    "name:und_x_variant":[
+        "Udalbania"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421169477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1185878
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"ad9e9ca6c6c75ef12e3fec67dc232d1a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421169477,
+            "locality_id":1243596359,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1243596359,
+    "wof:lastmodified":1537585709,
+    "wof:name":"Udalpania",
+    "wof:parent_id":421169477,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    92.1577,
+    22.33824,
+    92.1577,
+    22.33824
+],
+  "geometry": {"coordinates":[92.15770000000001,22.33824],"type":"Point"}
+}

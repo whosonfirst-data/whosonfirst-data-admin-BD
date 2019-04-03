@@ -1,0 +1,74 @@
+{
+  "id": 1226570971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.95142,24.69724,91.95142,24.69724",
+    "geom:latitude":24.69724,
+    "geom:longitude":91.95142,
+    "gn:admin1_code":"86",
+    "gn:admin2_code":"6091",
+    "gn:admin3_code":"609135.0",
+    "gn:admin4_code":"60913523.0",
+    "gn:asciiname":"Fenchuganj",
+    "gn:country_code":"BD",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1185221,
+    "gn:latitude":24.69724,
+    "gn:longitude":91.95142,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Fenchuganj",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Fechugang",
+        "Fenchuganj"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669025,
+        421187795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1185221
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"fb9dec157c1aaaec376a9383fb999668",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421187795,
+            "locality_id":1226570971,
+            "region_id":85669025
+        }
+    ],
+    "wof:id":1226570971,
+    "wof:lastmodified":1537585692,
+    "wof:name":"Fenchuganj",
+    "wof:parent_id":421187795,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.95142,
+    24.69724,
+    91.95142,
+    24.69724
+],
+  "geometry": {"coordinates":[91.95142,24.69724],"type":"Point"}
+}

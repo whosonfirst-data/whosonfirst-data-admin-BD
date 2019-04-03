@@ -1,0 +1,73 @@
+{
+  "id": 1343891415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.8511,23.67225,88.8511,23.67225",
+    "geom:latitude":23.67225,
+    "geom:longitude":88.8511,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4018.0",
+    "gn:admin3_code":"401823.0",
+    "gn:admin4_code":"40182300.0",
+    "gn:asciiname":"Hazrahati",
+    "gn:country_code":"BD",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1201118,
+    "gn:latitude":23.67225,
+    "gn:longitude":88.8511,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Hazr\u0101h\u0101ti",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Hazr\u0101h\u0101ti"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        421194153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1201118
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"9377b3de1147c6a3f4f433eb5a1965fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421194153,
+            "locality_id":1343891415,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1343891415,
+    "wof:lastmodified":1537585993,
+    "wof:name":"Hazrahati",
+    "wof:parent_id":421194153,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.8511,
+    23.67225,
+    88.8511,
+    23.67225
+],
+  "geometry": {"coordinates":[88.8511,23.67225],"type":"Point"}
+}

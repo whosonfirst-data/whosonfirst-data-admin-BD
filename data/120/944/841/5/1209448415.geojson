@@ -1,0 +1,70 @@
+{
+  "id": 1209448415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.0602,22.43824,89.0602,22.43824",
+    "geom:latitude":22.43824,
+    "geom:longitude":89.0602,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4087",
+    "gn:admin3_code":"408747.0",
+    "gn:admin4_code":"40874755.0",
+    "gn:asciiname":"Thekra Rahimpur",
+    "gn:country_code":"BD",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1186132,
+    "gn:latitude":22.43824,
+    "gn:longitude":89.0602,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Thekra Rahimpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Thekra Rahimpur"
+    ],
+    "name:und_x_variant":[
+        "Thekra Rah\u012bmpur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1186132
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"5255968b595535a949b86a7174c6bbcd",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209448415
+        }
+    ],
+    "wof:id":1209448415,
+    "wof:lastmodified":1537585713,
+    "wof:name":"Thekra Rahimpur",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.0602,
+    22.43824,
+    89.0602,
+    22.43824
+],
+  "geometry": {"coordinates":[89.06019999999999,22.43824],"type":"Point"}
+}

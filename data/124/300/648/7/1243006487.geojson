@@ -1,0 +1,76 @@
+{
+  "id": 1243006487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.28453,22.38866,89.28453,22.38866",
+    "geom:latitude":22.38866,
+    "geom:longitude":89.28453,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4047.0",
+    "gn:admin3_code":"404753.0",
+    "gn:admin4_code":"40475372.0",
+    "gn:asciiname":"Antabonia",
+    "gn:country_code":"BD",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1212664,
+    "gn:latitude":22.38866,
+    "gn:longitude":89.28453,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Ant\u0101bonia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Ant\u0101bonia"
+    ],
+    "name:ben_x_variant":[
+        "\u0100nt\u0101b\u0101nia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        421185473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1212664
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"87d3a019dda2c1b059d6c98d0c417c58",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421185473,
+            "locality_id":1243006487,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1243006487,
+    "wof:lastmodified":1537586200,
+    "wof:name":"Antabonia",
+    "wof:parent_id":421185473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.28453,
+    22.38866,
+    89.28453,
+    22.38866
+],
+  "geometry": {"coordinates":[89.28453,22.38866],"type":"Point"}
+}

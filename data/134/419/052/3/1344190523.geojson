@@ -1,0 +1,70 @@
+{
+  "id": 1344190523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.72836,23.53939,89.72836,23.53939",
+    "geom:latitude":23.53939,
+    "geom:longitude":89.72836,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3029.0",
+    "gn:admin3_code":"302947.0",
+    "gn:admin4_code":"30294771.0",
+    "gn:asciiname":"Bhuarkandi",
+    "gn:country_code":"BD",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1208807,
+    "gn:latitude":23.53939,
+    "gn:longitude":89.72836,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Bhu\u0101rk\u0101ndi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421198063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1208807
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"6b1a051659ad34b85259695bc6ab08d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421198063,
+            "locality_id":1344190523,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1344190523,
+    "wof:lastmodified":1536688107,
+    "wof:name":"Bhuarkandi",
+    "wof:parent_id":421198063,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.72836,
+    23.53939,
+    89.72836,
+    23.53939
+],
+  "geometry": {"coordinates":[89.72836,23.53939],"type":"Point"}
+}

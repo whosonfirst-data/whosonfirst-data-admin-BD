@@ -1,0 +1,67 @@
+{
+  "id": 1242619679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.72056,23.68667,90.72056,23.68667",
+    "geom:latitude":23.68667,
+    "geom:longitude":90.72056,
+    "gn:admin1_code":"84",
+    "gn:asciiname":"Sapmara Charergaon",
+    "gn:country_code":"BD",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1188677,
+    "gn:latitude":23.68667,
+    "gn:longitude":90.72056,
+    "gn:modification_date":"1999-06-07",
+    "gn:name":"S\u0101pm\u0101ra Charergaon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421197045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1188677
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"afc10350c0ca6d9c717a02479aae9615",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421197045,
+            "locality_id":1242619679,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1242619679,
+    "wof:lastmodified":1537002411,
+    "wof:name":"Sapmara Charergaon",
+    "wof:parent_id":421197045,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.72056,
+    23.68667,
+    90.72056,
+    23.68667
+],
+  "geometry": {"coordinates":[90.72056000000001,23.68667],"type":"Point"}
+}

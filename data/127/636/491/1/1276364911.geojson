@@ -1,0 +1,75 @@
+{
+  "id": 1276364911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.26654,22.54204,89.26654,22.54204",
+    "geom:latitude":22.54204,
+    "geom:longitude":89.26654,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4047",
+    "gn:admin3_code":"404764.0",
+    "gn:admin4_code":"40476416.0",
+    "gn:asciiname":"Kalmi Bunia",
+    "gn:country_code":"BD",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1199032,
+    "gn:latitude":22.54204,
+    "gn:longitude":89.26654,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Kalmi Bunia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chak Bishnupur",
+        "Kalmibuni\u0101 Bishnupur",
+        "Kalmi Bunia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        421185473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1199032
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"3541fbdc3f1f8757940726ca9fbb9fb8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421185473,
+            "locality_id":1276364911,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1276364911,
+    "wof:lastmodified":1537585953,
+    "wof:name":"Kalmi Bunia",
+    "wof:parent_id":421185473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.26654,
+    22.54204,
+    89.26654,
+    22.54204
+],
+  "geometry": {"coordinates":[89.26654000000001,22.54204],"type":"Point"}
+}

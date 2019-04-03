@@ -1,0 +1,70 @@
+{
+  "id": 1343991257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.26662,24.67243,90.26662,24.67243",
+    "geom:latitude":24.67243,
+    "geom:longitude":90.26662,
+    "gn:admin1_code":"H",
+    "gn:admin2_code":"3061.0",
+    "gn:admin3_code":"306120.0",
+    "gn:admin4_code":"30612023.0",
+    "gn:asciiname":"Datta Pakutia",
+    "gn:country_code":"BD",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1204915,
+    "gn:latitude":24.67243,
+    "gn:longitude":90.26662,
+    "gn:modification_date":"2016-11-17",
+    "gn:name":"Datta P\u0101kutia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        1108803101,
+        421185469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1204915
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"c7d8d28ace7e5cd236016f942fc34820",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421185469,
+            "locality_id":1343991257,
+            "region_id":1108803101
+        }
+    ],
+    "wof:id":1343991257,
+    "wof:lastmodified":1536975063,
+    "wof:name":"Datta Pakutia",
+    "wof:parent_id":421185469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.26662,
+    24.67243,
+    90.26662,
+    24.67243
+],
+  "geometry": {"coordinates":[90.26662,24.67243],"type":"Point"}
+}

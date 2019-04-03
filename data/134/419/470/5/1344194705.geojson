@@ -1,0 +1,70 @@
+{
+  "id": 1344194705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.27069,25.10292,89.27069,25.10292",
+    "geom:latitude":25.10292,
+    "geom:longitude":89.27069,
+    "gn:admin1_code":"83",
+    "gn:asciiname":"Sutar Para",
+    "gn:country_code":"BD",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7889713,
+    "gn:latitude":25.10292,
+    "gn:longitude":89.27069,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Sut\u0101r P\u0101ra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Sut\u0101r P\u0101ra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7889713
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"83efc55fc1ea2a3a3c2694739c7fbc9c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694675,
+            "locality_id":1344194705,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1344194705,
+    "wof:lastmodified":1537586737,
+    "wof:name":"Sutar Para",
+    "wof:parent_id":1108694675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.27069,
+    25.10292,
+    89.27069,
+    25.10292
+],
+  "geometry": {"coordinates":[89.27069,25.10292],"type":"Point"}
+}

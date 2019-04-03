@@ -1,0 +1,70 @@
+{
+  "id": 1260017863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.1,23.25,91.1,23.25",
+    "geom:latitude":23.25,
+    "geom:longitude":91.1,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2019.0",
+    "gn:admin3_code":"201972.0",
+    "gn:admin4_code":"20197277.0",
+    "gn:asciiname":"Chhota Chandpur",
+    "gn:country_code":"BD",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1206032,
+    "gn:latitude":23.25,
+    "gn:longitude":91.1,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Chhota Ch\u0101ndpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421187801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1206032
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"2f9c175f0c176b5e3fe426ff0bf5df2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421187801,
+            "locality_id":1260017863,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1260017863,
+    "wof:lastmodified":1537079328,
+    "wof:name":"Chhota Chandpur",
+    "wof:parent_id":421187801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.1,
+    23.25,
+    91.1,
+    23.25
+],
+  "geometry": {"coordinates":[91.09999999999999,23.25],"type":"Point"}
+}

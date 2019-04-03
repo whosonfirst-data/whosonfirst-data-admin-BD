@@ -1,0 +1,70 @@
+{
+  "id": 1260217201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.48181,23.97536,90.48181,23.97536",
+    "geom:latitude":23.97536,
+    "geom:longitude":90.48181,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3033",
+    "gn:admin3_code":"303330.0",
+    "gn:admin4_code":"30333025.0",
+    "gn:asciiname":"Kumun",
+    "gn:country_code":"BD",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1196644,
+    "gn:latitude":23.97536,
+    "gn:longitude":90.48181,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Kumun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421203493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1196644
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"7cd3094c3f3e89f69cd56f40251c3052",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421203493,
+            "locality_id":1260217201,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1260217201,
+    "wof:lastmodified":1536801948,
+    "wof:name":"Kumun",
+    "wof:parent_id":421203493,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.48181,
+    23.97536,
+    90.48181,
+    23.97536
+],
+  "geometry": {"coordinates":[90.48181,23.97536],"type":"Point"}
+}

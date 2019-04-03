@@ -1,0 +1,82 @@
+{
+  "id": 421193569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.52859,22.82257,90.52859,22.82257",
+    "geom:latitude":22.82257,
+    "geom:longitude":90.52859,
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "Mehdigunj"
+    ],
+    "qs:gn_country":"BD",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":1185171,
+    "qs:gn_pop":39424,
+    "qs:name":"Mehendiganj",
+    "qs:name_adm0":"Bangladesh",
+    "qs:name_adm1":"Barisal",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":2,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":917657,
+    "qs:woe_adm0":23424759,
+    "qs:woe_id":1906095,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669019,
+        421187745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1185171,
+        "gp:id":1906095,
+        "qs:id":917657
+    },
+    "wof:country":"BD",
+    "wof:created":1459009775,
+    "wof:geomhash":"6df12b1c72407634b46bab9d1f304b57",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421187745,
+            "locality_id":421193569,
+            "region_id":85669019
+        }
+    ],
+    "wof:id":421193569,
+    "wof:lastmodified":1505340735,
+    "wof:name":"Mehendiganj",
+    "wof:parent_id":421187745,
+    "wof:placetype":"locality",
+    "wof:population":39424,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.52859,
+    22.82257,
+    90.52859,
+    22.82257
+],
+  "geometry": {"coordinates":[90.52858999999999,22.82257],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1293420027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.11523,24.79449,90.11523,24.79449",
+    "geom:latitude":24.79449,
+    "geom:longitude":90.11523,
+    "gn:admin1_code":"H",
+    "gn:admin2_code":"3039.0",
+    "gn:admin3_code":"303936.0",
+    "gn:admin4_code":"30393617.0",
+    "gn:asciiname":"Banda Chithalia",
+    "gn:country_code":"BD",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1211094,
+    "gn:latitude":24.79449,
+    "gn:longitude":90.11523,
+    "gn:modification_date":"2016-11-17",
+    "gn:name":"Banda Chithalia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        1108803101,
+        421191923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1211094
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"c5a2977ebf45d075272d556c8dfce414",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421191923,
+            "locality_id":1293420027,
+            "region_id":1108803101
+        }
+    ],
+    "wof:id":1293420027,
+    "wof:lastmodified":1536883849,
+    "wof:name":"Banda Chithalia",
+    "wof:parent_id":421191923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.11523,
+    24.79449,
+    90.11523,
+    24.79449
+],
+  "geometry": {"coordinates":[90.11523,24.79449],"type":"Point"}
+}

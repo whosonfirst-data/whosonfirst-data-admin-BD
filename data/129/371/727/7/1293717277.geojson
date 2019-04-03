@@ -1,0 +1,73 @@
+{
+  "id": 1293717277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.37634,25.75834,88.37634,25.75834",
+    "geom:latitude":25.75834,
+    "geom:longitude":88.37634,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5594",
+    "gn:admin3_code":"559482.0",
+    "gn:admin4_code":"55948251.0",
+    "gn:asciiname":"Karnai",
+    "gn:country_code":"BD",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1198393,
+    "gn:latitude":25.75834,
+    "gn:longitude":88.37634,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Karn\u0101i",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Karn\u0101i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1198393
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"43aa0250b066b3e2b062d40697aed3b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694703,
+            "locality_id":1293717277,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1293717277,
+    "wof:lastmodified":1537585944,
+    "wof:name":"Karnai",
+    "wof:parent_id":1108694703,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.37634,
+    25.75834,
+    88.37634,
+    25.75834
+],
+  "geometry": {"coordinates":[88.37634,25.75834],"type":"Point"}
+}

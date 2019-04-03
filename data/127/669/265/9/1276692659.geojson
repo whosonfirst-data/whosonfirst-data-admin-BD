@@ -1,0 +1,70 @@
+{
+  "id": 1276692659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.00355,22.59215,90.00355,22.59215",
+    "geom:latitude":22.59215,
+    "geom:longitude":90.00355,
+    "gn:admin1_code":"85",
+    "gn:admin2_code":"1079",
+    "gn:admin3_code":"107980.0",
+    "gn:admin4_code":"10798094.0",
+    "gn:asciiname":"Narakhali",
+    "gn:country_code":"BD",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1193300,
+    "gn:latitude":22.59215,
+    "gn:longitude":90.00355,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Narakh\u0101li",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669019,
+        421172031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1193300
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"42361bc489cbac05946c5d74afa0a4d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421172031,
+            "locality_id":1276692659,
+            "region_id":85669019
+        }
+    ],
+    "wof:id":1276692659,
+    "wof:lastmodified":1536794501,
+    "wof:name":"Narakhali",
+    "wof:parent_id":421172031,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.00355,
+    22.59215,
+    90.00355,
+    22.59215
+],
+  "geometry": {"coordinates":[90.00355,22.59215],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1276689129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.87884,24.87389,90.87884,24.87389",
+    "geom:latitude":24.87389,
+    "geom:longitude":90.87884,
+    "gn:admin1_code":"H",
+    "gn:admin2_code":"3072",
+    "gn:admin3_code":"307209.0",
+    "gn:admin4_code":"30720923.0",
+    "gn:asciiname":"Rasulpur",
+    "gn:country_code":"BD",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1189741,
+    "gn:latitude":24.87389,
+    "gn:longitude":90.87884,
+    "gn:modification_date":"2016-11-17",
+    "gn:name":"Rasulpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        1108803101,
+        421200811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1189741
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"fbc60fc64bb6b1e0d2ed167fbea15053",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421200811,
+            "locality_id":1276689129,
+            "region_id":1108803101
+        }
+    ],
+    "wof:id":1276689129,
+    "wof:lastmodified":1536799180,
+    "wof:name":"Rasulpur",
+    "wof:parent_id":421200811,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.87884,
+    24.87389,
+    90.87884,
+    24.87389
+],
+  "geometry": {"coordinates":[90.87884,24.87389],"type":"Point"}
+}

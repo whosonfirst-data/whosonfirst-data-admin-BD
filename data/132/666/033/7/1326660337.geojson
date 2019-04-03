@@ -1,0 +1,76 @@
+{
+  "id": 1326660337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.11114,25.44164,89.11114,25.44164",
+    "geom:latitude":25.44164,
+    "geom:longitude":89.11114,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5527",
+    "gn:admin3_code":"552769.0",
+    "gn:admin4_code":"55276917.0",
+    "gn:asciiname":"Raghabindapur",
+    "gn:country_code":"BD",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1192995,
+    "gn:latitude":25.44164,
+    "gn:longitude":89.11114,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"R\u0101gh\u0101bindapur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "R\u0101gh\u0101bindapur"
+    ],
+    "name:ben_x_variant":[
+        "Nayani R\u0101gh\u0101bendrapur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1192995
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"1e8c1a622f6531802a238ccd547e0c2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694671,
+            "locality_id":1326660337,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1326660337,
+    "wof:lastmodified":1537585844,
+    "wof:name":"Raghabindapur",
+    "wof:parent_id":1108694671,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.11114,
+    25.44164,
+    89.11114,
+    25.44164
+],
+  "geometry": {"coordinates":[89.11114000000001,25.44164],"type":"Point"}
+}

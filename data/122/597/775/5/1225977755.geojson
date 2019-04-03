@@ -1,0 +1,73 @@
+{
+  "id": 1225977755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.67244,25.85698,89.67244,25.85698",
+    "geom:latitude":25.85698,
+    "geom:longitude":89.67244,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5549.0",
+    "gn:admin3_code":"554952.0",
+    "gn:admin4_code":"55495219.0",
+    "gn:asciiname":"Bhogdanga",
+    "gn:country_code":"BD",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1208861,
+    "gn:latitude":25.85698,
+    "gn:longitude":89.67244,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Bhogd\u0101nga",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Bhogd\u0101nga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1208861
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"1affaadb9f1c0bca5cba202a5258d94f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694685,
+            "locality_id":1225977755,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1225977755,
+    "wof:lastmodified":1537586137,
+    "wof:name":"Bhogdanga",
+    "wof:parent_id":1108694685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.67244000000002,
+    25.85698,
+    89.67244000000002,
+    25.85698
+],
+  "geometry": {"coordinates":[89.67244000000002,25.85698],"type":"Point"}
+}

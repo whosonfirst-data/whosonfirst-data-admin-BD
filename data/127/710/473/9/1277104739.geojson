@@ -1,0 +1,70 @@
+{
+  "id": 1277104739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.23333,24.61667,89.23333,24.61667",
+    "geom:latitude":24.61667,
+    "geom:longitude":89.23333,
+    "gn:admin1_code":"83",
+    "gn:admin2_code":"5010.0",
+    "gn:admin3_code":"501067.0",
+    "gn:admin4_code":"50106773.0",
+    "gn:asciiname":"Chhota Derahar",
+    "gn:country_code":"BD",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1206017,
+    "gn:latitude":24.61667,
+    "gn:longitude":89.23333,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Chhota Der\u0101h\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669031,
+        421187793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1206017
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"874704be628aca1a896c8e7e5b4e11d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421187793,
+            "locality_id":1277104739,
+            "region_id":85669031
+        }
+    ],
+    "wof:id":1277104739,
+    "wof:lastmodified":1536736120,
+    "wof:name":"Chhota Derahar",
+    "wof:parent_id":421187793,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.23333000000002,
+    24.61667000000001,
+    89.23333000000002,
+    24.61667000000001
+],
+  "geometry": {"coordinates":[89.23333000000002,24.61667000000001],"type":"Point"}
+}

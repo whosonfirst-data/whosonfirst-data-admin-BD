@@ -1,0 +1,73 @@
+{
+  "id": 1310531509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.62913,24.60549,88.62913,24.60549",
+    "geom:latitude":24.60549,
+    "geom:longitude":88.62913,
+    "gn:admin1_code":"83",
+    "gn:admin2_code":"5081.0",
+    "gn:admin3_code":"508153.0",
+    "gn:admin4_code":"50815340.0",
+    "gn:asciiname":"Atrai",
+    "gn:country_code":"BD",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7483014,
+    "gn:latitude":24.60549,
+    "gn:longitude":88.62913,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Atr\u0101i",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Atr\u0101i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669031,
+        421172439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7483014
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"1ad1b12342dc0c65f9fbee47ce854baa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421172439,
+            "locality_id":1310531509,
+            "region_id":85669031
+        }
+    ],
+    "wof:id":1310531509,
+    "wof:lastmodified":1537586525,
+    "wof:name":"Atrai",
+    "wof:parent_id":421172439,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.62913,
+    24.60549,
+    88.62913,
+    24.60549
+],
+  "geometry": {"coordinates":[88.62913,24.60549],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1242807901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.84455,23.84923,89.84455,23.84923",
+    "geom:latitude":23.84923,
+    "geom:longitude":89.84455,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3056",
+    "gn:admin3_code":"305678.0",
+    "gn:admin4_code":"30567871.0",
+    "gn:asciiname":"Rupshatia",
+    "gn:country_code":"BD",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1189446,
+    "gn:latitude":23.84923,
+    "gn:longitude":89.84455,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Rupsh\u0101tia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rupsatia",
+        "Rupsh\u0101tia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421191745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1189446
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"d93feabca2fb3b8ff06bccf82f14d77b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421191745,
+            "locality_id":1242807901,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1242807901,
+    "wof:lastmodified":1537585780,
+    "wof:name":"Rupshatia",
+    "wof:parent_id":421191745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.84455,
+    23.84923,
+    89.84455,
+    23.84923
+],
+  "geometry": {"coordinates":[89.84455,23.84923],"type":"Point"}
+}

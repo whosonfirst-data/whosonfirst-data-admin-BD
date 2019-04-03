@@ -1,0 +1,70 @@
+{
+  "id": 1209845825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.00562,23.20076,89.00562,23.20076",
+    "geom:latitude":23.20076,
+    "geom:longitude":89.00562,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4041.0",
+    "gn:admin3_code":"404123.0",
+    "gn:admin4_code":"40412329.0",
+    "gn:asciiname":"Bengdaha",
+    "gn:country_code":"BD",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1209578,
+    "gn:latitude":23.20076,
+    "gn:longitude":89.00562,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Bengdaha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        421176039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1209578
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"df091545c43ade8c8c6e0a91648b29f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421176039,
+            "locality_id":1209845825,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1209845825,
+    "wof:lastmodified":1536390712,
+    "wof:name":"Bengdaha",
+    "wof:parent_id":421176039,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.00562,
+    23.20076,
+    89.00562,
+    23.20076
+],
+  "geometry": {"coordinates":[89.00561999999999,23.20076],"type":"Point"}
+}

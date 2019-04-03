@@ -1,0 +1,108 @@
+{
+  "id": 890415479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.63779,25.62745,88.63779,25.62745",
+    "geom:latitude":25.62745,
+    "geom:longitude":88.63779,
+    "gn:country":"BD",
+    "gn:fcode":"PPL",
+    "gn:pop":206234,
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ben_x_preferred":[
+        "Din\u0101jpur"
+    ],
+    "name:cat_x_preferred":[
+        "Dinajpur"
+    ],
+    "name:dut_x_preferred":[
+        "Dinajpur"
+    ],
+    "name:eng_x_preferred":[
+        "Dinajpur"
+    ],
+    "name:fre_x_preferred":[
+        "Dinajpur"
+    ],
+    "name:ita_x_preferred":[
+        "Dinajpur"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c7\u30a3\u30ca\u30b8\u30d7\u30fc\u30eb"
+    ],
+    "name:lit_x_preferred":[
+        "Dinad\u017epuras"
+    ],
+    "name:pol_x_preferred":[
+        "Dinad\u017apur"
+    ],
+    "name:por_x_preferred":[
+        "Dinajpur"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0438\u043d\u0430\u0434\u0436\u043f\u0443\u0440"
+    ],
+    "name:spa_x_preferred":[
+        "Dinajpur"
+    ],
+    "name:swe_x_preferred":[
+        "Dinajpur"
+    ],
+    "qs:name":"Din\u0101jpur",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"10",
+    "src:population":"geonames",
+    "wd:wordcount":992,
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1203891,
+        "gp:id":1915046,
+        "qs:id":130923,
+        "wd:id":"Q4161769",
+        "wk:page":"Uttar Dinajpur district"
+    },
+    "wof:country":"BD",
+    "wof:created":1469051090,
+    "wof:geomhash":"417f1fe2cb4429767b0fd5e69f9b12fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694671,
+            "locality_id":890415479,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":890415479,
+    "wof:lastmodified":1553816391,
+    "wof:name":"Din\u0101jpur",
+    "wof:parent_id":1108694671,
+    "wof:placetype":"locality",
+    "wof:population":206234,
+    "wof:population_rank":10,
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.63779,
+    25.62745,
+    88.63779,
+    25.62745
+],
+  "geometry": {"coordinates":[88.63779,25.62745],"type":"Point"}
+}

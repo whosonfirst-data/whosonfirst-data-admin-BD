@@ -1,0 +1,79 @@
+{
+  "id": 421195865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.20935,23.17097,90.20935,23.17097",
+    "geom:latitude":23.17097,
+    "geom:longitude":90.20935,
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"BD",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":1337245,
+    "qs:gn_pop":84789,
+    "qs:name":"Madaripur",
+    "qs:name_adm0":"Bangladesh",
+    "qs:name_adm1":"Dhaka",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":3,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"8",
+    "qs:qs_id":132717,
+    "qs:woe_adm0":23424759,
+    "qs:woe_id":1915136,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421183929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1337245,
+        "gp:id":1915136,
+        "qs:id":132717
+    },
+    "wof:country":"BD",
+    "wof:created":1459009862,
+    "wof:geomhash":"e4d639f1646352123050920c4745c45f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421183929,
+            "locality_id":421195865,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":421195865,
+    "wof:lastmodified":1505340745,
+    "wof:name":"Madaripur",
+    "wof:parent_id":421183929,
+    "wof:placetype":"locality",
+    "wof:population":84789,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.20935,
+    23.17097,
+    90.20935,
+    23.17097
+],
+  "geometry": {"coordinates":[90.20935,23.17097],"type":"Point"}
+}

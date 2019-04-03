@@ -1,0 +1,73 @@
+{
+  "id": 1343987819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.39248,25.72918,89.39248,25.72918",
+    "geom:latitude":25.72918,
+    "geom:longitude":89.39248,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5585.0",
+    "gn:admin3_code":"558542.0",
+    "gn:admin4_code":"55854240.0",
+    "gn:asciiname":"Nasaringha",
+    "gn:country_code":"BD",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7887869,
+    "gn:latitude":25.72918,
+    "gn:longitude":89.39248,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Nasaringha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Nasaringha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7887869
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"0cc58f3dd27ae7b0164b435b26abb5a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694701,
+            "locality_id":1343987819,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1343987819,
+    "wof:lastmodified":1537586717,
+    "wof:name":"Nasaringha",
+    "wof:parent_id":1108694701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.39248,
+    25.72918,
+    89.39248,
+    25.72918
+],
+  "geometry": {"coordinates":[89.39248000000001,25.72918],"type":"Point"}
+}

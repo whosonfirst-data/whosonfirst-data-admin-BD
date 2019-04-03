@@ -1,0 +1,70 @@
+{
+  "id": 1276483233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.0,23.89611,91.0,23.89611",
+    "geom:latitude":23.89611,
+    "geom:longitude":91.0,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2012.0",
+    "gn:admin3_code":"201285.0",
+    "gn:admin4_code":"20128562.0",
+    "gn:asciiname":"Srirampur",
+    "gn:country_code":"BD",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1462817,
+    "gn:latitude":23.89611,
+    "gn:longitude":91.0,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Srirampur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        1108694667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1462817
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"eea4d2d898a73e0508563c99822b6de6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694667,
+            "locality_id":1276483233,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1276483233,
+    "wof:lastmodified":1537071972,
+    "wof:name":"Srirampur",
+    "wof:parent_id":1108694667,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.0,
+    23.89611,
+    91.0,
+    23.89611
+],
+  "geometry": {"coordinates":[91.0,23.89611],"type":"Point"}
+}

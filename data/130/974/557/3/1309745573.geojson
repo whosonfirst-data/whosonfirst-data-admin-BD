@@ -1,0 +1,73 @@
+{
+  "id": 1309745573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.57066,22.3128,90.57066,22.3128",
+    "geom:latitude":22.3128,
+    "geom:longitude":90.57066,
+    "gn:admin1_code":"85",
+    "gn:admin2_code":"1078.0",
+    "gn:admin3_code":"107852.0",
+    "gn:admin4_code":"10785231.0",
+    "gn:asciiname":"Nehalganj",
+    "gn:country_code":"BD",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7478070,
+    "gn:latitude":22.3128,
+    "gn:longitude":90.57066,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Neh\u0101lganj",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Neh\u0101lganj"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669019,
+        421169845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7478070
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"35394c692d9163a07e9576d27ebedc0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421169845,
+            "locality_id":1309745573,
+            "region_id":85669019
+        }
+    ],
+    "wof:id":1309745573,
+    "wof:lastmodified":1537586382,
+    "wof:name":"Nehalganj",
+    "wof:parent_id":421169845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.57066,
+    22.3128,
+    90.57066,
+    22.3128
+],
+  "geometry": {"coordinates":[90.57066,22.3128],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1343591103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.03482,25.09588,90.03482,25.09588",
+    "geom:latitude":25.09588,
+    "geom:longitude":90.03482,
+    "gn:admin1_code":"H",
+    "gn:admin2_code":"3089",
+    "gn:admin3_code":"308990.0",
+    "gn:admin4_code":"30899031.0",
+    "gn:asciiname":"Saitarpur",
+    "gn:country_code":"BD",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7924108,
+    "gn:latitude":25.09588,
+    "gn:longitude":90.03482,
+    "gn:modification_date":"2016-11-17",
+    "gn:name":"Saitarpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Saitarpur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        1108803101,
+        421190979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7924108
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"814fc5ba2502f69241e8336b858d77cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421190979,
+            "locality_id":1343591103,
+            "region_id":1108803101
+        }
+    ],
+    "wof:id":1343591103,
+    "wof:lastmodified":1537586817,
+    "wof:name":"Saitarpur",
+    "wof:parent_id":421190979,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.03482,
+    25.09588,
+    90.03482,
+    25.09588
+],
+  "geometry": {"coordinates":[90.03482,25.09588],"type":"Point"}
+}

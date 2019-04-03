@@ -1,0 +1,70 @@
+{
+  "id": 1209752895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.72975,24.47259,90.72975,24.47259",
+    "geom:latitude":24.47259,
+    "geom:longitude":90.72975,
+    "gn:admin1_code":"H",
+    "gn:admin2_code":"3048",
+    "gn:admin3_code":"304849.0",
+    "gn:admin4_code":"30484994.0",
+    "gn:asciiname":"Ramdia",
+    "gn:country_code":"BD",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1190100,
+    "gn:latitude":24.47259,
+    "gn:longitude":90.72975,
+    "gn:modification_date":"2016-12-05",
+    "gn:name":"R\u0101mdia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        1108803101,
+        421185469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1190100
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"1ec5ad5d97762c2f2d90d3f85fdfe898",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421185469,
+            "locality_id":1209752895,
+            "region_id":1108803101
+        }
+    ],
+    "wof:id":1209752895,
+    "wof:lastmodified":1536391938,
+    "wof:name":"Ramdia",
+    "wof:parent_id":421185469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.72975,
+    24.47259,
+    90.72975,
+    24.47259
+],
+  "geometry": {"coordinates":[90.72975,24.47259],"type":"Point"}
+}

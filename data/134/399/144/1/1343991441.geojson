@@ -1,0 +1,76 @@
+{
+  "id": 1343991441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.34561,22.38079,89.34561,22.38079",
+    "geom:latitude":22.38079,
+    "geom:longitude":89.34561,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4047",
+    "gn:admin3_code":"404753.0",
+    "gn:admin4_code":"40475378.0",
+    "gn:asciiname":"Tetultalar Char",
+    "gn:country_code":"BD",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1186241,
+    "gn:latitude":22.38079,
+    "gn:longitude":89.34561,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Tetultal\u0101r Char",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Tetultal\u0101r Char"
+    ],
+    "name:ben_x_variant":[
+        "Tentultal\u0101r Char"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        421185473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1186241
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"69e686cb5121ba085491e531412cf78d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421185473,
+            "locality_id":1343991441,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1343991441,
+    "wof:lastmodified":1537585716,
+    "wof:name":"Tetultalar Char",
+    "wof:parent_id":421185473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.34561,
+    22.38079,
+    89.34561,
+    22.38079
+],
+  "geometry": {"coordinates":[89.34560999999999,22.38079],"type":"Point"}
+}

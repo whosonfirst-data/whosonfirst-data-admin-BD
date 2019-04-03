@@ -1,0 +1,73 @@
+{
+  "id": 1327272215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.80195,22.98749,91.80195,22.98749",
+    "geom:latitude":22.98749,
+    "geom:longitude":91.80195,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2046.0",
+    "gn:admin3_code":"204670.0",
+    "gn:admin4_code":"20467059.0",
+    "gn:asciiname":"Sigiraipara",
+    "gn:country_code":"BD",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7477457,
+    "gn:latitude":22.98749,
+    "gn:longitude":91.80195,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Sigir\u0101ip\u0101ra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Sigir\u0101ip\u0101ra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        1108694683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7477457
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"794e05fbe0dcad1714a72947d2a38597",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694683,
+            "locality_id":1327272215,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1327272215,
+    "wof:lastmodified":1537586368,
+    "wof:name":"Sigiraipara",
+    "wof:parent_id":1108694683,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.80195,
+    22.98749,
+    91.80195,
+    22.98749
+],
+  "geometry": {"coordinates":[91.80195000000001,22.98749],"type":"Point"}
+}

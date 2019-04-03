@@ -1,0 +1,64 @@
+{
+  "id": 1209653459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.16139,22.64,91.16139,22.64",
+    "geom:latitude":22.64,
+    "geom:longitude":91.16139,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2075.0",
+    "gn:admin3_code":"207588.0",
+    "gn:admin4_code":"20758823.0",
+    "gn:asciiname":"Ewazbalia",
+    "gn:country_code":"BD",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1462712,
+    "gn:latitude":22.64,
+    "gn:longitude":91.16139,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Ewazbalia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1462712
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"2e7730a35251bfa3ffef4debd4bf7093",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209653459
+        }
+    ],
+    "wof:id":1209653459,
+    "wof:lastmodified":1536280512,
+    "wof:name":"Ewazbalia",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.16139,
+    22.64,
+    91.16139,
+    22.64
+],
+  "geometry": {"coordinates":[91.16139,22.64],"type":"Point"}
+}

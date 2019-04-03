@@ -1,0 +1,73 @@
+{
+  "id": 1310135975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.01519,22.2895,89.01519,22.2895",
+    "geom:latitude":22.2895,
+    "geom:longitude":89.01519,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4087",
+    "gn:admin3_code":"408786.0",
+    "gn:admin4_code":"40878647.0",
+    "gn:asciiname":"Naikati",
+    "gn:country_code":"BD",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1193661,
+    "gn:latitude":22.2895,
+    "gn:longitude":89.01519,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Naik\u0101ti",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Naik\u0101ti"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        421201927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1193661
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"ad19c57971fd1914850624a0baf2128e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421201927,
+            "locality_id":1310135975,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1310135975,
+    "wof:lastmodified":1537585856,
+    "wof:name":"Naikati",
+    "wof:parent_id":421201927,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.01519,
+    22.2895,
+    89.01519,
+    22.2895
+],
+  "geometry": {"coordinates":[89.01519,22.2895],"type":"Point"}
+}

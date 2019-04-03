@@ -1,0 +1,74 @@
+{
+  "id": 1226390975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.78733,23.12338,90.78733,23.12338",
+    "geom:latitude":23.12338,
+    "geom:longitude":90.78733,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2013.0",
+    "gn:admin3_code":"201345.0",
+    "gn:admin4_code":"20134577.0",
+    "gn:asciiname":"Badiyazzamapur",
+    "gn:country_code":"BD",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1212085,
+    "gn:latitude":23.12338,
+    "gn:longitude":90.78733,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Badiyazzam\u0101pur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Badiyazzam\u0101pur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        1108694669
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1212085,
+        "wk:page":"Badiyazzamapur"
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"4ad3ab76f659505a84944c6cfaa9e65a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694669,
+            "locality_id":1226390975,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1226390975,
+    "wof:lastmodified":1537586189,
+    "wof:name":"Badiyazzamapur",
+    "wof:parent_id":1108694669,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.78733,
+    23.12338,
+    90.78733,
+    23.12338
+],
+  "geometry": {"coordinates":[90.78733,23.12338],"type":"Point"}
+}

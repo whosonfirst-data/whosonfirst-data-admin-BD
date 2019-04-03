@@ -1,0 +1,76 @@
+{
+  "id": 1226176023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.57125,25.51387,89.57125,25.51387",
+    "geom:latitude":25.51387,
+    "geom:longitude":89.57125,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5532",
+    "gn:admin3_code":"553291.0",
+    "gn:admin4_code":"55329169.0",
+    "gn:asciiname":"Shantiram",
+    "gn:country_code":"BD",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1188733,
+    "gn:latitude":25.51387,
+    "gn:longitude":89.57125,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Sh\u0101ntir\u0101m",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Sh\u0101ntir\u0101m"
+    ],
+    "name:ben_x_variant":[
+        "Santir\u0101m"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1188733
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"bebb356ec72247a967a28fe5728d0766",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694675,
+            "locality_id":1226176023,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1226176023,
+    "wof:lastmodified":1537585767,
+    "wof:name":"Shantiram",
+    "wof:parent_id":1108694675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.57125,
+    25.51387,
+    89.57125,
+    25.51387
+],
+  "geometry": {"coordinates":[89.57125000000001,25.51387],"type":"Point"}
+}

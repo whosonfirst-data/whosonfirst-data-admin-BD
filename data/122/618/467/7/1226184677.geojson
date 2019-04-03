@@ -1,0 +1,74 @@
+{
+  "id": 1226184677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.8706,23.39728,90.8706,23.39728",
+    "geom:latitude":23.39728,
+    "geom:longitude":90.8706,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2013.0",
+    "gn:admin3_code":"201358.0",
+    "gn:admin4_code":"20135887.0",
+    "gn:asciiname":"Ainpur",
+    "gn:country_code":"BD",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1213145,
+    "gn:latitude":23.39728,
+    "gn:longitude":90.8706,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"\u0100inpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0100inpur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        1108694669
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1213145,
+        "wk:page":"Ainpur"
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"ba8c3e90bf5cf5f5b8ab57a48aaa2c18",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694669,
+            "locality_id":1226184677,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1226184677,
+    "wof:lastmodified":1537586209,
+    "wof:name":"Ainpur",
+    "wof:parent_id":1108694669,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.8706,
+    23.39728,
+    90.8706,
+    23.39728
+],
+  "geometry": {"coordinates":[90.8706,23.39728],"type":"Point"}
+}

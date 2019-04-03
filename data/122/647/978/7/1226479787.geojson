@@ -1,0 +1,73 @@
+{
+  "id": 1226479787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.89237,25.02835,89.89237,25.02835",
+    "geom:latitude":25.02835,
+    "geom:longitude":89.89237,
+    "gn:admin1_code":"H",
+    "gn:admin2_code":"3089",
+    "gn:admin3_code":"308988.0",
+    "gn:admin4_code":"30898861.0",
+    "gn:asciiname":"Satnambar",
+    "gn:country_code":"BD",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7922514,
+    "gn:latitude":25.02835,
+    "gn:longitude":89.89237,
+    "gn:modification_date":"2016-11-17",
+    "gn:name":"Satnambar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Satnambar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        1108803101,
+        421190979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7922514
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"d93d3afd5c58aeb7abef63db007a15c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421190979,
+            "locality_id":1226479787,
+            "region_id":1108803101
+        }
+    ],
+    "wof:id":1226479787,
+    "wof:lastmodified":1537586787,
+    "wof:name":"Satnambar",
+    "wof:parent_id":421190979,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.89237,
+    25.02835,
+    89.89237,
+    25.02835
+],
+  "geometry": {"coordinates":[89.89237,25.02835],"type":"Point"}
+}

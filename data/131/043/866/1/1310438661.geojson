@@ -1,0 +1,70 @@
+{
+  "id": 1310438661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.37253,23.89018,90.37253,23.89018",
+    "geom:latitude":23.89018,
+    "geom:longitude":90.37253,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3026.0",
+    "gn:admin3_code":"302640.0",
+    "gn:admin4_code":"30264001.0",
+    "gn:asciiname":"Dhaur",
+    "gn:country_code":"BD",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1204288,
+    "gn:latitude":23.89018,
+    "gn:longitude":90.37253,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Dhaur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421187803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1204288
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"72956b881e35498f2f8994d8e198deba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421187803,
+            "locality_id":1310438661,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1310438661,
+    "wof:lastmodified":1537012770,
+    "wof:name":"Dhaur",
+    "wof:parent_id":421187803,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.37253,
+    23.89018,
+    90.37253,
+    23.89018
+],
+  "geometry": {"coordinates":[90.37253,23.89018],"type":"Point"}
+}

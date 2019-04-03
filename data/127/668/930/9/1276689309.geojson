@@ -1,0 +1,70 @@
+{
+  "id": 1276689309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.92824,23.2121,88.92824,23.2121",
+    "geom:latitude":23.2121,
+    "geom:longitude":88.92824,
+    "gn:admin1_code":"82",
+    "gn:asciiname":"Pukuria",
+    "gn:country_code":"BD",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7485302,
+    "gn:latitude":23.2121,
+    "gn:longitude":88.92824,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"Pukuria",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Pukuria"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632469,
+        85672219,
+        1108696079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7485302
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"eb191ce56399fa27655da5f8769ed351",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108696079,
+            "locality_id":1276689309,
+            "region_id":85672219
+        }
+    ],
+    "wof:id":1276689309,
+    "wof:lastmodified":1537586587,
+    "wof:name":"Pukuria",
+    "wof:parent_id":1108696079,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.92824,
+    23.2121,
+    88.92824,
+    23.2121
+],
+  "geometry": {"coordinates":[88.92824,23.2121],"type":"Point"}
+}

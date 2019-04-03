@@ -1,0 +1,67 @@
+{
+  "id": 1209139431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.99176,25.35054,88.99176,25.35054",
+    "geom:latitude":25.35054,
+    "geom:longitude":88.99176,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5527.0",
+    "gn:admin3_code":"552710.0",
+    "gn:admin4_code":"55271023.0",
+    "gn:asciiname":"Monirampur",
+    "gn:country_code":"BD",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7481435,
+    "gn:latitude":25.35054,
+    "gn:longitude":88.99176,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Monir\u0101mpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Monir\u0101mpur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7481435
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"92f60ced8444c71c41c132c7e2b5e20a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209139431
+        }
+    ],
+    "wof:id":1209139431,
+    "wof:lastmodified":1537586478,
+    "wof:name":"Monirampur",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.99176,
+    25.35054,
+    88.99176,
+    25.35054
+],
+  "geometry": {"coordinates":[88.99176,25.35054],"type":"Point"}
+}

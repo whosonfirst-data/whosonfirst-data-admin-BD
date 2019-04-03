@@ -1,0 +1,70 @@
+{
+  "id": 1310353801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.36667,22.98333,91.36667,22.98333",
+    "geom:latitude":22.98333,
+    "geom:longitude":91.36667,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2030.0",
+    "gn:admin3_code":"203025.0",
+    "gn:admin4_code":"20302538.0",
+    "gn:asciiname":"Barahigobinda",
+    "gn:country_code":"BD",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1210544,
+    "gn:latitude":22.98333,
+    "gn:longitude":91.36667,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Bar\u0101h\u012bgobinda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421181771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1210544
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"639233e68942f5397d07a3ee5334f7ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421181771,
+            "locality_id":1310353801,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1310353801,
+    "wof:lastmodified":1536637322,
+    "wof:name":"Barahigobinda",
+    "wof:parent_id":421181771,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.36667,
+    22.98333,
+    91.36667,
+    22.98333
+],
+  "geometry": {"coordinates":[91.36667,22.98333],"type":"Point"}
+}

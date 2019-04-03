@@ -1,0 +1,73 @@
+{
+  "id": 1242607585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.57777,23.2058,89.57777,23.2058",
+    "geom:latitude":23.2058,
+    "geom:longitude":89.57777,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4065.0",
+    "gn:admin3_code":"406576.0",
+    "gn:admin4_code":"40657633.0",
+    "gn:asciiname":"Mahishkhola",
+    "gn:country_code":"BD",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7480421,
+    "gn:latitude":23.2058,
+    "gn:longitude":89.57777,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Mahishkhola",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Mahishkhola"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        421205213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7480421
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"9a67e036ebf4fc8a93ccdf9aa42cc118",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421205213,
+            "locality_id":1242607585,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1242607585,
+    "wof:lastmodified":1537586449,
+    "wof:name":"Mahishkhola",
+    "wof:parent_id":421205213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.57777,
+    23.2058,
+    89.57777,
+    23.2058
+],
+  "geometry": {"coordinates":[89.57777,23.2058],"type":"Point"}
+}

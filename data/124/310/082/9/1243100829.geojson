@@ -1,0 +1,73 @@
+{
+  "id": 1243100829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.14182,25.0284,89.14182,25.0284",
+    "geom:latitude":25.0284,
+    "geom:longitude":89.14182,
+    "gn:admin1_code":"83",
+    "gn:admin2_code":"5038.0",
+    "gn:admin3_code":"503861.0",
+    "gn:admin4_code":"50386147.0",
+    "gn:asciiname":"Chak Goduka",
+    "gn:country_code":"BD",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7888493,
+    "gn:latitude":25.0284,
+    "gn:longitude":89.14182,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Chak G\u014dduka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Chak G\u014dduka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669031,
+        1108694681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7888493
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"08ab4c75702cc7abc30552cff5586f53",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694681,
+            "locality_id":1243100829,
+            "region_id":85669031
+        }
+    ],
+    "wof:id":1243100829,
+    "wof:lastmodified":1537586723,
+    "wof:name":"Chak Goduka",
+    "wof:parent_id":1108694681,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.14182,
+    25.0284,
+    89.14182,
+    25.0284
+],
+  "geometry": {"coordinates":[89.14182,25.0284],"type":"Point"}
+}

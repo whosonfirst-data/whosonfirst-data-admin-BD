@@ -1,0 +1,77 @@
+{
+  "id": 890421853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.44595,25.91719,89.44595,25.91719",
+    "geom:latitude":25.91719,
+    "geom:longitude":89.44595,
+    "gn:country":"BD",
+    "gn:fcode":"PPL",
+    "gn:pop":65127,
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Lalmanirhat"
+    ],
+    "name:ben_x_variant":[
+        "L\u0101lmanir H\u0101t",
+        "Lalmonirhat",
+        "Lalmanirat"
+    ],
+    "name:unk_x_variant":[
+        "Lalmonirhat"
+    ],
+    "qs:name":"Lalmanirhat",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"8",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1185181,
+        "gp:id":1915131,
+        "qs:id":130901
+    },
+    "wof:country":"BD",
+    "wof:created":1469051415,
+    "wof:geomhash":"25f7c557d6ccab61ad49d794b6ab2ded",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694687,
+            "locality_id":890421853,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":890421853,
+    "wof:lastmodified":1505343466,
+    "wof:name":"Lalmanirhat",
+    "wof:parent_id":1108694687,
+    "wof:placetype":"locality",
+    "wof:population":65127,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.44595,
+    25.91719,
+    89.44595,
+    25.91719
+],
+  "geometry": {"coordinates":[89.44595,25.91719],"type":"Point"}
+}

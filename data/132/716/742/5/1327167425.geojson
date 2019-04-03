@@ -1,0 +1,73 @@
+{
+  "id": 1327167425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.65523,25.59868,88.65523,25.59868",
+    "geom:latitude":25.59868,
+    "geom:longitude":88.65523,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5527.0",
+    "gn:admin3_code":"552764.0",
+    "gn:admin4_code":"55276469.0",
+    "gn:asciiname":"Kismat Madhabpur",
+    "gn:country_code":"BD",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7488451,
+    "gn:latitude":25.59868,
+    "gn:longitude":88.65523,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Kismat M\u0101dhabpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Kismat M\u0101dhabpur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7488451
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"82687681f5a233f3452b3b5f2303d4c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694671,
+            "locality_id":1327167425,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1327167425,
+    "wof:lastmodified":1537586668,
+    "wof:name":"Kismat Madhabpur",
+    "wof:parent_id":1108694671,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.65523,
+    25.59868,
+    88.65523,
+    25.59868
+],
+  "geometry": {"coordinates":[88.65523,25.59868],"type":"Point"}
+}

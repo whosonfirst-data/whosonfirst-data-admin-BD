@@ -1,0 +1,76 @@
+{
+  "id": 1309939255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.94042,22.92154,88.94042,22.92154",
+    "geom:latitude":22.92154,
+    "geom:longitude":88.94042,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4041",
+    "gn:admin3_code":"404190.0",
+    "gn:admin4_code":"40419051.0",
+    "gn:asciiname":"Kaybay",
+    "gn:country_code":"BD",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1198037,
+    "gn:latitude":22.92154,
+    "gn:longitude":88.94042,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Kayb\u0101y",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Kayb\u0101y"
+    ],
+    "name:und_x_variant":[
+        "Kayba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        421176039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1198037
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"2b1cd6b9b7cbbb2da0c87315ca3af324",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421176039,
+            "locality_id":1309939255,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1309939255,
+    "wof:lastmodified":1537585936,
+    "wof:name":"Kaybay",
+    "wof:parent_id":421176039,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.94041999999997,
+    22.92154,
+    88.94041999999997,
+    22.92154
+],
+  "geometry": {"coordinates":[88.94041999999997,22.92154],"type":"Point"}
+}

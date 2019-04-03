@@ -1,0 +1,73 @@
+{
+  "id": 1276697145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.10634,23.76591,89.10634,23.76591",
+    "geom:latitude":23.76591,
+    "geom:longitude":89.10634,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4050.0",
+    "gn:admin3_code":"405079.0",
+    "gn:admin4_code":"40507909.0",
+    "gn:asciiname":"Char Para",
+    "gn:country_code":"BD",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7485692,
+    "gn:latitude":23.76591,
+    "gn:longitude":89.10634,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Char Para",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Char Para"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        890438075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7485692
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"b7598fbe2c75f2a23399cc50081c82df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":890438075,
+            "locality_id":1276697145,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1276697145,
+    "wof:lastmodified":1537586597,
+    "wof:name":"Char Para",
+    "wof:parent_id":890438075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.10634,
+    23.76591,
+    89.10634,
+    23.76591
+],
+  "geometry": {"coordinates":[89.10634,23.76591],"type":"Point"}
+}

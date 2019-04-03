@@ -1,0 +1,67 @@
+{
+  "id": 1225874661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.32156,23.77306,89.32156,23.77306",
+    "geom:latitude":23.77306,
+    "geom:longitude":89.32156,
+    "gn:admin1_code":"82",
+    "gn:asciiname":"Basa Kushtia",
+    "gn:country_code":"BD",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1210006,
+    "gn:latitude":23.77306,
+    "gn:longitude":89.32156,
+    "gn:modification_date":"2013-02-08",
+    "gn:name":"Basa Kushtia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        890438075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1210006
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"c74bcfe38c819ca55ba008ac22f5aff0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":890438075,
+            "locality_id":1225874661,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1225874661,
+    "wof:lastmodified":1536971732,
+    "wof:name":"Basa Kushtia",
+    "wof:parent_id":890438075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.32155999999998,
+    23.77306,
+    89.32155999999998,
+    23.77306
+],
+  "geometry": {"coordinates":[89.32155999999998,23.77306],"type":"Point"}
+}

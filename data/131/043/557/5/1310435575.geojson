@@ -1,0 +1,70 @@
+{
+  "id": 1310435575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.01663,23.7695,90.01663,23.7695",
+    "geom:latitude":23.7695,
+    "geom:longitude":90.01663,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3056.0",
+    "gn:admin3_code":"305646.0",
+    "gn:admin4_code":"30564615.0",
+    "gn:asciiname":"Gangarampur",
+    "gn:country_code":"BD",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1202966,
+    "gn:latitude":23.7695,
+    "gn:longitude":90.01663,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Gang\u0101r\u0101mpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421191745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1202966
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"a810ec86d8ff2e74df9afc364128aeaf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421191745,
+            "locality_id":1310435575,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1310435575,
+    "wof:lastmodified":1537017269,
+    "wof:name":"Gangarampur",
+    "wof:parent_id":421191745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.01663,
+    23.7695,
+    90.01663,
+    23.7695
+],
+  "geometry": {"coordinates":[90.01663000000001,23.7695],"type":"Point"}
+}

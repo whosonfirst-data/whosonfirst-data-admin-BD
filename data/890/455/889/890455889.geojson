@@ -1,0 +1,79 @@
+{
+  "id": 890455889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-09-21",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.83333,23.25,90.83333,23.25",
+    "geom:latitude":23.25,
+    "geom:longitude":90.83333,
+    "gn:country":"BD",
+    "gn:fcode":"ADM2",
+    "gn:pop":2032449,
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ben_x_preferred":[
+        "\u099a\u09be\u0981\u09a6\u09aa\u09c1\u09b0"
+    ],
+    "name:eng_x_preferred":[
+        "Chandpur District"
+    ],
+    "name:eng_x_variant":[
+        "Chandpur"
+    ],
+    "name:unk_x_variant":[
+        "Ch\u0101ndpur Zila"
+    ],
+    "qs:name":"Ch\u0101ndpur District",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"12",
+    "src:population":"geonames",
+    "wd:wordcount":220,
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1337194,
+        "qs:id":555786,
+        "wd:id":"Q1429697",
+        "wk:page":"Chandpur District"
+    },
+    "wof:country":"BD",
+    "wof:created":1469052979,
+    "wof:geomhash":"50d5fe02b32ae94222ccf7efb6172e52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":890455889,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":890455889,
+    "wof:lastmodified":1527734191,
+    "wof:name":"Ch\u0101ndpur District",
+    "wof:parent_id":85669023,
+    "wof:placetype":"county",
+    "wof:population":2032449,
+    "wof:population_rank":12,
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.83333,
+    23.25,
+    90.83333,
+    23.25
+],
+  "geometry": {"coordinates":[90.83333,23.25],"type":"Point"}
+}

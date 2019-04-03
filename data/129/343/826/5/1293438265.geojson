@@ -1,0 +1,70 @@
+{
+  "id": 1293438265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.78666,23.39572,90.78666,23.39572",
+    "geom:latitude":23.39572,
+    "geom:longitude":90.78666,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2013.0",
+    "gn:admin3_code":"201376.0",
+    "gn:admin4_code":"20137656.0",
+    "gn:asciiname":"Ghoradhari",
+    "gn:country_code":"BD",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1202550,
+    "gn:latitude":23.39572,
+    "gn:longitude":90.78666,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Ghor\u0101dh\u0101ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        1108694669
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1202550
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"bb1af915b7713042a976102b53c4e876",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694669,
+            "locality_id":1293438265,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1293438265,
+    "wof:lastmodified":1536856892,
+    "wof:name":"Ghoradhari",
+    "wof:parent_id":1108694669,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.78666,
+    23.39572,
+    90.78666,
+    23.39572
+],
+  "geometry": {"coordinates":[90.78666,23.39572],"type":"Point"}
+}

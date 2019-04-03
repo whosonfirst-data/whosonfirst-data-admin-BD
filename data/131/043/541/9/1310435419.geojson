@@ -1,0 +1,73 @@
+{
+  "id": 1310435419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.28752,25.38965,89.28752,25.38965",
+    "geom:latitude":25.38965,
+    "geom:longitude":89.28752,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5585.0",
+    "gn:admin3_code":"558576.0",
+    "gn:admin4_code":"55857675.0",
+    "gn:asciiname":"Dhulgari",
+    "gn:country_code":"BD",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1204160,
+    "gn:latitude":25.38965,
+    "gn:longitude":89.28752,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Dhulgari",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dhulg\u0101ri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1204160
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"56b083b190e7b062eeb8f3ed367c2ad0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694701,
+            "locality_id":1310435419,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1310435419,
+    "wof:lastmodified":1537586052,
+    "wof:name":"Dhulgari",
+    "wof:parent_id":1108694701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.28752,
+    25.38965,
+    89.28752,
+    25.38965
+],
+  "geometry": {"coordinates":[89.28752,25.38965],"type":"Point"}
+}

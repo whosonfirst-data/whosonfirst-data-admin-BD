@@ -1,0 +1,70 @@
+{
+  "id": 1293427075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.85137,23.83767,89.85137,23.83767",
+    "geom:latitude":23.83767,
+    "geom:longitude":89.85137,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3056",
+    "gn:admin3_code":"305678.0",
+    "gn:admin4_code":"30567823.0",
+    "gn:asciiname":"Pakutia",
+    "gn:country_code":"BD",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1191377,
+    "gn:latitude":23.83767,
+    "gn:longitude":89.85137,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"P\u0101kutia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421191745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1191377
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"1e571d8a2f34a0be082a0af608ea8a2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421191745,
+            "locality_id":1293427075,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1293427075,
+    "wof:lastmodified":1536873021,
+    "wof:name":"Pakutia",
+    "wof:parent_id":421191745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.85136999999997,
+    23.83767000000001,
+    89.85136999999997,
+    23.83767000000001
+],
+  "geometry": {"coordinates":[89.85136999999997,23.83767000000001],"type":"Point"}
+}

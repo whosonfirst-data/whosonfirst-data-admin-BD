@@ -1,0 +1,73 @@
+{
+  "id": 1293921843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.79467,22.96052,91.79467,22.96052",
+    "geom:latitude":22.96052,
+    "geom:longitude":91.79467,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2046.0",
+    "gn:admin3_code":"204680.0",
+    "gn:admin4_code":"20468057.0",
+    "gn:asciiname":"Basrailjari",
+    "gn:country_code":"BD",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7477443,
+    "gn:latitude":22.96052,
+    "gn:longitude":91.79467,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Basr\u0101iljari",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Basr\u0101iljari"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        1108694683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7477443
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"99df8d3dfde9b6e5455a2e3b8c091fef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694683,
+            "locality_id":1293921843,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1293921843,
+    "wof:lastmodified":1537586368,
+    "wof:name":"Basrailjari",
+    "wof:parent_id":1108694683,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.79467,
+    22.96052,
+    91.79467,
+    22.96052
+],
+  "geometry": {"coordinates":[91.79467,22.96052],"type":"Point"}
+}

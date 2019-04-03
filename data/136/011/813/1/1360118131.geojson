@@ -1,0 +1,70 @@
+{
+  "id": 1360118131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.8,24.35,90.8,24.35",
+    "geom:latitude":24.35,
+    "geom:longitude":90.8,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3048",
+    "gn:admin3_code":"304845.0",
+    "gn:admin4_code":"30484519.0",
+    "gn:asciiname":"Nawapara",
+    "gn:country_code":"BD",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1193043,
+    "gn:latitude":24.35,
+    "gn:longitude":90.8,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Naw\u0101p\u0101ra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421170483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1193043
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"81b9b290fa0da645032b4b338aa0cdde",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421170483,
+            "locality_id":1360118131,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1360118131,
+    "wof:lastmodified":1536897957,
+    "wof:name":"Nawapara",
+    "wof:parent_id":421170483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.8,
+    24.35,
+    90.8,
+    24.35
+],
+  "geometry": {"coordinates":[90.8,24.35],"type":"Point"}
+}

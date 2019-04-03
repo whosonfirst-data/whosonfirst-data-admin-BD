@@ -1,0 +1,70 @@
+{
+  "id": 1243212341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.80048,23.42821,90.80048,23.42821",
+    "geom:latitude":23.42821,
+    "geom:longitude":90.80048,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2013.0",
+    "gn:admin3_code":"201358.0",
+    "gn:admin4_code":"20135879.0",
+    "gn:asciiname":"Baradail",
+    "gn:country_code":"BD",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1210656,
+    "gn:latitude":23.42821,
+    "gn:longitude":90.80048,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Baradail",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        1108694669
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1210656
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"b92b3a0c9de1c79f5fd8bb1b2e66e221",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694669,
+            "locality_id":1243212341,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1243212341,
+    "wof:lastmodified":1536645602,
+    "wof:name":"Baradail",
+    "wof:parent_id":1108694669,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.80048,
+    23.42821,
+    90.80048,
+    23.42821
+],
+  "geometry": {"coordinates":[90.80047999999999,23.42821],"type":"Point"}
+}

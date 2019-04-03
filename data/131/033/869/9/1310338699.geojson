@@ -1,0 +1,70 @@
+{
+  "id": 1310338699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.65635,25.11637,89.65635,25.11637",
+    "geom:latitude":25.11637,
+    "geom:longitude":89.65635,
+    "gn:admin1_code":"83",
+    "gn:asciiname":"Deluabari",
+    "gn:country_code":"BD",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7905706,
+    "gn:latitude":25.11637,
+    "gn:longitude":89.65635,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Delu\u0101b\u0101ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Delu\u0101b\u0101ri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        1108803101,
+        421191923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7905706
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"19564e53cbc358619379f07b19549380",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421191923,
+            "locality_id":1310338699,
+            "region_id":1108803101
+        }
+    ],
+    "wof:id":1310338699,
+    "wof:lastmodified":1537586779,
+    "wof:name":"Deluabari",
+    "wof:parent_id":421191923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.65635,
+    25.11637,
+    89.65635,
+    25.11637
+],
+  "geometry": {"coordinates":[89.65635,25.11637],"type":"Point"}
+}

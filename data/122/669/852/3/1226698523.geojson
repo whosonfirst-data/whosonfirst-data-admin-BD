@@ -1,0 +1,73 @@
+{
+  "id": 1226698523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.83655,22.55026,91.83655,22.55026",
+    "geom:latitude":22.55026,
+    "geom:longitude":91.83655,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2015.0",
+    "gn:admin3_code":"201537.0",
+    "gn:admin4_code":"20153711.0",
+    "gn:asciiname":"Nangalmora",
+    "gn:country_code":"BD",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6414443,
+    "gn:latitude":22.55026,
+    "gn:longitude":91.83655,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"N\u0101ngalmora",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "N\u0101ngalmora"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421201541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6414443
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"bc89a33e469c6cde23cd6868ce1b4483",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421201541,
+            "locality_id":1226698523,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1226698523,
+    "wof:lastmodified":1537586227,
+    "wof:name":"Nangalmora",
+    "wof:parent_id":421201541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.83655,
+    22.55026,
+    91.83655,
+    22.55026
+],
+  "geometry": {"coordinates":[91.83655,22.55026],"type":"Point"}
+}

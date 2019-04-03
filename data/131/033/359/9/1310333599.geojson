@@ -1,0 +1,73 @@
+{
+  "id": 1310333599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.83333,23.89877,88.83333,23.89877",
+    "geom:latitude":23.89877,
+    "geom:longitude":88.83333,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4057.0",
+    "gn:admin3_code":"405747.0",
+    "gn:admin4_code":"40574763.0",
+    "gn:asciiname":"Matmura",
+    "gn:country_code":"BD",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7484404,
+    "gn:latitude":23.89877,
+    "gn:longitude":88.83333,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"M\u0101tmura",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "M\u0101tmura"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        421191661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7484404
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"76412fae2010a02a582dc264dec818a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421191661,
+            "locality_id":1310333599,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1310333599,
+    "wof:lastmodified":1537586563,
+    "wof:name":"Matmura",
+    "wof:parent_id":421191661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.83333,
+    23.89877000000001,
+    88.83333,
+    23.89877000000001
+],
+  "geometry": {"coordinates":[88.83333,23.89877000000001],"type":"Point"}
+}

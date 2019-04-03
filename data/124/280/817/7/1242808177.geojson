@@ -1,0 +1,73 @@
+{
+  "id": 1242808177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.71035,25.89591,89.71035,25.89591",
+    "geom:latitude":25.89591,
+    "geom:longitude":89.71035,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5549.0",
+    "gn:admin3_code":"554961.0",
+    "gn:admin4_code":"55496125.0",
+    "gn:asciiname":"Bhabanipur",
+    "gn:country_code":"BD",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1209383,
+    "gn:latitude":25.89591,
+    "gn:longitude":89.71035,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Bhab\u0101n\u012bpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Bhab\u0101n\u012bpur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1209383
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"2dd140b8d8fdd6aec54dcf2070d494a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694685,
+            "locality_id":1242808177,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1242808177,
+    "wof:lastmodified":1537586145,
+    "wof:name":"Bhabanipur",
+    "wof:parent_id":1108694685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.71035,
+    25.89591,
+    89.71035,
+    25.89591
+],
+  "geometry": {"coordinates":[89.71035000000001,25.89591],"type":"Point"}
+}

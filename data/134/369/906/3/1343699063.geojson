@@ -1,0 +1,73 @@
+{
+  "id": 1343699063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.14859,25.15823,90.14859,25.15823",
+    "geom:latitude":25.15823,
+    "geom:longitude":90.14859,
+    "gn:admin1_code":"H",
+    "gn:admin2_code":"3089",
+    "gn:admin3_code":"308970.0",
+    "gn:admin4_code":"30897069.0",
+    "gn:asciiname":"Kirantola",
+    "gn:country_code":"BD",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7922843,
+    "gn:latitude":25.15823,
+    "gn:longitude":90.14859,
+    "gn:modification_date":"2016-11-17",
+    "gn:name":"Kirantola",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Kirantola"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        1108803101,
+        421190979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7922843
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"a737ae43a1495be6fef207620ffe97c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421190979,
+            "locality_id":1343699063,
+            "region_id":1108803101
+        }
+    ],
+    "wof:id":1343699063,
+    "wof:lastmodified":1537586791,
+    "wof:name":"Kirantola",
+    "wof:parent_id":421190979,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.14859,
+    25.15823,
+    90.14859,
+    25.15823
+],
+  "geometry": {"coordinates":[90.14859,25.15823],"type":"Point"}
+}

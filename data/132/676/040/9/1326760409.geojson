@@ -1,0 +1,70 @@
+{
+  "id": 1326760409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.10408,24.88215,90.10408,24.88215",
+    "geom:latitude":24.88215,
+    "geom:longitude":90.10408,
+    "gn:admin1_code":"H",
+    "gn:admin2_code":"3039.0",
+    "gn:admin3_code":"303936.0",
+    "gn:admin4_code":"30393695.0",
+    "gn:asciiname":"Char Garamara",
+    "gn:country_code":"BD",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1206924,
+    "gn:latitude":24.88215,
+    "gn:longitude":90.10408,
+    "gn:modification_date":"2016-11-17",
+    "gn:name":"Char G\u0101r\u0101m\u0101ra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        1108803101,
+        421191923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1206924
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"a0d0a97072594bfe4fa945ed95966b53",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421191923,
+            "locality_id":1326760409,
+            "region_id":1108803101
+        }
+    ],
+    "wof:id":1326760409,
+    "wof:lastmodified":1536655217,
+    "wof:name":"Char Garamara",
+    "wof:parent_id":421191923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.10408,
+    24.88215,
+    90.10408,
+    24.88215
+],
+  "geometry": {"coordinates":[90.10408,24.88215],"type":"Point"}
+}

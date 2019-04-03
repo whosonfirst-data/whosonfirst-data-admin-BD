@@ -1,0 +1,70 @@
+{
+  "id": 1209852839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.81381,24.41115,90.81381,24.41115",
+    "geom:latitude":24.41115,
+    "geom:longitude":90.81381,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3048",
+    "gn:admin3_code":"304849.0",
+    "gn:admin4_code":"30484917.0",
+    "gn:asciiname":"Madhunagar",
+    "gn:country_code":"BD",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1195840,
+    "gn:latitude":24.41115,
+    "gn:longitude":90.81381,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Madhunagar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421170483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1195840
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"a621381b41b978704b2bb3af8d36d62b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421170483,
+            "locality_id":1209852839,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1209852839,
+    "wof:lastmodified":1536387614,
+    "wof:name":"Madhunagar",
+    "wof:parent_id":421170483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.81381,
+    24.41115,
+    90.81381,
+    24.41115
+],
+  "geometry": {"coordinates":[90.81381,24.41115],"type":"Point"}
+}

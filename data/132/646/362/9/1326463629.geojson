@@ -1,0 +1,70 @@
+{
+  "id": 1326463629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.04667,24.98128,90.04667,24.98128",
+    "geom:latitude":24.98128,
+    "geom:longitude":90.04667,
+    "gn:admin1_code":"H",
+    "gn:admin2_code":"3089.0",
+    "gn:admin3_code":"308988.0",
+    "gn:admin4_code":"30898820.0",
+    "gn:asciiname":"Bhatsala",
+    "gn:country_code":"BD",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1209004,
+    "gn:latitude":24.98128,
+    "gn:longitude":90.04667,
+    "gn:modification_date":"2016-11-17",
+    "gn:name":"Bh\u0101ts\u0101la",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        1108803101,
+        421190979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1209004
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"84525784560b6a9c9c0204e695639a41",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421190979,
+            "locality_id":1326463629,
+            "region_id":1108803101
+        }
+    ],
+    "wof:id":1326463629,
+    "wof:lastmodified":1537079748,
+    "wof:name":"Bhatsala",
+    "wof:parent_id":421190979,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.04666999999998,
+    24.98128,
+    90.04666999999998,
+    24.98128
+],
+  "geometry": {"coordinates":[90.04666999999998,24.98128],"type":"Point"}
+}

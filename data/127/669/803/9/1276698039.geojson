@@ -1,0 +1,73 @@
+{
+  "id": 1276698039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"92.16161,21.57485,92.16161,21.57485",
+    "geom:latitude":21.57485,
+    "geom:longitude":92.16161,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2022.0",
+    "gn:admin3_code":"202266.0",
+    "gn:admin4_code":"20226628.0",
+    "gn:asciiname":"Barbil Sofaria",
+    "gn:country_code":"BD",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6414936,
+    "gn:latitude":21.57485,
+    "gn:longitude":92.16161,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Barbil Sofaria",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Barbil Sofaria"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421169477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6414936
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"2796535012dc08a1d6b3fb5b199a0527",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421169477,
+            "locality_id":1276698039,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1276698039,
+    "wof:lastmodified":1537586235,
+    "wof:name":"Barbil Sofaria",
+    "wof:parent_id":421169477,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    92.16161,
+    21.57485,
+    92.16161,
+    21.57485
+],
+  "geometry": {"coordinates":[92.16161,21.57485],"type":"Point"}
+}

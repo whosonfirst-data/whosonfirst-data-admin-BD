@@ -1,0 +1,73 @@
+{
+  "id": 1277114797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"92.01785,22.45228,92.01785,22.45228",
+    "geom:latitude":22.45228,
+    "geom:longitude":92.01785,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2015.0",
+    "gn:admin3_code":"201570.0",
+    "gn:admin4_code":"20157060.0",
+    "gn:asciiname":"Mahtir Kheel",
+    "gn:country_code":"BD",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6415962,
+    "gn:latitude":22.45228,
+    "gn:longitude":92.01785,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Mahtir Kheel",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Mahtir Kheel"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421201541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6415962
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"4d682c2b5508ecbe55adb5816dce15f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421201541,
+            "locality_id":1277114797,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1277114797,
+    "wof:lastmodified":1537586254,
+    "wof:name":"Mahtir Kheel",
+    "wof:parent_id":421201541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    92.01785,
+    22.45228,
+    92.01785,
+    22.45228
+],
+  "geometry": {"coordinates":[92.01785,22.45228],"type":"Point"}
+}

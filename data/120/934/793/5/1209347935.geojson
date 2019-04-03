@@ -1,0 +1,67 @@
+{
+  "id": 1209347935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.87564,26.00965,88.87564,26.00965",
+    "geom:latitude":26.00965,
+    "geom:longitude":88.87564,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5573.0",
+    "gn:admin3_code":"557364.0",
+    "gn:admin4_code":"55736494.0",
+    "gn:asciiname":"Nityanandi",
+    "gn:country_code":"BD",
+    "gn:dem":54,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7105421,
+    "gn:latitude":26.00965,
+    "gn:longitude":88.87564,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Nity\u0101nandi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Nity\u0101nandi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7105421
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"63e63c8c6044d71845aff3628f7f47be",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209347935
+        }
+    ],
+    "wof:id":1209347935,
+    "wof:lastmodified":1537586303,
+    "wof:name":"Nityanandi",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.87564,
+    26.00965,
+    88.87564,
+    26.00965
+],
+  "geometry": {"coordinates":[88.87564,26.00965],"type":"Point"}
+}

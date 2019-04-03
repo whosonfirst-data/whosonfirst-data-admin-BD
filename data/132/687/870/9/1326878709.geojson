@@ -1,0 +1,73 @@
+{
+  "id": 1326878709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"92.05423,22.15249,92.05423,22.15249",
+    "geom:latitude":22.15249,
+    "geom:longitude":92.05423,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2015.0",
+    "gn:admin3_code":"201518.0",
+    "gn:admin4_code":"20151847.0",
+    "gn:asciiname":"Chagachar",
+    "gn:country_code":"BD",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6416398,
+    "gn:latitude":22.15249,
+    "gn:longitude":92.05423,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Chag\u0101char",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Chag\u0101char"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421201541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6416398
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"73fff79e6ce4db9751d7a9e39715fab0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421201541,
+            "locality_id":1326878709,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1326878709,
+    "wof:lastmodified":1537586262,
+    "wof:name":"Chagachar",
+    "wof:parent_id":421201541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    92.05423,
+    22.15249,
+    92.05423,
+    22.15249
+],
+  "geometry": {"coordinates":[92.05423,22.15249],"type":"Point"}
+}

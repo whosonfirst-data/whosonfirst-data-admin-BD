@@ -1,0 +1,74 @@
+{
+  "id": 1277114093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.2597,24.88471,89.2597,24.88471",
+    "geom:latitude":24.88471,
+    "geom:longitude":89.2597,
+    "gn:admin1_code":"83",
+    "gn:admin2_code":"5010.0",
+    "gn:admin3_code":"501054.0",
+    "gn:admin4_code":"50105476.0",
+    "gn:asciiname":"Binod",
+    "gn:country_code":"BD",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1208470,
+    "gn:latitude":24.88471,
+    "gn:longitude":89.2597,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Binod",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Binode",
+        "Binod"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669031,
+        421187793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1208470
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"ff194c72af5a9b76dc4c9fd5dfe9a3f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421187793,
+            "locality_id":1277114093,
+            "region_id":85669031
+        }
+    ],
+    "wof:id":1277114093,
+    "wof:lastmodified":1537586130,
+    "wof:name":"Binod",
+    "wof:parent_id":421187793,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.2597,
+    24.88471,
+    89.2597,
+    24.88471
+],
+  "geometry": {"coordinates":[89.2597,24.88471],"type":"Point"}
+}

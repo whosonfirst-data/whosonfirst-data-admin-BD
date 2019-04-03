@@ -1,0 +1,73 @@
+{
+  "id": 1243301179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.81284,25.6493,88.81284,25.6493",
+    "geom:latitude":25.6493,
+    "geom:longitude":88.81284,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5527.0",
+    "gn:admin3_code":"552730.0",
+    "gn:admin4_code":"55273007.0",
+    "gn:asciiname":"Kharjapur",
+    "gn:country_code":"BD",
+    "gn:dem":41,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7480834,
+    "gn:latitude":25.6493,
+    "gn:longitude":88.81284,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Kharj\u0101pur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Kharj\u0101pur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7480834
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"f63777337377e6657d847b3372cd36d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694671,
+            "locality_id":1243301179,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1243301179,
+    "wof:lastmodified":1537586461,
+    "wof:name":"Kharjapur",
+    "wof:parent_id":1108694671,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.81284000000002,
+    25.6493,
+    88.81284000000002,
+    25.6493
+],
+  "geometry": {"coordinates":[88.81284000000002,25.6493],"type":"Point"}
+}

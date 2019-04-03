@@ -1,0 +1,73 @@
+{
+  "id": 1327467237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.248,25.9377,88.248,25.9377",
+    "geom:latitude":25.9377,
+    "geom:longitude":88.248,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5594.0",
+    "gn:admin3_code":"559486.0",
+    "gn:admin4_code":"55948647.0",
+    "gn:asciiname":"Panchpur",
+    "gn:country_code":"BD",
+    "gn:dem":51,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7487524,
+    "gn:latitude":25.9377,
+    "gn:longitude":88.248,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Panchpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Panchpur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7487524
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"efef25d6566ce1be840954ee1f987a60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694703,
+            "locality_id":1327467237,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1327467237,
+    "wof:lastmodified":1537586641,
+    "wof:name":"Panchpur",
+    "wof:parent_id":1108694703,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.24799999999998,
+    25.9377,
+    88.24799999999998,
+    25.9377
+],
+  "geometry": {"coordinates":[88.24799999999998,25.9377],"type":"Point"}
+}

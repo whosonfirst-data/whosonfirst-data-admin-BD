@@ -1,0 +1,76 @@
+{
+  "id": 1276365293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.79937,22.38976,89.79937,22.38976",
+    "geom:latitude":22.38976,
+    "geom:longitude":89.79937,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4001",
+    "gn:admin3_code":"400160.0",
+    "gn:admin4_code":"40016071.0",
+    "gn:asciiname":"Paschim Chiparai Khali",
+    "gn:country_code":"BD",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1192300,
+    "gn:latitude":22.38976,
+    "gn:longitude":89.79937,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Paschim Chiparai Kh\u0101li",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Paschim Chiparai Kh\u0101li"
+    ],
+    "name:ben_x_variant":[
+        "Paschim Chip\u0101b\u0101raikh\u0101li"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        421187747
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1192300
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"cc2d0b55368b1d2ca2238a7b36df7ffd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421187747,
+            "locality_id":1276365293,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1276365293,
+    "wof:lastmodified":1537585833,
+    "wof:name":"Paschim Chiparai Khali",
+    "wof:parent_id":421187747,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.79937,
+    22.38976,
+    89.79937,
+    22.38976
+],
+  "geometry": {"coordinates":[89.79937,22.38976],"type":"Point"}
+}

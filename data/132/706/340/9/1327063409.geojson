@@ -1,0 +1,76 @@
+{
+  "id": 1327063409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.05173,25.92339,89.05173,25.92339",
+    "geom:latitude":25.92339,
+    "geom:longitude":89.05173,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5573",
+    "gn:admin3_code":"557345.0",
+    "gn:admin4_code":"55734594.0",
+    "gn:asciiname":"Ronachandi",
+    "gn:country_code":"BD",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1189885,
+    "gn:latitude":25.92339,
+    "gn:longitude":89.05173,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Ronachandi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Ronachandi"
+    ],
+    "name:ben_x_variant":[
+        "R\u0101n\u0101chandi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1189885
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"c6ce6d80cec233121a3e89203d08c5a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694695,
+            "locality_id":1327063409,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1327063409,
+    "wof:lastmodified":1537585788,
+    "wof:name":"Ronachandi",
+    "wof:parent_id":1108694695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.05173,
+    25.92339,
+    89.05173,
+    25.92339
+],
+  "geometry": {"coordinates":[89.05173000000001,25.92339],"type":"Point"}
+}

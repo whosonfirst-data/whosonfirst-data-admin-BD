@@ -1,0 +1,73 @@
+{
+  "id": 1226479643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.83543,24.8519,88.83543,24.8519",
+    "geom:latitude":24.8519,
+    "geom:longitude":88.83543,
+    "gn:admin1_code":"83",
+    "gn:admin2_code":"5064",
+    "gn:admin3_code":"506450.0",
+    "gn:admin4_code":"50645009.0",
+    "gn:asciiname":"Khord Narayanpur",
+    "gn:country_code":"BD",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1197280,
+    "gn:latitude":24.8519,
+    "gn:longitude":88.83543,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Khord N\u0101rayanpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Khord N\u0101rayanpur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669031,
+        421191663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1197280
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"bf90bd5690cb7c2293129c863f3d2bba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421191663,
+            "locality_id":1226479643,
+            "region_id":85669031
+        }
+    ],
+    "wof:id":1226479643,
+    "wof:lastmodified":1537585922,
+    "wof:name":"Khord Narayanpur",
+    "wof:parent_id":421191663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.83543,
+    24.8519,
+    88.83543,
+    24.8519
+],
+  "geometry": {"coordinates":[88.83543,24.8519],"type":"Point"}
+}

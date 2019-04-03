@@ -1,0 +1,70 @@
+{
+  "id": 1293149293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.2175,23.94972,91.2175,23.94972",
+    "geom:latitude":23.94972,
+    "geom:longitude":91.2175,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2012.0",
+    "gn:admin3_code":"201213.0",
+    "gn:admin4_code":"20121343.0",
+    "gn:asciiname":"Ramrail",
+    "gn:country_code":"BD",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1462823,
+    "gn:latitude":23.94972,
+    "gn:longitude":91.2175,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Ramrail",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        1108694667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1462823
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"752e11ec558b51fa93aea095c90c493f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694667,
+            "locality_id":1293149293,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1293149293,
+    "wof:lastmodified":1536778326,
+    "wof:name":"Ramrail",
+    "wof:parent_id":1108694667,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.2175,
+    23.94972000000001,
+    91.2175,
+    23.94972000000001
+],
+  "geometry": {"coordinates":[91.2175,23.94972000000001],"type":"Point"}
+}

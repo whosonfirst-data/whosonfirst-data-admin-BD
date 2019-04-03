@@ -1,0 +1,76 @@
+{
+  "id": 1326967509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.55391,24.44075,88.55391,24.44075",
+    "geom:latitude":24.44075,
+    "geom:longitude":88.55391,
+    "gn:admin1_code":"83",
+    "gn:admin2_code":"5081",
+    "gn:admin3_code":"508172.0",
+    "gn:admin4_code":"50817255.0",
+    "gn:asciiname":"Radha Nagar",
+    "gn:country_code":"BD",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1190568,
+    "gn:latitude":24.44075,
+    "gn:longitude":88.55391,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"R\u0101dha Nagar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "R\u0101dha Nagar"
+    ],
+    "name:ben_x_variant":[
+        "R\u0101dh\u0101ngar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669031,
+        421172439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1190568
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"43739f5243fb85ac26f82297dae8467c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421172439,
+            "locality_id":1326967509,
+            "region_id":85669031
+        }
+    ],
+    "wof:id":1326967509,
+    "wof:lastmodified":1537585798,
+    "wof:name":"Radha Nagar",
+    "wof:parent_id":421172439,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.55391,
+    24.44075,
+    88.55391,
+    24.44075
+],
+  "geometry": {"coordinates":[88.55391,24.44075],"type":"Point"}
+}

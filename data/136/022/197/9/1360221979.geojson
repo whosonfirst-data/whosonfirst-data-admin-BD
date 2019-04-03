@@ -1,0 +1,73 @@
+{
+  "id": 1360221979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.01525,23.246,90.01525,23.246",
+    "geom:latitude":23.246,
+    "geom:longitude":90.01525,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3035.0",
+    "gn:admin3_code":"303558.0",
+    "gn:admin4_code":"30355883.0",
+    "gn:asciiname":"Baghdi",
+    "gn:country_code":"BD",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7480702,
+    "gn:latitude":23.246,
+    "gn:longitude":90.01525,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"B\u0101ghdi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "B\u0101ghdi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421194867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7480702
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"829fb81a3b8d06dd40268bab8bc9d2a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421194867,
+            "locality_id":1360221979,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1360221979,
+    "wof:lastmodified":1537586457,
+    "wof:name":"Baghdi",
+    "wof:parent_id":421194867,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.01525,
+    23.246,
+    90.01525,
+    23.246
+],
+  "geometry": {"coordinates":[90.01524999999999,23.246],"type":"Point"}
+}

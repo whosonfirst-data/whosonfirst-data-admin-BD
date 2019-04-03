@@ -1,0 +1,73 @@
+{
+  "id": 1259910031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.86752,23.20367,89.86752,23.20367",
+    "geom:latitude":23.20367,
+    "geom:longitude":89.86752,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3035",
+    "gn:admin3_code":"303558.0",
+    "gn:admin4_code":"30355894.0",
+    "gn:asciiname":"Tiardanga",
+    "gn:country_code":"BD",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1186106,
+    "gn:latitude":23.20367,
+    "gn:longitude":89.86752,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Ti\u0101rd\u0101nga",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Ti\u0101rd\u0101nga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421194867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1186106
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"d9350a5bd92ad15b2d0b9fd7b505f3de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421194867,
+            "locality_id":1259910031,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1259910031,
+    "wof:lastmodified":1537585713,
+    "wof:name":"Tiardanga",
+    "wof:parent_id":421194867,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.86752,
+    23.20367,
+    89.86752,
+    23.20367
+],
+  "geometry": {"coordinates":[89.86752,23.20367],"type":"Point"}
+}

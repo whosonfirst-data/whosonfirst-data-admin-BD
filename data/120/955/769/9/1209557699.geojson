@@ -1,0 +1,64 @@
+{
+  "id": 1209557699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.21667,23.83333,91.21667,23.83333",
+    "geom:latitude":23.83333,
+    "geom:longitude":91.21667,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2012.0",
+    "gn:admin3_code":"201202.0",
+    "gn:admin4_code":"20120285.0",
+    "gn:asciiname":"Gangasagar",
+    "gn:country_code":"BD",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1202963,
+    "gn:latitude":23.83333,
+    "gn:longitude":91.21667,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Gang\u0101s\u0101gar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1202963
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"55bbcfb298eb50982ca9a7031286865b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209557699
+        }
+    ],
+    "wof:id":1209557699,
+    "wof:lastmodified":1536283497,
+    "wof:name":"Gangasagar",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.21667,
+    23.83333,
+    91.21667,
+    23.83333
+],
+  "geometry": {"coordinates":[91.21666999999999,23.83333],"type":"Point"}
+}

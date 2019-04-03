@@ -1,0 +1,70 @@
+{
+  "id": 1259813311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.32057,23.21241,90.32057,23.21241",
+    "geom:latitude":23.21241,
+    "geom:longitude":90.32057,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3086",
+    "gn:admin3_code":"308669.0",
+    "gn:admin4_code":"30866995.0",
+    "gn:asciiname":"Latabag",
+    "gn:country_code":"BD",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1196130,
+    "gn:latitude":23.21241,
+    "gn:longitude":90.32057,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Lat\u0101b\u0101g",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421188359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1196130
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"565f9c03685738524992fe682d6a24de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421188359,
+            "locality_id":1259813311,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1259813311,
+    "wof:lastmodified":1536879683,
+    "wof:name":"Latabag",
+    "wof:parent_id":421188359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.32057,
+    23.21241,
+    90.32057,
+    23.21241
+],
+  "geometry": {"coordinates":[90.32057,23.21241],"type":"Point"}
+}

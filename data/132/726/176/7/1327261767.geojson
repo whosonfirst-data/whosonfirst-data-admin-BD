@@ -1,0 +1,76 @@
+{
+  "id": 1327261767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.91943,24.12758,88.91943,24.12758",
+    "geom:latitude":24.12758,
+    "geom:longitude":88.91943,
+    "gn:admin1_code":"83",
+    "gn:asciiname":"Char Chakla",
+    "gn:country_code":"BD",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1207739,
+    "gn:latitude":24.12758,
+    "gn:longitude":88.91943,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Char Ch\u0101kla",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Char Ch\u0101kla"
+    ],
+    "name:ben_x_variant":[
+        "Chakla Benodepur"
+    ],
+    "name:und_x_variant":[
+        "Chakla Binodpur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        890438075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1207739
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"142ae61b285f714be40b6193fac668f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":890438075,
+            "locality_id":1327261767,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1327261767,
+    "wof:lastmodified":1537586116,
+    "wof:name":"Char Chakla",
+    "wof:parent_id":890438075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.91943,
+    24.12758,
+    88.91943,
+    24.12758
+],
+  "geometry": {"coordinates":[88.91943000000001,24.12758],"type":"Point"}
+}

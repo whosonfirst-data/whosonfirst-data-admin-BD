@@ -1,0 +1,70 @@
+{
+  "id": 1259531983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.25722,23.12167,91.25722,23.12167",
+    "geom:latitude":23.12167,
+    "geom:longitude":91.25722,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2019.0",
+    "gn:admin3_code":"201987.0",
+    "gn:admin4_code":"20198743.0",
+    "gn:asciiname":"Nangalkot",
+    "gn:country_code":"BD",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1462755,
+    "gn:latitude":23.12167,
+    "gn:longitude":91.25722,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Nangalkot",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421187801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1462755
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"f1d6b1dfc4d8a358ec23b800875e90ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421187801,
+            "locality_id":1259531983,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1259531983,
+    "wof:lastmodified":1536789596,
+    "wof:name":"Nangalkot",
+    "wof:parent_id":421187801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.25722,
+    23.12167,
+    91.25722,
+    23.12167
+],
+  "geometry": {"coordinates":[91.25722,23.12167],"type":"Point"}
+}

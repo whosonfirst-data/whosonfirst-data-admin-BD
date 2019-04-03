@@ -1,0 +1,73 @@
+{
+  "id": 1277104843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.26903,23.21401,89.26903,23.21401",
+    "geom:latitude":23.21401,
+    "geom:longitude":89.26903,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4041.0",
+    "gn:admin3_code":"404147.0",
+    "gn:admin4_code":"40414753.0",
+    "gn:asciiname":"Jalkar",
+    "gn:country_code":"BD",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7479685,
+    "gn:latitude":23.21401,
+    "gn:longitude":89.26903,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Jalkar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Jalkar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        421176039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7479685
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"3391f6390790ddfeb0468b83536938d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421176039,
+            "locality_id":1277104843,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1277104843,
+    "wof:lastmodified":1537586427,
+    "wof:name":"Jalkar",
+    "wof:parent_id":421176039,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.26903,
+    23.21401,
+    89.26903,
+    23.21401
+],
+  "geometry": {"coordinates":[89.26903,23.21401],"type":"Point"}
+}

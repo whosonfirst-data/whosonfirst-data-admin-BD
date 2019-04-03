@@ -1,0 +1,74 @@
+{
+  "id": 1344194687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.50908,24.97058,91.50908,24.97058",
+    "geom:latitude":24.97058,
+    "geom:longitude":91.50908,
+    "gn:admin1_code":"86",
+    "gn:admin2_code":"6090",
+    "gn:admin3_code":"609033.0",
+    "gn:admin4_code":"60903378.0",
+    "gn:asciiname":"Husairgaon",
+    "gn:country_code":"BD",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1200907,
+    "gn:latitude":24.97058,
+    "gn:longitude":91.50908,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Husairgaon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hushairgaon",
+        "Husairgaon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669025,
+        421201931
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1200907
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"bccec44dc37bbc7cec64a5356cceff75",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421201931,
+            "locality_id":1344194687,
+            "region_id":85669025
+        }
+    ],
+    "wof:id":1344194687,
+    "wof:lastmodified":1537585988,
+    "wof:name":"Husairgaon",
+    "wof:parent_id":421201931,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.50908,
+    24.97058,
+    91.50908,
+    24.97058
+],
+  "geometry": {"coordinates":[91.50908,24.97058],"type":"Point"}
+}

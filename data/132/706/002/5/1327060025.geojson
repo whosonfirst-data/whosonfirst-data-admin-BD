@@ -1,0 +1,70 @@
+{
+  "id": 1327060025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.28039,22.77955,89.28039,22.77955",
+    "geom:latitude":22.77955,
+    "geom:longitude":89.28039,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4087",
+    "gn:admin3_code":"408790.0",
+    "gn:admin4_code":"40879087.0",
+    "gn:asciiname":"Jiala Nalta",
+    "gn:country_code":"BD",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1199897,
+    "gn:latitude":22.77955,
+    "gn:longitude":89.28039,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Ji\u0101la Nalta",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        421201927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1199897
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"a0c389a372cba81749e83f1f2dd9861e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421201927,
+            "locality_id":1327060025,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1327060025,
+    "wof:lastmodified":1536721057,
+    "wof:name":"Jiala Nalta",
+    "wof:parent_id":421201927,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.28039,
+    22.77955,
+    89.28039,
+    22.77955
+],
+  "geometry": {"coordinates":[89.28039,22.77955],"type":"Point"}
+}

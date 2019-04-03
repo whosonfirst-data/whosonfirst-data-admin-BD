@@ -1,0 +1,73 @@
+{
+  "id": 1310039045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.62248,26.1422,89.62248,26.1422",
+    "geom:latitude":26.1422,
+    "geom:longitude":89.62248,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5549",
+    "gn:admin3_code":"554906.0",
+    "gn:admin4_code":"55490676.0",
+    "gn:asciiname":"Phulkumar",
+    "gn:country_code":"BD",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8038843,
+    "gn:latitude":26.1422,
+    "gn:longitude":89.62248,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Phulkumar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Phulkumar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8038843
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"0d2693f2353ead22e882429d5b00e3ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694685,
+            "locality_id":1310039045,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1310039045,
+    "wof:lastmodified":1537586834,
+    "wof:name":"Phulkumar",
+    "wof:parent_id":1108694685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.62248000000002,
+    26.1422,
+    89.62248000000002,
+    26.1422
+],
+  "geometry": {"coordinates":[89.62248000000002,26.1422],"type":"Point"}
+}

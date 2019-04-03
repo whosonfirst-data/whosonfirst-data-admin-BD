@@ -1,0 +1,73 @@
+{
+  "id": 1276689187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.54567,23.16338,89.54567,23.16338",
+    "geom:latitude":23.16338,
+    "geom:longitude":89.54567,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4065.0",
+    "gn:admin3_code":"406576.0",
+    "gn:admin4_code":"40657613.0",
+    "gn:asciiname":"Bollartop",
+    "gn:country_code":"BD",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7480301,
+    "gn:latitude":23.16338,
+    "gn:longitude":89.54567,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Boll\u0101rtop",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Boll\u0101rtop"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        421205213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7480301
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"da930428ac15edc33f03ba91cfdf1d3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421205213,
+            "locality_id":1276689187,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1276689187,
+    "wof:lastmodified":1537586445,
+    "wof:name":"Bollartop",
+    "wof:parent_id":421205213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.54567,
+    23.16338,
+    89.54567,
+    23.16338
+],
+  "geometry": {"coordinates":[89.54567,23.16338],"type":"Point"}
+}

@@ -1,0 +1,100 @@
+{
+  "id": 421203871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.38971,23.76296,90.38971,23.76296",
+    "geom:latitude":23.76296,
+    "geom:longitude":90.38971,
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ben_x_preferred":[
+        "\u09a4\u09c7\u099c\u0997\u09be\u0981\u0993"
+    ],
+    "name:bpy_x_preferred":[
+        "\u09a4\u09c7\u099c\u0997\u09be\u0981\u0993 \u09a5\u09be\u09a8\u09be"
+    ],
+    "name:dut_x_preferred":[
+        "Tejgaon Thana"
+    ],
+    "name:eng_x_preferred":[
+        "Tejgaon Thana"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c6\u30ba\u30ac\u30aa\u30f3"
+    ],
+    "name:swe_x_preferred":[
+        "Tejgaon"
+    ],
+    "name:unk_x_variant":[
+        "Tezgaon"
+    ],
+    "qs:gn_country":"BD",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":1185093,
+    "qs:gn_pop":0,
+    "qs:name":"Tejgaon",
+    "qs:name_adm0":"Bangladesh",
+    "qs:name_adm1":"Dhaka",
+    "qs:photos":729,
+    "qs:photos_1k":148,
+    "qs:photos_9k":3,
+    "qs:photos_9r":5,
+    "qs:photos_all":729,
+    "qs:photos_sr":8,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":235465,
+    "qs:woe_adm0":23424759,
+    "qs:woe_id":1913953,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":939,
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421187803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1185093,
+        "gp:id":1913953,
+        "qs:id":235465,
+        "wd:id":"Q3351196",
+        "wk:page":"Tejgaon Thana"
+    },
+    "wof:country":"BD",
+    "wof:created":1459010166,
+    "wof:geomhash":"8e26286df10502bf49ddff648ac75f5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421187803,
+            "locality_id":421203871,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":421203871,
+    "wof:lastmodified":1527716198,
+    "wof:name":"Tejgaon",
+    "wof:parent_id":421187803,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.38971,
+    23.76296,
+    90.38971,
+    23.76296
+],
+  "geometry": {"coordinates":[90.38970999999999,23.76296],"type":"Point"}
+}

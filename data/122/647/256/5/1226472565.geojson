@@ -1,0 +1,73 @@
+{
+  "id": 1226472565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.22669,25.098,90.22669,25.098",
+    "geom:latitude":25.098,
+    "geom:longitude":90.22669,
+    "gn:admin1_code":"H",
+    "gn:admin2_code":"3089",
+    "gn:admin3_code":"308970.0",
+    "gn:admin4_code":"30897051.0",
+    "gn:asciiname":"Garabbcha",
+    "gn:country_code":"BD",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7923068,
+    "gn:latitude":25.098,
+    "gn:longitude":90.22669,
+    "gn:modification_date":"2016-11-17",
+    "gn:name":"Garabbcha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Garabbcha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        1108803101,
+        421190979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7923068
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"28157c92e2cf69656ef0cba8f4e6a9a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421190979,
+            "locality_id":1226472565,
+            "region_id":1108803101
+        }
+    ],
+    "wof:id":1226472565,
+    "wof:lastmodified":1537586791,
+    "wof:name":"Garabbcha",
+    "wof:parent_id":421190979,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.22669,
+    25.09800000000001,
+    90.22669,
+    25.09800000000001
+],
+  "geometry": {"coordinates":[90.22669,25.09800000000001],"type":"Point"}
+}

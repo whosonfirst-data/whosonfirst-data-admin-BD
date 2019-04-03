@@ -1,0 +1,73 @@
+{
+  "id": 1276279087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.88671,21.72083,91.88671,21.72083",
+    "geom:latitude":21.72083,
+    "geom:longitude":91.88671,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2022.0",
+    "gn:admin3_code":"202249.0",
+    "gn:admin4_code":"20224971.0",
+    "gn:asciiname":"Hasannharjipara",
+    "gn:country_code":"BD",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6416456,
+    "gn:latitude":21.72083,
+    "gn:longitude":91.88671,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Hasannharjip\u0101ra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Hasannharjip\u0101ra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421205057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6416456
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"128be7b0ee0b48f85011dfbf45dc49eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421205057,
+            "locality_id":1276279087,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1276279087,
+    "wof:lastmodified":1537586263,
+    "wof:name":"Hasannharjipara",
+    "wof:parent_id":421205057,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.88671,
+    21.72083,
+    91.88671,
+    21.72083
+],
+  "geometry": {"coordinates":[91.88670999999999,21.72083],"type":"Point"}
+}

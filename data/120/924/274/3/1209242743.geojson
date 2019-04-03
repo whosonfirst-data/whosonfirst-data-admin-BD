@@ -1,0 +1,67 @@
+{
+  "id": 1209242743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.09456,25.74667,89.09456,25.74667",
+    "geom:latitude":25.74667,
+    "geom:longitude":89.09456,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5585.0",
+    "gn:admin3_code":"558592.0",
+    "gn:admin4_code":"55859263.0",
+    "gn:asciiname":"Hariakotti",
+    "gn:country_code":"BD",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1201534,
+    "gn:latitude":25.74667,
+    "gn:longitude":89.09456,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Hariakotti",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "H\u0101ri\u0101rkuti"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1201534
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"6c52c786bd2574d21d3e02458686b94c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209242743
+        }
+    ],
+    "wof:id":1209242743,
+    "wof:lastmodified":1537586001,
+    "wof:name":"Hariakotti",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.09456,
+    25.74667,
+    89.09456,
+    25.74667
+],
+  "geometry": {"coordinates":[89.09456,25.74667],"type":"Point"}
+}

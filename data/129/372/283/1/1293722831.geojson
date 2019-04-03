@@ -1,0 +1,73 @@
+{
+  "id": 1293722831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.21731,25.1304,90.21731,25.1304",
+    "geom:latitude":25.1304,
+    "geom:longitude":90.21731,
+    "gn:admin1_code":"H",
+    "gn:admin2_code":"3089",
+    "gn:admin3_code":"308970.0",
+    "gn:admin4_code":"30897051.0",
+    "gn:asciiname":"Palasia",
+    "gn:country_code":"BD",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7922858,
+    "gn:latitude":25.1304,
+    "gn:longitude":90.21731,
+    "gn:modification_date":"2016-11-17",
+    "gn:name":"Palasia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Palasia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        1108803101,
+        421190979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7922858
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"7b39b08b9231c6d6d4e749a7aedcc184",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421190979,
+            "locality_id":1293722831,
+            "region_id":1108803101
+        }
+    ],
+    "wof:id":1293722831,
+    "wof:lastmodified":1537586791,
+    "wof:name":"Palasia",
+    "wof:parent_id":421190979,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.21731,
+    25.1304,
+    90.21731,
+    25.1304
+],
+  "geometry": {"coordinates":[90.21731,25.1304],"type":"Point"}
+}

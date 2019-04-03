@@ -1,0 +1,67 @@
+{
+  "id": 1360018851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.28847,23.89536,89.28847,23.89536",
+    "geom:latitude":23.89536,
+    "geom:longitude":89.28847,
+    "gn:admin1_code":"82",
+    "gn:asciiname":"Char Bhabanipur",
+    "gn:country_code":"BD",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1207050,
+    "gn:latitude":23.89536,
+    "gn:longitude":89.28847,
+    "gn:modification_date":"2013-02-08",
+    "gn:name":"Char Bhab\u0101n\u012bpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        890438075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1207050
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"f0ae3f16b4e7e5eccd6309952406abcb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":890438075,
+            "locality_id":1360018851,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1360018851,
+    "wof:lastmodified":1537039566,
+    "wof:name":"Char Bhabanipur",
+    "wof:parent_id":890438075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.28846999999998,
+    23.89536,
+    89.28846999999998,
+    23.89536
+],
+  "geometry": {"coordinates":[89.28846999999998,23.89536],"type":"Point"}
+}

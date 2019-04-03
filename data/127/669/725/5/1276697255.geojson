@@ -1,0 +1,73 @@
+{
+  "id": 1276697255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.53853,22.35535,90.53853,22.35535",
+    "geom:latitude":22.35535,
+    "geom:longitude":90.53853,
+    "gn:admin1_code":"85",
+    "gn:admin2_code":"1078.0",
+    "gn:admin3_code":"107838.0",
+    "gn:admin4_code":"10783883.0",
+    "gn:asciiname":"Mayshadi",
+    "gn:country_code":"BD",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7478028,
+    "gn:latitude":22.35535,
+    "gn:longitude":90.53853,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Mayshadi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Mayshadi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669019,
+        421169845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7478028
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"c07bef83dfdaff75ae49c49f05725c83",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421169845,
+            "locality_id":1276697255,
+            "region_id":85669019
+        }
+    ],
+    "wof:id":1276697255,
+    "wof:lastmodified":1537586381,
+    "wof:name":"Mayshadi",
+    "wof:parent_id":421169845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.53853,
+    22.35535,
+    90.53853,
+    22.35535
+],
+  "geometry": {"coordinates":[90.53852999999999,22.35535],"type":"Point"}
+}

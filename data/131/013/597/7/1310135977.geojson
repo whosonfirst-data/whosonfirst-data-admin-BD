@@ -1,0 +1,74 @@
+{
+  "id": 1310135977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.97722,24.97663,90.97722,24.97663",
+    "geom:latitude":24.97663,
+    "geom:longitude":90.97722,
+    "gn:admin1_code":"86",
+    "gn:admin2_code":"6090",
+    "gn:admin3_code":"609032.0",
+    "gn:admin4_code":"60903266.0",
+    "gn:asciiname":"Nijampur",
+    "gn:country_code":"BD",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1192877,
+    "gn:latitude":24.97663,
+    "gn:longitude":90.97722,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Nij\u0101mpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nizampur",
+        "Nij\u0101mpur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669025,
+        421201931
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1192877
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"553331a10e8967c86e0026a036f827a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421201931,
+            "locality_id":1310135977,
+            "region_id":85669025
+        }
+    ],
+    "wof:id":1310135977,
+    "wof:lastmodified":1537585842,
+    "wof:name":"Nijampur",
+    "wof:parent_id":421201931,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.97722,
+    24.97663,
+    90.97722,
+    24.97663
+],
+  "geometry": {"coordinates":[90.97722,24.97663],"type":"Point"}
+}

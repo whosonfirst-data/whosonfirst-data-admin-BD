@@ -1,0 +1,64 @@
+{
+  "id": 1209043937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.42312,23.5288,90.42312,23.5288",
+    "geom:latitude":23.5288,
+    "geom:longitude":90.42312,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3059.0",
+    "gn:admin3_code":"305994.0",
+    "gn:admin4_code":"30599423.0",
+    "gn:asciiname":"Ghasbhog",
+    "gn:country_code":"BD",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1202646,
+    "gn:latitude":23.5288,
+    "gn:longitude":90.42312,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Gh\u0101sbhog",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1202646
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"8bd7193538c112addbe67c7cf4a646c9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209043937
+        }
+    ],
+    "wof:id":1209043937,
+    "wof:lastmodified":1536299456,
+    "wof:name":"Ghasbhog",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.42312,
+    23.5288,
+    90.42312,
+    23.5288
+],
+  "geometry": {"coordinates":[90.42312,23.5288],"type":"Point"}
+}

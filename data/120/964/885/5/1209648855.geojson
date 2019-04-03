@@ -1,0 +1,64 @@
+{
+  "id": 1209648855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.40678,22.22206,90.40678,22.22206",
+    "geom:latitude":22.22206,
+    "geom:longitude":90.40678,
+    "gn:admin1_code":"82",
+    "gn:asciiname":"Chandrailer Char",
+    "gn:country_code":"BD",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7478696,
+    "gn:latitude":22.22206,
+    "gn:longitude":90.40678,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"Chandr\u0101iler Char",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Chandr\u0101iler Char"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7478696
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"2740c561ac72afe93ed6b0062b944f82",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209648855
+        }
+    ],
+    "wof:id":1209648855,
+    "wof:lastmodified":1537586398,
+    "wof:name":"Chandrailer Char",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.40678,
+    22.22206,
+    90.40678,
+    22.22206
+],
+  "geometry": {"coordinates":[90.40678,22.22206],"type":"Point"}
+}

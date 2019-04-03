@@ -1,0 +1,73 @@
+{
+  "id": 1260013031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.15656,22.33731,89.15656,22.33731",
+    "geom:latitude":22.33731,
+    "geom:longitude":89.15656,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4087.0",
+    "gn:admin3_code":"408786.0",
+    "gn:admin4_code":"40878607.0",
+    "gn:asciiname":"Haol Bhangi",
+    "gn:country_code":"BD",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7485831,
+    "gn:latitude":22.33731,
+    "gn:longitude":89.15656,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Haol Bhangi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Haol Bhangi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        421201927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7485831
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"cab56f5bf9797faffad8e0d16fccb9fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421201927,
+            "locality_id":1260013031,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1260013031,
+    "wof:lastmodified":1537586601,
+    "wof:name":"Haol Bhangi",
+    "wof:parent_id":421201927,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.15656,
+    22.33731,
+    89.15656,
+    22.33731
+],
+  "geometry": {"coordinates":[89.15656,22.33731],"type":"Point"}
+}

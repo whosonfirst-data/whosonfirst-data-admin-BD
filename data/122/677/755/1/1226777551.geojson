@@ -1,0 +1,70 @@
+{
+  "id": 1226777551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.00256,23.84361,90.00256,23.84361",
+    "geom:latitude":23.84361,
+    "geom:longitude":90.00256,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3056.0",
+    "gn:admin3_code":"305646.0",
+    "gn:admin4_code":"30564600.0",
+    "gn:asciiname":"Beutha",
+    "gn:country_code":"BD",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1209439,
+    "gn:latitude":23.84361,
+    "gn:longitude":90.00256,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Beutha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421191745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1209439
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"0989b1dd166bf96a3e0b790cc83fbb6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421191745,
+            "locality_id":1226777551,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1226777551,
+    "wof:lastmodified":1536669852,
+    "wof:name":"Beutha",
+    "wof:parent_id":421191745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.00256,
+    23.84361,
+    90.00256,
+    23.84361
+],
+  "geometry": {"coordinates":[90.00256,23.84361],"type":"Point"}
+}

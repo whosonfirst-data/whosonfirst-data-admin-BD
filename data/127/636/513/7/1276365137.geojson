@@ -1,0 +1,70 @@
+{
+  "id": 1276365137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.27869,23.47397,90.27869,23.47397",
+    "geom:latitude":23.47397,
+    "geom:longitude":90.27869,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3059.0",
+    "gn:admin3_code":"305944.0",
+    "gn:admin4_code":"30594471.0",
+    "gn:asciiname":"Anantasar",
+    "gn:country_code":"BD",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1212723,
+    "gn:latitude":23.47397,
+    "gn:longitude":90.27869,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Anantas\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421205059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1212723
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"44bf7bd80105d4cf81e8176cec7639aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421205059,
+            "locality_id":1276365137,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1276365137,
+    "wof:lastmodified":1536736096,
+    "wof:name":"Anantasar",
+    "wof:parent_id":421205059,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.27869,
+    23.47397,
+    90.27869,
+    23.47397
+],
+  "geometry": {"coordinates":[90.27869,23.47397],"type":"Point"}
+}

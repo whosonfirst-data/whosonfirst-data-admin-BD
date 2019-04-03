@@ -1,0 +1,74 @@
+{
+  "id": 1360015509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.24713,23.84757,89.24713,23.84757",
+    "geom:latitude":23.84757,
+    "geom:longitude":89.24713,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4050.0",
+    "gn:admin3_code":"405071.0",
+    "gn:admin4_code":"40507100.0",
+    "gn:asciiname":"Agrakundu",
+    "gn:country_code":"BD",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1213199,
+    "gn:latitude":23.84757,
+    "gn:longitude":89.24713,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"\u0100gr\u0101kundu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Agrakunda",
+        "\u0100gr\u0101kundu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        890438075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1213199
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"8c00d65d0d9b8dfbe19b1706db1d5539",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":890438075,
+            "locality_id":1360015509,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1360015509,
+    "wof:lastmodified":1537586210,
+    "wof:name":"Agrakundu",
+    "wof:parent_id":890438075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.24713,
+    23.84757,
+    89.24713,
+    23.84757
+],
+  "geometry": {"coordinates":[89.24713,23.84757],"type":"Point"}
+}

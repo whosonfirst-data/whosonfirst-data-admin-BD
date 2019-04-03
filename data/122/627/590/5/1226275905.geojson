@@ -1,0 +1,73 @@
+{
+  "id": 1226275905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.51494,25.74738,88.51494,25.74738",
+    "geom:latitude":25.74738,
+    "geom:longitude":88.51494,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5527.0",
+    "gn:admin3_code":"552717.0",
+    "gn:admin4_code":"55271776.0",
+    "gn:asciiname":"Hefaziahai",
+    "gn:country_code":"BD",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7488107,
+    "gn:latitude":25.74738,
+    "gn:longitude":88.51494,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Hefaziahai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Hefaziahai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7488107
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"490ced97fb0da858847f29b9aba8d54f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694671,
+            "locality_id":1226275905,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1226275905,
+    "wof:lastmodified":1537586658,
+    "wof:name":"Hefaziahai",
+    "wof:parent_id":1108694671,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.51494,
+    25.74738,
+    88.51494,
+    25.74738
+],
+  "geometry": {"coordinates":[88.51494,25.74738],"type":"Point"}
+}

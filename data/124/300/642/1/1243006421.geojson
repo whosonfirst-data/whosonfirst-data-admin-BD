@@ -1,0 +1,73 @@
+{
+  "id": 1243006421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.75894,24.47412,88.75894,24.47412",
+    "geom:latitude":24.47412,
+    "geom:longitude":88.75894,
+    "gn:admin1_code":"83",
+    "gn:admin2_code":"5081",
+    "gn:admin3_code":"508131.0",
+    "gn:admin4_code":"50813111.0",
+    "gn:asciiname":"Namudarkhali",
+    "gn:country_code":"BD",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1193513,
+    "gn:latitude":24.47412,
+    "gn:longitude":88.75894,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"N\u0101mudarkh\u0101li",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "N\u0101mudarkh\u0101li"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669031,
+        421172439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1193513
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"1c7c297c0cf415608c05d98b8d2d6ce5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421172439,
+            "locality_id":1243006421,
+            "region_id":85669031
+        }
+    ],
+    "wof:id":1243006421,
+    "wof:lastmodified":1537585853,
+    "wof:name":"Namudarkhali",
+    "wof:parent_id":421172439,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.75894,
+    24.47412000000001,
+    88.75894,
+    24.47412000000001
+],
+  "geometry": {"coordinates":[88.75894,24.47412000000001],"type":"Point"}
+}

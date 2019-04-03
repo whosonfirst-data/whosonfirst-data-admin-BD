@@ -1,0 +1,70 @@
+{
+  "id": 1193167057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.00196,24.61735,89.00196,24.61735",
+    "geom:latitude":24.61735,
+    "geom:longitude":89.00196,
+    "gn:admin1_code":"83",
+    "gn:admin2_code":"5064",
+    "gn:admin3_code":"506403.0",
+    "gn:admin4_code":"50640373.0",
+    "gn:asciiname":"Panchupur",
+    "gn:country_code":"BD",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1192634,
+    "gn:latitude":24.61735,
+    "gn:longitude":89.00196,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"P\u0101nchupur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669031,
+        421191663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1192634
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"99ad9e00f2f02d8de223a3da7519e930",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421191663,
+            "locality_id":1193167057,
+            "region_id":85669031
+        }
+    ],
+    "wof:id":1193167057,
+    "wof:lastmodified":1536384463,
+    "wof:name":"Panchupur",
+    "wof:parent_id":421191663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.00196,
+    24.61735,
+    89.00196,
+    24.61735
+],
+  "geometry": {"coordinates":[89.00196,24.61735],"type":"Point"}
+}

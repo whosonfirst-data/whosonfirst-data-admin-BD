@@ -1,0 +1,67 @@
+{
+  "id": 1209135925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.94569,25.23834,89.94569,25.23834",
+    "geom:latitude":25.23834,
+    "geom:longitude":89.94569,
+    "gn:admin1_code":"H",
+    "gn:admin2_code":"3089.0",
+    "gn:admin3_code":"308990.0",
+    "gn:admin4_code":"30899079.0",
+    "gn:asciiname":"Baralkuchi",
+    "gn:country_code":"BD",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1210483,
+    "gn:latitude":25.23834,
+    "gn:longitude":89.94569,
+    "gn:modification_date":"2016-11-17",
+    "gn:name":"Baralkuchi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Baraikuchi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1210483
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"d54c88dc65cc50fc7fef92b1ce7f12e3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209135925
+        }
+    ],
+    "wof:id":1209135925,
+    "wof:lastmodified":1537586162,
+    "wof:name":"Baralkuchi",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.94569,
+    25.23834,
+    89.94569,
+    25.23834
+],
+  "geometry": {"coordinates":[89.94569,25.23834],"type":"Point"}
+}

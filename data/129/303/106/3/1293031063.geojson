@@ -1,0 +1,70 @@
+{
+  "id": 1293031063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.04418,23.91488,90.04418,23.91488",
+    "geom:latitude":23.91488,
+    "geom:longitude":90.04418,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3056.0",
+    "gn:admin3_code":"305670.0",
+    "gn:admin4_code":"30567057.0",
+    "gn:asciiname":"Chak Dhankora",
+    "gn:country_code":"BD",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1207833,
+    "gn:latitude":23.91488,
+    "gn:longitude":90.04418,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Chak Dh\u0101nkora",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421191745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1207833
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"6d36215f312966eff962acbc627260be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421191745,
+            "locality_id":1293031063,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1293031063,
+    "wof:lastmodified":1536948511,
+    "wof:name":"Chak Dhankora",
+    "wof:parent_id":421191745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.04418000000003,
+    23.91488,
+    90.04418000000003,
+    23.91488
+],
+  "geometry": {"coordinates":[90.04418000000003,23.91488],"type":"Point"}
+}

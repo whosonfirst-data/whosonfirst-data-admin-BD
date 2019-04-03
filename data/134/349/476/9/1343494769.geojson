@@ -1,0 +1,73 @@
+{
+  "id": 1343494769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.78871,24.71127,88.78871,24.71127",
+    "geom:latitude":24.71127,
+    "geom:longitude":88.78871,
+    "gn:admin1_code":"83",
+    "gn:admin2_code":"5064.0",
+    "gn:admin3_code":"506447.0",
+    "gn:admin4_code":"50644747.0",
+    "gn:asciiname":"Chak Balu",
+    "gn:country_code":"BD",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1207914,
+    "gn:latitude":24.71127,
+    "gn:longitude":88.78871,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Chak Balu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Chak Balu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669031,
+        421191663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1207914
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"a425aa85c025945693b6415e65b84896",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421191663,
+            "locality_id":1343494769,
+            "region_id":85669031
+        }
+    ],
+    "wof:id":1343494769,
+    "wof:lastmodified":1537586120,
+    "wof:name":"Chak Balu",
+    "wof:parent_id":421191663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.78871,
+    24.71127000000001,
+    88.78871,
+    24.71127000000001
+],
+  "geometry": {"coordinates":[88.78870999999999,24.71127000000001],"type":"Point"}
+}

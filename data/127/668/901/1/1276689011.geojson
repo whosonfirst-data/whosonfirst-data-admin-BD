@@ -1,0 +1,73 @@
+{
+  "id": 1276689011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.61397,25.58416,88.61397,25.58416",
+    "geom:latitude":25.58416,
+    "geom:longitude":88.61397,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5527.0",
+    "gn:admin3_code":"552764.0",
+    "gn:admin4_code":"55276417.0",
+    "gn:asciiname":"Ulipur",
+    "gn:country_code":"BD",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7488227,
+    "gn:latitude":25.58416,
+    "gn:longitude":88.61397,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Ulipur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Ulipur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7488227
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"19ff6d56b81e7e78a69827e94cc557d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694671,
+            "locality_id":1276689011,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1276689011,
+    "wof:lastmodified":1537586662,
+    "wof:name":"Ulipur",
+    "wof:parent_id":1108694671,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.61397,
+    25.58416,
+    88.61397,
+    25.58416
+],
+  "geometry": {"coordinates":[88.61396999999999,25.58416],"type":"Point"}
+}

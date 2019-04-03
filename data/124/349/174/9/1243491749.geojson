@@ -1,0 +1,73 @@
+{
+  "id": 1243491749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.47061,25.62338,89.47061,25.62338",
+    "geom:latitude":25.62338,
+    "geom:longitude":89.47061,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5585",
+    "gn:admin3_code":"558573.0",
+    "gn:admin4_code":"55857357.0",
+    "gn:asciiname":"Khaserbhita",
+    "gn:country_code":"BD",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7889540,
+    "gn:latitude":25.62338,
+    "gn:longitude":89.47061,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Kh\u0101serbhita",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Kh\u0101serbhita"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7889540
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"8a01f9bbd0c507855db53bc74c6a50d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694701,
+            "locality_id":1243491749,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1243491749,
+    "wof:lastmodified":1537586734,
+    "wof:name":"Khaserbhita",
+    "wof:parent_id":1108694701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.47061,
+    25.62338,
+    89.47061,
+    25.62338
+],
+  "geometry": {"coordinates":[89.47060999999999,25.62338],"type":"Point"}
+}

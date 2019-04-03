@@ -1,0 +1,73 @@
+{
+  "id": 1243001077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.81382,25.06347,88.81382,25.06347",
+    "geom:latitude":25.06347,
+    "geom:longitude":88.81382,
+    "gn:admin1_code":"83",
+    "gn:admin2_code":"5064.0",
+    "gn:admin3_code":"506428.0",
+    "gn:admin4_code":"50642831.0",
+    "gn:asciiname":"Chak Sripur",
+    "gn:country_code":"BD",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7481548,
+    "gn:latitude":25.06347,
+    "gn:longitude":88.81382,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Chak Sripur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Chak Sripur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669031,
+        421191663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7481548
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"f588947f7cdc2e78cc85803a781f3b95",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421191663,
+            "locality_id":1243001077,
+            "region_id":85669031
+        }
+    ],
+    "wof:id":1243001077,
+    "wof:lastmodified":1537586482,
+    "wof:name":"Chak Sripur",
+    "wof:parent_id":421191663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.81381999999998,
+    25.06347,
+    88.81381999999998,
+    25.06347
+],
+  "geometry": {"coordinates":[88.81381999999998,25.06347],"type":"Point"}
+}

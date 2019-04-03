@@ -1,0 +1,74 @@
+{
+  "id": 1309839503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.9094,24.7747,90.9094,24.7747",
+    "geom:latitude":24.7747,
+    "geom:longitude":90.9094,
+    "gn:admin1_code":"H",
+    "gn:admin2_code":"3072",
+    "gn:admin3_code":"307204.0",
+    "gn:admin4_code":"30720423.0",
+    "gn:asciiname":"Manisha",
+    "gn:country_code":"BD",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1194922,
+    "gn:latitude":24.7747,
+    "gn:longitude":90.9094,
+    "gn:modification_date":"2016-11-17",
+    "gn:name":"M\u0101nisha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Manisa",
+        "M\u0101nisha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        1108803101,
+        421200811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1194922
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"60cc39477d75c224a640b0231171601a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421200811,
+            "locality_id":1309839503,
+            "region_id":1108803101
+        }
+    ],
+    "wof:id":1309839503,
+    "wof:lastmodified":1537585877,
+    "wof:name":"Manisha",
+    "wof:parent_id":421200811,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.9094,
+    24.7747,
+    90.9094,
+    24.7747
+],
+  "geometry": {"coordinates":[90.90940000000001,24.7747],"type":"Point"}
+}

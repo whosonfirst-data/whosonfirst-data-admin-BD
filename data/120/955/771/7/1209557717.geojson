@@ -1,0 +1,64 @@
+{
+  "id": 1209557717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.11667,23.0,91.11667,23.0",
+    "geom:latitude":23.0,
+    "geom:longitude":91.11667,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2075.0",
+    "gn:admin3_code":"207508.0",
+    "gn:admin4_code":"20750877.0",
+    "gn:asciiname":"Ghoshkamta",
+    "gn:country_code":"BD",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1202505,
+    "gn:latitude":23.0,
+    "gn:longitude":91.11667,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Ghoshk\u0101mta",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1202505
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"d8f59ed4acbdd86f8bc7c6917eb3bc20",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209557717
+        }
+    ],
+    "wof:id":1209557717,
+    "wof:lastmodified":1536283497,
+    "wof:name":"Ghoshkamta",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.11667,
+    23.0,
+    91.11667,
+    23.0
+],
+  "geometry": {"coordinates":[91.11667,23.0],"type":"Point"}
+}

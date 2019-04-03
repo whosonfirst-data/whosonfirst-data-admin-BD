@@ -1,0 +1,73 @@
+{
+  "id": 1343509779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.79559,22.44036,91.79559,22.44036",
+    "geom:latitude":22.44036,
+    "geom:longitude":91.79559,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2015.0",
+    "gn:admin3_code":"201537.0",
+    "gn:admin4_code":"20153701.0",
+    "gn:asciiname":"Shah Jalal Mazar Sharif",
+    "gn:country_code":"BD",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6413849,
+    "gn:latitude":22.44036,
+    "gn:longitude":91.79559,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Sh\u0101h J\u0101l\u0101l M\u0101z\u0101r Sharif",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Sh\u0101h J\u0101l\u0101l M\u0101z\u0101r Sharif"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421201541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6413849
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"b9a1a74ba1a487676d6a254873c656f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421201541,
+            "locality_id":1343509779,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1343509779,
+    "wof:lastmodified":1537586217,
+    "wof:name":"Shah Jalal Mazar Sharif",
+    "wof:parent_id":421201541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.79559,
+    22.44036,
+    91.79559,
+    22.44036
+],
+  "geometry": {"coordinates":[91.79559,22.44036],"type":"Point"}
+}

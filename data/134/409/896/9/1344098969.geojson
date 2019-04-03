@@ -1,0 +1,70 @@
+{
+  "id": 1344098969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.81739,23.74017,90.81739,23.74017",
+    "geom:latitude":23.74017,
+    "geom:longitude":90.81739,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2012",
+    "gn:admin3_code":"201204.0",
+    "gn:admin4_code":"20120481.0",
+    "gn:asciiname":"Tatuakandi",
+    "gn:country_code":"BD",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1186419,
+    "gn:latitude":23.74017,
+    "gn:longitude":90.81739,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"T\u0101tu\u0101k\u0101ndi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        1108694667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1186419
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"f809d3271efb4416fccab86ff85583cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694667,
+            "locality_id":1344098969,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1344098969,
+    "wof:lastmodified":1536819210,
+    "wof:name":"Tatuakandi",
+    "wof:parent_id":1108694667,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.81739,
+    23.74017000000001,
+    90.81739,
+    23.74017000000001
+],
+  "geometry": {"coordinates":[90.81739,23.74017000000001],"type":"Point"}
+}

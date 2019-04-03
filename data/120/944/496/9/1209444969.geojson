@@ -1,0 +1,64 @@
+{
+  "id": 1209444969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.99377,24.20112,90.99377,24.20112",
+    "geom:latitude":24.20112,
+    "geom:longitude":90.99377,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3048",
+    "gn:admin3_code":"304806.0",
+    "gn:admin4_code":"30480617.0",
+    "gn:asciiname":"Kaimer Bauli",
+    "gn:country_code":"BD",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1199405,
+    "gn:latitude":24.20112,
+    "gn:longitude":90.99377,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"K\u0101imer B\u0101uli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1199405
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"7c8dd00d346ab3fca4b19622adee2569",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209444969
+        }
+    ],
+    "wof:id":1209444969,
+    "wof:lastmodified":1536286846,
+    "wof:name":"Kaimer Bauli",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.99377,
+    24.20112,
+    90.99377,
+    24.20112
+],
+  "geometry": {"coordinates":[90.99377,24.20112],"type":"Point"}
+}

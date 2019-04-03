@@ -1,0 +1,70 @@
+{
+  "id": 1259820935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.79371,23.83093,89.79371,23.83093",
+    "geom:latitude":23.83093,
+    "geom:longitude":89.79371,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3056",
+    "gn:admin3_code":"305678.0",
+    "gn:admin4_code":"30567847.0",
+    "gn:asciiname":"Paschim Arpara",
+    "gn:country_code":"BD",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1192325,
+    "gn:latitude":23.83093,
+    "gn:longitude":89.79371,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Paschim \u0100rp\u0101ra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421191745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1192325
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"0f0dc6ef2e8c5d0490afa80d63c3b75d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421191745,
+            "locality_id":1259820935,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1259820935,
+    "wof:lastmodified":1536868100,
+    "wof:name":"Paschim Arpara",
+    "wof:parent_id":421191745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.79371,
+    23.83093,
+    89.79371,
+    23.83093
+],
+  "geometry": {"coordinates":[89.79371,23.83093],"type":"Point"}
+}

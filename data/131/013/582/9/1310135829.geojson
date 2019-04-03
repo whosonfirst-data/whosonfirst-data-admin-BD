@@ -1,0 +1,70 @@
+{
+  "id": 1310135829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.95722,24.48028,90.95722,24.48028",
+    "geom:latitude":24.48028,
+    "geom:longitude":90.95722,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3048",
+    "gn:admin3_code":"304842.0",
+    "gn:admin4_code":"30484294.0",
+    "gn:asciiname":"Chamraghat",
+    "gn:country_code":"BD",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9378980,
+    "gn:latitude":24.48028,
+    "gn:longitude":90.95722,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Chamraghat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421170483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9378980
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"9344b8c3e710c1f98071f7e6b00931e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421170483,
+            "locality_id":1310135829,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1310135829,
+    "wof:lastmodified":1536953004,
+    "wof:name":"Chamraghat",
+    "wof:parent_id":421170483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.95722,
+    24.48028,
+    90.95722,
+    24.48028
+],
+  "geometry": {"coordinates":[90.95722000000001,24.48028],"type":"Point"}
+}

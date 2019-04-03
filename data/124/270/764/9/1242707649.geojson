@@ -1,0 +1,70 @@
+{
+  "id": 1242707649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.80531,22.23514,90.80531,22.23514",
+    "geom:latitude":22.23514,
+    "geom:longitude":90.80531,
+    "gn:admin1_code":"82",
+    "gn:asciiname":"Char Anandaprasad",
+    "gn:country_code":"BD",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1207135,
+    "gn:latitude":22.23514,
+    "gn:longitude":90.80531,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Char Anandapras\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Char Anandapras\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669019,
+        421184491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1207135
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"9846e6e87c77d726dc228f522d528ca3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421184491,
+            "locality_id":1242707649,
+            "region_id":85669019
+        }
+    ],
+    "wof:id":1242707649,
+    "wof:lastmodified":1537586105,
+    "wof:name":"Char Anandaprasad",
+    "wof:parent_id":421184491,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.80531,
+    22.23514,
+    90.80531,
+    22.23514
+],
+  "geometry": {"coordinates":[90.80531000000001,22.23514],"type":"Point"}
+}

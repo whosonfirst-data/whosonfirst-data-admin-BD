@@ -1,0 +1,73 @@
+{
+  "id": 1226780923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.54706,22.80876,89.54706,22.80876",
+    "geom:latitude":22.80876,
+    "geom:longitude":89.54706,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4047.0",
+    "gn:admin3_code":"404785.0",
+    "gn:admin4_code":"40478525.0",
+    "gn:asciiname":"Banarganti",
+    "gn:country_code":"BD",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7486210,
+    "gn:latitude":22.80876,
+    "gn:longitude":89.54706,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"B\u0101narg\u0101nti",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "B\u0101narg\u0101nti"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        421185473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7486210
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"a4c44b985a251b25e841169fe970563c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421185473,
+            "locality_id":1226780923,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1226780923,
+    "wof:lastmodified":1537586607,
+    "wof:name":"Banarganti",
+    "wof:parent_id":421185473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.54706,
+    22.80876,
+    89.54706,
+    22.80876
+],
+  "geometry": {"coordinates":[89.54706,22.80876],"type":"Point"}
+}

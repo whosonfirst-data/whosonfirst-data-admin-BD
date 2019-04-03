@@ -1,0 +1,73 @@
+{
+  "id": 1344187453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.02727,25.51515,89.02727,25.51515",
+    "geom:latitude":25.51515,
+    "geom:longitude":89.02727,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5527",
+    "gn:admin3_code":"552769.0",
+    "gn:admin4_code":"55276951.0",
+    "gn:asciiname":"Haranathpur",
+    "gn:country_code":"BD",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8064588,
+    "gn:latitude":25.51515,
+    "gn:longitude":89.02727,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Haranathpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Haranathpur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8064588
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"ea53438f835815e556f342b1eafd7b93",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694671,
+            "locality_id":1344187453,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1344187453,
+    "wof:lastmodified":1537586841,
+    "wof:name":"Haranathpur",
+    "wof:parent_id":1108694671,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.02727,
+    25.51515,
+    89.02727,
+    25.51515
+],
+  "geometry": {"coordinates":[89.02727,25.51515],"type":"Point"}
+}

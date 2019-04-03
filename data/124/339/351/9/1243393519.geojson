@@ -1,0 +1,73 @@
+{
+  "id": 1243393519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.16562,25.00599,90.16562,25.00599",
+    "geom:latitude":25.00599,
+    "geom:longitude":90.16562,
+    "gn:admin1_code":"H",
+    "gn:admin2_code":"3089",
+    "gn:admin3_code":"308967.0",
+    "gn:admin4_code":"30896757.0",
+    "gn:asciiname":"Dakat Kanda",
+    "gn:country_code":"BD",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7923132,
+    "gn:latitude":25.00599,
+    "gn:longitude":90.16562,
+    "gn:modification_date":"2016-11-17",
+    "gn:name":"D\u0101k\u0101t K\u0101nda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "D\u0101k\u0101t K\u0101nda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        1108803101,
+        421190979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7923132
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"204aa5475fcde23abe36082fbd5059ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421190979,
+            "locality_id":1243393519,
+            "region_id":1108803101
+        }
+    ],
+    "wof:id":1243393519,
+    "wof:lastmodified":1537586792,
+    "wof:name":"Dakat Kanda",
+    "wof:parent_id":421190979,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.16562,
+    25.00599,
+    90.16562,
+    25.00599
+],
+  "geometry": {"coordinates":[90.16562,25.00599],"type":"Point"}
+}

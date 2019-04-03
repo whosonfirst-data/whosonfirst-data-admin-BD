@@ -1,0 +1,70 @@
+{
+  "id": 1309939429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.6715,23.91019,90.6715,23.91019",
+    "geom:latitude":23.91019,
+    "geom:longitude":90.6715,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3068.0",
+    "gn:admin3_code":"306860.0",
+    "gn:admin4_code":"30686089.0",
+    "gn:asciiname":"Dakshin Kansardi",
+    "gn:country_code":"BD",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1205426,
+    "gn:latitude":23.91019,
+    "gn:longitude":90.6715,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Dakshin Kansardi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421169707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1205426
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"183fc1f1f7490b16324e7be88b42ae81",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421169707,
+            "locality_id":1309939429,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1309939429,
+    "wof:lastmodified":1536738541,
+    "wof:name":"Dakshin Kansardi",
+    "wof:parent_id":421169707,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.6715,
+    23.91019,
+    90.6715,
+    23.91019
+],
+  "geometry": {"coordinates":[90.67149999999999,23.91019],"type":"Point"}
+}

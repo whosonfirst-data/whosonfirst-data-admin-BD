@@ -1,0 +1,70 @@
+{
+  "id": 1226372533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.44209,25.13928,89.44209,25.13928",
+    "geom:latitude":25.13928,
+    "geom:longitude":89.44209,
+    "gn:admin1_code":"83",
+    "gn:asciiname":"Bhita Shakhail",
+    "gn:country_code":"BD",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7892462,
+    "gn:latitude":25.13928,
+    "gn:longitude":89.44209,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Bhita Sh\u0101khail",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Bhita Sh\u0101khail"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7892462
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"a6bd774ddce710746903a4d5ccc8ffbb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694675,
+            "locality_id":1226372533,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1226372533,
+    "wof:lastmodified":1537586757,
+    "wof:name":"Bhita Shakhail",
+    "wof:parent_id":1108694675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.44209000000002,
+    25.13928,
+    89.44209000000002,
+    25.13928
+],
+  "geometry": {"coordinates":[89.44209000000002,25.13928],"type":"Point"}
+}

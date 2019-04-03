@@ -1,0 +1,73 @@
+{
+  "id": 1360214997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.42028,25.42005,89.42028,25.42005",
+    "geom:latitude":25.42005,
+    "geom:longitude":89.42028,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5532",
+    "gn:admin3_code":"553282.0",
+    "gn:admin4_code":"55328260.0",
+    "gn:asciiname":"Kandarpa Manoharpur",
+    "gn:country_code":"BD",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7893406,
+    "gn:latitude":25.42005,
+    "gn:longitude":89.42028,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Kandarpa Manoharpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Kandarpa Manoharpur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7893406
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"c3dbf9e532f1448bf82c5f477ae09a7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694675,
+            "locality_id":1360214997,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1360214997,
+    "wof:lastmodified":1537586758,
+    "wof:name":"Kandarpa Manoharpur",
+    "wof:parent_id":1108694675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.42028,
+    25.42005,
+    89.42028,
+    25.42005
+],
+  "geometry": {"coordinates":[89.42028000000001,25.42005],"type":"Point"}
+}

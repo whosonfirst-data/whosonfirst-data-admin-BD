@@ -1,0 +1,70 @@
+{
+  "id": 1343299425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.69347,22.64696,90.69347,22.64696",
+    "geom:latitude":22.64696,
+    "geom:longitude":90.69347,
+    "gn:admin1_code":"85",
+    "gn:admin2_code":"1009",
+    "gn:admin3_code":"100929.0",
+    "gn:admin4_code":"10092928.0",
+    "gn:asciiname":"North Char Lamchhi Pata",
+    "gn:country_code":"BD",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1191915,
+    "gn:latitude":22.64696,
+    "gn:longitude":90.69347,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"North Char Lamchhi P\u0101ta",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669019,
+        421184491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1191915
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"c538b28c6012315c49842dda09ec76dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421184491,
+            "locality_id":1343299425,
+            "region_id":85669019
+        }
+    ],
+    "wof:id":1343299425,
+    "wof:lastmodified":1536977958,
+    "wof:name":"North Char Lamchhi Pata",
+    "wof:parent_id":421184491,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.69347,
+    22.64696,
+    90.69347,
+    22.64696
+],
+  "geometry": {"coordinates":[90.69347,22.64696],"type":"Point"}
+}

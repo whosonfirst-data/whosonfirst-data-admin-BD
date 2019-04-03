@@ -1,0 +1,70 @@
+{
+  "id": 1242607435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.29819,25.18675,89.29819,25.18675",
+    "geom:latitude":25.18675,
+    "geom:longitude":89.29819,
+    "gn:admin1_code":"83",
+    "gn:asciiname":"Katholbari",
+    "gn:country_code":"BD",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7890054,
+    "gn:latitude":25.18675,
+    "gn:longitude":89.29819,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"K\u0101th\u014dlb\u0101ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "K\u0101th\u014dlb\u0101ri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7890054
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"74d5b710895eef4bf3a577036d072f4d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694675,
+            "locality_id":1242607435,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1242607435,
+    "wof:lastmodified":1537586740,
+    "wof:name":"Katholbari",
+    "wof:parent_id":1108694675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.29819,
+    25.18675,
+    89.29819,
+    25.18675
+],
+  "geometry": {"coordinates":[89.29819000000001,25.18675],"type":"Point"}
+}

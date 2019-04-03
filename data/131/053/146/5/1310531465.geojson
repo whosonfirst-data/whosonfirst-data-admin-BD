@@ -1,0 +1,74 @@
+{
+  "id": 1310531465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.45824,22.72612,89.45824,22.72612",
+    "geom:latitude":22.72612,
+    "geom:longitude":89.45824,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4047",
+    "gn:admin3_code":"404730.0",
+    "gn:admin4_code":"40473013.0",
+    "gn:asciiname":"Purba Kanchannagar",
+    "gn:country_code":"BD",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1190748,
+    "gn:latitude":22.72612,
+    "gn:longitude":89.45824,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Purba K\u0101nchannagar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Purbba Kanchannagar",
+        "Purba K\u0101nchannagar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        421185473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1190748
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"085a50a11931ce7220a0b7350dbd465f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421185473,
+            "locality_id":1310531465,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1310531465,
+    "wof:lastmodified":1537585801,
+    "wof:name":"Purba Kanchannagar",
+    "wof:parent_id":421185473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.45824,
+    22.72612,
+    89.45824,
+    22.72612
+],
+  "geometry": {"coordinates":[89.45824,22.72612],"type":"Point"}
+}

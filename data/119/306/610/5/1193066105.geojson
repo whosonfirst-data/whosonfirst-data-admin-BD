@@ -1,0 +1,74 @@
+{
+  "id": 1193066105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.51778,22.44306,91.51778,22.44306",
+    "geom:latitude":22.44306,
+    "geom:longitude":91.51778,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2015",
+    "gn:admin3_code":"201578.0",
+    "gn:admin4_code":"20157865.0",
+    "gn:asciiname":"Madhaya Magdhara",
+    "gn:country_code":"BD",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1195721,
+    "gn:latitude":22.44306,
+    "gn:longitude":91.51778,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Madhaya Magdhara",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Magdhara",
+        "Madhaya Magdhara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421201541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1195721
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"97bf9f8dd509dd0e3a28eecd81886786",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421201541,
+            "locality_id":1193066105,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1193066105,
+    "wof:lastmodified":1537585895,
+    "wof:name":"Madhaya Magdhara",
+    "wof:parent_id":421201541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.51778,
+    22.44306,
+    91.51778,
+    22.44306
+],
+  "geometry": {"coordinates":[91.51778,22.44306],"type":"Point"}
+}

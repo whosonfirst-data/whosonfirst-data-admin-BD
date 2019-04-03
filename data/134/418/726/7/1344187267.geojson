@@ -1,0 +1,73 @@
+{
+  "id": 1344187267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.52562,22.27903,90.52562,22.27903",
+    "geom:latitude":22.27903,
+    "geom:longitude":90.52562,
+    "gn:admin1_code":"85",
+    "gn:admin2_code":"1078.0",
+    "gn:admin3_code":"107852.0",
+    "gn:admin4_code":"10785210.0",
+    "gn:asciiname":"Uttar Alipur",
+    "gn:country_code":"BD",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7478053,
+    "gn:latitude":22.27903,
+    "gn:longitude":90.52562,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Utt\u0101r Alipur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Utt\u0101r Alipur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669019,
+        421169845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7478053
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"4417274f81d99d6b0583f983eb34fcb4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421169845,
+            "locality_id":1344187267,
+            "region_id":85669019
+        }
+    ],
+    "wof:id":1344187267,
+    "wof:lastmodified":1537586381,
+    "wof:name":"Uttar Alipur",
+    "wof:parent_id":421169845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.52562,
+    22.27903,
+    90.52562,
+    22.27903
+],
+  "geometry": {"coordinates":[90.52562,22.27903],"type":"Point"}
+}

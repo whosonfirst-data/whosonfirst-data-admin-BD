@@ -1,0 +1,73 @@
+{
+  "id": 1276473035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.4011,26.56053,88.4011,26.56053",
+    "geom:latitude":26.56053,
+    "geom:longitude":88.4011,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5577.0",
+    "gn:admin3_code":"557790.0",
+    "gn:admin4_code":"55779094.0",
+    "gn:asciiname":"Mandalpara",
+    "gn:country_code":"BD",
+    "gn:dem":98,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7486738,
+    "gn:latitude":26.56053,
+    "gn:longitude":88.4011,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Mandalpara",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Mandalpara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7486738
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"3de802319850ce3e5614c25266576b9c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694697,
+            "locality_id":1276473035,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1276473035,
+    "wof:lastmodified":1537586620,
+    "wof:name":"Mandalpara",
+    "wof:parent_id":1108694697,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.4011,
+    26.56053,
+    88.4011,
+    26.56053
+],
+  "geometry": {"coordinates":[88.4011,26.56053],"type":"Point"}
+}

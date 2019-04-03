@@ -1,0 +1,73 @@
+{
+  "id": 1344090071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.13454,23.21131,89.13454,23.21131",
+    "geom:latitude":23.21131,
+    "geom:longitude":89.13454,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4041",
+    "gn:admin3_code":"404147.0",
+    "gn:admin4_code":"40414729.0",
+    "gn:asciiname":"Jhaudia",
+    "gn:country_code":"BD",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1199956,
+    "gn:latitude":23.21131,
+    "gn:longitude":89.13454,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Jh\u0101udia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Jh\u0101udia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        421176039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1199956
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"f5fe87eb76e0dc5580618ccecf938de4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421176039,
+            "locality_id":1344090071,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1344090071,
+    "wof:lastmodified":1537585970,
+    "wof:name":"Jhaudia",
+    "wof:parent_id":421176039,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.13454,
+    23.21131,
+    89.13454,
+    23.21131
+],
+  "geometry": {"coordinates":[89.13454,23.21131],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1243001369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.72724,24.19724,89.72724,24.19724",
+    "geom:latitude":24.19724,
+    "geom:longitude":89.72724,
+    "gn:admin1_code":"83",
+    "gn:admin2_code":"5088",
+    "gn:admin3_code":"508827.0",
+    "gn:admin4_code":"50882771.0",
+    "gn:asciiname":"Sthal",
+    "gn:country_code":"BD",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1187128,
+    "gn:latitude":24.19724,
+    "gn:longitude":89.72724,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Sthal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669031,
+        421201929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1187128
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"c4b651bc791e6bea6b5a32d29e6d42df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421201929,
+            "locality_id":1243001369,
+            "region_id":85669031
+        }
+    ],
+    "wof:id":1243001369,
+    "wof:lastmodified":1536950620,
+    "wof:name":"Sthal",
+    "wof:parent_id":421201929,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.72724000000002,
+    24.19724,
+    89.72724000000002,
+    24.19724
+],
+  "geometry": {"coordinates":[89.72724000000002,24.19724],"type":"Point"}
+}

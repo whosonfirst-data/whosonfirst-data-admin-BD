@@ -1,0 +1,70 @@
+{
+  "id": 1210054665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.70833,23.35083,90.70833,23.35083",
+    "geom:latitude":23.35083,
+    "geom:longitude":90.70833,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2013.0",
+    "gn:admin3_code":"201376.0",
+    "gn:admin4_code":"20137651.0",
+    "gn:asciiname":"Char Mukundi",
+    "gn:country_code":"BD",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1206615,
+    "gn:latitude":23.35083,
+    "gn:longitude":90.70833,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Char Mukundi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        1108694669
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1206615
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"20d1e439a348f2977ca292726264289a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694669,
+            "locality_id":1210054665,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1210054665,
+    "wof:lastmodified":1536369801,
+    "wof:name":"Char Mukundi",
+    "wof:parent_id":1108694669,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.70833,
+    23.35083,
+    90.70833,
+    23.35083
+],
+  "geometry": {"coordinates":[90.70833,23.35083],"type":"Point"}
+}

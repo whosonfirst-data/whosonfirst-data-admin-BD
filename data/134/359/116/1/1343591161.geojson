@@ -1,0 +1,73 @@
+{
+  "id": 1343591161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.53262,21.93416,90.53262,21.93416",
+    "geom:latitude":21.93416,
+    "geom:longitude":90.53262,
+    "gn:admin1_code":"85",
+    "gn:admin2_code":"1078.0",
+    "gn:admin3_code":"107897.0",
+    "gn:admin4_code":"10789783.0",
+    "gn:asciiname":"Dakshin Char Lakshmi",
+    "gn:country_code":"BD",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7477740,
+    "gn:latitude":21.93416,
+    "gn:longitude":90.53262,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Dakshin Char Lakshmi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Dakshin Char Lakshmi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669019,
+        421169845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7477740
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"41b33587bd4e7e2b42bc711d0a30d4c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421169845,
+            "locality_id":1343591161,
+            "region_id":85669019
+        }
+    ],
+    "wof:id":1343591161,
+    "wof:lastmodified":1537586374,
+    "wof:name":"Dakshin Char Lakshmi",
+    "wof:parent_id":421169845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.53262,
+    21.93416,
+    90.53262,
+    21.93416
+],
+  "geometry": {"coordinates":[90.53261999999999,21.93416],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1293526771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.75547,22.83465,89.75547,22.83465",
+    "geom:latitude":22.83465,
+    "geom:longitude":89.75547,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4001.0",
+    "gn:admin3_code":"400156.0",
+    "gn:admin4_code":"40015647.0",
+    "gn:asciiname":"Diganga",
+    "gn:country_code":"BD",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1204055,
+    "gn:latitude":22.83465,
+    "gn:longitude":89.75547,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Diganga",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        421187747
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1204055
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"f74ab50700ae7d54342c2223af11e972",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421187747,
+            "locality_id":1293526771,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1293526771,
+    "wof:lastmodified":1536730681,
+    "wof:name":"Diganga",
+    "wof:parent_id":421187747,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.75546999999997,
+    22.83465,
+    89.75546999999997,
+    22.83465
+],
+  "geometry": {"coordinates":[89.75546999999997,22.83465],"type":"Point"}
+}

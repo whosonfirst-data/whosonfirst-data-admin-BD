@@ -1,0 +1,70 @@
+{
+  "id": 1276478283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.27747,22.3703,90.27747,22.3703",
+    "geom:latitude":22.3703,
+    "geom:longitude":90.27747,
+    "gn:admin1_code":"82",
+    "gn:asciiname":"Bhajna Kismat",
+    "gn:country_code":"BD",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7476425,
+    "gn:latitude":22.3703,
+    "gn:longitude":90.27747,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"Bhajna Kismat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Bhajna Kismat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669019,
+        421169845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7476425
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"d809a93efb78f6004a7091f719c0821c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421169845,
+            "locality_id":1276478283,
+            "region_id":85669019
+        }
+    ],
+    "wof:id":1276478283,
+    "wof:lastmodified":1537586344,
+    "wof:name":"Bhajna Kismat",
+    "wof:parent_id":421169845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.27747,
+    22.3703,
+    90.27747,
+    22.3703
+],
+  "geometry": {"coordinates":[90.27746999999999,22.3703],"type":"Point"}
+}

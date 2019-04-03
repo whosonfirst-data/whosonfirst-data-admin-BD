@@ -1,0 +1,73 @@
+{
+  "id": 1226073101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.82064,24.04523,88.82064,24.04523",
+    "geom:latitude":24.04523,
+    "geom:longitude":88.82064,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4050.0",
+    "gn:admin3_code":"405039.0",
+    "gn:admin4_code":"40503961.0",
+    "gn:asciiname":"Harisankara",
+    "gn:country_code":"BD",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1201376,
+    "gn:latitude":24.04523,
+    "gn:longitude":88.82064,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Harisank\u0101ra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Harisank\u0101ra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        890438075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1201376
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"9cb4ccc42589d6c64319267796425bd3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":890438075,
+            "locality_id":1226073101,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1226073101,
+    "wof:lastmodified":1537585999,
+    "wof:name":"Harisankara",
+    "wof:parent_id":890438075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.82064,
+    24.04523,
+    88.82064,
+    24.04523
+],
+  "geometry": {"coordinates":[88.82064,24.04523],"type":"Point"}
+}

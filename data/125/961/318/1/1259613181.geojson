@@ -1,0 +1,73 @@
+{
+  "id": 1259613181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.94441,25.06518,89.94441,25.06518",
+    "geom:latitude":25.06518,
+    "geom:longitude":89.94441,
+    "gn:admin1_code":"H",
+    "gn:admin2_code":"3089",
+    "gn:admin3_code":"308990.0",
+    "gn:admin4_code":"30899015.0",
+    "gn:asciiname":"Char Habar",
+    "gn:country_code":"BD",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7922126,
+    "gn:latitude":25.06518,
+    "gn:longitude":89.94441,
+    "gn:modification_date":"2016-11-17",
+    "gn:name":"Char Habar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Char Habar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        1108803101,
+        421190979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7922126
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"bc49a2cb3de3e6eb8d7a9d5f7a64657b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421190979,
+            "locality_id":1259613181,
+            "region_id":1108803101
+        }
+    ],
+    "wof:id":1259613181,
+    "wof:lastmodified":1537586785,
+    "wof:name":"Char Habar",
+    "wof:parent_id":421190979,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.94440999999998,
+    25.06518,
+    89.94440999999998,
+    25.06518
+],
+  "geometry": {"coordinates":[89.94440999999998,25.06518],"type":"Point"}
+}

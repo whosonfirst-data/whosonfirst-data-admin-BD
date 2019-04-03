@@ -1,0 +1,73 @@
+{
+  "id": 1260113825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.40247,25.25681,89.40247,25.25681",
+    "geom:latitude":25.25681,
+    "geom:longitude":89.40247,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5532",
+    "gn:admin3_code":"553267.0",
+    "gn:admin4_code":"55326709.0",
+    "gn:asciiname":"Murchhapara",
+    "gn:country_code":"BD",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7895449,
+    "gn:latitude":25.25681,
+    "gn:longitude":89.40247,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Murchhapara",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Murchhapara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7895449
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"fc2e4d8112333681b9dfbfd42095535d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694675,
+            "locality_id":1260113825,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1260113825,
+    "wof:lastmodified":1537586761,
+    "wof:name":"Murchhapara",
+    "wof:parent_id":1108694675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.40247,
+    25.25681,
+    89.40247,
+    25.25681
+],
+  "geometry": {"coordinates":[89.40246999999999,25.25681],"type":"Point"}
+}

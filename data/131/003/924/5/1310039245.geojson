@@ -1,0 +1,73 @@
+{
+  "id": 1310039245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.37525,25.64437,89.37525,25.64437",
+    "geom:latitude":25.64437,
+    "geom:longitude":89.37525,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5585.0",
+    "gn:admin3_code":"558573.0",
+    "gn:admin4_code":"55857376.0",
+    "gn:asciiname":"Khamar Isad",
+    "gn:country_code":"BD",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7889407,
+    "gn:latitude":25.64437,
+    "gn:longitude":89.37525,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Kh\u0101m\u0101r Is\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Kh\u0101m\u0101r Is\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7889407
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"316eb24d99405b84c8631ee187ee4c31",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694701,
+            "locality_id":1310039245,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1310039245,
+    "wof:lastmodified":1537586733,
+    "wof:name":"Khamar Isad",
+    "wof:parent_id":1108694701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.37525,
+    25.64437,
+    89.37525,
+    25.64437
+],
+  "geometry": {"coordinates":[89.37524999999999,25.64437],"type":"Point"}
+}

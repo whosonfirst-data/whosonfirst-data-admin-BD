@@ -1,0 +1,70 @@
+{
+  "id": 1259620847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.26765,22.93794,90.26765,22.93794",
+    "geom:latitude":22.93794,
+    "geom:longitude":90.26765,
+    "gn:admin1_code":"85",
+    "gn:admin2_code":"1006",
+    "gn:admin3_code":"100632.0",
+    "gn:admin4_code":"10063271.0",
+    "gn:asciiname":"South Pingalakati",
+    "gn:country_code":"BD",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1187356,
+    "gn:latitude":22.93794,
+    "gn:longitude":90.26765,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"South Pingal\u0101kati",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669019,
+        421187745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1187356
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"37b72f01ce51b04689b1c6497273376a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421187745,
+            "locality_id":1259620847,
+            "region_id":85669019
+        }
+    ],
+    "wof:id":1259620847,
+    "wof:lastmodified":1536660811,
+    "wof:name":"South Pingalakati",
+    "wof:parent_id":421187745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.26765,
+    22.93794,
+    90.26765,
+    22.93794
+],
+  "geometry": {"coordinates":[90.26765,22.93794],"type":"Point"}
+}

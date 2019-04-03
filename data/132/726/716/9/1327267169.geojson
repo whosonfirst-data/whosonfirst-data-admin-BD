@@ -1,0 +1,73 @@
+{
+  "id": 1327267169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.73612,22.8931,89.73612,22.8931",
+    "geom:latitude":22.8931,
+    "geom:longitude":89.73612,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4001.0",
+    "gn:admin3_code":"400156.0",
+    "gn:admin4_code":"40015685.0",
+    "gn:asciiname":"Thengargati",
+    "gn:country_code":"BD",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7486421,
+    "gn:latitude":22.8931,
+    "gn:longitude":89.73612,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Thengargati",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Thengargati"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        421187747
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7486421
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"12a94a2fc036cbda6a2bf7a607aaa734",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421187747,
+            "locality_id":1327267169,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1327267169,
+    "wof:lastmodified":1537586613,
+    "wof:name":"Thengargati",
+    "wof:parent_id":421187747,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.73612,
+    22.8931,
+    89.73612,
+    22.8931
+],
+  "geometry": {"coordinates":[89.73612,22.8931],"type":"Point"}
+}

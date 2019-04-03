@@ -1,0 +1,75 @@
+{
+  "id": 1293332725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"92.21176,23.22895,92.21176,23.22895",
+    "geom:latitude":23.22895,
+    "geom:longitude":92.21176,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2084.0",
+    "gn:admin3_code":"208407.0",
+    "gn:admin4_code":"20840783.0",
+    "gn:asciiname":"Haza chhara",
+    "gn:country_code":"BD",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1201758,
+    "gn:latitude":23.22895,
+    "gn:longitude":92.21176,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Haza chhara",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hajachhari",
+        "H\u0101j\u0101chara",
+        "Haza chhara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421188983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1201758
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"9da751998dc176bf10abd888c28af7f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421188983,
+            "locality_id":1293332725,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1293332725,
+    "wof:lastmodified":1537586005,
+    "wof:name":"Haza chhara",
+    "wof:parent_id":421188983,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    92.21176,
+    23.22895,
+    92.21176,
+    23.22895
+],
+  "geometry": {"coordinates":[92.21176,23.22895],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1343694927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.03625,24.96946,90.03625,24.96946",
+    "geom:latitude":24.96946,
+    "geom:longitude":90.03625,
+    "gn:admin1_code":"H",
+    "gn:admin2_code":"3089.0",
+    "gn:admin3_code":"308988.0",
+    "gn:admin4_code":"30898820.0",
+    "gn:asciiname":"Chhankanda Kotarakanda",
+    "gn:country_code":"BD",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1206217,
+    "gn:latitude":24.96946,
+    "gn:longitude":90.03625,
+    "gn:modification_date":"2016-11-17",
+    "gn:name":"Chhank\u0101nda Kot\u0101r\u0101k\u0101nda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        1108803101,
+        421190979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1206217
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"99001fc60d61a1bbcd73d95c5306cfb3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421190979,
+            "locality_id":1343694927,
+            "region_id":1108803101
+        }
+    ],
+    "wof:id":1343694927,
+    "wof:lastmodified":1536905636,
+    "wof:name":"Chhankanda Kotarakanda",
+    "wof:parent_id":421190979,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.03625,
+    24.96946,
+    90.03625,
+    24.96946
+],
+  "geometry": {"coordinates":[90.03625,24.96946],"type":"Point"}
+}

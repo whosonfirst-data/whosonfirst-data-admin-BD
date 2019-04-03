@@ -1,0 +1,73 @@
+{
+  "id": 1293322641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.27295,22.44998,89.27295,22.44998",
+    "geom:latitude":22.44998,
+    "geom:longitude":89.27295,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4047.0",
+    "gn:admin3_code":"404753.0",
+    "gn:admin4_code":"40475311.0",
+    "gn:asciiname":"Uttar Ghugrakati",
+    "gn:country_code":"BD",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7485983,
+    "gn:latitude":22.44998,
+    "gn:longitude":89.27295,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Uttar Ghugr\u0101k\u0101ti",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Uttar Ghugr\u0101k\u0101ti"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        421185473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7485983
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"e7676d466854610991cdc2daffaa95b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421185473,
+            "locality_id":1293322641,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1293322641,
+    "wof:lastmodified":1537586604,
+    "wof:name":"Uttar Ghugrakati",
+    "wof:parent_id":421185473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.27295,
+    22.44998,
+    89.27295,
+    22.44998
+],
+  "geometry": {"coordinates":[89.27294999999999,22.44998],"type":"Point"}
+}

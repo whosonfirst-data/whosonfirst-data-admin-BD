@@ -1,0 +1,74 @@
+{
+  "id": 1310136005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.11173,24.34231,90.11173,24.34231",
+    "geom:latitude":24.34231,
+    "geom:longitude":90.11173,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3093.0",
+    "gn:admin3_code":"309385.0",
+    "gn:admin4_code":"30938513.0",
+    "gn:asciiname":"Baharatail",
+    "gn:country_code":"BD",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1211758,
+    "gn:latitude":24.34231,
+    "gn:longitude":90.11173,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Bahar\u0101tail",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bahar\u0101tail",
+        "Baher\u0101tail"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421185471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1211758
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"87fc07a9e294fa82f2c418815f215a39",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421185471,
+            "locality_id":1310136005,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1310136005,
+    "wof:lastmodified":1537586184,
+    "wof:name":"Baharatail",
+    "wof:parent_id":421185471,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.11173,
+    24.34231,
+    90.11173,
+    24.34231
+],
+  "geometry": {"coordinates":[90.11172999999999,24.34231],"type":"Point"}
+}

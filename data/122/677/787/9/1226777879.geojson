@@ -1,0 +1,74 @@
+{
+  "id": 1226777879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.20457,23.08019,90.20457,23.08019",
+    "geom:latitude":23.08019,
+    "geom:longitude":90.20457,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3054",
+    "gn:admin3_code":"305440.0",
+    "gn:admin4_code":"30544044.0",
+    "gn:asciiname":"Dakshin Gopalpur",
+    "gn:country_code":"BD",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1187418,
+    "gn:latitude":23.08019,
+    "gn:longitude":90.20457,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Dakshin Gop\u0101lpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dakshin Gop\u0101lpur",
+        "South Gop\u0101lpur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421183929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1187418
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"0fbbe1da25b8c247f41c2c38087933d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421183929,
+            "locality_id":1226777879,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1226777879,
+    "wof:lastmodified":1537585736,
+    "wof:name":"Dakshin Gopalpur",
+    "wof:parent_id":421183929,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.20457,
+    23.08019,
+    90.20457,
+    23.08019
+],
+  "geometry": {"coordinates":[90.20457,23.08019],"type":"Point"}
+}

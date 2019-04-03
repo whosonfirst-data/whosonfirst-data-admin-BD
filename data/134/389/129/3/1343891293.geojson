@@ -1,0 +1,73 @@
+{
+  "id": 1343891293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.12516,23.88578,89.12516,23.88578",
+    "geom:latitude":23.88578,
+    "geom:longitude":89.12516,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4050",
+    "gn:admin3_code":"405079.0",
+    "gn:admin4_code":"40507975.0",
+    "gn:asciiname":"Molla Tegharia",
+    "gn:country_code":"BD",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1194134,
+    "gn:latitude":23.88578,
+    "gn:longitude":89.12516,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Molla Tegharia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Molla Tegharia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        890438075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1194134
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"c17ee70b8bbbc242e9ed9c6f6fbabe3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":890438075,
+            "locality_id":1343891293,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1343891293,
+    "wof:lastmodified":1537585863,
+    "wof:name":"Molla Tegharia",
+    "wof:parent_id":890438075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.12516,
+    23.88578,
+    89.12516,
+    23.88578
+],
+  "geometry": {"coordinates":[89.12515999999999,23.88578],"type":"Point"}
+}

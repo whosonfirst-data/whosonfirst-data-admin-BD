@@ -1,0 +1,74 @@
+{
+  "id": 1259917239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.17965,23.20784,90.17965,23.20784",
+    "geom:latitude":23.20784,
+    "geom:longitude":90.17965,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3054",
+    "gn:admin3_code":"305454.0",
+    "gn:admin4_code":"30545441.0",
+    "gn:asciiname":"South Dudhkhali",
+    "gn:country_code":"BD",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1187431,
+    "gn:latitude":23.20784,
+    "gn:longitude":90.17965,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"South Dudhkh\u0101li",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dakshin Dudhkhali",
+        "South Dudhkh\u0101li"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421183929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1187431
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"f6e245254697048025390a8fc28828fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421183929,
+            "locality_id":1259917239,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1259917239,
+    "wof:lastmodified":1537585737,
+    "wof:name":"South Dudhkhali",
+    "wof:parent_id":421183929,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.17965,
+    23.20784,
+    90.17965,
+    23.20784
+],
+  "geometry": {"coordinates":[90.17965,23.20784],"type":"Point"}
+}

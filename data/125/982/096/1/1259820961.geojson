@@ -1,0 +1,70 @@
+{
+  "id": 1259820961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.57514,23.8549,90.57514,23.8549",
+    "geom:latitude":23.8549,
+    "geom:longitude":90.57514,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3067",
+    "gn:admin3_code":"306768.0",
+    "gn:admin4_code":"30676807.0",
+    "gn:asciiname":"Karatia",
+    "gn:country_code":"BD",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1198451,
+    "gn:latitude":23.8549,
+    "gn:longitude":90.57514,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Kar\u0101tia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421197045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1198451
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"b56c49e14dad1ad65a8b85ba458a18f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421197045,
+            "locality_id":1259820961,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1259820961,
+    "wof:lastmodified":1536868059,
+    "wof:name":"Karatia",
+    "wof:parent_id":421197045,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.57514,
+    23.8549,
+    90.57514,
+    23.8549
+],
+  "geometry": {"coordinates":[90.57514,23.8549],"type":"Point"}
+}

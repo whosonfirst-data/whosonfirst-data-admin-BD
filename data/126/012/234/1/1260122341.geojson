@@ -1,0 +1,77 @@
+{
+  "id": 1260122341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"92.53074,21.59654,92.53074,21.59654",
+    "geom:latitude":21.59654,
+    "geom:longitude":92.53074,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2003",
+    "gn:admin3_code":"200395.0",
+    "gn:admin4_code":"20039538.0",
+    "gn:asciiname":"Singpa",
+    "gn:country_code":"BD",
+    "gn:dem":89,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1187776,
+    "gn:latitude":21.59654,
+    "gn:longitude":92.53074,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Singpa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Singpa"
+    ],
+    "name:und_x_variant":[
+        "Singapha Tye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421169477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1187776,
+        "wk:page":"Singpa"
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"563dd35378d6ebbf5115f551ce183edc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421169477,
+            "locality_id":1260122341,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1260122341,
+    "wof:lastmodified":1537585745,
+    "wof:name":"Singpa",
+    "wof:parent_id":421169477,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    92.53074,
+    21.59654,
+    92.53074,
+    21.59654
+],
+  "geometry": {"coordinates":[92.53073999999999,21.59654],"type":"Point"}
+}

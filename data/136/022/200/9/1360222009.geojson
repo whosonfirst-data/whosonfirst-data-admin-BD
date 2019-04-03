@@ -1,0 +1,70 @@
+{
+  "id": 1360222009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.98508,23.87431,89.98508,23.87431",
+    "geom:latitude":23.87431,
+    "geom:longitude":89.98508,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3056",
+    "gn:admin3_code":"305646.0",
+    "gn:admin4_code":"30564623.0",
+    "gn:asciiname":"Kaliani",
+    "gn:country_code":"BD",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1199167,
+    "gn:latitude":23.87431,
+    "gn:longitude":89.98508,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Kali\u0101ni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421191745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1199167
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"244d8a23deab8730bdaf21e42c243965",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421191745,
+            "locality_id":1360222009,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1360222009,
+    "wof:lastmodified":1536747837,
+    "wof:name":"Kaliani",
+    "wof:parent_id":421191745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.98508000000002,
+    23.87431,
+    89.98508000000002,
+    23.87431
+],
+  "geometry": {"coordinates":[89.98508000000002,23.87431],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1310628845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.18453,22.65492,90.18453,22.65492",
+    "geom:latitude":22.65492,
+    "geom:longitude":90.18453,
+    "gn:admin1_code":"85",
+    "gn:admin2_code":"1042",
+    "gn:admin3_code":"104240.0",
+    "gn:admin4_code":"10424057.0",
+    "gn:asciiname":"Ramnagar",
+    "gn:country_code":"BD",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1190014,
+    "gn:latitude":22.65492,
+    "gn:longitude":90.18453,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"R\u0101mnagar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669019,
+        1108694677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1190014
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"e7879f83b9d8afd628c9c870ed0aca80",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694677,
+            "locality_id":1310628845,
+            "region_id":85669019
+        }
+    ],
+    "wof:id":1310628845,
+    "wof:lastmodified":1536739019,
+    "wof:name":"Ramnagar",
+    "wof:parent_id":1108694677,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.18453,
+    22.65492,
+    90.18453,
+    22.65492
+],
+  "geometry": {"coordinates":[90.18453,22.65492],"type":"Point"}
+}

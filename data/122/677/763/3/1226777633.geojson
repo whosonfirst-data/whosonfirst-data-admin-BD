@@ -1,0 +1,73 @@
+{
+  "id": 1226777633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.82228,25.5667,89.82228,25.5667",
+    "geom:latitude":25.5667,
+    "geom:longitude":89.82228,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5549",
+    "gn:admin3_code":"554979.0",
+    "gn:admin4_code":"55497911.0",
+    "gn:asciiname":"Jandirkanda",
+    "gn:country_code":"BD",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7926599,
+    "gn:latitude":25.5667,
+    "gn:longitude":89.82228,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"J\u0101ndirkanda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "J\u0101ndirkanda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7926599
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"a2347d41a0220bf43cab8d64a75c2a32",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694685,
+            "locality_id":1226777633,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1226777633,
+    "wof:lastmodified":1537586830,
+    "wof:name":"Jandirkanda",
+    "wof:parent_id":1108694685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.82228,
+    25.5667,
+    89.82228,
+    25.5667
+],
+  "geometry": {"coordinates":[89.82228000000001,25.5667],"type":"Point"}
+}

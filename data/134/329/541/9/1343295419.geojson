@@ -1,0 +1,70 @@
+{
+  "id": 1343295419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.06547,23.41346,90.06547,23.41346",
+    "geom:latitude":23.41346,
+    "geom:longitude":90.06547,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3029.0",
+    "gn:admin3_code":"302910.0",
+    "gn:admin4_code":"30291079.0",
+    "gn:asciiname":"Duair",
+    "gn:country_code":"BD",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1203825,
+    "gn:latitude":23.41346,
+    "gn:longitude":90.06547,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Du\u0101ir",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421198063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1203825
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"0363533743741eb18dc6326710910586",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421198063,
+            "locality_id":1343295419,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1343295419,
+    "wof:lastmodified":1536983718,
+    "wof:name":"Duair",
+    "wof:parent_id":421198063,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.06546999999998,
+    23.41346,
+    90.06546999999998,
+    23.41346
+],
+  "geometry": {"coordinates":[90.06546999999998,23.41346],"type":"Point"}
+}

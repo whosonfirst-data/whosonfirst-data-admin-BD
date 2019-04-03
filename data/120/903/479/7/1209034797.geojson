@@ -1,0 +1,70 @@
+{
+  "id": 1209034797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.53069,25.84109,89.53069,25.84109",
+    "geom:latitude":25.84109,
+    "geom:longitude":89.53069,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5552",
+    "gn:admin3_code":"555255.0",
+    "gn:admin4_code":"55525583.0",
+    "gn:asciiname":"Panchagram Alabaksa",
+    "gn:country_code":"BD",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1191271,
+    "gn:latitude":25.84109,
+    "gn:longitude":89.53069,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Panchagr\u0101m \u0100l\u0101baksa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Panchagr\u0101m \u0100l\u0101baksa"
+    ],
+    "name:ben_x_variant":[
+        "Panchagr\u0101m"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1191271
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"6690b532ac99022addd490f3721db991",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209034797
+        }
+    ],
+    "wof:id":1209034797,
+    "wof:lastmodified":1537585811,
+    "wof:name":"Panchagram Alabaksa",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.53069,
+    25.84109,
+    89.53069,
+    25.84109
+],
+  "geometry": {"coordinates":[89.53069000000001,25.84109],"type":"Point"}
+}

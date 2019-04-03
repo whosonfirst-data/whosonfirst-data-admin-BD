@@ -1,0 +1,69 @@
+{
+  "id": 1226676257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.73516,23.2597,88.73516,23.2597",
+    "geom:latitude":23.2597,
+    "geom:longitude":88.73516,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4044.0",
+    "gn:admin3_code":"404471.0",
+    "gn:admin4_code":"40447129.0",
+    "gn:asciiname":"Polionpur",
+    "gn:country_code":"BD",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7484302,
+    "gn:latitude":23.2597,
+    "gn:longitude":88.73516,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Polionpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Polionpur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7484302
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"054d13096bc0bd160a61949a996c57e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":-1,
+            "locality_id":1226676257,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1226676257,
+    "wof:lastmodified":1537586561,
+    "wof:name":"Polionpur",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.73516,
+    23.2597,
+    88.73516,
+    23.2597
+],
+  "geometry": {"coordinates":[88.73515999999999,23.2597],"type":"Point"}
+}

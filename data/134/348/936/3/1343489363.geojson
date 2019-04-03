@@ -1,0 +1,73 @@
+{
+  "id": 1343489363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.70757,25.80494,89.70757,25.80494",
+    "geom:latitude":25.80494,
+    "geom:longitude":89.70757,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5549",
+    "gn:admin3_code":"554952.0",
+    "gn:admin4_code":"55495276.0",
+    "gn:asciiname":"Char Sitaijhar",
+    "gn:country_code":"BD",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8537474,
+    "gn:latitude":25.80494,
+    "gn:longitude":89.70757,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Char Sit\u0101ijh\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Char Sit\u0101ijh\u0101r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8537474
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"5bd5598769055a42e270f55a4c35eecc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694685,
+            "locality_id":1343489363,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1343489363,
+    "wof:lastmodified":1537586872,
+    "wof:name":"Char Sitaijhar",
+    "wof:parent_id":1108694685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.70756999999998,
+    25.80494,
+    89.70756999999998,
+    25.80494
+],
+  "geometry": {"coordinates":[89.70756999999998,25.80494],"type":"Point"}
+}

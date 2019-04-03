@@ -1,0 +1,64 @@
+{
+  "id": 1209645213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.66973,23.99729,90.66973,23.99729",
+    "geom:latitude":23.99729,
+    "geom:longitude":90.66973,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3068.0",
+    "gn:admin3_code":"306863.0",
+    "gn:admin4_code":"30686315.0",
+    "gn:asciiname":"Gokulnagar",
+    "gn:country_code":"BD",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1202188,
+    "gn:latitude":23.99729,
+    "gn:longitude":90.66973,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Gokulnagar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1202188
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"d06c2276cada58804d678adb615d4728",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209645213
+        }
+    ],
+    "wof:id":1209645213,
+    "wof:lastmodified":1536280757,
+    "wof:name":"Gokulnagar",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.66973,
+    23.99729,
+    90.66973,
+    23.99729
+],
+  "geometry": {"coordinates":[90.66973,23.99729],"type":"Point"}
+}

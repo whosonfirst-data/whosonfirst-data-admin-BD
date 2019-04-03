@@ -1,0 +1,73 @@
+{
+  "id": 1259411199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.24197,25.23472,89.24197,25.23472",
+    "geom:latitude":25.23472,
+    "geom:longitude":89.24197,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5527.0",
+    "gn:admin3_code":"552743.0",
+    "gn:admin4_code":"55274338.0",
+    "gn:asciiname":"Khodatpur",
+    "gn:country_code":"BD",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7889214,
+    "gn:latitude":25.23472,
+    "gn:longitude":89.24197,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Khodatpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Khodatpur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7889214
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"55f5fbf41c9af640086a1da4884717d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694671,
+            "locality_id":1259411199,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1259411199,
+    "wof:lastmodified":1537586731,
+    "wof:name":"Khodatpur",
+    "wof:parent_id":1108694671,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.24197,
+    25.23472000000001,
+    89.24197,
+    25.23472000000001
+],
+  "geometry": {"coordinates":[89.24196999999999,25.23472000000001],"type":"Point"}
+}

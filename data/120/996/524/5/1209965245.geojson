@@ -1,0 +1,74 @@
+{
+  "id": 1209965245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.9069,23.28238,90.9069,23.28238",
+    "geom:latitude":23.28238,
+    "geom:longitude":90.9069,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2013",
+    "gn:admin3_code":"201349.0",
+    "gn:admin4_code":"20134945.0",
+    "gn:asciiname":"Laokara",
+    "gn:country_code":"BD",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1196164,
+    "gn:latitude":23.28238,
+    "gn:longitude":90.9069,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"L\u0101okara",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Laokora",
+        "L\u0101okara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        1108694669
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1196164
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"a1636fb43ff50c88530c513ae3f58d1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694669,
+            "locality_id":1209965245,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1209965245,
+    "wof:lastmodified":1537585902,
+    "wof:name":"Laokara",
+    "wof:parent_id":1108694669,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.9069,
+    23.28238,
+    90.9069,
+    23.28238
+],
+  "geometry": {"coordinates":[90.90689999999999,23.28238],"type":"Point"}
+}

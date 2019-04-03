@@ -1,0 +1,70 @@
+{
+  "id": 1276800677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.5039,25.16002,89.5039,25.16002",
+    "geom:latitude":25.16002,
+    "geom:longitude":89.5039,
+    "gn:admin1_code":"83",
+    "gn:asciiname":"Maimanthpur",
+    "gn:country_code":"BD",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7905532,
+    "gn:latitude":25.16002,
+    "gn:longitude":89.5039,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Maimanthpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Maimanthpur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7905532
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"af22b1074fa92e0cebced39f0d13c682",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694675,
+            "locality_id":1276800677,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1276800677,
+    "wof:lastmodified":1537586774,
+    "wof:name":"Maimanthpur",
+    "wof:parent_id":1108694675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.5039,
+    25.16002000000001,
+    89.5039,
+    25.16002000000001
+],
+  "geometry": {"coordinates":[89.5039,25.16002000000001],"type":"Point"}
+}

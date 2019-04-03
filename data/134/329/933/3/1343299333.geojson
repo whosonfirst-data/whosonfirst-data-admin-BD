@@ -1,0 +1,73 @@
+{
+  "id": 1343299333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.0809,25.40756,89.0809,25.40756",
+    "geom:latitude":25.40756,
+    "geom:longitude":89.0809,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5527",
+    "gn:admin3_code":"552769.0",
+    "gn:admin4_code":"55276925.0",
+    "gn:asciiname":"Ballavpur",
+    "gn:country_code":"BD",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8064815,
+    "gn:latitude":25.40756,
+    "gn:longitude":89.0809,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Ballavpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Ballavpur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8064815
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"efe74cfc8233b0ea66b16c9793da0345",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694671,
+            "locality_id":1343299333,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1343299333,
+    "wof:lastmodified":1537586849,
+    "wof:name":"Ballavpur",
+    "wof:parent_id":1108694671,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.0809,
+    25.40756,
+    89.0809,
+    25.40756
+],
+  "geometry": {"coordinates":[89.0809,25.40756],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1193055403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.47859,22.66672,89.47859,22.66672",
+    "geom:latitude":22.66672,
+    "geom:longitude":89.47859,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4047.0",
+    "gn:admin3_code":"404712.0",
+    "gn:admin4_code":"40471283.0",
+    "gn:asciiname":"Bandabasti Buna",
+    "gn:country_code":"BD",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1211096,
+    "gn:latitude":22.66672,
+    "gn:longitude":89.47859,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Bandabasti Buna",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        421185473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1211096
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"083e1d6d2b0b24e537869fe34e504d61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421185473,
+            "locality_id":1193055403,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1193055403,
+    "wof:lastmodified":1536383368,
+    "wof:name":"Bandabasti Buna",
+    "wof:parent_id":421185473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.47859,
+    22.66672,
+    89.47859,
+    22.66672
+],
+  "geometry": {"coordinates":[89.47859,22.66672],"type":"Point"}
+}

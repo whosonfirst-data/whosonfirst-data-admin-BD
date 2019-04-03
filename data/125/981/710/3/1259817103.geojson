@@ -1,0 +1,70 @@
+{
+  "id": 1259817103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.7778,22.16836,90.7778,22.16836",
+    "geom:latitude":22.16836,
+    "geom:longitude":90.7778,
+    "gn:admin1_code":"82",
+    "gn:asciiname":"Char Nazimuddin",
+    "gn:country_code":"BD",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7477939,
+    "gn:latitude":22.16836,
+    "gn:longitude":90.7778,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Char N\u0101zimuddin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Char N\u0101zimuddin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669019,
+        421184491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7477939
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"0c099917c6cf8b4e339559e107f2564c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421184491,
+            "locality_id":1259817103,
+            "region_id":85669019
+        }
+    ],
+    "wof:id":1259817103,
+    "wof:lastmodified":1537586379,
+    "wof:name":"Char Nazimuddin",
+    "wof:parent_id":421184491,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.7778,
+    22.16836,
+    90.7778,
+    22.16836
+],
+  "geometry": {"coordinates":[90.7778,22.16836],"type":"Point"}
+}

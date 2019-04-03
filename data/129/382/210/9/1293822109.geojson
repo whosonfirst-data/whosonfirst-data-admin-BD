@@ -1,0 +1,76 @@
+{
+  "id": 1293822109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"92.17063,22.92455,92.17063,22.92455",
+    "geom:latitude":22.92455,
+    "geom:longitude":92.17063,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2084",
+    "gn:admin3_code":"208458.0",
+    "gn:admin4_code":"20845867.0",
+    "gn:asciiname":"Langadu Bazar",
+    "gn:country_code":"BD",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1185180,
+    "gn:latitude":22.92455,
+    "gn:longitude":92.17063,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Langadu B\u0101z\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Langadu B\u0101z\u0101r"
+    ],
+    "name:und_x_variant":[
+        "Langadu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421188983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1185180
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"0efda4c814d401e877b1d00021e7bbd0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421188983,
+            "locality_id":1293822109,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1293822109,
+    "wof:lastmodified":1537585690,
+    "wof:name":"Langadu Bazar",
+    "wof:parent_id":421188983,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    92.17063,
+    22.92455,
+    92.17063,
+    22.92455
+],
+  "geometry": {"coordinates":[92.17063,22.92455],"type":"Point"}
+}

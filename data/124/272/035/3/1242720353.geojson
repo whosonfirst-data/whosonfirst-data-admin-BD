@@ -1,0 +1,70 @@
+{
+  "id": 1242720353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.63333,23.41667,90.63333,23.41667",
+    "geom:latitude":23.41667,
+    "geom:longitude":90.63333,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2013.0",
+    "gn:admin3_code":"201379.0",
+    "gn:admin4_code":"20137969.0",
+    "gn:asciiname":"Dubgi",
+    "gn:country_code":"BD",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1203803,
+    "gn:latitude":23.41667,
+    "gn:longitude":90.63333,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Dubgi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        1108694669
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1203803
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"8f7e0667e756c7547437fb1cf333c4e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694669,
+            "locality_id":1242720353,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1242720353,
+    "wof:lastmodified":1536856986,
+    "wof:name":"Dubgi",
+    "wof:parent_id":1108694669,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.63333,
+    23.41667,
+    90.63333,
+    23.41667
+],
+  "geometry": {"coordinates":[90.63333,23.41667],"type":"Point"}
+}

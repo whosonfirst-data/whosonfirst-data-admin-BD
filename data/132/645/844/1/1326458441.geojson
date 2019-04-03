@@ -1,0 +1,73 @@
+{
+  "id": 1326458441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.57153,22.94828,89.57153,22.94828",
+    "geom:latitude":22.94828,
+    "geom:longitude":89.57153,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4047.0",
+    "gn:admin3_code":"404740.0",
+    "gn:admin4_code":"40474017.0",
+    "gn:asciiname":"Purba Ambaria",
+    "gn:country_code":"BD",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7486286,
+    "gn:latitude":22.94828,
+    "gn:longitude":89.57153,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Purba \u0100mb\u0101ria",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Purba \u0100mb\u0101ria"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        421185473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7486286
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"54348fd5c52cf7fc0c1453c0e01c4b08",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421185473,
+            "locality_id":1326458441,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1326458441,
+    "wof:lastmodified":1537586609,
+    "wof:name":"Purba Ambaria",
+    "wof:parent_id":421185473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.57153000000002,
+    22.94828,
+    89.57153000000002,
+    22.94828
+],
+  "geometry": {"coordinates":[89.57153000000002,22.94828],"type":"Point"}
+}

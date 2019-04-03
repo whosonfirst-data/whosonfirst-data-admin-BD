@@ -1,0 +1,74 @@
+{
+  "id": 1343987959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.0453,24.25761,90.0453,24.25761",
+    "geom:latitude":24.25761,
+    "geom:longitude":90.0453,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3093",
+    "gn:admin3_code":"309309.0",
+    "gn:admin4_code":"30930983.0",
+    "gn:asciiname":"Sharail",
+    "gn:country_code":"BD",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1188345,
+    "gn:latitude":24.25761,
+    "gn:longitude":90.0453,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Shar\u0101il",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shar\u0101il",
+        "Sehar\u0101il"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421185471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1188345
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"0cf9b01716aefee9e14872bedae1faff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421185471,
+            "locality_id":1343987959,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1343987959,
+    "wof:lastmodified":1537585760,
+    "wof:name":"Sharail",
+    "wof:parent_id":421185471,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.0453,
+    24.25761,
+    90.0453,
+    24.25761
+],
+  "geometry": {"coordinates":[90.0453,24.25761],"type":"Point"}
+}

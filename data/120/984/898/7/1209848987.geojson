@@ -1,0 +1,73 @@
+{
+  "id": 1209848987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.70771,25.70297,89.70771,25.70297",
+    "geom:latitude":25.70297,
+    "geom:longitude":89.70771,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5549",
+    "gn:admin3_code":"554994.0",
+    "gn:admin4_code":"55499422.0",
+    "gn:asciiname":"Jalangarkuti",
+    "gn:country_code":"BD",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7926386,
+    "gn:latitude":25.70297,
+    "gn:longitude":89.70771,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Jalang\u0101rkuti",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Jalang\u0101rkuti"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7926386
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"48e24a8a394f68b521cd1b4d4a785ae8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694685,
+            "locality_id":1209848987,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1209848987,
+    "wof:lastmodified":1537586822,
+    "wof:name":"Jalangarkuti",
+    "wof:parent_id":1108694685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.70770999999998,
+    25.70297,
+    89.70770999999998,
+    25.70297
+],
+  "geometry": {"coordinates":[89.70770999999998,25.70297],"type":"Point"}
+}

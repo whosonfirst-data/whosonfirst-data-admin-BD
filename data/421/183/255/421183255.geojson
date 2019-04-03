@@ -1,0 +1,87 @@
+{
+  "id": 421183255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.16943,24.31988,90.16943,24.31988",
+    "geom:latitude":24.31988,
+    "geom:longitude":90.16943,
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Sakhipur"
+    ],
+    "name:swe_x_preferred":[
+        "Sakhipur"
+    ],
+    "qs:gn_country":"BD",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":1189056,
+    "qs:gn_pop":40869,
+    "qs:name":"Sakhipur",
+    "qs:name_adm0":"Bangladesh",
+    "qs:name_adm1":"Dhaka",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":3,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":970066,
+    "qs:woe_adm0":23424759,
+    "qs:woe_id":1911354,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":144,
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421185471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1189056,
+        "gp:id":1911354,
+        "qs:id":970066,
+        "wd:id":"Q21745886"
+    },
+    "wof:country":"BD",
+    "wof:created":1459009363,
+    "wof:geomhash":"4e97c7b2a65e706bfebb25feb5209a2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421185471,
+            "locality_id":421183255,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":421183255,
+    "wof:lastmodified":1527717698,
+    "wof:name":"Sakhipur",
+    "wof:parent_id":421185471,
+    "wof:placetype":"locality",
+    "wof:population":40869,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.16943,
+    24.31988,
+    90.16943,
+    24.31988
+],
+  "geometry": {"coordinates":[90.16943000000001,24.31988],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1260110131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.11668,23.56266,90.11668,23.56266",
+    "geom:latitude":23.56266,
+    "geom:longitude":90.11668,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3029.0",
+    "gn:admin3_code":"302984.0",
+    "gn:admin4_code":"30298476.0",
+    "gn:asciiname":"Char Mujaffarpur",
+    "gn:country_code":"BD",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1206616,
+    "gn:latitude":23.56266,
+    "gn:longitude":90.11668,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Char Muj\u0101ffarpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Char Muzaffarpur",
+        "Char Muj\u0101ffarpur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421187803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1206616
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"c8e4ed393bcb94c7d00a391823af61ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421187803,
+            "locality_id":1260110131,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1260110131,
+    "wof:lastmodified":1537586097,
+    "wof:name":"Char Mujaffarpur",
+    "wof:parent_id":421187803,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.11668,
+    23.56266,
+    90.11668,
+    23.56266
+],
+  "geometry": {"coordinates":[90.11668,23.56266],"type":"Point"}
+}

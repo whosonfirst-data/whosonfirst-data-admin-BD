@@ -1,0 +1,73 @@
+{
+  "id": 1259909905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.18864,23.81929,89.18864,23.81929",
+    "geom:latitude":23.81929,
+    "geom:longitude":89.18864,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4050.0",
+    "gn:admin3_code":"405071.0",
+    "gn:admin4_code":"40507108.0",
+    "gn:asciiname":"Nitaipara",
+    "gn:country_code":"BD",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7485721,
+    "gn:latitude":23.81929,
+    "gn:longitude":89.18864,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Nitaip\u0101ra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Nitaip\u0101ra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        890438075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7485721
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"c95a20458b73b1f00a3c97bbac08be69",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":890438075,
+            "locality_id":1259909905,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1259909905,
+    "wof:lastmodified":1537586598,
+    "wof:name":"Nitaipara",
+    "wof:parent_id":890438075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.18864,
+    23.81929,
+    89.18864,
+    23.81929
+],
+  "geometry": {"coordinates":[89.18864000000001,23.81929],"type":"Point"}
+}

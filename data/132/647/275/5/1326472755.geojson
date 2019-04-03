@@ -1,0 +1,70 @@
+{
+  "id": 1326472755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.04791,23.91459,91.04791,23.91459",
+    "geom:latitude":23.91459,
+    "geom:longitude":91.04791,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2012.0",
+    "gn:admin3_code":"201285.0",
+    "gn:admin4_code":"20128513.0",
+    "gn:asciiname":"Bidyakot",
+    "gn:country_code":"BD",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1208679,
+    "gn:latitude":23.91459,
+    "gn:longitude":91.04791,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Bidy\u0101kot",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        1108694667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1208679
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"9217736e930a6652edc6d7cea1ee48ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694667,
+            "locality_id":1326472755,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1326472755,
+    "wof:lastmodified":1537066839,
+    "wof:name":"Bidyakot",
+    "wof:parent_id":1108694667,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.04791,
+    23.91459,
+    91.04791,
+    23.91459
+],
+  "geometry": {"coordinates":[91.04791,23.91459],"type":"Point"}
+}

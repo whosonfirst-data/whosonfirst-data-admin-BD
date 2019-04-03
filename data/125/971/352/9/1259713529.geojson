@@ -1,0 +1,70 @@
+{
+  "id": 1259713529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.61486,24.17813,90.61486,24.17813",
+    "geom:latitude":24.17813,
+    "geom:longitude":90.61486,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3033.0",
+    "gn:admin3_code":"303336.0",
+    "gn:admin4_code":"30333651.0",
+    "gn:asciiname":"Dighir Kanda",
+    "gn:country_code":"BD",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1203994,
+    "gn:latitude":24.17813,
+    "gn:longitude":90.61486,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Dighir K\u0101nda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421203493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1203994
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"9fa9ac9843a3e16f96607d5c38b8eafe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421203493,
+            "locality_id":1259713529,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1259713529,
+    "wof:lastmodified":1537022903,
+    "wof:name":"Dighir Kanda",
+    "wof:parent_id":421203493,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.61486,
+    24.17813,
+    90.61486,
+    24.17813
+],
+  "geometry": {"coordinates":[90.61485999999999,24.17813],"type":"Point"}
+}

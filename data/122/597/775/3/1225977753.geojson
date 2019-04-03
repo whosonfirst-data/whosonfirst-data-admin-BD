@@ -1,0 +1,74 @@
+{
+  "id": 1225977753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.25345,22.74895,89.25345,22.74895",
+    "geom:latitude":22.74895,
+    "geom:longitude":89.25345,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4087",
+    "gn:admin3_code":"408790.0",
+    "gn:admin4_code":"40879063.0",
+    "gn:asciiname":"Majhiara",
+    "gn:country_code":"BD",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1195341,
+    "gn:latitude":22.74895,
+    "gn:longitude":89.25345,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"M\u0101jhi\u0101ra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Majhui\u0101r\u0101",
+        "M\u0101jhi\u0101ra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        421201927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1195341
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"ae6917cb075183d532c232cafbb10eab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421201927,
+            "locality_id":1225977753,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1225977753,
+    "wof:lastmodified":1537585885,
+    "wof:name":"Majhiara",
+    "wof:parent_id":421201927,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.25345,
+    22.74895,
+    89.25345,
+    22.74895
+],
+  "geometry": {"coordinates":[89.25345,22.74895],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1226291209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.9,23.2,90.9,23.2",
+    "geom:latitude":23.2,
+    "geom:longitude":90.9,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2013",
+    "gn:admin3_code":"201349.0",
+    "gn:admin4_code":"20134925.0",
+    "gn:asciiname":"Khaskhasia",
+    "gn:country_code":"BD",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1197481,
+    "gn:latitude":23.2,
+    "gn:longitude":90.9,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Khaskhasia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        1108694669
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1197481
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"ca1129dd1417f9f8eec03f2ac11784f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694669,
+            "locality_id":1226291209,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1226291209,
+    "wof:lastmodified":1536867001,
+    "wof:name":"Khaskhasia",
+    "wof:parent_id":1108694669,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.9,
+    23.2,
+    90.9,
+    23.2
+],
+  "geometry": {"coordinates":[90.90000000000001,23.2],"type":"Point"}
+}

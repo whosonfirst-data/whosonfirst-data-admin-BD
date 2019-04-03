@@ -1,0 +1,73 @@
+{
+  "id": 1310135799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.67044,22.8033,89.67044,22.8033",
+    "geom:latitude":22.8033,
+    "geom:longitude":89.67044,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4047.0",
+    "gn:admin3_code":"404775.0",
+    "gn:admin4_code":"40477527.0",
+    "gn:asciiname":"Ghatbhog",
+    "gn:country_code":"BD",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1202624,
+    "gn:latitude":22.8033,
+    "gn:longitude":89.67044,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Gh\u0101tbhog",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Gh\u0101tbhog"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        421185473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1202624
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"1766abe9e50ab2b335883718639a9517",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421185473,
+            "locality_id":1310135799,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1310135799,
+    "wof:lastmodified":1537586020,
+    "wof:name":"Ghatbhog",
+    "wof:parent_id":421185473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.67044,
+    22.8033,
+    89.67044,
+    22.8033
+],
+  "geometry": {"coordinates":[89.67044,22.8033],"type":"Point"}
+}

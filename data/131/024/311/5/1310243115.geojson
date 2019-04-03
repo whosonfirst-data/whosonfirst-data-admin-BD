@@ -1,0 +1,75 @@
+{
+  "id": 1310243115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.03333,23.38333,91.03333,23.38333",
+    "geom:latitude":23.38333,
+    "geom:longitude":91.03333,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2019",
+    "gn:admin3_code":"201909.0",
+    "gn:admin4_code":"20190931.0",
+    "gn:asciiname":"Khagua",
+    "gn:cc2":"BD",
+    "gn:country_code":"BD",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1197798,
+    "gn:latitude":23.38333,
+    "gn:longitude":91.03333,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Khagua",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Khugua",
+        "Khagua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421187801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1197798
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"d5d519ce01d1a7e32a450f6467a3896f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421187801,
+            "locality_id":1310243115,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1310243115,
+    "wof:lastmodified":1537585932,
+    "wof:name":"Khagua",
+    "wof:parent_id":421187801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.03333,
+    23.38333,
+    91.03333,
+    23.38333
+],
+  "geometry": {"coordinates":[91.03333000000001,23.38333],"type":"Point"}
+}

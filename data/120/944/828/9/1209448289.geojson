@@ -1,0 +1,64 @@
+{
+  "id": 1209448289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.48158,22.55385,89.48158,22.55385",
+    "geom:latitude":22.55385,
+    "geom:longitude":89.48158,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4047",
+    "gn:admin3_code":"404717.0",
+    "gn:admin4_code":"40471763.0",
+    "gn:asciiname":"Kamarkhola",
+    "gn:country_code":"BD",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1198812,
+    "gn:latitude":22.55385,
+    "gn:longitude":89.48158,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"K\u0101m\u0101rkhola",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1198812
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"6626957f71fb40f4de1e2ba0219c8b24",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209448289
+        }
+    ],
+    "wof:id":1209448289,
+    "wof:lastmodified":1536286749,
+    "wof:name":"Kamarkhola",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.48158000000002,
+    22.55385,
+    89.48158000000002,
+    22.55385
+],
+  "geometry": {"coordinates":[89.48158000000002,22.55385],"type":"Point"}
+}

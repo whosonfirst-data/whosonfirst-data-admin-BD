@@ -1,0 +1,70 @@
+{
+  "id": 1242808167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.93599,23.29131,89.93599,23.29131",
+    "geom:latitude":23.29131,
+    "geom:longitude":89.93599,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3035.0",
+    "gn:admin3_code":"303558.0",
+    "gn:admin4_code":"30355867.0",
+    "gn:asciiname":"Aikdia",
+    "gn:country_code":"BD",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1213155,
+    "gn:latitude":23.29131,
+    "gn:longitude":89.93599,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"\u0100ikdia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421194867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1213155
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"dd4c962f53801ac90c5b0129901813ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421194867,
+            "locality_id":1242808167,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1242808167,
+    "wof:lastmodified":1536731958,
+    "wof:name":"Aikdia",
+    "wof:parent_id":421194867,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.93599,
+    23.29131,
+    89.93599,
+    23.29131
+],
+  "geometry": {"coordinates":[89.93599,23.29131],"type":"Point"}
+}

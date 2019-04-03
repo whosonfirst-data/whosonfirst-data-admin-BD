@@ -1,0 +1,73 @@
+{
+  "id": 1327476089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.75937,22.46088,91.75937,22.46088",
+    "geom:latitude":22.46088,
+    "geom:longitude":91.75937,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2015.0",
+    "gn:admin3_code":"201586.0",
+    "gn:admin4_code":"20158685.0",
+    "gn:asciiname":"Duluchara",
+    "gn:country_code":"BD",
+    "gn:dem":51,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6413881,
+    "gn:latitude":22.46088,
+    "gn:longitude":91.75937,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Duluchara",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Duluchara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421201541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6413881
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"dd93669fc40cfe3a7343fe5a75af5328",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421201541,
+            "locality_id":1327476089,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1327476089,
+    "wof:lastmodified":1537586217,
+    "wof:name":"Duluchara",
+    "wof:parent_id":421201541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.75937,
+    22.46088,
+    91.75937,
+    22.46088
+],
+  "geometry": {"coordinates":[91.75937,22.46088],"type":"Point"}
+}

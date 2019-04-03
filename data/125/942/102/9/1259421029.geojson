@@ -1,0 +1,73 @@
+{
+  "id": 1259421029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.96278,22.10189,91.96278,22.10189",
+    "geom:latitude":22.10189,
+    "geom:longitude":91.96278,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2015.0",
+    "gn:admin3_code":"201582.0",
+    "gn:admin4_code":"20158214.0",
+    "gn:asciiname":"Haluaghona",
+    "gn:country_code":"BD",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6415356,
+    "gn:latitude":22.10189,
+    "gn:longitude":91.96278,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"H\u0101lu\u0101ghona",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "H\u0101lu\u0101ghona"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421201541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6415356
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"78100477d363dbc4d3905cfd0171ccc4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421201541,
+            "locality_id":1259421029,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1259421029,
+    "wof:lastmodified":1537586243,
+    "wof:name":"Haluaghona",
+    "wof:parent_id":421201541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.96278,
+    22.10189,
+    91.96278,
+    22.10189
+],
+  "geometry": {"coordinates":[91.96278,22.10189],"type":"Point"}
+}

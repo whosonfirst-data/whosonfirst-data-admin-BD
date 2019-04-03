@@ -1,0 +1,73 @@
+{
+  "id": 1343991201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.95033,23.61868,88.95033,23.61868",
+    "geom:latitude":23.61868,
+    "geom:longitude":88.95033,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4018.0",
+    "gn:admin3_code":"401823.0",
+    "gn:admin4_code":"40182347.0",
+    "gn:asciiname":"Dattail",
+    "gn:country_code":"BD",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7484845,
+    "gn:latitude":23.61868,
+    "gn:longitude":88.95033,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Datt\u0101il",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Datt\u0101il"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        421194153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7484845
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"19c4f8da254088a78aedb85259e98062",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421194153,
+            "locality_id":1343991201,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1343991201,
+    "wof:lastmodified":1537586575,
+    "wof:name":"Dattail",
+    "wof:parent_id":421194153,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.95033000000002,
+    23.61868,
+    88.95033000000002,
+    23.61868
+],
+  "geometry": {"coordinates":[88.95033000000002,23.61868],"type":"Point"}
+}

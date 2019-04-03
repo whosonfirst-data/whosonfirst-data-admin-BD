@@ -1,0 +1,73 @@
+{
+  "id": 1243587203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.55361,23.11944,89.55361,23.11944",
+    "geom:latitude":23.11944,
+    "geom:longitude":89.55361,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4065.0",
+    "gn:admin3_code":"406576.0",
+    "gn:admin4_code":"40657613.0",
+    "gn:asciiname":"Bagura",
+    "gn:country_code":"BD",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7480396,
+    "gn:latitude":23.11944,
+    "gn:longitude":89.55361,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Bagura",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Bagura"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        421205213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7480396
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"84fb89ece8f54f7a143df73c92245fe4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421205213,
+            "locality_id":1243587203,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1243587203,
+    "wof:lastmodified":1537586448,
+    "wof:name":"Bagura",
+    "wof:parent_id":421205213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.55360999999998,
+    23.11944,
+    89.55360999999998,
+    23.11944
+],
+  "geometry": {"coordinates":[89.55360999999998,23.11944],"type":"Point"}
+}

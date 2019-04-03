@@ -1,0 +1,73 @@
+{
+  "id": 1344086567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.70835,22.7659,89.70835,22.7659",
+    "geom:latitude":22.7659,
+    "geom:longitude":89.70835,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4001.0",
+    "gn:admin3_code":"400134.0",
+    "gn:admin4_code":"40013431.0",
+    "gn:asciiname":"Attaki",
+    "gn:country_code":"BD",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1212260,
+    "gn:latitude":22.7659,
+    "gn:longitude":89.70835,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"\u0100tt\u0101ki",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "\u0100tt\u0101ki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        421187747
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1212260
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"7895f7188c5a077de5789ad0e721d38d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421187747,
+            "locality_id":1344086567,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1344086567,
+    "wof:lastmodified":1537586192,
+    "wof:name":"Attaki",
+    "wof:parent_id":421187747,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.70835,
+    22.7659,
+    89.70835,
+    22.7659
+],
+  "geometry": {"coordinates":[89.70835,22.7659],"type":"Point"}
+}

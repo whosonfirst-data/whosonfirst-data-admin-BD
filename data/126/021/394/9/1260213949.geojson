@@ -1,0 +1,66 @@
+{
+  "id": 1260213949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.40865,22.15449,90.40865,22.15449",
+    "geom:latitude":22.15449,
+    "geom:longitude":90.40865,
+    "gn:admin1_code":"82",
+    "gn:asciiname":"Panchkhali",
+    "gn:country_code":"BD",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7478681,
+    "gn:latitude":22.15449,
+    "gn:longitude":90.40865,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"P\u0101nchkh\u0101li",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "P\u0101nchkh\u0101li"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7478681
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"0ed196ac334bdee0b0dce37064b71af2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":-1,
+            "locality_id":1260213949,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1260213949,
+    "wof:lastmodified":1537586398,
+    "wof:name":"Panchkhali",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.40865,
+    22.15449,
+    90.40865,
+    22.15449
+],
+  "geometry": {"coordinates":[90.40864999999999,22.15449],"type":"Point"}
+}

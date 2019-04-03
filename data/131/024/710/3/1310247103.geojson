@@ -1,0 +1,73 @@
+{
+  "id": 1310247103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.43333,23.11667,91.43333,23.11667",
+    "geom:latitude":23.11667,
+    "geom:longitude":91.43333,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2030",
+    "gn:admin3_code":"203095.0",
+    "gn:admin4_code":"20309581.0",
+    "gn:asciiname":"Sripur",
+    "gn:country_code":"BD",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1191778,
+    "gn:latitude":23.11667,
+    "gn:longitude":91.43333,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Sripur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "North Sr\u012bpur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421181771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1191778
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"ccd3f2db1bffb4cfc838fe7642dc8c17",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421181771,
+            "locality_id":1310247103,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1310247103,
+    "wof:lastmodified":1537585820,
+    "wof:name":"Sripur",
+    "wof:parent_id":421181771,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.43333,
+    23.11667000000001,
+    91.43333,
+    23.11667000000001
+],
+  "geometry": {"coordinates":[91.43333,23.11667000000001],"type":"Point"}
+}

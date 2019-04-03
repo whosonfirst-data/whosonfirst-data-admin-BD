@@ -1,0 +1,74 @@
+{
+  "id": 1326963775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.06113,25.61752,89.06113,25.61752",
+    "geom:latitude":25.61752,
+    "geom:longitude":89.06113,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5585",
+    "gn:admin3_code":"558503.0",
+    "gn:admin4_code":"55850318.0",
+    "gn:asciiname":"Osmanpur",
+    "gn:country_code":"BD",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1191678,
+    "gn:latitude":25.61752,
+    "gn:longitude":89.06113,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Osm\u0101npur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Oosmanpoor",
+        "Osm\u0101npur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1191678
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"77ad2c1c6c1ed03ad999c6780d60d024",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694701,
+            "locality_id":1326963775,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1326963775,
+    "wof:lastmodified":1537585818,
+    "wof:name":"Osmanpur",
+    "wof:parent_id":1108694701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.06113,
+    25.61752000000001,
+    89.06113,
+    25.61752000000001
+],
+  "geometry": {"coordinates":[89.06113000000001,25.61752000000001],"type":"Point"}
+}

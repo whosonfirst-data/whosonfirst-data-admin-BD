@@ -1,0 +1,70 @@
+{
+  "id": 1293234019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.29745,22.00953,90.29745,22.00953",
+    "geom:latitude":22.00953,
+    "geom:longitude":90.29745,
+    "gn:admin1_code":"82",
+    "gn:asciiname":"Machhuakhali",
+    "gn:country_code":"BD",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7478611,
+    "gn:latitude":22.00953,
+    "gn:longitude":90.29745,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"M\u0101chhu\u0101khali",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "M\u0101chhu\u0101khali"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669019,
+        421169845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7478611
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"ce6a966dcfa5164c3ceed4a7d2e08075",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421169845,
+            "locality_id":1293234019,
+            "region_id":85669019
+        }
+    ],
+    "wof:id":1293234019,
+    "wof:lastmodified":1537586396,
+    "wof:name":"Machhuakhali",
+    "wof:parent_id":421169845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.29745,
+    22.00953,
+    90.29745,
+    22.00953
+],
+  "geometry": {"coordinates":[90.29745,22.00953],"type":"Point"}
+}

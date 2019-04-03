@@ -1,0 +1,75 @@
+{
+  "id": 1360226989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.16667,22.81667,91.16667,22.81667",
+    "geom:latitude":22.81667,
+    "geom:longitude":91.16667,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2075",
+    "gn:admin3_code":"207589.0",
+    "gn:admin4_code":"20758995.0",
+    "gn:asciiname":"Purba Rajurgaon",
+    "gn:cc2":"BD",
+    "gn:country_code":"BD",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1190709,
+    "gn:latitude":22.81667,
+    "gn:longitude":91.16667,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Purba R\u0101jurgaon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "East Rajurgaon",
+        "Purba R\u0101jurgaon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421177051
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1190709
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"f0f55bdbd5611ab21d010843fd0e54c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421177051,
+            "locality_id":1360226989,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1360226989,
+    "wof:lastmodified":1537585800,
+    "wof:name":"Purba Rajurgaon",
+    "wof:parent_id":421177051,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.16667,
+    22.81667,
+    91.16667,
+    22.81667
+],
+  "geometry": {"coordinates":[91.16667,22.81667],"type":"Point"}
+}

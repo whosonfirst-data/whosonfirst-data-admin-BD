@@ -1,0 +1,74 @@
+{
+  "id": 1209748955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.96376,24.81723,90.96376,24.81723",
+    "geom:latitude":24.81723,
+    "geom:longitude":90.96376,
+    "gn:admin1_code":"H",
+    "gn:admin2_code":"3072",
+    "gn:admin3_code":"307263.0",
+    "gn:admin4_code":"30726363.0",
+    "gn:asciiname":"Jabakhall",
+    "gn:country_code":"BD",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1200642,
+    "gn:latitude":24.81723,
+    "gn:longitude":90.96376,
+    "gn:modification_date":"2016-11-17",
+    "gn:name":"J\u0101b\u0101kh\u0101ll",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "J\u0101b\u0101kh\u0101ll",
+        "J\u0101b\u0101kh\u0101li"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        1108803101,
+        421200811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1200642
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"dd8c541641dfa8f8dd34f35d8076e44c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421200811,
+            "locality_id":1209748955,
+            "region_id":1108803101
+        }
+    ],
+    "wof:id":1209748955,
+    "wof:lastmodified":1537585983,
+    "wof:name":"Jabakhall",
+    "wof:parent_id":421200811,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.96376,
+    24.81723,
+    90.96376,
+    24.81723
+],
+  "geometry": {"coordinates":[90.96375999999999,24.81723],"type":"Point"}
+}

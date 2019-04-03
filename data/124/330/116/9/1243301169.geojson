@@ -1,0 +1,70 @@
+{
+  "id": 1243301169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.14626,22.6288,90.14626,22.6288",
+    "geom:latitude":22.6288,
+    "geom:longitude":90.14626,
+    "gn:admin1_code":"85",
+    "gn:admin2_code":"1042.0",
+    "gn:admin3_code":"104240.0",
+    "gn:admin4_code":"10424028.0",
+    "gn:asciiname":"Binnapara",
+    "gn:country_code":"BD",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1208473,
+    "gn:latitude":22.6288,
+    "gn:longitude":90.14626,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Binn\u0101p\u0101ra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669019,
+        1108694677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1208473
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"53852877f66fd73bf717628274f911a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694677,
+            "locality_id":1243301169,
+            "region_id":85669019
+        }
+    ],
+    "wof:id":1243301169,
+    "wof:lastmodified":1537014132,
+    "wof:name":"Binnapara",
+    "wof:parent_id":1108694677,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.14626,
+    22.6288,
+    90.14626,
+    22.6288
+],
+  "geometry": {"coordinates":[90.14626,22.6288],"type":"Point"}
+}

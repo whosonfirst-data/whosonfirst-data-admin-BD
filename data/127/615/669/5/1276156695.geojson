@@ -1,0 +1,73 @@
+{
+  "id": 1276156695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.08156,23.74747,89.08156,23.74747",
+    "geom:latitude":23.74747,
+    "geom:longitude":89.08156,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4044.0",
+    "gn:admin3_code":"404414.0",
+    "gn:admin4_code":"40441410.0",
+    "gn:asciiname":"Do Bila",
+    "gn:country_code":"BD",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7478224,
+    "gn:latitude":23.74747,
+    "gn:longitude":89.08156,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Do Bila",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Do Bila"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        1108694679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7478224
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"24d752a4d42dd2ecbba9c7ed59e4f9ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694679,
+            "locality_id":1276156695,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1276156695,
+    "wof:lastmodified":1537586386,
+    "wof:name":"Do Bila",
+    "wof:parent_id":1108694679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.08156,
+    23.74747,
+    89.08156,
+    23.74747
+],
+  "geometry": {"coordinates":[89.08156,23.74747],"type":"Point"}
+}

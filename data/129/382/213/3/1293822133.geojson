@@ -1,0 +1,70 @@
+{
+  "id": 1293822133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"92.15715,23.08295,92.15715,23.08295",
+    "geom:latitude":23.08295,
+    "geom:longitude":92.15715,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2084",
+    "gn:admin3_code":"208458.0",
+    "gn:admin4_code":"20845813.0",
+    "gn:asciiname":"Rengkarjya",
+    "gn:country_code":"BD",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1189564,
+    "gn:latitude":23.08295,
+    "gn:longitude":92.15715,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Rengkarjya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421188983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1189564
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"1463ec187a09ad3540fc20db99dcfc1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421188983,
+            "locality_id":1293822133,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1293822133,
+    "wof:lastmodified":1536801740,
+    "wof:name":"Rengkarjya",
+    "wof:parent_id":421188983,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    92.15715,
+    23.08295,
+    92.15715,
+    23.08295
+],
+  "geometry": {"coordinates":[92.15715,23.08295],"type":"Point"}
+}

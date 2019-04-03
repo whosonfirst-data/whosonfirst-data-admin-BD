@@ -1,0 +1,67 @@
+{
+  "id": 1243273891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.69631,24.16232,88.69631,24.16232",
+    "geom:latitude":24.16232,
+    "geom:longitude":88.69631,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Muradpur Diar",
+    "gn:country_code":"BD",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1193925,
+    "gn:latitude":24.16232,
+    "gn:longitude":88.69631,
+    "gn:modification_date":"2012-12-05",
+    "gn:name":"Mur\u0101dpur Di\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632469,
+        85672219,
+        890511015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1193925
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"9a307c9613a9e668c1ab3de23610d698",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":890511015,
+            "locality_id":1243273891,
+            "region_id":85672219
+        }
+    ],
+    "wof:id":1243273891,
+    "wof:lastmodified":1537051986,
+    "wof:name":"Muradpur Diar",
+    "wof:parent_id":890511015,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.69631,
+    24.16232,
+    88.69631,
+    24.16232
+],
+  "geometry": {"coordinates":[88.69631,24.16232],"type":"Point"}
+}

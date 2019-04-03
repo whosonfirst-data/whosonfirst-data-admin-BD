@@ -1,0 +1,73 @@
+{
+  "id": 1309939331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.94145,24.50685,89.94145,24.50685",
+    "geom:latitude":24.50685,
+    "geom:longitude":89.94145,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3093",
+    "gn:admin3_code":"309338.0",
+    "gn:admin4_code":"30933880.0",
+    "gn:asciiname":"Mohonpur",
+    "gn:country_code":"BD",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1194196,
+    "gn:latitude":24.50685,
+    "gn:longitude":89.94145,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Mohonpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mohanpur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421185471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1194196
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"dec4745e09ef8104c2b9e2760ef0212c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421185471,
+            "locality_id":1309939331,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1309939331,
+    "wof:lastmodified":1537585865,
+    "wof:name":"Mohonpur",
+    "wof:parent_id":421185471,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.94145,
+    24.50685,
+    89.94145,
+    24.50685
+],
+  "geometry": {"coordinates":[89.94145,24.50685],"type":"Point"}
+}

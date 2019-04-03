@@ -1,0 +1,74 @@
+{
+  "id": 1276150767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.75957,24.65094,88.75957,24.65094",
+    "geom:latitude":24.65094,
+    "geom:longitude":88.75957,
+    "gn:admin1_code":"83",
+    "gn:admin2_code":"5081",
+    "gn:admin3_code":"508112.0",
+    "gn:admin4_code":"50811282.0",
+    "gn:asciiname":"Ramjanpara",
+    "gn:country_code":"BD",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1190068,
+    "gn:latitude":24.65094,
+    "gn:longitude":88.75957,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Ramj\u0101np\u0101ra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ramjanpur",
+        "Ramj\u0101np\u0101ra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669031,
+        421172439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1190068
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"63c979dcb111518c6a0254da147dd813",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421172439,
+            "locality_id":1276150767,
+            "region_id":85669031
+        }
+    ],
+    "wof:id":1276150767,
+    "wof:lastmodified":1537585791,
+    "wof:name":"Ramjanpara",
+    "wof:parent_id":421172439,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.75957,
+    24.65094,
+    88.75957,
+    24.65094
+],
+  "geometry": {"coordinates":[88.75957,24.65094],"type":"Point"}
+}

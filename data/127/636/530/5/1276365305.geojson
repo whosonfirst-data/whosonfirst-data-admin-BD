@@ -1,0 +1,70 @@
+{
+  "id": 1276365305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.37992,25.55431,89.37992,25.55431",
+    "geom:latitude":25.55431,
+    "geom:longitude":89.37992,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5585",
+    "gn:admin3_code":"558558.0",
+    "gn:admin4_code":"55855878.0",
+    "gn:asciiname":"Buzruk Narpur",
+    "gn:country_code":"BD",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7889999,
+    "gn:latitude":25.55431,
+    "gn:longitude":89.37992,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Buzruk N\u0101rpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7889999
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"9098d802f0255bbbce0334c78ccc8725",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694701,
+            "locality_id":1276365305,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1276365305,
+    "wof:lastmodified":1536735895,
+    "wof:name":"Buzruk Narpur",
+    "wof:parent_id":1108694701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.37992,
+    25.55431,
+    89.37992,
+    25.55431
+],
+  "geometry": {"coordinates":[89.37992,25.55431],"type":"Point"}
+}

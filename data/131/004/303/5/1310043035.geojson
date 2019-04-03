@@ -1,0 +1,70 @@
+{
+  "id": 1310043035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.23726,23.93141,90.23726,23.93141",
+    "geom:latitude":23.93141,
+    "geom:longitude":90.23726,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3026.0",
+    "gn:admin3_code":"302672.0",
+    "gn:admin4_code":"30267272.0",
+    "gn:asciiname":"Hatubhanga",
+    "gn:country_code":"BD",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1201161,
+    "gn:latitude":23.93141,
+    "gn:longitude":90.23726,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"H\u0101tubh\u0101nga",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421187803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1201161
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"b9337c2b5c76ea17850f9ff12e76d346",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421187803,
+            "locality_id":1310043035,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1310043035,
+    "wof:lastmodified":1537083256,
+    "wof:name":"Hatubhanga",
+    "wof:parent_id":421187803,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.23726,
+    23.93141,
+    90.23726,
+    23.93141
+],
+  "geometry": {"coordinates":[90.23726000000001,23.93141],"type":"Point"}
+}

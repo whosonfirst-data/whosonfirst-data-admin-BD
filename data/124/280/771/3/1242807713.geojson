@@ -1,0 +1,83 @@
+{
+  "id": 1242807713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.73765,23.95782,88.73765,23.95782",
+    "geom:latitude":23.95782,
+    "geom:longitude":88.73765,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4057.0",
+    "gn:admin3_code":"405747.0",
+    "gn:admin4_code":"40574752.0",
+    "gn:asciiname":"Phalbari",
+    "gn:country_code":"BD",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7484154,
+    "gn:latitude":23.95782,
+    "gn:longitude":88.73765,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Phalbari",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Phalbari"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        421191661,
+        85632469,
+        85672219,
+        1108696075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7484154
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"b64646d41845cbe2db3b018b14e4775a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421191661,
+            "locality_id":1242807713,
+            "region_id":85669015
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108696075,
+            "locality_id":1242807713,
+            "region_id":85672219
+        }
+    ],
+    "wof:id":1242807713,
+    "wof:lastmodified":1537586557,
+    "wof:name":"Phalbari",
+    "wof:parent_id":-4,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.73765,
+    23.95782,
+    88.73765,
+    23.95782
+],
+  "geometry": {"coordinates":[88.73765,23.95782],"type":"Point"}
+}

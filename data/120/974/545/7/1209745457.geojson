@@ -1,0 +1,73 @@
+{
+  "id": 1209745457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.91929,23.87142,88.91929,23.87142",
+    "geom:latitude":23.87142,
+    "geom:longitude":88.91929,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4050.0",
+    "gn:admin3_code":"405094.0",
+    "gn:admin4_code":"40509487.0",
+    "gn:asciiname":"Chaudhuripara",
+    "gn:country_code":"BD",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7484508,
+    "gn:latitude":23.87142,
+    "gn:longitude":88.91929,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Chaudhurip\u0101ra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Chaudhurip\u0101ra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        890438075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7484508
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"a4a395249d3e1308636c3664692d39b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":890438075,
+            "locality_id":1209745457,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1209745457,
+    "wof:lastmodified":1537586566,
+    "wof:name":"Chaudhuripara",
+    "wof:parent_id":890438075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.91929,
+    23.87142,
+    88.91929,
+    23.87142
+],
+  "geometry": {"coordinates":[88.91929,23.87142],"type":"Point"}
+}

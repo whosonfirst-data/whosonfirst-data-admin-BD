@@ -1,0 +1,64 @@
+{
+  "id": 1209242823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.40199,25.53025,89.40199,25.53025",
+    "geom:latitude":25.53025,
+    "geom:longitude":89.40199,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5585",
+    "gn:admin3_code":"558558.0",
+    "gn:admin4_code":"55855844.0",
+    "gn:asciiname":"Katitala",
+    "gn:country_code":"BD",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7890179,
+    "gn:latitude":25.53025,
+    "gn:longitude":89.40199,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Katitala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7890179
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"ee4984221ddb819a55d34427c54a16d1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209242823
+        }
+    ],
+    "wof:id":1209242823,
+    "wof:lastmodified":1536293263,
+    "wof:name":"Katitala",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.40199,
+    25.53025,
+    89.40199,
+    25.53025
+],
+  "geometry": {"coordinates":[89.40199,25.53025],"type":"Point"}
+}

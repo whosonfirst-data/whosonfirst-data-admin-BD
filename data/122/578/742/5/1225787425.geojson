@@ -1,0 +1,70 @@
+{
+  "id": 1225787425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.78629,23.30195,90.78629,23.30195",
+    "geom:latitude":23.30195,
+    "geom:longitude":90.78629,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2013",
+    "gn:admin3_code":"201349.0",
+    "gn:admin4_code":"20134975.0",
+    "gn:asciiname":"Kirtankhola",
+    "gn:country_code":"BD",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1197196,
+    "gn:latitude":23.30195,
+    "gn:longitude":90.78629,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Kirtankhola",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        1108694669
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1197196
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"7e3ec5559ae024109e50606adf1fc688",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694669,
+            "locality_id":1225787425,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1225787425,
+    "wof:lastmodified":1537094631,
+    "wof:name":"Kirtankhola",
+    "wof:parent_id":1108694669,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.78629,
+    23.30195,
+    90.78629,
+    23.30195
+],
+  "geometry": {"coordinates":[90.78628999999999,23.30195],"type":"Point"}
+}

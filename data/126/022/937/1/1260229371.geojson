@@ -1,0 +1,70 @@
+{
+  "id": 1260229371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.70861,22.74361,91.70861,22.74361",
+    "geom:latitude":22.74361,
+    "geom:longitude":91.70861,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2015.0",
+    "gn:admin3_code":"201533.0",
+    "gn:admin4_code":"20153342.0",
+    "gn:asciiname":"Harwalchhari",
+    "gn:country_code":"BD",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1462680,
+    "gn:latitude":22.74361,
+    "gn:longitude":91.70861,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Harwalchhari",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421201541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1462680
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"30d290c88b27cae212b3229881268a6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421201541,
+            "locality_id":1260229371,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1260229371,
+    "wof:lastmodified":1536785973,
+    "wof:name":"Harwalchhari",
+    "wof:parent_id":421201541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.70861,
+    22.74361,
+    91.70861,
+    22.74361
+],
+  "geometry": {"coordinates":[91.70860999999999,22.74361],"type":"Point"}
+}

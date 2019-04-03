@@ -1,0 +1,67 @@
+{
+  "id": 1209653437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.92129,22.52523,91.92129,22.52523",
+    "geom:latitude":22.52523,
+    "geom:longitude":91.92129,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2015.0",
+    "gn:admin3_code":"201574.0",
+    "gn:admin4_code":"20157482.0",
+    "gn:asciiname":"Hajipara",
+    "gn:country_code":"BD",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6414477,
+    "gn:latitude":22.52523,
+    "gn:longitude":91.92129,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"H\u0101jip\u0101ra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "H\u0101jip\u0101ra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6414477
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"04d6d35652c1b926e7684024a030250f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209653437
+        }
+    ],
+    "wof:id":1209653437,
+    "wof:lastmodified":1537586228,
+    "wof:name":"Hajipara",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.92129,
+    22.52523,
+    91.92129,
+    22.52523
+],
+  "geometry": {"coordinates":[91.92129,22.52523],"type":"Point"}
+}

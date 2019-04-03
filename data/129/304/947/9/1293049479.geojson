@@ -1,0 +1,70 @@
+{
+  "id": 1293049479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.86038,23.0339,90.86038,23.0339",
+    "geom:latitude":23.0339,
+    "geom:longitude":90.86038,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2051",
+    "gn:admin3_code":"205165.0",
+    "gn:admin4_code":"20516547.0",
+    "gn:asciiname":"Kalikapur",
+    "gn:country_code":"BD",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1199105,
+    "gn:latitude":23.0339,
+    "gn:longitude":90.86038,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"K\u0101lik\u0101pur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421166521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1199105
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"bfbf37bbfe44ef5b4c2a890fde4bd015",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421166521,
+            "locality_id":1293049479,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1293049479,
+    "wof:lastmodified":1536922435,
+    "wof:name":"Kalikapur",
+    "wof:parent_id":421166521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.86038,
+    23.0339,
+    90.86038,
+    23.0339
+],
+  "geometry": {"coordinates":[90.86038000000001,23.0339],"type":"Point"}
+}

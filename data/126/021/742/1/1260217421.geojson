@@ -1,0 +1,83 @@
+{
+  "id": 1260217421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.76157,23.4136,88.76157,23.4136",
+    "geom:latitude":23.4136,
+    "geom:longitude":88.76157,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4018.0",
+    "gn:admin3_code":"401855.0",
+    "gn:admin4_code":"40185557.0",
+    "gn:asciiname":"Medinipur",
+    "gn:country_code":"BD",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7484949,
+    "gn:latitude":23.4136,
+    "gn:longitude":88.76157,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Medinipur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Medinipur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632469,
+        85672219,
+        1108696075,
+        85632475,
+        85669015,
+        421194153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7484949
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"6727abb4c954ea49a63092b8f3844772",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108696075,
+            "locality_id":1260217421,
+            "region_id":85672219
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421194153,
+            "locality_id":1260217421,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1260217421,
+    "wof:lastmodified":1537586578,
+    "wof:name":"Medinipur",
+    "wof:parent_id":-4,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.76156999999998,
+    23.4136,
+    88.76156999999998,
+    23.4136
+],
+  "geometry": {"coordinates":[88.76156999999998,23.4136],"type":"Point"}
+}

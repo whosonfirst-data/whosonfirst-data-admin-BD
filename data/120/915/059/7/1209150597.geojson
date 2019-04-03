@@ -1,0 +1,68 @@
+{
+  "id": 1209150597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.90589,22.85938,90.90589,22.85938",
+    "geom:latitude":22.85938,
+    "geom:longitude":90.90589,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2051.0",
+    "gn:admin3_code":"205143.0",
+    "gn:admin4_code":"20514355.0",
+    "gn:asciiname":"Farashganj",
+    "gn:country_code":"BD",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1203356,
+    "gn:latitude":22.85938,
+    "gn:longitude":90.90589,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Far\u0101shganj",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Far\u0101shganj"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1203356,
+        "wk:page":"Farashganj"
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"c250671ab0380d986328591fa9933989",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209150597
+        }
+    ],
+    "wof:id":1209150597,
+    "wof:lastmodified":1537586035,
+    "wof:name":"Farashganj",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.90589,
+    22.85938,
+    90.90589,
+    22.85938
+],
+  "geometry": {"coordinates":[90.90589,22.85938],"type":"Point"}
+}

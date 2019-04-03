@@ -1,0 +1,75 @@
+{
+  "id": 1209552827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.60661,25.92917,89.60661,25.92917",
+    "geom:latitude":25.92917,
+    "geom:longitude":89.60661,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5549",
+    "gn:admin3_code":"554918.0",
+    "gn:admin4_code":"55491813.0",
+    "gn:asciiname":"Naudahash",
+    "gn:country_code":"BD",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1193068,
+    "gn:latitude":25.92917,
+    "gn:longitude":89.60661,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"N\u0101ud\u0101h\u0101sh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "N\u0101ud\u0101h\u0101sh"
+    ],
+    "name:ben_x_variant":[
+        "N\u0101ud\u0101b\u0101sh",
+        "Naodabas"
+    ],
+    "name:und_x_variant":[
+        "Naodabas",
+        "N\u0101ud\u0101b\u0101sh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1193068
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"473f920e2d93077b9ed8dfcff63a9d2f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209552827
+        }
+    ],
+    "wof:id":1209552827,
+    "wof:lastmodified":1537585846,
+    "wof:name":"Naudahash",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.60661,
+    25.92917000000001,
+    89.60661,
+    25.92917000000001
+],
+  "geometry": {"coordinates":[89.60661,25.92917000000001],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1276472895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.69166,22.65866,89.69166,22.65866",
+    "geom:latitude":22.65866,
+    "geom:longitude":89.69166,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4001.0",
+    "gn:admin3_code":"400108.0",
+    "gn:admin4_code":"40010877.0",
+    "gn:asciiname":"Dakshin Khanpur",
+    "gn:country_code":"BD",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1205416,
+    "gn:latitude":22.65866,
+    "gn:longitude":89.69166,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Dakshin Kh\u0101npur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dhakhin Khanpur",
+        "Dakshin Kh\u0101npur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        421187747
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1205416
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"b851238f6dbc4add41fe92dc3e22e0ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421187747,
+            "locality_id":1276472895,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1276472895,
+    "wof:lastmodified":1537586073,
+    "wof:name":"Dakshin Khanpur",
+    "wof:parent_id":421187747,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.69166,
+    22.65866,
+    89.69166,
+    22.65866
+],
+  "geometry": {"coordinates":[89.69166,22.65866],"type":"Point"}
+}

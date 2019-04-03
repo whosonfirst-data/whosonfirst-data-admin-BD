@@ -1,0 +1,70 @@
+{
+  "id": 1209645187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.36016,24.42639,88.36016,24.42639",
+    "geom:latitude":24.42639,
+    "geom:longitude":88.36016,
+    "gn:admin1_code":"83",
+    "gn:admin2_code":"5081.0",
+    "gn:admin3_code":"508134.0",
+    "gn:admin4_code":"50813457.0",
+    "gn:asciiname":"Diarmahabbatpur",
+    "gn:country_code":"BD",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1204075,
+    "gn:latitude":24.42639,
+    "gn:longitude":88.36016,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Di\u0101rmahabbatpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Di\u0101rmahabbatpur"
+    ],
+    "name:ben_x_variant":[
+        "Di\u0101r Mahabbatpur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1204075
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"367e2eb0e41e1942a79423b75ff08ee6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209645187
+        }
+    ],
+    "wof:id":1209645187,
+    "wof:lastmodified":1537586051,
+    "wof:name":"Diarmahabbatpur",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.36016,
+    24.42639,
+    88.36016,
+    24.42639
+],
+  "geometry": {"coordinates":[88.36015999999999,24.42639],"type":"Point"}
+}

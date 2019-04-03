@@ -1,0 +1,74 @@
+{
+  "id": 1327164385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.28642,24.89564,90.28642,24.89564",
+    "geom:latitude":24.89564,
+    "geom:longitude":90.28642,
+    "gn:admin1_code":"H",
+    "gn:admin2_code":"3061.0",
+    "gn:admin3_code":"306181.0",
+    "gn:admin4_code":"30618167.0",
+    "gn:asciiname":"Char Satfa",
+    "gn:country_code":"BD",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1206486,
+    "gn:latitude":24.89564,
+    "gn:longitude":90.28642,
+    "gn:modification_date":"2016-11-17",
+    "gn:name":"Char S\u0101tfa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Char S\u0101tfa",
+        "Char S\u0101lfa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        1108803101,
+        421185469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1206486
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"f1c2b61bc705522a57fa5e53e314fa45",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421185469,
+            "locality_id":1327164385,
+            "region_id":1108803101
+        }
+    ],
+    "wof:id":1327164385,
+    "wof:lastmodified":1537586094,
+    "wof:name":"Char Satfa",
+    "wof:parent_id":421185469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.28642,
+    24.89564,
+    90.28642,
+    24.89564
+],
+  "geometry": {"coordinates":[90.28642000000001,24.89564],"type":"Point"}
+}

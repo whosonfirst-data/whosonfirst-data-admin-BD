@@ -1,0 +1,75 @@
+{
+  "id": 1293322613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.00395,26.19588,89.00395,26.19588",
+    "geom:latitude":26.19588,
+    "geom:longitude":89.00395,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5573",
+    "gn:admin3_code":"557312.0",
+    "gn:admin4_code":"55731295.0",
+    "gn:asciiname":"Dakshin Kharibari",
+    "gn:country_code":"BD",
+    "gn:dem":57,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1197543,
+    "gn:latitude":26.19588,
+    "gn:longitude":89.00395,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Dakshin Kharibari",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bandar Kharibari",
+        "Kharib\u0101ri",
+        "Dakshin Kharibari"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1197543
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"3165a977ffd37183249165d63b91811c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694695,
+            "locality_id":1293322613,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1293322613,
+    "wof:lastmodified":1537585927,
+    "wof:name":"Dakshin Kharibari",
+    "wof:parent_id":1108694695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.00395,
+    26.19588,
+    89.00395,
+    26.19588
+],
+  "geometry": {"coordinates":[89.00395,26.19588],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1226786651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.28038,22.39528,90.28038,22.39528",
+    "geom:latitude":22.39528,
+    "geom:longitude":90.28038,
+    "gn:admin1_code":"82",
+    "gn:asciiname":"Ghopkhali",
+    "gn:country_code":"BD",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7476370,
+    "gn:latitude":22.39528,
+    "gn:longitude":90.28038,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"Ghopkh\u0101li",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Ghopkh\u0101li"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669019,
+        421169845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7476370
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"a878dfd9496d27736b297f3d85eba454",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421169845,
+            "locality_id":1226786651,
+            "region_id":85669019
+        }
+    ],
+    "wof:id":1226786651,
+    "wof:lastmodified":1537586343,
+    "wof:name":"Ghopkhali",
+    "wof:parent_id":421169845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.28038,
+    22.39528,
+    90.28038,
+    22.39528
+],
+  "geometry": {"coordinates":[90.28037999999999,22.39528],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1209444919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.95712,24.40988,88.95712,24.40988",
+    "geom:latitude":24.40988,
+    "geom:longitude":88.95712,
+    "gn:admin1_code":"83",
+    "gn:admin2_code":"5069.0",
+    "gn:admin3_code":"506963.0",
+    "gn:admin4_code":"50696394.0",
+    "gn:asciiname":"Ban Belgharia",
+    "gn:country_code":"BD",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1211103,
+    "gn:latitude":24.40988,
+    "gn:longitude":88.95712,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Ban Belgharia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Ban Belgharia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1211103
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"00f42714f6a3c140728f9184eb925ef4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209444919
+        }
+    ],
+    "wof:id":1209444919,
+    "wof:lastmodified":1537586172,
+    "wof:name":"Ban Belgharia",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.95711999999997,
+    24.40988,
+    88.95711999999997,
+    24.40988
+],
+  "geometry": {"coordinates":[88.95711999999997,24.40988],"type":"Point"}
+}

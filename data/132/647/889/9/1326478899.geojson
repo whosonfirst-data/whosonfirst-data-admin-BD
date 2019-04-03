@@ -1,0 +1,67 @@
+{
+  "id": 1326478899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.84055,21.73326,91.84055,21.73326",
+    "geom:latitude":21.73326,
+    "geom:longitude":91.84055,
+    "gn:admin1_code":"84",
+    "gn:asciiname":"Samaderdeil",
+    "gn:country_code":"BD",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6415986,
+    "gn:latitude":21.73326,
+    "gn:longitude":91.84055,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"S\u0101m\u0101derdeil",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "S\u0101m\u0101derdeil"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6415986
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"2cf6425d7585f9e8c3956ca474e9dc93",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "locality_id":1326478899,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1326478899,
+    "wof:lastmodified":1537586254,
+    "wof:name":"Samaderdeil",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.84055,
+    21.73326,
+    91.84055,
+    21.73326
+],
+  "geometry": {"coordinates":[91.84054999999999,21.73326],"type":"Point"}
+}

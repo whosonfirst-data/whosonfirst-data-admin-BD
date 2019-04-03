@@ -1,0 +1,70 @@
+{
+  "id": 1260213911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.28029,23.99766,89.28029,23.99766",
+    "geom:latitude":23.99766,
+    "geom:longitude":89.28029,
+    "gn:admin1_code":"83",
+    "gn:admin2_code":"5076.0",
+    "gn:admin3_code":"507655.0",
+    "gn:admin4_code":"50765543.0",
+    "gn:asciiname":"Chak Dubla",
+    "gn:country_code":"BD",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1207828,
+    "gn:latitude":23.99766,
+    "gn:longitude":89.28029,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Chak Dubla",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669031,
+        421197541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1207828
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"b1b869d5fb0526bf3e3e1240f3a5967d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421197541,
+            "locality_id":1260213911,
+            "region_id":85669031
+        }
+    ],
+    "wof:id":1260213911,
+    "wof:lastmodified":1536806242,
+    "wof:name":"Chak Dubla",
+    "wof:parent_id":421197541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.28029000000002,
+    23.99766,
+    89.28029000000002,
+    23.99766
+],
+  "geometry": {"coordinates":[89.28029000000002,23.99766],"type":"Point"}
+}

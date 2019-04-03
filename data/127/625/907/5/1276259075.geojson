@@ -1,0 +1,74 @@
+{
+  "id": 1276259075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.39998,24.88418,89.39998,24.88418",
+    "geom:latitude":24.88418,
+    "geom:longitude":89.39998,
+    "gn:admin1_code":"83",
+    "gn:admin2_code":"5010.0",
+    "gn:admin3_code":"501020.0",
+    "gn:admin4_code":"50102073.0",
+    "gn:asciiname":"Chak Manik",
+    "gn:country_code":"BD",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1207725,
+    "gn:latitude":24.88418,
+    "gn:longitude":89.39998,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Chak Manik",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Manikchak",
+        "Chak Manik"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669031,
+        421187793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1207725
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"44b9d561ed710701f144cd2da113b724",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421187793,
+            "locality_id":1276259075,
+            "region_id":85669031
+        }
+    ],
+    "wof:id":1276259075,
+    "wof:lastmodified":1537586115,
+    "wof:name":"Chak Manik",
+    "wof:parent_id":421187793,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.39998,
+    24.88418,
+    89.39998,
+    24.88418
+],
+  "geometry": {"coordinates":[89.39998,24.88418],"type":"Point"}
+}

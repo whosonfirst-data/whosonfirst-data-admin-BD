@@ -1,0 +1,70 @@
+{
+  "id": 1243097423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.64767,24.80109,90.64767,24.80109",
+    "geom:latitude":24.80109,
+    "geom:longitude":90.64767,
+    "gn:admin1_code":"H",
+    "gn:admin2_code":"3072.0",
+    "gn:admin3_code":"307283.0",
+    "gn:admin4_code":"30728315.0",
+    "gn:asciiname":"Dilnagar",
+    "gn:country_code":"BD",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1203900,
+    "gn:latitude":24.80109,
+    "gn:longitude":90.64767,
+    "gn:modification_date":"2016-11-17",
+    "gn:name":"Dilnagar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        1108803101,
+        421200811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1203900
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"7446367cc2520d4dbb5c3b22996dc52a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421200811,
+            "locality_id":1243097423,
+            "region_id":1108803101
+        }
+    ],
+    "wof:id":1243097423,
+    "wof:lastmodified":1536811245,
+    "wof:name":"Dilnagar",
+    "wof:parent_id":421200811,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.64767,
+    24.80109,
+    90.64767,
+    24.80109
+],
+  "geometry": {"coordinates":[90.64767000000001,24.80109],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1309834217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.32106,25.82831,89.32106,25.82831",
+    "geom:latitude":25.82831,
+    "geom:longitude":89.32106,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5585",
+    "gn:admin3_code":"558527.0",
+    "gn:admin4_code":"55852784.0",
+    "gn:asciiname":"Momia",
+    "gn:country_code":"BD",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7923721,
+    "gn:latitude":25.82831,
+    "gn:longitude":89.32106,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Momia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Momia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7923721
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"8b4c938e0b6c51787c31b3bb24746cfc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694701,
+            "locality_id":1309834217,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1309834217,
+    "wof:lastmodified":1537586806,
+    "wof:name":"Momia",
+    "wof:parent_id":1108694701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.32106,
+    25.82831,
+    89.32106,
+    25.82831
+],
+  "geometry": {"coordinates":[89.32106,25.82831],"type":"Point"}
+}

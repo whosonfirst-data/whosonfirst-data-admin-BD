@@ -1,0 +1,76 @@
+{
+  "id": 1327471169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.44394,23.14601,90.44394,23.14601",
+    "geom:latitude":23.14601,
+    "geom:longitude":90.44394,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3086",
+    "gn:admin3_code":"308625.0",
+    "gn:admin4_code":"30862511.0",
+    "gn:asciiname":"Dakshin Damadya",
+    "gn:country_code":"BD",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1187444,
+    "gn:latitude":23.14601,
+    "gn:longitude":90.44394,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Dakshin D\u0101madya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "South Damuddya",
+        "South Damudya",
+        "South D\u0101madya",
+        "Dakshin D\u0101madya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421188359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1187444
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"72b794d23f7804e1b9893ee3cbeec740",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421188359,
+            "locality_id":1327471169,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1327471169,
+    "wof:lastmodified":1537585737,
+    "wof:name":"Dakshin Damadya",
+    "wof:parent_id":421188359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.44394,
+    23.14601,
+    90.44394,
+    23.14601
+],
+  "geometry": {"coordinates":[90.44394,23.14601],"type":"Point"}
+}

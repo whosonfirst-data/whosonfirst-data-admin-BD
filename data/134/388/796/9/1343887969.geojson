@@ -1,0 +1,70 @@
+{
+  "id": 1343887969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.18506,23.33442,90.18506,23.33442",
+    "geom:latitude":23.33442,
+    "geom:longitude":90.18506,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3054.0",
+    "gn:admin3_code":"305487.0",
+    "gn:admin4_code":"30548794.0",
+    "gn:asciiname":"Kanchikata",
+    "gn:country_code":"BD",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1350066,
+    "gn:latitude":23.33442,
+    "gn:longitude":90.18506,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"K\u0101nchik\u0101ta",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421183929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1350066
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"f196d419130e5b09488e0c243e21e901",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421183929,
+            "locality_id":1343887969,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1343887969,
+    "wof:lastmodified":1536625124,
+    "wof:name":"Kanchikata",
+    "wof:parent_id":421183929,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.18506,
+    23.33442,
+    90.18506,
+    23.33442
+],
+  "geometry": {"coordinates":[90.18505999999999,23.33442],"type":"Point"}
+}

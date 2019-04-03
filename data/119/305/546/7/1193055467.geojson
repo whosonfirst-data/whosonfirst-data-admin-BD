@@ -1,0 +1,73 @@
+{
+  "id": 1193055467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.27061,22.42526,89.27061,22.42526",
+    "geom:latitude":22.42526,
+    "geom:longitude":89.27061,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4047",
+    "gn:admin3_code":"404753.0",
+    "gn:admin4_code":"40475311.0",
+    "gn:asciiname":"Kalapota",
+    "gn:country_code":"BD",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1199213,
+    "gn:latitude":22.42526,
+    "gn:longitude":89.27061,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Kal\u0101pota",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Kal\u0101pota"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        421185473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1199213
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"c98f6493b06793f1c4ea869ec9acfead",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421185473,
+            "locality_id":1193055467,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1193055467,
+    "wof:lastmodified":1537585956,
+    "wof:name":"Kalapota",
+    "wof:parent_id":421185473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.27060999999998,
+    22.42526,
+    89.27060999999998,
+    22.42526
+],
+  "geometry": {"coordinates":[89.27060999999998,22.42526],"type":"Point"}
+}

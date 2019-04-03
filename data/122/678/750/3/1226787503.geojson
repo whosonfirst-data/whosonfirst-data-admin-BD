@@ -1,0 +1,70 @@
+{
+  "id": 1226787503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.2,23.26667,91.2,23.26667",
+    "geom:latitude":23.26667,
+    "geom:longitude":91.2,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2019",
+    "gn:admin3_code":"201968.0",
+    "gn:admin4_code":"20196828.0",
+    "gn:asciiname":"Palpara",
+    "gn:country_code":"BD",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1191314,
+    "gn:latitude":23.26667,
+    "gn:longitude":91.2,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"P\u0101lp\u0101ra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421187801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1191314
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"74dc84713a94985f65d87cfc5c35fe93",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421187801,
+            "locality_id":1226787503,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1226787503,
+    "wof:lastmodified":1536655430,
+    "wof:name":"Palpara",
+    "wof:parent_id":421187801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.2,
+    23.26667,
+    91.2,
+    23.26667
+],
+  "geometry": {"coordinates":[91.2,23.26667],"type":"Point"}
+}

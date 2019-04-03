@@ -1,0 +1,73 @@
+{
+  "id": 1242607631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.61541,25.14375,88.61541,25.14375",
+    "geom:latitude":25.14375,
+    "geom:longitude":88.61541,
+    "gn:admin1_code":"83",
+    "gn:admin2_code":"5064.0",
+    "gn:admin3_code":"506475.0",
+    "gn:admin4_code":"50647569.0",
+    "gn:asciiname":"Saraidanga",
+    "gn:country_code":"BD",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7488729,
+    "gn:latitude":25.14375,
+    "gn:longitude":88.61541,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"S\u0101r\u0101id\u0101nga",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "S\u0101r\u0101id\u0101nga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669031,
+        421191663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7488729
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"1a6969ca01bc285fe1b42a189484011c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421191663,
+            "locality_id":1242607631,
+            "region_id":85669031
+        }
+    ],
+    "wof:id":1242607631,
+    "wof:lastmodified":1537586676,
+    "wof:name":"Saraidanga",
+    "wof:parent_id":421191663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.61541,
+    25.14375,
+    88.61541,
+    25.14375
+],
+  "geometry": {"coordinates":[88.61541,25.14375],"type":"Point"}
+}

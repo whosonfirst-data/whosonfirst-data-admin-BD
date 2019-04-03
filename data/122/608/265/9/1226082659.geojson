@@ -1,0 +1,74 @@
+{
+  "id": 1226082659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.43158,23.1024,90.43158,23.1024",
+    "geom:latitude":23.1024,
+    "geom:longitude":90.43158,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3086",
+    "gn:admin3_code":"308636.0",
+    "gn:admin4_code":"30863683.0",
+    "gn:asciiname":"Samantsar",
+    "gn:country_code":"BD",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1188902,
+    "gn:latitude":23.1024,
+    "gn:longitude":90.43158,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"S\u0101mants\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Samantoshar",
+        "S\u0101mants\u0101r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421188359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1188902
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"abdb90ac5f83ba91156a9958fb1f52dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421188359,
+            "locality_id":1226082659,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1226082659,
+    "wof:lastmodified":1537585770,
+    "wof:name":"Samantsar",
+    "wof:parent_id":421188359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.43158,
+    23.1024,
+    90.43158,
+    23.1024
+],
+  "geometry": {"coordinates":[90.43158,23.1024],"type":"Point"}
+}

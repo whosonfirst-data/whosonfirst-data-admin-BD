@@ -1,0 +1,67 @@
+{
+  "id": 1293622449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.69608,24.92504,91.69608,24.92504",
+    "geom:latitude":24.92504,
+    "geom:longitude":91.69608,
+    "gn:admin1_code":"83",
+    "gn:asciiname":"Dighali",
+    "gn:country_code":"BD",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8430956,
+    "gn:latitude":24.92504,
+    "gn:longitude":91.69608,
+    "gn:modification_date":"2012-12-07",
+    "gn:name":"Dighali",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669025,
+        421187795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8430956
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"8426d424e212f4ad1e50376a814834e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421187795,
+            "locality_id":1293622449,
+            "region_id":85669025
+        }
+    ],
+    "wof:id":1293622449,
+    "wof:lastmodified":1537086524,
+    "wof:name":"Dighali",
+    "wof:parent_id":421187795,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.69608,
+    24.92504,
+    91.69608,
+    24.92504
+],
+  "geometry": {"coordinates":[91.69607999999999,24.92504],"type":"Point"}
+}

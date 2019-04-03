@@ -1,0 +1,73 @@
+{
+  "id": 1326968243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.92519,22.28612,91.92519,22.28612",
+    "geom:latitude":22.28612,
+    "geom:longitude":91.92519,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2015.0",
+    "gn:admin3_code":"201561.0",
+    "gn:admin4_code":"20156115.0",
+    "gn:asciiname":"Berlkhain",
+    "gn:country_code":"BD",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6414116,
+    "gn:latitude":22.28612,
+    "gn:longitude":91.92519,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Berlkh\u0101in",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Berlkh\u0101in"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421201541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6414116
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"65de994d94783dce4d57eb7dc4602ae8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421201541,
+            "locality_id":1326968243,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1326968243,
+    "wof:lastmodified":1537586220,
+    "wof:name":"Berlkhain",
+    "wof:parent_id":421201541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.92519,
+    22.28612,
+    91.92519,
+    22.28612
+],
+  "geometry": {"coordinates":[91.92519,22.28612],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1259613587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.70328,24.45334,90.70328,24.45334",
+    "geom:latitude":24.45334,
+    "geom:longitude":90.70328,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3048.0",
+    "gn:admin3_code":"304827.0",
+    "gn:admin4_code":"30482754.0",
+    "gn:asciiname":"Harischandra Patti",
+    "gn:country_code":"BD",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1201370,
+    "gn:latitude":24.45334,
+    "gn:longitude":90.70328,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Harischandra Patti",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421170483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1201370
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"52a71bd1e74d0e158b77e837b4b55fef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421170483,
+            "locality_id":1259613587,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1259613587,
+    "wof:lastmodified":1536671509,
+    "wof:name":"Harischandra Patti",
+    "wof:parent_id":421170483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.70328,
+    24.45334,
+    90.70328,
+    24.45334
+],
+  "geometry": {"coordinates":[90.70328000000001,24.45334],"type":"Point"}
+}

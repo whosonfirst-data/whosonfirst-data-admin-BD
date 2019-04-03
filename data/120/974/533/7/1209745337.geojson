@@ -1,0 +1,70 @@
+{
+  "id": 1209745337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.66191,23.80803,90.66191,23.80803",
+    "geom:latitude":23.80803,
+    "geom:longitude":90.66191,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3068",
+    "gn:admin3_code":"306860.0",
+    "gn:admin4_code":"30686047.0",
+    "gn:asciiname":"Khamardi",
+    "gn:country_code":"BD",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1197656,
+    "gn:latitude":23.80803,
+    "gn:longitude":90.66191,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Kh\u0101m\u0101rdi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421169707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1197656
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"72e8ce01d7ea9bc745279526b0642a43",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421169707,
+            "locality_id":1209745337,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1209745337,
+    "wof:lastmodified":1536395260,
+    "wof:name":"Khamardi",
+    "wof:parent_id":421169707,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.66191,
+    23.80803,
+    90.66191,
+    23.80803
+],
+  "geometry": {"coordinates":[90.66191000000001,23.80803],"type":"Point"}
+}

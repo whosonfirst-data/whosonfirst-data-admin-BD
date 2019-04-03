@@ -1,0 +1,76 @@
+{
+  "id": 1276150993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.37641,24.5127,88.37641,24.5127",
+    "geom:latitude":24.5127,
+    "geom:longitude":88.37641,
+    "gn:admin1_code":"83",
+    "gn:admin2_code":"5081",
+    "gn:admin3_code":"508134.0",
+    "gn:admin4_code":"50813466.0",
+    "gn:asciiname":"Pashputipur",
+    "gn:country_code":"BD",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1192209,
+    "gn:latitude":24.5127,
+    "gn:longitude":88.37641,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Pashputipur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Pashputipur"
+    ],
+    "name:ben_x_variant":[
+        "Pasupatipur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669031,
+        421172439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1192209
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"34102dd7ec7320de44f02e2d12ea1e14",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421172439,
+            "locality_id":1276150993,
+            "region_id":85669031
+        }
+    ],
+    "wof:id":1276150993,
+    "wof:lastmodified":1537585831,
+    "wof:name":"Pashputipur",
+    "wof:parent_id":421172439,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.37640999999998,
+    24.5127,
+    88.37640999999998,
+    24.5127
+],
+  "geometry": {"coordinates":[88.37640999999998,24.5127],"type":"Point"}
+}

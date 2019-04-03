@@ -1,0 +1,67 @@
+{
+  "id": 1209263021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"92.01138,21.45145,92.01138,21.45145",
+    "geom:latitude":21.45145,
+    "geom:longitude":92.01138,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2022.0",
+    "gn:admin3_code":"202224.0",
+    "gn:admin4_code":"20222471.0",
+    "gn:asciiname":"Chankhola",
+    "gn:country_code":"BD",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6416676,
+    "gn:latitude":21.45145,
+    "gn:longitude":92.01138,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Chankhola",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Chankhola"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6416676
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"d4fc010863088849e6da53ef2bc1812f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209263021
+        }
+    ],
+    "wof:id":1209263021,
+    "wof:lastmodified":1537586267,
+    "wof:name":"Chankhola",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    92.01138,
+    21.45145,
+    92.01138,
+    21.45145
+],
+  "geometry": {"coordinates":[92.01138,21.45145],"type":"Point"}
+}

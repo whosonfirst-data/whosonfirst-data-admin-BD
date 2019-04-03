@@ -1,0 +1,70 @@
+{
+  "id": 1210046717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.45005,24.69824,90.45005,24.69824",
+    "geom:latitude":24.69824,
+    "geom:longitude":90.45005,
+    "gn:admin1_code":"H",
+    "gn:admin2_code":"3061",
+    "gn:admin3_code":"306152.0",
+    "gn:admin4_code":"30615220.0",
+    "gn:asciiname":"Sutiakhali",
+    "gn:country_code":"BD",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1186831,
+    "gn:latitude":24.69824,
+    "gn:longitude":90.45005,
+    "gn:modification_date":"2016-11-17",
+    "gn:name":"Suti\u0101kh\u0101li",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        1108803101,
+        421185469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1186831
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"d6cd6cfb1591a73d9482dca7040792da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421185469,
+            "locality_id":1210046717,
+            "region_id":1108803101
+        }
+    ],
+    "wof:id":1210046717,
+    "wof:lastmodified":1536378195,
+    "wof:name":"Sutiakhali",
+    "wof:parent_id":421185469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.45005,
+    24.69824,
+    90.45005,
+    24.69824
+],
+  "geometry": {"coordinates":[90.45005,24.69824],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1209745533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.27044,22.18814,90.27044,22.18814",
+    "geom:latitude":22.18814,
+    "geom:longitude":90.27044,
+    "gn:admin1_code":"82",
+    "gn:asciiname":"Khokuani",
+    "gn:country_code":"BD",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7478569,
+    "gn:latitude":22.18814,
+    "gn:longitude":90.27044,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"Khoku\u0101ni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Khoku\u0101ni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669019,
+        421176043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7478569
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"6226dfe8c8f04061e54b9a38cf22ec70",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421176043,
+            "locality_id":1209745533,
+            "region_id":85669019
+        }
+    ],
+    "wof:id":1209745533,
+    "wof:lastmodified":1537586395,
+    "wof:name":"Khokuani",
+    "wof:parent_id":421176043,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.27044,
+    22.18814,
+    90.27044,
+    22.18814
+],
+  "geometry": {"coordinates":[90.27043999999999,22.18814],"type":"Point"}
+}

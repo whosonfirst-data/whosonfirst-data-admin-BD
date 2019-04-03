@@ -1,0 +1,73 @@
+{
+  "id": 1260122367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.87873,22.18435,91.87873,22.18435",
+    "geom:latitude":22.18435,
+    "geom:longitude":91.87873,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2015.0",
+    "gn:admin3_code":"201504.0",
+    "gn:admin4_code":"20150447.0",
+    "gn:asciiname":"Naldia",
+    "gn:country_code":"BD",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6415407,
+    "gn:latitude":22.18435,
+    "gn:longitude":91.87873,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Naldia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Naldia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421201541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6415407
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"5e36b4821474747bd1fc5ca660b0bc3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421201541,
+            "locality_id":1260122367,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1260122367,
+    "wof:lastmodified":1537586244,
+    "wof:name":"Naldia",
+    "wof:parent_id":421201541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.87873,
+    22.18435,
+    91.87873,
+    22.18435
+],
+  "geometry": {"coordinates":[91.87873,22.18435],"type":"Point"}
+}

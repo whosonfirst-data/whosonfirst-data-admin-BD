@@ -1,0 +1,73 @@
+{
+  "id": 1360114959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.14637,23.77454,89.14637,23.77454",
+    "geom:latitude":23.77454,
+    "geom:longitude":89.14637,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4050",
+    "gn:admin3_code":"405071.0",
+    "gn:admin4_code":"40507117.0",
+    "gn:asciiname":"Dhalnagar",
+    "gn:country_code":"BD",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8355760,
+    "gn:latitude":23.77454,
+    "gn:longitude":89.14637,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Dhalnagar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Dhalnagar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        890438075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8355760
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"efeb3a6dcbdd704ad62d120f9395bb19",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":890438075,
+            "locality_id":1360114959,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1360114959,
+    "wof:lastmodified":1537586868,
+    "wof:name":"Dhalnagar",
+    "wof:parent_id":890438075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.14636999999998,
+    23.77454,
+    89.14636999999998,
+    23.77454
+],
+  "geometry": {"coordinates":[89.14636999999998,23.77454],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1327372019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"92.16667,22.43333,92.16667,22.43333",
+    "geom:latitude":22.43333,
+    "geom:longitude":92.16667,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2084",
+    "gn:admin3_code":"208436.0",
+    "gn:admin4_code":"20843676.0",
+    "gn:asciiname":"Raikhali",
+    "gn:country_code":"BD",
+    "gn:dem":56,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1190415,
+    "gn:latitude":22.43333,
+    "gn:longitude":92.16667,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Raikh\u0101li",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421188983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1190415
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"fe043f5fa1be546f58446a933eecbdc7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421188983,
+            "locality_id":1327372019,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1327372019,
+    "wof:lastmodified":1536768421,
+    "wof:name":"Raikhali",
+    "wof:parent_id":421188983,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    92.16667,
+    22.43333,
+    92.16667,
+    22.43333
+],
+  "geometry": {"coordinates":[92.16667,22.43333],"type":"Point"}
+}

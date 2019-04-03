@@ -1,0 +1,75 @@
+{
+  "id": 1260214103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"92.00184,25.14935,92.00184,25.14935",
+    "geom:latitude":25.14935,
+    "geom:longitude":92.00184,
+    "gn:admin1_code":"86",
+    "gn:admin2_code":"6091",
+    "gn:admin3_code":"609141.0",
+    "gn:admin4_code":"60914171.0",
+    "gn:asciiname":"Jaflang",
+    "gn:country_code":"BD",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1200592,
+    "gn:latitude":25.14935,
+    "gn:longitude":92.00184,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Jaflang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jafflong Tea Estate",
+        "Jaflang Tea Garden",
+        "Jaflang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669025,
+        421187795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1200592
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"85aca9c8619e2477230b8da367a86e6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421187795,
+            "locality_id":1260214103,
+            "region_id":85669025
+        }
+    ],
+    "wof:id":1260214103,
+    "wof:lastmodified":1537585982,
+    "wof:name":"Jaflang",
+    "wof:parent_id":421187795,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    92.00184,
+    25.14935,
+    92.00184,
+    25.14935
+],
+  "geometry": {"coordinates":[92.00184,25.14935],"type":"Point"}
+}

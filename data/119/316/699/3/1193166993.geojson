@@ -1,0 +1,73 @@
+{
+  "id": 1193166993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.51081,26.3097,88.51081,26.3097",
+    "geom:latitude":26.3097,
+    "geom:longitude":88.51081,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5577.0",
+    "gn:admin3_code":"557773.0",
+    "gn:admin4_code":"55777365.0",
+    "gn:asciiname":"Shahpara Magura",
+    "gn:country_code":"BD",
+    "gn:dem":77,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7104552,
+    "gn:latitude":26.3097,
+    "gn:longitude":88.51081,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Sh\u0101hp\u0101ra Magura",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Sh\u0101hp\u0101ra Magura"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7104552
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"977f184a40c5cc409e278580f6eb09b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694697,
+            "locality_id":1193166993,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1193166993,
+    "wof:lastmodified":1537586278,
+    "wof:name":"Shahpara Magura",
+    "wof:parent_id":1108694697,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.51080999999998,
+    26.3097,
+    88.51080999999998,
+    26.3097
+],
+  "geometry": {"coordinates":[88.51080999999998,26.3097],"type":"Point"}
+}

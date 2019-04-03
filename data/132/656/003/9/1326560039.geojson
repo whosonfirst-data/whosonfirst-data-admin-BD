@@ -1,0 +1,76 @@
+{
+  "id": 1326560039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.62444,23.80562,88.62444,23.80562",
+    "geom:latitude":23.80562,
+    "geom:longitude":88.62444,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4057.0",
+    "gn:admin3_code":"405787.0",
+    "gn:admin4_code":"40578757.0",
+    "gn:asciiname":"Ujalpur",
+    "gn:country_code":"BD",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7484099,
+    "gn:latitude":23.80562,
+    "gn:longitude":88.62444,
+    "gn:modification_date":"2018-07-14",
+    "gn:name":"Ujalpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "\u0989\u099c\u09b2\u09aa\u09c1\u09b0"
+    ],
+    "name:eng_x_preferred":[
+        "Ujalpur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        421191661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7484099
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"0aedb46b31985ab44bb11a23c8086105",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421191661,
+            "locality_id":1326560039,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1326560039,
+    "wof:lastmodified":1537586555,
+    "wof:name":"Ujalpur",
+    "wof:parent_id":421191661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.62444,
+    23.80562,
+    88.62444,
+    23.80562
+],
+  "geometry": {"coordinates":[88.62444000000001,23.80562],"type":"Point"}
+}

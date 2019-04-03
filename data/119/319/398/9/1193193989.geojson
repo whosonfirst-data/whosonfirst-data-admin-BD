@@ -1,0 +1,73 @@
+{
+  "id": 1193193989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"92.07045,21.46988,92.07045,21.46988",
+    "geom:latitude":21.46988,
+    "geom:longitude":92.07045,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2022.0",
+    "gn:admin3_code":"202266.0",
+    "gn:admin4_code":"20226638.0",
+    "gn:asciiname":"Nandakhali",
+    "gn:country_code":"BD",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6416705,
+    "gn:latitude":21.46988,
+    "gn:longitude":92.07045,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Nand\u0101kh\u0101li",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Nand\u0101kh\u0101li"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421205057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6416705
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"86120a627e8932f7d46434806424e7ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421205057,
+            "locality_id":1193193989,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1193193989,
+    "wof:lastmodified":1537586268,
+    "wof:name":"Nandakhali",
+    "wof:parent_id":421205057,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    92.07045,
+    21.46988,
+    92.07045,
+    21.46988
+],
+  "geometry": {"coordinates":[92.07044999999999,21.46988],"type":"Point"}
+}

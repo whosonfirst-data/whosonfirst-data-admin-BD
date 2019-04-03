@@ -1,0 +1,74 @@
+{
+  "id": 1276804969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.78534,23.52064,89.78534,23.52064",
+    "geom:latitude":23.52064,
+    "geom:longitude":89.78534,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3029.0",
+    "gn:admin3_code":"302947.0",
+    "gn:admin4_code":"30294763.0",
+    "gn:asciiname":"Chhaibaria",
+    "gn:country_code":"BD",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1206240,
+    "gn:latitude":23.52064,
+    "gn:longitude":89.78534,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Chh\u0101ib\u0101ria",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Saiberia",
+        "Chh\u0101ib\u0101ria"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421198063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1206240
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"0afae077570c844a2a137dc39abc19b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421198063,
+            "locality_id":1276804969,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1276804969,
+    "wof:lastmodified":1537586089,
+    "wof:name":"Chhaibaria",
+    "wof:parent_id":421198063,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.78534,
+    23.52064,
+    89.78534,
+    23.52064
+],
+  "geometry": {"coordinates":[89.78534000000001,23.52064],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1260221685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.19585,24.82908,88.19585,24.82908",
+    "geom:latitude":24.82908,
+    "geom:longitude":88.19585,
+    "gn:admin1_code":"83",
+    "gn:admin2_code":"5070.0",
+    "gn:admin3_code":"507088.0",
+    "gn:admin4_code":"50708817.0",
+    "gn:asciiname":"Uttar Mukimpur",
+    "gn:country_code":"BD",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7481982,
+    "gn:latitude":24.82908,
+    "gn:longitude":88.19585,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Uttar Mukimpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Uttar Mukimpur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669031,
+        421191607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7481982
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"80436b9e95b2bf03b376c12493491f7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421191607,
+            "locality_id":1260221685,
+            "region_id":85669031
+        }
+    ],
+    "wof:id":1260221685,
+    "wof:lastmodified":1537586495,
+    "wof:name":"Uttar Mukimpur",
+    "wof:parent_id":421191607,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.19585,
+    24.82908,
+    88.19585,
+    24.82908
+],
+  "geometry": {"coordinates":[88.19584999999999,24.82908],"type":"Point"}
+}

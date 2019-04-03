@@ -1,0 +1,76 @@
+{
+  "id": 1260009715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.38723,22.49915,89.38723,22.49915",
+    "geom:latitude":22.49915,
+    "geom:longitude":89.38723,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4047",
+    "gn:admin3_code":"404764.0",
+    "gn:admin4_code":"40476439.0",
+    "gn:asciiname":"Hoglar Char",
+    "gn:country_code":"BD",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1200995,
+    "gn:latitude":22.49915,
+    "gn:longitude":89.38723,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Hogl\u0101r Char",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Hogl\u0101r Char"
+    ],
+    "name:ben_x_variant":[
+        "Hogla Char"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        421185473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1200995
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"fa6a970f6cc77d6b29aeef9261fb107d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421185473,
+            "locality_id":1260009715,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1260009715,
+    "wof:lastmodified":1537585991,
+    "wof:name":"Hoglar Char",
+    "wof:parent_id":421185473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.38723,
+    22.49915,
+    89.38723,
+    22.49915
+],
+  "geometry": {"coordinates":[89.38723,22.49915],"type":"Point"}
+}

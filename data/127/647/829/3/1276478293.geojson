@@ -1,0 +1,73 @@
+{
+  "id": 1276478293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.72641,23.80449,89.72641,23.80449",
+    "geom:latitude":23.80449,
+    "geom:longitude":89.72641,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3082.0",
+    "gn:admin3_code":"308229.0",
+    "gn:admin4_code":"30822938.0",
+    "gn:asciiname":"Bara Singa",
+    "gn:country_code":"BD",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7480065,
+    "gn:latitude":23.80449,
+    "gn:longitude":89.72641,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Bara Singa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Bara Singa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        1108694699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7480065
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"3d6eb2b42e619fc78476b4068fb9bdfa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694699,
+            "locality_id":1276478293,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1276478293,
+    "wof:lastmodified":1537586438,
+    "wof:name":"Bara Singa",
+    "wof:parent_id":1108694699,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.72641,
+    23.80449,
+    89.72641,
+    23.80449
+],
+  "geometry": {"coordinates":[89.72641,23.80449],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1293913243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.15145,22.68526,90.15145,22.68526",
+    "geom:latitude":22.68526,
+    "geom:longitude":90.15145,
+    "gn:admin1_code":"85",
+    "gn:admin2_code":"1042.0",
+    "gn:admin3_code":"104240.0",
+    "gn:admin4_code":"10424066.0",
+    "gn:asciiname":"Beukhir",
+    "gn:country_code":"BD",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1209442,
+    "gn:latitude":22.68526,
+    "gn:longitude":90.15145,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Beukhir",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669019,
+        1108694677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1209442,
+        "wk:page":"Beukhir"
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"aaaf379174d5f73a6ffbe1e2d4d78649",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694677,
+            "locality_id":1293913243,
+            "region_id":85669019
+        }
+    ],
+    "wof:id":1293913243,
+    "wof:lastmodified":1537487067,
+    "wof:name":"Beukhir",
+    "wof:parent_id":1108694677,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.15145,
+    22.68526,
+    90.15145,
+    22.68526
+],
+  "geometry": {"coordinates":[90.15145,22.68526],"type":"Point"}
+}

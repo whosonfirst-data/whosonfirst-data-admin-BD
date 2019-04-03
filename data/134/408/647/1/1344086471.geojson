@@ -1,0 +1,70 @@
+{
+  "id": 1344086471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.50989,25.04969,89.50989,25.04969",
+    "geom:latitude":25.04969,
+    "geom:longitude":89.50989,
+    "gn:admin1_code":"83",
+    "gn:asciiname":"Beguni",
+    "gn:country_code":"BD",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7905572,
+    "gn:latitude":25.04969,
+    "gn:longitude":89.50989,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Beguni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Beguni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7905572
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"584d38a0b7f4cffe985cf834fc1f504f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694675,
+            "locality_id":1344086471,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1344086471,
+    "wof:lastmodified":1537586775,
+    "wof:name":"Beguni",
+    "wof:parent_id":1108694675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.50989,
+    25.04969,
+    89.50989,
+    25.04969
+],
+  "geometry": {"coordinates":[89.50989,25.04969],"type":"Point"}
+}

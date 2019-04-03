@@ -1,0 +1,73 @@
+{
+  "id": 1226380031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.28574,25.43573,89.28574,25.43573",
+    "geom:latitude":25.43573,
+    "geom:longitude":89.28574,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5585",
+    "gn:admin3_code":"558576.0",
+    "gn:admin4_code":"55857669.0",
+    "gn:asciiname":"Keshabpur",
+    "gn:country_code":"BD",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7891872,
+    "gn:latitude":25.43573,
+    "gn:longitude":89.28574,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Keshabpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Keshabpur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7891872
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"8832d3f18f5f3abf0b85d1fa9e5123f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694701,
+            "locality_id":1226380031,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1226380031,
+    "wof:lastmodified":1537586754,
+    "wof:name":"Keshabpur",
+    "wof:parent_id":1108694701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.28574,
+    25.43573,
+    89.28574,
+    25.43573
+],
+  "geometry": {"coordinates":[89.28574,25.43573],"type":"Point"}
+}

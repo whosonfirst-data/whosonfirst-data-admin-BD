@@ -1,0 +1,70 @@
+{
+  "id": 1310135667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.69482,24.85633,90.69482,24.85633",
+    "geom:latitude":24.85633,
+    "geom:longitude":90.69482,
+    "gn:admin1_code":"H",
+    "gn:admin2_code":"3072.0",
+    "gn:admin3_code":"307274.0",
+    "gn:admin4_code":"30727415.0",
+    "gn:asciiname":"Bil Gobinda Chatal",
+    "gn:country_code":"BD",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1208587,
+    "gn:latitude":24.85633,
+    "gn:longitude":90.69482,
+    "gn:modification_date":"2016-11-17",
+    "gn:name":"B\u012bl Gobinda Ch\u0101tal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        1108803101,
+        421200811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1208587
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"82cf1f6261c7113f6b618c8e11181120",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421200811,
+            "locality_id":1310135667,
+            "region_id":1108803101
+        }
+    ],
+    "wof:id":1310135667,
+    "wof:lastmodified":1536953230,
+    "wof:name":"Bil Gobinda Chatal",
+    "wof:parent_id":421200811,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.69482,
+    24.85633,
+    90.69482,
+    24.85633
+],
+  "geometry": {"coordinates":[90.69482000000001,24.85633],"type":"Point"}
+}

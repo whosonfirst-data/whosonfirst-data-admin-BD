@@ -1,0 +1,73 @@
+{
+  "id": 1293925963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"92.18542,21.24566,92.18542,21.24566",
+    "geom:latitude":21.24566,
+    "geom:longitude":92.18542,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2003.0",
+    "gn:admin3_code":"200373.0",
+    "gn:admin4_code":"20037357.0",
+    "gn:asciiname":"Dhulyajiri",
+    "gn:country_code":"BD",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6416941,
+    "gn:latitude":21.24566,
+    "gn:longitude":92.18542,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Dhuly\u0101jiri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Dhuly\u0101jiri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421169477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6416941
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"57b2256ef0bfd226de732de80b5e26e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421169477,
+            "locality_id":1293925963,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1293925963,
+    "wof:lastmodified":1537586271,
+    "wof:name":"Dhulyajiri",
+    "wof:parent_id":421169477,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    92.18542,
+    21.24566,
+    92.18542,
+    21.24566
+],
+  "geometry": {"coordinates":[92.18541999999999,21.24566],"type":"Point"}
+}

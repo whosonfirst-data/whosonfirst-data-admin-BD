@@ -1,0 +1,73 @@
+{
+  "id": 1360127009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"92.14315,22.234,92.14315,22.234",
+    "geom:latitude":22.234,
+    "geom:longitude":92.14315,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2003.0",
+    "gn:admin3_code":"200314.0",
+    "gn:admin4_code":"20031431.0",
+    "gn:asciiname":"Barathali",
+    "gn:country_code":"BD",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6416418,
+    "gn:latitude":22.234,
+    "gn:longitude":92.14315,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Bar\u0101thali",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Bar\u0101thali"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421169477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6416418
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"24af11f0ba462213408344a6ca2fedf9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421169477,
+            "locality_id":1360127009,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1360127009,
+    "wof:lastmodified":1537586263,
+    "wof:name":"Barathali",
+    "wof:parent_id":421169477,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    92.14315,
+    22.234,
+    92.14315,
+    22.234
+],
+  "geometry": {"coordinates":[92.14315000000001,22.234],"type":"Point"}
+}

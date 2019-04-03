@@ -1,0 +1,70 @@
+{
+  "id": 1277114819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"92.0897,23.25563,92.0897,23.25563",
+    "geom:latitude":23.25563,
+    "geom:longitude":92.0897,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2046",
+    "gn:admin3_code":"204643.0",
+    "gn:admin4_code":"20464363.0",
+    "gn:asciiname":"Kabakhali",
+    "gn:country_code":"BD",
+    "gn:dem":67,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1199674,
+    "gn:latitude":23.25563,
+    "gn:longitude":92.0897,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Kab\u0101kh\u0101li",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        1108694683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1199674
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"497b628b4fa521c289ac789de47b640d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694683,
+            "locality_id":1277114819,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1277114819,
+    "wof:lastmodified":1536721713,
+    "wof:name":"Kabakhali",
+    "wof:parent_id":1108694683,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    92.0897,
+    23.25563,
+    92.0897,
+    23.25563
+],
+  "geometry": {"coordinates":[92.08969999999999,23.25563],"type":"Point"}
+}

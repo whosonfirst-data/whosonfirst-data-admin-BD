@@ -1,0 +1,73 @@
+{
+  "id": 1226175743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.98377,23.0299,89.98377,23.0299",
+    "geom:latitude":23.0299,
+    "geom:longitude":89.98377,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3035.0",
+    "gn:admin3_code":"303551.0",
+    "gn:admin4_code":"30355155.0",
+    "gn:asciiname":"Andharman",
+    "gn:country_code":"BD",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7480767,
+    "gn:latitude":23.0299,
+    "gn:longitude":89.98377,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Andh\u0101rm\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Andh\u0101rm\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421194867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7480767
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"50426a693c084f61987e029a30a45c7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421194867,
+            "locality_id":1226175743,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1226175743,
+    "wof:lastmodified":1537586459,
+    "wof:name":"Andharman",
+    "wof:parent_id":421194867,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.98376999999998,
+    23.0299,
+    89.98376999999998,
+    23.0299
+],
+  "geometry": {"coordinates":[89.98376999999998,23.0299],"type":"Point"}
+}

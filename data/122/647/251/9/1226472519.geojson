@@ -1,0 +1,76 @@
+{
+  "id": 1226472519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.13059,23.74461,89.13059,23.74461",
+    "geom:latitude":23.74461,
+    "geom:longitude":89.13059,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4050",
+    "gn:admin3_code":"405079.0",
+    "gn:admin4_code":"40507937.0",
+    "gn:asciiname":"Kirtinagar",
+    "gn:country_code":"BD",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1197193,
+    "gn:latitude":23.74461,
+    "gn:longitude":89.13059,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Kirtinagar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Kirtinagar"
+    ],
+    "name:und_x_variant":[
+        "Kirttinagar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        890438075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1197193
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"449009efa2b61f22e0025a558c6c57b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":890438075,
+            "locality_id":1226472519,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1226472519,
+    "wof:lastmodified":1537585919,
+    "wof:name":"Kirtinagar",
+    "wof:parent_id":890438075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.13059,
+    23.74461,
+    89.13059,
+    23.74461
+],
+  "geometry": {"coordinates":[89.13059,23.74461],"type":"Point"}
+}

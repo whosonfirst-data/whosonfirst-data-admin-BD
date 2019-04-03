@@ -1,0 +1,76 @@
+{
+  "id": 1242807973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.14781,22.48437,89.14781,22.48437",
+    "geom:latitude":22.48437,
+    "geom:longitude":89.14781,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4087",
+    "gn:admin3_code":"408704.0",
+    "gn:admin4_code":"40870417.0",
+    "gn:asciiname":"Shitalpur",
+    "gn:country_code":"BD",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1187700,
+    "gn:latitude":22.48437,
+    "gn:longitude":89.14781,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Shitalpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Shitalpur"
+    ],
+    "name:und_x_variant":[
+        "Sitalpur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        421201927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1187700
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"93d8ecaa9d6a31ff35e653d14050d8fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421201927,
+            "locality_id":1242807973,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1242807973,
+    "wof:lastmodified":1537585743,
+    "wof:name":"Shitalpur",
+    "wof:parent_id":421201927,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.14780999999998,
+    22.48437,
+    89.14780999999998,
+    22.48437
+],
+  "geometry": {"coordinates":[89.14780999999998,22.48437],"type":"Point"}
+}

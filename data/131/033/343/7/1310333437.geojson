@@ -1,0 +1,76 @@
+{
+  "id": 1310333437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.5836,25.97784,88.5836,25.97784",
+    "geom:latitude":25.97784,
+    "geom:longitude":88.5836,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5527.0",
+    "gn:admin3_code":"552712.0",
+    "gn:admin4_code":"55271286.0",
+    "gn:asciiname":"Gobindapui",
+    "gn:country_code":"BD",
+    "gn:dem":53,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1202330,
+    "gn:latitude":25.97784,
+    "gn:longitude":88.5836,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Gobindapui",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Gobindap\u0101ra"
+    ],
+    "name:ben_x_variant":[
+        "Gobindapui"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1202330
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"87fc2d1c31bce264dc09874ce787d9bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694671,
+            "locality_id":1310333437,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1310333437,
+    "wof:lastmodified":1537586015,
+    "wof:name":"Gobindapui",
+    "wof:parent_id":1108694671,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.5836,
+    25.97784,
+    88.5836,
+    25.97784
+],
+  "geometry": {"coordinates":[88.5836,25.97784],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1226479699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.28305,23.16237,90.28305,23.16237",
+    "geom:latitude":23.16237,
+    "geom:longitude":90.28305,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3054.0",
+    "gn:admin3_code":"305440.0",
+    "gn:admin4_code":"30544069.0",
+    "gn:asciiname":"Bidyabagis",
+    "gn:country_code":"BD",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1208682,
+    "gn:latitude":23.16237,
+    "gn:longitude":90.28305,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Bidy\u0101b\u0101gis",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bidyabagish",
+        "Bidy\u0101b\u0101gis"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421183929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1208682
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"eee9ee961ac7b548fc386f298f97df7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421183929,
+            "locality_id":1226479699,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1226479699,
+    "wof:lastmodified":1537586134,
+    "wof:name":"Bidyabagis",
+    "wof:parent_id":421183929,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.28305,
+    23.16237000000001,
+    90.28305,
+    23.16237000000001
+],
+  "geometry": {"coordinates":[90.28305,23.16237000000001],"type":"Point"}
+}

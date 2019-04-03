@@ -1,0 +1,70 @@
+{
+  "id": 1209950015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.6306,24.91104,90.6306,24.91104",
+    "geom:latitude":24.91104,
+    "geom:longitude":90.6306,
+    "gn:admin1_code":"H",
+    "gn:admin2_code":"3072",
+    "gn:admin3_code":"307283.0",
+    "gn:admin4_code":"30728379.0",
+    "gn:asciiname":"Sujatpur",
+    "gn:country_code":"BD",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1187031,
+    "gn:latitude":24.91104,
+    "gn:longitude":90.6306,
+    "gn:modification_date":"2016-11-17",
+    "gn:name":"Suj\u0101tpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        1108803101,
+        421200811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1187031
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"36e09b3f9eb7d7103270b21acbe7489e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421200811,
+            "locality_id":1209950015,
+            "region_id":1108803101
+        }
+    ],
+    "wof:id":1209950015,
+    "wof:lastmodified":1536384548,
+    "wof:name":"Sujatpur",
+    "wof:parent_id":421200811,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.6306,
+    24.91104,
+    90.6306,
+    24.91104
+],
+  "geometry": {"coordinates":[90.6306,24.91104],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1242610841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.02217,25.19698,90.02217,25.19698",
+    "geom:latitude":25.19698,
+    "geom:longitude":90.02217,
+    "gn:admin1_code":"H",
+    "gn:admin2_code":"3089.0",
+    "gn:admin3_code":"308937.0",
+    "gn:admin4_code":"30893743.0",
+    "gn:asciiname":"Dhansail",
+    "gn:country_code":"BD",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1204383,
+    "gn:latitude":25.19698,
+    "gn:longitude":90.02217,
+    "gn:modification_date":"2016-11-17",
+    "gn:name":"Dh\u0101nsail",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        1108803101,
+        421190979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1204383
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"116da1d2cd22cedbb033977c3a052436",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421190979,
+            "locality_id":1242610841,
+            "region_id":1108803101
+        }
+    ],
+    "wof:id":1242610841,
+    "wof:lastmodified":1537015108,
+    "wof:name":"Dhansail",
+    "wof:parent_id":421190979,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.02216999999997,
+    25.19698,
+    90.02216999999997,
+    25.19698
+],
+  "geometry": {"coordinates":[90.02216999999997,25.19698],"type":"Point"}
+}

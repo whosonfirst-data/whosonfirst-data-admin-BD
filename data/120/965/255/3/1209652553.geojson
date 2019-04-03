@@ -1,0 +1,67 @@
+{
+  "id": 1209652553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.23962,22.21379,90.23962,22.21379",
+    "geom:latitude":22.21379,
+    "geom:longitude":90.23962,
+    "gn:admin1_code":"85",
+    "gn:admin2_code":"1004.0",
+    "gn:admin3_code":"100409.0",
+    "gn:admin4_code":"10040963.0",
+    "gn:asciiname":"Gochkali",
+    "gn:country_code":"BD",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7476962,
+    "gn:latitude":22.21379,
+    "gn:longitude":90.23962,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Gochkali",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Gochkali"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7476962
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"18829e48c93c1c59115ab4a9e3c02ee0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209652553
+        }
+    ],
+    "wof:id":1209652553,
+    "wof:lastmodified":1537586358,
+    "wof:name":"Gochkali",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.23962,
+    22.21379,
+    90.23962,
+    22.21379
+],
+  "geometry": {"coordinates":[90.23962,22.21379],"type":"Point"}
+}

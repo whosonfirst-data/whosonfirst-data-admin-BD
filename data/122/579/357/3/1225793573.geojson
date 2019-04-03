@@ -1,0 +1,74 @@
+{
+  "id": 1225793573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.7434,23.13559,90.7434,23.13559",
+    "geom:latitude":23.13559,
+    "geom:longitude":90.7434,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2013",
+    "gn:admin3_code":"201345.0",
+    "gn:admin4_code":"20134529.0",
+    "gn:asciiname":"Faridganj",
+    "gn:country_code":"BD",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1185223,
+    "gn:latitude":23.13559,
+    "gn:longitude":90.7434,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Far\u012bdganj",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Faridgonj",
+        "Far\u012bdganj"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        1108694669
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1185223
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"66520a4caaf1ec379f76379fd275bf3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694669,
+            "locality_id":1225793573,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1225793573,
+    "wof:lastmodified":1537585692,
+    "wof:name":"Faridganj",
+    "wof:parent_id":1108694669,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.7434,
+    23.13559,
+    90.7434,
+    23.13559
+],
+  "geometry": {"coordinates":[90.74339999999999,23.13559],"type":"Point"}
+}

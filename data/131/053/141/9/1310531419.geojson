@@ -1,0 +1,73 @@
+{
+  "id": 1310531419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.47081,24.31552,90.47081,24.31552",
+    "geom:latitude":24.31552,
+    "geom:longitude":90.47081,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3033.0",
+    "gn:admin3_code":"303386.0",
+    "gn:admin4_code":"30338638.0",
+    "gn:asciiname":"Dhamla",
+    "gn:country_code":"BD",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1204470,
+    "gn:latitude":24.31552,
+    "gn:longitude":90.47081,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Dhamla",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dh\u0101mlai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421203493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1204470
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"11956267c717fb7bbbea1426099fe4e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421203493,
+            "locality_id":1310531419,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1310531419,
+    "wof:lastmodified":1537586057,
+    "wof:name":"Dhamla",
+    "wof:parent_id":421203493,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.47081,
+    24.31552000000001,
+    90.47081,
+    24.31552000000001
+],
+  "geometry": {"coordinates":[90.47081,24.31552000000001],"type":"Point"}
+}

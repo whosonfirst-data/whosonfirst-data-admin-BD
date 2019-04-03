@@ -1,0 +1,64 @@
+{
+  "id": 1209043947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.46953,22.28593,90.46953,22.28593",
+    "geom:latitude":22.28593,
+    "geom:longitude":90.46953,
+    "gn:admin1_code":"82",
+    "gn:asciiname":"Karpurkati",
+    "gn:country_code":"BD",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7476335,
+    "gn:latitude":22.28593,
+    "gn:longitude":90.46953,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"Karpurk\u0101ti",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Karpurk\u0101ti"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7476335
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"0190b0006b9389a073443435f723358c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209043947
+        }
+    ],
+    "wof:id":1209043947,
+    "wof:lastmodified":1537586342,
+    "wof:name":"Karpurkati",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.46953,
+    22.28593,
+    90.46953,
+    22.28593
+],
+  "geometry": {"coordinates":[90.46953000000001,22.28593],"type":"Point"}
+}

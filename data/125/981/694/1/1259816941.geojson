@@ -1,0 +1,79 @@
+{
+  "id": 1259816941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.48048,23.32061,89.48048,23.32061",
+    "geom:latitude":23.32061,
+    "geom:longitude":89.48048,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4055.0",
+    "gn:admin3_code":"405585.0",
+    "gn:admin4_code":"40558547.0",
+    "gn:asciiname":"Gangni",
+    "gn:country_code":"BD",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1202941,
+    "gn:latitude":23.32061,
+    "gn:longitude":89.48048,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"G\u0101ngni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "G\u0101ngni"
+    ],
+    "name:ben_x_variant":[
+        "G\u0101nglia"
+    ],
+    "name:und_x_variant":[
+        "Gangalia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        1108694689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1202941
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"49824ccfdbba5b3dbe09834d31c5c240",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694689,
+            "locality_id":1259816941,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1259816941,
+    "wof:lastmodified":1537586027,
+    "wof:name":"Gangni",
+    "wof:parent_id":1108694689,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.48048,
+    23.32061,
+    89.48048,
+    23.32061
+],
+  "geometry": {"coordinates":[89.48048,23.32061],"type":"Point"}
+}

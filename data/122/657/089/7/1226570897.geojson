@@ -1,0 +1,73 @@
+{
+  "id": 1226570897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.15579,23.84467,89.15579,23.84467",
+    "geom:latitude":23.84467,
+    "geom:longitude":89.15579,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4050.0",
+    "gn:admin3_code":"405079.0",
+    "gn:admin4_code":"40507956.0",
+    "gn:asciiname":"Jaria Khal",
+    "gn:country_code":"BD",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7485702,
+    "gn:latitude":23.84467,
+    "gn:longitude":89.15579,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Jaria Khal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Jaria Khal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        890438075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7485702
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"34419b3f93f10e5d2b679d071ee82f8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":890438075,
+            "locality_id":1226570897,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1226570897,
+    "wof:lastmodified":1537586598,
+    "wof:name":"Jaria Khal",
+    "wof:parent_id":890438075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.15579,
+    23.84467,
+    89.15579,
+    23.84467
+],
+  "geometry": {"coordinates":[89.15579,23.84467],"type":"Point"}
+}

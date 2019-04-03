@@ -1,0 +1,73 @@
+{
+  "id": 1276697071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.00153,23.70185,89.00153,23.70185",
+    "geom:latitude":23.70185,
+    "geom:longitude":89.00153,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4018.0",
+    "gn:admin3_code":"401807.0",
+    "gn:admin4_code":"40180755.0",
+    "gn:asciiname":"Madhapur",
+    "gn:country_code":"BD",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7478244,
+    "gn:latitude":23.70185,
+    "gn:longitude":89.00153,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"M\u0101dhapur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "M\u0101dhapur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        421194153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7478244
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"e09d8543e49f4aa6132b2213ebbd68b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421194153,
+            "locality_id":1276697071,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1276697071,
+    "wof:lastmodified":1537586386,
+    "wof:name":"Madhapur",
+    "wof:parent_id":421194153,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.00153,
+    23.70185,
+    89.00153,
+    23.70185
+],
+  "geometry": {"coordinates":[89.00153,23.70185],"type":"Point"}
+}

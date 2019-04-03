@@ -1,0 +1,73 @@
+{
+  "id": 1293813817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.40762,23.17706,89.40762,23.17706",
+    "geom:latitude":23.17706,
+    "geom:longitude":89.40762,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4041.0",
+    "gn:admin3_code":"404109.0",
+    "gn:admin4_code":"40410957.0",
+    "gn:asciiname":"Amuria",
+    "gn:country_code":"BD",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7479927,
+    "gn:latitude":23.17706,
+    "gn:longitude":89.40762,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"\u0100muria",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "\u0100muria"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        421176039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7479927
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"ee9e9f603912240895e104ae95e7d644",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421176039,
+            "locality_id":1293813817,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1293813817,
+    "wof:lastmodified":1537586434,
+    "wof:name":"Amuria",
+    "wof:parent_id":421176039,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.40762,
+    23.17706,
+    89.40762,
+    23.17706
+],
+  "geometry": {"coordinates":[89.40761999999999,23.17706],"type":"Point"}
+}

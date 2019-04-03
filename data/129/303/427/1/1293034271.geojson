@@ -1,0 +1,70 @@
+{
+  "id": 1293034271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.63893,24.03833,90.63893,24.03833",
+    "geom:latitude":24.03833,
+    "geom:longitude":90.63893,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3033.0",
+    "gn:admin3_code":"303334.0",
+    "gn:admin4_code":"30333494.0",
+    "gn:asciiname":"Demra",
+    "gn:country_code":"BD",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1204702,
+    "gn:latitude":24.03833,
+    "gn:longitude":90.63893,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Demra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421203493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1204702
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"febdfa345c86d22caddf2f6598a54ccf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421203493,
+            "locality_id":1293034271,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1293034271,
+    "wof:lastmodified":1536944058,
+    "wof:name":"Demra",
+    "wof:parent_id":421203493,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.63893,
+    24.03833,
+    90.63893,
+    24.03833
+],
+  "geometry": {"coordinates":[90.63893,24.03833],"type":"Point"}
+}

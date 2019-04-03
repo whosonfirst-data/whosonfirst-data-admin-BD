@@ -1,0 +1,70 @@
+{
+  "id": 1193215229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.96185,23.23223,90.96185,23.23223",
+    "geom:latitude":23.23223,
+    "geom:longitude":90.96185,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2013",
+    "gn:admin3_code":"201395.0",
+    "gn:admin4_code":"20139565.0",
+    "gn:asciiname":"Kazirkap",
+    "gn:country_code":"BD",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1197975,
+    "gn:latitude":23.23223,
+    "gn:longitude":90.96185,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"K\u0101zirk\u0101p",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        1108694669
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1197975
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"0de50e2a50498b51a8abb127141e57e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694669,
+            "locality_id":1193215229,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1193215229,
+    "wof:lastmodified":1536381247,
+    "wof:name":"Kazirkap",
+    "wof:parent_id":1108694669,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.96185,
+    23.23223,
+    90.96185,
+    23.23223
+],
+  "geometry": {"coordinates":[90.96185,23.23223],"type":"Point"}
+}

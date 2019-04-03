@@ -1,0 +1,70 @@
+{
+  "id": 1226777741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.07403,23.97803,90.07403,23.97803",
+    "geom:latitude":23.97803,
+    "geom:longitude":90.07403,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3026",
+    "gn:admin3_code":"302614.0",
+    "gn:admin4_code":"30261417.0",
+    "gn:asciiname":"Teligaon",
+    "gn:country_code":"BD",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1186324,
+    "gn:latitude":23.97803,
+    "gn:longitude":90.07403,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Teligaon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421187803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1186324
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"1d75f8de30171368f3f26e4d35209c18",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421187803,
+            "locality_id":1226777741,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1226777741,
+    "wof:lastmodified":1536669589,
+    "wof:name":"Teligaon",
+    "wof:parent_id":421187803,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.07403,
+    23.97803,
+    90.07403,
+    23.97803
+],
+  "geometry": {"coordinates":[90.07402999999999,23.97803],"type":"Point"}
+}

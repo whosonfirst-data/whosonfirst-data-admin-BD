@@ -1,0 +1,73 @@
+{
+  "id": 1310342603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.57232,25.30849,89.57232,25.30849",
+    "geom:latitude":25.30849,
+    "geom:longitude":89.57232,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5532",
+    "gn:admin3_code":"553221.0",
+    "gn:admin4_code":"55322159.0",
+    "gn:asciiname":"Chhargharia",
+    "gn:country_code":"BD",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7905422,
+    "gn:latitude":25.30849,
+    "gn:longitude":89.57232,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Chhargharia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Chhargharia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7905422
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"12c7d37e11ee775e663f45f465f30561",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694675,
+            "locality_id":1310342603,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1310342603,
+    "wof:lastmodified":1537586772,
+    "wof:name":"Chhargharia",
+    "wof:parent_id":1108694675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.57231999999998,
+    25.30849,
+    89.57231999999998,
+    25.30849
+],
+  "geometry": {"coordinates":[89.57231999999998,25.30849],"type":"Point"}
+}

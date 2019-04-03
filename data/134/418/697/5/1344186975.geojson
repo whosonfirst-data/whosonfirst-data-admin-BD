@@ -1,0 +1,73 @@
+{
+  "id": 1344186975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.14674,23.51212,89.14674,23.51212",
+    "geom:latitude":23.51212,
+    "geom:longitude":89.14674,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4044.0",
+    "gn:admin3_code":"404419.0",
+    "gn:admin4_code":"40441973.0",
+    "gn:asciiname":"Berbari",
+    "gn:country_code":"BD",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7478875,
+    "gn:latitude":23.51212,
+    "gn:longitude":89.14674,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Berb\u0101ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Berb\u0101ri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        1108694679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7478875
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"68608d5ad030d9edc5221aa2e4cef3af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694679,
+            "locality_id":1344186975,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1344186975,
+    "wof:lastmodified":1537586403,
+    "wof:name":"Berbari",
+    "wof:parent_id":1108694679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.14674000000002,
+    23.51212,
+    89.14674000000002,
+    23.51212
+],
+  "geometry": {"coordinates":[89.14674000000002,23.51212],"type":"Point"}
+}

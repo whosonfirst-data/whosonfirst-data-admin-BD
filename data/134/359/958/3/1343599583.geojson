@@ -1,0 +1,70 @@
+{
+  "id": 1343599583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.97678,23.29478,90.97678,23.29478",
+    "geom:latitude":23.29478,
+    "geom:longitude":90.97678,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2013",
+    "gn:admin3_code":"201358.0",
+    "gn:admin4_code":"20135807.0",
+    "gn:asciiname":"Masnigachha",
+    "gn:country_code":"BD",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1194705,
+    "gn:latitude":23.29478,
+    "gn:longitude":90.97678,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"M\u0101snig\u0101chha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        1108694669
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1194705
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"fd3926ed5a206e790b21b6b0b1c7916b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694669,
+            "locality_id":1343599583,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1343599583,
+    "wof:lastmodified":1537041120,
+    "wof:name":"Masnigachha",
+    "wof:parent_id":1108694669,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.97678,
+    23.29478,
+    90.97678,
+    23.29478
+],
+  "geometry": {"coordinates":[90.97678000000001,23.29478],"type":"Point"}
+}

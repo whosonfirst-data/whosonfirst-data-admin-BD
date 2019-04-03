@@ -1,0 +1,73 @@
+{
+  "id": 1209858033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.93946,22.35274,91.93946,22.35274",
+    "geom:latitude":22.35274,
+    "geom:longitude":91.93946,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2015.0",
+    "gn:admin3_code":"201512.0",
+    "gn:admin4_code":"20151266.0",
+    "gn:asciiname":"Hurarbag",
+    "gn:country_code":"BD",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7477371,
+    "gn:latitude":22.35274,
+    "gn:longitude":91.93946,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Hurarbag",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Hurarbag"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421201541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7477371
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"0345bfeafae739e165958de02996a706",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421201541,
+            "locality_id":1209858033,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1209858033,
+    "wof:lastmodified":1537586366,
+    "wof:name":"Hurarbag",
+    "wof:parent_id":421201541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.93946,
+    22.35274,
+    91.93946,
+    22.35274
+],
+  "geometry": {"coordinates":[91.93946,22.35274],"type":"Point"}
+}

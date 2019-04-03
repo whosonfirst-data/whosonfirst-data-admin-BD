@@ -1,0 +1,70 @@
+{
+  "id": 1326760579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.4851,23.60663,90.4851,23.60663",
+    "geom:latitude":23.60663,
+    "geom:longitude":90.4851,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3067.0",
+    "gn:admin3_code":"306758.0",
+    "gn:admin4_code":"30675863.0",
+    "gn:asciiname":"Goalbanda",
+    "gn:country_code":"BD",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1202438,
+    "gn:latitude":23.60663,
+    "gn:longitude":90.4851,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Go\u0101lbanda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421197045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1202438
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"402e77bcfe1c1d365ed3c16de5b0b663",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421197045,
+            "locality_id":1326760579,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1326760579,
+    "wof:lastmodified":1536654958,
+    "wof:name":"Goalbanda",
+    "wof:parent_id":421197045,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.4851,
+    23.60663,
+    90.4851,
+    23.60663
+],
+  "geometry": {"coordinates":[90.4851,23.60663],"type":"Point"}
+}

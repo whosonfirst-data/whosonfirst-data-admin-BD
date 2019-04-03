@@ -1,0 +1,70 @@
+{
+  "id": 1243097305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.34833,24.87217,91.34833,24.87217",
+    "geom:latitude":24.87217,
+    "geom:longitude":91.34833,
+    "gn:admin1_code":"86",
+    "gn:admin2_code":"6090",
+    "gn:admin3_code":"609090.0",
+    "gn:admin4_code":"60909061.0",
+    "gn:asciiname":"Pathariya",
+    "gn:country_code":"BD",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1192140,
+    "gn:latitude":24.87217,
+    "gn:longitude":91.34833,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"P\u0101th\u0101riya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669025,
+        421201931
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1192140
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"dfe770649bd82e56d28250e22b073a18",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421201931,
+            "locality_id":1243097305,
+            "region_id":85669025
+        }
+    ],
+    "wof:id":1243097305,
+    "wof:lastmodified":1536811402,
+    "wof:name":"Pathariya",
+    "wof:parent_id":421201931,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.34833,
+    24.87217,
+    91.34833,
+    24.87217
+],
+  "geometry": {"coordinates":[91.34833,24.87217],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1276804925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.057,25.49036,89.057,25.49036",
+    "geom:latitude":25.49036,
+    "geom:longitude":89.057,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5527",
+    "gn:admin3_code":"552769.0",
+    "gn:admin4_code":"55276969.0",
+    "gn:asciiname":"Rahimapur",
+    "gn:country_code":"BD",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1190452,
+    "gn:latitude":25.49036,
+    "gn:longitude":89.057,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Rah\u012bm\u0101pur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Rah\u012bm\u0101pur"
+    ],
+    "name:ben_x_variant":[
+        "Rahimapoor"
+    ],
+    "name:und_x_variant":[
+        "Rahimapoor",
+        "Rah\u012bm\u0101pur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1190452
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"72d76d6a37b9ab6cf0695b7be75de27b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694671,
+            "locality_id":1276804925,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1276804925,
+    "wof:lastmodified":1537585797,
+    "wof:name":"Rahimapur",
+    "wof:parent_id":1108694671,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.057,
+    25.49036,
+    89.057,
+    25.49036
+],
+  "geometry": {"coordinates":[89.057,25.49036],"type":"Point"}
+}

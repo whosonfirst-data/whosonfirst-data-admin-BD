@@ -1,0 +1,73 @@
+{
+  "id": 1327262043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.6244,24.95909,90.6244,24.95909",
+    "geom:latitude":24.95909,
+    "geom:longitude":90.6244,
+    "gn:admin1_code":"H",
+    "gn:admin2_code":"3072",
+    "gn:admin3_code":"307283.0",
+    "gn:admin4_code":"30728394.0",
+    "gn:asciiname":"Manashuta",
+    "gn:country_code":"BD",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1195061,
+    "gn:latitude":24.95909,
+    "gn:longitude":90.6244,
+    "gn:modification_date":"2016-11-17",
+    "gn:name":"Manashuta",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "M\u0101nashura"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        1108803101,
+        421200811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1195061
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"512b56fa797d6b1bc2092eb6df9b73a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421200811,
+            "locality_id":1327262043,
+            "region_id":1108803101
+        }
+    ],
+    "wof:id":1327262043,
+    "wof:lastmodified":1537585879,
+    "wof:name":"Manashuta",
+    "wof:parent_id":421200811,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.6244,
+    24.95909,
+    90.6244,
+    24.95909
+],
+  "geometry": {"coordinates":[90.62439999999999,24.95909],"type":"Point"}
+}

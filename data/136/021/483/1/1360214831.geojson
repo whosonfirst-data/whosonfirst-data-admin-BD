@@ -1,0 +1,70 @@
+{
+  "id": 1360214831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.37827,23.76619,89.37827,23.76619",
+    "geom:latitude":23.76619,
+    "geom:longitude":89.37827,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3082.0",
+    "gn:admin3_code":"308273.0",
+    "gn:admin4_code":"30827390.0",
+    "gn:asciiname":"Dudswar",
+    "gn:country_code":"BD",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1203770,
+    "gn:latitude":23.76619,
+    "gn:longitude":89.37827,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Dudswar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        1108694699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1203770
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"413d5d2f2c24877d4d32ee492e758d0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694699,
+            "locality_id":1360214831,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1360214831,
+    "wof:lastmodified":1536758778,
+    "wof:name":"Dudswar",
+    "wof:parent_id":1108694699,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.37827,
+    23.76619,
+    89.37827,
+    23.76619
+],
+  "geometry": {"coordinates":[89.37827,23.76619],"type":"Point"}
+}

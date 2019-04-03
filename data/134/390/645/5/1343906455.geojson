@@ -1,0 +1,73 @@
+{
+  "id": 1343906455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"92.02842,21.42965,92.02842,21.42965",
+    "geom:latitude":21.42965,
+    "geom:longitude":92.02842,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2022.0",
+    "gn:admin3_code":"202224.0",
+    "gn:admin4_code":"20222447.0",
+    "gn:asciiname":"Chandupara",
+    "gn:country_code":"BD",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6416681,
+    "gn:latitude":21.42965,
+    "gn:longitude":92.02842,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Chandupara",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Chandupara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421205057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6416681
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"2721d15ab6d5b1ed6b671f7106bab8e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421205057,
+            "locality_id":1343906455,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1343906455,
+    "wof:lastmodified":1537586267,
+    "wof:name":"Chandupara",
+    "wof:parent_id":421205057,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    92.02842,
+    21.42965,
+    92.02842,
+    21.42965
+],
+  "geometry": {"coordinates":[92.02842,21.42965],"type":"Point"}
+}

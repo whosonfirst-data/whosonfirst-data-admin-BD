@@ -1,0 +1,74 @@
+{
+  "id": 1309935747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.70588,24.69928,90.70588,24.69928",
+    "geom:latitude":24.69928,
+    "geom:longitude":90.70588,
+    "gn:admin1_code":"H",
+    "gn:admin2_code":"3072.0",
+    "gn:admin3_code":"307247.0",
+    "gn:admin4_code":"30724740.0",
+    "gn:asciiname":"Bir Mejhati",
+    "gn:country_code":"BD",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1208370,
+    "gn:latitude":24.69928,
+    "gn:longitude":90.70588,
+    "gn:modification_date":"2016-11-17",
+    "gn:name":"Bir Mejh\u0101ti",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bir Mejh\u0101ti",
+        "Bir M\u0101ijh\u0101ti"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        1108803101,
+        421200811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1208370
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"1c365d09e62cf8424c83a4e3d88ccbd4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421200811,
+            "locality_id":1309935747,
+            "region_id":1108803101
+        }
+    ],
+    "wof:id":1309935747,
+    "wof:lastmodified":1537586129,
+    "wof:name":"Bir Mejhati",
+    "wof:parent_id":421200811,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.70588,
+    24.69928,
+    90.70588,
+    24.69928
+],
+  "geometry": {"coordinates":[90.70587999999999,24.69928],"type":"Point"}
+}

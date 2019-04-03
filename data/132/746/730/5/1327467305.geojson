@@ -1,0 +1,70 @@
+{
+  "id": 1327467305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.23984,23.85017,90.23984,23.85017",
+    "geom:latitude":23.85017,
+    "geom:longitude":90.23984,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3026",
+    "gn:admin3_code":"302672.0",
+    "gn:admin4_code":"30267200.0",
+    "gn:asciiname":"Khanjankati",
+    "gn:country_code":"BD",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1197615,
+    "gn:latitude":23.85017,
+    "gn:longitude":90.23984,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Khanjank\u0101ti",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421187803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1197615
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"7066a1246102a65a81c05144d61bf24c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421187803,
+            "locality_id":1327467305,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1327467305,
+    "wof:lastmodified":1536628724,
+    "wof:name":"Khanjankati",
+    "wof:parent_id":421187803,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.23984,
+    23.85017,
+    90.23984,
+    23.85017
+],
+  "geometry": {"coordinates":[90.23984,23.85017],"type":"Point"}
+}

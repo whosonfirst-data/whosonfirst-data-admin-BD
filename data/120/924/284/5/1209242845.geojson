@@ -1,0 +1,67 @@
+{
+  "id": 1209242845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.48937,25.95595,89.48937,25.95595",
+    "geom:latitude":25.95595,
+    "geom:longitude":89.48937,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5552",
+    "gn:admin3_code":"555255.0",
+    "gn:admin4_code":"55525565.0",
+    "gn:asciiname":"Kharua",
+    "gn:country_code":"BD",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7923645,
+    "gn:latitude":25.95595,
+    "gn:longitude":89.48937,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Kharua",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Kharua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7923645
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"a22e7e371bf7a9437bdc2a455fb67530",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209242845
+        }
+    ],
+    "wof:id":1209242845,
+    "wof:lastmodified":1537586804,
+    "wof:name":"Kharua",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.48937,
+    25.95595,
+    89.48937,
+    25.95595
+],
+  "geometry": {"coordinates":[89.48936999999999,25.95595],"type":"Point"}
+}

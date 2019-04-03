@@ -1,0 +1,76 @@
+{
+  "id": 1293419993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.01239,22.4601,89.01239,22.4601",
+    "geom:latitude":22.4601,
+    "geom:longitude":89.01239,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4087.0",
+    "gn:admin3_code":"408747.0",
+    "gn:admin4_code":"40874763.0",
+    "gn:asciiname":"Ganapati",
+    "gn:country_code":"BD",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1203053,
+    "gn:latitude":22.4601,
+    "gn:longitude":89.01239,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Ganapati",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Ganapati"
+    ],
+    "name:und_x_variant":[
+        "Ganpati"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        421201927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1203053
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"2225c221cc20b03ec5f26b8dc12bd200",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421201927,
+            "locality_id":1293419993,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1293419993,
+    "wof:lastmodified":1537586029,
+    "wof:name":"Ganapati",
+    "wof:parent_id":421201927,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.01239,
+    22.4601,
+    89.01239,
+    22.4601
+],
+  "geometry": {"coordinates":[89.01239,22.4601],"type":"Point"}
+}

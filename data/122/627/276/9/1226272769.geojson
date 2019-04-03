@@ -1,0 +1,70 @@
+{
+  "id": 1226272769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.86944,23.96138,90.86944,23.96138",
+    "geom:latitude":23.96138,
+    "geom:longitude":90.86944,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3068",
+    "gn:admin3_code":"306864.0",
+    "gn:admin4_code":"30686491.0",
+    "gn:asciiname":"Srinagar",
+    "gn:country_code":"BD",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1187250,
+    "gn:latitude":23.96138,
+    "gn:longitude":90.86944,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Sr\u012bnagar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421169707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1187250
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"7f174749e09890227d42d49bd19ed799",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421169707,
+            "locality_id":1226272769,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1226272769,
+    "wof:lastmodified":1536894526,
+    "wof:name":"Srinagar",
+    "wof:parent_id":421169707,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.86944,
+    23.96138,
+    90.86944,
+    23.96138
+],
+  "geometry": {"coordinates":[90.86944,23.96138],"type":"Point"}
+}

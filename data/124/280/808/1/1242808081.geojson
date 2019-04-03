@@ -1,0 +1,73 @@
+{
+  "id": 1242808081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.83603,25.01478,89.83603,25.01478",
+    "geom:latitude":25.01478,
+    "geom:longitude":89.83603,
+    "gn:admin1_code":"H",
+    "gn:admin2_code":"3039",
+    "gn:admin3_code":"303961.0",
+    "gn:admin4_code":"30396166.0",
+    "gn:asciiname":"Megharbari",
+    "gn:country_code":"BD",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7922561,
+    "gn:latitude":25.01478,
+    "gn:longitude":89.83603,
+    "gn:modification_date":"2016-11-17",
+    "gn:name":"Megharbari",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Megharbari"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        1108803101,
+        421191923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7922561
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"82d14892991db8a7f85fb420e5381295",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421191923,
+            "locality_id":1242808081,
+            "region_id":1108803101
+        }
+    ],
+    "wof:id":1242808081,
+    "wof:lastmodified":1537586788,
+    "wof:name":"Megharbari",
+    "wof:parent_id":421191923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.83603000000002,
+    25.01478,
+    89.83603000000002,
+    25.01478
+],
+  "geometry": {"coordinates":[89.83603000000002,25.01478],"type":"Point"}
+}

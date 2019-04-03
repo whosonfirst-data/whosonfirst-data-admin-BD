@@ -1,0 +1,74 @@
+{
+  "id": 1193206271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.77813,23.33404,90.77813,23.33404",
+    "geom:latitude":23.33404,
+    "geom:longitude":90.77813,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2013",
+    "gn:admin3_code":"201376.0",
+    "gn:admin4_code":"20137643.0",
+    "gn:asciiname":"Manigaon",
+    "gn:country_code":"BD",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1194981,
+    "gn:latitude":23.33404,
+    "gn:longitude":90.77813,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Manigaon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mahigaon",
+        "Manigaon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        1108694669
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1194981
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"fc7ec6f8cb05917a5e8332541385270c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694669,
+            "locality_id":1193206271,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1193206271,
+    "wof:lastmodified":1537585878,
+    "wof:name":"Manigaon",
+    "wof:parent_id":1108694669,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.77813,
+    23.33404,
+    90.77813,
+    23.33404
+],
+  "geometry": {"coordinates":[90.77813,23.33404],"type":"Point"}
+}

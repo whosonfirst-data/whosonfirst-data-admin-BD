@@ -1,0 +1,70 @@
+{
+  "id": 1243120749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.84969,23.0515,90.84969,23.0515",
+    "geom:latitude":23.0515,
+    "geom:longitude":90.84969,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2051.0",
+    "gn:admin3_code":"205165.0",
+    "gn:admin4_code":"20516557.0",
+    "gn:asciiname":"Daspara",
+    "gn:country_code":"BD",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1204950,
+    "gn:latitude":23.0515,
+    "gn:longitude":90.84969,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"D\u0101sp\u0101ra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421166521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1204950
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"43ff18e5d2b5471616c4d553b7bbdf6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421166521,
+            "locality_id":1243120749,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1243120749,
+    "wof:lastmodified":1536778751,
+    "wof:name":"Daspara",
+    "wof:parent_id":421166521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.84969,
+    23.0515,
+    90.84969,
+    23.0515
+],
+  "geometry": {"coordinates":[90.84969,23.0515],"type":"Point"}
+}

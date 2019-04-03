@@ -1,0 +1,70 @@
+{
+  "id": 1310039031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.96319,24.08941,90.96319,24.08941",
+    "geom:latitude":24.08941,
+    "geom:longitude":90.96319,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3048",
+    "gn:admin3_code":"304811.0",
+    "gn:admin4_code":"30481171.0",
+    "gn:asciiname":"Krishnanagar",
+    "gn:country_code":"BD",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1196910,
+    "gn:latitude":24.08941,
+    "gn:longitude":90.96319,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Krishnanagar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421170483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1196910
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"bc90263a688f4ea64303e4e09f35ab50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421170483,
+            "locality_id":1310039031,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1310039031,
+    "wof:lastmodified":1537089171,
+    "wof:name":"Krishnanagar",
+    "wof:parent_id":421170483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.96319,
+    24.08941,
+    90.96319,
+    24.08941
+],
+  "geometry": {"coordinates":[90.96319,24.08941],"type":"Point"}
+}

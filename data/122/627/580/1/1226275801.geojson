@@ -1,0 +1,71 @@
+{
+  "id": 1226275801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.39819,23.02853,90.39819,23.02853",
+    "geom:latitude":23.02853,
+    "geom:longitude":90.39819,
+    "gn:admin1_code":"85",
+    "gn:admin2_code":"1006.0",
+    "gn:admin3_code":"100669.0",
+    "gn:admin4_code":"10066983.0",
+    "gn:asciiname":"Char Padma",
+    "gn:country_code":"BD",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1206576,
+    "gn:latitude":23.02853,
+    "gn:longitude":90.39819,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Char Padma",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669019,
+        421187745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1206576,
+        "wk:page":"Char_Padma"
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"fb0301d7df7ba1c0a834207671284f32",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421187745,
+            "locality_id":1226275801,
+            "region_id":85669019
+        }
+    ],
+    "wof:id":1226275801,
+    "wof:lastmodified":1537487043,
+    "wof:name":"Char Padma",
+    "wof:parent_id":421187745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.39819,
+    23.02853,
+    90.39819,
+    23.02853
+],
+  "geometry": {"coordinates":[90.39819,23.02853],"type":"Point"}
+}

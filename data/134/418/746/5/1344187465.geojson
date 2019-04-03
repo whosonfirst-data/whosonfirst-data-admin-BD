@@ -1,0 +1,70 @@
+{
+  "id": 1344187465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.98333,24.83333,90.98333,24.83333",
+    "geom:latitude":24.83333,
+    "geom:longitude":90.98333,
+    "gn:admin1_code":"H",
+    "gn:admin2_code":"3072.0",
+    "gn:admin3_code":"307263.0",
+    "gn:admin4_code":"30726342.0",
+    "gn:asciiname":"Betham",
+    "gn:country_code":"BD",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1209474,
+    "gn:latitude":24.83333,
+    "gn:longitude":90.98333,
+    "gn:modification_date":"2016-11-17",
+    "gn:name":"Beth\u0101m",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        1108803101,
+        421200811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1209474
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"11a1af85f2c8f41a3d5b75c0b15abb10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421200811,
+            "locality_id":1344187465,
+            "region_id":1108803101
+        }
+    ],
+    "wof:id":1344187465,
+    "wof:lastmodified":1536692642,
+    "wof:name":"Betham",
+    "wof:parent_id":421200811,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.98333,
+    24.83333,
+    90.98333,
+    24.83333
+],
+  "geometry": {"coordinates":[90.98333,24.83333],"type":"Point"}
+}

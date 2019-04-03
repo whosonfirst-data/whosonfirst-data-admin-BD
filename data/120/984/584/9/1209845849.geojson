@@ -1,0 +1,74 @@
+{
+  "id": 1209845849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.59655,23.69697,90.59655,23.69697",
+    "geom:latitude":23.69697,
+    "geom:longitude":90.59655,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3067.0",
+    "gn:admin3_code":"306704.0",
+    "gn:admin4_code":"30670494.0",
+    "gn:asciiname":"Fatehpur",
+    "gn:country_code":"BD",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1203305,
+    "gn:latitude":23.69697,
+    "gn:longitude":90.59655,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Fatehpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Fatepur",
+        "Fatehpur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421197045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1203305
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"808b8e1ccfdebe6061ac641b7d1a145e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421197045,
+            "locality_id":1209845849,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1209845849,
+    "wof:lastmodified":1537586034,
+    "wof:name":"Fatehpur",
+    "wof:parent_id":421197045,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.59655,
+    23.69697,
+    90.59655,
+    23.69697
+],
+  "geometry": {"coordinates":[90.59654999999999,23.69697],"type":"Point"}
+}

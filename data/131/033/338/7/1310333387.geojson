@@ -1,0 +1,74 @@
+{
+  "id": 1310333387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.35349,23.46408,90.35349,23.46408",
+    "geom:latitude":23.46408,
+    "geom:longitude":90.35349,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3059.0",
+    "gn:admin3_code":"305944.0",
+    "gn:admin4_code":"30594407.0",
+    "gn:asciiname":"Bara Bejgaon",
+    "gn:country_code":"BD",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1210710,
+    "gn:latitude":23.46408,
+    "gn:longitude":90.35349,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Bara Bejgaon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bejgaon",
+        "Bara Bejgaon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421205059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1210710
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"5b164e62be250988fa9d3a00e2b98a2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421205059,
+            "locality_id":1310333387,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1310333387,
+    "wof:lastmodified":1537586166,
+    "wof:name":"Bara Bejgaon",
+    "wof:parent_id":421205059,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.35349,
+    23.46408,
+    90.35349,
+    23.46408
+],
+  "geometry": {"coordinates":[90.35348999999999,23.46408],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1259516841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.44957,25.48165,89.44957,25.48165",
+    "geom:latitude":25.48165,
+    "geom:longitude":89.44957,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5532",
+    "gn:admin3_code":"553282.0",
+    "gn:admin4_code":"55328286.0",
+    "gn:asciiname":"Khamar Darshalia",
+    "gn:country_code":"BD",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7890923,
+    "gn:latitude":25.48165,
+    "gn:longitude":89.44957,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Khamar Darshalia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Khamar Darshalia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7890923
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"e6b0973bf9ddc4fd879bd56646b11b93",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694675,
+            "locality_id":1259516841,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1259516841,
+    "wof:lastmodified":1537586749,
+    "wof:name":"Khamar Darshalia",
+    "wof:parent_id":1108694675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.44957,
+    25.48165,
+    89.44957,
+    25.48165
+],
+  "geometry": {"coordinates":[89.44956999999999,25.48165],"type":"Point"}
+}

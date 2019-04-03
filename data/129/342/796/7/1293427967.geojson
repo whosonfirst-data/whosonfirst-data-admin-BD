@@ -1,0 +1,75 @@
+{
+  "id": 1293427967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.16667,22.83333,91.16667,22.83333",
+    "geom:latitude":22.83333,
+    "geom:longitude":91.16667,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2075",
+    "gn:admin3_code":"207589.0",
+    "gn:admin4_code":"20758995.0",
+    "gn:asciiname":"Ramdebpur",
+    "gn:cc2":"BD",
+    "gn:country_code":"BD",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1190115,
+    "gn:latitude":22.83333,
+    "gn:longitude":91.16667,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"R\u0101mdebpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Big Ramdebpur",
+        "R\u0101mdebpur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421177051
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1190115
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"91a9c8f66ec664ca04193be2bcfbb4c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421177051,
+            "locality_id":1293427967,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1293427967,
+    "wof:lastmodified":1537585791,
+    "wof:name":"Ramdebpur",
+    "wof:parent_id":421177051,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.16667,
+    22.83333,
+    91.16667,
+    22.83333
+],
+  "geometry": {"coordinates":[91.16667,22.83333],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1343792033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.79771,24.51868,88.79771,24.51868",
+    "geom:latitude":24.51868,
+    "geom:longitude":88.79771,
+    "gn:admin1_code":"83",
+    "gn:admin2_code":"5081",
+    "gn:admin3_code":"508131.0",
+    "gn:admin4_code":"50813183.0",
+    "gn:asciiname":"Kaya Mazzampur",
+    "gn:country_code":"BD",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1198043,
+    "gn:latitude":24.51868,
+    "gn:longitude":88.79771,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Kaya Mazzampur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Kaya Mazzampur"
+    ],
+    "name:ben_x_variant":[
+        "Kaya Mu\u0101zumpur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669031,
+        421172439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1198043
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"2060164bac2f84f87b35a8d302d22f83",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421172439,
+            "locality_id":1343792033,
+            "region_id":85669031
+        }
+    ],
+    "wof:id":1343792033,
+    "wof:lastmodified":1537585936,
+    "wof:name":"Kaya Mazzampur",
+    "wof:parent_id":421172439,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.79771,
+    24.51868,
+    88.79771,
+    24.51868
+],
+  "geometry": {"coordinates":[88.79771,24.51868],"type":"Point"}
+}

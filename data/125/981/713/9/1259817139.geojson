@@ -1,0 +1,73 @@
+{
+  "id": 1259817139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.36167,25.65549,89.36167,25.65549",
+    "geom:latitude":25.65549,
+    "geom:longitude":89.36167,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5585.0",
+    "gn:admin3_code":"558558.0",
+    "gn:admin4_code":"55855827.0",
+    "gn:asciiname":"Laluganj",
+    "gn:country_code":"BD",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7889249,
+    "gn:latitude":25.65549,
+    "gn:longitude":89.36167,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"L\u0101luganj",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "L\u0101luganj"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7889249
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"c90d31fe5ea900ac1e94e757bd232012",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694701,
+            "locality_id":1259817139,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1259817139,
+    "wof:lastmodified":1537586731,
+    "wof:name":"Laluganj",
+    "wof:parent_id":1108694701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.36166999999998,
+    25.65549,
+    89.36166999999998,
+    25.65549
+],
+  "geometry": {"coordinates":[89.36166999999998,25.65549],"type":"Point"}
+}

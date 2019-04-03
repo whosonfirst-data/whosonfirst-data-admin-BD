@@ -1,0 +1,73 @@
+{
+  "id": 1276692779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.50466,25.29491,89.50466,25.29491",
+    "geom:latitude":25.29491,
+    "geom:longitude":89.50466,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5532",
+    "gn:admin3_code":"553224.0",
+    "gn:admin4_code":"55322487.0",
+    "gn:asciiname":"Parbotipur",
+    "gn:country_code":"BD",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7905458,
+    "gn:latitude":25.29491,
+    "gn:longitude":89.50466,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Parbotipur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Parbotipur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7905458
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"111ba1d7f245d0b1b5df563b53b6b7b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694675,
+            "locality_id":1276692779,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1276692779,
+    "wof:lastmodified":1537586773,
+    "wof:name":"Parbotipur",
+    "wof:parent_id":1108694675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.50466,
+    25.29491,
+    89.50466,
+    25.29491
+],
+  "geometry": {"coordinates":[89.50466,25.29491],"type":"Point"}
+}

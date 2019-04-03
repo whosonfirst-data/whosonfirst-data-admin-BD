@@ -1,0 +1,76 @@
+{
+  "id": 1193075013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.77146,22.70845,91.77146,22.70845",
+    "geom:latitude":22.70845,
+    "geom:longitude":91.77146,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2015.0",
+    "gn:admin3_code":"201533.0",
+    "gn:admin4_code":"20153371.0",
+    "gn:asciiname":"Haidchakshia",
+    "gn:country_code":"BD",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1201767,
+    "gn:latitude":22.70845,
+    "gn:longitude":91.77146,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"H\u0101idchakshia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "H\u0101idchakshia"
+    ],
+    "name:und_x_variant":[
+        "Haidchakshiya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421201541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1201767
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"a07b4fd1494c607dd0318c4f3f09ae25",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421201541,
+            "locality_id":1193075013,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1193075013,
+    "wof:lastmodified":1537586005,
+    "wof:name":"Haidchakshia",
+    "wof:parent_id":421201541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.77146,
+    22.70845,
+    91.77146,
+    22.70845
+],
+  "geometry": {"coordinates":[91.77146,22.70845],"type":"Point"}
+}

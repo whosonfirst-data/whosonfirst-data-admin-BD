@@ -1,0 +1,73 @@
+{
+  "id": 1360118161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.40606,25.06202,89.40606,25.06202",
+    "geom:latitude":25.06202,
+    "geom:longitude":89.40606,
+    "gn:admin1_code":"83",
+    "gn:admin2_code":"5010",
+    "gn:admin3_code":"501094.0",
+    "gn:admin4_code":"50109487.0",
+    "gn:asciiname":"Basila",
+    "gn:country_code":"BD",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7890738,
+    "gn:latitude":25.06202,
+    "gn:longitude":89.40606,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"B\u0101sila",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "B\u0101sila"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669031,
+        421187793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7890738
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"6cd69a5a5b01bdba08d2c8e60ba7db95",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421187793,
+            "locality_id":1360118161,
+            "region_id":85669031
+        }
+    ],
+    "wof:id":1360118161,
+    "wof:lastmodified":1537586747,
+    "wof:name":"Basila",
+    "wof:parent_id":421187793,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.40606,
+    25.06202,
+    89.40606,
+    25.06202
+],
+  "geometry": {"coordinates":[89.40606,25.06202],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1260316545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.09736,23.09822,90.09736,23.09822",
+    "geom:latitude":23.09822,
+    "geom:longitude":90.09736,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3035",
+    "gn:admin3_code":"303551.0",
+    "gn:admin4_code":"30355187.0",
+    "gn:asciiname":"Ramsil Nayarbari",
+    "gn:country_code":"BD",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1189896,
+    "gn:latitude":23.09822,
+    "gn:longitude":90.09736,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"R\u0101msil Nay\u0101rb\u0101ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ramshil Nirbari",
+        "R\u0101msil Nay\u0101rb\u0101ri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421194867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1189896
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"a5c3dfebe67e6c9bb56ee5b6207d7976",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421194867,
+            "locality_id":1260316545,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1260316545,
+    "wof:lastmodified":1537585788,
+    "wof:name":"Ramsil Nayarbari",
+    "wof:parent_id":421194867,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.09736,
+    23.09822,
+    90.09736,
+    23.09822
+],
+  "geometry": {"coordinates":[90.09735999999999,23.09822],"type":"Point"}
+}

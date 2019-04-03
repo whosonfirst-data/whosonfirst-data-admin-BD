@@ -1,0 +1,67 @@
+{
+  "id": 1209645209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.2086,26.09468,88.2086,26.09468",
+    "geom:latitude":26.09468,
+    "geom:longitude":88.2086,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5594.0",
+    "gn:admin3_code":"559408.0",
+    "gn:admin4_code":"55940831.0",
+    "gn:asciiname":"Gariali",
+    "gn:country_code":"BD",
+    "gn:dem":51,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7486632,
+    "gn:latitude":26.09468,
+    "gn:longitude":88.2086,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Gari\u0101li",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Gari\u0101li"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7486632
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"605179ebee847d90d5f71ec82f962267",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209645209
+        }
+    ],
+    "wof:id":1209645209,
+    "wof:lastmodified":1537586617,
+    "wof:name":"Gariali",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.2086,
+    26.09468,
+    88.2086,
+    26.09468
+],
+  "geometry": {"coordinates":[88.2086,26.09468],"type":"Point"}
+}

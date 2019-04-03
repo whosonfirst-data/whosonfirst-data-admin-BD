@@ -1,0 +1,73 @@
+{
+  "id": 1276904791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.589,26.0579,88.589,26.0579",
+    "geom:latitude":26.0579,
+    "geom:longitude":88.589,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5594.0",
+    "gn:admin3_code":"559494.0",
+    "gn:admin4_code":"55949442.0",
+    "gn:asciiname":"Chandipur Kismat",
+    "gn:country_code":"BD",
+    "gn:dem":59,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7105031,
+    "gn:latitude":26.0579,
+    "gn:longitude":88.589,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Ch\u0101ndipur Kismat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Ch\u0101ndipur Kismat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7105031
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"53bab4684088dfd86e9dec75ee4a24c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694703,
+            "locality_id":1276904791,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1276904791,
+    "wof:lastmodified":1537586292,
+    "wof:name":"Chandipur Kismat",
+    "wof:parent_id":1108694703,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.589,
+    26.0579,
+    88.589,
+    26.0579
+],
+  "geometry": {"coordinates":[88.589,26.0579],"type":"Point"}
+}

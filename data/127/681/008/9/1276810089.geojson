@@ -1,0 +1,74 @@
+{
+  "id": 1276810089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"92.38792,22.88071,92.38792,22.88071",
+    "geom:latitude":22.88071,
+    "geom:longitude":92.38792,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2084.0",
+    "gn:admin3_code":"208421.0",
+    "gn:admin4_code":"20842163.0",
+    "gn:asciiname":"Chhota Harina Bazar",
+    "gn:country_code":"BD",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1201477,
+    "gn:latitude":22.88071,
+    "gn:longitude":92.38792,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Chhota Harina B\u0101zar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Harina B\u0101z\u0101r",
+        "Chhota Harina B\u0101zar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421188983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1201477
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"b4fbf0160eb8453e26b813a2ae006b0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421188983,
+            "locality_id":1276810089,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1276810089,
+    "wof:lastmodified":1537586000,
+    "wof:name":"Chhota Harina Bazar",
+    "wof:parent_id":421188983,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    92.38792,
+    22.88071,
+    92.38792,
+    22.88071
+],
+  "geometry": {"coordinates":[92.38791999999999,22.88071],"type":"Point"}
+}

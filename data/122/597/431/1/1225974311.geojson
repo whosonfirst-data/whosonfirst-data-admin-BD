@@ -1,0 +1,70 @@
+{
+  "id": 1225974311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.5116,24.27724,90.5116,24.27724",
+    "geom:latitude":24.27724,
+    "geom:longitude":90.5116,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3033",
+    "gn:admin3_code":"303386.0",
+    "gn:admin4_code":"30338609.0",
+    "gn:asciiname":"Katali",
+    "gn:country_code":"BD",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1198191,
+    "gn:latitude":24.27724,
+    "gn:longitude":90.5116,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"K\u0101tali",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421203493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1198191
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"1411b212a11bece31da0ad2139e01bd0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421203493,
+            "locality_id":1225974311,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1225974311,
+    "wof:lastmodified":1536827309,
+    "wof:name":"Katali",
+    "wof:parent_id":421203493,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.5116,
+    24.27724,
+    90.5116,
+    24.27724
+],
+  "geometry": {"coordinates":[90.5116,24.27724],"type":"Point"}
+}

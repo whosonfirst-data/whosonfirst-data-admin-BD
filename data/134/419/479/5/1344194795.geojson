@@ -1,0 +1,76 @@
+{
+  "id": 1344194795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.8112,24.66684,88.8112,24.66684",
+    "geom:latitude":24.66684,
+    "geom:longitude":88.8112,
+    "gn:admin1_code":"83",
+    "gn:admin2_code":"5081",
+    "gn:admin3_code":"508112.0",
+    "gn:admin4_code":"50811282.0",
+    "gn:asciiname":"Jamalpur",
+    "gn:country_code":"BD",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1185589,
+    "gn:latitude":24.66684,
+    "gn:longitude":88.8112,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Jamalpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Jamalpur"
+    ],
+    "name:ben_x_variant":[
+        "Uttar J\u0101m\u0101lpur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669031,
+        421172439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1185589
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"6b8030b438917439fa497e2c91704c98",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421172439,
+            "locality_id":1344194795,
+            "region_id":85669031
+        }
+    ],
+    "wof:id":1344194795,
+    "wof:lastmodified":1537585705,
+    "wof:name":"Jamalpur",
+    "wof:parent_id":421172439,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.8112,
+    24.66684,
+    88.8112,
+    24.66684
+],
+  "geometry": {"coordinates":[88.8112,24.66684],"type":"Point"}
+}

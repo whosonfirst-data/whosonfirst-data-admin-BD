@@ -1,0 +1,70 @@
+{
+  "id": 1309754623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.28735,23.28751,91.28735,23.28751",
+    "geom:latitude":23.28751,
+    "geom:longitude":91.28735,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2019",
+    "gn:admin3_code":"201931.0",
+    "gn:admin4_code":"20193138.0",
+    "gn:asciiname":"Lalghar",
+    "gn:country_code":"BD",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1196233,
+    "gn:latitude":23.28751,
+    "gn:longitude":91.28735,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"L\u0101lghar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421187801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1196233
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"ea5d3a851e5b20f8fdd2e9a39fe6eac6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421187801,
+            "locality_id":1309754623,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1309754623,
+    "wof:lastmodified":1537004228,
+    "wof:name":"Lalghar",
+    "wof:parent_id":421187801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.28735,
+    23.28751,
+    91.28735,
+    23.28751
+],
+  "geometry": {"coordinates":[91.28735,23.28751],"type":"Point"}
+}

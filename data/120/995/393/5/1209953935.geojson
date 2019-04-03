@@ -1,0 +1,70 @@
+{
+  "id": 1209953935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.18392,23.91753,90.18392,23.91753",
+    "geom:latitude":23.91753,
+    "geom:longitude":90.18392,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3026",
+    "gn:admin3_code":"302614.0",
+    "gn:admin4_code":"30261483.0",
+    "gn:asciiname":"Jaypura",
+    "gn:country_code":"BD",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1200047,
+    "gn:latitude":23.91753,
+    "gn:longitude":90.18392,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Jaypura",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421187803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1200047
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"f52c53ec6aa0d42cad90d320e0bf7863",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421187803,
+            "locality_id":1209953935,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1209953935,
+    "wof:lastmodified":1536380525,
+    "wof:name":"Jaypura",
+    "wof:parent_id":421187803,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.18392,
+    23.91753,
+    90.18392,
+    23.91753
+],
+  "geometry": {"coordinates":[90.18392,23.91753],"type":"Point"}
+}

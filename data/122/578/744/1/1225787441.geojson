@@ -1,0 +1,74 @@
+{
+  "id": 1225787441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"92.2576,22.36071,92.2576,22.36071",
+    "geom:latitude":22.36071,
+    "geom:longitude":92.2576,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2084.0",
+    "gn:admin3_code":"208478.0",
+    "gn:admin4_code":"20847871.0",
+    "gn:asciiname":"Chinkhyong",
+    "gn:country_code":"BD",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1205773,
+    "gn:latitude":22.36071,
+    "gn:longitude":92.2576,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Chinkhyong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chingkhyong",
+        "Chinkhyong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421169477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1205773
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"9d7a903d31a95b58be7714bee898df34",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421169477,
+            "locality_id":1225787441,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1225787441,
+    "wof:lastmodified":1537586081,
+    "wof:name":"Chinkhyong",
+    "wof:parent_id":421169477,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    92.2576,
+    22.36071,
+    92.2576,
+    22.36071
+],
+  "geometry": {"coordinates":[92.2576,22.36071],"type":"Point"}
+}

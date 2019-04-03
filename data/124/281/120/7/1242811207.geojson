@@ -1,0 +1,70 @@
+{
+  "id": 1242811207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.35268,25.12679,89.35268,25.12679",
+    "geom:latitude":25.12679,
+    "geom:longitude":89.35268,
+    "gn:admin1_code":"83",
+    "gn:asciiname":"Par Gaera",
+    "gn:country_code":"BD",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7890361,
+    "gn:latitude":25.12679,
+    "gn:longitude":89.35268,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Par Gaera",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Par Gaera"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7890361
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"40a59fad8e75177595e4c273bb713245",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694675,
+            "locality_id":1242811207,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1242811207,
+    "wof:lastmodified":1537586743,
+    "wof:name":"Par Gaera",
+    "wof:parent_id":1108694675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.35268,
+    25.12679,
+    89.35268,
+    25.12679
+],
+  "geometry": {"coordinates":[89.35268000000001,25.12679],"type":"Point"}
+}

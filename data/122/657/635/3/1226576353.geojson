@@ -1,0 +1,74 @@
+{
+  "id": 1226576353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.89133,23.87809,90.89133,23.87809",
+    "geom:latitude":23.87809,
+    "geom:longitude":90.89133,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3068",
+    "gn:admin3_code":"306864.0",
+    "gn:admin4_code":"30686433.0",
+    "gn:asciiname":"Samiabad Char",
+    "gn:country_code":"BD",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1188869,
+    "gn:latitude":23.87809,
+    "gn:longitude":90.89133,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"S\u0101mi\u0101b\u0101d Char",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "S\u0101mi\u0101b\u0101d Char",
+        "Samib\u0101d Char"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421169707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1188869
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"166f1fb4da4b98c332b38796453d92c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421169707,
+            "locality_id":1226576353,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1226576353,
+    "wof:lastmodified":1537585769,
+    "wof:name":"Samiabad Char",
+    "wof:parent_id":421169707,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.89133,
+    23.87809,
+    90.89133,
+    23.87809
+],
+  "geometry": {"coordinates":[90.89133,23.87809],"type":"Point"}
+}

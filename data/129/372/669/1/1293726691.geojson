@@ -1,0 +1,83 @@
+{
+  "id": 1293726691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.92187,22.75806,88.92187,22.75806",
+    "geom:latitude":22.75806,
+    "geom:longitude":88.92187,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4087.0",
+    "gn:admin3_code":"408782.0",
+    "gn:admin4_code":"40878220.0",
+    "gn:asciiname":"Chhaygharia",
+    "gn:country_code":"BD",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7485528,
+    "gn:latitude":22.75806,
+    "gn:longitude":88.92187,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Chhaygharia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Chhaygharia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632469,
+        85672219,
+        1108696079,
+        85632475,
+        85669015,
+        421201927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7485528
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"1f707ea8e3958534e3fcfc444c559fdc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108696079,
+            "locality_id":1293726691,
+            "region_id":85672219
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421201927,
+            "locality_id":1293726691,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1293726691,
+    "wof:lastmodified":1537586593,
+    "wof:name":"Chhaygharia",
+    "wof:parent_id":-4,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.92187,
+    22.75806,
+    88.92187,
+    22.75806
+],
+  "geometry": {"coordinates":[88.92187,22.75806],"type":"Point"}
+}

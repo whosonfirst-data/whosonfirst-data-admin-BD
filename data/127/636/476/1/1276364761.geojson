@@ -1,0 +1,73 @@
+{
+  "id": 1276364761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.19846,25.66528,89.19846,25.66528",
+    "geom:latitude":25.66528,
+    "geom:longitude":89.19846,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5585",
+    "gn:admin3_code":"558549.0",
+    "gn:admin4_code":"55854963.0",
+    "gn:asciiname":"Ramjiban",
+    "gn:country_code":"BD",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8064443,
+    "gn:latitude":25.66528,
+    "gn:longitude":89.19846,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Ramjiban",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Ramjiban"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8064443
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"571dbe0a9eea542dba7b29b3c31d74f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694701,
+            "locality_id":1276364761,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1276364761,
+    "wof:lastmodified":1537586837,
+    "wof:name":"Ramjiban",
+    "wof:parent_id":1108694701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.19846,
+    25.66528,
+    89.19846,
+    25.66528
+],
+  "geometry": {"coordinates":[89.19846,25.66528],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1310333637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.99757,23.33909,88.99757,23.33909",
+    "geom:latitude":23.33909,
+    "geom:longitude":88.99757,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4041",
+    "gn:admin3_code":"404111.0",
+    "gn:admin4_code":"40411151.0",
+    "gn:asciiname":"Bara Khanpur",
+    "gn:country_code":"BD",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8535219,
+    "gn:latitude":23.33909,
+    "gn:longitude":88.99757,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Bara Kh\u0101npur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Bara Kh\u0101npur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        421176039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8535219
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"3500c3b5617ddfe23227a2004aa7339e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421176039,
+            "locality_id":1310333637,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1310333637,
+    "wof:lastmodified":1537586870,
+    "wof:name":"Bara Khanpur",
+    "wof:parent_id":421176039,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.99757,
+    23.33909,
+    88.99757,
+    23.33909
+],
+  "geometry": {"coordinates":[88.99757,23.33909],"type":"Point"}
+}

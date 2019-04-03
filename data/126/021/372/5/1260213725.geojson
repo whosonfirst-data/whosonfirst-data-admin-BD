@@ -1,0 +1,70 @@
+{
+  "id": 1260213725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.39828,23.63888,90.39828,23.63888",
+    "geom:latitude":23.63888,
+    "geom:longitude":90.39828,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3059.0",
+    "gn:admin3_code":"305974.0",
+    "gn:admin4_code":"30597406.0",
+    "gn:asciiname":"Char Pania",
+    "gn:country_code":"BD",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1206565,
+    "gn:latitude":23.63888,
+    "gn:longitude":90.39828,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Char P\u0101nia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421205059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1206565
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"136869e00b8cf13ab0d5e04197dd022c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421205059,
+            "locality_id":1260213725,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1260213725,
+    "wof:lastmodified":1536806472,
+    "wof:name":"Char Pania",
+    "wof:parent_id":421205059,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.39828,
+    23.63888,
+    90.39828,
+    23.63888
+],
+  "geometry": {"coordinates":[90.39828,23.63888],"type":"Point"}
+}

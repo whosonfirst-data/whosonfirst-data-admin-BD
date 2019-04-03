@@ -1,0 +1,73 @@
+{
+  "id": 1242816815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.97127,22.45365,91.97127,22.45365",
+    "geom:latitude":22.45365,
+    "geom:longitude":91.97127,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2015.0",
+    "gn:admin3_code":"201574.0",
+    "gn:admin4_code":"20157469.0",
+    "gn:asciiname":"Pahartali",
+    "gn:country_code":"BD",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6414197,
+    "gn:latitude":22.45365,
+    "gn:longitude":91.97127,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"P\u0101h\u0101rtali",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "P\u0101h\u0101rtali"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421201541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6414197
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"a5deef2b75853b6f809c3887c16b2973",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421201541,
+            "locality_id":1242816815,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1242816815,
+    "wof:lastmodified":1537586222,
+    "wof:name":"Pahartali",
+    "wof:parent_id":421201541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.97127,
+    22.45365,
+    91.97127,
+    22.45365
+],
+  "geometry": {"coordinates":[91.97127,22.45365],"type":"Point"}
+}

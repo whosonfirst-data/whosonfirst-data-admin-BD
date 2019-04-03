@@ -1,0 +1,77 @@
+{
+  "id": 1242711591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.67057,22.93589,89.67057,22.93589",
+    "geom:latitude":22.93589,
+    "geom:longitude":89.67057,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4047",
+    "gn:admin3_code":"404794.0",
+    "gn:admin4_code":"40479481.0",
+    "gn:asciiname":"Terakhada",
+    "gn:country_code":"BD",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1185094,
+    "gn:latitude":22.93589,
+    "gn:longitude":89.67057,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Terakh\u0101da",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Terakh\u0101da"
+    ],
+    "name:und_x_variant":[
+        "Terokhada",
+        "Terokheda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        421185473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1185094
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"ccb49e3402c90f540c867dcb8f8afd4b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421185473,
+            "locality_id":1242711591,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1242711591,
+    "wof:lastmodified":1537585686,
+    "wof:name":"Terakhada",
+    "wof:parent_id":421185473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.67057,
+    22.93589,
+    89.67057,
+    22.93589
+],
+  "geometry": {"coordinates":[89.67057,22.93589],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1310143069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.64994,24.14841,89.64994,24.14841",
+    "geom:latitude":24.14841,
+    "geom:longitude":89.64994,
+    "gn:admin1_code":"83",
+    "gn:admin2_code":"5088",
+    "gn:admin3_code":"508867.0",
+    "gn:admin4_code":"50886765.0",
+    "gn:asciiname":"Qismat Jamirta",
+    "gn:country_code":"BD",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1197150,
+    "gn:latitude":24.14841,
+    "gn:longitude":89.64994,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Qismat J\u0101mirta",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Qismat J\u0101mirta",
+        "Kismat J\u0101mirta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669031,
+        421201929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1197150
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"a88fdfb58057e2e99db584a94b88840d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421201929,
+            "locality_id":1310143069,
+            "region_id":85669031
+        }
+    ],
+    "wof:id":1310143069,
+    "wof:lastmodified":1537585918,
+    "wof:name":"Qismat Jamirta",
+    "wof:parent_id":421201929,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.64994,
+    24.14841,
+    89.64994,
+    24.14841
+],
+  "geometry": {"coordinates":[89.64994,24.14841],"type":"Point"}
+}

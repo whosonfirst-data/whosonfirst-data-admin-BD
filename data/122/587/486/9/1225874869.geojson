@@ -1,0 +1,70 @@
+{
+  "id": 1225874869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.44522,24.83549,89.44522,24.83549",
+    "geom:latitude":24.83549,
+    "geom:longitude":89.44522,
+    "gn:admin1_code":"83",
+    "gn:admin2_code":"5010.0",
+    "gn:admin3_code":"501040.0",
+    "gn:admin4_code":"50104054.0",
+    "gn:asciiname":"Gurtup",
+    "gn:country_code":"BD",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1201834,
+    "gn:latitude":24.83549,
+    "gn:longitude":89.44522,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Gurtup",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669031,
+        421187793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1201834
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"85b970c3bb4463995dd13db023932de0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421187793,
+            "locality_id":1225874869,
+            "region_id":85669031
+        }
+    ],
+    "wof:id":1225874869,
+    "wof:lastmodified":1536971440,
+    "wof:name":"Gurtup",
+    "wof:parent_id":421187793,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.44521999999998,
+    24.83549,
+    89.44521999999998,
+    24.83549
+],
+  "geometry": {"coordinates":[89.44521999999998,24.83549],"type":"Point"}
+}

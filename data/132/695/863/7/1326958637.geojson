@@ -1,0 +1,70 @@
+{
+  "id": 1326958637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.5443,23.97735,90.5443,23.97735",
+    "geom:latitude":23.97735,
+    "geom:longitude":90.5443,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3033.0",
+    "gn:admin3_code":"303334.0",
+    "gn:admin4_code":"30333417.0",
+    "gn:asciiname":"Berua",
+    "gn:country_code":"BD",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1209517,
+    "gn:latitude":23.97735,
+    "gn:longitude":90.5443,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Berua",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421203493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1209517
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"fbec92f67fde952e8d62b7d48112d86c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421203493,
+            "locality_id":1326958637,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1326958637,
+    "wof:lastmodified":1536865604,
+    "wof:name":"Berua",
+    "wof:parent_id":421203493,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.5443,
+    23.97735,
+    90.5443,
+    23.97735
+],
+  "geometry": {"coordinates":[90.54430000000001,23.97735],"type":"Point"}
+}

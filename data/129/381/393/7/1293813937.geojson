@@ -1,0 +1,70 @@
+{
+  "id": 1293813937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.53551,23.60234,90.53551,23.60234",
+    "geom:latitude":23.60234,
+    "geom:longitude":90.53551,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3067.0",
+    "gn:admin3_code":"306706.0",
+    "gn:admin4_code":"30670647.0",
+    "gn:asciiname":"Dighaldi",
+    "gn:country_code":"BD",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1204024,
+    "gn:latitude":23.60234,
+    "gn:longitude":90.53551,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Dighaldi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421197045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1204024
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"02e777246324098ebe81aa1ffbcf3794",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421197045,
+            "locality_id":1293813937,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1293813937,
+    "wof:lastmodified":1536813039,
+    "wof:name":"Dighaldi",
+    "wof:parent_id":421197045,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.53551,
+    23.60234,
+    90.53551,
+    23.60234
+],
+  "geometry": {"coordinates":[90.53551,23.60234],"type":"Point"}
+}

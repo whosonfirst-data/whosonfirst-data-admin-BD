@@ -1,0 +1,74 @@
+{
+  "id": 1259613467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.92183,23.98706,89.92183,23.98706",
+    "geom:latitude":23.98706,
+    "geom:longitude":89.92183,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3056",
+    "gn:admin3_code":"305670.0",
+    "gn:admin4_code":"30567028.0",
+    "gn:asciiname":"Makorkol",
+    "gn:country_code":"BD",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1195275,
+    "gn:latitude":23.98706,
+    "gn:longitude":89.92183,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"M\u0101korkol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "M\u0101korkol",
+        "M\u0101karkol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421191745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1195275
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"901c86fb552368ea2b46508158b67c52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421191745,
+            "locality_id":1259613467,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1259613467,
+    "wof:lastmodified":1537585884,
+    "wof:name":"Makorkol",
+    "wof:parent_id":421191745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.92183,
+    23.98706,
+    89.92183,
+    23.98706
+],
+  "geometry": {"coordinates":[89.92183,23.98706],"type":"Point"}
+}

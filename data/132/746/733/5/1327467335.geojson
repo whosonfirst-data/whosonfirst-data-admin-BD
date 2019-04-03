@@ -1,0 +1,70 @@
+{
+  "id": 1327467335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.65237,24.74674,90.65237,24.74674",
+    "geom:latitude":24.74674,
+    "geom:longitude":90.65237,
+    "gn:admin1_code":"H",
+    "gn:admin2_code":"3061",
+    "gn:admin3_code":"306123.0",
+    "gn:admin4_code":"30612310.0",
+    "gn:asciiname":"Nazirpur",
+    "gn:country_code":"BD",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1192947,
+    "gn:latitude":24.74674,
+    "gn:longitude":90.65237,
+    "gn:modification_date":"2016-11-17",
+    "gn:name":"N\u0101zirpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        1108803101,
+        421185469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1192947
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"599c089ba6ea299755bb17a4fcf56169",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421185469,
+            "locality_id":1327467335,
+            "region_id":1108803101
+        }
+    ],
+    "wof:id":1327467335,
+    "wof:lastmodified":1536628677,
+    "wof:name":"Nazirpur",
+    "wof:parent_id":421185469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.65237,
+    24.74674,
+    90.65237,
+    24.74674
+],
+  "geometry": {"coordinates":[90.65237,24.74674],"type":"Point"}
+}

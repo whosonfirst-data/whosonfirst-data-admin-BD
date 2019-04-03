@@ -1,0 +1,76 @@
+{
+  "id": 1326668219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"92.10715,22.44958,92.10715,22.44958",
+    "geom:latitude":22.44958,
+    "geom:longitude":92.10715,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2015",
+    "gn:admin3_code":"201570.0",
+    "gn:admin4_code":"20157017.0",
+    "gn:asciiname":"Kodala",
+    "gn:country_code":"BD",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1197098,
+    "gn:latitude":22.44958,
+    "gn:longitude":92.10715,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Kodala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Kodala"
+    ],
+    "name:und_x_variant":[
+        "Kad\u0101la"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421201541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1197098
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"3755bd430f602a53227486180e1769de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421201541,
+            "locality_id":1326668219,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1326668219,
+    "wof:lastmodified":1537585916,
+    "wof:name":"Kodala",
+    "wof:parent_id":421201541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    92.10715,
+    22.44958,
+    92.10715,
+    22.44958
+],
+  "geometry": {"coordinates":[92.10715,22.44958],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1209147235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.87645,22.30756,91.87645,22.30756",
+    "geom:latitude":22.30756,
+    "geom:longitude":91.87645,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2015.0",
+    "gn:admin3_code":"201561.0",
+    "gn:admin4_code":"20156194.0",
+    "gn:asciiname":"Mohammad Nagar",
+    "gn:country_code":"BD",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6414033,
+    "gn:latitude":22.30756,
+    "gn:longitude":91.87645,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Mohammad Nagar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Mohammad Nagar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6414033
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"a5716916f4e42563420f8e38cfb3a14e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209147235
+        }
+    ],
+    "wof:id":1209147235,
+    "wof:lastmodified":1537586218,
+    "wof:name":"Mohammad Nagar",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.87645,
+    22.30756,
+    91.87645,
+    22.30756
+],
+  "geometry": {"coordinates":[91.87645000000001,22.30756],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1326663371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.00555,22.32082,90.00555,22.32082",
+    "geom:latitude":22.32082,
+    "geom:longitude":90.00555,
+    "gn:admin1_code":"85",
+    "gn:admin2_code":"1079.0",
+    "gn:admin3_code":"107958.0",
+    "gn:admin4_code":"10795834.0",
+    "gn:asciiname":"Bara Harji",
+    "gn:country_code":"BD",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7475834,
+    "gn:latitude":22.32082,
+    "gn:longitude":90.00555,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Bara H\u0101rji",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Bara H\u0101rji"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669019,
+        421172031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7475834
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"d5a7dad30e81a4a68b90363d01c44eda",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421172031,
+            "locality_id":1326663371,
+            "region_id":85669019
+        }
+    ],
+    "wof:id":1326663371,
+    "wof:lastmodified":1537586331,
+    "wof:name":"Bara Harji",
+    "wof:parent_id":421172031,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.00555,
+    22.32082,
+    90.00555,
+    22.32082
+],
+  "geometry": {"coordinates":[90.00555,22.32082],"type":"Point"}
+}

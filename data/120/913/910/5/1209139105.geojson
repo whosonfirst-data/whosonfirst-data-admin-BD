@@ -1,0 +1,67 @@
+{
+  "id": 1209139105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.90785,25.91061,88.90785,25.91061",
+    "geom:latitude":25.91061,
+    "geom:longitude":88.90785,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5573.0",
+    "gn:admin3_code":"557364.0",
+    "gn:admin4_code":"55736463.0",
+    "gn:asciiname":"Uttara Sasi",
+    "gn:country_code":"BD",
+    "gn:dem":50,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7489119,
+    "gn:latitude":25.91061,
+    "gn:longitude":88.90785,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Uttara Sasi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Uttara Sasi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7489119
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"548e07147909163d2818b9e311268e48",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209139105
+        }
+    ],
+    "wof:id":1209139105,
+    "wof:lastmodified":1537586688,
+    "wof:name":"Uttara Sasi",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.90785,
+    25.91061,
+    88.90785,
+    25.91061
+],
+  "geometry": {"coordinates":[88.90785,25.91061],"type":"Point"}
+}

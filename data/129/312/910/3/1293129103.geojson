@@ -1,0 +1,73 @@
+{
+  "id": 1293129103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.51426,22.90223,89.51426,22.90223",
+    "geom:latitude":22.90223,
+    "geom:longitude":89.51426,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4047.0",
+    "gn:admin3_code":"404721.0",
+    "gn:admin4_code":"40472102.0",
+    "gn:asciiname":"Mirerdanga",
+    "gn:country_code":"BD",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7486177,
+    "gn:latitude":22.90223,
+    "gn:longitude":89.51426,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Mirerdanga",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Mirerdanga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        421185473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7486177
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"c5f492ef6a5a9a71cef3697282267b73",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421185473,
+            "locality_id":1293129103,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1293129103,
+    "wof:lastmodified":1537586606,
+    "wof:name":"Mirerdanga",
+    "wof:parent_id":421185473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.51426,
+    22.90223,
+    89.51426,
+    22.90223
+],
+  "geometry": {"coordinates":[89.51425999999999,22.90223],"type":"Point"}
+}

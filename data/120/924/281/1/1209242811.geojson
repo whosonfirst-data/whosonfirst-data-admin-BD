@@ -1,0 +1,67 @@
+{
+  "id": 1209242811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.81656,23.70248,88.81656,23.70248",
+    "geom:latitude":23.70248,
+    "geom:longitude":88.81656,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4018.0",
+    "gn:admin3_code":"401807.0",
+    "gn:admin4_code":"40180771.0",
+    "gn:asciiname":"Kuyradanga",
+    "gn:country_code":"BD",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7484725,
+    "gn:latitude":23.70248,
+    "gn:longitude":88.81656,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Kuyr\u0101danga",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Kuyr\u0101danga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7484725
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"82e66cd49a24717b72a47e49c165b8ab",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209242811
+        }
+    ],
+    "wof:id":1209242811,
+    "wof:lastmodified":1537586572,
+    "wof:name":"Kuyradanga",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.81656,
+    23.70248,
+    88.81656,
+    23.70248
+],
+  "geometry": {"coordinates":[88.81656,23.70248],"type":"Point"}
+}

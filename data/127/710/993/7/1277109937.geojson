@@ -1,0 +1,73 @@
+{
+  "id": 1277109937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.50696,24.5367,88.50696,24.5367",
+    "geom:latitude":24.5367,
+    "geom:longitude":88.50696,
+    "gn:admin1_code":"83",
+    "gn:admin2_code":"5081.0",
+    "gn:admin3_code":"508134.0",
+    "gn:admin4_code":"50813485.0",
+    "gn:asciiname":"Bilasi",
+    "gn:country_code":"BD",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1208643,
+    "gn:latitude":24.5367,
+    "gn:longitude":88.50696,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"B\u012bl\u0101si",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "B\u012bl\u0101si"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669031,
+        421172439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1208643
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"8e9238025ad72241ed6cf00f7410b03d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421172439,
+            "locality_id":1277109937,
+            "region_id":85669031
+        }
+    ],
+    "wof:id":1277109937,
+    "wof:lastmodified":1537586133,
+    "wof:name":"Bilasi",
+    "wof:parent_id":421172439,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.50695999999998,
+    24.5367,
+    88.50695999999998,
+    24.5367
+],
+  "geometry": {"coordinates":[88.50695999999998,24.5367],"type":"Point"}
+}

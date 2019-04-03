@@ -1,0 +1,70 @@
+{
+  "id": 1293726711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.34541,25.11254,89.34541,25.11254",
+    "geom:latitude":25.11254,
+    "geom:longitude":89.34541,
+    "gn:admin1_code":"83",
+    "gn:asciiname":"Kochmadan Baraipara",
+    "gn:country_code":"BD",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7890348,
+    "gn:latitude":25.11254,
+    "gn:longitude":89.34541,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kochmadan B\u0101raip\u0101ra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Kochmadan B\u0101raip\u0101ra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7890348
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"c46de19c050307b6c9f7b7ab76681825",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694675,
+            "locality_id":1293726711,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1293726711,
+    "wof:lastmodified":1537586743,
+    "wof:name":"Kochmadan Baraipara",
+    "wof:parent_id":1108694675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.34541,
+    25.11254,
+    89.34541,
+    25.11254
+],
+  "geometry": {"coordinates":[89.34541,25.11254],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1243301183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.53149,24.00251,90.53149,24.00251",
+    "geom:latitude":24.00251,
+    "geom:longitude":90.53149,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3033",
+    "gn:admin3_code":"303334.0",
+    "gn:admin4_code":"30333469.0",
+    "gn:asciiname":"Rayen",
+    "gn:country_code":"BD",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1189623,
+    "gn:latitude":24.00251,
+    "gn:longitude":90.53149,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Rayen",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421203493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1189623
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"d41a3705a9f22a3727c5c9c01543d39d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421203493,
+            "locality_id":1243301183,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1243301183,
+    "wof:lastmodified":1537014112,
+    "wof:name":"Rayen",
+    "wof:parent_id":421203493,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.53149,
+    24.00251,
+    90.53149,
+    24.00251
+],
+  "geometry": {"coordinates":[90.53149000000001,24.00251],"type":"Point"}
+}

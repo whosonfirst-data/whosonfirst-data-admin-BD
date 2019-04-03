@@ -1,0 +1,74 @@
+{
+  "id": 1343394557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.54309,24.75492,90.54309,24.75492",
+    "geom:latitude":24.75492,
+    "geom:longitude":90.54309,
+    "gn:admin1_code":"H",
+    "gn:admin2_code":"3061",
+    "gn:admin3_code":"306123.0",
+    "gn:admin4_code":"30612331.0",
+    "gn:asciiname":"Iusufabad",
+    "gn:country_code":"BD",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1200647,
+    "gn:latitude":24.75492,
+    "gn:longitude":90.54309,
+    "gn:modification_date":"2016-11-17",
+    "gn:name":"Iusuf\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yusufabad",
+        "Iusuf\u0101b\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        1108803101,
+        421185469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1200647
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"020fa7ceeebef8d816b60b5085594930",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421185469,
+            "locality_id":1343394557,
+            "region_id":1108803101
+        }
+    ],
+    "wof:id":1343394557,
+    "wof:lastmodified":1537585983,
+    "wof:name":"Iusufabad",
+    "wof:parent_id":421185469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.54309,
+    24.75492,
+    90.54309,
+    24.75492
+],
+  "geometry": {"coordinates":[90.54309000000001,24.75492],"type":"Point"}
+}

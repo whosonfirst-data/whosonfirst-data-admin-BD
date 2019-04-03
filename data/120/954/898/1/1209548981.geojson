@@ -1,0 +1,67 @@
+{
+  "id": 1209548981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.03819,23.02963,89.03819,23.02963",
+    "geom:latitude":23.02963,
+    "geom:longitude":89.03819,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4041",
+    "gn:admin3_code":"404123.0",
+    "gn:admin4_code":"40412365.0",
+    "gn:asciiname":"Nandi Dumuria",
+    "gn:country_code":"BD",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1193468,
+    "gn:latitude":23.02963,
+    "gn:longitude":89.03819,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Nandi Dumuria",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Nandi Dumuria"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1193468
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"c5dc8893e83ce0c01741b2e45100dd46",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209548981
+        }
+    ],
+    "wof:id":1209548981,
+    "wof:lastmodified":1537585853,
+    "wof:name":"Nandi Dumuria",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.03819,
+    23.02963,
+    89.03819,
+    23.02963
+],
+  "geometry": {"coordinates":[89.03819,23.02963],"type":"Point"}
+}

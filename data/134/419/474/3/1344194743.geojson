@@ -1,0 +1,70 @@
+{
+  "id": 1344194743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.43094,23.79484,89.43094,23.79484",
+    "geom:latitude":23.79484,
+    "geom:longitude":89.43094,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3082",
+    "gn:admin3_code":"308273.0",
+    "gn:admin4_code":"30827300.0",
+    "gn:asciiname":"Satyajitpur",
+    "gn:country_code":"BD",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1188384,
+    "gn:latitude":23.79484,
+    "gn:longitude":89.43094,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Satyajitpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        1108694699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1188384
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"e8fc6c3be11fcdae92154f9f7123a782",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694699,
+            "locality_id":1344194743,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1344194743,
+    "wof:lastmodified":1536681692,
+    "wof:name":"Satyajitpur",
+    "wof:parent_id":1108694699,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.43094,
+    23.79484,
+    89.43094,
+    23.79484
+],
+  "geometry": {"coordinates":[89.43094000000001,23.79484],"type":"Point"}
+}

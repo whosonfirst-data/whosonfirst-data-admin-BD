@@ -1,0 +1,74 @@
+{
+  "id": 1343991445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.35035,23.11491,90.35035,23.11491",
+    "geom:latitude":23.11491,
+    "geom:longitude":90.35035,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3054",
+    "gn:admin3_code":"305440.0",
+    "gn:admin4_code":"30544018.0",
+    "gn:asciiname":"North Akalbarish",
+    "gn:country_code":"BD",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1191959,
+    "gn:latitude":23.11491,
+    "gn:longitude":90.35035,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"North \u0100k\u0101lb\u0101rish",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "North Akolbari",
+        "North \u0100k\u0101lb\u0101rish"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421183929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1191959
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"9fd2b764997ec868fa4f6b40fb9ac245",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421183929,
+            "locality_id":1343991445,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1343991445,
+    "wof:lastmodified":1537585827,
+    "wof:name":"North Akalbarish",
+    "wof:parent_id":421183929,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.35035,
+    23.11491,
+    90.35035,
+    23.11491
+],
+  "geometry": {"coordinates":[90.35035000000001,23.11491],"type":"Point"}
+}

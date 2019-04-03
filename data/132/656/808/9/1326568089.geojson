@@ -1,0 +1,77 @@
+{
+  "id": 1326568089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"92.1532,21.33314,92.1532,21.33314",
+    "geom:latitude":21.33314,
+    "geom:longitude":92.1532,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2003",
+    "gn:admin3_code":"200373.0",
+    "gn:admin4_code":"20037357.0",
+    "gn:asciiname":"Paglirpara",
+    "gn:country_code":"BD",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1191565,
+    "gn:latitude":21.33314,
+    "gn:longitude":92.1532,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"P\u0101glirp\u0101ra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "P\u0101glirp\u0101ra"
+    ],
+    "name:und_x_variant":[
+        "Pagli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421169477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1191565,
+        "wk:page":"Paglirpara"
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"36042346ff919ddfb0bb35f3d047ec5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421169477,
+            "locality_id":1326568089,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1326568089,
+    "wof:lastmodified":1537585815,
+    "wof:name":"Paglirpara",
+    "wof:parent_id":421169477,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    92.1532,
+    21.33314,
+    92.1532,
+    21.33314
+],
+  "geometry": {"coordinates":[92.1532,21.33314],"type":"Point"}
+}

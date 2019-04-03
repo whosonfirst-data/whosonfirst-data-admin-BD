@@ -1,0 +1,75 @@
+{
+  "id": 1277104951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.8706,23.31685,89.8706,23.31685",
+    "geom:latitude":23.31685,
+    "geom:longitude":89.8706,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3035",
+    "gn:admin3_code":"303558.0",
+    "gn:admin4_code":"30355889.0",
+    "gn:asciiname":"Muksudpur",
+    "gn:country_code":"BD",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1194013,
+    "gn:latitude":23.31685,
+    "gn:longitude":89.8706,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Muks\u016bdpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "South Chand\u012bbari",
+        "Dakhin Chandibardi",
+        "Muks\u016bdpur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421194867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1194013
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"c32c1bc0450234fa2feff0852600262f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421194867,
+            "locality_id":1277104951,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1277104951,
+    "wof:lastmodified":1537585860,
+    "wof:name":"Muksudpur",
+    "wof:parent_id":421194867,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.8706,
+    23.31685,
+    89.8706,
+    23.31685
+],
+  "geometry": {"coordinates":[89.8706,23.31685],"type":"Point"}
+}

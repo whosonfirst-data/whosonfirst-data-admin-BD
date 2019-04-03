@@ -1,0 +1,67 @@
+{
+  "id": 1209545563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.86392,25.65011,88.86392,25.65011",
+    "geom:latitude":25.65011,
+    "geom:longitude":88.86392,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5527.0",
+    "gn:admin3_code":"552777.0",
+    "gn:admin4_code":"55277751.0",
+    "gn:asciiname":"Gobindapur",
+    "gn:country_code":"BD",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1202267,
+    "gn:latitude":25.65011,
+    "gn:longitude":88.86392,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Gobind\u0101pur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Gobind\u0101pur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1202267
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"8ea0b246979d1695ffc8a3f1c4f72a89",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209545563
+        }
+    ],
+    "wof:id":1209545563,
+    "wof:lastmodified":1537586014,
+    "wof:name":"Gobindapur",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.86392,
+    25.65011,
+    88.86392,
+    25.65011
+],
+  "geometry": {"coordinates":[88.86391999999999,25.65011],"type":"Point"}
+}

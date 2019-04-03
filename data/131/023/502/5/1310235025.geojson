@@ -1,0 +1,76 @@
+{
+  "id": 1310235025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.84591,25.22423,89.84591,25.22423",
+    "geom:latitude":25.22423,
+    "geom:longitude":89.84591,
+    "gn:admin1_code":"H",
+    "gn:admin2_code":"3039",
+    "gn:admin3_code":"303907.0",
+    "gn:admin4_code":"30390723.0",
+    "gn:asciiname":"Sadhar Char",
+    "gn:country_code":"BD",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7921186,
+    "gn:latitude":25.22423,
+    "gn:longitude":89.84591,
+    "gn:modification_date":"2016-11-17",
+    "gn:name":"Sadhar Char",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Sadhar Char"
+    ],
+    "name:und_x_variant":[
+        "Dhakanda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        1108803101,
+        421191923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7921186
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"71e225cb5d2d8c027ce200fdd1d64247",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421191923,
+            "locality_id":1310235025,
+            "region_id":1108803101
+        }
+    ],
+    "wof:id":1310235025,
+    "wof:lastmodified":1537586781,
+    "wof:name":"Sadhar Char",
+    "wof:parent_id":421191923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.84591,
+    25.22423,
+    89.84591,
+    25.22423
+],
+  "geometry": {"coordinates":[89.84591,25.22423],"type":"Point"}
+}

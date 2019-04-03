@@ -1,0 +1,73 @@
+{
+  "id": 1310438957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.68777,22.45606,90.68777,22.45606",
+    "geom:latitude":22.45606,
+    "geom:longitude":90.68777,
+    "gn:admin1_code":"85",
+    "gn:admin2_code":"1009.0",
+    "gn:admin3_code":"100921.0",
+    "gn:admin4_code":"10092176.0",
+    "gn:asciiname":"Darun",
+    "gn:country_code":"BD",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1205014,
+    "gn:latitude":22.45606,
+    "gn:longitude":90.68777,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Darun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Darun"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669019,
+        421184491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1205014
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"de11ed764481ec5f61eb99d11adf85ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421184491,
+            "locality_id":1310438957,
+            "region_id":85669019
+        }
+    ],
+    "wof:id":1310438957,
+    "wof:lastmodified":1537586065,
+    "wof:name":"Darun",
+    "wof:parent_id":421184491,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.68777,
+    22.45606,
+    90.68777,
+    22.45606
+],
+  "geometry": {"coordinates":[90.68777,22.45606],"type":"Point"}
+}

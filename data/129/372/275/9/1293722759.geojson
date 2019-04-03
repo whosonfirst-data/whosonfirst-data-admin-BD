@@ -1,0 +1,73 @@
+{
+  "id": 1293722759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.2238,25.9991,88.2238,25.9991",
+    "geom:latitude":25.9991,
+    "geom:longitude":88.2238,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5594.0",
+    "gn:admin3_code":"559486.0",
+    "gn:admin4_code":"55948631.0",
+    "gn:asciiname":"Kazihat",
+    "gn:country_code":"BD",
+    "gn:dem":53,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7487508,
+    "gn:latitude":25.9991,
+    "gn:longitude":88.2238,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Kazih\u0101t",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Kazih\u0101t"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7487508
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"1a9133581cb2cc5ac3a9eef88054f7b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694703,
+            "locality_id":1293722759,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1293722759,
+    "wof:lastmodified":1537586641,
+    "wof:name":"Kazihat",
+    "wof:parent_id":1108694703,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.2238,
+    25.9991,
+    88.2238,
+    25.9991
+],
+  "geometry": {"coordinates":[88.2238,25.9991],"type":"Point"}
+}

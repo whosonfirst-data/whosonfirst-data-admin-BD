@@ -1,0 +1,64 @@
+{
+  "id": 1209347799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.50142,23.55919,90.50142,23.55919",
+    "geom:latitude":23.55919,
+    "geom:longitude":90.50142,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3059",
+    "gn:admin3_code":"305956.0",
+    "gn:admin4_code":"30595676.0",
+    "gn:asciiname":"Ramgopalpur",
+    "gn:country_code":"BD",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1190075,
+    "gn:latitude":23.55919,
+    "gn:longitude":90.50142,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"R\u0101mgop\u0101lpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1190075
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"5f0e4fb198ba313d7d3212382de960d2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209347799
+        }
+    ],
+    "wof:id":1209347799,
+    "wof:lastmodified":1536289851,
+    "wof:name":"Ramgopalpur",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.50142,
+    23.55919,
+    90.50142,
+    23.55919
+],
+  "geometry": {"coordinates":[90.50142,23.55919],"type":"Point"}
+}

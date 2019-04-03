@@ -1,0 +1,70 @@
+{
+  "id": 1326667371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.45205,25.09494,89.45205,25.09494",
+    "geom:latitude":25.09494,
+    "geom:longitude":89.45205,
+    "gn:admin1_code":"83",
+    "gn:asciiname":"Sarutipur",
+    "gn:country_code":"BD",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7892247,
+    "gn:latitude":25.09494,
+    "gn:longitude":89.45205,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Sarutipur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Sarutipur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7892247
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"6b2311c1358b42ff343aee2a0c1c7c7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694675,
+            "locality_id":1326667371,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1326667371,
+    "wof:lastmodified":1537586756,
+    "wof:name":"Sarutipur",
+    "wof:parent_id":1108694675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.45205,
+    25.09494,
+    89.45205,
+    25.09494
+],
+  "geometry": {"coordinates":[89.45205,25.09494],"type":"Point"}
+}

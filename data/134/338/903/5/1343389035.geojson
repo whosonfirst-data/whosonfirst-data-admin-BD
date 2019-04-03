@@ -1,0 +1,73 @@
+{
+  "id": 1343389035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.10832,24.29492,90.10832,24.29492",
+    "geom:latitude":24.29492,
+    "geom:longitude":90.10832,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3093",
+    "gn:admin3_code":"309385.0",
+    "gn:admin4_code":"30938527.0",
+    "gn:asciiname":"Kala Madhu",
+    "gn:country_code":"BD",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1199452,
+    "gn:latitude":24.29492,
+    "gn:longitude":90.10832,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Kala Madhu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kaia Madhu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421185471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1199452
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"bb1c224523cf4b8051bba26828649ef0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421185471,
+            "locality_id":1343389035,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1343389035,
+    "wof:lastmodified":1537585960,
+    "wof:name":"Kala Madhu",
+    "wof:parent_id":421185471,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.10832,
+    24.29492,
+    90.10832,
+    24.29492
+],
+  "geometry": {"coordinates":[90.10832000000001,24.29492],"type":"Point"}
+}

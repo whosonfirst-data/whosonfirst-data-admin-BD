@@ -1,0 +1,70 @@
+{
+  "id": 1226571099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.9364,24.10466,90.9364,24.10466",
+    "geom:latitude":24.10466,
+    "geom:longitude":90.9364,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3048",
+    "gn:admin3_code":"304811.0",
+    "gn:admin4_code":"30481147.0",
+    "gn:asciiname":"Mirar Char",
+    "gn:country_code":"BD",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1194395,
+    "gn:latitude":24.10466,
+    "gn:longitude":90.9364,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Mir\u0101r Char",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421170483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1194395
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"694e59739489a43be1ba4ef9590bb8ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421170483,
+            "locality_id":1226571099,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1226571099,
+    "wof:lastmodified":1536962486,
+    "wof:name":"Mirar Char",
+    "wof:parent_id":421170483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.9364,
+    24.10466,
+    90.9364,
+    24.10466
+],
+  "geometry": {"coordinates":[90.93640000000001,24.10466],"type":"Point"}
+}

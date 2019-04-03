@@ -1,0 +1,70 @@
+{
+  "id": 1276472811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.99487,23.86936,89.99487,23.86936",
+    "geom:latitude":23.86936,
+    "geom:longitude":89.99487,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3056.0",
+    "gn:admin3_code":"305646.0",
+    "gn:admin4_code":"30564600.0",
+    "gn:asciiname":"Bhanumati",
+    "gn:country_code":"BD",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1209197,
+    "gn:latitude":23.86936,
+    "gn:longitude":89.99487,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Bh\u0101numati",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421191745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1209197
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"ae37eec4823f2c85cf93253868387296",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421191745,
+            "locality_id":1276472811,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1276472811,
+    "wof:lastmodified":1537086073,
+    "wof:name":"Bhanumati",
+    "wof:parent_id":421191745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.99486999999998,
+    23.86936,
+    89.99486999999998,
+    23.86936
+],
+  "geometry": {"coordinates":[89.99486999999998,23.86936],"type":"Point"}
+}

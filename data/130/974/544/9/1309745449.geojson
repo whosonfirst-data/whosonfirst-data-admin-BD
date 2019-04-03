@@ -1,0 +1,70 @@
+{
+  "id": 1309745449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.75884,22.53228,90.75884,22.53228",
+    "geom:latitude":22.53228,
+    "geom:longitude":90.75884,
+    "gn:admin1_code":"85",
+    "gn:admin2_code":"1009.0",
+    "gn:admin3_code":"100921.0",
+    "gn:admin4_code":"10092109.0",
+    "gn:asciiname":"Char Madhyam Lamchhidhali",
+    "gn:country_code":"BD",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1206676,
+    "gn:latitude":22.53228,
+    "gn:longitude":90.75884,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Char Madhyam L\u0101mchhidhali",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669019,
+        421184491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1206676
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"b5b65b11e2a3f679742b600f886af7b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421184491,
+            "locality_id":1309745449,
+            "region_id":85669019
+        }
+    ],
+    "wof:id":1309745449,
+    "wof:lastmodified":1537017498,
+    "wof:name":"Char Madhyam Lamchhidhali",
+    "wof:parent_id":421184491,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.75884,
+    22.53228,
+    90.75884,
+    22.53228
+],
+  "geometry": {"coordinates":[90.75884000000001,22.53228],"type":"Point"}
+}

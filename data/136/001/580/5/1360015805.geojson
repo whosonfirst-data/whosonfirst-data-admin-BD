@@ -1,0 +1,75 @@
+{
+  "id": 1360015805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.2,25.1,90.2,25.1",
+    "geom:latitude":25.1,
+    "geom:longitude":90.2,
+    "gn:admin1_code":"H",
+    "gn:admin2_code":"3089",
+    "gn:admin3_code":"308970.0",
+    "gn:admin4_code":"30897051.0",
+    "gn:asciiname":"Melkai",
+    "gn:cc2":"BD",
+    "gn:country_code":"BD",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1194467,
+    "gn:latitude":25.1,
+    "gn:longitude":90.2,
+    "gn:modification_date":"2016-11-17",
+    "gn:name":"Melk\u0101i",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Malkai",
+        "Melk\u0101i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        1108803101,
+        421190979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1194467
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"6bf639f615249868f4a4339e858b4554",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421190979,
+            "locality_id":1360015805,
+            "region_id":1108803101
+        }
+    ],
+    "wof:id":1360015805,
+    "wof:lastmodified":1537585870,
+    "wof:name":"Melkai",
+    "wof:parent_id":421190979,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.2,
+    25.1,
+    90.2,
+    25.1
+],
+  "geometry": {"coordinates":[90.2,25.1],"type":"Point"}
+}

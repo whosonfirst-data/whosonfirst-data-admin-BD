@@ -1,0 +1,70 @@
+{
+  "id": 1360214645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.81667,22.68333,89.81667,22.68333",
+    "geom:latitude":22.68333,
+    "geom:longitude":89.81667,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4001.0",
+    "gn:admin3_code":"400108.0",
+    "gn:admin4_code":"40010851.0",
+    "gn:asciiname":"Gotapara",
+    "gn:country_code":"BD",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1201950,
+    "gn:latitude":22.68333,
+    "gn:longitude":89.81667,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Got\u0101p\u0101ra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        421187747
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1201950
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"9c984598265be45d21c2285f98688bad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421187747,
+            "locality_id":1360214645,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1360214645,
+    "wof:lastmodified":1536759054,
+    "wof:name":"Gotapara",
+    "wof:parent_id":421187747,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.81667,
+    22.68333,
+    89.81667,
+    22.68333
+],
+  "geometry": {"coordinates":[89.81667,22.68333],"type":"Point"}
+}

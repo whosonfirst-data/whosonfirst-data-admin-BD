@@ -1,0 +1,64 @@
+{
+  "id": 1209648785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.24188,24.78595,90.24188,24.78595",
+    "geom:latitude":24.78595,
+    "geom:longitude":90.24188,
+    "gn:admin1_code":"H",
+    "gn:admin2_code":"3061",
+    "gn:admin3_code":"306165.0",
+    "gn:admin4_code":"30616577.0",
+    "gn:asciiname":"Sripur Maijhati",
+    "gn:country_code":"BD",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1187181,
+    "gn:latitude":24.78595,
+    "gn:longitude":90.24188,
+    "gn:modification_date":"2016-11-17",
+    "gn:name":"Sripur M\u0101ijh\u0101ti",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1187181
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"0e01fd0e736a937deec5924d67b7eb6c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209648785
+        }
+    ],
+    "wof:id":1209648785,
+    "wof:lastmodified":1536280648,
+    "wof:name":"Sripur Maijhati",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.24188,
+    24.78595,
+    90.24188,
+    24.78595
+],
+  "geometry": {"coordinates":[90.24187999999999,24.78595],"type":"Point"}
+}

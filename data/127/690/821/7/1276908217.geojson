@@ -1,0 +1,70 @@
+{
+  "id": 1276908217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.98323,23.90574,89.98323,23.90574",
+    "geom:latitude":23.90574,
+    "geom:longitude":89.98323,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3056",
+    "gn:admin3_code":"305646.0",
+    "gn:admin4_code":"30564631.0",
+    "gn:asciiname":"Panjan Khara",
+    "gn:country_code":"BD",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1192564,
+    "gn:latitude":23.90574,
+    "gn:longitude":89.98323,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"P\u0101njan Khara",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421191745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1192564
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"bff1e1688e6088cb1a3c14be462b0160",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421191745,
+            "locality_id":1276908217,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1276908217,
+    "wof:lastmodified":1537002553,
+    "wof:name":"Panjan Khara",
+    "wof:parent_id":421191745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.98323,
+    23.90574,
+    89.98323,
+    23.90574
+],
+  "geometry": {"coordinates":[89.98323000000001,23.90574],"type":"Point"}
+}

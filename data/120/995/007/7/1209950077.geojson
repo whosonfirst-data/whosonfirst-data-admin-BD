@@ -1,0 +1,73 @@
+{
+  "id": 1209950077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.80095,25.30048,89.80095,25.30048",
+    "geom:latitude":25.30048,
+    "geom:longitude":89.80095,
+    "gn:admin1_code":"H",
+    "gn:admin2_code":"3039",
+    "gn:admin3_code":"303915.0",
+    "gn:admin4_code":"30391587.0",
+    "gn:asciiname":"Baniapara",
+    "gn:country_code":"BD",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7925492,
+    "gn:latitude":25.30048,
+    "gn:longitude":89.80095,
+    "gn:modification_date":"2016-11-17",
+    "gn:name":"B\u0101niap\u0101ra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "B\u0101niap\u0101ra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        1108803101,
+        421191923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7925492
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"e200dae55ab470bb249f77f7d3ded4a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421191923,
+            "locality_id":1209950077,
+            "region_id":1108803101
+        }
+    ],
+    "wof:id":1209950077,
+    "wof:lastmodified":1537586819,
+    "wof:name":"Baniapara",
+    "wof:parent_id":421191923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.80095,
+    25.30048,
+    89.80095,
+    25.30048
+],
+  "geometry": {"coordinates":[89.80095,25.30048],"type":"Point"}
+}

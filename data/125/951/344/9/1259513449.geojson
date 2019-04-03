@@ -1,0 +1,73 @@
+{
+  "id": 1259513449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.00011,25.22472,89.00011,25.22472",
+    "geom:latitude":25.22472,
+    "geom:longitude":89.00011,
+    "gn:admin1_code":"83",
+    "gn:admin2_code":"5038.0",
+    "gn:admin3_code":"503874.0",
+    "gn:admin4_code":"50387463.0",
+    "gn:asciiname":"Daibaki Nandanpur",
+    "gn:country_code":"BD",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7887758,
+    "gn:latitude":25.22472,
+    "gn:longitude":89.00011,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Daibaki Nandanpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Daibaki Nandanpur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669031,
+        1108694681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7887758
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"6c03fee5bfff923b5a839d6d5a13c342",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694681,
+            "locality_id":1259513449,
+            "region_id":85669031
+        }
+    ],
+    "wof:id":1259513449,
+    "wof:lastmodified":1537586714,
+    "wof:name":"Daibaki Nandanpur",
+    "wof:parent_id":1108694681,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.00010999999998,
+    25.22472,
+    89.00010999999998,
+    25.22472
+],
+  "geometry": {"coordinates":[89.00010999999998,25.22472],"type":"Point"}
+}

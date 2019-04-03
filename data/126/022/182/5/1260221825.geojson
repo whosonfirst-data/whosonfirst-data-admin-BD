@@ -1,0 +1,76 @@
+{
+  "id": 1260221825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.63033,23.77687,88.63033,23.77687",
+    "geom:latitude":23.77687,
+    "geom:longitude":88.63033,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4057",
+    "gn:admin3_code":"405787.0",
+    "gn:admin4_code":"40578700.0",
+    "gn:asciiname":"Meherpur",
+    "gn:country_code":"BD",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8304418,
+    "gn:latitude":23.77687,
+    "gn:longitude":88.63033,
+    "gn:modification_date":"2018-07-14",
+    "gn:name":"Meherpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Meherpur"
+    ],
+    "name:eng_x_preferred":[
+        "Meherpur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        421191661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8304418
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"9c900aeba4e8fed76ef98bb4e28f0c1a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421191661,
+            "locality_id":1260221825,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1260221825,
+    "wof:lastmodified":1537586864,
+    "wof:name":"Meherpur",
+    "wof:parent_id":421191661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.63033,
+    23.77687,
+    88.63033,
+    23.77687
+],
+  "geometry": {"coordinates":[88.63033,23.77687],"type":"Point"}
+}

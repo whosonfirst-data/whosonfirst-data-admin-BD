@@ -1,0 +1,74 @@
+{
+  "id": 1210053755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.86116,22.55249,89.86116,22.55249",
+    "geom:latitude":22.55249,
+    "geom:longitude":89.86116,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4001.0",
+    "gn:admin3_code":"400160.0",
+    "gn:admin4_code":"40016035.0",
+    "gn:asciiname":"Daibagnyahati",
+    "gn:country_code":"BD",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1205587,
+    "gn:latitude":22.55249,
+    "gn:longitude":89.86116,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Daibagnyah\u0101ti",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Daibajnahati",
+        "Daibagnyah\u0101ti"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        421187747
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1205587
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"29e462903dfdc6d084a1a49f4077f5af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421187747,
+            "locality_id":1210053755,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1210053755,
+    "wof:lastmodified":1537586076,
+    "wof:name":"Daibagnyahati",
+    "wof:parent_id":421187747,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.86116,
+    22.55249,
+    89.86116,
+    22.55249
+],
+  "geometry": {"coordinates":[89.86116,22.55249],"type":"Point"}
+}

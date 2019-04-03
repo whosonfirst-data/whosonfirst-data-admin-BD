@@ -1,0 +1,70 @@
+{
+  "id": 1360322601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.75364,23.92172,90.75364,23.92172",
+    "geom:latitude":23.92172,
+    "geom:longitude":90.75364,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3068.0",
+    "gn:admin3_code":"306864.0",
+    "gn:admin4_code":"30686410.0",
+    "gn:asciiname":"Bhati Badarpur",
+    "gn:country_code":"BD",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1209072,
+    "gn:latitude":23.92172,
+    "gn:longitude":90.75364,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Bh\u0101ti Badarpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421169707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1209072
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"51e3d9864e46c06e4a99c3b86deaed63",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421169707,
+            "locality_id":1360322601,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1360322601,
+    "wof:lastmodified":1536599998,
+    "wof:name":"Bhati Badarpur",
+    "wof:parent_id":421169707,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.75364,
+    23.92172,
+    90.75364,
+    23.92172
+],
+  "geometry": {"coordinates":[90.75364,23.92172],"type":"Point"}
+}

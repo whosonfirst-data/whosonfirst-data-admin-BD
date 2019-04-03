@@ -1,0 +1,70 @@
+{
+  "id": 1310531725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.57358,23.56787,89.57358,23.56787",
+    "geom:latitude":23.56787,
+    "geom:longitude":89.57358,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3029.0",
+    "gn:admin3_code":"302956.0",
+    "gn:admin4_code":"30295663.0",
+    "gn:asciiname":"Ghorachula",
+    "gn:country_code":"BD",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1202558,
+    "gn:latitude":23.56787,
+    "gn:longitude":89.57358,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Ghor\u0101chula",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421198063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1202558
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"cbe65a38ae6cc93e1e154b498a3e50a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421198063,
+            "locality_id":1310531725,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1310531725,
+    "wof:lastmodified":1536878397,
+    "wof:name":"Ghorachula",
+    "wof:parent_id":421198063,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.57358,
+    23.56787000000001,
+    89.57358,
+    23.56787000000001
+],
+  "geometry": {"coordinates":[89.57358000000001,23.56787000000001],"type":"Point"}
+}

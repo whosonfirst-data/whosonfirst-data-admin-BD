@@ -1,0 +1,75 @@
+{
+  "id": 1360322553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.70602,23.9836,90.70602,23.9836",
+    "geom:latitude":23.9836,
+    "geom:longitude":90.70602,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3068",
+    "gn:admin3_code":"306863.0",
+    "gn:admin4_code":"30686347.0",
+    "gn:asciiname":"Saiyider Khola",
+    "gn:country_code":"BD",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1189089,
+    "gn:latitude":23.9836,
+    "gn:longitude":90.70602,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Saiyider Khola",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sayaderkhola",
+        "Saiyaderkhola",
+        "Saiyider Khola"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421169707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1189089
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"75e38f5e9a1b219ccb386ae7f1ed54cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421169707,
+            "locality_id":1360322553,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1360322553,
+    "wof:lastmodified":1537585773,
+    "wof:name":"Saiyider Khola",
+    "wof:parent_id":421169707,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.70602,
+    23.9836,
+    90.70602,
+    23.9836
+],
+  "geometry": {"coordinates":[90.70602,23.9836],"type":"Point"}
+}

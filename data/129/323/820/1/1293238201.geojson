@@ -1,0 +1,73 @@
+{
+  "id": 1293238201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.14648,23.0578,89.14648,23.0578",
+    "geom:latitude":23.0578,
+    "geom:longitude":89.14648,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4041",
+    "gn:admin3_code":"404161.0",
+    "gn:admin4_code":"40416189.0",
+    "gn:asciiname":"Kodlapara",
+    "gn:country_code":"BD",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1197080,
+    "gn:latitude":23.0578,
+    "gn:longitude":89.14648,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Kodl\u0101p\u0101ra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Kodl\u0101p\u0101ra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        421176039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1197080
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"49b33ae22b4ee66bac235d988195f8bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421176039,
+            "locality_id":1293238201,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1293238201,
+    "wof:lastmodified":1537585916,
+    "wof:name":"Kodlapara",
+    "wof:parent_id":421176039,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.14648000000003,
+    23.0578,
+    89.14648000000003,
+    23.0578
+],
+  "geometry": {"coordinates":[89.14648000000003,23.0578],"type":"Point"}
+}

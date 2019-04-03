@@ -1,0 +1,70 @@
+{
+  "id": 1293817339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.84802,23.90345,90.84802,23.90345",
+    "geom:latitude":23.90345,
+    "geom:longitude":90.84802,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3068",
+    "gn:admin3_code":"306864.0",
+    "gn:admin4_code":"30686471.0",
+    "gn:asciiname":"Nilakshya",
+    "gn:country_code":"BD",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1192831,
+    "gn:latitude":23.90345,
+    "gn:longitude":90.84802,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Nilakshya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421169707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1192831
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"dd61086a510f2269dd8c3823cbefb7e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421169707,
+            "locality_id":1293817339,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1293817339,
+    "wof:lastmodified":1536808343,
+    "wof:name":"Nilakshya",
+    "wof:parent_id":421169707,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.84802,
+    23.90345,
+    90.84802,
+    23.90345
+],
+  "geometry": {"coordinates":[90.84802000000001,23.90345],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1225874771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.95406,23.72051,88.95406,23.72051",
+    "geom:latitude":23.72051,
+    "geom:longitude":88.95406,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4018.0",
+    "gn:admin3_code":"401807.0",
+    "gn:admin4_code":"40180707.0",
+    "gn:asciiname":"Poamari",
+    "gn:country_code":"BD",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7484895,
+    "gn:latitude":23.72051,
+    "gn:longitude":88.95406,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Po\u0101m\u0101ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Po\u0101m\u0101ri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        421194153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7484895
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"1aa4864c2b00f9e6382f21163c3dca0a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421194153,
+            "locality_id":1225874771,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1225874771,
+    "wof:lastmodified":1537586577,
+    "wof:name":"Poamari",
+    "wof:parent_id":421194153,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.95406,
+    23.72051,
+    88.95406,
+    23.72051
+],
+  "geometry": {"coordinates":[88.95406,23.72051],"type":"Point"}
+}

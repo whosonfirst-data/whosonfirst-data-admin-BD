@@ -1,0 +1,76 @@
+{
+  "id": 1309935693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.76831,23.2426,89.76831,23.2426",
+    "geom:latitude":23.2426,
+    "geom:longitude":89.76831,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3035.0",
+    "gn:admin3_code":"303543.0",
+    "gn:admin4_code":"30354388.0",
+    "gn:asciiname":"Bhattai Dhoba",
+    "gn:country_code":"BD",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1208994,
+    "gn:latitude":23.2426,
+    "gn:longitude":89.76831,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Bh\u0101ttai Dhoba",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Bh\u0101ttai Dhoba"
+    ],
+    "name:und_x_variant":[
+        "Bhattaidhopa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421194867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1208994
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"a2651ef97fce20750ae241a12eba4b5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421194867,
+            "locality_id":1309935693,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1309935693,
+    "wof:lastmodified":1537586140,
+    "wof:name":"Bhattai Dhoba",
+    "wof:parent_id":421194867,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.76831,
+    23.2426,
+    89.76831,
+    23.2426
+],
+  "geometry": {"coordinates":[89.76831,23.2426],"type":"Point"}
+}

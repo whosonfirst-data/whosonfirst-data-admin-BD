@@ -1,0 +1,70 @@
+{
+  "id": 1310139073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.18333,23.53333,90.18333,23.53333",
+    "geom:latitude":23.53333,
+    "geom:longitude":90.18333,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3059",
+    "gn:admin3_code":"305984.0",
+    "gn:admin4_code":"30598413.0",
+    "gn:asciiname":"Kharia",
+    "gn:country_code":"BD",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1197556,
+    "gn:latitude":23.53333,
+    "gn:longitude":90.18333,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Kharia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421205059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1197556
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"0f089478d841e5de8352f93638c5e1d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421205059,
+            "locality_id":1310139073,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1310139073,
+    "wof:lastmodified":1536948450,
+    "wof:name":"Kharia",
+    "wof:parent_id":421205059,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.18333,
+    23.53333,
+    90.18333,
+    23.53333
+],
+  "geometry": {"coordinates":[90.18333,23.53333],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209648649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.16047,22.77331,89.16047,22.77331",
+    "geom:latitude":22.77331,
+    "geom:longitude":89.16047,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4087",
+    "gn:admin3_code":"408790.0",
+    "gn:admin4_code":"40879079.0",
+    "gn:asciiname":"Patkelghata",
+    "gn:country_code":"BD",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1192109,
+    "gn:latitude":22.77331,
+    "gn:longitude":89.16047,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"P\u0101tkelgh\u0101ta",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1192109
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"399f817881d77d22057e6d339d4695ff",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209648649
+        }
+    ],
+    "wof:id":1209648649,
+    "wof:lastmodified":1536280652,
+    "wof:name":"Patkelghata",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.16046999999998,
+    22.77331,
+    89.16046999999998,
+    22.77331
+],
+  "geometry": {"coordinates":[89.16046999999998,22.77331],"type":"Point"}
+}

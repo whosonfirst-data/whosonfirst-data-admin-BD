@@ -1,0 +1,73 @@
+{
+  "id": 1292934111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.05589,25.82425,89.05589,25.82425",
+    "geom:latitude":25.82425,
+    "geom:longitude":89.05589,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5585",
+    "gn:admin3_code":"558592.0",
+    "gn:admin4_code":"55859247.0",
+    "gn:asciiname":"Kachna",
+    "gn:country_code":"BD",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7924055,
+    "gn:latitude":25.82425,
+    "gn:longitude":89.05589,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"K\u0101chna",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "K\u0101chna"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7924055
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"9671b7961805295f29a3792ca7d616be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694701,
+            "locality_id":1292934111,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1292934111,
+    "wof:lastmodified":1537586816,
+    "wof:name":"Kachna",
+    "wof:parent_id":1108694701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.05589,
+    25.82425,
+    89.05589,
+    25.82425
+],
+  "geometry": {"coordinates":[89.05589000000001,25.82425],"type":"Point"}
+}

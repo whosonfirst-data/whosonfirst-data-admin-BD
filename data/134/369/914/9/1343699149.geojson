@@ -1,0 +1,73 @@
+{
+  "id": 1343699149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.23416,22.03588,90.23416,22.03588",
+    "geom:latitude":22.03588,
+    "geom:longitude":90.23416,
+    "gn:admin1_code":"85",
+    "gn:admin2_code":"1004.0",
+    "gn:admin3_code":"100409.0",
+    "gn:admin4_code":"10040907.0",
+    "gn:asciiname":"Sekanderkhali",
+    "gn:country_code":"BD",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7477041,
+    "gn:latitude":22.03588,
+    "gn:longitude":90.23416,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Sekanderkhali",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Sekanderkhali"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669019,
+        421176043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7477041
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"869ada02142070b746e97a9b946e35b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421176043,
+            "locality_id":1343699149,
+            "region_id":85669019
+        }
+    ],
+    "wof:id":1343699149,
+    "wof:lastmodified":1537586360,
+    "wof:name":"Sekanderkhali",
+    "wof:parent_id":421176043,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.23416,
+    22.03588,
+    90.23416,
+    22.03588
+],
+  "geometry": {"coordinates":[90.23416,22.03588],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1276904689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.31592,22.54825,90.31592,22.54825",
+    "geom:latitude":22.54825,
+    "geom:longitude":90.31592,
+    "gn:admin1_code":"85",
+    "gn:admin2_code":"1006",
+    "gn:admin3_code":"100607.0",
+    "gn:admin4_code":"10060794.0",
+    "gn:asciiname":"Kanthalia",
+    "gn:country_code":"BD",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1185194,
+    "gn:latitude":22.54825,
+    "gn:longitude":90.31592,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"K\u0101nth\u0101lia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kathalia",
+        "K\u0101nth\u0101lia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669019,
+        421187745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1185194
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"767c0637ad6f2ed540223ea56242ab37",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421187745,
+            "locality_id":1276904689,
+            "region_id":85669019
+        }
+    ],
+    "wof:id":1276904689,
+    "wof:lastmodified":1537585690,
+    "wof:name":"Kanthalia",
+    "wof:parent_id":421187745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.31592,
+    22.54825,
+    90.31592,
+    22.54825
+],
+  "geometry": {"coordinates":[90.31592000000001,22.54825],"type":"Point"}
+}

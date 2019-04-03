@@ -1,0 +1,81 @@
+{
+  "id": 421183763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.08945,22.81764,91.08945,22.81764",
+    "geom:latitude":22.81764,
+    "geom:longitude":91.08945,
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "Sudh\u00e1r\u00e1m"
+    ],
+    "qs:gn_country":"BD",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":1185103,
+    "qs:gn_pop":0,
+    "qs:name":"Noakhali",
+    "qs:name_adm0":"Bangladesh",
+    "qs:name_adm1":"Chittagong",
+    "qs:photos":57,
+    "qs:photos_1k":12,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":57,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":983991,
+    "qs:woe_adm0":23424759,
+    "qs:woe_id":1915178,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421177051
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1185103,
+        "gp:id":1915178,
+        "qs:id":983991,
+        "wd:id":"Q68585",
+        "wk:page":"Noakhali District"
+    },
+    "wof:country":"BD",
+    "wof:created":1459009381,
+    "wof:geomhash":"9f54c4bbdd3aeb4f2feffecd86b7c1f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421177051,
+            "locality_id":421183763,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":421183763,
+    "wof:lastmodified":1501217018,
+    "wof:name":"Noakhali",
+    "wof:parent_id":421177051,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.08945,
+    22.81764,
+    91.08945,
+    22.81764
+],
+  "geometry": {"coordinates":[91.08945,22.81764],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1309939163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.63396,24.2295,90.63396,24.2295",
+    "geom:latitude":24.2295,
+    "geom:longitude":90.63396,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3033.0",
+    "gn:admin3_code":"303336.0",
+    "gn:admin4_code":"30333694.0",
+    "gn:asciiname":"Dumdia",
+    "gn:country_code":"BD",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1203731,
+    "gn:latitude":24.2295,
+    "gn:longitude":90.63396,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Dumdia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421203493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1203731
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"47f3fa36c7dbd80c390e2dc1236f529e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421203493,
+            "locality_id":1309939163,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1309939163,
+    "wof:lastmodified":1536738907,
+    "wof:name":"Dumdia",
+    "wof:parent_id":421203493,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.63396,
+    24.2295,
+    90.63396,
+    24.2295
+],
+  "geometry": {"coordinates":[90.63396,24.2295],"type":"Point"}
+}

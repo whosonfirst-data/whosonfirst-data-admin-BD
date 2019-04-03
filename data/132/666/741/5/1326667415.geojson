@@ -1,0 +1,80 @@
+{
+  "id": 1326667415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.7118,25.9486,89.7118,25.9486",
+    "geom:latitude":25.9486,
+    "geom:longitude":89.7118,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5549",
+    "gn:admin3_code":"554961.0",
+    "gn:admin4_code":"55496156.0",
+    "gn:asciiname":"Purba Payradanga",
+    "gn:country_code":"BD",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1190713,
+    "gn:latitude":25.9486,
+    "gn:longitude":89.7118,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Purba P\u0101yr\u0101danga",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Purba P\u0101yr\u0101danga"
+    ],
+    "name:ben_x_variant":[
+        "Purba Payradanga",
+        "Purba P\u0101y\u0101d\u0101nga"
+    ],
+    "name:und_x_variant":[
+        "Purba P\u0101y\u0101d\u0101nga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1190713
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"4d65f8e27e6ea7e08fe15e8880e1a2a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694685,
+            "locality_id":1326667415,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1326667415,
+    "wof:lastmodified":1537585801,
+    "wof:name":"Purba Payradanga",
+    "wof:parent_id":1108694685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.7118,
+    25.9486,
+    89.7118,
+    25.9486
+],
+  "geometry": {"coordinates":[89.7118,25.9486],"type":"Point"}
+}

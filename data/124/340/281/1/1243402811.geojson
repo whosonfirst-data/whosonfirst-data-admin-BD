@@ -1,0 +1,70 @@
+{
+  "id": 1243402811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.82219,23.71619,90.82219,23.71619",
+    "geom:latitude":23.71619,
+    "geom:longitude":90.82219,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2019",
+    "gn:admin3_code":"201954.0",
+    "gn:admin4_code":"20195438.0",
+    "gn:asciiname":"Pathaliakandi",
+    "gn:country_code":"BD",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1192162,
+    "gn:latitude":23.71619,
+    "gn:longitude":90.82219,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"P\u0101th\u0101li\u0101k\u0101ndi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421187801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1192162
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"377f37b2b9e458367962ace16a37c155",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421187801,
+            "locality_id":1243402811,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1243402811,
+    "wof:lastmodified":1536867287,
+    "wof:name":"Pathaliakandi",
+    "wof:parent_id":421187801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.82219,
+    23.71619,
+    90.82219,
+    23.71619
+],
+  "geometry": {"coordinates":[90.82219000000001,23.71619],"type":"Point"}
+}

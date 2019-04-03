@@ -1,0 +1,70 @@
+{
+  "id": 1293030931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.74393,24.60803,90.74393,24.60803",
+    "geom:latitude":24.60803,
+    "geom:longitude":90.74393,
+    "gn:admin1_code":"H",
+    "gn:admin2_code":"3061",
+    "gn:admin3_code":"306172.0",
+    "gn:admin4_code":"30617231.0",
+    "gn:asciiname":"Sialdhara",
+    "gn:country_code":"BD",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1188092,
+    "gn:latitude":24.60803,
+    "gn:longitude":90.74393,
+    "gn:modification_date":"2016-11-17",
+    "gn:name":"Si\u0101ldhara",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        1108803101,
+        421185469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1188092
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"6c4d0d953b54f85593cc881af0353f3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421185469,
+            "locality_id":1293030931,
+            "region_id":1108803101
+        }
+    ],
+    "wof:id":1293030931,
+    "wof:lastmodified":1536948688,
+    "wof:name":"Sialdhara",
+    "wof:parent_id":421185469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.74393,
+    24.60803,
+    90.74393,
+    24.60803
+],
+  "geometry": {"coordinates":[90.74393000000001,24.60803],"type":"Point"}
+}

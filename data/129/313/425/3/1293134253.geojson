@@ -1,0 +1,74 @@
+{
+  "id": 1293134253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.82833,25.01772,90.82833,25.01772",
+    "geom:latitude":25.01772,
+    "geom:longitude":90.82833,
+    "gn:admin1_code":"H",
+    "gn:admin2_code":"3072",
+    "gn:admin3_code":"307240.0",
+    "gn:admin4_code":"30724023.0",
+    "gn:asciiname":"Pogla",
+    "gn:country_code":"BD",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1191022,
+    "gn:latitude":25.01772,
+    "gn:longitude":90.82833,
+    "gn:modification_date":"2016-11-17",
+    "gn:name":"Pogla",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pagla",
+        "Pogla"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        1108803101,
+        421200811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1191022
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"8a3316a6a9a6d85ce0287ed3f6e86a51",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421200811,
+            "locality_id":1293134253,
+            "region_id":1108803101
+        }
+    ],
+    "wof:id":1293134253,
+    "wof:lastmodified":1537585807,
+    "wof:name":"Pogla",
+    "wof:parent_id":421200811,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.82833,
+    25.01772,
+    90.82833,
+    25.01772
+],
+  "geometry": {"coordinates":[90.82832999999999,25.01772],"type":"Point"}
+}

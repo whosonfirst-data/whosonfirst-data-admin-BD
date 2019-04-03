@@ -1,0 +1,73 @@
+{
+  "id": 1343888335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.94218,24.22749,88.94218,24.22749",
+    "geom:latitude":24.22749,
+    "geom:longitude":88.94218,
+    "gn:admin1_code":"83",
+    "gn:admin2_code":"5069.0",
+    "gn:admin3_code":"506944.0",
+    "gn:admin4_code":"50694409.0",
+    "gn:asciiname":"Salampur",
+    "gn:country_code":"BD",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7483940,
+    "gn:latitude":24.22749,
+    "gn:longitude":88.94218,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"S\u0101l\u0101mpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "S\u0101l\u0101mpur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669031,
+        421182115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7483940
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"8f414307440492d3c0749baaaab00244",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421182115,
+            "locality_id":1343888335,
+            "region_id":85669031
+        }
+    ],
+    "wof:id":1343888335,
+    "wof:lastmodified":1537586551,
+    "wof:name":"Salampur",
+    "wof:parent_id":421182115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.94218000000002,
+    24.22749,
+    88.94218000000002,
+    24.22749
+],
+  "geometry": {"coordinates":[88.94218000000002,24.22749],"type":"Point"}
+}

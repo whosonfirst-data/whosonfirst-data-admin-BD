@@ -1,0 +1,74 @@
+{
+  "id": 1243100649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.08065,23.16464,90.08065,23.16464",
+    "geom:latitude":23.16464,
+    "geom:longitude":90.08065,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3054.0",
+    "gn:admin3_code":"305480.0",
+    "gn:admin4_code":"30548028.0",
+    "gn:asciiname":"Chhota Kakbajkhil",
+    "gn:country_code":"BD",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1205956,
+    "gn:latitude":23.16464,
+    "gn:longitude":90.08065,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Chhota K\u0101kb\u0101jkhil",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chota Kakbajkhil",
+        "Chhota K\u0101kb\u0101jkhil"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421183929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1205956
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"529bfc6b19e13f65a23c5aa64fce959f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421183929,
+            "locality_id":1243100649,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1243100649,
+    "wof:lastmodified":1537586084,
+    "wof:name":"Chhota Kakbajkhil",
+    "wof:parent_id":421183929,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.08065,
+    23.16464,
+    90.08065,
+    23.16464
+],
+  "geometry": {"coordinates":[90.08065000000001,23.16464],"type":"Point"}
+}

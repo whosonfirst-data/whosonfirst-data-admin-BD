@@ -1,0 +1,70 @@
+{
+  "id": 1225981959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.47096,22.75157,89.47096,22.75157",
+    "geom:latitude":22.75157,
+    "geom:longitude":89.47096,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4047",
+    "gn:admin3_code":"404712.0",
+    "gn:admin4_code":"40471235.0",
+    "gn:asciiname":"Khalsibunia",
+    "gn:country_code":"BD",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1197671,
+    "gn:latitude":22.75157,
+    "gn:longitude":89.47096,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Khalsibunia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        421185473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1197671
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"b6f63c69f7539f9cc0b6625e372a6916",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421185473,
+            "locality_id":1225981959,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1225981959,
+    "wof:lastmodified":1536816156,
+    "wof:name":"Khalsibunia",
+    "wof:parent_id":421185473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.47095999999998,
+    22.75157,
+    89.47095999999998,
+    22.75157
+],
+  "geometry": {"coordinates":[89.47095999999998,22.75157],"type":"Point"}
+}

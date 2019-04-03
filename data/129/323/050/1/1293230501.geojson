@@ -1,0 +1,73 @@
+{
+  "id": 1293230501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.03197,26.15265,89.03197,26.15265",
+    "geom:latitude":26.15265,
+    "geom:longitude":89.03197,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5573",
+    "gn:admin3_code":"557312.0",
+    "gn:admin4_code":"55731247.0",
+    "gn:asciiname":"Dalia",
+    "gn:country_code":"BD",
+    "gn:dem":53,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8022269,
+    "gn:latitude":26.15265,
+    "gn:longitude":89.03197,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Dalia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Dalia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8022269
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"cdf8dfb36f425a547b00f6fde6990f2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694695,
+            "locality_id":1293230501,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1293230501,
+    "wof:lastmodified":1537586831,
+    "wof:name":"Dalia",
+    "wof:parent_id":1108694695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.03197,
+    26.15265,
+    89.03197,
+    26.15265
+],
+  "geometry": {"coordinates":[89.03197,26.15265],"type":"Point"}
+}

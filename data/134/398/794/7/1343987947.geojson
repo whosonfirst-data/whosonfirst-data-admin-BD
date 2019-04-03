@@ -1,0 +1,70 @@
+{
+  "id": 1343987947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.24308,24.8625,89.24308,24.8625",
+    "geom:latitude":24.8625,
+    "geom:longitude":89.24308,
+    "gn:admin1_code":"83",
+    "gn:admin2_code":"5010",
+    "gn:admin3_code":"501054.0",
+    "gn:admin4_code":"50105476.0",
+    "gn:asciiname":"Lohajal",
+    "gn:country_code":"BD",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1196022,
+    "gn:latitude":24.8625,
+    "gn:longitude":89.24308,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Lohaj\u0101l",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669031,
+        421187793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1196022
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"0a0772accf8086c1cff3f00a5f275ec5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421187793,
+            "locality_id":1343987947,
+            "region_id":85669031
+        }
+    ],
+    "wof:id":1343987947,
+    "wof:lastmodified":1536979800,
+    "wof:name":"Lohajal",
+    "wof:parent_id":421187793,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.24308,
+    24.8625,
+    89.24308,
+    24.8625
+],
+  "geometry": {"coordinates":[89.24308000000001,24.8625],"type":"Point"}
+}

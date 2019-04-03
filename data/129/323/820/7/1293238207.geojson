@@ -1,0 +1,70 @@
+{
+  "id": 1293238207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.73848,22.12426,90.73848,22.12426",
+    "geom:latitude":22.12426,
+    "geom:longitude":90.73848,
+    "gn:admin1_code":"82",
+    "gn:asciiname":"Hazariganj",
+    "gn:country_code":"BD",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7477660,
+    "gn:latitude":22.12426,
+    "gn:longitude":90.73848,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"H\u0101z\u0101riganj",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "H\u0101z\u0101riganj"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669019,
+        421184491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7477660
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"29863942362d9d9125cf3757067edc89",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421184491,
+            "locality_id":1293238207,
+            "region_id":85669019
+        }
+    ],
+    "wof:id":1293238207,
+    "wof:lastmodified":1537586372,
+    "wof:name":"Hazariganj",
+    "wof:parent_id":421184491,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.73848,
+    22.12426,
+    90.73848,
+    22.12426
+],
+  "geometry": {"coordinates":[90.73848,22.12426],"type":"Point"}
+}

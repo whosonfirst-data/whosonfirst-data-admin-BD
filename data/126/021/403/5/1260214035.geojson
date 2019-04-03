@@ -1,0 +1,70 @@
+{
+  "id": 1260214035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.57948,25.05551,89.57948,25.05551",
+    "geom:latitude":25.05551,
+    "geom:longitude":89.57948,
+    "gn:admin1_code":"83",
+    "gn:asciiname":"Nalchhia",
+    "gn:country_code":"BD",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7905658,
+    "gn:latitude":25.05551,
+    "gn:longitude":89.57948,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Nalchhia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Nalchhia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7905658
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"54f3b9e0e99b83bb19402141fd90d0bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694675,
+            "locality_id":1260214035,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1260214035,
+    "wof:lastmodified":1537586778,
+    "wof:name":"Nalchhia",
+    "wof:parent_id":1108694675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.57948,
+    25.05551,
+    89.57948,
+    25.05551
+],
+  "geometry": {"coordinates":[89.57948,25.05551],"type":"Point"}
+}

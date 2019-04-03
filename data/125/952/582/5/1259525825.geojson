@@ -1,0 +1,70 @@
+{
+  "id": 1259525825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.7,23.1,90.7,23.1",
+    "geom:latitude":23.1,
+    "geom:longitude":90.7,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2013",
+    "gn:admin3_code":"201345.0",
+    "gn:admin4_code":"20134547.0",
+    "gn:asciiname":"Rampur Hat",
+    "gn:country_code":"BD",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1189920,
+    "gn:latitude":23.1,
+    "gn:longitude":90.7,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"R\u0101mpur H\u0101t",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        1108694669
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1189920
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"93eea305cc2c83203f4e49a0476fb4c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694669,
+            "locality_id":1259525825,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1259525825,
+    "wof:lastmodified":1536798124,
+    "wof:name":"Rampur Hat",
+    "wof:parent_id":1108694669,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.7,
+    23.1,
+    90.7,
+    23.1
+],
+  "geometry": {"coordinates":[90.7,23.1],"type":"Point"}
+}

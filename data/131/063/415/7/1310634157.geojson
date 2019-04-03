@@ -1,0 +1,73 @@
+{
+  "id": 1310634157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.26535,25.42778,89.26535,25.42778",
+    "geom:latitude":25.42778,
+    "geom:longitude":89.26535,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5585",
+    "gn:admin3_code":"558576.0",
+    "gn:admin4_code":"55857675.0",
+    "gn:asciiname":"Phalia",
+    "gn:country_code":"BD",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7891866,
+    "gn:latitude":25.42778,
+    "gn:longitude":89.26535,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Phalia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Phalia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7891866
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"d2ff69deabfd65dd9f3414e63b280f8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694701,
+            "locality_id":1310634157,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1310634157,
+    "wof:lastmodified":1537586754,
+    "wof:name":"Phalia",
+    "wof:parent_id":1108694701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.26535,
+    25.42778,
+    89.26535,
+    25.42778
+],
+  "geometry": {"coordinates":[89.26535,25.42778],"type":"Point"}
+}

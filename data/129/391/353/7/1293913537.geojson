@@ -1,0 +1,77 @@
+{
+  "id": 1293913537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.90376,22.41421,89.90376,22.41421",
+    "geom:latitude":22.41421,
+    "geom:longitude":89.90376,
+    "gn:admin1_code":"85",
+    "gn:admin2_code":"1079",
+    "gn:admin3_code":"107988.0",
+    "gn:admin4_code":"10798808.0",
+    "gn:asciiname":"Chandipur",
+    "gn:country_code":"BD",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1199208,
+    "gn:latitude":22.41421,
+    "gn:longitude":89.90376,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Chandipur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Chandipur"
+    ],
+    "name:ben_x_variant":[
+        "Kal\u0101ran Chandipur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        421187747
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1199208,
+        "wk:page":"Kalaran_Chandipur"
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"26759a82bca4ed47ead0d4581bbc480f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421187747,
+            "locality_id":1293913537,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1293913537,
+    "wof:lastmodified":1537585956,
+    "wof:name":"Chandipur",
+    "wof:parent_id":421187747,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.90375999999998,
+    22.41421,
+    89.90375999999998,
+    22.41421
+],
+  "geometry": {"coordinates":[89.90375999999998,22.41421],"type":"Point"}
+}

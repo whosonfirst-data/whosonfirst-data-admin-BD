@@ -1,0 +1,74 @@
+{
+  "id": 1343498519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.64534,23.51915,90.64534,23.51915",
+    "geom:latitude":23.51915,
+    "geom:longitude":90.64534,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3059.0",
+    "gn:admin3_code":"305924.0",
+    "gn:admin4_code":"30592421.0",
+    "gn:asciiname":"Chanda Kahania",
+    "gn:country_code":"BD",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1207508,
+    "gn:latitude":23.51915,
+    "gn:longitude":90.64534,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Chanda K\u0101h\u0101nia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chaudda Kahania",
+        "Chanda K\u0101h\u0101nia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421205059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1207508
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"ddcb7b5ee82fe51117c21647aaf58b44",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421205059,
+            "locality_id":1343498519,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1343498519,
+    "wof:lastmodified":1537586110,
+    "wof:name":"Chanda Kahania",
+    "wof:parent_id":421205059,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.64534,
+    23.51915,
+    90.64534,
+    23.51915
+],
+  "geometry": {"coordinates":[90.64534,23.51915],"type":"Point"}
+}

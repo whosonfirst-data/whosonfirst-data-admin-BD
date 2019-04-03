@@ -1,0 +1,73 @@
+{
+  "id": 1360214675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.38016,23.13906,89.38016,23.13906",
+    "geom:latitude":23.13906,
+    "geom:longitude":89.38016,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4041.0",
+    "gn:admin3_code":"404109.0",
+    "gn:admin4_code":"40410957.0",
+    "gn:asciiname":"Barabbag",
+    "gn:country_code":"BD",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7479851,
+    "gn:latitude":23.13906,
+    "gn:longitude":89.38016,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Barabbag",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Barabbag"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        421176039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7479851
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"020ef9778f58aa60bcfb4c0d9dde74f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421176039,
+            "locality_id":1360214675,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1360214675,
+    "wof:lastmodified":1537586432,
+    "wof:name":"Barabbag",
+    "wof:parent_id":421176039,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.38016,
+    23.13906,
+    89.38016,
+    23.13906
+],
+  "geometry": {"coordinates":[89.38016,23.13906],"type":"Point"}
+}

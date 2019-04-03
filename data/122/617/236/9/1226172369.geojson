@@ -1,0 +1,70 @@
+{
+  "id": 1226172369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.41602,23.75996,90.41602,23.75996",
+    "geom:latitude":23.75996,
+    "geom:longitude":90.41602,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3026.0",
+    "gn:admin3_code":"302640.0",
+    "gn:admin4_code":"30264022.0",
+    "gn:asciiname":"Bara Magbazar",
+    "gn:country_code":"BD",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1210353,
+    "gn:latitude":23.75996,
+    "gn:longitude":90.41602,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Bara Magb\u0101z\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421187803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1210353
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"10f22be98824291c39a5368239601b69",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421187803,
+            "locality_id":1226172369,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1226172369,
+    "wof:lastmodified":1537037777,
+    "wof:name":"Bara Magbazar",
+    "wof:parent_id":421187803,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.41602,
+    23.75996,
+    90.41602,
+    23.75996
+],
+  "geometry": {"coordinates":[90.41602,23.75996],"type":"Point"}
+}

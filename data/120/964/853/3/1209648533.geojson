@@ -1,0 +1,68 @@
+{
+  "id": 1209648533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.65879,23.68586,89.65879,23.68586",
+    "geom:latitude":23.68586,
+    "geom:longitude":89.65879,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3082",
+    "gn:admin3_code":"308276.0",
+    "gn:admin4_code":"30827658.0",
+    "gn:asciiname":"Par Sadipur",
+    "gn:country_code":"BD",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1192356,
+    "gn:latitude":23.68586,
+    "gn:longitude":89.65879,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"P\u0101r S\u0101dipur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Porsadipur",
+        "P\u0101r S\u0101dipur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1192356
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"8004fca2786e1ae283c2113d962a9268",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209648533
+        }
+    ],
+    "wof:id":1209648533,
+    "wof:lastmodified":1537585834,
+    "wof:name":"Par Sadipur",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.65879,
+    23.68586,
+    89.65879,
+    23.68586
+],
+  "geometry": {"coordinates":[89.65879,23.68586],"type":"Point"}
+}

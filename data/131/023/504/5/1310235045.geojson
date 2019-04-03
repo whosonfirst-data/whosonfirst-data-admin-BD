@@ -1,0 +1,79 @@
+{
+  "id": 1310235045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.63512,25.73516,89.63512,25.73516",
+    "geom:latitude":25.73516,
+    "geom:longitude":89.63512,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5549.0",
+    "gn:admin3_code":"554994.0",
+    "gn:admin4_code":"55499450.0",
+    "gn:asciiname":"Gorai Raghuray",
+    "gn:country_code":"BD",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1201994,
+    "gn:latitude":25.73516,
+    "gn:longitude":89.63512,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Gorai Raghuray",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Gorai Raghuray"
+    ],
+    "name:ben_x_variant":[
+        "Gorai Raghu Rai"
+    ],
+    "name:und_x_variant":[
+        "Gorai Raghu Rai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1201994
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"79ca684e1eb20e351dd66b9f1b4cb573",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694685,
+            "locality_id":1310235045,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1310235045,
+    "wof:lastmodified":1537586009,
+    "wof:name":"Gorai Raghuray",
+    "wof:parent_id":1108694685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.63512,
+    25.73516,
+    89.63512,
+    25.73516
+],
+  "geometry": {"coordinates":[89.63512,25.73516],"type":"Point"}
+}

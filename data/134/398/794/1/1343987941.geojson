@@ -1,0 +1,70 @@
+{
+  "id": 1343987941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.34315,22.20088,90.34315,22.20088",
+    "geom:latitude":22.20088,
+    "geom:longitude":90.34315,
+    "gn:admin1_code":"82",
+    "gn:asciiname":"Telimudafat",
+    "gn:country_code":"BD",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7478633,
+    "gn:latitude":22.20088,
+    "gn:longitude":90.34315,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"Telimud\u0101fat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Telimud\u0101fat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669019,
+        421176043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7478633
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"bc1ba01c76566b8eb668992316d42c43",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421176043,
+            "locality_id":1343987941,
+            "region_id":85669019
+        }
+    ],
+    "wof:id":1343987941,
+    "wof:lastmodified":1537586397,
+    "wof:name":"Telimudafat",
+    "wof:parent_id":421176043,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.34315,
+    22.20088,
+    90.34315,
+    22.20088
+],
+  "geometry": {"coordinates":[90.34314999999999,22.20088],"type":"Point"}
+}

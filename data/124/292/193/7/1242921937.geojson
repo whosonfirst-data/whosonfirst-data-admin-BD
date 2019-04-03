@@ -1,0 +1,75 @@
+{
+  "id": 1242921937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.63333,23.31667,90.63333,23.31667",
+    "geom:latitude":23.31667,
+    "geom:longitude":90.63333,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2013.0",
+    "gn:admin3_code":"201379.0",
+    "gn:admin4_code":"20137908.0",
+    "gn:asciiname":"Char Mahishmari",
+    "gn:cc2":"BD",
+    "gn:country_code":"BD",
+    "gn:dem":0,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1206661,
+    "gn:latitude":23.31667,
+    "gn:longitude":90.63333,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Char Mahishm\u0101ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Char Mohishmari",
+        "Char Mahishm\u0101ri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        1108694669
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1206661
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"987c0f5a908823a726a6fb60e367390b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694669,
+            "locality_id":1242921937,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1242921937,
+    "wof:lastmodified":1537586098,
+    "wof:name":"Char Mahishmari",
+    "wof:parent_id":1108694669,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.63333,
+    23.31667,
+    90.63333,
+    23.31667
+],
+  "geometry": {"coordinates":[90.63333,23.31667],"type":"Point"}
+}

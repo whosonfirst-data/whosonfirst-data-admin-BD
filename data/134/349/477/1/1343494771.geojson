@@ -1,0 +1,76 @@
+{
+  "id": 1343494771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.89432,24.55401,88.89432,24.55401",
+    "geom:latitude":24.55401,
+    "geom:longitude":88.89432,
+    "gn:admin1_code":"83",
+    "gn:admin2_code":"5081.0",
+    "gn:admin3_code":"508112.0",
+    "gn:admin4_code":"50811256.0",
+    "gn:asciiname":"Baynapur",
+    "gn:country_code":"BD",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1209774,
+    "gn:latitude":24.55401,
+    "gn:longitude":88.89432,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Bayn\u0101pur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Bayn\u0101pur"
+    ],
+    "name:und_x_variant":[
+        "Raynapur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669031,
+        421172439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1209774
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"c22c9a450189b51f6e5064dd3c1e9f13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421172439,
+            "locality_id":1343494771,
+            "region_id":85669031
+        }
+    ],
+    "wof:id":1343494771,
+    "wof:lastmodified":1537586151,
+    "wof:name":"Baynapur",
+    "wof:parent_id":421172439,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.89432,
+    24.55401,
+    88.89432,
+    24.55401
+],
+  "geometry": {"coordinates":[88.89431999999999,24.55401],"type":"Point"}
+}

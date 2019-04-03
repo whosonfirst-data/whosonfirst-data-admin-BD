@@ -1,0 +1,70 @@
+{
+  "id": 1276487619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.78719,23.40956,90.78719,23.40956",
+    "geom:latitude":23.40956,
+    "geom:longitude":90.78719,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2013",
+    "gn:admin3_code":"201376.0",
+    "gn:admin4_code":"20137656.0",
+    "gn:asciiname":"Tushpur",
+    "gn:country_code":"BD",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1185903,
+    "gn:latitude":23.40956,
+    "gn:longitude":90.78719,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Tushpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        1108694669
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1185903
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"a25c72b4768fd005058f8b4aed087bb7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694669,
+            "locality_id":1276487619,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1276487619,
+    "wof:lastmodified":1537066359,
+    "wof:name":"Tushpur",
+    "wof:parent_id":1108694669,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.78719,
+    23.40956,
+    90.78719,
+    23.40956
+],
+  "geometry": {"coordinates":[90.78719,23.40956],"type":"Point"}
+}

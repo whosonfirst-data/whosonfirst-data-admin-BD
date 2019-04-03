@@ -1,0 +1,73 @@
+{
+  "id": 1310333489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.52828,23.07966,89.52828,23.07966",
+    "geom:latitude":23.07966,
+    "geom:longitude":89.52828,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4065.0",
+    "gn:admin3_code":"406528.0",
+    "gn:admin4_code":"40652831.0",
+    "gn:asciiname":"Sumerukhola",
+    "gn:country_code":"BD",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7480331,
+    "gn:latitude":23.07966,
+    "gn:longitude":89.52828,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Sumerukhola",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Sumerukhola"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        421205213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7480331
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"4ebaeec35f4cb852a5664edcaa3d3488",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421205213,
+            "locality_id":1310333489,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1310333489,
+    "wof:lastmodified":1537586446,
+    "wof:name":"Sumerukhola",
+    "wof:parent_id":421205213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.52828000000002,
+    23.07966,
+    89.52828000000002,
+    23.07966
+],
+  "geometry": {"coordinates":[89.52828000000002,23.07966],"type":"Point"}
+}

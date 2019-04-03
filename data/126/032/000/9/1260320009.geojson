@@ -1,0 +1,70 @@
+{
+  "id": 1260320009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.0127,24.24474,90.0127,24.24474",
+    "geom:latitude":24.24474,
+    "geom:longitude":90.0127,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3093",
+    "gn:admin3_code":"309309.0",
+    "gn:admin4_code":"30930971.0",
+    "gn:asciiname":"Uttar Bathuli",
+    "gn:country_code":"BD",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1185670,
+    "gn:latitude":24.24474,
+    "gn:longitude":90.0127,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Uttar B\u0101thuli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421185471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1185670
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"81e0ab25732264055272483b6197ba78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421185471,
+            "locality_id":1260320009,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1260320009,
+    "wof:lastmodified":1536662992,
+    "wof:name":"Uttar Bathuli",
+    "wof:parent_id":421185471,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.0127,
+    24.24474,
+    90.0127,
+    24.24474
+],
+  "geometry": {"coordinates":[90.0127,24.24474],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1310435403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.58315,25.1101,89.58315,25.1101",
+    "geom:latitude":25.1101,
+    "geom:longitude":89.58315,
+    "gn:admin1_code":"83",
+    "gn:asciiname":"Shaghatta",
+    "gn:country_code":"BD",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1185122,
+    "gn:latitude":25.1101,
+    "gn:longitude":89.58315,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Sh\u0101gh\u0101tta",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Sh\u0101gh\u0101tta"
+    ],
+    "name:ben_x_variant":[
+        "Saghata",
+        "H\u0101silk\u0101ndi"
+    ],
+    "name:und_x_variant":[
+        "H\u0101silk\u0101ndi",
+        "Saghata",
+        "Sh\u0101gh\u0101tta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1185122
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"890ead5b9ece57e0c153c7a4d4b9f093",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694675,
+            "locality_id":1310435403,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1310435403,
+    "wof:lastmodified":1537585687,
+    "wof:name":"Shaghatta",
+    "wof:parent_id":1108694675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.58315,
+    25.1101,
+    89.58315,
+    25.1101
+],
+  "geometry": {"coordinates":[89.58315,25.1101],"type":"Point"}
+}

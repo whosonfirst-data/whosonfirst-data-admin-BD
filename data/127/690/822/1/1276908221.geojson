@@ -1,0 +1,76 @@
+{
+  "id": 1276908221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.95082,24.94709,88.95082,24.94709",
+    "geom:latitude":24.94709,
+    "geom:longitude":88.95082,
+    "gn:admin1_code":"83",
+    "gn:admin2_code":"5064.0",
+    "gn:admin3_code":"506406.0",
+    "gn:admin4_code":"50640610.0",
+    "gn:asciiname":"Basnai",
+    "gn:country_code":"BD",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1209953,
+    "gn:latitude":24.94709,
+    "gn:longitude":88.95082,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Basnai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Basnai"
+    ],
+    "name:und_x_variant":[
+        "Bashnai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669031,
+        421191663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1209953
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"8c4a856d6ca80c3b3639d60ae7a97630",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421191663,
+            "locality_id":1276908221,
+            "region_id":85669031
+        }
+    ],
+    "wof:id":1276908221,
+    "wof:lastmodified":1537586154,
+    "wof:name":"Basnai",
+    "wof:parent_id":421191663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.95082,
+    24.94709,
+    88.95082,
+    24.94709
+],
+  "geometry": {"coordinates":[88.95081999999999,24.94709],"type":"Point"}
+}

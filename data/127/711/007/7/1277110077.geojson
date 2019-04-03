@@ -1,0 +1,73 @@
+{
+  "id": 1277110077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.02905,25.95373,89.02905,25.95373",
+    "geom:latitude":25.95373,
+    "geom:longitude":89.02905,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5573",
+    "gn:admin3_code":"557345.0",
+    "gn:admin4_code":"55734525.0",
+    "gn:asciiname":"Uttar Barabhita",
+    "gn:country_code":"BD",
+    "gn:dem":48,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7924093,
+    "gn:latitude":25.95373,
+    "gn:longitude":89.02905,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Uttar Barabhita",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Uttar Barabhita"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7924093
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"de7fb5ede33f3ba62b9ebc542cdb06cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694695,
+            "locality_id":1277110077,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1277110077,
+    "wof:lastmodified":1537586817,
+    "wof:name":"Uttar Barabhita",
+    "wof:parent_id":1108694695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.02905,
+    25.95373,
+    89.02905,
+    25.95373
+],
+  "geometry": {"coordinates":[89.02905,25.95373],"type":"Point"}
+}

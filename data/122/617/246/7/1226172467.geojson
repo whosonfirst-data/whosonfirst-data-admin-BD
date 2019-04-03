@@ -1,0 +1,79 @@
+{
+  "id": 1226172467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.61199,23.80215,88.61199,23.80215",
+    "geom:latitude":23.80215,
+    "geom:longitude":88.61199,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4057",
+    "gn:admin3_code":"405787.0",
+    "gn:admin4_code":"40578738.0",
+    "gn:asciiname":"Iohakhali",
+    "gn:country_code":"BD",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1200884,
+    "gn:latitude":23.80215,
+    "gn:longitude":88.61199,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Ioh\u0101kh\u0101li",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Ioh\u0101kh\u0101li"
+    ],
+    "name:ben_x_variant":[
+        "Ich\u0101kh\u0101li"
+    ],
+    "name:und_x_variant":[
+        "Ichhakhali"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        421191661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1200884
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"09c4f3b1322735263f7c1b1880c6a63f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421191661,
+            "locality_id":1226172467,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1226172467,
+    "wof:lastmodified":1537585987,
+    "wof:name":"Iohakhali",
+    "wof:parent_id":421191661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.61199,
+    23.80215,
+    88.61199,
+    23.80215
+],
+  "geometry": {"coordinates":[88.61199000000001,23.80215],"type":"Point"}
+}

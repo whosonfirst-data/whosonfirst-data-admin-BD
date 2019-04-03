@@ -1,0 +1,73 @@
+{
+  "id": 1309740211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.1071,25.9103,88.1071,25.9103",
+    "geom:latitude":25.9103,
+    "geom:longitude":88.1071,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5594.0",
+    "gn:admin3_code":"559451.0",
+    "gn:admin4_code":"55945127.0",
+    "gn:asciiname":"Dhukuria",
+    "gn:country_code":"BD",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1204177,
+    "gn:latitude":25.9103,
+    "gn:longitude":88.1071,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Dhukuria",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Dhukuria"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1204177
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"202eb19678b214f9cd7bc9802f236a28",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694703,
+            "locality_id":1309740211,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1309740211,
+    "wof:lastmodified":1537586052,
+    "wof:name":"Dhukuria",
+    "wof:parent_id":1108694703,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.1071,
+    25.9103,
+    88.1071,
+    25.9103
+],
+  "geometry": {"coordinates":[88.1071,25.9103],"type":"Point"}
+}

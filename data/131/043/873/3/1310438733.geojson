@@ -1,0 +1,73 @@
+{
+  "id": 1310438733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.92575,26.07518,88.92575,26.07518",
+    "geom:latitude":26.07518,
+    "geom:longitude":88.92575,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5573.0",
+    "gn:admin3_code":"557336.0",
+    "gn:admin4_code":"55733636.0",
+    "gn:asciiname":"Rashidpur",
+    "gn:country_code":"BD",
+    "gn:dem":55,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7105651,
+    "gn:latitude":26.07518,
+    "gn:longitude":88.92575,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Rashidpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Rashidpur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7105651
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"41c82d772e52a0269b828b1cb9d8b013",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694695,
+            "locality_id":1310438733,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1310438733,
+    "wof:lastmodified":1537586309,
+    "wof:name":"Rashidpur",
+    "wof:parent_id":1108694695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.92575,
+    26.07518,
+    88.92575,
+    26.07518
+],
+  "geometry": {"coordinates":[88.92574999999999,26.07518],"type":"Point"}
+}

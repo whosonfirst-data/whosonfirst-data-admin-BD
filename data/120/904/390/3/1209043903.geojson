@@ -1,0 +1,68 @@
+{
+  "id": 1209043903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.01092,25.51361,89.01092,25.51361",
+    "geom:latitude":25.51361,
+    "geom:longitude":89.01092,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5527",
+    "gn:admin3_code":"552769.0",
+    "gn:admin4_code":"55276951.0",
+    "gn:asciiname":"Joypur",
+    "gn:country_code":"BD",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1200444,
+    "gn:latitude":25.51361,
+    "gn:longitude":89.01092,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Joypur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jaipur",
+        "Jaypoor"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1200444
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"fff09b2ee77acc0d589df694073c97ca",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209043903
+        }
+    ],
+    "wof:id":1209043903,
+    "wof:lastmodified":1537585978,
+    "wof:name":"Joypur",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.01092,
+    25.51361,
+    89.01092,
+    25.51361
+],
+  "geometry": {"coordinates":[89.01092,25.51361],"type":"Point"}
+}

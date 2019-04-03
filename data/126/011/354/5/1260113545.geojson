@@ -1,0 +1,73 @@
+{
+  "id": 1260113545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.85365,23.37813,88.85365,23.37813",
+    "geom:latitude":23.37813,
+    "geom:longitude":88.85365,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4044.0",
+    "gn:admin3_code":"404471.0",
+    "gn:admin4_code":"40447165.0",
+    "gn:asciiname":"Tatinibas",
+    "gn:country_code":"BD",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7485093,
+    "gn:latitude":23.37813,
+    "gn:longitude":88.85365,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Tatinib\u0101s",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Tatinib\u0101s"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        1108694679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7485093
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"6ea887952e228264386c5096e0f91d07",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694679,
+            "locality_id":1260113545,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1260113545,
+    "wof:lastmodified":1537586582,
+    "wof:name":"Tatinibas",
+    "wof:parent_id":1108694679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.85365,
+    23.37813,
+    88.85365,
+    23.37813
+],
+  "geometry": {"coordinates":[88.85365,23.37813],"type":"Point"}
+}

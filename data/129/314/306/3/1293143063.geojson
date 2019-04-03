@@ -1,0 +1,70 @@
+{
+  "id": 1293143063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.95444,22.04167,91.95444,22.04167",
+    "geom:latitude":22.04167,
+    "geom:longitude":91.95444,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2015.0",
+    "gn:admin3_code":"201508.0",
+    "gn:admin4_code":"20150812.0",
+    "gn:asciiname":"Banskhali",
+    "gn:country_code":"BD",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1462664,
+    "gn:latitude":22.04167,
+    "gn:longitude":91.95444,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"B\u0101nskh\u0101li",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421201541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1462664
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"83dd2c8bef7a131511705c1b59341dc9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421201541,
+            "locality_id":1293143063,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1293143063,
+    "wof:lastmodified":1536787181,
+    "wof:name":"Banskhali",
+    "wof:parent_id":421201541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.95444,
+    22.04167,
+    91.95444,
+    22.04167
+],
+  "geometry": {"coordinates":[91.95444000000001,22.04167],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1310135745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.32818,25.73413,89.32818,25.73413",
+    "geom:latitude":25.73413,
+    "geom:longitude":89.32818,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5585.0",
+    "gn:admin3_code":"558573.0",
+    "gn:admin4_code":"55857347.0",
+    "gn:asciiname":"Fata",
+    "gn:country_code":"BD",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7887838,
+    "gn:latitude":25.73413,
+    "gn:longitude":89.32818,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Fata",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Fata"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7887838
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"b5beabf2ee6d6dba38f17a9167d8064f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694701,
+            "locality_id":1310135745,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1310135745,
+    "wof:lastmodified":1537586716,
+    "wof:name":"Fata",
+    "wof:parent_id":1108694701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.32818,
+    25.73413,
+    89.32818,
+    25.73413
+],
+  "geometry": {"coordinates":[89.32818,25.73413],"type":"Point"}
+}

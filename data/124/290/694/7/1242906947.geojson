@@ -1,0 +1,73 @@
+{
+  "id": 1242906947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.95104,25.6168,88.95104,25.6168",
+    "geom:latitude":25.6168,
+    "geom:longitude":88.95104,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5527.0",
+    "gn:admin3_code":"552777.0",
+    "gn:admin4_code":"55277777.0",
+    "gn:asciiname":"Palushbari",
+    "gn:country_code":"BD",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7481095,
+    "gn:latitude":25.6168,
+    "gn:longitude":88.95104,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Palushbari",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Palushbari"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7481095
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"ca752d27cbdb23958139a74e9df42838",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694671,
+            "locality_id":1242906947,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1242906947,
+    "wof:lastmodified":1537586468,
+    "wof:name":"Palushbari",
+    "wof:parent_id":1108694671,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.95104,
+    25.6168,
+    88.95104,
+    25.6168
+],
+  "geometry": {"coordinates":[88.95104000000001,25.6168],"type":"Point"}
+}

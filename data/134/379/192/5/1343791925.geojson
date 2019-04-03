@@ -1,0 +1,73 @@
+{
+  "id": 1343791925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.35832,25.65981,89.35832,25.65981",
+    "geom:latitude":25.65981,
+    "geom:longitude":89.35832,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5585.0",
+    "gn:admin3_code":"558573.0",
+    "gn:admin4_code":"55857366.0",
+    "gn:asciiname":"Manur Chhord",
+    "gn:country_code":"BD",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7889248,
+    "gn:latitude":25.65981,
+    "gn:longitude":89.35832,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Manur Chhord",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Manur Chhord"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7889248
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"36fcae5e083742455c5d86cad8f4d198",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694701,
+            "locality_id":1343791925,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1343791925,
+    "wof:lastmodified":1537586731,
+    "wof:name":"Manur Chhord",
+    "wof:parent_id":1108694701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.35831999999998,
+    25.65981,
+    89.35831999999998,
+    25.65981
+],
+  "geometry": {"coordinates":[89.35831999999998,25.65981],"type":"Point"}
+}

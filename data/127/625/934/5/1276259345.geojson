@@ -1,0 +1,74 @@
+{
+  "id": 1276259345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.7922,23.83623,89.7922,23.83623",
+    "geom:latitude":23.83623,
+    "geom:longitude":89.7922,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3056.0",
+    "gn:admin3_code":"305678.0",
+    "gn:admin4_code":"30567847.0",
+    "gn:asciiname":"Bara Boali",
+    "gn:country_code":"BD",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1210680,
+    "gn:latitude":23.83623,
+    "gn:longitude":89.7922,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Bara Bo\u0101li",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Boali",
+        "Bara Bo\u0101li"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421191745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1210680
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"2562ab89247698956a36f515cdeedc82",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421191745,
+            "locality_id":1276259345,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1276259345,
+    "wof:lastmodified":1537586165,
+    "wof:name":"Bara Boali",
+    "wof:parent_id":421191745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.7922,
+    23.83623,
+    89.7922,
+    23.83623
+],
+  "geometry": {"coordinates":[89.79219999999999,23.83623],"type":"Point"}
+}

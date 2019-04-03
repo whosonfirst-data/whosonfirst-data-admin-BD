@@ -1,0 +1,70 @@
+{
+  "id": 1309843283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.30729,22.71744,90.30729,22.71744",
+    "geom:latitude":22.71744,
+    "geom:longitude":90.30729,
+    "gn:admin1_code":"85",
+    "gn:admin2_code":"1006",
+    "gn:admin3_code":"100651.0",
+    "gn:admin4_code":"10065177.0",
+    "gn:asciiname":"Raypasa",
+    "gn:country_code":"BD",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1189604,
+    "gn:latitude":22.71744,
+    "gn:longitude":90.30729,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"R\u0101yp\u0101sa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669019,
+        421187745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1189604
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"212901a1b136559f3bc66fe10f277f8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421187745,
+            "locality_id":1309843283,
+            "region_id":85669019
+        }
+    ],
+    "wof:id":1309843283,
+    "wof:lastmodified":1536876057,
+    "wof:name":"Raypasa",
+    "wof:parent_id":421187745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.30729,
+    22.71744,
+    90.30729,
+    22.71744
+],
+  "geometry": {"coordinates":[90.30728999999999,22.71744],"type":"Point"}
+}

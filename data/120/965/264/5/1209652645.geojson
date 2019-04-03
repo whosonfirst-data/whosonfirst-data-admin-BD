@@ -1,0 +1,64 @@
+{
+  "id": 1209652645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.70612,24.24232,91.70612,24.24232",
+    "geom:latitude":24.24232,
+    "geom:longitude":91.70612,
+    "gn:admin1_code":"86",
+    "gn:admin2_code":"6058.0",
+    "gn:admin3_code":"605883.0",
+    "gn:admin4_code":"60588309.0",
+    "gn:asciiname":"Beltali",
+    "gn:country_code":"BD",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1209594,
+    "gn:latitude":24.24232,
+    "gn:longitude":91.70612,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Beltali",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1209594
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"b2198755167e0aec0c8266374a97a45d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209652645
+        }
+    ],
+    "wof:id":1209652645,
+    "wof:lastmodified":1536280531,
+    "wof:name":"Beltali",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.70612,
+    24.24232,
+    91.70612,
+    24.24232
+],
+  "geometry": {"coordinates":[91.70612,24.24232],"type":"Point"}
+}

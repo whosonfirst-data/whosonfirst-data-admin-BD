@@ -1,0 +1,70 @@
+{
+  "id": 1293720707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.47211,23.71401,90.47211,23.71401",
+    "geom:latitude":23.71401,
+    "geom:longitude":90.47211,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3026",
+    "gn:admin3_code":"302640.0",
+    "gn:admin4_code":"30264011.0",
+    "gn:asciiname":"Paradagar",
+    "gn:country_code":"BD",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1192509,
+    "gn:latitude":23.71401,
+    "gn:longitude":90.47211,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Par\u0101dag\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421187803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1192509
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"d47997c50e7d38e616d9a4f6ae9b4454",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421187803,
+            "locality_id":1293720707,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1293720707,
+    "wof:lastmodified":1536948605,
+    "wof:name":"Paradagar",
+    "wof:parent_id":421187803,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.47211,
+    23.71401,
+    90.47211,
+    23.71401
+],
+  "geometry": {"coordinates":[90.47211,23.71401],"type":"Point"}
+}

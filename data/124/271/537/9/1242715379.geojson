@@ -1,0 +1,81 @@
+{
+  "id": 1242715379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.5403,25.7822,89.5403,25.7822",
+    "geom:latitude":25.7822,
+    "geom:longitude":89.5403,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5549.0",
+    "gn:admin3_code":"554977.0",
+    "gn:admin4_code":"55497721.0",
+    "gn:asciiname":"Chiandamari",
+    "gn:country_code":"BD",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1207381,
+    "gn:latitude":25.7822,
+    "gn:longitude":89.5403,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Chiand\u0101mari",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Chiand\u0101mari"
+    ],
+    "name:ben_x_variant":[
+        "Ch\u0101ndm\u0101ri",
+        "Chandamari"
+    ],
+    "name:und_x_variant":[
+        "Chandamari",
+        "Ch\u0101ndm\u0101ri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1207381
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"471b9370757e1164062fdc2fa8dfdb85",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694685,
+            "locality_id":1242715379,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1242715379,
+    "wof:lastmodified":1537586109,
+    "wof:name":"Chiandamari",
+    "wof:parent_id":1108694685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.5403,
+    25.7822,
+    89.5403,
+    25.7822
+],
+  "geometry": {"coordinates":[89.5403,25.7822],"type":"Point"}
+}

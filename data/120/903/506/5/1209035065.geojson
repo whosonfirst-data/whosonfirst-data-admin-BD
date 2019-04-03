@@ -1,0 +1,64 @@
+{
+  "id": 1209035065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.13855,22.51551,89.13855,22.51551",
+    "geom:latitude":22.51551,
+    "geom:longitude":89.13855,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4087",
+    "gn:admin3_code":"408704.0",
+    "gn:admin4_code":"40870417.0",
+    "gn:asciiname":"Sabdalpur",
+    "gn:country_code":"BD",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1189430,
+    "gn:latitude":22.51551,
+    "gn:longitude":89.13855,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Sabdalpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1189430
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"77e2999e7f4de6c998e1bb400bd1fcf0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209035065
+        }
+    ],
+    "wof:id":1209035065,
+    "wof:lastmodified":1536299727,
+    "wof:name":"Sabdalpur",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.13855,
+    22.51551,
+    89.13855,
+    22.51551
+],
+  "geometry": {"coordinates":[89.13855,22.51551],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1276160693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.27498,23.85999,89.27498,23.85999",
+    "geom:latitude":23.85999,
+    "geom:longitude":89.27498,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4050",
+    "gn:admin3_code":"405071.0",
+    "gn:admin4_code":"40507186.0",
+    "gn:asciiname":"Nandigram",
+    "gn:country_code":"BD",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1193461,
+    "gn:latitude":23.85999,
+    "gn:longitude":89.27498,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Nand\u012bgr\u0101m",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        890438075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1193461
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"9e36fdab4bd755f3c7f63eda0cdaaad9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":890438075,
+            "locality_id":1276160693,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1276160693,
+    "wof:lastmodified":1537009364,
+    "wof:name":"Nandigram",
+    "wof:parent_id":890438075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.27498,
+    23.85999,
+    89.27498,
+    23.85999
+],
+  "geometry": {"coordinates":[89.27498,23.85999],"type":"Point"}
+}

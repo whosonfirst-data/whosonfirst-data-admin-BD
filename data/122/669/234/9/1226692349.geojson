@@ -1,0 +1,73 @@
+{
+  "id": 1226692349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"92.1878,22.87563,92.1878,22.87563",
+    "geom:latitude":22.87563,
+    "geom:longitude":92.1878,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2084.0",
+    "gn:admin3_code":"208458.0",
+    "gn:admin4_code":"20845867.0",
+    "gn:asciiname":"Barbania",
+    "gn:country_code":"BD",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7477323,
+    "gn:latitude":22.87563,
+    "gn:longitude":92.1878,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Barbania",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Barbania"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421188983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7477323
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"5f52f104d991a06541bbc4f908f819ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421188983,
+            "locality_id":1226692349,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1226692349,
+    "wof:lastmodified":1537586365,
+    "wof:name":"Barbania",
+    "wof:parent_id":421188983,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    92.1878,
+    22.87563,
+    92.1878,
+    22.87563
+],
+  "geometry": {"coordinates":[92.1878,22.87563],"type":"Point"}
+}

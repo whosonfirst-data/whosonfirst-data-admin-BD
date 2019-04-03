@@ -1,0 +1,73 @@
+{
+  "id": 1226073443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.91467,23.97974,88.91467,23.97974",
+    "geom:latitude":23.97974,
+    "geom:longitude":88.91467,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4050.0",
+    "gn:admin3_code":"405039.0",
+    "gn:admin4_code":"40503994.0",
+    "gn:asciiname":"Gajipur",
+    "gn:country_code":"BD",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7484536,
+    "gn:latitude":23.97974,
+    "gn:longitude":88.91467,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Gajipur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Gajipur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        890438075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7484536
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"4f8963eac432d7e7aef93156610ed481",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":890438075,
+            "locality_id":1226073443,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1226073443,
+    "wof:lastmodified":1537586567,
+    "wof:name":"Gajipur",
+    "wof:parent_id":890438075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.91467,
+    23.97974,
+    88.91467,
+    23.97974
+],
+  "geometry": {"coordinates":[88.91467,23.97974],"type":"Point"}
+}

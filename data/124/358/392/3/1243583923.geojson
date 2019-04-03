@@ -1,0 +1,70 @@
+{
+  "id": 1243583923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.1647,24.76369,90.1647,24.76369",
+    "geom:latitude":24.76369,
+    "geom:longitude":90.1647,
+    "gn:admin1_code":"H",
+    "gn:admin2_code":"3061.0",
+    "gn:admin3_code":"306165.0",
+    "gn:admin4_code":"30616534.0",
+    "gn:asciiname":"Dhanuka",
+    "gn:country_code":"BD",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1204373,
+    "gn:latitude":24.76369,
+    "gn:longitude":90.1647,
+    "gn:modification_date":"2016-11-17",
+    "gn:name":"Dh\u0101nuka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        1108803101,
+        421185469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1204373
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"8c685d086d03d462cb8f0fc16c54ce47",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421185469,
+            "locality_id":1243583923,
+            "region_id":1108803101
+        }
+    ],
+    "wof:id":1243583923,
+    "wof:lastmodified":1536604558,
+    "wof:name":"Dhanuka",
+    "wof:parent_id":421185469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.1647,
+    24.76369,
+    90.1647,
+    24.76369
+],
+  "geometry": {"coordinates":[90.1647,24.76369],"type":"Point"}
+}

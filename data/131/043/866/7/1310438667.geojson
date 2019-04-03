@@ -1,0 +1,70 @@
+{
+  "id": 1310438667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.43359,23.6209,90.43359,23.6209",
+    "geom:latitude":23.6209,
+    "geom:longitude":90.43359,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3026.0",
+    "gn:admin3_code":"302638.0",
+    "gn:admin4_code":"30263843.0",
+    "gn:asciiname":"Char Sanhardi",
+    "gn:country_code":"BD",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1206479,
+    "gn:latitude":23.6209,
+    "gn:longitude":90.43359,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Char Sanh\u0101rdi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421187803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1206479
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"128e11d12eff60497953e32330e2f78b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421187803,
+            "locality_id":1310438667,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1310438667,
+    "wof:lastmodified":1537012759,
+    "wof:name":"Char Sanhardi",
+    "wof:parent_id":421187803,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.43359,
+    23.6209,
+    90.43359,
+    23.6209
+],
+  "geometry": {"coordinates":[90.43359,23.6209],"type":"Point"}
+}

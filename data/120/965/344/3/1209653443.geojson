@@ -1,0 +1,68 @@
+{
+  "id": 1209653443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.82646,22.93063,90.82646,22.93063",
+    "geom:latitude":22.93063,
+    "geom:longitude":90.82646,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2051",
+    "gn:admin3_code":"205143.0",
+    "gn:admin4_code":"20514300.0",
+    "gn:asciiname":"Shamsirabad",
+    "gn:country_code":"BD",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1188182,
+    "gn:latitude":22.93063,
+    "gn:longitude":90.82646,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Shamsir\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Samser\u0101b\u0101d",
+        "Shamsir\u0101b\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1188182
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"f4157cb7e26a893db2348986c78e9038",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209653443
+        }
+    ],
+    "wof:id":1209653443,
+    "wof:lastmodified":1537585755,
+    "wof:name":"Shamsirabad",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.82646,
+    22.93063,
+    90.82646,
+    22.93063
+],
+  "geometry": {"coordinates":[90.82646,22.93063],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1226580925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.81754,26.23198,88.81754,26.23198",
+    "geom:latitude":26.23198,
+    "geom:longitude":88.81754,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5573.0",
+    "gn:admin3_code":"557315.0",
+    "gn:admin4_code":"55731576.0",
+    "gn:asciiname":"Paschim Kamat",
+    "gn:country_code":"BD",
+    "gn:dem":63,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7104883,
+    "gn:latitude":26.23198,
+    "gn:longitude":88.81754,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Paschim Kamat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Paschim Kamat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7104883
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"f9be5f3be018d582fd7bc18f7647a5c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694695,
+            "locality_id":1226580925,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1226580925,
+    "wof:lastmodified":1537586288,
+    "wof:name":"Paschim Kamat",
+    "wof:parent_id":1108694695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.81754000000002,
+    26.23198,
+    88.81754000000002,
+    26.23198
+],
+  "geometry": {"coordinates":[88.81754000000002,26.23198],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209545437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.3529,22.22196,90.3529,22.22196",
+    "geom:latitude":22.22196,
+    "geom:longitude":90.3529,
+    "gn:admin1_code":"82",
+    "gn:asciiname":"Gerabunia",
+    "gn:country_code":"BD",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7478654,
+    "gn:latitude":22.22196,
+    "gn:longitude":90.3529,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"Ger\u0101bunia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Ger\u0101bunia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7478654
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"fbaef10c6c02be1424e8c1ae26c87b68",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209545437
+        }
+    ],
+    "wof:id":1209545437,
+    "wof:lastmodified":1537586397,
+    "wof:name":"Gerabunia",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.3529,
+    22.22196,
+    90.3529,
+    22.22196
+],
+  "geometry": {"coordinates":[90.35290000000001,22.22196],"type":"Point"}
+}

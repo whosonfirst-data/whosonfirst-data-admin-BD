@@ -1,0 +1,70 @@
+{
+  "id": 1276689293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.72441,25.0463,89.72441,25.0463",
+    "geom:latitude":25.0463,
+    "geom:longitude":89.72441,
+    "gn:admin1_code":"H",
+    "gn:asciiname":"Sapdhari",
+    "gn:country_code":"BD",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1188694,
+    "gn:latitude":25.0463,
+    "gn:longitude":89.72441,
+    "gn:modification_date":"2016-12-05",
+    "gn:name":"S\u0101pdhari",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "S\u0101pdhari"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        1108803101,
+        421191923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1188694
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"a753f676e8fe2293e47632ef32238a3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421191923,
+            "locality_id":1276689293,
+            "region_id":1108803101
+        }
+    ],
+    "wof:id":1276689293,
+    "wof:lastmodified":1537585766,
+    "wof:name":"Sapdhari",
+    "wof:parent_id":421191923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.72440999999998,
+    25.0463,
+    89.72440999999998,
+    25.0463
+],
+  "geometry": {"coordinates":[89.72440999999998,25.0463],"type":"Point"}
+}

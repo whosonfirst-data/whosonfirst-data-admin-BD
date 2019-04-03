@@ -1,0 +1,74 @@
+{
+  "id": 1360114833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.61621,23.60208,89.61621,23.60208",
+    "geom:latitude":23.60208,
+    "geom:longitude":89.61621,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3082",
+    "gn:admin3_code":"308207.0",
+    "gn:admin4_code":"30820757.0",
+    "gn:asciiname":"Sonaidanga",
+    "gn:country_code":"BD",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1187595,
+    "gn:latitude":23.60208,
+    "gn:longitude":89.61621,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Son\u0101id\u0101nga",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sonadanga",
+        "Son\u0101id\u0101nga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        1108694699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1187595
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"9c871b54cdb2c59b7f26ee3003f2f1d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694699,
+            "locality_id":1360114833,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1360114833,
+    "wof:lastmodified":1537585742,
+    "wof:name":"Sonaidanga",
+    "wof:parent_id":1108694699,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.61621,
+    23.60208,
+    89.61621,
+    23.60208
+],
+  "geometry": {"coordinates":[89.61621,23.60208],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1226479817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.01024,25.75413,89.01024,25.75413",
+    "geom:latitude":25.75413,
+    "geom:longitude":89.01024,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5585",
+    "gn:admin3_code":"558592.0",
+    "gn:admin4_code":"55859279.0",
+    "gn:asciiname":"Sridharpara",
+    "gn:country_code":"BD",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7924029,
+    "gn:latitude":25.75413,
+    "gn:longitude":89.01024,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Sridharp\u0101ra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Sridharp\u0101ra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7924029
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"62e2383a361c0aa5d31d8478972a9cc6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694701,
+            "locality_id":1226479817,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1226479817,
+    "wof:lastmodified":1537586815,
+    "wof:name":"Sridharpara",
+    "wof:parent_id":1108694701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.01024,
+    25.75413,
+    89.01024,
+    25.75413
+],
+  "geometry": {"coordinates":[89.01024,25.75413],"type":"Point"}
+}

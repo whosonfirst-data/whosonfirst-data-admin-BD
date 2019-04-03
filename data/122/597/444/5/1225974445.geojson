@@ -1,0 +1,74 @@
+{
+  "id": 1225974445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.02658,25.01039,90.02658,25.01039",
+    "geom:latitude":25.01039,
+    "geom:longitude":90.02658,
+    "gn:admin1_code":"H",
+    "gn:admin2_code":"3089.0",
+    "gn:admin3_code":"308988.0",
+    "gn:admin4_code":"30898800.0",
+    "gn:asciiname":"Bahira Paranpur",
+    "gn:country_code":"BD",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1211621,
+    "gn:latitude":25.01039,
+    "gn:longitude":90.02658,
+    "gn:modification_date":"2016-11-17",
+    "gn:name":"B\u0101hira Par\u0101npur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "B\u0101hira Par\u0101npur",
+        "Baira Par\u0101npur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        1108803101,
+        421190979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1211621
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"d907851397bf73139064824f4a38c971",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421190979,
+            "locality_id":1225974445,
+            "region_id":1108803101
+        }
+    ],
+    "wof:id":1225974445,
+    "wof:lastmodified":1537586181,
+    "wof:name":"Bahira Paranpur",
+    "wof:parent_id":421190979,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.02658000000002,
+    25.01039,
+    90.02658000000002,
+    25.01039
+],
+  "geometry": {"coordinates":[90.02658000000002,25.01039],"type":"Point"}
+}

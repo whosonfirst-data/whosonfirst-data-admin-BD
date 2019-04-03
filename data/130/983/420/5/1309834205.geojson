@@ -1,0 +1,70 @@
+{
+  "id": 1309834205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.38377,22.47966,90.38377,22.47966",
+    "geom:latitude":22.47966,
+    "geom:longitude":90.38377,
+    "gn:admin1_code":"82",
+    "gn:asciiname":"Jhatra",
+    "gn:country_code":"BD",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1199963,
+    "gn:latitude":22.47966,
+    "gn:longitude":90.38377,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Jh\u0101tra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Jh\u0101tra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669019,
+        421169845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1199963
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"c7506f295221d6c947ae17be6d204eef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421169845,
+            "locality_id":1309834205,
+            "region_id":85669019
+        }
+    ],
+    "wof:id":1309834205,
+    "wof:lastmodified":1537585970,
+    "wof:name":"Jhatra",
+    "wof:parent_id":421169845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.38377,
+    22.47966,
+    90.38377,
+    22.47966
+],
+  "geometry": {"coordinates":[90.38377,22.47966],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1209044083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.12195,23.57638,90.12195,23.57638",
+    "geom:latitude":23.57638,
+    "geom:longitude":90.12195,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3026.0",
+    "gn:admin3_code":"302618.0",
+    "gn:admin4_code":"30261831.0",
+    "gn:asciiname":"Char Madhur",
+    "gn:country_code":"BD",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1206678,
+    "gn:latitude":23.57638,
+    "gn:longitude":90.12195,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Char Madhur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Madhur Char",
+        "Char Madhur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1206678
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"6d12d1c2f1702c9535e06a55d567594d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209044083
+        }
+    ],
+    "wof:id":1209044083,
+    "wof:lastmodified":1537586098,
+    "wof:name":"Char Madhur",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.12195,
+    23.57638,
+    90.12195,
+    23.57638
+],
+  "geometry": {"coordinates":[90.12195,23.57638],"type":"Point"}
+}

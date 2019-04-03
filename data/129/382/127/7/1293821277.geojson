@@ -1,0 +1,73 @@
+{
+  "id": 1293821277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.76976,25.36157,89.76976,25.36157",
+    "geom:latitude":25.36157,
+    "geom:longitude":89.76976,
+    "gn:admin1_code":"H",
+    "gn:admin2_code":"3039",
+    "gn:admin3_code":"303915.0",
+    "gn:admin4_code":"30391529.0",
+    "gn:asciiname":"Launchghat",
+    "gn:country_code":"BD",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7925142,
+    "gn:latitude":25.36157,
+    "gn:longitude":89.76976,
+    "gn:modification_date":"2016-11-17",
+    "gn:name":"Launchghat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Launchghat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        1108803101,
+        421191923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7925142
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"b39fa0c0e4831e33f75f4fe58291df59",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421191923,
+            "locality_id":1293821277,
+            "region_id":1108803101
+        }
+    ],
+    "wof:id":1293821277,
+    "wof:lastmodified":1537586818,
+    "wof:name":"Launchghat",
+    "wof:parent_id":421191923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.76975999999998,
+    25.36157,
+    89.76975999999998,
+    25.36157
+],
+  "geometry": {"coordinates":[89.76975999999998,25.36157],"type":"Point"}
+}

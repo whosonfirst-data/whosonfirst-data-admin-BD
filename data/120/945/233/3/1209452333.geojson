@@ -1,0 +1,64 @@
+{
+  "id": 1209452333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.47242,22.29949,90.47242,22.29949",
+    "geom:latitude":22.29949,
+    "geom:longitude":90.47242,
+    "gn:admin1_code":"82",
+    "gn:asciiname":"Saidkati",
+    "gn:country_code":"BD",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1189170,
+    "gn:latitude":22.29949,
+    "gn:longitude":90.47242,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Saidk\u0101ti",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Saidk\u0101ti"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1189170
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"e43acacaae2761dcc548fa51d45af21b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209452333
+        }
+    ],
+    "wof:id":1209452333,
+    "wof:lastmodified":1537585774,
+    "wof:name":"Saidkati",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.47242,
+    22.29949,
+    90.47242,
+    22.29949
+],
+  "geometry": {"coordinates":[90.47242,22.29949],"type":"Point"}
+}

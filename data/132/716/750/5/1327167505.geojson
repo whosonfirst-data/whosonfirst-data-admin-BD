@@ -1,0 +1,73 @@
+{
+  "id": 1327167505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.73241,23.14322,89.73241,23.14322",
+    "geom:latitude":23.14322,
+    "geom:longitude":89.73241,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4065.0",
+    "gn:admin3_code":"406552.0",
+    "gn:admin4_code":"40655215.0",
+    "gn:asciiname":"Kandi Tilchhara",
+    "gn:country_code":"BD",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7480236,
+    "gn:latitude":23.14322,
+    "gn:longitude":89.73241,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"K\u0101ndi Tilchhara",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "K\u0101ndi Tilchhara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        421205213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7480236
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"a5b6fb274de1e92a25a6477de8cc223e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421205213,
+            "locality_id":1327167505,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1327167505,
+    "wof:lastmodified":1537586444,
+    "wof:name":"Kandi Tilchhara",
+    "wof:parent_id":421205213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.73241,
+    23.14322,
+    89.73241,
+    23.14322
+],
+  "geometry": {"coordinates":[89.73241,23.14322],"type":"Point"}
+}

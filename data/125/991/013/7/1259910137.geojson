@@ -1,0 +1,74 @@
+{
+  "id": 1259910137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.87902,24.54972,90.87902,24.54972",
+    "geom:latitude":24.54972,
+    "geom:longitude":90.87902,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3048",
+    "gn:admin3_code":"304892.0",
+    "gn:admin4_code":"30489294.0",
+    "gn:asciiname":"Sachail",
+    "gn:country_code":"BD",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1189194,
+    "gn:latitude":24.54972,
+    "gn:longitude":90.87902,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"S\u0101ch\u0101il",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "S\u0101ch\u0101il",
+        "Sahil\u0101ti"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421170483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1189194
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"288c30b6af79132cd85c18e36342282e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421170483,
+            "locality_id":1259910137,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1259910137,
+    "wof:lastmodified":1537585774,
+    "wof:name":"Sachail",
+    "wof:parent_id":421170483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.87902,
+    24.54972,
+    90.87902,
+    24.54972
+],
+  "geometry": {"coordinates":[90.87902,24.54972],"type":"Point"}
+}

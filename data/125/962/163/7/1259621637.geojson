@@ -1,0 +1,75 @@
+{
+  "id": 1259621637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.06667,22.83333,91.06667,22.83333",
+    "geom:latitude":22.83333,
+    "geom:longitude":91.06667,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2075",
+    "gn:admin3_code":"207587.0",
+    "gn:admin4_code":"20758715.0",
+    "gn:asciiname":"Uttar Sharifpur",
+    "gn:cc2":"BD",
+    "gn:country_code":"BD",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1185481,
+    "gn:latitude":22.83333,
+    "gn:longitude":91.06667,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Uttar Shar\u012bfpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "North Sarifpur",
+        "Uttar Shar\u012bfpur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421177051
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1185481
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"0f80c0e4a433e40fe2c55b7357d8d35c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421177051,
+            "locality_id":1259621637,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1259621637,
+    "wof:lastmodified":1537585702,
+    "wof:name":"Uttar Sharifpur",
+    "wof:parent_id":421177051,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.06667,
+    22.83333,
+    91.06667,
+    22.83333
+],
+  "geometry": {"coordinates":[91.06667,22.83333],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209034675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.48455,25.14553,89.48455,25.14553",
+    "geom:latitude":25.14553,
+    "geom:longitude":89.48455,
+    "gn:admin1_code":"83",
+    "gn:asciiname":"Par Sonaidanga",
+    "gn:country_code":"BD",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7892466,
+    "gn:latitude":25.14553,
+    "gn:longitude":89.48455,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"P\u0101r Son\u0101id\u0101nga",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "P\u0101r Son\u0101id\u0101nga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7892466
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"604db34a2f2aed66e0fba95c942043d7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209034675
+        }
+    ],
+    "wof:id":1209034675,
+    "wof:lastmodified":1537586757,
+    "wof:name":"Par Sonaidanga",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.48455,
+    25.14553,
+    89.48455,
+    25.14553
+],
+  "geometry": {"coordinates":[89.48455,25.14553],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1276478173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.1424,23.23647,90.1424,23.23647",
+    "geom:latitude":23.23647,
+    "geom:longitude":90.1424,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3054.0",
+    "gn:admin3_code":"305454.0",
+    "gn:admin4_code":"30545405.0",
+    "gn:asciiname":"Bahadurpur",
+    "gn:country_code":"BD",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1211822,
+    "gn:latitude":23.23647,
+    "gn:longitude":90.1424,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"B\u0101h\u0101durpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421183929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1211822
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"fa023de87e990c46a408824d8395e2a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421183929,
+            "locality_id":1276478173,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1276478173,
+    "wof:lastmodified":1537078793,
+    "wof:name":"Bahadurpur",
+    "wof:parent_id":421183929,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.1424,
+    23.23647,
+    90.1424,
+    23.23647
+],
+  "geometry": {"coordinates":[90.14239999999999,23.23647],"type":"Point"}
+}

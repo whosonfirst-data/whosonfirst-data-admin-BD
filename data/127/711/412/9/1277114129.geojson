@@ -1,0 +1,70 @@
+{
+  "id": 1277114129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.8426,23.90322,89.8426,23.90322",
+    "geom:latitude":23.90322,
+    "geom:longitude":89.8426,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3056.0",
+    "gn:admin3_code":"305622.0",
+    "gn:admin4_code":"30562247.0",
+    "gn:asciiname":"Chak Thakurkandi",
+    "gn:country_code":"BD",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1207609,
+    "gn:latitude":23.90322,
+    "gn:longitude":89.8426,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Chak Th\u0101kurk\u0101ndi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421191745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1207609
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"b3c81fd1a3ce653b3fc81c125f52e914",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421191745,
+            "locality_id":1277114129,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1277114129,
+    "wof:lastmodified":1536722654,
+    "wof:name":"Chak Thakurkandi",
+    "wof:parent_id":421191745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.8426,
+    23.90322,
+    89.8426,
+    23.90322
+],
+  "geometry": {"coordinates":[89.8426,23.90322],"type":"Point"}
+}

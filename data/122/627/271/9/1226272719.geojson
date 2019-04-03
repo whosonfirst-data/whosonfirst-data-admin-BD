@@ -1,0 +1,70 @@
+{
+  "id": 1226272719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.5066,23.2026,89.5066,23.2026",
+    "geom:latitude":23.2026,
+    "geom:longitude":89.5066,
+    "gn:admin1_code":"81",
+    "gn:asciiname":"Dalitpur",
+    "gn:country_code":"BD",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7480285,
+    "gn:latitude":23.2026,
+    "gn:longitude":89.5066,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Dalitpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Dalitpur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        421205213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7480285
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"3ed92b0f7a3bfffe9a56da438982c72c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421205213,
+            "locality_id":1226272719,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1226272719,
+    "wof:lastmodified":1537586445,
+    "wof:name":"Dalitpur",
+    "wof:parent_id":421205213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.5066,
+    23.2026,
+    89.5066,
+    23.2026
+],
+  "geometry": {"coordinates":[89.50660000000001,23.2026],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1209248139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.83349,22.26865,90.83349,22.26865",
+    "geom:latitude":22.26865,
+    "geom:longitude":90.83349,
+    "gn:admin1_code":"85",
+    "gn:admin2_code":"1009.0",
+    "gn:admin3_code":"100954.0",
+    "gn:admin4_code":"10095466.0",
+    "gn:asciiname":"Purba Lord Hardinge",
+    "gn:country_code":"BD",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7478375,
+    "gn:latitude":22.26865,
+    "gn:longitude":90.83349,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Purba Lord Hardinge",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Purba Lord Hardinge"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7478375
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"90c5fcd74a0647cf1886327ff7cd0630",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209248139
+        }
+    ],
+    "wof:id":1209248139,
+    "wof:lastmodified":1537586390,
+    "wof:name":"Purba Lord Hardinge",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.83349,
+    22.26865,
+    90.83349,
+    22.26865
+],
+  "geometry": {"coordinates":[90.83349,22.26865],"type":"Point"}
+}

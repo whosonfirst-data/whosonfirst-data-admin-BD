@@ -1,0 +1,70 @@
+{
+  "id": 1293326007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.27821,23.79316,90.27821,23.79316",
+    "geom:latitude":23.79316,
+    "geom:longitude":90.27821,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3026.0",
+    "gn:admin3_code":"302672.0",
+    "gn:admin4_code":"30267289.0",
+    "gn:asciiname":"Bilamalia",
+    "gn:country_code":"BD",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1208652,
+    "gn:latitude":23.79316,
+    "gn:longitude":90.27821,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Bil\u0101m\u0101lia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421187803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1208652
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"5d9ec3ff1b1c1d17d949313802befb53",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421187803,
+            "locality_id":1293326007,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1293326007,
+    "wof:lastmodified":1537019085,
+    "wof:name":"Bilamalia",
+    "wof:parent_id":421187803,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.27821,
+    23.79316,
+    90.27821,
+    23.79316
+],
+  "geometry": {"coordinates":[90.27821,23.79316],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1309749449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.88039,24.30506,91.88039,24.30506",
+    "geom:latitude":24.30506,
+    "geom:longitude":91.88039,
+    "gn:admin1_code":"86",
+    "gn:admin2_code":"6058.0",
+    "gn:admin3_code":"605856.0",
+    "gn:admin4_code":"60585609.0",
+    "gn:asciiname":"Chitalia",
+    "gn:country_code":"BD",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1205761,
+    "gn:latitude":24.30506,
+    "gn:longitude":91.88039,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Chitalia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chitlia",
+        "Chitalia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669025,
+        1108694693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1205761
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"df43f221efc51953b3cdeef837243d4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694693,
+            "locality_id":1309749449,
+            "region_id":85669025
+        }
+    ],
+    "wof:id":1309749449,
+    "wof:lastmodified":1537586080,
+    "wof:name":"Chitalia",
+    "wof:parent_id":1108694693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.88039,
+    24.30506,
+    91.88039,
+    24.30506
+],
+  "geometry": {"coordinates":[91.88039000000001,24.30506],"type":"Point"}
+}

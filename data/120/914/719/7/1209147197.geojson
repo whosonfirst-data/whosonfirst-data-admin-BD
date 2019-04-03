@@ -1,0 +1,67 @@
+{
+  "id": 1209147197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"92.29775,20.85129,92.29775,20.85129",
+    "geom:latitude":20.85129,
+    "geom:longitude":92.29775,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2022.0",
+    "gn:admin3_code":"202290.0",
+    "gn:admin4_code":"20229063.0",
+    "gn:asciiname":"Garjandia",
+    "gn:country_code":"BD",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7476234,
+    "gn:latitude":20.85129,
+    "gn:longitude":92.29775,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Garjandia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Garjandia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7476234
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"cfb44a1ad67beb7a06ad1d41e315ebe2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209147197
+        }
+    ],
+    "wof:id":1209147197,
+    "wof:lastmodified":1537586339,
+    "wof:name":"Garjandia",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    92.29775,
+    20.85129,
+    92.29775,
+    20.85129
+],
+  "geometry": {"coordinates":[92.29774999999999,20.85129],"type":"Point"}
+}

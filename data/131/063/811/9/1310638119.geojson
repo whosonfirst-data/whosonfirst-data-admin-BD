@@ -1,0 +1,70 @@
+{
+  "id": 1310638119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.85115,22.45256,90.85115,22.45256",
+    "geom:latitude":22.45256,
+    "geom:longitude":90.85115,
+    "gn:admin1_code":"85",
+    "gn:asciiname":"Dakshin Jaganhathpur",
+    "gn:country_code":"BD",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7478518,
+    "gn:latitude":22.45256,
+    "gn:longitude":90.85115,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"Dakshin Jaganhathpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Dakshin Jaganhathpur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669019,
+        421184491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7478518
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"4239bbfd6129cedf9128c44aede1beff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421184491,
+            "locality_id":1310638119,
+            "region_id":85669019
+        }
+    ],
+    "wof:id":1310638119,
+    "wof:lastmodified":1537586394,
+    "wof:name":"Dakshin Jaganhathpur",
+    "wof:parent_id":421184491,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.85115,
+    22.45256,
+    90.85115,
+    22.45256
+],
+  "geometry": {"coordinates":[90.85115,22.45256],"type":"Point"}
+}

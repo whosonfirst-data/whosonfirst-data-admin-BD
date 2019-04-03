@@ -1,0 +1,70 @@
+{
+  "id": 1242707653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.29151,23.56021,90.29151,23.56021",
+    "geom:latitude":23.56021,
+    "geom:longitude":90.29151,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3059",
+    "gn:admin3_code":"305984.0",
+    "gn:admin4_code":"30598481.0",
+    "gn:asciiname":"Sholaghar",
+    "gn:country_code":"BD",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1188123,
+    "gn:latitude":23.56021,
+    "gn:longitude":90.29151,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Sholaghar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421205059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1188123
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"0f37542fc9476d7479719a1cc31a9021",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421205059,
+            "locality_id":1242707653,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1242707653,
+    "wof:lastmodified":1536875645,
+    "wof:name":"Sholaghar",
+    "wof:parent_id":421205059,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.29151,
+    23.56021,
+    90.29151,
+    23.56021
+],
+  "geometry": {"coordinates":[90.29151,23.56021],"type":"Point"}
+}

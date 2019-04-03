@@ -1,0 +1,67 @@
+{
+  "id": 1209648755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.87421,23.07421,88.87421,23.07421",
+    "geom:latitude":23.07421,
+    "geom:longitude":88.87421,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4041.0",
+    "gn:admin3_code":"404190.0",
+    "gn:admin4_code":"40419017.0",
+    "gn:asciiname":"Satrapara",
+    "gn:country_code":"BD",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7485316,
+    "gn:latitude":23.07421,
+    "gn:longitude":88.87421,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"S\u0101tr\u0101p\u0101ra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "S\u0101tr\u0101p\u0101ra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7485316
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"16a032bdd8dae1a71fbf75a742062aa4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209648755
+        }
+    ],
+    "wof:id":1209648755,
+    "wof:lastmodified":1537586587,
+    "wof:name":"Satrapara",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.87420999999998,
+    23.07421,
+    88.87420999999998,
+    23.07421
+],
+  "geometry": {"coordinates":[88.87420999999998,23.07421],"type":"Point"}
+}

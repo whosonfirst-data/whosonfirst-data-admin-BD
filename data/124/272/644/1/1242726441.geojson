@@ -1,0 +1,70 @@
+{
+  "id": 1242726441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"92.04083,22.46361,92.04083,22.46361",
+    "geom:latitude":22.46361,
+    "geom:longitude":92.04083,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2015.0",
+    "gn:admin3_code":"201570.0",
+    "gn:admin4_code":"20157051.0",
+    "gn:asciiname":"Echakhali",
+    "gn:country_code":"BD",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":6416775,
+    "gn:latitude":22.46361,
+    "gn:longitude":92.04083,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Echakhali",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421201541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6416775
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"0930f0286fb74a1dfa55811ce4abcd35",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421201541,
+            "locality_id":1242726441,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1242726441,
+    "wof:lastmodified":1536848435,
+    "wof:name":"Echakhali",
+    "wof:parent_id":421201541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    92.04083,
+    22.46361,
+    92.04083,
+    22.46361
+],
+  "geometry": {"coordinates":[92.04083,22.46361],"type":"Point"}
+}

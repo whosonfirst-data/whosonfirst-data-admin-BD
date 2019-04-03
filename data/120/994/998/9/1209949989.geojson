@@ -1,0 +1,74 @@
+{
+  "id": 1209949989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.50269,23.23061,90.50269,23.23061",
+    "geom:latitude":23.23061,
+    "geom:longitude":90.50269,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3086.0",
+    "gn:admin3_code":"308614.0",
+    "gn:admin4_code":"30861443.0",
+    "gn:asciiname":"Char Sajanpur",
+    "gn:country_code":"BD",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1206493,
+    "gn:latitude":23.23061,
+    "gn:longitude":90.50269,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Char S\u0101j\u0101npur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Charchanda Bakonkandi",
+        "Char S\u0101j\u0101npur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421188359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1206493
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"82ca2993b31a58d99e16c6b4a5837e45",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421188359,
+            "locality_id":1209949989,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1209949989,
+    "wof:lastmodified":1537586095,
+    "wof:name":"Char Sajanpur",
+    "wof:parent_id":421188359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.50269,
+    23.23061,
+    90.50269,
+    23.23061
+],
+  "geometry": {"coordinates":[90.50269,23.23061],"type":"Point"}
+}

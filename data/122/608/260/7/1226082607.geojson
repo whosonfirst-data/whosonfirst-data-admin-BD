@@ -1,0 +1,70 @@
+{
+  "id": 1226082607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.3846,23.70379,90.3846,23.70379",
+    "geom:latitude":23.70379,
+    "geom:longitude":90.3846,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3026",
+    "gn:admin3_code":"302638.0",
+    "gn:admin4_code":"30263894.0",
+    "gn:asciiname":"Mandail",
+    "gn:country_code":"BD",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1195049,
+    "gn:latitude":23.70379,
+    "gn:longitude":90.3846,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"M\u0101nd\u0101il",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421187803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1195049
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"f6e97f6eda881b493165ebe042343d71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421187803,
+            "locality_id":1226082607,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1226082607,
+    "wof:lastmodified":1536671874,
+    "wof:name":"Mandail",
+    "wof:parent_id":421187803,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.3846,
+    23.70379,
+    90.3846,
+    23.70379
+],
+  "geometry": {"coordinates":[90.38460000000001,23.70379],"type":"Point"}
+}

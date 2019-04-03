@@ -1,0 +1,67 @@
+{
+  "id": 1209457309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"92.2022,21.37137,92.2022,21.37137",
+    "geom:latitude":21.37137,
+    "geom:longitude":92.2022,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2003.0",
+    "gn:admin3_code":"200373.0",
+    "gn:admin4_code":"20037376.0",
+    "gn:asciiname":"Lampaipara",
+    "gn:country_code":"BD",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6416626,
+    "gn:latitude":21.37137,
+    "gn:longitude":92.2022,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Lamp\u0101ip\u0101ra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Lamp\u0101ip\u0101ra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6416626
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"3a2f923acb710fad64c8658080c419ec",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209457309
+        }
+    ],
+    "wof:id":1209457309,
+    "wof:lastmodified":1537586266,
+    "wof:name":"Lampaipara",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    92.2022,
+    21.37137,
+    92.2022,
+    21.37137
+],
+  "geometry": {"coordinates":[92.2022,21.37137],"type":"Point"}
+}

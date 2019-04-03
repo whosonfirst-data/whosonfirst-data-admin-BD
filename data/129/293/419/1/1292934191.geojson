@@ -1,0 +1,70 @@
+{
+  "id": 1292934191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.98167,23.3079,89.98167,23.3079",
+    "geom:latitude":23.3079,
+    "geom:longitude":89.98167,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3035.0",
+    "gn:admin3_code":"303558.0",
+    "gn:admin4_code":"30355827.0",
+    "gn:asciiname":"Goderanka",
+    "gn:country_code":"BD",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1202235,
+    "gn:latitude":23.3079,
+    "gn:longitude":89.98167,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Goderanka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421194867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1202235
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"1f7aa24aefb9978a6536e32fd395bb8f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421194867,
+            "locality_id":1292934191,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1292934191,
+    "wof:lastmodified":1537084742,
+    "wof:name":"Goderanka",
+    "wof:parent_id":421194867,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.98167,
+    23.3079,
+    89.98167,
+    23.3079
+],
+  "geometry": {"coordinates":[89.98166999999999,23.3079],"type":"Point"}
+}

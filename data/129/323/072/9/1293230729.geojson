@@ -1,0 +1,70 @@
+{
+  "id": 1293230729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.25615,22.48631,90.25615,22.48631",
+    "geom:latitude":22.48631,
+    "geom:longitude":90.25615,
+    "gn:admin1_code":"82",
+    "gn:asciiname":"Sakbania",
+    "gn:country_code":"BD",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1189069,
+    "gn:latitude":22.48631,
+    "gn:longitude":90.25615,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"S\u0101kbania",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "S\u0101kbania"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669019,
+        421187745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1189069
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"c1c73178443525435d9990612aa19947",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421187745,
+            "locality_id":1293230729,
+            "region_id":85669019
+        }
+    ],
+    "wof:id":1293230729,
+    "wof:lastmodified":1537585772,
+    "wof:name":"Sakbania",
+    "wof:parent_id":421187745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.25615,
+    22.48631,
+    90.25615,
+    22.48631
+],
+  "geometry": {"coordinates":[90.25615000000001,22.48631],"type":"Point"}
+}

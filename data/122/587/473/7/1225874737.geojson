@@ -1,0 +1,70 @@
+{
+  "id": 1225874737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.99774,22.48021,88.99774,22.48021",
+    "geom:latitude":22.48021,
+    "geom:longitude":88.99774,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4087.0",
+    "gn:admin3_code":"408747.0",
+    "gn:admin4_code":"40874707.0",
+    "gn:asciiname":"Chandkati",
+    "gn:country_code":"BD",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1207393,
+    "gn:latitude":22.48021,
+    "gn:longitude":88.99774,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Ch\u0101ndk\u0101ti",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        421201927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1207393
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"8b7ed8143a338acbe531d8c3a8bb417e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421201927,
+            "locality_id":1225874737,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1225874737,
+    "wof:lastmodified":1536971625,
+    "wof:name":"Chandkati",
+    "wof:parent_id":421201927,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.99774000000002,
+    22.48021,
+    88.99774000000002,
+    22.48021
+],
+  "geometry": {"coordinates":[88.99774000000002,22.48021],"type":"Point"}
+}

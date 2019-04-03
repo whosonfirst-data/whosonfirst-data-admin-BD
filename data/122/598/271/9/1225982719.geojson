@@ -1,0 +1,73 @@
+{
+  "id": 1225982719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"92.01299,21.77213,92.01299,21.77213",
+    "geom:latitude":21.77213,
+    "geom:longitude":92.01299,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2022.0",
+    "gn:admin3_code":"202216.0",
+    "gn:admin4_code":"20221622.0",
+    "gn:asciiname":"Sinemaghona",
+    "gn:country_code":"BD",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6422777,
+    "gn:latitude":21.77213,
+    "gn:longitude":92.01299,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Sinem\u0101ghona",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Sinem\u0101ghona"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421205057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6422777
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"d94a81589dca70de06bff6d49fe79fcb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421205057,
+            "locality_id":1225982719,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1225982719,
+    "wof:lastmodified":1537586273,
+    "wof:name":"Sinemaghona",
+    "wof:parent_id":421205057,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    92.01299,
+    21.77213,
+    92.01299,
+    21.77213
+],
+  "geometry": {"coordinates":[92.01299,21.77213],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1343694963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.27314,25.98697,88.27314,25.98697",
+    "geom:latitude":25.98697,
+    "geom:longitude":88.27314,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5594.0",
+    "gn:admin3_code":"559486.0",
+    "gn:admin4_code":"55948679.0",
+    "gn:asciiname":"Gandagram",
+    "gn:country_code":"BD",
+    "gn:dem":53,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7487598,
+    "gn:latitude":25.98697,
+    "gn:longitude":88.27314,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Gandagr\u0101m",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Gandagr\u0101m"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7487598
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"cb13212aaadabfd036d1dccda0a9f80f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694703,
+            "locality_id":1343694963,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1343694963,
+    "wof:lastmodified":1537586643,
+    "wof:name":"Gandagram",
+    "wof:parent_id":1108694703,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.27314,
+    25.98697,
+    88.27314,
+    25.98697
+],
+  "geometry": {"coordinates":[88.27314,25.98697],"type":"Point"}
+}

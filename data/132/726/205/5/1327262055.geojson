@@ -1,0 +1,74 @@
+{
+  "id": 1327262055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.68737,24.8533,91.68737,24.8533",
+    "geom:latitude":24.8533,
+    "geom:longitude":91.68737,
+    "gn:admin1_code":"86",
+    "gn:admin2_code":"6091",
+    "gn:admin3_code":"609120.0",
+    "gn:admin4_code":"60912031.0",
+    "gn:asciiname":"Karpara",
+    "gn:country_code":"BD",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1198367,
+    "gn:latitude":24.8533,
+    "gn:longitude":91.68737,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Karp\u0101ra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Karp\u0101ra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669025,
+        421187795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1198367,
+        "wk:page":"Karpara"
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"183e70ae4d64f1241e244c14dd4dca82",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421187795,
+            "locality_id":1327262055,
+            "region_id":85669025
+        }
+    ],
+    "wof:id":1327262055,
+    "wof:lastmodified":1537585944,
+    "wof:name":"Karpara",
+    "wof:parent_id":421187795,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.68737,
+    24.8533,
+    91.68737,
+    24.8533
+],
+  "geometry": {"coordinates":[91.68737,24.8533],"type":"Point"}
+}

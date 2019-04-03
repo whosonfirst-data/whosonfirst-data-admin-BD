@@ -1,0 +1,74 @@
+{
+  "id": 1276472537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.73117,23.44093,89.73117,23.44093",
+    "geom:latitude":23.44093,
+    "geom:longitude":89.73117,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3029",
+    "gn:admin3_code":"302918.0",
+    "gn:admin4_code":"30291830.0",
+    "gn:asciiname":"Natibdia",
+    "gn:country_code":"BD",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1193086,
+    "gn:latitude":23.44093,
+    "gn:longitude":89.73117,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Natibdia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Natirdia",
+        "Natibdia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421198063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1193086
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"f9dc977871c3fe1f4fb046435b32ccb0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421198063,
+            "locality_id":1276472537,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1276472537,
+    "wof:lastmodified":1537585846,
+    "wof:name":"Natibdia",
+    "wof:parent_id":421198063,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.73116999999998,
+    23.44093,
+    89.73116999999998,
+    23.44093
+],
+  "geometry": {"coordinates":[89.73116999999998,23.44093],"type":"Point"}
+}

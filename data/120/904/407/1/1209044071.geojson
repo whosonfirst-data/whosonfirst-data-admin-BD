@@ -1,0 +1,67 @@
+{
+  "id": 1209044071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.11542,25.20218,90.11542,25.20218",
+    "geom:latitude":25.20218,
+    "geom:longitude":90.11542,
+    "gn:admin1_code":"H",
+    "gn:admin2_code":"3089",
+    "gn:admin3_code":"308937.0",
+    "gn:admin4_code":"30893760.0",
+    "gn:asciiname":"Phakrabad",
+    "gn:country_code":"BD",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7922691,
+    "gn:latitude":25.20218,
+    "gn:longitude":90.11542,
+    "gn:modification_date":"2016-11-17",
+    "gn:name":"Ph\u0101krabad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Ph\u0101krabad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7922691
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"0327b4aa868e194aa924d6d189ae5dfe",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209044071
+        }
+    ],
+    "wof:id":1209044071,
+    "wof:lastmodified":1537586789,
+    "wof:name":"Phakrabad",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.11542,
+    25.20218,
+    90.11542,
+    25.20218
+],
+  "geometry": {"coordinates":[90.11542,25.20218],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209351959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.73996,24.16842,89.73996,24.16842",
+    "geom:latitude":24.16842,
+    "geom:longitude":89.73996,
+    "gn:admin1_code":"83",
+    "gn:admin2_code":"5088",
+    "gn:admin3_code":"508827.0",
+    "gn:admin4_code":"50882771.0",
+    "gn:asciiname":"Sthal Naohata",
+    "gn:country_code":"BD",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1187126,
+    "gn:latitude":24.16842,
+    "gn:longitude":89.73996,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Sthal Naoh\u0101ta",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1187126
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"57065d1b220c739c80d3221fa7732a10",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209351959
+        }
+    ],
+    "wof:id":1209351959,
+    "wof:lastmodified":1536289711,
+    "wof:name":"Sthal Naohata",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.73996,
+    24.16842,
+    89.73996,
+    24.16842
+],
+  "geometry": {"coordinates":[89.73996,24.16842],"type":"Point"}
+}

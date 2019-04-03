@@ -1,0 +1,73 @@
+{
+  "id": 1226777669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.04645,23.52935,89.04645,23.52935",
+    "geom:latitude":23.52935,
+    "geom:longitude":89.04645,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4044.0",
+    "gn:admin3_code":"404419.0",
+    "gn:admin4_code":"40441952.0",
+    "gn:asciiname":"Bezimara",
+    "gn:country_code":"BD",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7478773,
+    "gn:latitude":23.52935,
+    "gn:longitude":89.04645,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Bezim\u0101ra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Bezim\u0101ra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        1108694679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7478773
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"36b6e4c7c0102dd1c3dce1368e2fc3bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694679,
+            "locality_id":1226777669,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1226777669,
+    "wof:lastmodified":1537586401,
+    "wof:name":"Bezimara",
+    "wof:parent_id":1108694679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.04645,
+    23.52935,
+    89.04645,
+    23.52935
+],
+  "geometry": {"coordinates":[89.04644999999999,23.52935],"type":"Point"}
+}

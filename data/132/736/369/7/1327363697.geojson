@@ -1,0 +1,73 @@
+{
+  "id": 1327363697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.9684,21.9973,89.9684,21.9973",
+    "geom:latitude":21.9973,
+    "geom:longitude":89.9684,
+    "gn:admin1_code":"85",
+    "gn:admin2_code":"1004.0",
+    "gn:admin3_code":"100485.0",
+    "gn:admin4_code":"10048571.0",
+    "gn:asciiname":"Char Laithimara",
+    "gn:country_code":"BD",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7476176,
+    "gn:latitude":21.9973,
+    "gn:longitude":89.9684,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Char L\u0101ithim\u0101ra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Char L\u0101ithim\u0101ra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669019,
+        421176043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7476176
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"7fbe0b610ac0fa1fdba0501850a501c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421176043,
+            "locality_id":1327363697,
+            "region_id":85669019
+        }
+    ],
+    "wof:id":1327363697,
+    "wof:lastmodified":1537586338,
+    "wof:name":"Char Laithimara",
+    "wof:parent_id":421176043,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.9684,
+    21.9973,
+    89.9684,
+    21.9973
+],
+  "geometry": {"coordinates":[89.9684,21.9973],"type":"Point"}
+}

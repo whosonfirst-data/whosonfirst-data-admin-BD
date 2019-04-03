@@ -1,0 +1,73 @@
+{
+  "id": 1276267991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.79414,22.51342,91.79414,22.51342",
+    "geom:latitude":22.51342,
+    "geom:longitude":91.79414,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2015.0",
+    "gn:admin3_code":"201537.0",
+    "gn:admin4_code":"20153759.0",
+    "gn:asciiname":"Katabaria",
+    "gn:country_code":"BD",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6414434,
+    "gn:latitude":22.51342,
+    "gn:longitude":91.79414,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"K\u0101t\u0101b\u0101ria",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "K\u0101t\u0101b\u0101ria"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421201541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6414434
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"849d3c08a0d378633cc95fdaaddf151c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421201541,
+            "locality_id":1276267991,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1276267991,
+    "wof:lastmodified":1537586227,
+    "wof:name":"Katabaria",
+    "wof:parent_id":421201541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.79414,
+    22.51342,
+    91.79414,
+    22.51342
+],
+  "geometry": {"coordinates":[91.79414,22.51342],"type":"Point"}
+}

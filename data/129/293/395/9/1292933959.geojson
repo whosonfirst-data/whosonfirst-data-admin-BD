@@ -1,0 +1,70 @@
+{
+  "id": 1292933959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.00577,23.49636,90.00577,23.49636",
+    "geom:latitude":23.49636,
+    "geom:longitude":90.00577,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3029.0",
+    "gn:admin3_code":"302984.0",
+    "gn:admin4_code":"30298419.0",
+    "gn:asciiname":"Char Chandpur Bazarkandi",
+    "gn:country_code":"BD",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1207004,
+    "gn:latitude":23.49636,
+    "gn:longitude":90.00577,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Char Ch\u0101ndpur B\u0101z\u0101rk\u0101ndi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421198063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1207004
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"d52a9599e5a5b849ab6486d643633dff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421198063,
+            "locality_id":1292933959,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1292933959,
+    "wof:lastmodified":1537085072,
+    "wof:name":"Char Chandpur Bazarkandi",
+    "wof:parent_id":421198063,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.00577,
+    23.49636,
+    90.00577,
+    23.49636
+],
+  "geometry": {"coordinates":[90.00577,23.49636],"type":"Point"}
+}

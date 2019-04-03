@@ -1,0 +1,64 @@
+{
+  "id": 1209648707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.3,24.55,88.3,24.55",
+    "geom:latitude":24.55,
+    "geom:longitude":88.3,
+    "gn:admin1_code":"83",
+    "gn:admin2_code":"5070.0",
+    "gn:admin3_code":"507066.0",
+    "gn:admin4_code":"50706616.0",
+    "gn:asciiname":"Baliaghata",
+    "gn:country_code":"BD",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1211347,
+    "gn:latitude":24.55,
+    "gn:longitude":88.3,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"B\u0101li\u0101gh\u0101ta",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1211347
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"55f27cbeba084b90d749d56188a260ff",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209648707
+        }
+    ],
+    "wof:id":1209648707,
+    "wof:lastmodified":1536280650,
+    "wof:name":"Baliaghata",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.3,
+    24.55,
+    88.3,
+    24.55
+],
+  "geometry": {"coordinates":[88.3,24.55],"type":"Point"}
+}

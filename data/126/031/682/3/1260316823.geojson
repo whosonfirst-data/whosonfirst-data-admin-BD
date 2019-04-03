@@ -1,0 +1,74 @@
+{
+  "id": 1260316823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.45195,23.22654,90.45195,23.22654",
+    "geom:latitude":23.22654,
+    "geom:longitude":90.45195,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3086.0",
+    "gn:admin3_code":"308614.0",
+    "gn:admin4_code":"30861477.0",
+    "gn:asciiname":"Bhatita",
+    "gn:country_code":"BD",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1209050,
+    "gn:latitude":23.22654,
+    "gn:longitude":90.45195,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Bh\u0101tita",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bhatila",
+        "Bh\u0101tita"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421188359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1209050
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"bd5537418d73a09a72a63d4b2e9e3262",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421188359,
+            "locality_id":1260316823,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1260316823,
+    "wof:lastmodified":1537586141,
+    "wof:name":"Bhatita",
+    "wof:parent_id":421188359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.45195,
+    23.22654,
+    90.45195,
+    23.22654
+],
+  "geometry": {"coordinates":[90.45195,23.22654],"type":"Point"}
+}

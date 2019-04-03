@@ -1,0 +1,70 @@
+{
+  "id": 1310235083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.02992,23.95104,90.02992,23.95104",
+    "geom:latitude":23.95104,
+    "geom:longitude":90.02992,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3056.0",
+    "gn:admin3_code":"305670.0",
+    "gn:admin4_code":"30567066.0",
+    "gn:asciiname":"Bhasiali",
+    "gn:country_code":"BD",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1209117,
+    "gn:latitude":23.95104,
+    "gn:longitude":90.02992,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Bh\u0101si\u0101li",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421191745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1209117
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"8328edea280fbb08df47ac930fb6a7e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421191745,
+            "locality_id":1310235083,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1310235083,
+    "wof:lastmodified":1536809320,
+    "wof:name":"Bhasiali",
+    "wof:parent_id":421191745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.02991999999998,
+    23.95104,
+    90.02991999999998,
+    23.95104
+],
+  "geometry": {"coordinates":[90.02991999999998,23.95104],"type":"Point"}
+}

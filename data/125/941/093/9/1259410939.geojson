@@ -1,0 +1,73 @@
+{
+  "id": 1259410939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.11356,23.78959,89.11356,23.78959",
+    "geom:latitude":23.78959,
+    "geom:longitude":89.11356,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4050.0",
+    "gn:admin3_code":"405079.0",
+    "gn:admin4_code":"40507994.0",
+    "gn:asciiname":"Britipara",
+    "gn:country_code":"BD",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7485689,
+    "gn:latitude":23.78959,
+    "gn:longitude":89.11356,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Britipara",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Britipara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        890438075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7485689
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"faaf1981e9c69fc333cd4f349a201425",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":890438075,
+            "locality_id":1259410939,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1259410939,
+    "wof:lastmodified":1537586597,
+    "wof:name":"Britipara",
+    "wof:parent_id":890438075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.11355999999998,
+    23.78959,
+    89.11355999999998,
+    23.78959
+],
+  "geometry": {"coordinates":[89.11355999999998,23.78959],"type":"Point"}
+}

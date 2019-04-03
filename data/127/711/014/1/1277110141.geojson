@@ -1,0 +1,73 @@
+{
+  "id": 1277110141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.1303,25.82291,89.1303,25.82291",
+    "geom:latitude":25.82291,
+    "geom:longitude":89.1303,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5585",
+    "gn:admin3_code":"558527.0",
+    "gn:admin4_code":"55852752.0",
+    "gn:asciiname":"Dakshin Khalea",
+    "gn:country_code":"BD",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7924008,
+    "gn:latitude":25.82291,
+    "gn:longitude":89.1303,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Dakshin Khalea",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Dakshin Khalea"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7924008
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"6b98cb890e666ea0ad15106d95703560",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694701,
+            "locality_id":1277110141,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1277110141,
+    "wof:lastmodified":1537586814,
+    "wof:name":"Dakshin Khalea",
+    "wof:parent_id":1108694701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.1303,
+    25.82291,
+    89.1303,
+    25.82291
+],
+  "geometry": {"coordinates":[89.13030000000001,25.82291],"type":"Point"}
+}

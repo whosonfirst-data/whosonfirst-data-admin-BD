@@ -1,0 +1,70 @@
+{
+  "id": 1243104757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.02791,25.59261,89.02791,25.59261",
+    "geom:latitude":25.59261,
+    "geom:longitude":89.02791,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5527.0",
+    "gn:admin3_code":"552777.0",
+    "gn:admin4_code":"55277743.0",
+    "gn:asciiname":"Dakshin Harirampur",
+    "gn:country_code":"BD",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1205439,
+    "gn:latitude":25.59261,
+    "gn:longitude":89.02791,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Dakshin Har\u012br\u0101mpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1205439
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"6c9b5d84ab48178df3a30a74924e2cd9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694671,
+            "locality_id":1243104757,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1243104757,
+    "wof:lastmodified":1536800946,
+    "wof:name":"Dakshin Harirampur",
+    "wof:parent_id":1108694671,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.02790999999998,
+    25.59261,
+    89.02790999999998,
+    25.59261
+],
+  "geometry": {"coordinates":[89.02790999999998,25.59261],"type":"Point"}
+}

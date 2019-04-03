@@ -1,0 +1,70 @@
+{
+  "id": 1326568075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.01667,23.58333,91.01667,23.58333",
+    "geom:latitude":23.58333,
+    "geom:longitude":91.01667,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2019.0",
+    "gn:admin3_code":"201940.0",
+    "gn:admin4_code":"20194065.0",
+    "gn:asciiname":"Charbakhar",
+    "gn:country_code":"BD",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1207102,
+    "gn:latitude":23.58333,
+    "gn:longitude":91.01667,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Ch\u0101rb\u0101khar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421187801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1207102
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"ab12a573593697bc42107c859eeeb582",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421187801,
+            "locality_id":1326568075,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1326568075,
+    "wof:lastmodified":1536933056,
+    "wof:name":"Charbakhar",
+    "wof:parent_id":421187801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.01667,
+    23.58333,
+    91.01667,
+    23.58333
+],
+  "geometry": {"coordinates":[91.01667,23.58333],"type":"Point"}
+}

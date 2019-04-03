@@ -1,0 +1,75 @@
+{
+  "id": 1310343485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.69955,23.26065,90.69955,23.26065",
+    "geom:latitude":23.26065,
+    "geom:longitude":90.69955,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2013.0",
+    "gn:admin3_code":"201322.0",
+    "gn:admin4_code":"20132207.0",
+    "gn:asciiname":"Asikathi",
+    "gn:country_code":"BD",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1212401,
+    "gn:latitude":23.26065,
+    "gn:longitude":90.69955,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"\u0100sik\u0101thi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Asikati",
+        "\u0100sik\u0101thi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        1108694669
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1212401,
+        "wk:page":"Asikathi"
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"fa8cf644fa9658cd888063ac0198cad6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694669,
+            "locality_id":1310343485,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1310343485,
+    "wof:lastmodified":1537586194,
+    "wof:name":"Asikathi",
+    "wof:parent_id":1108694669,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.69955,
+    23.26065,
+    90.69955,
+    23.26065
+],
+  "geometry": {"coordinates":[90.69955,23.26065],"type":"Point"}
+}

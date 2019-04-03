@@ -1,0 +1,73 @@
+{
+  "id": 1310338785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.83587,24.57461,88.83587,24.57461",
+    "geom:latitude":24.57461,
+    "geom:longitude":88.83587,
+    "gn:admin1_code":"83",
+    "gn:admin2_code":"5081.0",
+    "gn:admin3_code":"508112.0",
+    "gn:admin4_code":"50811275.0",
+    "gn:asciiname":"Champakuri",
+    "gn:country_code":"BD",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1207546,
+    "gn:latitude":24.57461,
+    "gn:longitude":88.83587,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Champ\u0101kuri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Champ\u0101kuri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669031,
+        421172439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1207546
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"ea68fbc16332b9fec2999c1c66b4bca4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421172439,
+            "locality_id":1310338785,
+            "region_id":85669031
+        }
+    ],
+    "wof:id":1310338785,
+    "wof:lastmodified":1537586111,
+    "wof:name":"Champakuri",
+    "wof:parent_id":421172439,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.83587,
+    24.57461,
+    88.83587,
+    24.57461
+],
+  "geometry": {"coordinates":[88.83587,24.57461],"type":"Point"}
+}

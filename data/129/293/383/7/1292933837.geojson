@@ -1,0 +1,70 @@
+{
+  "id": 1292933837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.02307,23.66405,90.02307,23.66405",
+    "geom:latitude":23.66405,
+    "geom:longitude":90.02307,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3026",
+    "gn:admin3_code":"302618.0",
+    "gn:admin4_code":"30261863.0",
+    "gn:asciiname":"Purba Chak",
+    "gn:country_code":"BD",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1190794,
+    "gn:latitude":23.66405,
+    "gn:longitude":90.02307,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Purba Chak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421191745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1190794
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"be7d919b41f2e4df7b0ddbbf8d1f0775",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421191745,
+            "locality_id":1292933837,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1292933837,
+    "wof:lastmodified":1537085250,
+    "wof:name":"Purba Chak",
+    "wof:parent_id":421191745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.02306999999998,
+    23.66405,
+    90.02306999999998,
+    23.66405
+],
+  "geometry": {"coordinates":[90.02306999999998,23.66405],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1209549079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.22898,23.8486,90.22898,23.8486",
+    "geom:latitude":23.8486,
+    "geom:longitude":90.22898,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3026.0",
+    "gn:admin3_code":"302614.0",
+    "gn:admin4_code":"30261453.0",
+    "gn:asciiname":"Chautail",
+    "gn:country_code":"BD",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1206286,
+    "gn:latitude":23.8486,
+    "gn:longitude":90.22898,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Ch\u0101ut\u0101il",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Choutail",
+        "Ch\u0101ut\u0101il"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1206286
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"69bbcf72e665858c902ce92687456963",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209549079
+        }
+    ],
+    "wof:id":1209549079,
+    "wof:lastmodified":1537586090,
+    "wof:name":"Chautail",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.22898,
+    23.8486,
+    90.22898,
+    23.8486
+],
+  "geometry": {"coordinates":[90.22898000000001,23.8486],"type":"Point"}
+}

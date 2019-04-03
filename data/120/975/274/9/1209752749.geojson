@@ -1,0 +1,73 @@
+{
+  "id": 1209752749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.796,23.81426,88.796,23.81426",
+    "geom:latitude":23.81426,
+    "geom:longitude":88.796,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4057.0",
+    "gn:admin3_code":"405747.0",
+    "gn:admin4_code":"40574731.0",
+    "gn:asciiname":"Simultala Jhorpara",
+    "gn:country_code":"BD",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7484344,
+    "gn:latitude":23.81426,
+    "gn:longitude":88.796,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Simultala Jhorpara",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Simultala Jhorpara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        421191661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7484344
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"b17fd8da82c0364cf030eb0cfe3041d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421191661,
+            "locality_id":1209752749,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1209752749,
+    "wof:lastmodified":1537586562,
+    "wof:name":"Simultala Jhorpara",
+    "wof:parent_id":421191661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.796,
+    23.81426,
+    88.796,
+    23.81426
+],
+  "geometry": {"coordinates":[88.79600000000001,23.81426],"type":"Point"}
+}

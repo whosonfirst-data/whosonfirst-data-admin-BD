@@ -1,0 +1,73 @@
+{
+  "id": 1343695213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.40559,23.39082,89.40559,23.39082",
+    "geom:latitude":23.39082,
+    "geom:longitude":89.40559,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4055.0",
+    "gn:admin3_code":"405557.0",
+    "gn:admin4_code":"40555767.0",
+    "gn:asciiname":"Alukdia",
+    "gn:country_code":"BD",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7479451,
+    "gn:latitude":23.39082,
+    "gn:longitude":89.40559,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"\u0100lukdia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "\u0100lukdia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        1108694689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7479451
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"6f0c07bbd6f265fa136653ccd791aa75",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694689,
+            "locality_id":1343695213,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1343695213,
+    "wof:lastmodified":1537586420,
+    "wof:name":"Alukdia",
+    "wof:parent_id":1108694689,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.40559,
+    23.39082,
+    89.40559,
+    23.39082
+],
+  "geometry": {"coordinates":[89.40559,23.39082],"type":"Point"}
+}

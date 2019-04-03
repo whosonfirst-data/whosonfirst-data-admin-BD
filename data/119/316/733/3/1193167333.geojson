@@ -1,0 +1,70 @@
+{
+  "id": 1193167333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.32509,22.20925,90.32509,22.20925",
+    "geom:latitude":22.20925,
+    "geom:longitude":90.32509,
+    "gn:admin1_code":"82",
+    "gn:asciiname":"Khagdan",
+    "gn:country_code":"BD",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7478638,
+    "gn:latitude":22.20925,
+    "gn:longitude":90.32509,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"Kh\u0101gdan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Kh\u0101gdan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669019,
+        421176043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7478638
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"0d7072d1310b8b53c1988e0710421116",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421176043,
+            "locality_id":1193167333,
+            "region_id":85669019
+        }
+    ],
+    "wof:id":1193167333,
+    "wof:lastmodified":1537586397,
+    "wof:name":"Khagdan",
+    "wof:parent_id":421176043,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.32509,
+    22.20925,
+    90.32509,
+    22.20925
+],
+  "geometry": {"coordinates":[90.32509,22.20925],"type":"Point"}
+}

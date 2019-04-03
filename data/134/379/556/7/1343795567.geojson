@@ -1,0 +1,74 @@
+{
+  "id": 1343795567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.55414,24.30805,90.55414,24.30805",
+    "geom:latitude":24.30805,
+    "geom:longitude":90.55414,
+    "gn:admin1_code":"H",
+    "gn:admin2_code":"3061.0",
+    "gn:admin3_code":"306122.0",
+    "gn:admin4_code":"30612250.0",
+    "gn:asciiname":"Bil Makhal",
+    "gn:country_code":"BD",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1208545,
+    "gn:latitude":24.30805,
+    "gn:longitude":90.55414,
+    "gn:modification_date":"2016-11-17",
+    "gn:name":"Bil M\u0101khal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bill M\u0101kh\u0101l",
+        "Bil M\u0101khal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        1108803101,
+        421185469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1208545
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"b6c33411b08dfd0a0a6d4e13a65752ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421185469,
+            "locality_id":1343795567,
+            "region_id":1108803101
+        }
+    ],
+    "wof:id":1343795567,
+    "wof:lastmodified":1537586131,
+    "wof:name":"Bil Makhal",
+    "wof:parent_id":421185469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.55414,
+    24.30805,
+    90.55414,
+    24.30805
+],
+  "geometry": {"coordinates":[90.55414,24.30805],"type":"Point"}
+}

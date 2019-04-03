@@ -1,0 +1,70 @@
+{
+  "id": 1344006727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.99285,23.12148,90.99285,23.12148",
+    "geom:latitude":23.12148,
+    "geom:longitude":90.99285,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2019.0",
+    "gn:admin3_code":"201973.0",
+    "gn:admin4_code":"20197314.0",
+    "gn:asciiname":"Baduara",
+    "gn:country_code":"BD",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1212073,
+    "gn:latitude":23.12148,
+    "gn:longitude":90.99285,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"B\u0101du\u0101ra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421187801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1212073
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"c0ca768efc60f2b374a6fc4cb3f5fdd9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421187801,
+            "locality_id":1344006727,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1344006727,
+    "wof:lastmodified":1536953434,
+    "wof:name":"Baduara",
+    "wof:parent_id":421187801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.99285,
+    23.12148,
+    90.99285,
+    23.12148
+],
+  "geometry": {"coordinates":[90.99285,23.12148],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1193183643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"92.14182,22.83493,92.14182,22.83493",
+    "geom:latitude":22.83493,
+    "geom:longitude":92.14182,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2084",
+    "gn:admin3_code":"208475.0",
+    "gn:admin4_code":"20847519.0",
+    "gn:asciiname":"Selaschari",
+    "gn:country_code":"BD",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1188301,
+    "gn:latitude":22.83493,
+    "gn:longitude":92.14182,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Selaschari",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Selaschari"
+    ],
+    "name:und_x_variant":[
+        "Selaschhari"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421188983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1188301
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"ba413a1e730ab9dec03b561d502a6acc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421188983,
+            "locality_id":1193183643,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1193183643,
+    "wof:lastmodified":1537585759,
+    "wof:name":"Selaschari",
+    "wof:parent_id":421188983,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    92.14182,
+    22.83493,
+    92.14182,
+    22.83493
+],
+  "geometry": {"coordinates":[92.14182,22.83493],"type":"Point"}
+}

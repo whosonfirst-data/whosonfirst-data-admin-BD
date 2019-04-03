@@ -1,0 +1,73 @@
+{
+  "id": 1243491693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.86021,23.99959,88.86021,23.99959",
+    "geom:latitude":23.99959,
+    "geom:longitude":88.86021,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4050.0",
+    "gn:admin3_code":"405039.0",
+    "gn:admin4_code":"40503933.0",
+    "gn:asciiname":"Hakimpur",
+    "gn:country_code":"BD",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1201724,
+    "gn:latitude":23.99959,
+    "gn:longitude":88.86021,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"H\u0101kimpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "H\u0101kimpur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        890438075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1201724
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"8ac7f7b296cb528373ff73fa33631df9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":890438075,
+            "locality_id":1243491693,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1243491693,
+    "wof:lastmodified":1537586004,
+    "wof:name":"Hakimpur",
+    "wof:parent_id":890438075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.86021,
+    23.99959,
+    88.86021,
+    23.99959
+],
+  "geometry": {"coordinates":[88.86021,23.99959],"type":"Point"}
+}

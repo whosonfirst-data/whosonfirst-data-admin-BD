@@ -1,0 +1,73 @@
+{
+  "id": 1226479775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.05796,23.71575,89.05796,23.71575",
+    "geom:latitude":23.71575,
+    "geom:longitude":89.05796,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4044.0",
+    "gn:admin3_code":"404414.0",
+    "gn:admin4_code":"40441452.0",
+    "gn:asciiname":"Kamarkhali",
+    "gn:country_code":"BD",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7479137,
+    "gn:latitude":23.71575,
+    "gn:longitude":89.05796,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"K\u0101m\u0101rkh\u0101li",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "K\u0101m\u0101rkh\u0101li"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        1108694679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7479137
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"fc5fecfebfff685a5dc446ec1216422f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694679,
+            "locality_id":1226479775,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1226479775,
+    "wof:lastmodified":1537586411,
+    "wof:name":"Kamarkhali",
+    "wof:parent_id":1108694679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.05796,
+    23.71575,
+    89.05796,
+    23.71575
+],
+  "geometry": {"coordinates":[89.05795999999999,23.71575],"type":"Point"}
+}

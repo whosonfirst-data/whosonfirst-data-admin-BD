@@ -1,0 +1,70 @@
+{
+  "id": 1310035551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.45907,25.16604,89.45907,25.16604",
+    "geom:latitude":25.16604,
+    "geom:longitude":89.45907,
+    "gn:admin1_code":"83",
+    "gn:asciiname":"Rakhalburuj Uttarpara",
+    "gn:country_code":"BD",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7892479,
+    "gn:latitude":25.16604,
+    "gn:longitude":89.45907,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"R\u0101kh\u0101lburuj Uttarp\u0101ra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "R\u0101kh\u0101lburuj Uttarp\u0101ra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7892479
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"73993f8a0db651dae83c1d7942427649",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694675,
+            "locality_id":1310035551,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1310035551,
+    "wof:lastmodified":1537586757,
+    "wof:name":"Rakhalburuj Uttarpara",
+    "wof:parent_id":1108694675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.45907,
+    25.16604,
+    89.45907,
+    25.16604
+],
+  "geometry": {"coordinates":[89.45907,25.16604],"type":"Point"}
+}

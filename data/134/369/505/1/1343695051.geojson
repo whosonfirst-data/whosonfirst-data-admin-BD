@@ -1,0 +1,70 @@
+{
+  "id": 1343695051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.34022,22.16982,90.34022,22.16982",
+    "geom:latitude":22.16982,
+    "geom:longitude":90.34022,
+    "gn:admin1_code":"82",
+    "gn:asciiname":"Charerkola",
+    "gn:country_code":"BD",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7478626,
+    "gn:latitude":22.16982,
+    "gn:longitude":90.34022,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"Charerkola",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Charerkola"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669019,
+        421176043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7478626
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"1d92e8b3667cbf16572fb8cea21e4387",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421176043,
+            "locality_id":1343695051,
+            "region_id":85669019
+        }
+    ],
+    "wof:id":1343695051,
+    "wof:lastmodified":1537586397,
+    "wof:name":"Charerkola",
+    "wof:parent_id":421176043,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.34022,
+    22.16982,
+    90.34022,
+    22.16982
+],
+  "geometry": {"coordinates":[90.34022,22.16982],"type":"Point"}
+}

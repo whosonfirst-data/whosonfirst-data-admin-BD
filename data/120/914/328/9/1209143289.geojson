@@ -1,0 +1,64 @@
+{
+  "id": 1209143289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.69693,25.20936,88.69693,25.20936",
+    "geom:latitude":25.20936,
+    "geom:longitude":88.69693,
+    "gn:admin1_code":"83",
+    "gn:asciiname":"Gonga Jamuna",
+    "gn:country_code":"BD",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7488768,
+    "gn:latitude":25.20936,
+    "gn:longitude":88.69693,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Gonga Jamuna",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Gonga Jamuna"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7488768
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"ee10d68307ea8ee72fa6c45a70df6ceb",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209143289
+        }
+    ],
+    "wof:id":1209143289,
+    "wof:lastmodified":1537586678,
+    "wof:name":"Gonga Jamuna",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.69693000000002,
+    25.20936,
+    88.69693000000002,
+    25.20936
+],
+  "geometry": {"coordinates":[88.69693000000002,25.20936],"type":"Point"}
+}

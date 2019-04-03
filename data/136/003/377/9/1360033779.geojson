@@ -1,0 +1,73 @@
+{
+  "id": 1360033779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.82457,22.80717,91.82457,22.80717",
+    "geom:latitude":22.80717,
+    "geom:longitude":91.82457,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2046.0",
+    "gn:admin3_code":"204667.0",
+    "gn:admin4_code":"20466763.0",
+    "gn:asciiname":"Bara Dolapara",
+    "gn:country_code":"BD",
+    "gn:dem":48,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7477388,
+    "gn:latitude":22.80717,
+    "gn:longitude":91.82457,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Bara Dolap\u0101ra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Bara Dolap\u0101ra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        1108694683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7477388
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"b0f017d8f6b5b7ce46dff0e2efe89d5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694683,
+            "locality_id":1360033779,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1360033779,
+    "wof:lastmodified":1537586366,
+    "wof:name":"Bara Dolapara",
+    "wof:parent_id":1108694683,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.82457,
+    22.80717000000001,
+    91.82457,
+    22.80717000000001
+],
+  "geometry": {"coordinates":[91.82456999999999,22.80717000000001],"type":"Point"}
+}

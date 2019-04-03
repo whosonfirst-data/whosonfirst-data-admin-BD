@@ -1,0 +1,70 @@
+{
+  "id": 1276262715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.07604,24.02326,90.07604,24.02326",
+    "geom:latitude":24.02326,
+    "geom:longitude":90.07604,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3026.0",
+    "gn:admin3_code":"302614.0",
+    "gn:admin4_code":"30261429.0",
+    "gn:asciiname":"Chouhat",
+    "gn:country_code":"BD",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1205704,
+    "gn:latitude":24.02326,
+    "gn:longitude":90.07604,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Chouh\u0101t",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421187803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1205704
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"074bf80fe6e8834975cdf50a948fe4ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421187803,
+            "locality_id":1276262715,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1276262715,
+    "wof:lastmodified":1536872284,
+    "wof:name":"Chouhat",
+    "wof:parent_id":421187803,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.07604,
+    24.02326,
+    90.07604,
+    24.02326
+],
+  "geometry": {"coordinates":[90.07604000000001,24.02326],"type":"Point"}
+}

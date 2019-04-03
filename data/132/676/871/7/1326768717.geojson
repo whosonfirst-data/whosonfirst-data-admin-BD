@@ -1,0 +1,75 @@
+{
+  "id": 1326768717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.28333,22.88333,91.28333,22.88333",
+    "geom:latitude":22.88333,
+    "geom:longitude":91.28333,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2075.0",
+    "gn:admin3_code":"207521.0",
+    "gn:admin4_code":"20752100.0",
+    "gn:asciiname":"Bara Rajapur",
+    "gn:cc2":"BD",
+    "gn:country_code":"BD",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1210269,
+    "gn:latitude":22.88333,
+    "gn:longitude":91.28333,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Bara R\u0101j\u0101pur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Big Rajapur",
+        "Bara R\u0101j\u0101pur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421177051
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1210269
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"6bc3f77b9aa8d11bfdec99f2fa4d7ffc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421177051,
+            "locality_id":1326768717,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1326768717,
+    "wof:lastmodified":1537586159,
+    "wof:name":"Bara Rajapur",
+    "wof:parent_id":421177051,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.28333,
+    22.88333,
+    91.28333,
+    22.88333
+],
+  "geometry": {"coordinates":[91.28333000000001,22.88333],"type":"Point"}
+}

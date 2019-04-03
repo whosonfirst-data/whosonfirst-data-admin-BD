@@ -1,0 +1,70 @@
+{
+  "id": 1243396741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.50574,23.36538,89.50574,23.36538",
+    "geom:latitude":23.36538,
+    "geom:longitude":89.50574,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4055.0",
+    "gn:admin3_code":"405557.0",
+    "gn:admin4_code":"40555713.0",
+    "gn:asciiname":"Bara Joka",
+    "gn:country_code":"BD",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1210428,
+    "gn:latitude":23.36538,
+    "gn:longitude":89.50574,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Bara Joka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        1108694689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1210428
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"a5f7c73f827347ae4eb7987d16569315",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694689,
+            "locality_id":1243396741,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1243396741,
+    "wof:lastmodified":1536876459,
+    "wof:name":"Bara Joka",
+    "wof:parent_id":1108694689,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.50574,
+    23.36538,
+    89.50574,
+    23.36538
+],
+  "geometry": {"coordinates":[89.50574,23.36538],"type":"Point"}
+}

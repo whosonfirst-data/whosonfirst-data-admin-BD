@@ -1,0 +1,70 @@
+{
+  "id": 1309740389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.47775,23.42484,90.47775,23.42484",
+    "geom:latitude":23.42484,
+    "geom:longitude":90.47775,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3059",
+    "gn:admin3_code":"305994.0",
+    "gn:admin4_code":"30599447.0",
+    "gn:asciiname":"Sarishaban",
+    "gn:country_code":"BD",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1188570,
+    "gn:latitude":23.42484,
+    "gn:longitude":90.47775,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Sarish\u0101ban",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421205059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1188570
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"90c577fc6b441e609a0749b1f3c1fd4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421205059,
+            "locality_id":1309740389,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1309740389,
+    "wof:lastmodified":1537024437,
+    "wof:name":"Sarishaban",
+    "wof:parent_id":421205059,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.47775,
+    23.42484,
+    90.47775,
+    23.42484
+],
+  "geometry": {"coordinates":[90.47775,23.42484],"type":"Point"}
+}

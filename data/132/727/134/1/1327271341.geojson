@@ -1,0 +1,70 @@
+{
+  "id": 1327271341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.25151,25.12443,89.25151,25.12443",
+    "geom:latitude":25.12443,
+    "geom:longitude":89.25151,
+    "gn:admin1_code":"83",
+    "gn:asciiname":"Chaplapara",
+    "gn:country_code":"BD",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7889680,
+    "gn:latitude":25.12443,
+    "gn:longitude":89.25151,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ch\u0101pl\u0101p\u0101ra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Ch\u0101pl\u0101p\u0101ra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7889680
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"cee3b705f5f39f6d0ee48b7d52d187df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694675,
+            "locality_id":1327271341,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1327271341,
+    "wof:lastmodified":1537586737,
+    "wof:name":"Chaplapara",
+    "wof:parent_id":1108694675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.25151,
+    25.12443,
+    89.25151,
+    25.12443
+],
+  "geometry": {"coordinates":[89.25151,25.12443],"type":"Point"}
+}

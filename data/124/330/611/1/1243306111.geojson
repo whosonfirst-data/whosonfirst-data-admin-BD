@@ -1,0 +1,70 @@
+{
+  "id": 1243306111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.59972,22.74639,91.59972,22.74639",
+    "geom:latitude":22.74639,
+    "geom:longitude":91.59972,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2015.0",
+    "gn:admin3_code":"201553.0",
+    "gn:admin4_code":"20155347.0",
+    "gn:asciiname":"Poulmogra",
+    "gn:country_code":"BD",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6413543,
+    "gn:latitude":22.74639,
+    "gn:longitude":91.59972,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Poulmogra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421201541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6413543
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"c69703277d693671b7a43818ebd3c6f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421201541,
+            "locality_id":1243306111,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1243306111,
+    "wof:lastmodified":1537007190,
+    "wof:name":"Poulmogra",
+    "wof:parent_id":421201541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.59972,
+    22.74639,
+    91.59972,
+    22.74639
+],
+  "geometry": {"coordinates":[91.59972,22.74639],"type":"Point"}
+}

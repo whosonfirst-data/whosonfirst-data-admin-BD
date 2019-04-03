@@ -1,0 +1,70 @@
+{
+  "id": 1276585923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.05573,24.35607,90.05573,24.35607",
+    "geom:latitude":24.35607,
+    "geom:longitude":90.05573,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3093",
+    "gn:admin3_code":"309347.0",
+    "gn:admin4_code":"30934765.0",
+    "gn:asciiname":"Khaluabari",
+    "gn:country_code":"BD",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1197670,
+    "gn:latitude":24.35607,
+    "gn:longitude":90.05573,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Kh\u0101lu\u0101b\u0101ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421185471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1197670
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"9fda4a6e06798966e4ea7599d89e9b94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421185471,
+            "locality_id":1276585923,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1276585923,
+    "wof:lastmodified":1536938621,
+    "wof:name":"Khaluabari",
+    "wof:parent_id":421185471,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.05573000000003,
+    24.35607000000001,
+    90.05573000000003,
+    24.35607000000001
+],
+  "geometry": {"coordinates":[90.05573000000003,24.35607000000001],"type":"Point"}
+}

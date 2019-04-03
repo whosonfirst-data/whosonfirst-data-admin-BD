@@ -1,0 +1,73 @@
+{
+  "id": 1360214733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.99094,22.36089,89.99094,22.36089",
+    "geom:latitude":22.36089,
+    "geom:longitude":89.99094,
+    "gn:admin1_code":"85",
+    "gn:admin2_code":"1079.0",
+    "gn:admin3_code":"107958.0",
+    "gn:admin4_code":"10795843.0",
+    "gn:asciiname":"Tetulbaria",
+    "gn:country_code":"BD",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7475811,
+    "gn:latitude":22.36089,
+    "gn:longitude":89.99094,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Tetulbaria",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Tetulbaria"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669019,
+        421172031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7475811
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"09de31c5ce8d1e9fcf06e0504c0340e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421172031,
+            "locality_id":1360214733,
+            "region_id":85669019
+        }
+    ],
+    "wof:id":1360214733,
+    "wof:lastmodified":1537586330,
+    "wof:name":"Tetulbaria",
+    "wof:parent_id":421172031,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.99094000000002,
+    22.36089,
+    89.99094000000002,
+    22.36089
+],
+  "geometry": {"coordinates":[89.99094000000002,22.36089],"type":"Point"}
+}

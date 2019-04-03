@@ -1,0 +1,67 @@
+{
+  "id": 1209652715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.12175,23.82037,90.12175,23.82037",
+    "geom:latitude":23.82037,
+    "geom:longitude":90.12175,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3056",
+    "gn:admin3_code":"305682.0",
+    "gn:admin4_code":"30568286.0",
+    "gn:asciiname":"Char Golora",
+    "gn:country_code":"BD",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11609983,
+    "gn:latitude":23.82037,
+    "gn:longitude":90.12175,
+    "gn:modification_date":"2017-07-14",
+    "gn:name":"Char Golora",
+    "gn:population":5000,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11609983
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"5256c412a22796895266134a96f8b349",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209652715
+        }
+    ],
+    "wof:id":1209652715,
+    "wof:lastmodified":1536280529,
+    "wof:name":"Char Golora",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:population":5000,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.12175,
+    23.82037,
+    90.12175,
+    23.82037
+],
+  "geometry": {"coordinates":[90.12175000000001,23.82037],"type":"Point"}
+}

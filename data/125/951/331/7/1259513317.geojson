@@ -1,0 +1,73 @@
+{
+  "id": 1259513317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.05752,23.32694,89.05752,23.32694",
+    "geom:latitude":23.32694,
+    "geom:longitude":89.05752,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4041.0",
+    "gn:admin3_code":"404111.0",
+    "gn:admin4_code":"40411125.0",
+    "gn:asciiname":"Jatrapur",
+    "gn:country_code":"BD",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7634033,
+    "gn:latitude":23.32694,
+    "gn:longitude":89.05752,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Jatrapur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Jatrapur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        421176039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7634033
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"eedd3fe6402e208ec19b45f3d8af1951",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421176039,
+            "locality_id":1259513317,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1259513317,
+    "wof:lastmodified":1537586701,
+    "wof:name":"Jatrapur",
+    "wof:parent_id":421176039,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.05752,
+    23.32694,
+    89.05752,
+    23.32694
+],
+  "geometry": {"coordinates":[89.05752,23.32694],"type":"Point"}
+}

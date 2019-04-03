@@ -1,0 +1,73 @@
+{
+  "id": 1276794881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.34838,22.3178,89.34838,22.3178",
+    "geom:latitude":22.3178,
+    "geom:longitude":89.34838,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4047.0",
+    "gn:admin3_code":"404753.0",
+    "gn:admin4_code":"40475355.0",
+    "gn:asciiname":"Tepakhali",
+    "gn:country_code":"BD",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7486024,
+    "gn:latitude":22.3178,
+    "gn:longitude":89.34838,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Tep\u0101kh\u0101li",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Tep\u0101kh\u0101li"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        421185473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7486024
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"e34f3548ef1ab5a8fa78487ffa8a7ca8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421185473,
+            "locality_id":1276794881,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1276794881,
+    "wof:lastmodified":1537586605,
+    "wof:name":"Tepakhali",
+    "wof:parent_id":421185473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.34838,
+    22.3178,
+    89.34838,
+    22.3178
+],
+  "geometry": {"coordinates":[89.34838000000001,22.3178],"type":"Point"}
+}

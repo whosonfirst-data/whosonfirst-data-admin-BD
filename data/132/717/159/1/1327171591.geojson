@@ -1,0 +1,79 @@
+{
+  "id": 1327171591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.56566,25.06397,89.56566,25.06397",
+    "geom:latitude":25.06397,
+    "geom:longitude":89.56566,
+    "gn:admin1_code":"83",
+    "gn:asciiname":"Jumabari",
+    "gn:country_code":"BD",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1199700,
+    "gn:latitude":25.06397,
+    "gn:longitude":89.56566,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Jum\u0101b\u0101ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Jum\u0101b\u0101ri"
+    ],
+    "name:ben_x_variant":[
+        "Jumarbari",
+        "Joomarbaree"
+    ],
+    "name:und_x_variant":[
+        "Jumarbari",
+        "Joomarbaree",
+        "Jum\u0101b\u0101ri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1199700
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"aa7b502964f026620d4dc36ae2cf5e2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694675,
+            "locality_id":1327171591,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1327171591,
+    "wof:lastmodified":1537585964,
+    "wof:name":"Jumabari",
+    "wof:parent_id":1108694675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.56566,
+    25.06397,
+    89.56566,
+    25.06397
+],
+  "geometry": {"coordinates":[89.56565999999999,25.06397],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1277012649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.51217,22.98853,90.51217,22.98853",
+    "geom:latitude":22.98853,
+    "geom:longitude":90.51217,
+    "gn:admin1_code":"85",
+    "gn:admin2_code":"1006.0",
+    "gn:admin3_code":"100636.0",
+    "gn:admin4_code":"10063694.0",
+    "gn:asciiname":"Baduri",
+    "gn:country_code":"BD",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1212069,
+    "gn:latitude":22.98853,
+    "gn:longitude":90.51217,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"B\u0101duri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Baduria",
+        "B\u0101duri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669019,
+        421187745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1212069,
+        "wk:page":"Baduri"
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"3df4444063fd36e752521fff18bbed43",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421187745,
+            "locality_id":1277012649,
+            "region_id":85669019
+        }
+    ],
+    "wof:id":1277012649,
+    "wof:lastmodified":1537586188,
+    "wof:name":"Baduri",
+    "wof:parent_id":421187745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.51217,
+    22.98853,
+    90.51217,
+    22.98853
+],
+  "geometry": {"coordinates":[90.51217,22.98853],"type":"Point"}
+}

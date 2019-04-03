@@ -1,0 +1,73 @@
+{
+  "id": 1226777665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.06143,25.76233,89.06143,25.76233",
+    "geom:latitude":25.76233,
+    "geom:longitude":89.06143,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5585",
+    "gn:admin3_code":"558592.0",
+    "gn:admin4_code":"55859263.0",
+    "gn:asciiname":"Kashiabari",
+    "gn:country_code":"BD",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7924022,
+    "gn:latitude":25.76233,
+    "gn:longitude":89.06143,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"K\u0101shi\u0101b\u0101ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "K\u0101shi\u0101b\u0101ri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7924022
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"a7ee0aa525dcef63e53e7231866c424b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694701,
+            "locality_id":1226777665,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1226777665,
+    "wof:lastmodified":1537586815,
+    "wof:name":"Kashiabari",
+    "wof:parent_id":1108694701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.06143,
+    25.76233,
+    89.06143,
+    25.76233
+],
+  "geometry": {"coordinates":[89.06143,25.76233],"type":"Point"}
+}

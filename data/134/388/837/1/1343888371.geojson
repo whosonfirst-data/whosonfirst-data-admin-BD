@@ -1,0 +1,73 @@
+{
+  "id": 1343888371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.63878,21.93581,90.63878,21.93581",
+    "geom:latitude":21.93581,
+    "geom:longitude":90.63878,
+    "gn:admin1_code":"85",
+    "gn:admin2_code":"1009.0",
+    "gn:admin3_code":"100925.0",
+    "gn:admin4_code":"10092547.0",
+    "gn:asciiname":"Char Kukuri Mukuri",
+    "gn:country_code":"BD",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1206733,
+    "gn:latitude":21.93581,
+    "gn:longitude":90.63878,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Char Kukuri Mukuri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Char Kukuri Mukuri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669019,
+        421184491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1206733
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"7b42840052f9c1c156dcbc2fbc363bea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421184491,
+            "locality_id":1343888371,
+            "region_id":85669019
+        }
+    ],
+    "wof:id":1343888371,
+    "wof:lastmodified":1537586099,
+    "wof:name":"Char Kukuri Mukuri",
+    "wof:parent_id":421184491,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.63878,
+    21.93581,
+    90.63878,
+    21.93581
+],
+  "geometry": {"coordinates":[90.63878,21.93581],"type":"Point"}
+}

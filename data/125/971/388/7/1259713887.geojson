@@ -1,0 +1,73 @@
+{
+  "id": 1259713887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.10415,23.93084,89.10415,23.93084",
+    "geom:latitude":23.93084,
+    "geom:longitude":89.10415,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4050.0",
+    "gn:admin3_code":"405079.0",
+    "gn:admin4_code":"40507925.0",
+    "gn:asciiname":"Jugia",
+    "gn:country_code":"BD",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7485748,
+    "gn:latitude":23.93084,
+    "gn:longitude":89.10415,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Jugia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Jugia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        890438075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7485748
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"9a85a1b44a838a587d13eb17642bf1c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":890438075,
+            "locality_id":1259713887,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1259713887,
+    "wof:lastmodified":1537586599,
+    "wof:name":"Jugia",
+    "wof:parent_id":890438075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.10415,
+    23.93084,
+    89.10415,
+    23.93084
+],
+  "geometry": {"coordinates":[89.10415,23.93084],"type":"Point"}
+}

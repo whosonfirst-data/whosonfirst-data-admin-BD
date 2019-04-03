@@ -1,0 +1,67 @@
+{
+  "id": 1209663743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.93215,22.78423,91.93215,22.78423",
+    "geom:latitude":22.78423,
+    "geom:longitude":91.93215,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2046.0",
+    "gn:admin3_code":"204661.0",
+    "gn:admin4_code":"20466171.0",
+    "gn:asciiname":"Chalphrupara",
+    "gn:country_code":"BD",
+    "gn:dem":58,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7477551,
+    "gn:latitude":22.78423,
+    "gn:longitude":91.93215,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Chalphrup\u0101ra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Chalphrup\u0101ra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7477551
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"8dedcff90e9064350fac2ba068e67a11",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209663743
+        }
+    ],
+    "wof:id":1209663743,
+    "wof:lastmodified":1537586370,
+    "wof:name":"Chalphrupara",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.93215,
+    22.78423,
+    91.93215,
+    22.78423
+],
+  "geometry": {"coordinates":[91.93214999999999,22.78423],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1243292205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.50326,24.81557,88.50326,24.81557",
+    "geom:latitude":24.81557,
+    "geom:longitude":88.50326,
+    "gn:admin1_code":"83",
+    "gn:admin2_code":"5064.0",
+    "gn:admin3_code":"506469.0",
+    "gn:admin4_code":"50646973.0",
+    "gn:asciiname":"Anar Kandar",
+    "gn:country_code":"BD",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7482724,
+    "gn:latitude":24.81557,
+    "gn:longitude":88.50326,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"An\u0101r K\u0101nd\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "An\u0101r K\u0101nd\u0101r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669031,
+        421191663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7482724
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"8f958d32defcd2d83f56dcb9bb703df4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421191663,
+            "locality_id":1243292205,
+            "region_id":85669031
+        }
+    ],
+    "wof:id":1243292205,
+    "wof:lastmodified":1537586516,
+    "wof:name":"Anar Kandar",
+    "wof:parent_id":421191663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.50326,
+    24.81557,
+    88.50326,
+    24.81557
+],
+  "geometry": {"coordinates":[88.50326,24.81557],"type":"Point"}
+}

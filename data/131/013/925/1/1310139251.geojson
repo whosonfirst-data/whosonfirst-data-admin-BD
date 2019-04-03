@@ -1,0 +1,70 @@
+{
+  "id": 1310139251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.81814,24.66935,90.81814,24.66935",
+    "geom:latitude":24.66935,
+    "geom:longitude":90.81814,
+    "gn:admin1_code":"H",
+    "gn:admin2_code":"3072.0",
+    "gn:admin3_code":"307247.0",
+    "gn:admin4_code":"30724761.0",
+    "gn:asciiname":"Besargati",
+    "gn:country_code":"BD",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1209509,
+    "gn:latitude":24.66935,
+    "gn:longitude":90.81814,
+    "gn:modification_date":"2016-11-17",
+    "gn:name":"Besarg\u0101ti",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        1108803101,
+        421200811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1209509
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"1c15a1b7a2eac6b21bd372a99adb7c8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421200811,
+            "locality_id":1310139251,
+            "region_id":1108803101
+        }
+    ],
+    "wof:id":1310139251,
+    "wof:lastmodified":1536948207,
+    "wof:name":"Besargati",
+    "wof:parent_id":421200811,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.81814,
+    24.66935,
+    90.81814,
+    24.66935
+],
+  "geometry": {"coordinates":[90.81814,24.66935],"type":"Point"}
+}

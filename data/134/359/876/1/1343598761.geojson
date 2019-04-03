@@ -1,0 +1,74 @@
+{
+  "id": 1343598761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.51007,23.51832,90.51007,23.51832",
+    "geom:latitude":23.51832,
+    "geom:longitude":90.51007,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3059",
+    "gn:admin3_code":"305956.0",
+    "gn:admin4_code":"30595647.0",
+    "gn:asciiname":"Mohakahli",
+    "gn:country_code":"BD",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1195644,
+    "gn:latitude":23.51832,
+    "gn:longitude":90.51007,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Mohak\u0101hli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mohak\u0101hli",
+        "M\u0101h\u0101k\u0101li"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421205059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1195644
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"f1c5c85d66db8f52d27f7c055c41c2f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421205059,
+            "locality_id":1343598761,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1343598761,
+    "wof:lastmodified":1537585893,
+    "wof:name":"Mohakahli",
+    "wof:parent_id":421205059,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.51007,
+    23.51832000000001,
+    90.51007,
+    23.51832000000001
+],
+  "geometry": {"coordinates":[90.51007,23.51832000000001],"type":"Point"}
+}

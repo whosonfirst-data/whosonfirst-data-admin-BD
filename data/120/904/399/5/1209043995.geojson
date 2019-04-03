@@ -1,0 +1,70 @@
+{
+  "id": 1209043995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.70373,24.45055,88.70373,24.45055",
+    "geom:latitude":24.45055,
+    "geom:longitude":88.70373,
+    "gn:admin1_code":"83",
+    "gn:admin2_code":"5081",
+    "gn:admin3_code":"508131.0",
+    "gn:admin4_code":"50813111.0",
+    "gn:asciiname":"Saokapara",
+    "gn:country_code":"BD",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1189045,
+    "gn:latitude":24.45055,
+    "gn:longitude":88.70373,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"S\u0101ok\u0101para",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "S\u0101ok\u0101para"
+    ],
+    "name:ben_x_variant":[
+        "S\u0101koa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1189045
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"ee15b59cfaea0818407ab7b6b8289df3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209043995
+        }
+    ],
+    "wof:id":1209043995,
+    "wof:lastmodified":1537585772,
+    "wof:name":"Saokapara",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.70373000000002,
+    24.45055,
+    88.70373000000002,
+    24.45055
+],
+  "geometry": {"coordinates":[88.70373000000002,24.45055],"type":"Point"}
+}

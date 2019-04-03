@@ -1,0 +1,74 @@
+{
+  "id": 1226592471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.97106,23.92127,90.97106,23.92127",
+    "geom:latitude":23.92127,
+    "geom:longitude":90.97106,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2012",
+    "gn:admin3_code":"201285.0",
+    "gn:admin4_code":"20128545.0",
+    "gn:asciiname":"South Lakshmipur",
+    "gn:country_code":"BD",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1187387,
+    "gn:latitude":23.92127,
+    "gn:longitude":90.97106,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"South Lakshm\u012bpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dakshin Lakshmipur",
+        "South Lakshm\u012bpur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        1108694667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1187387
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"1b367032e63fb4cf3049220e1e19792c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694667,
+            "locality_id":1226592471,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1226592471,
+    "wof:lastmodified":1537585735,
+    "wof:name":"South Lakshmipur",
+    "wof:parent_id":1108694667,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.97106,
+    23.92127,
+    90.97106,
+    23.92127
+],
+  "geometry": {"coordinates":[90.97105999999999,23.92127],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1243097515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.4518,23.7283,90.4518,23.7283",
+    "geom:latitude":23.7283,
+    "geom:longitude":90.4518,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3026",
+    "gn:admin3_code":"302640.0",
+    "gn:admin4_code":"30264012.0",
+    "gn:asciiname":"Green Model Town",
+    "gn:country_code":"BD",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9794295,
+    "gn:latitude":23.7283,
+    "gn:longitude":90.4518,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Green Model Town",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Green Model Town, Dhaka, Bangladesh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421187803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9794295
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"054297e6ca5e3052bf9f819555a4bd84",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421187803,
+            "locality_id":1243097515,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1243097515,
+    "wof:lastmodified":1537586875,
+    "wof:name":"Green Model Town",
+    "wof:parent_id":421187803,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.4518,
+    23.7283,
+    90.4518,
+    23.7283
+],
+  "geometry": {"coordinates":[90.45180000000001,23.7283],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1326660009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.23355,26.08349,89.23355,26.08349",
+    "geom:latitude":26.08349,
+    "geom:longitude":89.23355,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5552",
+    "gn:admin3_code":"555233.0",
+    "gn:admin4_code":"55523347.0",
+    "gn:asciiname":"Gaochulka",
+    "gn:country_code":"BD",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8207386,
+    "gn:latitude":26.08349,
+    "gn:longitude":89.23355,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Gaochulka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Gaochulka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8207386
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"b8b05b7e49009770f307224b2c0c3c52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694687,
+            "locality_id":1326660009,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1326660009,
+    "wof:lastmodified":1537586862,
+    "wof:name":"Gaochulka",
+    "wof:parent_id":1108694687,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.23355,
+    26.08349,
+    89.23355,
+    26.08349
+],
+  "geometry": {"coordinates":[89.23354999999999,26.08349],"type":"Point"}
+}

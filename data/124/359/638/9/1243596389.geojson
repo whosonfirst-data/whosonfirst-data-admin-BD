@@ -1,0 +1,67 @@
+{
+  "id": 1243596389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"92.20122,21.20005,92.20122,21.20005",
+    "geom:latitude":21.20005,
+    "geom:longitude":92.20122,
+    "gn:admin1_code":"84",
+    "gn:asciiname":"Taungbro",
+    "gn:country_code":"BD",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1186415,
+    "gn:latitude":21.20005,
+    "gn:longitude":92.20122,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Taungbro",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674579,
+        1092046317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1186415
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"69ce6a5085f66a0ad285a10e1b462ae4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046317,
+            "locality_id":1243596389,
+            "region_id":85674579
+        }
+    ],
+    "wof:id":1243596389,
+    "wof:lastmodified":1537083223,
+    "wof:name":"Taungbro",
+    "wof:parent_id":1092046317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    92.20122,
+    21.20005,
+    92.20122,
+    21.20005
+],
+  "geometry": {"coordinates":[92.20122000000001,21.20005],"type":"Point"}
+}

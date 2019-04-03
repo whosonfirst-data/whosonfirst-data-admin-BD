@@ -1,0 +1,73 @@
+{
+  "id": 1243006341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.95973,23.94185,88.95973,23.94185",
+    "geom:latitude":23.94185,
+    "geom:longitude":88.95973,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4050.0",
+    "gn:admin3_code":"405094.0",
+    "gn:admin4_code":"40509443.0",
+    "gn:asciiname":"Ballaha",
+    "gn:country_code":"BD",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7484561,
+    "gn:latitude":23.94185,
+    "gn:longitude":88.95973,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Ballaha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Ballaha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        890438075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7484561
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"98730d8e9cd36224cbdeb134ac8bc12b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":890438075,
+            "locality_id":1243006341,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1243006341,
+    "wof:lastmodified":1537586568,
+    "wof:name":"Ballaha",
+    "wof:parent_id":890438075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.95973000000002,
+    23.94185,
+    88.95973000000002,
+    23.94185
+],
+  "geometry": {"coordinates":[88.95973000000002,23.94185],"type":"Point"}
+}

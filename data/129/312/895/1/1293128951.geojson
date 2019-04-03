@@ -1,0 +1,70 @@
+{
+  "id": 1293128951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.13333,25.55,89.13333,25.55",
+    "geom:latitude":25.55,
+    "geom:longitude":89.13333,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5585.0",
+    "gn:admin3_code":"558558.0",
+    "gn:admin4_code":"55855811.0",
+    "gn:asciiname":"Barabala",
+    "gn:country_code":"BD",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1210763,
+    "gn:latitude":25.55,
+    "gn:longitude":89.13333,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Bar\u0101b\u0101la",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1210763
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"935a56bc1bb58132212792a99f0e632f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694701,
+            "locality_id":1293128951,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1293128951,
+    "wof:lastmodified":1536806878,
+    "wof:name":"Barabala",
+    "wof:parent_id":1108694701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.13333,
+    25.55,
+    89.13333,
+    25.55
+],
+  "geometry": {"coordinates":[89.13333,25.55],"type":"Point"}
+}

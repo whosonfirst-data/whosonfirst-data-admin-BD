@@ -1,0 +1,73 @@
+{
+  "id": 1243583737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.22509,22.39231,90.22509,22.39231",
+    "geom:latitude":22.39231,
+    "geom:longitude":90.22509,
+    "gn:admin1_code":"85",
+    "gn:admin2_code":"1078.0",
+    "gn:admin3_code":"107876.0",
+    "gn:admin4_code":"10787613.0",
+    "gn:asciiname":"Chhota Chhailabunia",
+    "gn:country_code":"BD",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7476899,
+    "gn:latitude":22.39231,
+    "gn:longitude":90.22509,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Chhota Chh\u0101il\u0101bunia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Chhota Chh\u0101il\u0101bunia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669019,
+        421169845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7476899
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"ad2bb37ae4f2d2c784d2298d2e76f555",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421169845,
+            "locality_id":1243583737,
+            "region_id":85669019
+        }
+    ],
+    "wof:id":1243583737,
+    "wof:lastmodified":1537586357,
+    "wof:name":"Chhota Chhailabunia",
+    "wof:parent_id":421169845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.22509,
+    22.39231,
+    90.22509,
+    22.39231
+],
+  "geometry": {"coordinates":[90.22508999999999,22.39231],"type":"Point"}
+}

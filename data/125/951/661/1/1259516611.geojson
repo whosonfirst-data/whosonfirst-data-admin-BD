@@ -1,0 +1,75 @@
+{
+  "id": 1259516611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.37503,23.19464,90.37503,23.19464",
+    "geom:latitude":23.19464,
+    "geom:longitude":90.37503,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3086",
+    "gn:admin3_code":"308669.0",
+    "gn:admin4_code":"30866900.0",
+    "gn:asciiname":"South Atang",
+    "gn:country_code":"BD",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1187482,
+    "gn:latitude":23.19464,
+    "gn:longitude":90.37503,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"South \u0100tang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dakshin Atang",
+        "South Atong",
+        "South \u0100tang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421188359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1187482
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"485241c8c36cd41a448a02be9c0f9122",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421188359,
+            "locality_id":1259516611,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1259516611,
+    "wof:lastmodified":1537585739,
+    "wof:name":"South Atang",
+    "wof:parent_id":421188359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.37503,
+    23.19464,
+    90.37503,
+    23.19464
+],
+  "geometry": {"coordinates":[90.37503,23.19464],"type":"Point"}
+}

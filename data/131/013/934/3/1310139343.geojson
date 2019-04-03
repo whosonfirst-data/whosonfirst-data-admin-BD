@@ -1,0 +1,73 @@
+{
+  "id": 1310139343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.81851,25.57921,88.81851,25.57921",
+    "geom:latitude":25.57921,
+    "geom:longitude":88.81851,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5527.0",
+    "gn:admin3_code":"552730.0",
+    "gn:admin4_code":"55273071.0",
+    "gn:asciiname":"Phulpur",
+    "gn:country_code":"BD",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7480864,
+    "gn:latitude":25.57921,
+    "gn:longitude":88.81851,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Phulpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Phulpur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7480864
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"5061d427b4aa5d239191ac7f28581076",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694671,
+            "locality_id":1310139343,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1310139343,
+    "wof:lastmodified":1537586462,
+    "wof:name":"Phulpur",
+    "wof:parent_id":1108694671,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.81851,
+    25.57921,
+    88.81851,
+    25.57921
+],
+  "geometry": {"coordinates":[88.81851,25.57921],"type":"Point"}
+}

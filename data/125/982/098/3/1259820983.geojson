@@ -1,0 +1,70 @@
+{
+  "id": 1259820983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.33333,23.88333,89.33333,23.88333",
+    "geom:latitude":23.88333,
+    "geom:longitude":89.33333,
+    "gn:admin1_code":"83",
+    "gn:admin2_code":"5076",
+    "gn:admin3_code":"507655.0",
+    "gn:admin4_code":"50765517.0",
+    "gn:asciiname":"Muklu Char",
+    "gn:country_code":"BD",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1194018,
+    "gn:latitude":23.88333,
+    "gn:longitude":89.33333,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Muklu Char",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        890438075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1194018
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"575699917ce63c9f51ce852316d28e41",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":890438075,
+            "locality_id":1259820983,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1259820983,
+    "wof:lastmodified":1536868025,
+    "wof:name":"Muklu Char",
+    "wof:parent_id":890438075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.33333,
+    23.88333,
+    89.33333,
+    23.88333
+],
+  "geometry": {"coordinates":[89.33333,23.88333],"type":"Point"}
+}

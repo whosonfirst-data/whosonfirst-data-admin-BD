@@ -1,0 +1,64 @@
+{
+  "id": 1209652727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.4,23.96667,90.4,23.96667",
+    "geom:latitude":23.96667,
+    "geom:longitude":90.4,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3033",
+    "gn:admin3_code":"303330.0",
+    "gn:admin4_code":"30333031.0",
+    "gn:asciiname":"Sarpara",
+    "gn:country_code":"BD",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1188541,
+    "gn:latitude":23.96667,
+    "gn:longitude":90.4,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Sarpara",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1188541
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"91c7fec5481ca0720929f56463c5754f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209652727
+        }
+    ],
+    "wof:id":1209652727,
+    "wof:lastmodified":1536280528,
+    "wof:name":"Sarpara",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.4,
+    23.96667,
+    90.4,
+    23.96667
+],
+  "geometry": {"coordinates":[90.40000000000001,23.96667],"type":"Point"}
+}

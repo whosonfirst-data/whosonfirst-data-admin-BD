@@ -1,0 +1,74 @@
+{
+  "id": 1293234117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.40296,23.68804,90.40296,23.68804",
+    "geom:latitude":23.68804,
+    "geom:longitude":90.40296,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3026.0",
+    "gn:admin3_code":"302638.0",
+    "gn:admin4_code":"30263869.0",
+    "gn:asciiname":"Chunkutiya",
+    "gn:country_code":"BD",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1205667,
+    "gn:latitude":23.68804,
+    "gn:longitude":90.40296,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Chunkutiya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chunkutia",
+        "Chunkutiya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421187803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1205667
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"4ed43c84659bc918a8744196f1a9cc3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421187803,
+            "locality_id":1293234117,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1293234117,
+    "wof:lastmodified":1537586078,
+    "wof:name":"Chunkutiya",
+    "wof:parent_id":421187803,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.40296,
+    23.68804,
+    90.40296,
+    23.68804
+],
+  "geometry": {"coordinates":[90.40295999999999,23.68804],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1310135793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.69316,25.8383,89.69316,25.8383",
+    "geom:latitude":25.8383,
+    "geom:longitude":89.69316,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5549",
+    "gn:admin3_code":"554952.0",
+    "gn:admin4_code":"55495228.0",
+    "gn:asciiname":"Arozi Bhogdanga",
+    "gn:country_code":"BD",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8537475,
+    "gn:latitude":25.8383,
+    "gn:longitude":89.69316,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Arozi Bhogd\u0101nga",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Arozi Bhogd\u0101nga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8537475
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"6d40399bc8a1d3e07595a62544381543",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694685,
+            "locality_id":1310135793,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1310135793,
+    "wof:lastmodified":1537586872,
+    "wof:name":"Arozi Bhogdanga",
+    "wof:parent_id":1108694685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.69315999999998,
+    25.8383,
+    89.69315999999998,
+    25.8383
+],
+  "geometry": {"coordinates":[89.69315999999998,25.8383],"type":"Point"}
+}

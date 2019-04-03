@@ -1,0 +1,73 @@
+{
+  "id": 1310135669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.16892,22.01598,90.16892,22.01598",
+    "geom:latitude":22.01598,
+    "geom:longitude":90.16892,
+    "gn:admin1_code":"85",
+    "gn:admin2_code":"1004.0",
+    "gn:admin3_code":"100409.0",
+    "gn:admin4_code":"10040979.0",
+    "gn:asciiname":"Jarakhali",
+    "gn:country_code":"BD",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7476874,
+    "gn:latitude":22.01598,
+    "gn:longitude":90.16892,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Jarakhali",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Jarakhali"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669019,
+        421176043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7476874
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"81ed2f4a80d36fb7c3609b89df7d409e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421176043,
+            "locality_id":1310135669,
+            "region_id":85669019
+        }
+    ],
+    "wof:id":1310135669,
+    "wof:lastmodified":1537586356,
+    "wof:name":"Jarakhali",
+    "wof:parent_id":421176043,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.16892,
+    22.01598,
+    90.16892,
+    22.01598
+],
+  "geometry": {"coordinates":[90.16892,22.01598],"type":"Point"}
+}

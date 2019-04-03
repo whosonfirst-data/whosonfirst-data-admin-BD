@@ -1,0 +1,73 @@
+{
+  "id": 1293916945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.29555,23.4959,89.29555,23.4959",
+    "geom:latitude":23.4959,
+    "geom:longitude":89.29555,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4044.0",
+    "gn:admin3_code":"404419.0",
+    "gn:admin4_code":"40441910.0",
+    "gn:asciiname":"Chhayail",
+    "gn:country_code":"BD",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1206161,
+    "gn:latitude":23.4959,
+    "gn:longitude":89.29555,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Chhayail",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Chhayail"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        1108694679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1206161
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"770303a1aaea02924c0a24b1edb0e571",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694679,
+            "locality_id":1293916945,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1293916945,
+    "wof:lastmodified":1537586087,
+    "wof:name":"Chhayail",
+    "wof:parent_id":1108694679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.29555,
+    23.4959,
+    89.29555,
+    23.4959
+],
+  "geometry": {"coordinates":[89.29555000000001,23.4959],"type":"Point"}
+}

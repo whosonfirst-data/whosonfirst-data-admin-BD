@@ -1,0 +1,70 @@
+{
+  "id": 1326863321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.4048,24.66432,91.4048,24.66432",
+    "geom:latitude":24.66432,
+    "geom:longitude":91.4048,
+    "gn:admin1_code":"86",
+    "gn:admin2_code":"6036.0",
+    "gn:admin3_code":"603611.0",
+    "gn:admin4_code":"60361137.0",
+    "gn:asciiname":"Daulatpur",
+    "gn:country_code":"BD",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1204834,
+    "gn:latitude":24.66432,
+    "gn:longitude":91.4048,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Daulatpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669025,
+        421176045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1204834
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"fbdfb88241d11ff35a591e8f2c1f0bbf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421176045,
+            "locality_id":1326863321,
+            "region_id":85669025
+        }
+    ],
+    "wof:id":1326863321,
+    "wof:lastmodified":1537003242,
+    "wof:name":"Daulatpur",
+    "wof:parent_id":421176045,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.4048,
+    24.66432,
+    91.4048,
+    24.66432
+],
+  "geometry": {"coordinates":[91.40479999999999,24.66432],"type":"Point"}
+}

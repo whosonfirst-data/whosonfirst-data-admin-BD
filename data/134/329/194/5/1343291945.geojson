@@ -1,0 +1,73 @@
+{
+  "id": 1343291945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.88078,22.40998,89.88078,22.40998",
+    "geom:latitude":22.40998,
+    "geom:longitude":89.88078,
+    "gn:admin1_code":"85",
+    "gn:admin2_code":"1079",
+    "gn:admin3_code":"107988.0",
+    "gn:admin4_code":"10798808.0",
+    "gn:asciiname":"Kalaran",
+    "gn:country_code":"BD",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8355697,
+    "gn:latitude":22.40998,
+    "gn:longitude":89.88078,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Kalaran",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Kalaran"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        421187747
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8355697
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"53258358beffe7642debe4e1c3119a60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421187747,
+            "locality_id":1343291945,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1343291945,
+    "wof:lastmodified":1537586865,
+    "wof:name":"Kalaran",
+    "wof:parent_id":421187747,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.88078,
+    22.40998,
+    89.88078,
+    22.40998
+],
+  "geometry": {"coordinates":[89.88078,22.40998],"type":"Point"}
+}

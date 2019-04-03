@@ -1,0 +1,73 @@
+{
+  "id": 1243491791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.34289,25.27698,89.34289,25.27698",
+    "geom:latitude":25.27698,
+    "geom:longitude":89.34289,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5532",
+    "gn:admin3_code":"553267.0",
+    "gn:admin4_code":"55326785.0",
+    "gn:asciiname":"Ekrampur",
+    "gn:country_code":"BD",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7895480,
+    "gn:latitude":25.27698,
+    "gn:longitude":89.34289,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Ekrampur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Ekrampur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7895480
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"fb4ad3425d9c7d9d5b13bfbcbb23d98b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694675,
+            "locality_id":1243491791,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1243491791,
+    "wof:lastmodified":1537586762,
+    "wof:name":"Ekrampur",
+    "wof:parent_id":1108694675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.34289,
+    25.27698,
+    89.34289,
+    25.27698
+],
+  "geometry": {"coordinates":[89.34289,25.27698],"type":"Point"}
+}

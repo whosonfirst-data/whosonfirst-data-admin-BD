@@ -1,0 +1,75 @@
+{
+  "id": 1193079217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.46864,23.21138,91.46864,23.21138",
+    "geom:latitude":23.21138,
+    "geom:longitude":91.46864,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2030",
+    "gn:admin3_code":"203051.0",
+    "gn:admin4_code":"20305171.0",
+    "gn:asciiname":"Parsuram",
+    "gn:country_code":"BD",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1185150,
+    "gn:latitude":23.21138,
+    "gn:longitude":91.46864,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Parsuram",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Parshuram",
+        "Parashur\u0101m",
+        "Parsuram"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421181771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1185150
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"7638f20cb2e98b1ed377561501ff58af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421181771,
+            "locality_id":1193079217,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1193079217,
+    "wof:lastmodified":1537585688,
+    "wof:name":"Parsuram",
+    "wof:parent_id":421181771,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.46864,
+    23.21138,
+    91.46864,
+    23.21138
+],
+  "geometry": {"coordinates":[91.46863999999999,23.21138],"type":"Point"}
+}

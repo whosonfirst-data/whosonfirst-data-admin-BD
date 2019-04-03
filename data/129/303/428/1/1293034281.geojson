@@ -1,0 +1,73 @@
+{
+  "id": 1293034281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.21376,23.47774,89.21376,23.47774",
+    "geom:latitude":23.47774,
+    "geom:longitude":89.21376,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4044.0",
+    "gn:admin3_code":"404419.0",
+    "gn:admin4_code":"40441994.0",
+    "gn:asciiname":"Baniabahu",
+    "gn:country_code":"BD",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7634254,
+    "gn:latitude":23.47774,
+    "gn:longitude":89.21376,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"B\u0101ni\u0101bahu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "B\u0101ni\u0101bahu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        1108694679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7634254
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"06384d7c4cc67a372c04571d1c0270f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694679,
+            "locality_id":1293034281,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1293034281,
+    "wof:lastmodified":1537586707,
+    "wof:name":"Baniabahu",
+    "wof:parent_id":1108694679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.21376,
+    23.47774,
+    89.21376,
+    23.47774
+],
+  "geometry": {"coordinates":[89.21375999999999,23.47774],"type":"Point"}
+}

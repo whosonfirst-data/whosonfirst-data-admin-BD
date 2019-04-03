@@ -1,0 +1,70 @@
+{
+  "id": 1310538777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.82244,24.89658,89.82244,24.89658",
+    "geom:latitude":24.89658,
+    "geom:longitude":89.82244,
+    "gn:admin1_code":"H",
+    "gn:admin2_code":"3039.0",
+    "gn:admin3_code":"303961.0",
+    "gn:admin4_code":"30396147.0",
+    "gn:asciiname":"Beltail Khaerpara",
+    "gn:country_code":"BD",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1209597,
+    "gn:latitude":24.89658,
+    "gn:longitude":89.82244,
+    "gn:modification_date":"2016-11-17",
+    "gn:name":"Beltail Khaerp\u0101ra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        1108803101,
+        421191923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1209597
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"1f8476d0056523ea6c473260fc90a6f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421191923,
+            "locality_id":1310538777,
+            "region_id":1108803101
+        }
+    ],
+    "wof:id":1310538777,
+    "wof:lastmodified":1536867590,
+    "wof:name":"Beltail Khaerpara",
+    "wof:parent_id":421191923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.82244,
+    24.89658,
+    89.82244,
+    24.89658
+],
+  "geometry": {"coordinates":[89.82244,24.89658],"type":"Point"}
+}

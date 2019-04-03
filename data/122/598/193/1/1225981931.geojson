@@ -1,0 +1,70 @@
+{
+  "id": 1225981931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.73596,23.73121,89.73596,23.73121",
+    "geom:latitude":23.73121,
+    "geom:longitude":89.73596,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3082.0",
+    "gn:admin3_code":"308229.0",
+    "gn:admin4_code":"30822919.0",
+    "gn:asciiname":"Char Baliakandi",
+    "gn:country_code":"BD",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1207094,
+    "gn:latitude":23.73121,
+    "gn:longitude":89.73596,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Char B\u0101li\u0101k\u0101ndi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        1108694699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1207094
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"c318374bd2bc1f0c0fec16bee5ca390a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694699,
+            "locality_id":1225981931,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1225981931,
+    "wof:lastmodified":1536816189,
+    "wof:name":"Char Baliakandi",
+    "wof:parent_id":1108694699,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.73595999999998,
+    23.73121,
+    89.73595999999998,
+    23.73121
+],
+  "geometry": {"coordinates":[89.73595999999998,23.73121],"type":"Point"}
+}

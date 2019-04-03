@@ -1,0 +1,73 @@
+{
+  "id": 1259516829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.87317,22.3709,89.87317,22.3709",
+    "geom:latitude":22.3709,
+    "geom:longitude":89.87317,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4001",
+    "gn:admin3_code":"400160.0",
+    "gn:admin4_code":"40016059.0",
+    "gn:asciiname":"Kumar Khali",
+    "gn:country_code":"BD",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1196700,
+    "gn:latitude":22.3709,
+    "gn:longitude":89.87317,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Kumar Khali",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Kumar Khali"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        421187747
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1196700
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"49ac91ab962e5e53407e365880afd97e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421187747,
+            "locality_id":1259516829,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1259516829,
+    "wof:lastmodified":1537585910,
+    "wof:name":"Kumar Khali",
+    "wof:parent_id":421187747,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.87317,
+    22.3709,
+    89.87317,
+    22.3709
+],
+  "geometry": {"coordinates":[89.87317,22.3709],"type":"Point"}
+}

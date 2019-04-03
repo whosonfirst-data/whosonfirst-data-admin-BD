@@ -1,0 +1,73 @@
+{
+  "id": 1326660035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.73793,26.11557,89.73793,26.11557",
+    "geom:latitude":26.11557,
+    "geom:longitude":89.73793,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5549",
+    "gn:admin3_code":"554906.0",
+    "gn:admin4_code":"55490666.0",
+    "gn:asciiname":"Chirpaiker Chhara",
+    "gn:country_code":"BD",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8037895,
+    "gn:latitude":26.11557,
+    "gn:longitude":89.73793,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Chirpaiker Chhara",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Chirpaiker Chhara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8037895
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"c29edf0ed50173b50dcc709103ea3ab2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694685,
+            "locality_id":1326660035,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1326660035,
+    "wof:lastmodified":1537586832,
+    "wof:name":"Chirpaiker Chhara",
+    "wof:parent_id":1108694685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.73793,
+    26.11557,
+    89.73793,
+    26.11557
+],
+  "geometry": {"coordinates":[89.73793000000001,26.11557],"type":"Point"}
+}

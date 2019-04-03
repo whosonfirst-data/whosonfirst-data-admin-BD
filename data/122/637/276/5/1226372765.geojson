@@ -1,0 +1,73 @@
+{
+  "id": 1226372765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.13513,23.45534,89.13513,23.45534",
+    "geom:latitude":23.45534,
+    "geom:longitude":89.13513,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4044.0",
+    "gn:admin3_code":"404419.0",
+    "gn:admin4_code":"40441958.0",
+    "gn:asciiname":"Kayargachhi",
+    "gn:country_code":"BD",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7634095,
+    "gn:latitude":23.45534,
+    "gn:longitude":89.13513,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Kayarg\u0101chhi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Kayarg\u0101chhi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        1108694679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7634095
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"4712f3b051c3fae068f83e02da279e06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694679,
+            "locality_id":1226372765,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1226372765,
+    "wof:lastmodified":1537586703,
+    "wof:name":"Kayargachhi",
+    "wof:parent_id":1108694679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.13513,
+    23.45534,
+    89.13513,
+    23.45534
+],
+  "geometry": {"coordinates":[89.13513,23.45534],"type":"Point"}
+}

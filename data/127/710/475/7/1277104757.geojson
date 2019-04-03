@@ -1,0 +1,73 @@
+{
+  "id": 1277104757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.41481,23.44888,89.41481,23.44888",
+    "geom:latitude":23.44888,
+    "geom:longitude":89.41481,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4055.0",
+    "gn:admin3_code":"405557.0",
+    "gn:admin4_code":"40555754.0",
+    "gn:asciiname":"Narsinghati",
+    "gn:country_code":"BD",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7479461,
+    "gn:latitude":23.44888,
+    "gn:longitude":89.41481,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Narsinghati",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Narsinghati"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        1108694689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7479461
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"9914ac20db94599a0b4b9c77006a3a0a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694689,
+            "locality_id":1277104757,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1277104757,
+    "wof:lastmodified":1537586420,
+    "wof:name":"Narsinghati",
+    "wof:parent_id":1108694689,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.41481,
+    23.44888,
+    89.41481,
+    23.44888
+],
+  "geometry": {"coordinates":[89.41481,23.44888],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1343304239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.90408,22.87668,90.90408,22.87668",
+    "geom:latitude":22.87668,
+    "geom:longitude":90.90408,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2051",
+    "gn:admin3_code":"205143.0",
+    "gn:admin4_code":"20514315.0",
+    "gn:asciiname":"Shahar Kasba",
+    "gn:country_code":"BD",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1189220,
+    "gn:latitude":22.87668,
+    "gn:longitude":90.90408,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Sh\u0101h\u0101r Kasba",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sh\u0101h\u0101r Kasba",
+        "Saharkasba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421166521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1189220
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"99bd8e849d5b3902538bfa70d5b8cb12",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421166521,
+            "locality_id":1343304239,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1343304239,
+    "wof:lastmodified":1537585775,
+    "wof:name":"Shahar Kasba",
+    "wof:parent_id":421166521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.90408,
+    22.87668,
+    90.90408,
+    22.87668
+],
+  "geometry": {"coordinates":[90.90407999999999,22.87668],"type":"Point"}
+}

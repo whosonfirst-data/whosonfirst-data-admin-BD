@@ -1,0 +1,67 @@
+{
+  "id": 1209645353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.69982,24.40705,88.69982,24.40705",
+    "geom:latitude":24.40705,
+    "geom:longitude":88.69982,
+    "gn:admin1_code":"83",
+    "gn:admin2_code":"5081.0",
+    "gn:admin3_code":"508172.0",
+    "gn:admin4_code":"50817287.0",
+    "gn:asciiname":"Kamar Parlia",
+    "gn:country_code":"BD",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7483371,
+    "gn:latitude":24.40705,
+    "gn:longitude":88.69982,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"K\u0101m\u0101r P\u0101rlia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "K\u0101m\u0101r P\u0101rlia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7483371
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"263098ee4a8904ed164f2af2dbcb07cd",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209645353
+        }
+    ],
+    "wof:id":1209645353,
+    "wof:lastmodified":1537586535,
+    "wof:name":"Kamar Parlia",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.69981999999997,
+    24.40705,
+    88.69981999999997,
+    24.40705
+],
+  "geometry": {"coordinates":[88.69981999999997,24.40705],"type":"Point"}
+}

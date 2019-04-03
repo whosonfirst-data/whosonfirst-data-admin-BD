@@ -1,0 +1,70 @@
+{
+  "id": 1309843363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.88478,24.76159,90.88478,24.76159",
+    "geom:latitude":24.76159,
+    "geom:longitude":90.88478,
+    "gn:admin1_code":"H",
+    "gn:admin2_code":"3072",
+    "gn:admin3_code":"307204.0",
+    "gn:admin4_code":"30720423.0",
+    "gn:asciiname":"Kamalasram",
+    "gn:country_code":"BD",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1198914,
+    "gn:latitude":24.76159,
+    "gn:longitude":90.88478,
+    "gn:modification_date":"2016-11-17",
+    "gn:name":"Kamal\u0101sram",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        1108803101,
+        421200811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1198914
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"e8887580205aa435b88cf4520feeee19",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421200811,
+            "locality_id":1309843363,
+            "region_id":1108803101
+        }
+    ],
+    "wof:id":1309843363,
+    "wof:lastmodified":1536875937,
+    "wof:name":"Kamalasram",
+    "wof:parent_id":421200811,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.88478,
+    24.76159,
+    90.88478,
+    24.76159
+],
+  "geometry": {"coordinates":[90.88478000000001,24.76159],"type":"Point"}
+}

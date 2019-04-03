@@ -1,0 +1,70 @@
+{
+  "id": 1260214003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.68896,23.55101,89.68896,23.55101",
+    "geom:latitude":23.55101,
+    "geom:longitude":89.68896,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3029",
+    "gn:admin3_code":"302956.0",
+    "gn:admin4_code":"30295684.0",
+    "gn:asciiname":"Raghunathpur",
+    "gn:country_code":"BD",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1190517,
+    "gn:latitude":23.55101,
+    "gn:longitude":89.68896,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Raghun\u0101thpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421198063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1190517
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"41cc8ab44fa6767245fac468c1839ef5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421198063,
+            "locality_id":1260214003,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1260214003,
+    "wof:lastmodified":1536806123,
+    "wof:name":"Raghunathpur",
+    "wof:parent_id":421198063,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.68896,
+    23.55101,
+    89.68896,
+    23.55101
+],
+  "geometry": {"coordinates":[89.68895999999999,23.55101],"type":"Point"}
+}

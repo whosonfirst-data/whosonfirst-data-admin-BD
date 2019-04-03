@@ -1,0 +1,70 @@
+{
+  "id": 1293821161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.14163,22.86094,90.14163,22.86094",
+    "geom:latitude":22.86094,
+    "geom:longitude":90.14163,
+    "gn:admin1_code":"85",
+    "gn:admin2_code":"1006",
+    "gn:admin3_code":"100694.0",
+    "gn:admin4_code":"10069463.0",
+    "gn:asciiname":"Kesabkati",
+    "gn:country_code":"BD",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1197898,
+    "gn:latitude":22.86094,
+    "gn:longitude":90.14163,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Kesabk\u0101ti",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669019,
+        421187745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1197898
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"950f2d827e2ab86afdb9676f37d683c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421187745,
+            "locality_id":1293821161,
+            "region_id":85669019
+        }
+    ],
+    "wof:id":1293821161,
+    "wof:lastmodified":1536802987,
+    "wof:name":"Kesabkati",
+    "wof:parent_id":421187745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.14163,
+    22.86094,
+    90.14163,
+    22.86094
+],
+  "geometry": {"coordinates":[90.14163000000001,22.86094],"type":"Point"}
+}

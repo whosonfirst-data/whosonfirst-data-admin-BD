@@ -1,0 +1,76 @@
+{
+  "id": 1276908177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.99223,24.97712,88.99223,24.97712",
+    "geom:latitude":24.97712,
+    "geom:longitude":88.99223,
+    "gn:admin1_code":"83",
+    "gn:admin2_code":"5064",
+    "gn:admin3_code":"506406.0",
+    "gn:admin4_code":"50640684.0",
+    "gn:asciiname":"Jagpara",
+    "gn:country_code":"BD",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1200537,
+    "gn:latitude":24.97712,
+    "gn:longitude":88.99223,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Jagp\u0101ra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Jagp\u0101ra"
+    ],
+    "name:ben_x_variant":[
+        "Jagap\u0101ra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669031,
+        421191663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1200537
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"632f546128e6c9932911f090c2b8e28f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421191663,
+            "locality_id":1276908177,
+            "region_id":85669031
+        }
+    ],
+    "wof:id":1276908177,
+    "wof:lastmodified":1537585981,
+    "wof:name":"Jagpara",
+    "wof:parent_id":421191663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.99223,
+    24.97712000000001,
+    88.99223,
+    24.97712000000001
+],
+  "geometry": {"coordinates":[88.99223000000001,24.97712000000001],"type":"Point"}
+}

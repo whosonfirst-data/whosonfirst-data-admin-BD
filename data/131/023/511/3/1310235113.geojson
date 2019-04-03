@@ -1,0 +1,73 @@
+{
+  "id": 1310235113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.55155,23.78709,89.55155,23.78709",
+    "geom:latitude":23.78709,
+    "geom:longitude":89.55155,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3082.0",
+    "gn:admin3_code":"308276.0",
+    "gn:admin4_code":"30827645.0",
+    "gn:asciiname":"Khanganj",
+    "gn:country_code":"BD",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7479587,
+    "gn:latitude":23.78709,
+    "gn:longitude":89.55155,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Khanganj",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Khanganj"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        1108694699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7479587
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"0a556d1dfbd9c494e0dbc92fb1310e73",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694699,
+            "locality_id":1310235113,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1310235113,
+    "wof:lastmodified":1537586424,
+    "wof:name":"Khanganj",
+    "wof:parent_id":1108694699,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.55155,
+    23.78709,
+    89.55155,
+    23.78709
+],
+  "geometry": {"coordinates":[89.55155000000001,23.78709],"type":"Point"}
+}

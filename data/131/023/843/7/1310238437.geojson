@@ -1,0 +1,71 @@
+{
+  "id": 1310238437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.25187,22.70344,90.25187,22.70344",
+    "geom:latitude":22.70344,
+    "geom:longitude":90.25187,
+    "gn:admin1_code":"82",
+    "gn:asciiname":"Jalakati",
+    "gn:country_code":"BD",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1200431,
+    "gn:latitude":22.70344,
+    "gn:longitude":90.25187,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"J\u0101l\u0101k\u0101ti",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jalalkati",
+        "J\u0101l\u0101k\u0101ti"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669019,
+        1108694677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1200431
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"23a28e6a11f634df21369aa048230bc9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694677,
+            "locality_id":1310238437,
+            "region_id":85669019
+        }
+    ],
+    "wof:id":1310238437,
+    "wof:lastmodified":1537585978,
+    "wof:name":"Jalakati",
+    "wof:parent_id":1108694677,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.25187,
+    22.70344,
+    90.25187,
+    22.70344
+],
+  "geometry": {"coordinates":[90.25187,22.70344],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1242711457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.55,24.41667,88.55,24.41667",
+    "geom:latitude":24.41667,
+    "geom:longitude":88.55,
+    "gn:admin1_code":"83",
+    "gn:admin2_code":"5081",
+    "gn:admin3_code":"508172.0",
+    "gn:admin4_code":"50817215.0",
+    "gn:asciiname":"Medobari",
+    "gn:country_code":"BD",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1194509,
+    "gn:latitude":24.41667,
+    "gn:longitude":88.55,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Medob\u0101ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669031,
+        421172439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1194509
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"e98146ddd8d999fa3ee4e23bfe38f1df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421172439,
+            "locality_id":1242711457,
+            "region_id":85669031
+        }
+    ],
+    "wof:id":1242711457,
+    "wof:lastmodified":1536869875,
+    "wof:name":"Medobari",
+    "wof:parent_id":421172439,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.55,
+    24.41667,
+    88.55,
+    24.41667
+],
+  "geometry": {"coordinates":[88.55,24.41667],"type":"Point"}
+}

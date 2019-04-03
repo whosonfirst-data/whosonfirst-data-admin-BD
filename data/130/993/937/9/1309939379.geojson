@@ -1,0 +1,70 @@
+{
+  "id": 1309939379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.94086,22.01084,89.94086,22.01084",
+    "geom:latitude":22.01084,
+    "geom:longitude":89.94086,
+    "gn:admin1_code":"82",
+    "gn:asciiname":"Padma",
+    "gn:country_code":"BD",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7476018,
+    "gn:latitude":22.01084,
+    "gn:longitude":89.94086,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"Padma",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Padma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669019,
+        421176043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7476018
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"6550e007da10ffb6cdef2f7a0e841974",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421176043,
+            "locality_id":1309939379,
+            "region_id":85669019
+        }
+    ],
+    "wof:id":1309939379,
+    "wof:lastmodified":1537586334,
+    "wof:name":"Padma",
+    "wof:parent_id":421176043,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.94086,
+    22.01084,
+    89.94086,
+    22.01084
+],
+  "geometry": {"coordinates":[89.94086,22.01084],"type":"Point"}
+}

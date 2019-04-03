@@ -1,0 +1,73 @@
+{
+  "id": 1293821209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.59453,24.87344,88.59453,24.87344",
+    "geom:latitude":24.87344,
+    "geom:longitude":88.59453,
+    "gn:admin1_code":"83",
+    "gn:admin2_code":"5064",
+    "gn:admin3_code":"506469.0",
+    "gn:admin4_code":"50646921.0",
+    "gn:asciiname":"Lakshmidanga",
+    "gn:country_code":"BD",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1196344,
+    "gn:latitude":24.87344,
+    "gn:longitude":88.59453,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Lakshmidanga",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Lakshmidanga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669031,
+        421191663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1196344
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"bb9f05e97d3e7d242235bd5604f369fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421191663,
+            "locality_id":1293821209,
+            "region_id":85669031
+        }
+    ],
+    "wof:id":1293821209,
+    "wof:lastmodified":1537585904,
+    "wof:name":"Lakshmidanga",
+    "wof:parent_id":421191663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.59453,
+    24.87344,
+    88.59453,
+    24.87344
+],
+  "geometry": {"coordinates":[88.59453000000001,24.87344],"type":"Point"}
+}

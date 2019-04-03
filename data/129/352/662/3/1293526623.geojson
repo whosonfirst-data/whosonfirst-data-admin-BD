@@ -1,0 +1,75 @@
+{
+  "id": 1293526623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.85,23.83333,88.85,23.83333",
+    "geom:latitude":23.83333,
+    "geom:longitude":88.85,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4057",
+    "gn:admin3_code":"405747.0",
+    "gn:admin4_code":"40574784.0",
+    "gn:asciiname":"Malihat",
+    "gn:cc2":"BD",
+    "gn:country_code":"BD",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1195173,
+    "gn:latitude":23.83333,
+    "gn:longitude":88.85,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"M\u0101lih\u0101t",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Malihad",
+        "M\u0101lih\u0101t"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        421191661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1195173
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"468690e339abdd013c14457c1dd3183c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421191661,
+            "locality_id":1293526623,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1293526623,
+    "wof:lastmodified":1537585881,
+    "wof:name":"Malihat",
+    "wof:parent_id":421191661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.85,
+    23.83333,
+    88.85,
+    23.83333
+],
+  "geometry": {"coordinates":[88.84999999999999,23.83333],"type":"Point"}
+}

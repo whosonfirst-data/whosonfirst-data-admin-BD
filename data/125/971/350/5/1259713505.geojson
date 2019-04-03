@@ -1,0 +1,73 @@
+{
+  "id": 1259713505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.80735,23.17155,89.80735,23.17155",
+    "geom:latitude":23.17155,
+    "geom:longitude":89.80735,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3035.0",
+    "gn:admin3_code":"303543.0",
+    "gn:admin4_code":"30354313.0",
+    "gn:asciiname":"Saphalidanga",
+    "gn:country_code":"BD",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7480561,
+    "gn:latitude":23.17155,
+    "gn:longitude":89.80735,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Saphalid\u0101nga",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Saphalid\u0101nga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421194867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7480561
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"6c62d0a67d380737d205694c9c8155d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421194867,
+            "locality_id":1259713505,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1259713505,
+    "wof:lastmodified":1537586453,
+    "wof:name":"Saphalidanga",
+    "wof:parent_id":421194867,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.80735,
+    23.17155,
+    89.80735,
+    23.17155
+],
+  "geometry": {"coordinates":[89.80735,23.17155],"type":"Point"}
+}

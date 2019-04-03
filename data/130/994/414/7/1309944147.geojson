@@ -1,0 +1,76 @@
+{
+  "id": 1309944147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"92.15176,22.41923,92.15176,22.41923",
+    "geom:latitude":22.41923,
+    "geom:longitude":92.15176,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2084.0",
+    "gn:admin3_code":"208436.0",
+    "gn:admin4_code":"20843676.0",
+    "gn:asciiname":"Karigar Para",
+    "gn:country_code":"BD",
+    "gn:dem":78,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6416103,
+    "gn:latitude":22.41923,
+    "gn:longitude":92.15176,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Karigar P\u0101ra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Karigar P\u0101ra"
+    ],
+    "name:ben_x_variant":[
+        "Karigap\u0101ra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421188983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6416103
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"98a1cfdc5571f03875bf2990c86e6299",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421188983,
+            "locality_id":1309944147,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1309944147,
+    "wof:lastmodified":1537586257,
+    "wof:name":"Karigar Para",
+    "wof:parent_id":421188983,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    92.15176,
+    22.41923,
+    92.15176,
+    22.41923
+],
+  "geometry": {"coordinates":[92.15176,22.41923],"type":"Point"}
+}

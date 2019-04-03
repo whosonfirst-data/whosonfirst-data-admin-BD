@@ -1,0 +1,73 @@
+{
+  "id": 1310534833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.68181,23.07305,89.68181,23.07305",
+    "geom:latitude":23.07305,
+    "geom:longitude":89.68181,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4065.0",
+    "gn:admin3_code":"406528.0",
+    "gn:admin4_code":"40652863.0",
+    "gn:asciiname":"Suriganti",
+    "gn:country_code":"BD",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7480164,
+    "gn:latitude":23.07305,
+    "gn:longitude":89.68181,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Suriganti",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Suriganti"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        421205213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7480164
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"d8aa52abfd1c10817991b98ee4337d8c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421205213,
+            "locality_id":1310534833,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1310534833,
+    "wof:lastmodified":1537586441,
+    "wof:name":"Suriganti",
+    "wof:parent_id":421205213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.68181,
+    23.07305,
+    89.68181,
+    23.07305
+],
+  "geometry": {"coordinates":[89.68181,23.07305],"type":"Point"}
+}

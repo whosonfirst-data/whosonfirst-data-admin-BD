@@ -1,0 +1,73 @@
+{
+  "id": 1209950185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.68002,26.11623,88.68002,26.11623",
+    "geom:latitude":26.11623,
+    "geom:longitude":88.68002,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5577.0",
+    "gn:admin3_code":"557734.0",
+    "gn:admin4_code":"55773457.0",
+    "gn:asciiname":"Jot Kalioharan",
+    "gn:country_code":"BD",
+    "gn:dem":60,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7105183,
+    "gn:latitude":26.11623,
+    "gn:longitude":88.68002,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Jot K\u0101lioharan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Jot K\u0101lioharan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7105183
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"0626fc891dbc9b95bdf7d1c7f1cc1a81",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694697,
+            "locality_id":1209950185,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1209950185,
+    "wof:lastmodified":1537586296,
+    "wof:name":"Jot Kalioharan",
+    "wof:parent_id":1108694697,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.68002,
+    26.11623,
+    88.68002,
+    26.11623
+],
+  "geometry": {"coordinates":[88.68002,26.11623],"type":"Point"}
+}

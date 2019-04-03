@@ -1,0 +1,73 @@
+{
+  "id": 1309935797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.04963,23.8442,89.04963,23.8442",
+    "geom:latitude":23.8442,
+    "geom:longitude":89.04963,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4050.0",
+    "gn:admin3_code":"405079.0",
+    "gn:admin4_code":"40507912.0",
+    "gn:asciiname":"Amanatpur",
+    "gn:country_code":"BD",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7485661,
+    "gn:latitude":23.8442,
+    "gn:longitude":89.04963,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Am\u0101natpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Am\u0101natpur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        890438075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7485661
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"bf920444241b44d61409fad55e723ede",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":890438075,
+            "locality_id":1309935797,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1309935797,
+    "wof:lastmodified":1537586596,
+    "wof:name":"Amanatpur",
+    "wof:parent_id":890438075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.04963000000002,
+    23.8442,
+    89.04963000000002,
+    23.8442
+],
+  "geometry": {"coordinates":[89.04963000000002,23.8442],"type":"Point"}
+}

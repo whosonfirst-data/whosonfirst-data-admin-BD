@@ -1,0 +1,74 @@
+{
+  "id": 1277016141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.36932,25.34485,89.36932,25.34485",
+    "geom:latitude":25.34485,
+    "geom:longitude":89.36932,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5532",
+    "gn:admin3_code":"553282.0",
+    "gn:admin4_code":"55328234.0",
+    "gn:asciiname":"Ambagan",
+    "gn:country_code":"BD",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7898525,
+    "gn:latitude":25.34485,
+    "gn:longitude":89.36932,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Ambagan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Ambagan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7898525,
+        "wk:page":"Ambagan"
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"7a3ddba7679b253deb53c5441419613e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694675,
+            "locality_id":1277016141,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1277016141,
+    "wof:lastmodified":1537586769,
+    "wof:name":"Ambagan",
+    "wof:parent_id":1108694675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.36932,
+    25.34485,
+    89.36932,
+    25.34485
+],
+  "geometry": {"coordinates":[89.36932,25.34485],"type":"Point"}
+}

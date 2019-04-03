@@ -1,0 +1,73 @@
+{
+  "id": 1259513579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.85131,23.52901,88.85131,23.52901",
+    "geom:latitude":23.52901,
+    "geom:longitude":88.85131,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4018.0",
+    "gn:admin3_code":"401823.0",
+    "gn:admin4_code":"40182323.0",
+    "gn:asciiname":"Naudagram",
+    "gn:country_code":"BD",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7484683,
+    "gn:latitude":23.52901,
+    "gn:longitude":88.85131,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Naud\u0101gr\u0101m",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Naud\u0101gr\u0101m"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        421194153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7484683
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"3e85838647556eeba305fca47fc7a8fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421194153,
+            "locality_id":1259513579,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1259513579,
+    "wof:lastmodified":1537586571,
+    "wof:name":"Naudagram",
+    "wof:parent_id":421194153,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.85131,
+    23.52901,
+    88.85131,
+    23.52901
+],
+  "geometry": {"coordinates":[88.85131,23.52901],"type":"Point"}
+}

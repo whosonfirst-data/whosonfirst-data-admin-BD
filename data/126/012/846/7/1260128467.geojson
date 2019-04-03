@@ -1,0 +1,74 @@
+{
+  "id": 1260128467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.77232,23.51581,90.77232,23.51581",
+    "geom:latitude":23.51581,
+    "geom:longitude":90.77232,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2019.0",
+    "gn:admin3_code":"201936.0",
+    "gn:admin4_code":"20193690.0",
+    "gn:asciiname":"Bekisatpara",
+    "gn:country_code":"BD",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1209661,
+    "gn:latitude":23.51581,
+    "gn:longitude":90.77232,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Bekis\u0101tp\u0101ra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bakisatpara",
+        "Bekis\u0101tp\u0101ra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421187801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1209661
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"b96f067459a57cf0ce56986a9d75811b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421187801,
+            "locality_id":1260128467,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1260128467,
+    "wof:lastmodified":1537586149,
+    "wof:name":"Bekisatpara",
+    "wof:parent_id":421187801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.77232,
+    23.51581,
+    90.77232,
+    23.51581
+],
+  "geometry": {"coordinates":[90.77231999999999,23.51581],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209135883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.7294,24.6423,90.7294,24.6423",
+    "geom:latitude":24.6423,
+    "geom:longitude":90.7294,
+    "gn:admin1_code":"H",
+    "gn:admin2_code":"3061",
+    "gn:admin3_code":"306131.0",
+    "gn:admin4_code":"30613109.0",
+    "gn:asciiname":"Sarati",
+    "gn:country_code":"BD",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1188613,
+    "gn:latitude":24.6423,
+    "gn:longitude":90.7294,
+    "gn:modification_date":"2016-11-17",
+    "gn:name":"S\u0101rati",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1188613
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"994d1c5ab4ce4525999527bacc233a3b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209135883
+        }
+    ],
+    "wof:id":1209135883,
+    "wof:lastmodified":1536296662,
+    "wof:name":"Sarati",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.7294,
+    24.6423,
+    90.7294,
+    24.6423
+],
+  "geometry": {"coordinates":[90.7294,24.6423],"type":"Point"}
+}

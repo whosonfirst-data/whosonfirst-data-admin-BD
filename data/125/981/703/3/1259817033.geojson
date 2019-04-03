@@ -1,0 +1,76 @@
+{
+  "id": 1259817033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.68363,22.88668,89.68363,22.88668",
+    "geom:latitude":22.88668,
+    "geom:longitude":89.68363,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4047.0",
+    "gn:admin3_code":"404794.0",
+    "gn:admin4_code":"40479467.0",
+    "gn:asciiname":"Chagladah",
+    "gn:country_code":"BD",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1206243,
+    "gn:latitude":22.88668,
+    "gn:longitude":89.68363,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Chagladah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Chagladah"
+    ],
+    "name:ben_x_variant":[
+        "Chhagladaha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        421185473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1206243
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"d465d3ae25bb40dfb5f431d9eab68462",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421185473,
+            "locality_id":1259817033,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1259817033,
+    "wof:lastmodified":1537586089,
+    "wof:name":"Chagladah",
+    "wof:parent_id":421185473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.68363000000002,
+    22.88668,
+    89.68363000000002,
+    22.88668
+],
+  "geometry": {"coordinates":[89.68363000000002,22.88668],"type":"Point"}
+}

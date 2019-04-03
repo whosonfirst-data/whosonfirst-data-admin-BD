@@ -1,0 +1,74 @@
+{
+  "id": 1276697147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.22073,23.23062,90.22073,23.23062",
+    "geom:latitude":23.23062,
+    "geom:longitude":90.22073,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3054",
+    "gn:admin3_code":"305454.0",
+    "gn:admin4_code":"30545411.0",
+    "gn:asciiname":"West Raghurampur",
+    "gn:country_code":"BD",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1185339,
+    "gn:latitude":23.23062,
+    "gn:longitude":90.22073,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"West Raghur\u0101mpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Paschim Raghurampur",
+        "West Raghur\u0101mpur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421183929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1185339
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"aa3c9ab1b1b0b5592c6e2bbdaf698ff4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421183929,
+            "locality_id":1276697147,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1276697147,
+    "wof:lastmodified":1537585697,
+    "wof:name":"West Raghurampur",
+    "wof:parent_id":421183929,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.22073,
+    23.23062,
+    90.22073,
+    23.23062
+],
+  "geometry": {"coordinates":[90.22073,23.23062],"type":"Point"}
+}

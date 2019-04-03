@@ -1,0 +1,67 @@
+{
+  "id": 1209648531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.47868,24.89894,88.47868,24.89894",
+    "geom:latitude":24.89894,
+    "geom:longitude":88.47868,
+    "gn:admin1_code":"83",
+    "gn:admin2_code":"5070.0",
+    "gn:admin3_code":"507037.0",
+    "gn:admin4_code":"50703763.0",
+    "gn:asciiname":"Digha",
+    "gn:country_code":"BD",
+    "gn:dem":44,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1204038,
+    "gn:latitude":24.89894,
+    "gn:longitude":88.47868,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Digha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Digha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1204038
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"1203b203ec936cf6d31a12d7452338c0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209648531
+        }
+    ],
+    "wof:id":1209648531,
+    "wof:lastmodified":1537586050,
+    "wof:name":"Digha",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.47868000000003,
+    24.89894,
+    88.47868000000003,
+    24.89894
+],
+  "geometry": {"coordinates":[88.47868000000003,24.89894],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1276798577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.65804,24.12786,90.65804,24.12786",
+    "geom:latitude":24.12786,
+    "geom:longitude":90.65804,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3033.0",
+    "gn:admin3_code":"303336.0",
+    "gn:admin4_code":"30333669.0",
+    "gn:asciiname":"Ghorsaba",
+    "gn:country_code":"BD",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1202526,
+    "gn:latitude":24.12786,
+    "gn:longitude":90.65804,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Ghors\u0101ba",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421203493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1202526
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"b19062dc34d92d08ab0c17290a7888d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421203493,
+            "locality_id":1276798577,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1276798577,
+    "wof:lastmodified":1536652471,
+    "wof:name":"Ghorsaba",
+    "wof:parent_id":421203493,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.65804,
+    24.12786,
+    90.65804,
+    24.12786
+],
+  "geometry": {"coordinates":[90.65804,24.12786],"type":"Point"}
+}

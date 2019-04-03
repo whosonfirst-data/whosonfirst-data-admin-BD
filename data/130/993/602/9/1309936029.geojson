@@ -1,0 +1,70 @@
+{
+  "id": 1309936029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.11825,24.26539,90.11825,24.26539",
+    "geom:latitude":24.26539,
+    "geom:longitude":90.11825,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3093.0",
+    "gn:admin3_code":"309385.0",
+    "gn:admin4_code":"30938527.0",
+    "gn:asciiname":"Deobari Gajaria",
+    "gn:country_code":"BD",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1204693,
+    "gn:latitude":24.26539,
+    "gn:longitude":90.11825,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Deob\u0101ri Gaj\u0101ria",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421185471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1204693
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"8e26bcbaeee886b1ab2dbdbfc3153776",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421185471,
+            "locality_id":1309936029,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1309936029,
+    "wof:lastmodified":1536743291,
+    "wof:name":"Deobari Gajaria",
+    "wof:parent_id":421185471,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.11825,
+    24.26539,
+    90.11825,
+    24.26539
+],
+  "geometry": {"coordinates":[90.11825,24.26539],"type":"Point"}
+}

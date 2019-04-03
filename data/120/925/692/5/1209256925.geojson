@@ -1,0 +1,64 @@
+{
+  "id": 1209256925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.83562,21.7236,91.83562,21.7236",
+    "geom:latitude":21.7236,
+    "geom:longitude":91.83562,
+    "gn:admin1_code":"84",
+    "gn:asciiname":"Takpara",
+    "gn:country_code":"BD",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6415989,
+    "gn:latitude":21.7236,
+    "gn:longitude":91.83562,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"Takp\u0101ra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Takp\u0101ra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6415989
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"97c3033d2f442dffd872110bd6f06d82",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209256925
+        }
+    ],
+    "wof:id":1209256925,
+    "wof:lastmodified":1537586254,
+    "wof:name":"Takpara",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.83562,
+    21.7236,
+    91.83562,
+    21.7236
+],
+  "geometry": {"coordinates":[91.83562000000001,21.7236],"type":"Point"}
+}

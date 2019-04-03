@@ -1,0 +1,73 @@
+{
+  "id": 1326458269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.16307,25.33772,89.16307,25.33772",
+    "geom:latitude":25.33772,
+    "geom:longitude":89.16307,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5527",
+    "gn:admin3_code":"552769.0",
+    "gn:admin4_code":"55276977.0",
+    "gn:asciiname":"Bhabadgari",
+    "gn:country_code":"BD",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8064939,
+    "gn:latitude":25.33772,
+    "gn:longitude":89.16307,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Bhabadgari",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Bhabadgari"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8064939
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"f8a1638128f68da0c866cddfbd812f17",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694671,
+            "locality_id":1326458269,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1326458269,
+    "wof:lastmodified":1537586854,
+    "wof:name":"Bhabadgari",
+    "wof:parent_id":1108694671,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.16306999999998,
+    25.33772,
+    89.16306999999998,
+    25.33772
+],
+  "geometry": {"coordinates":[89.16306999999998,25.33772],"type":"Point"}
+}

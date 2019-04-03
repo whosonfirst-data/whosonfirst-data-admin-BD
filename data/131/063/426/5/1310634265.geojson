@@ -1,0 +1,73 @@
+{
+  "id": 1310634265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.71198,23.65428,88.71198,23.65428",
+    "geom:latitude":23.65428,
+    "geom:longitude":88.71198,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4018",
+    "gn:admin3_code":"401831.0",
+    "gn:admin4_code":"40183183.0",
+    "gn:asciiname":"Natipota",
+    "gn:country_code":"BD",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1193081,
+    "gn:latitude":23.65428,
+    "gn:longitude":88.71198,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Natipota",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Natipota"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        421194153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1193081
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"bf33304e41e419d592127519fc5641d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421194153,
+            "locality_id":1310634265,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1310634265,
+    "wof:lastmodified":1537585846,
+    "wof:name":"Natipota",
+    "wof:parent_id":421194153,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.71198000000003,
+    23.65428,
+    88.71198000000003,
+    23.65428
+],
+  "geometry": {"coordinates":[88.71198000000003,23.65428],"type":"Point"}
+}

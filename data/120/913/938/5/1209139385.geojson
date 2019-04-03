@@ -1,0 +1,64 @@
+{
+  "id": 1209139385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.43023,22.00213,90.43023,22.00213",
+    "geom:latitude":22.00213,
+    "geom:longitude":90.43023,
+    "gn:admin1_code":"82",
+    "gn:asciiname":"Nayabhangni",
+    "gn:country_code":"BD",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7478721,
+    "gn:latitude":22.00213,
+    "gn:longitude":90.43023,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"Nay\u0101bh\u0101ngni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Nay\u0101bh\u0101ngni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7478721
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"7a8ffa66fbaf795212640346f6cfdc2c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209139385
+        }
+    ],
+    "wof:id":1209139385,
+    "wof:lastmodified":1537586399,
+    "wof:name":"Nayabhangni",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.43023,
+    22.00213,
+    90.43023,
+    22.00213
+],
+  "geometry": {"coordinates":[90.43022999999999,22.00213],"type":"Point"}
+}

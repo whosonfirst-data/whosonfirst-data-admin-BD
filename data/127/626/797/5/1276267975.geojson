@@ -1,0 +1,75 @@
+{
+  "id": 1276267975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.95993,23.43314,90.95993,23.43314",
+    "geom:latitude":23.43314,
+    "geom:longitude":90.95993,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2019.0",
+    "gn:admin3_code":"201927.0",
+    "gn:admin4_code":"20192779.0",
+    "gn:asciiname":"Aorail",
+    "gn:country_code":"BD",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1212639,
+    "gn:latitude":23.43314,
+    "gn:longitude":90.95993,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Aorail",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Howral",
+        "\u0100or\u0101l",
+        "Aorail"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421187801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1212639
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"db310110bda40aa5e85127ec0b2f1b20",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421187801,
+            "locality_id":1276267975,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1276267975,
+    "wof:lastmodified":1537586200,
+    "wof:name":"Aorail",
+    "wof:parent_id":421187801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.95993,
+    23.43314,
+    90.95993,
+    23.43314
+],
+  "geometry": {"coordinates":[90.95993,23.43314],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1243097351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.54794,22.34938,90.54794,22.34938",
+    "geom:latitude":22.34938,
+    "geom:longitude":90.54794,
+    "gn:admin1_code":"85",
+    "gn:admin2_code":"1078.0",
+    "gn:admin3_code":"107852.0",
+    "gn:admin4_code":"10785221.0",
+    "gn:asciiname":"Uttar Adampur",
+    "gn:country_code":"BD",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7478075,
+    "gn:latitude":22.34938,
+    "gn:longitude":90.54794,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Uttar \u0100d\u0101mpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Uttar \u0100d\u0101mpur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669019,
+        421169845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7478075
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"4eb5877f00c0c130ec0ce269a331fea9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421169845,
+            "locality_id":1243097351,
+            "region_id":85669019
+        }
+    ],
+    "wof:id":1243097351,
+    "wof:lastmodified":1537586382,
+    "wof:name":"Uttar Adampur",
+    "wof:parent_id":421169845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.54794,
+    22.34938,
+    90.54794,
+    22.34938
+],
+  "geometry": {"coordinates":[90.54794,22.34938],"type":"Point"}
+}

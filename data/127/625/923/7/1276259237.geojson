@@ -1,0 +1,75 @@
+{
+  "id": 1276259237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.30238,23.55518,89.30238,23.55518",
+    "geom:latitude":23.55518,
+    "geom:longitude":89.30238,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4044.0",
+    "gn:admin3_code":"404419.0",
+    "gn:admin4_code":"40441931.0",
+    "gn:asciiname":"East Gobindapur",
+    "gn:country_code":"BD",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1203548,
+    "gn:latitude":23.55518,
+    "gn:longitude":89.30238,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"East Gobind\u0101pur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Purba Govindapur",
+        "Purba Gabindapur",
+        "East Gobind\u0101pur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        1108694679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1203548
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"c69b3d4ce2761176b97ac1bc3b229ed0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694679,
+            "locality_id":1276259237,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1276259237,
+    "wof:lastmodified":1537586042,
+    "wof:name":"East Gobindapur",
+    "wof:parent_id":1108694679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.30238,
+    23.55518,
+    89.30238,
+    23.55518
+],
+  "geometry": {"coordinates":[89.30238,23.55518],"type":"Point"}
+}

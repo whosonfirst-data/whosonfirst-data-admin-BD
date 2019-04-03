@@ -1,0 +1,64 @@
+{
+  "id": 1209043895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.86678,24.8439,90.86678,24.8439",
+    "geom:latitude":24.8439,
+    "geom:longitude":90.86678,
+    "gn:admin1_code":"H",
+    "gn:admin2_code":"3072",
+    "gn:admin3_code":"307204.0",
+    "gn:admin4_code":"30720471.0",
+    "gn:asciiname":"Shyampur",
+    "gn:country_code":"BD",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1188097,
+    "gn:latitude":24.8439,
+    "gn:longitude":90.86678,
+    "gn:modification_date":"2016-11-17",
+    "gn:name":"Shy\u0101mpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1188097
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"1590cdf01681c9f7d5f6e9e5a5dc2a12",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209043895
+        }
+    ],
+    "wof:id":1209043895,
+    "wof:lastmodified":1536299457,
+    "wof:name":"Shyampur",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.86678,
+    24.8439,
+    90.86678,
+    24.8439
+],
+  "geometry": {"coordinates":[90.86678000000001,24.8439],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1327462001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.81615,24.39936,88.81615,24.39936",
+    "geom:latitude":24.39936,
+    "geom:longitude":88.81615,
+    "gn:admin1_code":"83",
+    "gn:admin2_code":"5081.0",
+    "gn:admin3_code":"508182.0",
+    "gn:admin4_code":"50818240.0",
+    "gn:asciiname":"Durlavpur",
+    "gn:country_code":"BD",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7483745,
+    "gn:latitude":24.39936,
+    "gn:longitude":88.81615,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Durlavpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Durlavpur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669031,
+        421172439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7483745
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"9662434084c78ff4955474fe4cdfe192",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421172439,
+            "locality_id":1327462001,
+            "region_id":85669031
+        }
+    ],
+    "wof:id":1327462001,
+    "wof:lastmodified":1537586545,
+    "wof:name":"Durlavpur",
+    "wof:parent_id":421172439,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.81615,
+    24.39936,
+    88.81615,
+    24.39936
+],
+  "geometry": {"coordinates":[88.81614999999999,24.39936],"type":"Point"}
+}

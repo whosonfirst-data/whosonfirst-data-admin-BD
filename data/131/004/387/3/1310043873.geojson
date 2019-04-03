@@ -1,0 +1,70 @@
+{
+  "id": 1310043873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.03333,22.9,91.03333,22.9",
+    "geom:latitude":22.9,
+    "geom:longitude":91.03333,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2075",
+    "gn:admin3_code":"207507.0",
+    "gn:admin4_code":"20750780.0",
+    "gn:asciiname":"Madhabsinha",
+    "gn:country_code":"BD",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1195865,
+    "gn:latitude":22.9,
+    "gn:longitude":91.03333,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"M\u0101dhabsinha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421177051
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1195865
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"c0fb1bc9617ab8268acb3c4034d11f77",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421177051,
+            "locality_id":1310043873,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1310043873,
+    "wof:lastmodified":1537082151,
+    "wof:name":"Madhabsinha",
+    "wof:parent_id":421177051,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.03333,
+    22.9,
+    91.03333,
+    22.9
+],
+  "geometry": {"coordinates":[91.03333000000001,22.9],"type":"Point"}
+}

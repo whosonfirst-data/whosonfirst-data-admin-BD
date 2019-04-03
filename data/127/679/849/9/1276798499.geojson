@@ -1,0 +1,70 @@
+{
+  "id": 1276798499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.44041,24.24965,90.44041,24.24965",
+    "geom:latitude":24.24965,
+    "geom:longitude":90.44041,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3033",
+    "gn:admin3_code":"303386.0",
+    "gn:admin4_code":"30338685.0",
+    "gn:asciiname":"Telihati",
+    "gn:country_code":"BD",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1186315,
+    "gn:latitude":24.24965,
+    "gn:longitude":90.44041,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Telih\u0101ti",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421203493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1186315
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"99d6718ba3884c744797623233a2fd58",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421203493,
+            "locality_id":1276798499,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1276798499,
+    "wof:lastmodified":1536652592,
+    "wof:name":"Telihati",
+    "wof:parent_id":421203493,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.44041,
+    24.24965,
+    90.44041,
+    24.24965
+],
+  "geometry": {"coordinates":[90.44041,24.24965],"type":"Point"}
+}

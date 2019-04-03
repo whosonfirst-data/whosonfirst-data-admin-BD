@@ -1,0 +1,67 @@
+{
+  "id": 1209242983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.97604,23.56975,88.97604,23.56975",
+    "geom:latitude":23.56975,
+    "geom:longitude":88.97604,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4018.0",
+    "gn:admin3_code":"401823.0",
+    "gn:admin4_code":"40182347.0",
+    "gn:asciiname":"Aliarpur",
+    "gn:country_code":"BD",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7484834,
+    "gn:latitude":23.56975,
+    "gn:longitude":88.97604,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Ali\u0101rpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Ali\u0101rpur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7484834
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"363cab03757532a23e5f2f5fde65053d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209242983
+        }
+    ],
+    "wof:id":1209242983,
+    "wof:lastmodified":1537586575,
+    "wof:name":"Aliarpur",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.97604,
+    23.56975,
+    88.97604,
+    23.56975
+],
+  "geometry": {"coordinates":[88.97604,23.56975],"type":"Point"}
+}

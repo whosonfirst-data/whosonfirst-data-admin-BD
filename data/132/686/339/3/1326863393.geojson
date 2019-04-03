@@ -1,0 +1,70 @@
+{
+  "id": 1326863393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.44035,24.83045,89.44035,24.83045",
+    "geom:latitude":24.83045,
+    "geom:longitude":89.44035,
+    "gn:admin1_code":"83",
+    "gn:admin2_code":"5010",
+    "gn:admin3_code":"501040.0",
+    "gn:admin4_code":"50104054.0",
+    "gn:asciiname":"Karnipara",
+    "gn:country_code":"BD",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1198372,
+    "gn:latitude":24.83045,
+    "gn:longitude":89.44035,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Karn\u012bp\u0101ra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669031,
+        421187793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1198372
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"3224cf5612463a2c70c02d96e7a5cf8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421187793,
+            "locality_id":1326863393,
+            "region_id":85669031
+        }
+    ],
+    "wof:id":1326863393,
+    "wof:lastmodified":1537003135,
+    "wof:name":"Karnipara",
+    "wof:parent_id":421187793,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.44035,
+    24.83045,
+    89.44035,
+    24.83045
+],
+  "geometry": {"coordinates":[89.44035,24.83045],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1210054675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.03611,23.26547,91.03611,23.26547",
+    "geom:latitude":23.26547,
+    "geom:longitude":91.03611,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2019",
+    "gn:admin3_code":"201909.0",
+    "gn:admin4_code":"20190982.0",
+    "gn:asciiname":"Mudarganj",
+    "gn:country_code":"BD",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1194075,
+    "gn:latitude":23.26547,
+    "gn:longitude":91.03611,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Mudarganj",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mud\u0101farganj"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421187801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1194075
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"77739056dc4ae0fe93e75f83e46f0c11",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421187801,
+            "locality_id":1210054675,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1210054675,
+    "wof:lastmodified":1537585862,
+    "wof:name":"Mudarganj",
+    "wof:parent_id":421187801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.03611,
+    23.26547,
+    91.03611,
+    23.26547
+],
+  "geometry": {"coordinates":[91.03610999999999,23.26547],"type":"Point"}
+}

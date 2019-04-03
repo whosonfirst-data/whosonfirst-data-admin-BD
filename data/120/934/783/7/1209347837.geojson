@@ -1,0 +1,70 @@
+{
+  "id": 1209347837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.93789,24.11703,88.93789,24.11703",
+    "geom:latitude":24.11703,
+    "geom:longitude":88.93789,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4050",
+    "gn:admin3_code":"405015.0",
+    "gn:admin4_code":"40501513.0",
+    "gn:asciiname":"Raita",
+    "gn:country_code":"BD",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1190385,
+    "gn:latitude":24.11703,
+    "gn:longitude":88.93789,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"R\u0101ita",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "R\u0101ita"
+    ],
+    "name:und_x_variant":[
+        "Rayta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1190385
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"fa00d6b55b8e9232b44a89caf0a53006",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209347837
+        }
+    ],
+    "wof:id":1209347837,
+    "wof:lastmodified":1537585795,
+    "wof:name":"Raita",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.93789,
+    24.11703,
+    88.93789,
+    24.11703
+],
+  "geometry": {"coordinates":[88.93789,24.11703],"type":"Point"}
+}

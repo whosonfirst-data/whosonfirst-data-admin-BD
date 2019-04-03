@@ -1,0 +1,70 @@
+{
+  "id": 1226472663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.46431,23.63941,90.46431,23.63941",
+    "geom:latitude":23.63941,
+    "geom:longitude":90.46431,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3026",
+    "gn:admin3_code":"302638.0",
+    "gn:admin4_code":"30263843.0",
+    "gn:asciiname":"Katuail",
+    "gn:country_code":"BD",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1198099,
+    "gn:latitude":23.63941,
+    "gn:longitude":90.46431,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"K\u0101tu\u0101il",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421187803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1198099
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"382f5125f3bfdb41dead8d43c7109e2b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421187803,
+            "locality_id":1226472663,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1226472663,
+    "wof:lastmodified":1536603743,
+    "wof:name":"Katuail",
+    "wof:parent_id":421187803,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.46431,
+    23.63941,
+    90.46431,
+    23.63941
+],
+  "geometry": {"coordinates":[90.46431,23.63941],"type":"Point"}
+}

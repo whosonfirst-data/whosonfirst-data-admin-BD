@@ -1,0 +1,70 @@
+{
+  "id": 1260316515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.26224,24.033,89.26224,24.033",
+    "geom:latitude":24.033,
+    "geom:longitude":89.26224,
+    "gn:admin1_code":"83",
+    "gn:admin2_code":"5076",
+    "gn:admin3_code":"507655.0",
+    "gn:admin4_code":"50765569.0",
+    "gn:asciiname":"Malanchi",
+    "gn:country_code":"BD",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1195222,
+    "gn:latitude":24.033,
+    "gn:longitude":89.26224,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"M\u0101lanchi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669031,
+        421197541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1195222
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"4c6ec01e22673232cd34f46aafc4333e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421197541,
+            "locality_id":1260316515,
+            "region_id":85669031
+        }
+    ],
+    "wof:id":1260316515,
+    "wof:lastmodified":1536667774,
+    "wof:name":"Malanchi",
+    "wof:parent_id":421197541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.26224,
+    24.033,
+    89.26224,
+    24.033
+],
+  "geometry": {"coordinates":[89.26224000000001,24.033],"type":"Point"}
+}

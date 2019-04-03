@@ -1,0 +1,70 @@
+{
+  "id": 1343292035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.08333,23.55,90.08333,23.55",
+    "geom:latitude":23.55,
+    "geom:longitude":90.08333,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3029.0",
+    "gn:admin3_code":"302984.0",
+    "gn:admin4_code":"30298476.0",
+    "gn:asciiname":"Burir Char",
+    "gn:country_code":"BD",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1208012,
+    "gn:latitude":23.55,
+    "gn:longitude":90.08333,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Burir Char",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421198063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1208012
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"eb0b2b2734f6e295ca943515d171ab94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421198063,
+            "locality_id":1343292035,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1343292035,
+    "wof:lastmodified":1536988623,
+    "wof:name":"Burir Char",
+    "wof:parent_id":421198063,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.08333,
+    23.55,
+    90.08333,
+    23.55
+],
+  "geometry": {"coordinates":[90.08333,23.55],"type":"Point"}
+}

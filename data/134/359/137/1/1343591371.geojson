@@ -1,0 +1,74 @@
+{
+  "id": 1343591371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.01667,22.16667,90.01667,22.16667",
+    "geom:latitude":22.16667,
+    "geom:longitude":90.01667,
+    "gn:admin1_code":"85",
+    "gn:admin2_code":"1004",
+    "gn:admin3_code":"100485.0",
+    "gn:admin4_code":"10048523.0",
+    "gn:asciiname":"Jnanpara",
+    "gn:country_code":"BD",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1199843,
+    "gn:latitude":22.16667,
+    "gn:longitude":90.01667,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Jn\u0101np\u0101ra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jn\u0101np\u0101ra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669019,
+        421176043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1199843,
+        "wk:page":"Jnanpara"
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"59e29e7b55a0219e576427cd009a36ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421176043,
+            "locality_id":1343591371,
+            "region_id":85669019
+        }
+    ],
+    "wof:id":1343591371,
+    "wof:lastmodified":1537585967,
+    "wof:name":"Jnanpara",
+    "wof:parent_id":421176043,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.01666999999998,
+    22.16667,
+    90.01666999999998,
+    22.16667
+],
+  "geometry": {"coordinates":[90.01666999999998,22.16667],"type":"Point"}
+}

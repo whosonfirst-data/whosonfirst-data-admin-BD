@@ -1,0 +1,75 @@
+{
+  "id": 1327467257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.70385,24.28628,91.70385,24.28628",
+    "geom:latitude":24.28628,
+    "geom:longitude":91.70385,
+    "gn:admin1_code":"86",
+    "gn:admin2_code":"6058.0",
+    "gn:admin3_code":"605883.0",
+    "gn:admin4_code":"60588309.0",
+    "gn:asciiname":"Asidran",
+    "gn:country_code":"BD",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1212403,
+    "gn:latitude":24.28628,
+    "gn:longitude":91.70385,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Asidran",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ashidun",
+        "\u0100sidun",
+        "Asidran"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669025,
+        1108694693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1212403
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"f4c7dc2256e9ccb70033e10b87528c06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694693,
+            "locality_id":1327467257,
+            "region_id":85669025
+        }
+    ],
+    "wof:id":1327467257,
+    "wof:lastmodified":1537586194,
+    "wof:name":"Asidran",
+    "wof:parent_id":1108694693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.70385,
+    24.28628,
+    91.70385,
+    24.28628
+],
+  "geometry": {"coordinates":[91.70385,24.28628],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1343398511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.68703,23.45263,89.68703,23.45263",
+    "geom:latitude":23.45263,
+    "geom:longitude":89.68703,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3029",
+    "gn:admin3_code":"302918.0",
+    "gn:admin4_code":"30291890.0",
+    "gn:asciiname":"Kersail",
+    "gn:country_code":"BD",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1197902,
+    "gn:latitude":23.45263,
+    "gn:longitude":89.68703,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Kers\u0101il",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421198063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1197902
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"2c0e97212a504c6654b015c4ab42e5bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421198063,
+            "locality_id":1343398511,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1343398511,
+    "wof:lastmodified":1536834489,
+    "wof:name":"Kersail",
+    "wof:parent_id":421198063,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.68703000000002,
+    23.45263,
+    89.68703000000002,
+    23.45263
+],
+  "geometry": {"coordinates":[89.68703000000002,23.45263],"type":"Point"}
+}

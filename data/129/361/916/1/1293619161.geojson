@@ -1,0 +1,70 @@
+{
+  "id": 1293619161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.6901,24.56902,90.6901,24.56902",
+    "geom:latitude":24.56902,
+    "geom:longitude":90.6901,
+    "gn:admin1_code":"H",
+    "gn:admin2_code":"3061",
+    "gn:admin3_code":"306172.0",
+    "gn:admin4_code":"30617271.0",
+    "gn:asciiname":"Nandail",
+    "gn:country_code":"BD",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8430306,
+    "gn:latitude":24.56902,
+    "gn:longitude":90.6901,
+    "gn:modification_date":"2016-11-17",
+    "gn:name":"N\u0101nd\u0101il",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        1108803101,
+        421185469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8430306
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"0fbf20e4dc1b4d23f3fdbb4cf003b2ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421185469,
+            "locality_id":1293619161,
+            "region_id":1108803101
+        }
+    ],
+    "wof:id":1293619161,
+    "wof:lastmodified":1537091312,
+    "wof:name":"Nandail",
+    "wof:parent_id":421185469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.6901,
+    24.56902,
+    90.6901,
+    24.56902
+],
+  "geometry": {"coordinates":[90.6901,24.56902],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1226797769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.88332,22.45143,91.88332,22.45143",
+    "geom:latitude":22.45143,
+    "geom:longitude":91.88332,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2015.0",
+    "gn:admin3_code":"201574.0",
+    "gn:admin4_code":"20157494.0",
+    "gn:asciiname":"Paschim Guzara",
+    "gn:country_code":"BD",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6413833,
+    "gn:latitude":22.45143,
+    "gn:longitude":91.88332,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Paschim Guz\u0101ra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Paschim Guz\u0101ra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421201541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6413833
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"437023111b582d0ea90ba8d0fdaf3847",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421201541,
+            "locality_id":1226797769,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1226797769,
+    "wof:lastmodified":1537586217,
+    "wof:name":"Paschim Guzara",
+    "wof:parent_id":421201541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.88332,
+    22.45143,
+    91.88332,
+    22.45143
+],
+  "geometry": {"coordinates":[91.88332,22.45143],"type":"Point"}
+}

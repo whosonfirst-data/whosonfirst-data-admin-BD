@@ -1,0 +1,70 @@
+{
+  "id": 1360015411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"92.0357,25.05598,92.0357,25.05598",
+    "geom:latitude":25.05598,
+    "geom:longitude":92.0357,
+    "gn:admin1_code":"86",
+    "gn:admin2_code":"6091",
+    "gn:admin3_code":"609141.0",
+    "gn:admin4_code":"60914110.0",
+    "gn:asciiname":"Panchpara",
+    "gn:country_code":"BD",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1192660,
+    "gn:latitude":25.05598,
+    "gn:longitude":92.0357,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"P\u0101nchp\u0101ra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669025,
+        421187795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1192660
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"fb31bee7c8d0236aee697c4dcc565532",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421187795,
+            "locality_id":1360015411,
+            "region_id":85669025
+        }
+    ],
+    "wof:id":1360015411,
+    "wof:lastmodified":1537044459,
+    "wof:name":"Panchpara",
+    "wof:parent_id":421187795,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    92.0357,
+    25.05598,
+    92.0357,
+    25.05598
+],
+  "geometry": {"coordinates":[92.03570000000001,25.05598],"type":"Point"}
+}

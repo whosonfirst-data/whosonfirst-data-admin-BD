@@ -1,0 +1,79 @@
+{
+  "id": 1243297217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.33131,23.49407,89.33131,23.49407",
+    "geom:latitude":23.49407,
+    "geom:longitude":89.33131,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4055",
+    "gn:admin3_code":"405557.0",
+    "gn:admin4_code":"40555747.0",
+    "gn:asciiname":"Nowapara",
+    "gn:country_code":"BD",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1191817,
+    "gn:latitude":23.49407,
+    "gn:longitude":89.33131,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Now\u0101p\u0101ra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Now\u0101p\u0101ra"
+    ],
+    "name:ben_x_variant":[
+        "North Now\u0101p\u0101ra"
+    ],
+    "name:und_x_variant":[
+        "Uttar Nawapara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        1108694689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1191817
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"3072b15e54c5e31169118dee25b6b705",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694689,
+            "locality_id":1243297217,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1243297217,
+    "wof:lastmodified":1537585822,
+    "wof:name":"Nowapara",
+    "wof:parent_id":1108694689,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.33131,
+    23.49407,
+    89.33131,
+    23.49407
+],
+  "geometry": {"coordinates":[89.33131,23.49407],"type":"Point"}
+}

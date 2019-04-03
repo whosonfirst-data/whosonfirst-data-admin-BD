@@ -1,0 +1,73 @@
+{
+  "id": 1259520839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.94402,24.79764,88.94402,24.79764",
+    "geom:latitude":24.79764,
+    "geom:longitude":88.94402,
+    "gn:admin1_code":"83",
+    "gn:admin2_code":"5064",
+    "gn:admin3_code":"506460.0",
+    "gn:admin4_code":"50646000.0",
+    "gn:asciiname":"Sultanpur",
+    "gn:country_code":"BD",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1186956,
+    "gn:latitude":24.79764,
+    "gn:longitude":88.94402,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Sult\u0101npur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Sult\u0101npur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669031,
+        421191663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1186956
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"20a932861a2f647957246a2af20a8e6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421191663,
+            "locality_id":1259520839,
+            "region_id":85669031
+        }
+    ],
+    "wof:id":1259520839,
+    "wof:lastmodified":1537585727,
+    "wof:name":"Sultanpur",
+    "wof:parent_id":421191663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.94402,
+    24.79764,
+    88.94402,
+    24.79764
+],
+  "geometry": {"coordinates":[88.94401999999999,24.79764],"type":"Point"}
+}

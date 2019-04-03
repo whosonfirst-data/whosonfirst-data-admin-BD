@@ -1,0 +1,70 @@
+{
+  "id": 1259416149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.52187,22.20191,90.52187,22.20191",
+    "geom:latitude":22.20191,
+    "geom:longitude":90.52187,
+    "gn:admin1_code":"82",
+    "gn:asciiname":"Ghuni Char",
+    "gn:country_code":"BD",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7478281,
+    "gn:latitude":22.20191,
+    "gn:longitude":90.52187,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"Ghuni Char",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Ghuni Char"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669019,
+        421169845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7478281
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"3de40d91a66aadd04985634fb5f1397a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421169845,
+            "locality_id":1259416149,
+            "region_id":85669019
+        }
+    ],
+    "wof:id":1259416149,
+    "wof:lastmodified":1537586388,
+    "wof:name":"Ghuni Char",
+    "wof:parent_id":421169845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.52187,
+    22.20191,
+    90.52187,
+    22.20191
+],
+  "geometry": {"coordinates":[90.52187000000001,22.20191],"type":"Point"}
+}

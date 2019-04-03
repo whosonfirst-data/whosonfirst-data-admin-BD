@@ -1,0 +1,75 @@
+{
+  "id": 1242811097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.38333,24.66667,88.38333,24.66667",
+    "geom:latitude":24.66667,
+    "geom:longitude":88.38333,
+    "gn:admin1_code":"83",
+    "gn:admin2_code":"5070",
+    "gn:admin3_code":"507056.0",
+    "gn:admin4_code":"50705676.0",
+    "gn:asciiname":"Jote Srimanta",
+    "gn:cc2":"BD",
+    "gn:country_code":"BD",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1199752,
+    "gn:latitude":24.66667,
+    "gn:longitude":88.38333,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Jote Sr\u012bmanta",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jot Srimantapur",
+        "Jote Sr\u012bmanta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669031,
+        421191607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1199752
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"0c66d39b96ac89a9b943aac786b39b74",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421191607,
+            "locality_id":1242811097,
+            "region_id":85669031
+        }
+    ],
+    "wof:id":1242811097,
+    "wof:lastmodified":1537585965,
+    "wof:name":"Jote Srimanta",
+    "wof:parent_id":421191607,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.38333,
+    24.66667,
+    88.38333,
+    24.66667
+],
+  "geometry": {"coordinates":[88.38333,24.66667],"type":"Point"}
+}

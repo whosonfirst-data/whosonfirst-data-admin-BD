@@ -1,0 +1,73 @@
+{
+  "id": 1259816879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.62932,25.76394,89.62932,25.76394",
+    "geom:latitude":25.76394,
+    "geom:longitude":89.62932,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5549",
+    "gn:admin3_code":"554952.0",
+    "gn:admin4_code":"55495276.0",
+    "gn:asciiname":"Gorai",
+    "gn:country_code":"BD",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7923587,
+    "gn:latitude":25.76394,
+    "gn:longitude":89.62932,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Gor\u0101i",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Gor\u0101i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7923587
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"eadd3c3b0bfb72f54e71f0b44c62c8fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694685,
+            "locality_id":1259816879,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1259816879,
+    "wof:lastmodified":1537586802,
+    "wof:name":"Gorai",
+    "wof:parent_id":1108694685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.62931999999998,
+    25.76394,
+    89.62931999999998,
+    25.76394
+],
+  "geometry": {"coordinates":[89.62931999999998,25.76394],"type":"Point"}
+}

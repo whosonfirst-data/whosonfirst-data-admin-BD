@@ -1,0 +1,70 @@
+{
+  "id": 1276482307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.5646,23.61977,90.5646,23.61977",
+    "geom:latitude":23.61977,
+    "geom:longitude":90.5646,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3067.0",
+    "gn:admin3_code":"306704.0",
+    "gn:admin4_code":"30670486.0",
+    "gn:asciiname":"Baler Chak",
+    "gn:country_code":"BD",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1211390,
+    "gn:latitude":23.61977,
+    "gn:longitude":90.5646,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Baler Chak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421197045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1211390
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"34e8c20d0933f8ba5dda7bde7a283521",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421197045,
+            "locality_id":1276482307,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1276482307,
+    "wof:lastmodified":1537073133,
+    "wof:name":"Baler Chak",
+    "wof:parent_id":421197045,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.5646,
+    23.61977000000001,
+    90.5646,
+    23.61977000000001
+],
+  "geometry": {"coordinates":[90.5646,23.61977000000001],"type":"Point"}
+}

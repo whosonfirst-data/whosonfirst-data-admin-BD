@@ -1,0 +1,70 @@
+{
+  "id": 1343494525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.61153,23.67174,89.61153,23.67174",
+    "geom:latitude":23.67174,
+    "geom:longitude":89.61153,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3082",
+    "gn:admin3_code":"308207.0",
+    "gn:admin4_code":"30820709.0",
+    "gn:asciiname":"Ikarjana",
+    "gn:country_code":"BD",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1200801,
+    "gn:latitude":23.67174,
+    "gn:longitude":89.61153,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Ikarj\u0101na",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        1108694699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1200801
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"0a0899fea6f37baa3700bbdcbca185b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694699,
+            "locality_id":1343494525,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1343494525,
+    "wof:lastmodified":1536697265,
+    "wof:name":"Ikarjana",
+    "wof:parent_id":1108694699,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.61153,
+    23.67174,
+    89.61153,
+    23.67174
+],
+  "geometry": {"coordinates":[89.61153,23.67174],"type":"Point"}
+}

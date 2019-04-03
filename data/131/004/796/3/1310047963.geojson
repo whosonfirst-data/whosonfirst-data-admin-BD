@@ -1,0 +1,76 @@
+{
+  "id": 1310047963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"92.17791,21.42807,92.17791,21.42807",
+    "geom:latitude":21.42807,
+    "geom:longitude":92.17791,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2003",
+    "gn:admin3_code":"200373.0",
+    "gn:admin4_code":"20037376.0",
+    "gn:asciiname":"Nakhyaungcharipara",
+    "gn:country_code":"BD",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1185157,
+    "gn:latitude":21.42807,
+    "gn:longitude":92.17791,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Nakhyaungchar\u012bp\u0101ra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Nakhyaungchar\u012bp\u0101ra"
+    ],
+    "name:und_x_variant":[
+        "Nakhyongchhari"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421169477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1185157
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"472a5c8edfefb539c83d780fbcf8bbc9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421169477,
+            "locality_id":1310047963,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1310047963,
+    "wof:lastmodified":1537585689,
+    "wof:name":"Nakhyaungcharipara",
+    "wof:parent_id":421169477,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    92.17791,
+    21.42807,
+    92.17791,
+    21.42807
+],
+  "geometry": {"coordinates":[92.17791,21.42807],"type":"Point"}
+}

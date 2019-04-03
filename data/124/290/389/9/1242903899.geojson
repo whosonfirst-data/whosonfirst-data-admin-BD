@@ -1,0 +1,73 @@
+{
+  "id": 1242903899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.06152,25.88593,89.06152,25.88593",
+    "geom:latitude":25.88593,
+    "geom:longitude":89.06152,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5573",
+    "gn:admin3_code":"557345.0",
+    "gn:admin4_code":"55734543.0",
+    "gn:asciiname":"Arazi Chandkhana",
+    "gn:country_code":"BD",
+    "gn:dem":41,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7924066,
+    "gn:latitude":25.88593,
+    "gn:longitude":89.06152,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Ar\u0101zi Ch\u0101ndkh\u0101na",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Ar\u0101zi Ch\u0101ndkh\u0101na"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7924066
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"036685437a7a7f7bc5600fb6ba988933",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694695,
+            "locality_id":1242903899,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1242903899,
+    "wof:lastmodified":1537586816,
+    "wof:name":"Arazi Chandkhana",
+    "wof:parent_id":1108694695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.06152,
+    25.88593,
+    89.06152,
+    25.88593
+],
+  "geometry": {"coordinates":[89.06152,25.88593],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1310238347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.39778,26.29461,88.39778,26.29461",
+    "geom:latitude":26.29461,
+    "geom:longitude":88.39778,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5577.0",
+    "gn:admin3_code":"557704.0",
+    "gn:admin4_code":"55770440.0",
+    "gn:asciiname":"Sajnapara",
+    "gn:country_code":"BD",
+    "gn:dem":75,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7486902,
+    "gn:latitude":26.29461,
+    "gn:longitude":88.39778,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Sajn\u0101p\u0101ra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Sajn\u0101p\u0101ra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7486902
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"a94d6857d148028a29db2eaa969527f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694697,
+            "locality_id":1310238347,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1310238347,
+    "wof:lastmodified":1537586624,
+    "wof:name":"Sajnapara",
+    "wof:parent_id":1108694697,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.39778000000003,
+    26.29461,
+    88.39778000000003,
+    26.29461
+],
+  "geometry": {"coordinates":[88.39778000000003,26.29461],"type":"Point"}
+}

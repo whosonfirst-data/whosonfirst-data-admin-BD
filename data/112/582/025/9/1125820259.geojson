@@ -1,0 +1,81 @@
+{
+  "id": 1125820259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.51092,23.02475,91.51092,23.02475",
+    "geom:latitude":23.02475,
+    "geom:longitude":91.51092,
+    "gn:gn_country":"BD",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":39335,
+    "gn:population":39335,
+    "iso:country":"BD",
+    "lbl:latitude":23.02475,
+    "lbl:longitude":91.51092,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "West Chhagal Naiya"
+    ],
+    "qs_pg:aaroncc":"BD",
+    "qs_pg:gn_country":"BD",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":1185249,
+    "qs_pg:gn_pop":39335,
+    "qs_pg:name":"Chh\u0101galn\u0101iya",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":7,
+    "qs_pg:qs_id":130911,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421181771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1185249,
+        "qs_pg:id":130911
+    },
+    "wof:country":"BD",
+    "wof:created":1497292013,
+    "wof:geomhash":"efa42d595572782c307fcdc4ff9e6b8f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421181771,
+            "locality_id":1125820259,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1125820259,
+    "wof:lastmodified":1509394047,
+    "wof:name":"Chh\u0101galn\u0101iya",
+    "wof:parent_id":421181771,
+    "wof:placetype":"locality",
+    "wof:population":39335,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.51092,
+    23.02475,
+    91.51092,
+    23.02475
+],
+  "geometry": {"coordinates":[91.51092,23.02475],"type":"Point"}
+}

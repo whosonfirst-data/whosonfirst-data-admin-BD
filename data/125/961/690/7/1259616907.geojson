@@ -1,0 +1,74 @@
+{
+  "id": 1259616907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.00816,23.15217,90.00816,23.15217",
+    "geom:latitude":23.15217,
+    "geom:longitude":90.00816,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3054",
+    "gn:admin3_code":"305480.0",
+    "gn:admin4_code":"30548095.0",
+    "gn:asciiname":"Ikarbari Dighirpar",
+    "gn:country_code":"BD",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1200808,
+    "gn:latitude":23.15217,
+    "gn:longitude":90.00816,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Ikarb\u0101ri D\u012bghirp\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ikarbari Digirpar",
+        "Ikarb\u0101ri D\u012bghirp\u0101r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421183929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1200808
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"80a773e708403768d3743bef8e7e4748",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421183929,
+            "locality_id":1259616907,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1259616907,
+    "wof:lastmodified":1537585986,
+    "wof:name":"Ikarbari Dighirpar",
+    "wof:parent_id":421183929,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.00816,
+    23.15217,
+    90.00816,
+    23.15217
+],
+  "geometry": {"coordinates":[90.00816,23.15217],"type":"Point"}
+}

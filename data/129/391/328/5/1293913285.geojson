@@ -1,0 +1,74 @@
+{
+  "id": 1293913285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.624,24.28025,90.624,24.28025",
+    "geom:latitude":24.28025,
+    "geom:longitude":90.624,
+    "gn:admin1_code":"H",
+    "gn:admin2_code":"3061.0",
+    "gn:admin3_code":"306122.0",
+    "gn:admin4_code":"30612288.0",
+    "gn:asciiname":"Daoadai",
+    "gn:country_code":"BD",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1205184,
+    "gn:latitude":24.28025,
+    "gn:longitude":90.624,
+    "gn:modification_date":"2016-11-17",
+    "gn:name":"D\u0101o\u0101dai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "D\u0101o\u0101dai",
+        "D\u0101o\u0101d\u0101ir"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        1108803101,
+        421185469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1205184
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"3c4e7924ba2665acaebe707192360617",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421185469,
+            "locality_id":1293913285,
+            "region_id":1108803101
+        }
+    ],
+    "wof:id":1293913285,
+    "wof:lastmodified":1537586068,
+    "wof:name":"Daoadai",
+    "wof:parent_id":421185469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.624,
+    24.28025,
+    90.624,
+    24.28025
+],
+  "geometry": {"coordinates":[90.624,24.28025],"type":"Point"}
+}

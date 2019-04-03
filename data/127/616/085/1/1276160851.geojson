@@ -1,0 +1,76 @@
+{
+  "id": 1276160851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.27341,22.26531,89.27341,22.26531",
+    "geom:latitude":22.26531,
+    "geom:longitude":89.27341,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4087",
+    "gn:admin3_code":"408786.0",
+    "gn:admin4_code":"40878631.0",
+    "gn:asciiname":"Khalishabunia",
+    "gn:country_code":"BD",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1197717,
+    "gn:latitude":22.26531,
+    "gn:longitude":89.27341,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Khalish\u0101bunia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Khalish\u0101bunia"
+    ],
+    "name:ben_x_variant":[
+        "Khalis\u0101bunia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        421201927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1197717
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"2dea063d994da56f0b8dd5b3f1aabef3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421201927,
+            "locality_id":1276160851,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1276160851,
+    "wof:lastmodified":1537585931,
+    "wof:name":"Khalishabunia",
+    "wof:parent_id":421201927,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.27341,
+    22.26531,
+    89.27341,
+    22.26531
+],
+  "geometry": {"coordinates":[89.27341,22.26531],"type":"Point"}
+}

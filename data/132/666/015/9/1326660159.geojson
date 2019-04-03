@@ -1,0 +1,73 @@
+{
+  "id": 1326660159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.65283,26.01329,89.65283,26.01329",
+    "geom:latitude":26.01329,
+    "geom:longitude":89.65283,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5549",
+    "gn:admin3_code":"554961.0",
+    "gn:admin4_code":"55496194.0",
+    "gn:asciiname":"Naodanga Kuthi",
+    "gn:country_code":"BD",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8038791,
+    "gn:latitude":26.01329,
+    "gn:longitude":89.65283,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Naodanga Kuthi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Naodanga Kuthi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8038791
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"dde43c9db52aa3698f594bb135ac2825",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694685,
+            "locality_id":1326660159,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1326660159,
+    "wof:lastmodified":1537586833,
+    "wof:name":"Naodanga Kuthi",
+    "wof:parent_id":1108694685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.65283000000002,
+    26.01329,
+    89.65283000000002,
+    26.01329
+],
+  "geometry": {"coordinates":[89.65283000000002,26.01329],"type":"Point"}
+}

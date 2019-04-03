@@ -1,0 +1,70 @@
+{
+  "id": 1344089905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.88997,24.29803,90.88997,24.29803",
+    "geom:latitude":24.29803,
+    "geom:longitude":90.88997,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3048.0",
+    "gn:admin3_code":"304845.0",
+    "gn:admin4_code":"30484547.0",
+    "gn:asciiname":"Bhuna",
+    "gn:country_code":"BD",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1208772,
+    "gn:latitude":24.29803,
+    "gn:longitude":90.88997,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Bhuna",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421170483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1208772
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"dd4954dddd2d8e06200620748851c728",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421170483,
+            "locality_id":1344089905,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1344089905,
+    "wof:lastmodified":1536832205,
+    "wof:name":"Bhuna",
+    "wof:parent_id":421170483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.88997,
+    24.29803,
+    90.88997,
+    24.29803
+],
+  "geometry": {"coordinates":[90.88997000000001,24.29803],"type":"Point"}
+}

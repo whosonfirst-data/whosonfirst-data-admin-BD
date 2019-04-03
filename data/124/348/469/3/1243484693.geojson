@@ -1,0 +1,70 @@
+{
+  "id": 1243484693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.29057,23.58407,89.29057,23.58407",
+    "geom:latitude":23.58407,
+    "geom:longitude":89.29057,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4044",
+    "gn:admin3_code":"404419.0",
+    "gn:admin4_code":"40441931.0",
+    "gn:asciiname":"Huda Bakri",
+    "gn:country_code":"BD",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1200955,
+    "gn:latitude":23.58407,
+    "gn:longitude":89.29057,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Huda B\u0101kri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        1108694679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1200955
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"a255a1848f85d6f254c29d470cbe3062",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694679,
+            "locality_id":1243484693,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1243484693,
+    "wof:lastmodified":1536750368,
+    "wof:name":"Huda Bakri",
+    "wof:parent_id":1108694679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.29057,
+    23.58407,
+    89.29057,
+    23.58407
+],
+  "geometry": {"coordinates":[89.29057,23.58407],"type":"Point"}
+}

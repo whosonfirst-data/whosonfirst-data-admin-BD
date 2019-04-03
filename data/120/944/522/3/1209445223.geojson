@@ -1,0 +1,70 @@
+{
+  "id": 1209445223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.16325,23.21218,89.16325,23.21218",
+    "geom:latitude":23.21218,
+    "geom:longitude":89.16325,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4041.0",
+    "gn:admin3_code":"404147.0",
+    "gn:admin4_code":"40414729.0",
+    "gn:asciiname":"Chhatrahtala",
+    "gn:country_code":"BD",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1206187,
+    "gn:latitude":23.21218,
+    "gn:longitude":89.16325,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Chhatrahtala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Chhatrahtala"
+    ],
+    "name:ben_x_variant":[
+        "Chh\u0101ti\u0101ntala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1206187
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"17a14c81c1fa752ae86ed79f978e12f4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209445223
+        }
+    ],
+    "wof:id":1209445223,
+    "wof:lastmodified":1537586088,
+    "wof:name":"Chhatrahtala",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.16325,
+    23.21218,
+    89.16325,
+    23.21218
+],
+  "geometry": {"coordinates":[89.16325000000001,23.21218],"type":"Point"}
+}

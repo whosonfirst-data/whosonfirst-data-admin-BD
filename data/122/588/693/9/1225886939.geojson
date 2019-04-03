@@ -1,0 +1,73 @@
+{
+  "id": 1225886939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.9758,21.78049,91.9758,21.78049",
+    "geom:latitude":21.78049,
+    "geom:longitude":91.9758,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2022.0",
+    "gn:admin3_code":"202216.0",
+    "gn:admin4_code":"20221622.0",
+    "gn:asciiname":"Latabunia",
+    "gn:country_code":"BD",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6415691,
+    "gn:latitude":21.78049,
+    "gn:longitude":91.9758,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Lat\u0101bunia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Lat\u0101bunia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421205057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6415691
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"526089ec7c9f1ca6de09c2ea7f277339",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421205057,
+            "locality_id":1225886939,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1225886939,
+    "wof:lastmodified":1537586250,
+    "wof:name":"Latabunia",
+    "wof:parent_id":421205057,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.9758,
+    21.78049,
+    91.9758,
+    21.78049
+],
+  "geometry": {"coordinates":[91.97580000000001,21.78049],"type":"Point"}
+}

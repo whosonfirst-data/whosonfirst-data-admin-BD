@@ -1,0 +1,74 @@
+{
+  "id": 1310242273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.48077,23.48521,90.48077,23.48521",
+    "geom:latitude":23.48521,
+    "geom:longitude":90.48077,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3059",
+    "gn:admin3_code":"305994.0",
+    "gn:admin4_code":"30599479.0",
+    "gn:asciiname":"Kathadia Simulia",
+    "gn:country_code":"BD",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1198174,
+    "gn:latitude":23.48521,
+    "gn:longitude":90.48077,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"K\u0101th\u0101dia Simulia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "K\u0101th\u0101dia",
+        "K\u0101th\u0101dia Simulia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421205059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1198174
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"4cd786a5420a38376916fdf4a0194dee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421205059,
+            "locality_id":1310242273,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1310242273,
+    "wof:lastmodified":1537585938,
+    "wof:name":"Kathadia Simulia",
+    "wof:parent_id":421205059,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.48077,
+    23.48521,
+    90.48077,
+    23.48521
+],
+  "geometry": {"coordinates":[90.48077000000001,23.48521],"type":"Point"}
+}

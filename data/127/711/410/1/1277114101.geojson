@@ -1,0 +1,73 @@
+{
+  "id": 1277114101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.69245,25.57302,88.69245,25.57302",
+    "geom:latitude":25.57302,
+    "geom:longitude":88.69245,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5527.0",
+    "gn:admin3_code":"552764.0",
+    "gn:admin4_code":"55276469.0",
+    "gn:asciiname":"Sindurail",
+    "gn:country_code":"BD",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7488471,
+    "gn:latitude":25.57302,
+    "gn:longitude":88.69245,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Sindur\u0101il",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Sindur\u0101il"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7488471
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"8f76f9b95b4492f9085e73382947b5dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694671,
+            "locality_id":1277114101,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1277114101,
+    "wof:lastmodified":1537586669,
+    "wof:name":"Sindurail",
+    "wof:parent_id":1108694671,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.69245,
+    25.57302,
+    88.69245,
+    25.57302
+],
+  "geometry": {"coordinates":[88.69244999999999,25.57302],"type":"Point"}
+}

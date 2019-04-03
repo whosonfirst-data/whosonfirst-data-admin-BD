@@ -1,0 +1,74 @@
+{
+  "id": 1327372023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.77402,23.35481,90.77402,23.35481",
+    "geom:latitude":23.35481,
+    "geom:longitude":90.77402,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2013.0",
+    "gn:admin3_code":"201376.0",
+    "gn:admin4_code":"20137643.0",
+    "gn:asciiname":"Baroigaon",
+    "gn:country_code":"BD",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1210096,
+    "gn:latitude":23.35481,
+    "gn:longitude":90.77402,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"B\u0101roigaon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Baroingaon",
+        "B\u0101roigaon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        1108694669
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1210096
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"15bd11f82199eb77912a202c54752d77",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694669,
+            "locality_id":1327372023,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1327372023,
+    "wof:lastmodified":1537586156,
+    "wof:name":"Baroigaon",
+    "wof:parent_id":1108694669,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.77402,
+    23.35481,
+    90.77402,
+    23.35481
+],
+  "geometry": {"coordinates":[90.77401999999999,23.35481],"type":"Point"}
+}

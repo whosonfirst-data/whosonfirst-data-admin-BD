@@ -1,0 +1,70 @@
+{
+  "id": 1293325899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.4723,23.83619,90.4723,23.83619",
+    "geom:latitude":23.83619,
+    "geom:longitude":90.4723,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3026",
+    "gn:admin3_code":"302640.0",
+    "gn:admin4_code":"30264004.0",
+    "gn:asciiname":"Mastul",
+    "gn:country_code":"BD",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1194693,
+    "gn:latitude":23.83619,
+    "gn:longitude":90.4723,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Mastul",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421187803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1194693
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"e05431336f3b8fbedd48c5b556f909ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421187803,
+            "locality_id":1293325899,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1293325899,
+    "wof:lastmodified":1537019230,
+    "wof:name":"Mastul",
+    "wof:parent_id":421187803,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.4723,
+    23.83619,
+    90.4723,
+    23.83619
+],
+  "geometry": {"coordinates":[90.4723,23.83619],"type":"Point"}
+}

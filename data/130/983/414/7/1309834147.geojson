@@ -1,0 +1,73 @@
+{
+  "id": 1309834147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.22038,22.44052,89.22038,22.44052",
+    "geom:latitude":22.44052,
+    "geom:longitude":89.22038,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4087.0",
+    "gn:admin3_code":"408704.0",
+    "gn:admin4_code":"40870408.0",
+    "gn:asciiname":"Kholar Danga",
+    "gn:country_code":"BD",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7485898,
+    "gn:latitude":22.44052,
+    "gn:longitude":89.22038,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Khol\u0101r D\u0101nga",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Khol\u0101r D\u0101nga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        421201927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7485898
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"8e98c551dc8be3881f888ce6addb0a9e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421201927,
+            "locality_id":1309834147,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1309834147,
+    "wof:lastmodified":1537586603,
+    "wof:name":"Kholar Danga",
+    "wof:parent_id":421201927,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.22038,
+    22.44052000000001,
+    89.22038,
+    22.44052000000001
+],
+  "geometry": {"coordinates":[89.22038000000001,22.44052000000001],"type":"Point"}
+}

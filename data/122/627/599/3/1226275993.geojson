@@ -1,0 +1,73 @@
+{
+  "id": 1226275993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.21519,23.682,89.21519,23.682",
+    "geom:latitude":23.682,
+    "geom:longitude":89.21519,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4044.0",
+    "gn:admin3_code":"404480.0",
+    "gn:admin4_code":"40448025.0",
+    "gn:asciiname":"Achintyapur",
+    "gn:country_code":"BD",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7479027,
+    "gn:latitude":23.682,
+    "gn:longitude":89.21519,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Achintyapur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Achintyapur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        1108694679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7479027
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"ce901b4e5967d654a9676b52267b9a84",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694679,
+            "locality_id":1226275993,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1226275993,
+    "wof:lastmodified":1537586407,
+    "wof:name":"Achintyapur",
+    "wof:parent_id":1108694679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.21519,
+    23.682,
+    89.21519,
+    23.682
+],
+  "geometry": {"coordinates":[89.21519000000001,23.682],"type":"Point"}
+}

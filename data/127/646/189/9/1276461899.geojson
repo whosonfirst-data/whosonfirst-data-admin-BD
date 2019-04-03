@@ -1,0 +1,72 @@
+{
+  "id": 1276461899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.61667,23.11667,90.61667,23.11667",
+    "geom:latitude":23.11667,
+    "geom:longitude":90.61667,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Gazipur Manipur",
+    "gn:cc2":"BD",
+    "gn:country_code":"BD",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1202714,
+    "gn:latitude":23.11667,
+    "gn:longitude":90.61667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"G\u0101z\u012bpur Manipur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gazipur Monipur",
+        "G\u0101z\u012bpur Manipur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        1108694669
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1202714
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"a148b848fb7ecb3ccde897ddd8922e13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694669,
+            "locality_id":1276461899,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1276461899,
+    "wof:lastmodified":1537586021,
+    "wof:name":"Gazipur Manipur",
+    "wof:parent_id":1108694669,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.61667,
+    23.11667000000001,
+    90.61667,
+    23.11667000000001
+],
+  "geometry": {"coordinates":[90.61667,23.11667000000001],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1360117991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.44984,25.16492,89.44984,25.16492",
+    "geom:latitude":25.16492,
+    "geom:longitude":89.44984,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5532",
+    "gn:admin3_code":"553230.0",
+    "gn:admin4_code":"55323067.0",
+    "gn:asciiname":"Rakhal buruj",
+    "gn:country_code":"BD",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1190212,
+    "gn:latitude":25.16492,
+    "gn:longitude":89.44984,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"R\u0101kh\u0101l buruj",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rakhalburuj",
+        "R\u0101kh\u0101l Buruz",
+        "R\u0101kh\u0101l buruj"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1190212
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"1de0ff7c354f9746855b6aa3345dc1fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694675,
+            "locality_id":1360117991,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1360117991,
+    "wof:lastmodified":1537585793,
+    "wof:name":"Rakhal buruj",
+    "wof:parent_id":1108694675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.44984000000002,
+    25.16492,
+    89.44984000000002,
+    25.16492
+],
+  "geometry": {"coordinates":[89.44984000000002,25.16492],"type":"Point"}
+}

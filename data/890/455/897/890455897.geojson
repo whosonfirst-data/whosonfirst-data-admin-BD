@@ -1,0 +1,76 @@
+{
+  "id": 890455897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-09-21",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.43333,23.43333,89.43333,23.43333",
+    "geom:latitude":23.43333,
+    "geom:longitude":89.43333,
+    "gn:country":"BD",
+    "gn:fcode":"ADM2",
+    "gn:pop":878815,
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Magura District"
+    ],
+    "name:eng_x_variant":[
+        "Magura"
+    ],
+    "name:unk_x_variant":[
+        "Magura Zila"
+    ],
+    "qs:name":"M\u0101gura District",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"11",
+    "src:population":"geonames",
+    "wd:wordcount":131,
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1337206,
+        "qs:id":555791,
+        "wd:id":"Q3348603",
+        "wk:page":"Shalikha Upazila"
+    },
+    "wof:country":"BD",
+    "wof:created":1469052979,
+    "wof:geomhash":"345e8b4ef1a732101962318b5221ed00",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":890455897,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":890455897,
+    "wof:lastmodified":1527735398,
+    "wof:name":"M\u0101gura District",
+    "wof:parent_id":85669015,
+    "wof:placetype":"county",
+    "wof:population":878815,
+    "wof:population_rank":11,
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.43333,
+    23.43333,
+    89.43333,
+    23.43333
+],
+  "geometry": {"coordinates":[89.43333,23.43333],"type":"Point"}
+}

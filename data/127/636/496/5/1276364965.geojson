@@ -1,0 +1,74 @@
+{
+  "id": 1276364965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.06946,23.72246,90.06946,23.72246",
+    "geom:latitude":23.72246,
+    "geom:longitude":90.06946,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3026",
+    "gn:admin3_code":"302662.0",
+    "gn:admin4_code":"30266288.0",
+    "gn:asciiname":"Shekhar Nagar",
+    "gn:country_code":"BD",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1188151,
+    "gn:latitude":23.72246,
+    "gn:longitude":90.06946,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Shekhar Nagar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sekharnagar",
+        "Shekhar Nagar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421187803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1188151
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"741eedec18c9f141619455ee91aa7ce1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421187803,
+            "locality_id":1276364965,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1276364965,
+    "wof:lastmodified":1537585754,
+    "wof:name":"Shekhar Nagar",
+    "wof:parent_id":421187803,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.06945999999998,
+    23.72246,
+    90.06945999999998,
+    23.72246
+],
+  "geometry": {"coordinates":[90.06945999999998,23.72246],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1360315289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.66513,25.59112,89.66513,25.59112",
+    "geom:latitude":25.59112,
+    "geom:longitude":89.66513,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5549",
+    "gn:admin3_code":"554909.0",
+    "gn:admin4_code":"55490983.0",
+    "gn:asciiname":"Thana",
+    "gn:country_code":"BD",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1186153,
+    "gn:latitude":25.59112,
+    "gn:longitude":89.66513,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Th\u0101na",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Th\u0101na"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1186153
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"02eaf242e2f48680f1aca72e6fbdb733",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694685,
+            "locality_id":1360315289,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1360315289,
+    "wof:lastmodified":1537585714,
+    "wof:name":"Thana",
+    "wof:parent_id":1108694685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.66513,
+    25.59112,
+    89.66513,
+    25.59112
+],
+  "geometry": {"coordinates":[89.66513,25.59112],"type":"Point"}
+}

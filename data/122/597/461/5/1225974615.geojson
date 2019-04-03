@@ -1,0 +1,70 @@
+{
+  "id": 1225974615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.92016,24.67445,90.92016,24.67445",
+    "geom:latitude":24.67445,
+    "geom:longitude":90.92016,
+    "gn:admin1_code":"H",
+    "gn:admin2_code":"3072.0",
+    "gn:admin3_code":"307256.0",
+    "gn:admin4_code":"30725673.0",
+    "gn:asciiname":"Barati",
+    "gn:country_code":"BD",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1210218,
+    "gn:latitude":24.67445,
+    "gn:longitude":90.92016,
+    "gn:modification_date":"2016-11-17",
+    "gn:name":"Bar\u0101ti",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        1108803101,
+        421200811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1210218
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"2d9963870a93aae6208e0cd5a2b13cf5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421200811,
+            "locality_id":1225974615,
+            "region_id":1108803101
+        }
+    ],
+    "wof:id":1225974615,
+    "wof:lastmodified":1536826888,
+    "wof:name":"Barati",
+    "wof:parent_id":421200811,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.92016,
+    24.67445,
+    90.92016,
+    24.67445
+],
+  "geometry": {"coordinates":[90.92016,24.67445],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1310238257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.7068,23.67041,89.7068,23.67041",
+    "geom:latitude":23.67041,
+    "geom:longitude":89.7068,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3082",
+    "gn:admin3_code":"308276.0",
+    "gn:admin4_code":"30827687.0",
+    "gn:asciiname":"Nimtala",
+    "gn:country_code":"BD",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1192794,
+    "gn:latitude":23.67041,
+    "gn:longitude":89.7068,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Nimtala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        1108694699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1192794
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"11c29a6aeaf653f4254cfc322e0ff3b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694699,
+            "locality_id":1310238257,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1310238257,
+    "wof:lastmodified":1536804839,
+    "wof:name":"Nimtala",
+    "wof:parent_id":1108694699,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.7068,
+    23.67041,
+    89.7068,
+    23.67041
+],
+  "geometry": {"coordinates":[89.7068,23.67041],"type":"Point"}
+}

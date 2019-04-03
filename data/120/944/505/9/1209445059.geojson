@@ -1,0 +1,67 @@
+{
+  "id": 1209445059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.00057,25.30904,89.00057,25.30904",
+    "geom:latitude":25.30904,
+    "geom:longitude":89.00057,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5527",
+    "gn:admin3_code":"552747.0",
+    "gn:admin4_code":"55274781.0",
+    "gn:asciiname":"Barachara",
+    "gn:country_code":"BD",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8065030,
+    "gn:latitude":25.30904,
+    "gn:longitude":89.00057,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Barachara",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Barachara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8065030
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"349a9cd02abe202fc191bde3c101a10d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209445059
+        }
+    ],
+    "wof:id":1209445059,
+    "wof:lastmodified":1537586858,
+    "wof:name":"Barachara",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.00057,
+    25.30904,
+    89.00057,
+    25.30904
+],
+  "geometry": {"coordinates":[89.00057,25.30904],"type":"Point"}
+}

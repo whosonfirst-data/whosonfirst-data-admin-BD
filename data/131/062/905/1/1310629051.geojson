@@ -1,0 +1,73 @@
+{
+  "id": 1310629051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.11874,23.53556,89.11874,23.53556",
+    "geom:latitude":23.53556,
+    "geom:longitude":89.11874,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4044.0",
+    "gn:admin3_code":"404419.0",
+    "gn:admin4_code":"40441947.0",
+    "gn:asciiname":"Goalbarti",
+    "gn:country_code":"BD",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7478891,
+    "gn:latitude":23.53556,
+    "gn:longitude":89.11874,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Goalb\u0101rti",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Goalb\u0101rti"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        1108694679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7478891
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"c206ed6ac6349c3d28fe31d66c8ccd89",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694679,
+            "locality_id":1310629051,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1310629051,
+    "wof:lastmodified":1537586403,
+    "wof:name":"Goalbarti",
+    "wof:parent_id":1108694679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.11874,
+    23.53556,
+    89.11874,
+    23.53556
+],
+  "geometry": {"coordinates":[89.11874,23.53556],"type":"Point"}
+}

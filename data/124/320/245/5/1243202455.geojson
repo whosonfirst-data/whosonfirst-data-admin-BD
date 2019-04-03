@@ -1,0 +1,73 @@
+{
+  "id": 1243202455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.41705,23.15436,89.41705,23.15436",
+    "geom:latitude":23.15436,
+    "geom:longitude":89.41705,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4065.0",
+    "gn:admin3_code":"406576.0",
+    "gn:admin4_code":"40657694.0",
+    "gn:asciiname":"Benahati",
+    "gn:country_code":"BD",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7479924,
+    "gn:latitude":23.15436,
+    "gn:longitude":89.41705,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Ben\u0101h\u0101ti",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Ben\u0101h\u0101ti"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        421205213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7479924
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"62e7c0803a657470d62254b967b9ee8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421205213,
+            "locality_id":1243202455,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1243202455,
+    "wof:lastmodified":1537586434,
+    "wof:name":"Benahati",
+    "wof:parent_id":421205213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.41705,
+    23.15436,
+    89.41705,
+    23.15436
+],
+  "geometry": {"coordinates":[89.41705,23.15436],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1293230667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.89558,23.29913,89.89558,23.29913",
+    "geom:latitude":23.29913,
+    "geom:longitude":89.89558,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3035",
+    "gn:admin3_code":"303558.0",
+    "gn:admin4_code":"30355805.0",
+    "gn:asciiname":"Salia",
+    "gn:country_code":"BD",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1188981,
+    "gn:latitude":23.29913,
+    "gn:longitude":89.89558,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Salia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421194867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1188981
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"e83c2780d51d04764d0d74402803553d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421194867,
+            "locality_id":1293230667,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1293230667,
+    "wof:lastmodified":1536660494,
+    "wof:name":"Salia",
+    "wof:parent_id":421194867,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.89558000000002,
+    23.29913,
+    89.89558000000002,
+    23.29913
+],
+  "geometry": {"coordinates":[89.89558000000002,23.29913],"type":"Point"}
+}

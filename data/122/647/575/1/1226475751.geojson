@@ -1,0 +1,75 @@
+{
+  "id": 1226475751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.67729,24.746,90.67729,24.746",
+    "geom:latitude":24.746,
+    "geom:longitude":90.67729,
+    "gn:admin1_code":"H",
+    "gn:admin2_code":"3061.0",
+    "gn:admin3_code":"306123.0",
+    "gn:admin4_code":"30612381.0",
+    "gn:asciiname":"Bir Ahmadpur",
+    "gn:country_code":"BD",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1208428,
+    "gn:latitude":24.746,
+    "gn:longitude":90.67729,
+    "gn:modification_date":"2016-11-17",
+    "gn:name":"Bir Ahmadpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bir \u0100h\u0101mmadpur",
+        "Bir Ahmmadpur",
+        "Bir Ahmadpur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        1108803101,
+        421185469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1208428
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"cfdcc619c6f7c5ad47f8751fa1f24e03",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421185469,
+            "locality_id":1226475751,
+            "region_id":1108803101
+        }
+    ],
+    "wof:id":1226475751,
+    "wof:lastmodified":1537586129,
+    "wof:name":"Bir Ahmadpur",
+    "wof:parent_id":421185469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.67729,
+    24.746,
+    90.67729,
+    24.746
+],
+  "geometry": {"coordinates":[90.67729,24.746],"type":"Point"}
+}

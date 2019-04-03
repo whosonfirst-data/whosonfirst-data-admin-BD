@@ -1,0 +1,73 @@
+{
+  "id": 1343791759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.15508,26.07523,89.15508,26.07523",
+    "geom:latitude":26.07523,
+    "geom:longitude":89.15508,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5552",
+    "gn:admin3_code":"555233.0",
+    "gn:admin4_code":"55523328.0",
+    "gn:asciiname":"Prannath Patikapara",
+    "gn:country_code":"BD",
+    "gn:dem":50,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8207251,
+    "gn:latitude":26.07523,
+    "gn:longitude":89.15508,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Prannath Patikapara",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Prannath Patikapara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8207251
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"4c25ee6bc0b56f4278022d0230ca3ae0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694687,
+            "locality_id":1343791759,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1343791759,
+    "wof:lastmodified":1537586862,
+    "wof:name":"Prannath Patikapara",
+    "wof:parent_id":1108694687,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.15508,
+    26.07523,
+    89.15508,
+    26.07523
+],
+  "geometry": {"coordinates":[89.15508,26.07523],"type":"Point"}
+}

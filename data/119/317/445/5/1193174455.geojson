@@ -1,0 +1,73 @@
+{
+  "id": 1193174455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.29216,26.03561,89.29216,26.03561",
+    "geom:latitude":26.03561,
+    "geom:longitude":89.29216,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5552",
+    "gn:admin3_code":"555239.0",
+    "gn:admin4_code":"55523929.0",
+    "gn:asciiname":"Botla",
+    "gn:country_code":"BD",
+    "gn:dem":44,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8207413,
+    "gn:latitude":26.03561,
+    "gn:longitude":89.29216,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Botla",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Botla"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8207413
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"08c0b1ff2b1c0ab3b4406fd54c06f363",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694687,
+            "locality_id":1193174455,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1193174455,
+    "wof:lastmodified":1537586863,
+    "wof:name":"Botla",
+    "wof:parent_id":1108694687,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.29216,
+    26.03561,
+    89.29216,
+    26.03561
+],
+  "geometry": {"coordinates":[89.29216,26.03561],"type":"Point"}
+}

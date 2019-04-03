@@ -1,0 +1,70 @@
+{
+  "id": 1276365245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.30392,23.21314,90.30392,23.21314",
+    "geom:latitude":23.21314,
+    "geom:longitude":90.30392,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3086.0",
+    "gn:admin3_code":"308669.0",
+    "gn:admin4_code":"30866995.0",
+    "gn:asciiname":"Darihaola",
+    "gn:country_code":"BD",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1205077,
+    "gn:latitude":23.21314,
+    "gn:longitude":90.30392,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Darih\u0101ola",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421188359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1205077
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"5bee043c9bdaae3a5160dcaaf228a9a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421188359,
+            "locality_id":1276365245,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1276365245,
+    "wof:lastmodified":1536735965,
+    "wof:name":"Darihaola",
+    "wof:parent_id":421188359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.30392,
+    23.21314,
+    90.30392,
+    23.21314
+],
+  "geometry": {"coordinates":[90.30392000000001,23.21314],"type":"Point"}
+}

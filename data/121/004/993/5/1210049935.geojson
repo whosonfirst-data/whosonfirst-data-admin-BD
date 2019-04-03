@@ -1,0 +1,73 @@
+{
+  "id": 1210049935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.57582,21.92435,90.57582,21.92435",
+    "geom:latitude":21.92435,
+    "geom:longitude":90.57582,
+    "gn:admin1_code":"85",
+    "gn:admin2_code":"1078",
+    "gn:admin3_code":"107897.0",
+    "gn:admin4_code":"10789783.0",
+    "gn:asciiname":"Char Margaret",
+    "gn:country_code":"BD",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1194818,
+    "gn:latitude":21.92435,
+    "gn:longitude":90.57582,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Char M\u0101rg\u0101ret",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Char M\u0101rg\u0101ret"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669019,
+        421169845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1194818
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"1ea5e788ba0c4d55be42b453fc1594b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421169845,
+            "locality_id":1210049935,
+            "region_id":85669019
+        }
+    ],
+    "wof:id":1210049935,
+    "wof:lastmodified":1537585875,
+    "wof:name":"Char Margaret",
+    "wof:parent_id":421169845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.57582,
+    21.92435,
+    90.57582,
+    21.92435
+],
+  "geometry": {"coordinates":[90.57581999999999,21.92435],"type":"Point"}
+}

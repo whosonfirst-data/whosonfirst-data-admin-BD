@@ -1,0 +1,70 @@
+{
+  "id": 1277110253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.25232,23.2175,90.25232,23.2175",
+    "geom:latitude":23.2175,
+    "geom:longitude":90.25232,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3086.0",
+    "gn:admin3_code":"308669.0",
+    "gn:admin4_code":"30866919.0",
+    "gn:asciiname":"Aoliapur",
+    "gn:country_code":"BD",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1212642,
+    "gn:latitude":23.2175,
+    "gn:longitude":90.25232,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"\u0100oli\u0101pur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421183929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1212642
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"5b1243fcfdafd48d54161092f864ba76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421183929,
+            "locality_id":1277110253,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1277110253,
+    "wof:lastmodified":1536728407,
+    "wof:name":"Aoliapur",
+    "wof:parent_id":421183929,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.25232,
+    23.2175,
+    90.25232,
+    23.2175
+],
+  "geometry": {"coordinates":[90.25232,23.2175],"type":"Point"}
+}

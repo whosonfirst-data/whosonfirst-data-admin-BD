@@ -1,0 +1,76 @@
+{
+  "id": 890430649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-09-21",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.5,25.25,89.5,25.25",
+    "geom:latitude":25.25,
+    "geom:longitude":89.5,
+    "gn:country":"BD",
+    "gn:fcode":"ADM2",
+    "gn:pop":2287066,
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Gazipur District"
+    ],
+    "name:eng_x_variant":[
+        "Gazipur"
+    ],
+    "name:unk_x_variant":[
+        "Gazipur Zila"
+    ],
+    "qs:name":"G\u0101zipur District",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"12",
+    "src:population":"geonames",
+    "wd:wordcount":205,
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1337175,
+        "qs:id":84995,
+        "wd:id":"Q4526629",
+        "wk:page":"Sreepur Upazila, Gazipur"
+    },
+    "wof:country":"BD",
+    "wof:created":1469051861,
+    "wof:geomhash":"990b3bab0197de0175924fc89c1718d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":890430649,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":890430649,
+    "wof:lastmodified":1527729741,
+    "wof:name":"G\u0101zipur District",
+    "wof:parent_id":85669035,
+    "wof:placetype":"county",
+    "wof:population":2287066,
+    "wof:population_rank":12,
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.5,
+    25.25,
+    89.5,
+    25.25
+],
+  "geometry": {"coordinates":[89.5,25.25],"type":"Point"}
+}

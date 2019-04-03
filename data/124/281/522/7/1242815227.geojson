@@ -1,0 +1,74 @@
+{
+  "id": 1242815227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.56145,23.25962,90.56145,23.25962",
+    "geom:latitude":23.25962,
+    "geom:longitude":90.56145,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3086.0",
+    "gn:admin3_code":"308614.0",
+    "gn:admin4_code":"30861494.0",
+    "gn:asciiname":"Char Tarabunia",
+    "gn:country_code":"BD",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1206426,
+    "gn:latitude":23.25962,
+    "gn:longitude":90.56145,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Char T\u0101r\u0101bunia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Char T\u0101r\u0101b\u0101nia",
+        "Char T\u0101r\u0101bunia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421188359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1206426
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"5ba6991b76e211df4c1788cdda436ea8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421188359,
+            "locality_id":1242815227,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1242815227,
+    "wof:lastmodified":1537586093,
+    "wof:name":"Char Tarabunia",
+    "wof:parent_id":421188359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.56145,
+    23.25962,
+    90.56145,
+    23.25962
+],
+  "geometry": {"coordinates":[90.56144999999999,23.25962],"type":"Point"}
+}

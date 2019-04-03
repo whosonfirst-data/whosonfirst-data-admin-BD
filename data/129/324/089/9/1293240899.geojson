@@ -1,0 +1,73 @@
+{
+  "id": 1293240899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.87794,22.99678,91.87794,22.99678",
+    "geom:latitude":22.99678,
+    "geom:longitude":91.87794,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2046.0",
+    "gn:admin3_code":"204670.0",
+    "gn:admin4_code":"20467035.0",
+    "gn:asciiname":"Parsuramghat",
+    "gn:country_code":"BD",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7477466,
+    "gn:latitude":22.99678,
+    "gn:longitude":91.87794,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Parsur\u0101mgh\u0101t",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Parsur\u0101mgh\u0101t"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        1108694683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7477466
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"bbfb02e7ff17a120718d5a9535fa2591",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694683,
+            "locality_id":1293240899,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1293240899,
+    "wof:lastmodified":1537586368,
+    "wof:name":"Parsuramghat",
+    "wof:parent_id":1108694683,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.87794,
+    22.99678,
+    91.87794,
+    22.99678
+],
+  "geometry": {"coordinates":[91.87794,22.99678],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209552859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.85015,24.89897,89.85015,24.89897",
+    "geom:latitude":24.89897,
+    "geom:longitude":89.85015,
+    "gn:admin1_code":"H",
+    "gn:admin2_code":"3039",
+    "gn:admin3_code":"303961.0",
+    "gn:admin4_code":"30396138.0",
+    "gn:asciiname":"Phulkocha",
+    "gn:country_code":"BD",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1191148,
+    "gn:latitude":24.89897,
+    "gn:longitude":89.85015,
+    "gn:modification_date":"2016-11-17",
+    "gn:name":"Phulkocha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1191148
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"c94910dcf984a3e3482e21f7a68530cd",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209552859
+        }
+    ],
+    "wof:id":1209552859,
+    "wof:lastmodified":1536283638,
+    "wof:name":"Phulkocha",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.85015,
+    24.89897,
+    89.85015,
+    24.89897
+],
+  "geometry": {"coordinates":[89.85015,24.89897],"type":"Point"}
+}

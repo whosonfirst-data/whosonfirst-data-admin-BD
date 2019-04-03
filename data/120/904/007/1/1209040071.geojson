@@ -1,0 +1,67 @@
+{
+  "id": 1209040071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.68544,22.33463,90.68544,22.33463",
+    "geom:latitude":22.33463,
+    "geom:longitude":90.68544,
+    "gn:admin1_code":"85",
+    "gn:admin2_code":"1009.0",
+    "gn:admin3_code":"100954.0",
+    "gn:admin4_code":"10095409.0",
+    "gn:asciiname":"Kachchhapia",
+    "gn:country_code":"BD",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7478165,
+    "gn:latitude":22.33463,
+    "gn:longitude":90.68544,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Kachchhapia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Kachchhapia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7478165
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"6b96339b932fb486467512157a2c34cb",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209040071
+        }
+    ],
+    "wof:id":1209040071,
+    "wof:lastmodified":1537586384,
+    "wof:name":"Kachchhapia",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.68544,
+    22.33463,
+    90.68544,
+    22.33463
+],
+  "geometry": {"coordinates":[90.68544,22.33463],"type":"Point"}
+}

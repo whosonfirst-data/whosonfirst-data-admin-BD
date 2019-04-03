@@ -1,0 +1,74 @@
+{
+  "id": 1259720933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.36571,23.50805,90.36571,23.50805",
+    "geom:latitude":23.50805,
+    "geom:longitude":90.36571,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3059",
+    "gn:admin3_code":"305974.0",
+    "gn:admin4_code":"30597440.0",
+    "gn:asciiname":"Shasangaon",
+    "gn:country_code":"BD",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1188168,
+    "gn:latitude":23.50805,
+    "gn:longitude":90.36571,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Sh\u0101sangaon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "S\u0101sang\u0101on",
+        "Sh\u0101sangaon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421205059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1188168
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"61e680917ebcf3f78aa7391296711000",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421205059,
+            "locality_id":1259720933,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1259720933,
+    "wof:lastmodified":1537585755,
+    "wof:name":"Shasangaon",
+    "wof:parent_id":421205059,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.36571,
+    23.50805,
+    90.36571,
+    23.50805
+],
+  "geometry": {"coordinates":[90.36571000000001,23.50805],"type":"Point"}
+}

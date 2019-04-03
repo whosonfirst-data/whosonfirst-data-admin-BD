@@ -1,0 +1,71 @@
+{
+  "id": 1242595625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.63806,23.09274,90.63806,23.09274",
+    "geom:latitude":23.09274,
+    "geom:longitude":90.63806,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Char Saladi",
+    "gn:country_code":"BD",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1206450,
+    "gn:latitude":23.09274,
+    "gn:longitude":90.63806,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Char Sal\u0101di",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Char Sal\u0101di",
+        "Char Sol\u0101di"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        1108694669
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1206450
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"139dec1a9dd4d6b7b5123dea7ad77c4d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694669,
+            "locality_id":1242595625,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1242595625,
+    "wof:lastmodified":1537586094,
+    "wof:name":"Char Saladi",
+    "wof:parent_id":1108694669,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.63806,
+    23.09274,
+    90.63806,
+    23.09274
+],
+  "geometry": {"coordinates":[90.63806,23.09274],"type":"Point"}
+}

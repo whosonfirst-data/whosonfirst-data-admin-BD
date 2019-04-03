@@ -1,0 +1,73 @@
+{
+  "id": 1276580319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.67222,25.77648,88.67222,25.77648",
+    "geom:latitude":25.77648,
+    "geom:longitude":88.67222,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5527.0",
+    "gn:admin3_code":"552756.0",
+    "gn:admin4_code":"55275679.0",
+    "gn:asciiname":"Kantafarm",
+    "gn:country_code":"BD",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7106180,
+    "gn:latitude":25.77648,
+    "gn:longitude":88.67222,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"K\u0101ntafarm",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "K\u0101ntafarm"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7106180
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"693585f05f172c0ad2a262b78092f6c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694671,
+            "locality_id":1276580319,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1276580319,
+    "wof:lastmodified":1537586324,
+    "wof:name":"Kantafarm",
+    "wof:parent_id":1108694671,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.67222,
+    25.77648,
+    88.67222,
+    25.77648
+],
+  "geometry": {"coordinates":[88.67222,25.77648],"type":"Point"}
+}

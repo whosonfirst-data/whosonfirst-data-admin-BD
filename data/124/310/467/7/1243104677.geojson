@@ -1,0 +1,70 @@
+{
+  "id": 1243104677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.9677,23.98231,89.9677,23.98231",
+    "geom:latitude":23.98231,
+    "geom:longitude":89.9677,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3056.0",
+    "gn:admin3_code":"305670.0",
+    "gn:admin4_code":"30567028.0",
+    "gn:asciiname":"Bara Paila",
+    "gn:country_code":"BD",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1210294,
+    "gn:latitude":23.98231,
+    "gn:longitude":89.9677,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Bara P\u0101ila",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421191745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1210294
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"0c85bb9a17b7820d77554a09b83c50b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421191745,
+            "locality_id":1243104677,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1243104677,
+    "wof:lastmodified":1536801059,
+    "wof:name":"Bara Paila",
+    "wof:parent_id":421191745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.9677,
+    23.98231,
+    89.9677,
+    23.98231
+],
+  "geometry": {"coordinates":[89.96769999999999,23.98231],"type":"Point"}
+}

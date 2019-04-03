@@ -1,0 +1,76 @@
+{
+  "id": 1259909917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.70348,24.74678,88.70348,24.74678",
+    "geom:latitude":24.74678,
+    "geom:longitude":88.70348,
+    "gn:admin1_code":"83",
+    "gn:admin2_code":"5064.0",
+    "gn:admin3_code":"506447.0",
+    "gn:admin4_code":"50644754.0",
+    "gn:asciiname":"Chhota Belaldaha",
+    "gn:country_code":"BD",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1206050,
+    "gn:latitude":24.74678,
+    "gn:longitude":88.70348,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Chhota Bel\u0101ld\u0101ha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Chhota Bel\u0101ld\u0101ha"
+    ],
+    "name:und_x_variant":[
+        "Chottobelaldah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669031,
+        421191663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1206050
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"97748500a7c4a6f460942e9114601e0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421191663,
+            "locality_id":1259909917,
+            "region_id":85669031
+        }
+    ],
+    "wof:id":1259909917,
+    "wof:lastmodified":1537586086,
+    "wof:name":"Chhota Belaldaha",
+    "wof:parent_id":421191663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.70348,
+    24.74678,
+    88.70348,
+    24.74678
+],
+  "geometry": {"coordinates":[88.70348,24.74678],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1310043013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.23644,26.0636,88.23644,26.0636",
+    "geom:latitude":26.0636,
+    "geom:longitude":88.23644,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5594.0",
+    "gn:admin3_code":"559408.0",
+    "gn:admin4_code":"55940831.0",
+    "gn:asciiname":"Khoksapara",
+    "gn:country_code":"BD",
+    "gn:dem":54,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7486659,
+    "gn:latitude":26.0636,
+    "gn:longitude":88.23644,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Khoksap\u0101ra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Khoksap\u0101ra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7486659
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"4a4816db75f2e2eae4b59aac5015a03e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694703,
+            "locality_id":1310043013,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1310043013,
+    "wof:lastmodified":1537586617,
+    "wof:name":"Khoksapara",
+    "wof:parent_id":1108694703,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.23644,
+    26.0636,
+    88.23644,
+    26.0636
+],
+  "geometry": {"coordinates":[88.23644,26.0636],"type":"Point"}
+}

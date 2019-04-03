@@ -1,0 +1,64 @@
+{
+  "id": 1209545625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.36667,23.73333,89.36667,23.73333",
+    "geom:latitude":23.73333,
+    "geom:longitude":89.36667,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3082",
+    "gn:admin3_code":"308273.0",
+    "gn:admin4_code":"30827390.0",
+    "gn:asciiname":"Jagir Bagli",
+    "gn:country_code":"BD",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1200504,
+    "gn:latitude":23.73333,
+    "gn:longitude":89.36667,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"J\u0101gir B\u0101gli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1200504
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"00a1ffeaf7d235cfb24525c65a458bf0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209545625
+        }
+    ],
+    "wof:id":1209545625,
+    "wof:lastmodified":1536283851,
+    "wof:name":"Jagir Bagli",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.36667,
+    23.73333,
+    89.36667,
+    23.73333
+],
+  "geometry": {"coordinates":[89.36667,23.73333],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1327465227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.81611,23.07465,89.81611,23.07465",
+    "geom:latitude":23.07465,
+    "geom:longitude":89.81611,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3035",
+    "gn:admin3_code":"303532.0",
+    "gn:admin4_code":"30353290.0",
+    "gn:asciiname":"Rautkhamar",
+    "gn:country_code":"BD",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1189642,
+    "gn:latitude":23.07465,
+    "gn:longitude":89.81611,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Rautkhamar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Rautkhamar"
+    ],
+    "name:und_x_variant":[
+        "Routhkhamar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421194867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1189642
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"ff1e3723888e833f028b7600e2a73c01",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421194867,
+            "locality_id":1327465227,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1327465227,
+    "wof:lastmodified":1537585784,
+    "wof:name":"Rautkhamar",
+    "wof:parent_id":421194867,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.81611,
+    23.07465,
+    89.81611,
+    23.07465
+],
+  "geometry": {"coordinates":[89.81610999999999,23.07465],"type":"Point"}
+}

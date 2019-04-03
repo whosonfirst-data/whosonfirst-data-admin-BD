@@ -1,0 +1,73 @@
+{
+  "id": 1293427131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.8573,24.47831,88.8573,24.47831",
+    "geom:latitude":24.47831,
+    "geom:longitude":88.8573,
+    "gn:admin1_code":"83",
+    "gn:admin2_code":"5081.0",
+    "gn:admin3_code":"508182.0",
+    "gn:admin4_code":"50818281.0",
+    "gn:asciiname":"Chhota Kajupara",
+    "gn:country_code":"BD",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7483756,
+    "gn:latitude":24.47831,
+    "gn:longitude":88.8573,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Chhota K\u0101jup\u0101ra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Chhota K\u0101jup\u0101ra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669031,
+        421172439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7483756
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"4973e2458f869b36f15f688f2920760c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421172439,
+            "locality_id":1293427131,
+            "region_id":85669031
+        }
+    ],
+    "wof:id":1293427131,
+    "wof:lastmodified":1537586546,
+    "wof:name":"Chhota Kajupara",
+    "wof:parent_id":421172439,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.8573,
+    24.47831,
+    88.8573,
+    24.47831
+],
+  "geometry": {"coordinates":[88.8573,24.47831],"type":"Point"}
+}

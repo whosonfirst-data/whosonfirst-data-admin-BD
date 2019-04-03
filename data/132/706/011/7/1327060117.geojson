@@ -1,0 +1,74 @@
+{
+  "id": 1327060117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.74894,24.92686,90.74894,24.92686",
+    "geom:latitude":24.92686,
+    "geom:longitude":90.74894,
+    "gn:admin1_code":"H",
+    "gn:admin2_code":"3072.0",
+    "gn:admin3_code":"307274.0",
+    "gn:admin4_code":"30727455.0",
+    "gn:asciiname":"Bhatnibhita",
+    "gn:country_code":"BD",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1209039,
+    "gn:latitude":24.92686,
+    "gn:longitude":90.74894,
+    "gn:modification_date":"2016-11-17",
+    "gn:name":"Bh\u0101tnibhita",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bh\u0101tlibhita",
+        "Bh\u0101tnibhita"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        1108803101,
+        421200811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1209039
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"121fd010288e63ed54e6a88aab34b5b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421200811,
+            "locality_id":1327060117,
+            "region_id":1108803101
+        }
+    ],
+    "wof:id":1327060117,
+    "wof:lastmodified":1537586140,
+    "wof:name":"Bhatnibhita",
+    "wof:parent_id":421200811,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.74894,
+    24.92686,
+    90.74894,
+    24.92686
+],
+  "geometry": {"coordinates":[90.74894,24.92686],"type":"Point"}
+}

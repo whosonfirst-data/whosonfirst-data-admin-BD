@@ -1,0 +1,75 @@
+{
+  "id": 1327276273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.36667,22.96667,91.36667,22.96667",
+    "geom:latitude":22.96667,
+    "geom:longitude":91.36667,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2030.0",
+    "gn:admin3_code":"203029.0",
+    "gn:admin4_code":"20302912.0",
+    "gn:asciiname":"Char Madhuai",
+    "gn:cc2":"BD",
+    "gn:country_code":"BD",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1206680,
+    "gn:latitude":22.96667,
+    "gn:longitude":91.36667,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Char Madh\u016bai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Char Maduai",
+        "Char Madh\u016bai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421181771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1206680
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"3ce21720695e8d4ed4a1705b96693833",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421181771,
+            "locality_id":1327276273,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1327276273,
+    "wof:lastmodified":1537586098,
+    "wof:name":"Char Madhuai",
+    "wof:parent_id":421181771,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.36667,
+    22.96667,
+    91.36667,
+    22.96667
+],
+  "geometry": {"coordinates":[91.36667,22.96667],"type":"Point"}
+}

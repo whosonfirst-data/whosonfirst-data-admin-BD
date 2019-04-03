@@ -1,0 +1,66 @@
+{
+  "id": 1259525827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.83949,21.74036,91.83949,21.74036",
+    "geom:latitude":21.74036,
+    "geom:longitude":91.83949,
+    "gn:admin1_code":"84",
+    "gn:asciiname":"Manjhepara",
+    "gn:country_code":"BD",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6415985,
+    "gn:latitude":21.74036,
+    "gn:longitude":91.83949,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"M\u0101njhep\u0101ra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "M\u0101njhep\u0101ra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6415985
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"09bc1123eea2e87eb169ea3ea1ada5b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":-1,
+            "locality_id":1259525827,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1259525827,
+    "wof:lastmodified":1537586254,
+    "wof:name":"Manjhepara",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.83949,
+    21.74036,
+    91.83949,
+    21.74036
+],
+  "geometry": {"coordinates":[91.83949,21.74036],"type":"Point"}
+}

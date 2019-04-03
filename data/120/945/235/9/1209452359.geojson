@@ -1,0 +1,67 @@
+{
+  "id": 1209452359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.95099,25.01904,88.95099,25.01904",
+    "geom:latitude":25.01904,
+    "geom:longitude":88.95099,
+    "gn:admin1_code":"83",
+    "gn:admin2_code":"5064.0",
+    "gn:admin3_code":"506406.0",
+    "gn:admin4_code":"50640673.0",
+    "gn:asciiname":"Chak Beni",
+    "gn:country_code":"BD",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7481862,
+    "gn:latitude":25.01904,
+    "gn:longitude":88.95099,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Chak Beni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Chak Beni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7481862
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"24740499829c01da3fae790c4ff680d4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209452359
+        }
+    ],
+    "wof:id":1209452359,
+    "wof:lastmodified":1537586492,
+    "wof:name":"Chak Beni",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.95099,
+    25.01904,
+    88.95099,
+    25.01904
+],
+  "geometry": {"coordinates":[88.95099,25.01904],"type":"Point"}
+}

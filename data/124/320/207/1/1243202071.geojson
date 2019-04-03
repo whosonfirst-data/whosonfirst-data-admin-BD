@@ -1,0 +1,74 @@
+{
+  "id": 1243202071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.45087,23.93829,90.45087,23.93829",
+    "geom:latitude":23.93829,
+    "geom:longitude":90.45087,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3033",
+    "gn:admin3_code":"303330.0",
+    "gn:admin4_code":"30333081.0",
+    "gn:asciiname":"Kot Bhadum",
+    "gn:country_code":"BD",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1196967,
+    "gn:latitude":23.93829,
+    "gn:longitude":90.45087,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Kot Bh\u0101dum",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kot Bhadun",
+        "Kot Bh\u0101dum"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421203493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1196967
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"d250b0413046daea16fe84e2a5abe8a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421203493,
+            "locality_id":1243202071,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1243202071,
+    "wof:lastmodified":1537585914,
+    "wof:name":"Kot Bhadum",
+    "wof:parent_id":421203493,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.45087,
+    23.93829,
+    90.45087,
+    23.93829
+],
+  "geometry": {"coordinates":[90.45086999999999,23.93829],"type":"Point"}
+}

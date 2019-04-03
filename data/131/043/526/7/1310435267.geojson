@@ -1,0 +1,70 @@
+{
+  "id": 1310435267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.71791,24.08603,90.71791,24.08603",
+    "geom:latitude":24.08603,
+    "geom:longitude":90.71791,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3068",
+    "gn:admin3_code":"306852.0",
+    "gn:admin4_code":"30685254.0",
+    "gn:asciiname":"Saiyedergaon",
+    "gn:country_code":"BD",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1189082,
+    "gn:latitude":24.08603,
+    "gn:longitude":90.71791,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Saiyedergaon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421169707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1189082
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"aba6b87b7069b08cd20d277d1ba6622e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421169707,
+            "locality_id":1310435267,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1310435267,
+    "wof:lastmodified":1537017707,
+    "wof:name":"Saiyedergaon",
+    "wof:parent_id":421169707,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.71791,
+    24.08603,
+    90.71791,
+    24.08603
+],
+  "geometry": {"coordinates":[90.71791,24.08603],"type":"Point"}
+}

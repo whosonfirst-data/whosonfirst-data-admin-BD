@@ -1,0 +1,70 @@
+{
+  "id": 1225877867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.99569,23.86604,89.99569,23.86604",
+    "geom:latitude":23.86604,
+    "geom:longitude":89.99569,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3056",
+    "gn:admin3_code":"305646.0",
+    "gn:admin4_code":"30564600.0",
+    "gn:asciiname":"Paschim Seota",
+    "gn:country_code":"BD",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1192227,
+    "gn:latitude":23.86604,
+    "gn:longitude":89.99569,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Paschim Seota",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421191745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1192227
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"28598440be5e021fba0e845082137493",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421191745,
+            "locality_id":1225877867,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1225877867,
+    "wof:lastmodified":1536967137,
+    "wof:name":"Paschim Seota",
+    "wof:parent_id":421191745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.99569,
+    23.86604,
+    89.99569,
+    23.86604
+],
+  "geometry": {"coordinates":[89.99569,23.86604],"type":"Point"}
+}

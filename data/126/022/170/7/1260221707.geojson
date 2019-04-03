@@ -1,0 +1,70 @@
+{
+  "id": 1260221707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.0942,24.33503,90.0942,24.33503",
+    "geom:latitude":24.33503,
+    "geom:longitude":90.0942,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3093.0",
+    "gn:admin3_code":"309385.0",
+    "gn:admin4_code":"30938513.0",
+    "gn:asciiname":"Ghateswari",
+    "gn:country_code":"BD",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1202623,
+    "gn:latitude":24.33503,
+    "gn:longitude":90.0942,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Gh\u0101teswari",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421185471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1202623
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"67c54ee2b0dbbb98f76fd7db09bd7b0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421185471,
+            "locality_id":1260221707,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1260221707,
+    "wof:lastmodified":1536796012,
+    "wof:name":"Ghateswari",
+    "wof:parent_id":421185471,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.0942,
+    24.33503,
+    90.0942,
+    24.33503
+],
+  "geometry": {"coordinates":[90.0942,24.33503],"type":"Point"}
+}

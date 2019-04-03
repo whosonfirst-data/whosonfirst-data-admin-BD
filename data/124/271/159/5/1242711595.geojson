@@ -1,0 +1,70 @@
+{
+  "id": 1242711595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.58312,23.65763,90.58312,23.65763",
+    "geom:latitude":23.65763,
+    "geom:longitude":90.58312,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3067.0",
+    "gn:admin3_code":"306704.0",
+    "gn:admin4_code":"30670494.0",
+    "gn:asciiname":"Bagbari",
+    "gn:country_code":"BD",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1212025,
+    "gn:latitude":23.65763,
+    "gn:longitude":90.58312,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"B\u0101gb\u0101ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421197045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1212025
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"555fbbd5044a99e4f027e453ce942c6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421197045,
+            "locality_id":1242711595,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1242711595,
+    "wof:lastmodified":1536869673,
+    "wof:name":"Bagbari",
+    "wof:parent_id":421197045,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.58312,
+    23.65763,
+    90.58312,
+    23.65763
+],
+  "geometry": {"coordinates":[90.58311999999999,23.65763],"type":"Point"}
+}

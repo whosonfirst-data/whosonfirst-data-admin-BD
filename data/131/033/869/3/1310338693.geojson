@@ -1,0 +1,70 @@
+{
+  "id": 1310338693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.19493,22.72202,90.19493,22.72202",
+    "geom:latitude":22.72202,
+    "geom:longitude":90.19493,
+    "gn:admin1_code":"85",
+    "gn:admin2_code":"1042.0",
+    "gn:admin3_code":"104240.0",
+    "gn:admin4_code":"10424076.0",
+    "gn:asciiname":"Dogalchira",
+    "gn:country_code":"BD",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1203889,
+    "gn:latitude":22.72202,
+    "gn:longitude":90.19493,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Dogalchira",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669019,
+        1108694677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1203889
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"4fa194e681e5b3dbde9ed407beb7efc2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694677,
+            "locality_id":1310338693,
+            "region_id":85669019
+        }
+    ],
+    "wof:id":1310338693,
+    "wof:lastmodified":1536660185,
+    "wof:name":"Dogalchira",
+    "wof:parent_id":1108694677,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.19493,
+    22.72202,
+    90.19493,
+    22.72202
+],
+  "geometry": {"coordinates":[90.19493,22.72202],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1343887975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.3854,23.7298,90.3854,23.7298",
+    "geom:latitude":23.7298,
+    "geom:longitude":90.3854,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3026.0",
+    "gn:admin3_code":"302640.0",
+    "gn:admin4_code":"30264062.0",
+    "gn:asciiname":"Azimpur",
+    "gn:country_code":"BD",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7701354,
+    "gn:latitude":23.7298,
+    "gn:longitude":90.3854,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Azimpur",
+    "gn:population":96641,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Azimpur, Dhaka, Bangladesh"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421187803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7701354,
+        "wk:page":"Azimpur,_Dhaka"
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"f3d583b3969e4b3420ce07fcbe4f75ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421187803,
+            "locality_id":1343887975,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1343887975,
+    "wof:lastmodified":1537586714,
+    "wof:name":"Azimpur",
+    "wof:parent_id":421187803,
+    "wof:placetype":"locality",
+    "wof:population":96641,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.3854,
+    23.7298,
+    90.3854,
+    23.7298
+],
+  "geometry": {"coordinates":[90.3854,23.7298],"type":"Point"}
+}

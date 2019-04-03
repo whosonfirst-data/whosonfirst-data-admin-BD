@@ -1,0 +1,79 @@
+{
+  "id": 1326760501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.80356,23.89425,88.80356,23.89425",
+    "geom:latitude":23.89425,
+    "geom:longitude":88.80356,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4057.0",
+    "gn:admin3_code":"405747.0",
+    "gn:admin4_code":"40574710.0",
+    "gn:asciiname":"Bamundih",
+    "gn:country_code":"BD",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1211146,
+    "gn:latitude":23.89425,
+    "gn:longitude":88.80356,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Bamundih",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Bamundih"
+    ],
+    "name:ben_x_variant":[
+        "Bamundi\u012bh"
+    ],
+    "name:und_x_variant":[
+        "Bamandi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        421191661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1211146
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"71f390b9beee2fd34c756ba2204d1d83",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421191661,
+            "locality_id":1326760501,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1326760501,
+    "wof:lastmodified":1537586173,
+    "wof:name":"Bamundih",
+    "wof:parent_id":421191661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.80356,
+    23.89425,
+    88.80356,
+    23.89425
+],
+  "geometry": {"coordinates":[88.80356,23.89425],"type":"Point"}
+}

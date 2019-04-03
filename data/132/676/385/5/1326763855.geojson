@@ -1,0 +1,75 @@
+{
+  "id": 1326763855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.29512,24.43923,91.29512,24.43923",
+    "geom:latitude":24.43923,
+    "geom:longitude":91.29512,
+    "gn:admin1_code":"86",
+    "gn:admin2_code":"6036.0",
+    "gn:admin3_code":"603611.0",
+    "gn:admin4_code":"60361163.0",
+    "gn:asciiname":"Dangarkhola",
+    "gn:country_code":"BD",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1205200,
+    "gn:latitude":24.43923,
+    "gn:longitude":91.29512,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Dangarkhola",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dengurkhola",
+        "D\u0101ngerkhola",
+        "Dangarkhola"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669025,
+        421176045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1205200
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"de11f3505d9b7c09a4b99c79567a0e41",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421176045,
+            "locality_id":1326763855,
+            "region_id":85669025
+        }
+    ],
+    "wof:id":1326763855,
+    "wof:lastmodified":1537586068,
+    "wof:name":"Dangarkhola",
+    "wof:parent_id":421176045,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.29512,
+    24.43923,
+    91.29512,
+    24.43923
+],
+  "geometry": {"coordinates":[91.29512,24.43923],"type":"Point"}
+}

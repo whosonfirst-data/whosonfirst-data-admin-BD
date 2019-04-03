@@ -1,0 +1,79 @@
+{
+  "id": 1242811275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.72924,25.99528,88.72924,25.99528",
+    "geom:latitude":25.99528,
+    "geom:longitude":88.72924,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5527",
+    "gn:admin3_code":"552760.0",
+    "gn:admin4_code":"55276015.0",
+    "gn:asciiname":"Jaygari",
+    "gn:country_code":"BD",
+    "gn:dem":54,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1200108,
+    "gn:latitude":25.99528,
+    "gn:longitude":88.72924,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"J\u0101ygari",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Jayganj"
+    ],
+    "name:ben_x_variant":[
+        "J\u0101ygari"
+    ],
+    "name:und_x_variant":[
+        "Haut Joyganj"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1200108
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"3eb2790de95cc760dffbeb037a368cc3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694671,
+            "locality_id":1242811275,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1242811275,
+    "wof:lastmodified":1537585973,
+    "wof:name":"Jaygari",
+    "wof:parent_id":1108694671,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.72924,
+    25.99528,
+    88.72924,
+    25.99528
+],
+  "geometry": {"coordinates":[88.72924,25.99528],"type":"Point"}
+}

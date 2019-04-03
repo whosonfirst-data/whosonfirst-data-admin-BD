@@ -1,0 +1,73 @@
+{
+  "id": 1327068237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"92.0559,21.76214,92.0559,21.76214",
+    "geom:latitude":21.76214,
+    "geom:longitude":92.0559,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2022.0",
+    "gn:admin3_code":"202216.0",
+    "gn:admin4_code":"20221672.0",
+    "gn:asciiname":"Saharghona",
+    "gn:country_code":"BD",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6414957,
+    "gn:latitude":21.76214,
+    "gn:longitude":92.0559,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"S\u0101h\u0101rghona",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "S\u0101h\u0101rghona"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421205057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6414957
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"962568ac084dd296fb8b86a3816363c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421205057,
+            "locality_id":1327068237,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1327068237,
+    "wof:lastmodified":1537586236,
+    "wof:name":"Saharghona",
+    "wof:parent_id":421205057,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    92.0559,
+    21.76214,
+    92.0559,
+    21.76214
+],
+  "geometry": {"coordinates":[92.05589999999999,21.76214],"type":"Point"}
+}

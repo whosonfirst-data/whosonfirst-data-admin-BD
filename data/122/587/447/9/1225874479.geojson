@@ -1,0 +1,73 @@
+{
+  "id": 1225874479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.13482,22.33558,90.13482,22.33558",
+    "geom:latitude":22.33558,
+    "geom:longitude":90.13482,
+    "gn:admin1_code":"85",
+    "gn:admin2_code":"1004.0",
+    "gn:admin3_code":"100447.0",
+    "gn:admin4_code":"10044735.0",
+    "gn:asciiname":"Bamaner Karuna",
+    "gn:country_code":"BD",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7476651,
+    "gn:latitude":22.33558,
+    "gn:longitude":90.13482,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"B\u0101maner Karuna",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "B\u0101maner Karuna"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669019,
+        421176043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7476651
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"34ffb2e21dd7602f4391db1122eda535",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421176043,
+            "locality_id":1225874479,
+            "region_id":85669019
+        }
+    ],
+    "wof:id":1225874479,
+    "wof:lastmodified":1537586350,
+    "wof:name":"Bamaner Karuna",
+    "wof:parent_id":421176043,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.13482,
+    22.33558,
+    90.13482,
+    22.33558
+],
+  "geometry": {"coordinates":[90.13482,22.33558],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209448275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.98398,22.20509,90.98398,22.20509",
+    "geom:latitude":22.20509,
+    "geom:longitude":90.98398,
+    "gn:admin1_code":"82",
+    "gn:asciiname":"Hajir Char",
+    "gn:country_code":"BD",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7477994,
+    "gn:latitude":22.20509,
+    "gn:longitude":90.98398,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"Hajir Char",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Hajir Char"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7477994
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"6bf5daf8074ad415e11acd76e7e19051",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209448275
+        }
+    ],
+    "wof:id":1209448275,
+    "wof:lastmodified":1537586380,
+    "wof:name":"Hajir Char",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.98398,
+    22.20509,
+    90.98398,
+    22.20509
+],
+  "geometry": {"coordinates":[90.98398,22.20509],"type":"Point"}
+}

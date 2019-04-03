@@ -1,0 +1,70 @@
+{
+  "id": 1243492537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.80601,22.76123,90.80601,22.76123",
+    "geom:latitude":22.76123,
+    "geom:longitude":90.80601,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2051.0",
+    "gn:admin3_code":"205173.0",
+    "gn:admin4_code":"20517371.0",
+    "gn:asciiname":"Char Kalkini",
+    "gn:country_code":"BD",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1206803,
+    "gn:latitude":22.76123,
+    "gn:longitude":90.80601,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Char K\u0101lkini",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421166521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1206803
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"b17ea0ccf559c1e3c01896dbf818c5ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421166521,
+            "locality_id":1243492537,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1243492537,
+    "wof:lastmodified":1536738976,
+    "wof:name":"Char Kalkini",
+    "wof:parent_id":421166521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.80601,
+    22.76123,
+    90.80601,
+    22.76123
+],
+  "geometry": {"coordinates":[90.80601,22.76123],"type":"Point"}
+}

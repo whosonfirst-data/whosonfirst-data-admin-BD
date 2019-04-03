@@ -1,0 +1,73 @@
+{
+  "id": 1226581863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.86889,22.55597,91.86889,22.55597",
+    "geom:latitude":22.55597,
+    "geom:longitude":91.86889,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2015.0",
+    "gn:admin3_code":"201574.0",
+    "gn:admin4_code":"20157444.0",
+    "gn:asciiname":"Noajispur",
+    "gn:country_code":"BD",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6414490,
+    "gn:latitude":22.55597,
+    "gn:longitude":91.86889,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"No\u0101jispur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "No\u0101jispur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421201541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6414490
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"98523c207914884debbf5dca021b0b92",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421201541,
+            "locality_id":1226581863,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1226581863,
+    "wof:lastmodified":1537586228,
+    "wof:name":"Noajispur",
+    "wof:parent_id":421201541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.86889,
+    22.55597,
+    91.86889,
+    22.55597
+],
+  "geometry": {"coordinates":[91.86888999999999,22.55597],"type":"Point"}
+}

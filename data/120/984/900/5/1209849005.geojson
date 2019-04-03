@@ -1,0 +1,74 @@
+{
+  "id": 1209849005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.83959,24.9972,90.83959,24.9972",
+    "geom:latitude":24.9972,
+    "geom:longitude":90.83959,
+    "gn:admin1_code":"H",
+    "gn:admin2_code":"3072",
+    "gn:admin3_code":"307240.0",
+    "gn:admin4_code":"30724083.0",
+    "gn:asciiname":"Maijganga",
+    "gn:country_code":"BD",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1195432,
+    "gn:latitude":24.9972,
+    "gn:longitude":90.83959,
+    "gn:modification_date":"2016-11-17",
+    "gn:name":"M\u0101ijg\u0101nga",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Maijgang",
+        "M\u0101ijg\u0101nga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        1108803101,
+        421200811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1195432
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"d4fa1e9d31aac833a87aa08a3889692d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421200811,
+            "locality_id":1209849005,
+            "region_id":1108803101
+        }
+    ],
+    "wof:id":1209849005,
+    "wof:lastmodified":1537585887,
+    "wof:name":"Maijganga",
+    "wof:parent_id":421200811,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.83959,
+    24.9972,
+    90.83959,
+    24.9972
+],
+  "geometry": {"coordinates":[90.83959,24.9972],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1260110175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.40515,24.68531,90.40515,24.68531",
+    "geom:latitude":24.68531,
+    "geom:longitude":90.40515,
+    "gn:admin1_code":"H",
+    "gn:admin2_code":"3061",
+    "gn:admin3_code":"306152.0",
+    "gn:admin4_code":"30615254.0",
+    "gn:asciiname":"Madal",
+    "gn:country_code":"BD",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1195944,
+    "gn:latitude":24.68531,
+    "gn:longitude":90.40515,
+    "gn:modification_date":"2016-11-17",
+    "gn:name":"Madal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        1108803101,
+        421185469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1195944
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"0edb05a8492be58f57c83745ee594221",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421185469,
+            "locality_id":1260110175,
+            "region_id":1108803101
+        }
+    ],
+    "wof:id":1260110175,
+    "wof:lastmodified":1536950031,
+    "wof:name":"Madal",
+    "wof:parent_id":421185469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.40515,
+    24.68531,
+    90.40515,
+    24.68531
+],
+  "geometry": {"coordinates":[90.40515000000001,24.68531],"type":"Point"}
+}

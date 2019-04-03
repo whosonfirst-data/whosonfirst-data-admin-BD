@@ -1,0 +1,70 @@
+{
+  "id": 1243491675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.25182,25.13191,89.25182,25.13191",
+    "geom:latitude":25.13191,
+    "geom:longitude":89.25182,
+    "gn:admin1_code":"83",
+    "gn:asciiname":"Kaksa",
+    "gn:country_code":"BD",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7889679,
+    "gn:latitude":25.13191,
+    "gn:longitude":89.25182,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"K\u0101ksa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "K\u0101ksa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7889679
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"7553111630abfaa17c0aa1ba1ed8a344",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694675,
+            "locality_id":1243491675,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1243491675,
+    "wof:lastmodified":1537586737,
+    "wof:name":"Kaksa",
+    "wof:parent_id":1108694675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.25182,
+    25.13191,
+    89.25182,
+    25.13191
+],
+  "geometry": {"coordinates":[89.25182,25.13191],"type":"Point"}
+}

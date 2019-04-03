@@ -1,0 +1,69 @@
+{
+  "id": 1209150615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.85794,23.26567,90.85794,23.26567",
+    "geom:latitude":23.26567,
+    "geom:longitude":90.85794,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2013",
+    "gn:admin3_code":"201349.0",
+    "gn:admin4_code":"20134935.0",
+    "gn:asciiname":"Qazirgaon",
+    "gn:country_code":"BD",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1197983,
+    "gn:latitude":23.26567,
+    "gn:longitude":90.85794,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Q\u0101zirgaon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kazigaon",
+        "K\u0101zirgaon",
+        "Q\u0101zirgaon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1197983
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"73dd9dd9090d49c4b534fb2d648215f9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209150615
+        }
+    ],
+    "wof:id":1209150615,
+    "wof:lastmodified":1537585935,
+    "wof:name":"Qazirgaon",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.85794,
+    23.26567,
+    90.85794,
+    23.26567
+],
+  "geometry": {"coordinates":[90.85794,23.26567],"type":"Point"}
+}

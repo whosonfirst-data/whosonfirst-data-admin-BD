@@ -1,0 +1,76 @@
+{
+  "id": 1243097439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.87551,25.60897,89.87551,25.60897",
+    "geom:latitude":25.60897,
+    "geom:longitude":89.87551,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5549",
+    "gn:admin3_code":"554979.0",
+    "gn:admin4_code":"55497983.0",
+    "gn:asciiname":"Nutan Saulmari",
+    "gn:country_code":"BD",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1188366,
+    "gn:latitude":25.60897,
+    "gn:longitude":89.87551,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Nutan Saulmari",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Saulm\u0101ri"
+    ],
+    "name:ben_x_variant":[
+        "Nutan Saulmari"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1188366
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"b209ac120faeee52ec7e5025fe9b91c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694685,
+            "locality_id":1243097439,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1243097439,
+    "wof:lastmodified":1537585761,
+    "wof:name":"Nutan Saulmari",
+    "wof:parent_id":1108694685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.87550999999998,
+    25.60897000000001,
+    89.87550999999998,
+    25.60897000000001
+],
+  "geometry": {"coordinates":[89.87550999999998,25.60897000000001],"type":"Point"}
+}

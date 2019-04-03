@@ -1,0 +1,70 @@
+{
+  "id": 1293618865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.25962,23.51696,90.25962,23.51696",
+    "geom:latitude":23.51696,
+    "geom:longitude":90.25962,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3059.0",
+    "gn:admin3_code":"305984.0",
+    "gn:admin4_code":"30598467.0",
+    "gn:asciiname":"Damla",
+    "gn:country_code":"BD",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1205249,
+    "gn:latitude":23.51696,
+    "gn:longitude":90.25962,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"D\u0101mla",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421205059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1205249
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"f32dc94aca02eea8e4980ca4a1dc717f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421205059,
+            "locality_id":1293618865,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1293618865,
+    "wof:lastmodified":1537091740,
+    "wof:name":"Damla",
+    "wof:parent_id":421205059,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.25962,
+    23.51696,
+    90.25962,
+    23.51696
+],
+  "geometry": {"coordinates":[90.25962,23.51696],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209548831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.15579,24.82416,90.15579,24.82416",
+    "geom:latitude":24.82416,
+    "geom:longitude":90.15579,
+    "gn:admin1_code":"H",
+    "gn:admin2_code":"3039",
+    "gn:admin3_code":"303936.0",
+    "gn:admin4_code":"30393617.0",
+    "gn:asciiname":"Tangir Kanda",
+    "gn:country_code":"BD",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1186578,
+    "gn:latitude":24.82416,
+    "gn:longitude":90.15579,
+    "gn:modification_date":"2016-11-17",
+    "gn:name":"T\u0101ngir K\u0101nda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1186578
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"f1efaf573916e8154bf20d0a66eb1d00",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209548831
+        }
+    ],
+    "wof:id":1209548831,
+    "wof:lastmodified":1536283758,
+    "wof:name":"Tangir Kanda",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.15579,
+    24.82416,
+    90.15579,
+    24.82416
+],
+  "geometry": {"coordinates":[90.15579,24.82416],"type":"Point"}
+}

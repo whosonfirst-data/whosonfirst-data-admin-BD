@@ -1,0 +1,70 @@
+{
+  "id": 1259731999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.1,23.53333,91.1,23.53333",
+    "geom:latitude":23.53333,
+    "geom:longitude":91.1,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2019.0",
+    "gn:admin3_code":"201918.0",
+    "gn:admin4_code":"20191872.0",
+    "gn:asciiname":"Baher Char",
+    "gn:country_code":"BD",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1211750,
+    "gn:latitude":23.53333,
+    "gn:longitude":91.1,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"B\u0101her Char",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421187801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1211750
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"dbb8d6bd6ab345bb3481b7c3dc09a575",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421187801,
+            "locality_id":1259731999,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1259731999,
+    "wof:lastmodified":1536996568,
+    "wof:name":"Baher Char",
+    "wof:parent_id":421187801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.1,
+    23.53333,
+    91.1,
+    23.53333
+],
+  "geometry": {"coordinates":[91.09999999999999,23.53333],"type":"Point"}
+}

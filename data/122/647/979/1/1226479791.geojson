@@ -1,0 +1,73 @@
+{
+  "id": 1226479791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.95128,25.20346,88.95128,25.20346",
+    "geom:latitude":25.20346,
+    "geom:longitude":88.95128,
+    "gn:admin1_code":"83",
+    "gn:admin2_code":"5038.0",
+    "gn:admin3_code":"503874.0",
+    "gn:admin4_code":"50387431.0",
+    "gn:asciiname":"Prayag",
+    "gn:country_code":"BD",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7481721,
+    "gn:latitude":25.20346,
+    "gn:longitude":88.95128,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Prayag",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Prayag"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669031,
+        1108694681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7481721
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"529288d3d2955a059e304c90d39b2e23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694681,
+            "locality_id":1226479791,
+            "region_id":85669031
+        }
+    ],
+    "wof:id":1226479791,
+    "wof:lastmodified":1537586487,
+    "wof:name":"Prayag",
+    "wof:parent_id":1108694681,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.95128000000003,
+    25.20346,
+    88.95128000000003,
+    25.20346
+],
+  "geometry": {"coordinates":[88.95128000000003,25.20346],"type":"Point"}
+}

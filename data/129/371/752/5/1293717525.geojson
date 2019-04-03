@@ -1,0 +1,75 @@
+{
+  "id": 1293717525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.2,23.98333,89.2,23.98333",
+    "geom:latitude":23.98333,
+    "geom:longitude":89.2,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4050",
+    "gn:admin3_code":"405071.0",
+    "gn:admin4_code":"40507194.0",
+    "gn:asciiname":"Kismat Pratappur",
+    "gn:cc2":"BD",
+    "gn:country_code":"BD",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1197138,
+    "gn:latitude":23.98333,
+    "gn:longitude":89.2,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Kismat Prat\u0101ppur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kishmat Pratappur",
+        "Kismat Prat\u0101ppur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669031,
+        421197541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1197138
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"8460c76c2286a7c17db00161ea31dbeb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421197541,
+            "locality_id":1293717525,
+            "region_id":85669031
+        }
+    ],
+    "wof:id":1293717525,
+    "wof:lastmodified":1537585917,
+    "wof:name":"Kismat Pratappur",
+    "wof:parent_id":421197541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.2,
+    23.98333,
+    89.2,
+    23.98333
+],
+  "geometry": {"coordinates":[89.2,23.98333],"type":"Point"}
+}

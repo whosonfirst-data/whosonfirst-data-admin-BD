@@ -1,0 +1,75 @@
+{
+  "id": 1276483251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.76002,23.03681,90.76002,23.03681",
+    "geom:latitude":23.03681,
+    "geom:longitude":90.76002,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2051.0",
+    "gn:admin3_code":"205158.0",
+    "gn:admin4_code":"20515871.0",
+    "gn:asciiname":"Purba Lacha",
+    "gn:country_code":"BD",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1203526,
+    "gn:latitude":23.03681,
+    "gn:longitude":90.76002,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Purba Lacha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Purba Lachh",
+        "East Lachh",
+        "Purba Lacha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421166521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1203526
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"595356dc5832db48282f8b814391441f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421166521,
+            "locality_id":1276483251,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1276483251,
+    "wof:lastmodified":1537586040,
+    "wof:name":"Purba Lacha",
+    "wof:parent_id":421166521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.76002,
+    23.03681,
+    90.76002,
+    23.03681
+],
+  "geometry": {"coordinates":[90.76002,23.03681],"type":"Point"}
+}

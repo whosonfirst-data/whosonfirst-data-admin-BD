@@ -1,0 +1,76 @@
+{
+  "id": 890422367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-09-21",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.61667,24.33333,89.61667,24.33333",
+    "geom:latitude":24.33333,
+    "geom:longitude":89.61667,
+    "gn:country":"BD",
+    "gn:fcode":"ADM2",
+    "gn:pop":2994053,
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Sirajganj District"
+    ],
+    "name:eng_x_variant":[
+        "Sirajganj"
+    ],
+    "name:unk_x_variant":[
+        "Sirajganj Zila"
+    ],
+    "qs:name":"Sir\u0101jganj District",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"12",
+    "src:population":"geonames",
+    "wd:wordcount":102,
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1337168,
+        "qs:id":555779,
+        "wd:id":"Q16897948",
+        "wk:page":"Randhunibari"
+    },
+    "wof:country":"BD",
+    "wof:created":1469051439,
+    "wof:geomhash":"5f425905315532db958e939f4b8ce4c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":890422367,
+            "region_id":85669031
+        }
+    ],
+    "wof:id":890422367,
+    "wof:lastmodified":1527727162,
+    "wof:name":"Sir\u0101jganj District",
+    "wof:parent_id":85669031,
+    "wof:placetype":"county",
+    "wof:population":2994053,
+    "wof:population_rank":12,
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.61667,
+    24.33333,
+    89.61667,
+    24.33333
+],
+  "geometry": {"coordinates":[89.61667,24.33333],"type":"Point"}
+}

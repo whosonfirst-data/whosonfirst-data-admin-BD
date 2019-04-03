@@ -1,0 +1,73 @@
+{
+  "id": 1209745497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.7289,23.13657,89.7289,23.13657",
+    "geom:latitude":23.13657,
+    "geom:longitude":89.7289,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4065.0",
+    "gn:admin3_code":"406552.0",
+    "gn:admin4_code":"40655215.0",
+    "gn:asciiname":"Digrir Char",
+    "gn:country_code":"BD",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7480240,
+    "gn:latitude":23.13657,
+    "gn:longitude":89.7289,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Digrir Char",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Digrir Char"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        421205213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7480240
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"7f73cc85eca7310094a830bc6892ff9c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421205213,
+            "locality_id":1209745497,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1209745497,
+    "wof:lastmodified":1537586444,
+    "wof:name":"Digrir Char",
+    "wof:parent_id":421205213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.7289,
+    23.13657000000001,
+    89.7289,
+    23.13657000000001
+],
+  "geometry": {"coordinates":[89.7289,23.13657000000001],"type":"Point"}
+}

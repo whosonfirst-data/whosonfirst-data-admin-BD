@@ -1,0 +1,70 @@
+{
+  "id": 1343791811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.00065,23.09921,90.00065,23.09921",
+    "geom:latitude":23.09921,
+    "geom:longitude":90.00065,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3035.0",
+    "gn:admin3_code":"303551.0",
+    "gn:admin4_code":"30355139.0",
+    "gn:asciiname":"Bara Dighalia",
+    "gn:country_code":"BD",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1210628,
+    "gn:latitude":23.09921,
+    "gn:longitude":90.00065,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Bara Dighalia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421194867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1210628
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"f0506e987a16c86b320d8a152cda91be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421194867,
+            "locality_id":1343791811,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1343791811,
+    "wof:lastmodified":1536766240,
+    "wof:name":"Bara Dighalia",
+    "wof:parent_id":421194867,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.00065,
+    23.09921,
+    90.00065,
+    23.09921
+],
+  "geometry": {"coordinates":[90.00064999999999,23.09921],"type":"Point"}
+}

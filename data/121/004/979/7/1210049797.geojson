@@ -1,0 +1,70 @@
+{
+  "id": 1210049797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.29367,23.99553,89.29367,23.99553",
+    "geom:latitude":23.99553,
+    "geom:longitude":89.29367,
+    "gn:admin1_code":"83",
+    "gn:admin2_code":"5076",
+    "gn:admin3_code":"507655.0",
+    "gn:admin4_code":"50765543.0",
+    "gn:asciiname":"Munibpur",
+    "gn:country_code":"BD",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1193955,
+    "gn:latitude":23.99553,
+    "gn:longitude":89.29367,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Munibpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669031,
+        421197541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1193955
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"b94dd5fb991c0e2d030ba0746fa52a60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421197541,
+            "locality_id":1210049797,
+            "region_id":85669031
+        }
+    ],
+    "wof:id":1210049797,
+    "wof:lastmodified":1536374955,
+    "wof:name":"Munibpur",
+    "wof:parent_id":421197541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.29366999999998,
+    23.99553,
+    89.29366999999998,
+    23.99553
+],
+  "geometry": {"coordinates":[89.29366999999998,23.99553],"type":"Point"}
+}

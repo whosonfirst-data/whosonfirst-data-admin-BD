@@ -1,0 +1,88 @@
+{
+  "id": 421199781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"92.21946,22.19534,92.21946,22.19534",
+    "geom:latitude":22.19534,
+    "geom:longitude":92.21946,
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ben_x_preferred":[
+        "B\u0101ndarban"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u043d\u0434\u0430\u0440\u0431\u0430\u043d"
+    ],
+    "name:unk_x_variant":[
+        "Bardarban"
+    ],
+    "qs:gn_country":"BD",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":1185270,
+    "qs:gn_pop":32523,
+    "qs:name":"Bandarban",
+    "qs:name_adm0":"Bangladesh",
+    "qs:name_adm1":"Chittagong",
+    "qs:photos":1047,
+    "qs:photos_1k":212,
+    "qs:photos_9k":5,
+    "qs:photos_9r":7,
+    "qs:photos_all":1047,
+    "qs:photos_sr":11,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":493034,
+    "qs:woe_adm0":23424759,
+    "qs:woe_id":1914992,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421169477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1185270,
+        "gp:id":1914992,
+        "qs:id":493034
+    },
+    "wof:country":"BD",
+    "wof:created":1459010000,
+    "wof:geomhash":"8499aed2ad3463fcc8171f4ea60443a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421169477,
+            "locality_id":421199781,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":421199781,
+    "wof:lastmodified":1505340764,
+    "wof:name":"Bandarban",
+    "wof:parent_id":421169477,
+    "wof:placetype":"locality",
+    "wof:population":32523,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    92.21946,
+    22.19534,
+    92.21946,
+    22.19534
+],
+  "geometry": {"coordinates":[92.21946,22.19534],"type":"Point"}
+}

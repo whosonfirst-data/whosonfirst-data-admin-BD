@@ -1,0 +1,76 @@
+{
+  "id": 1259918077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"92.12001,21.30385,92.12001,21.30385",
+    "geom:latitude":21.30385,
+    "geom:longitude":92.12001,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2022.0",
+    "gn:admin3_code":"202294.0",
+    "gn:admin4_code":"20229415.0",
+    "gn:asciiname":"Haldiapalong",
+    "gn:country_code":"BD",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1201706,
+    "gn:latitude":21.30385,
+    "gn:longitude":92.12001,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Haldi\u0101p\u0101long",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Haldi\u0101p\u0101long"
+    ],
+    "name:und_x_variant":[
+        "Haladiapalong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421205057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1201706
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"4a3f8c83d6519fb35e5b86efa68f36fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421205057,
+            "locality_id":1259918077,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1259918077,
+    "wof:lastmodified":1537586004,
+    "wof:name":"Haldiapalong",
+    "wof:parent_id":421205057,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    92.12001,
+    21.30385,
+    92.12001,
+    21.30385
+],
+  "geometry": {"coordinates":[92.12000999999999,21.30385],"type":"Point"}
+}

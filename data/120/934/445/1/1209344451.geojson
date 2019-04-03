@@ -1,0 +1,70 @@
+{
+  "id": 1209344451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.82692,23.06381,89.82692,23.06381",
+    "geom:latitude":23.06381,
+    "geom:longitude":89.82692,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3035",
+    "gn:admin3_code":"303532.0",
+    "gn:admin4_code":"30353290.0",
+    "gn:asciiname":"Tatulia",
+    "gn:country_code":"BD",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1186255,
+    "gn:latitude":23.06381,
+    "gn:longitude":89.82692,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Tatulia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Tatulia"
+    ],
+    "name:ben_x_variant":[
+        "Tentulia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1186255
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"28d6648a03c4a50d6f33a3e6509f3e75",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209344451
+        }
+    ],
+    "wof:id":1209344451,
+    "wof:lastmodified":1537585716,
+    "wof:name":"Tatulia",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.82692,
+    23.06381,
+    89.82692,
+    23.06381
+],
+  "geometry": {"coordinates":[89.82692,23.06381],"type":"Point"}
+}

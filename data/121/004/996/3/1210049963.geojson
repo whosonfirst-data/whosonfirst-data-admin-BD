@@ -1,0 +1,71 @@
+{
+  "id": 1210049963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.46918,22.70756,90.46918,22.70756",
+    "geom:latitude":22.70756,
+    "geom:longitude":90.46918,
+    "gn:admin1_code":"85",
+    "gn:admin2_code":"1006.0",
+    "gn:admin3_code":"100651.0",
+    "gn:admin4_code":"10065194.0",
+    "gn:asciiname":"Char Keutia",
+    "gn:country_code":"BD",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1206773,
+    "gn:latitude":22.70756,
+    "gn:longitude":90.46918,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Char Keutia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669019,
+        421187745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1206773,
+        "wk:page":"Char_Keutia"
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"84e9f0d9344f23642046e6bbc76f0b57",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421187745,
+            "locality_id":1210049963,
+            "region_id":85669019
+        }
+    ],
+    "wof:id":1210049963,
+    "wof:lastmodified":1537487045,
+    "wof:name":"Char Keutia",
+    "wof:parent_id":421187745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.46918,
+    22.70756,
+    90.46918,
+    22.70756
+],
+  "geometry": {"coordinates":[90.46917999999999,22.70756],"type":"Point"}
+}

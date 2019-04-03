@@ -1,0 +1,70 @@
+{
+  "id": 1260213945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.34302,23.79419,90.34302,23.79419",
+    "geom:latitude":23.79419,
+    "geom:longitude":90.34302,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3026",
+    "gn:admin3_code":"302640.0",
+    "gn:admin4_code":"30264009.0",
+    "gn:asciiname":"Paschim Kandar",
+    "gn:country_code":"BD",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1192273,
+    "gn:latitude":23.79419,
+    "gn:longitude":90.34302,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Paschim Kand\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421187803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1192273
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"39a6deb98d9268ddc3d0dec0b4b87e67",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421187803,
+            "locality_id":1260213945,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1260213945,
+    "wof:lastmodified":1536806198,
+    "wof:name":"Paschim Kandar",
+    "wof:parent_id":421187803,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.34302,
+    23.79419,
+    90.34302,
+    23.79419
+],
+  "geometry": {"coordinates":[90.34302,23.79419],"type":"Point"}
+}

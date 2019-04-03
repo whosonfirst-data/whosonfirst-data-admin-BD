@@ -1,0 +1,76 @@
+{
+  "id": 1259828077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.94364,22.23634,91.94364,22.23634",
+    "geom:latitude":22.23634,
+    "geom:longitude":91.94364,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2015.0",
+    "gn:admin3_code":"201504.0",
+    "gn:admin4_code":"20150485.0",
+    "gn:asciiname":"Mahata",
+    "gn:country_code":"BD",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6415502,
+    "gn:latitude":22.23634,
+    "gn:longitude":91.94364,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"M\u0101h\u0101ta",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "M\u0101h\u0101ta"
+    ],
+    "name:ben_x_variant":[
+        "M\u0101h\u0101tsa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421201541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6415502
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"79140a0d8bb5e1b4bfd76bd097c82cc8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421201541,
+            "locality_id":1259828077,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1259828077,
+    "wof:lastmodified":1537586246,
+    "wof:name":"Mahata",
+    "wof:parent_id":421201541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.94364,
+    22.23634,
+    91.94364,
+    22.23634
+],
+  "geometry": {"coordinates":[91.94364,22.23634],"type":"Point"}
+}

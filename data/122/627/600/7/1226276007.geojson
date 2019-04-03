@@ -1,0 +1,75 @@
+{
+  "id": 1226276007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.12044,24.64777,89.12044,24.64777",
+    "geom:latitude":24.64777,
+    "geom:longitude":89.12044,
+    "gn:admin1_code":"83",
+    "gn:admin2_code":"5069",
+    "gn:admin3_code":"506991.0",
+    "gn:admin4_code":"50699115.0",
+    "gn:asciiname":"Kaliganj",
+    "gn:country_code":"BD",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1199133,
+    "gn:latitude":24.64777,
+    "gn:longitude":89.12044,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"K\u0101l\u012bganj",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chutardeghee",
+        "Chh\u0101t\u0101rdighi",
+        "K\u0101l\u012bganj"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669031,
+        421182115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1199133
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"8bc0e0cfedeb1dcbb1090333b4c19b28",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421182115,
+            "locality_id":1226276007,
+            "region_id":85669031
+        }
+    ],
+    "wof:id":1226276007,
+    "wof:lastmodified":1537585955,
+    "wof:name":"Kaliganj",
+    "wof:parent_id":421182115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.12044,
+    24.64777,
+    89.12044,
+    24.64777
+],
+  "geometry": {"coordinates":[89.12044,24.64777],"type":"Point"}
+}

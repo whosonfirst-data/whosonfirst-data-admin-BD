@@ -1,0 +1,70 @@
+{
+  "id": 1343598685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.17681,25.08339,89.17681,25.08339",
+    "geom:latitude":25.08339,
+    "geom:longitude":89.17681,
+    "gn:admin1_code":"83",
+    "gn:admin2_code":"5038.0",
+    "gn:admin3_code":"503858.0",
+    "gn:admin4_code":"50385838.0",
+    "gn:asciiname":"Hatior",
+    "gn:country_code":"BD",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1201205,
+    "gn:latitude":25.08339,
+    "gn:longitude":89.17681,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"H\u0101tior",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669031,
+        1108694681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1201205
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"8f71cc52a8d24c39653a86a0726301ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694681,
+            "locality_id":1343598685,
+            "region_id":85669031
+        }
+    ],
+    "wof:id":1343598685,
+    "wof:lastmodified":1537042279,
+    "wof:name":"Hatior",
+    "wof:parent_id":1108694681,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.17681,
+    25.08339,
+    89.17681,
+    25.08339
+],
+  "geometry": {"coordinates":[89.17681,25.08339],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1242816797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.90574,23.29428,90.90574,23.29428",
+    "geom:latitude":23.29428,
+    "geom:longitude":90.90574,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2013.0",
+    "gn:admin3_code":"201358.0",
+    "gn:admin4_code":"20135863.0",
+    "gn:asciiname":"Akania Nasirpur",
+    "gn:country_code":"BD",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1213112,
+    "gn:latitude":23.29428,
+    "gn:longitude":90.90574,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"\u0100k\u0101nia N\u0101sirpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0100k\u0101ni\u0101 Nachhirpur",
+        "\u0100k\u0101nia N\u0101sirpur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        1108694669
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1213112,
+        "wk:page":"Akania_Nasirpur"
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"7d2e71129ceb716c6d74bd52498e4f18",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694669,
+            "locality_id":1242816797,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1242816797,
+    "wof:lastmodified":1537586208,
+    "wof:name":"Akania Nasirpur",
+    "wof:parent_id":1108694669,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.90574,
+    23.29428,
+    90.90574,
+    23.29428
+],
+  "geometry": {"coordinates":[90.90573999999999,23.29428],"type":"Point"}
+}

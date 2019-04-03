@@ -1,0 +1,67 @@
+{
+  "id": 1209139255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.22556,25.0612,90.22556,25.0612",
+    "geom:latitude":25.0612,
+    "geom:longitude":90.22556,
+    "gn:admin1_code":"H",
+    "gn:admin2_code":"3089",
+    "gn:admin3_code":"308970.0",
+    "gn:admin4_code":"30897094.0",
+    "gn:asciiname":"Kaitpara",
+    "gn:country_code":"BD",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7923079,
+    "gn:latitude":25.0612,
+    "gn:longitude":90.22556,
+    "gn:modification_date":"2016-11-17",
+    "gn:name":"Kaitp\u0101ra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Kaitp\u0101ra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7923079
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"b70b2f4f13ca4fa592b0eb5222e444ca",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209139255
+        }
+    ],
+    "wof:id":1209139255,
+    "wof:lastmodified":1537586792,
+    "wof:name":"Kaitpara",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.22556,
+    25.0612,
+    90.22556,
+    25.0612
+],
+  "geometry": {"coordinates":[90.22556,25.0612],"type":"Point"}
+}

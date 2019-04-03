@@ -1,0 +1,70 @@
+{
+  "id": 1310534855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.55932,24.80178,90.55932,24.80178",
+    "geom:latitude":24.80178,
+    "geom:longitude":90.55932,
+    "gn:admin1_code":"H",
+    "gn:admin2_code":"3061",
+    "gn:admin3_code":"306123.0",
+    "gn:admin4_code":"30612349.0",
+    "gn:asciiname":"Lamapara",
+    "gn:country_code":"BD",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1196200,
+    "gn:latitude":24.80178,
+    "gn:longitude":90.55932,
+    "gn:modification_date":"2016-11-17",
+    "gn:name":"L\u0101m\u0101p\u0101ra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        1108803101,
+        421185469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1196200
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"53ee4665271bdfc906045c42032155c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421185469,
+            "locality_id":1310534855,
+            "region_id":1108803101
+        }
+    ],
+    "wof:id":1310534855,
+    "wof:lastmodified":1536873650,
+    "wof:name":"Lamapara",
+    "wof:parent_id":421185469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.55932,
+    24.80178,
+    90.55932,
+    24.80178
+],
+  "geometry": {"coordinates":[90.55932,24.80178],"type":"Point"}
+}

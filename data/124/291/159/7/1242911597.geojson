@@ -1,0 +1,76 @@
+{
+  "id": 1242911597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.79635,22.52069,91.79635,22.52069",
+    "geom:latitude":22.52069,
+    "geom:longitude":91.79635,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2015.0",
+    "gn:admin3_code":"201537.0",
+    "gn:admin4_code":"20153759.0",
+    "gn:asciiname":"Madhayam Pahartali",
+    "gn:country_code":"BD",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6414435,
+    "gn:latitude":22.52069,
+    "gn:longitude":91.79635,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Madhayam P\u0101h\u0101rtali",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Madhayam P\u0101h\u0101rtali"
+    ],
+    "name:und_x_variant":[
+        "Madhya P\u0101h\u0101rtali"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421201541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6414435
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"eed8e34844b6819e162f080b51e3537d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421201541,
+            "locality_id":1242911597,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1242911597,
+    "wof:lastmodified":1537586227,
+    "wof:name":"Madhayam Pahartali",
+    "wof:parent_id":421201541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.79635,
+    22.52069,
+    91.79635,
+    22.52069
+],
+  "geometry": {"coordinates":[91.79635,22.52069],"type":"Point"}
+}

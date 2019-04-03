@@ -1,0 +1,74 @@
+{
+  "id": 1293913275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.54222,22.55167,90.54222,22.55167",
+    "geom:latitude":22.55167,
+    "geom:longitude":90.54222,
+    "gn:admin1_code":"85",
+    "gn:admin2_code":"1078.0",
+    "gn:admin3_code":"107838.0",
+    "gn:admin4_code":"10783841.0",
+    "gn:asciiname":"Ghursakati",
+    "gn:country_code":"BD",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1202474,
+    "gn:latitude":22.55167,
+    "gn:longitude":90.54222,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Ghurs\u0101k\u0101ti",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ghurs\u0101k\u0101ti",
+        "Ghurch\u0101k\u0101ti"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669019,
+        421169845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1202474
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"969b551f656e97b24e761340f91e469d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421169845,
+            "locality_id":1293913275,
+            "region_id":85669019
+        }
+    ],
+    "wof:id":1293913275,
+    "wof:lastmodified":1537586017,
+    "wof:name":"Ghursakati",
+    "wof:parent_id":421169845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.54222,
+    22.55167,
+    90.54222,
+    22.55167
+],
+  "geometry": {"coordinates":[90.54222,22.55167],"type":"Point"}
+}

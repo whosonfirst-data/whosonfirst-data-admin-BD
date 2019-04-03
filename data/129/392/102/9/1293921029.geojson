@@ -1,0 +1,74 @@
+{
+  "id": 1293921029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.57691,25.13667,91.57691,25.13667",
+    "geom:latitude":25.13667,
+    "geom:longitude":91.57691,
+    "gn:admin1_code":"86",
+    "gn:admin2_code":"6090.0",
+    "gn:admin3_code":"609033.0",
+    "gn:admin4_code":"60903361.0",
+    "gn:asciiname":"Bogla Bazar",
+    "gn:country_code":"BD",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1208191,
+    "gn:latitude":25.13667,
+    "gn:longitude":91.57691,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Bogla B\u0101z\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Buklabazar",
+        "Bogla B\u0101z\u0101r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669025,
+        421201931
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1208191
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"50b844a55813d0407229a74b8d9be906",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421201931,
+            "locality_id":1293921029,
+            "region_id":85669025
+        }
+    ],
+    "wof:id":1293921029,
+    "wof:lastmodified":1537586126,
+    "wof:name":"Bogla Bazar",
+    "wof:parent_id":421201931,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.57691,
+    25.13667,
+    91.57691,
+    25.13667
+],
+  "geometry": {"coordinates":[91.57691,25.13667],"type":"Point"}
+}

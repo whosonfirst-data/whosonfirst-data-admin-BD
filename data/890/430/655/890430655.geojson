@@ -1,0 +1,76 @@
+{
+  "id": 890430655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-09-21",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.55,23.66667,89.55,23.66667",
+    "geom:latitude":23.66667,
+    "geom:longitude":89.55,
+    "gn:country":"BD",
+    "gn:fcode":"ADM2",
+    "gn:pop":1021321,
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Rajbari District"
+    ],
+    "name:eng_x_variant":[
+        "Rajbari"
+    ],
+    "name:unk_x_variant":[
+        "Rajbari Zila"
+    ],
+    "qs:name":"R\u0101jb\u0101ri District",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"12",
+    "src:population":"geonames",
+    "wd:wordcount":310,
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1337180,
+        "qs:id":84997,
+        "wd:id":"Q2348762",
+        "wk:page":"Rajbari District"
+    },
+    "wof:country":"BD",
+    "wof:created":1469051861,
+    "wof:geomhash":"069e6fdd861ae7717ddc4869c33ac8b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":890430655,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":890430655,
+    "wof:lastmodified":1527729742,
+    "wof:name":"R\u0101jb\u0101ri District",
+    "wof:parent_id":85669009,
+    "wof:placetype":"county",
+    "wof:population":1021321,
+    "wof:population_rank":12,
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.55,
+    23.66667,
+    89.55,
+    23.66667
+],
+  "geometry": {"coordinates":[89.55,23.66667],"type":"Point"}
+}

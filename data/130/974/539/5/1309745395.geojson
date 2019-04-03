@@ -1,0 +1,70 @@
+{
+  "id": 1309745395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.13091,24.83868,90.13091,24.83868",
+    "geom:latitude":24.83868,
+    "geom:longitude":90.13091,
+    "gn:admin1_code":"H",
+    "gn:admin2_code":"3039.0",
+    "gn:admin3_code":"303936.0",
+    "gn:admin4_code":"30393617.0",
+    "gn:asciiname":"Dakhalpur",
+    "gn:country_code":"BD",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1205558,
+    "gn:latitude":24.83868,
+    "gn:longitude":90.13091,
+    "gn:modification_date":"2016-11-17",
+    "gn:name":"Dakhalpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        1108803101,
+        421191923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1205558
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"c7dad05b01f10ececacaa666d2a4fec9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421191923,
+            "locality_id":1309745395,
+            "region_id":1108803101
+        }
+    ],
+    "wof:id":1309745395,
+    "wof:lastmodified":1537017573,
+    "wof:name":"Dakhalpur",
+    "wof:parent_id":421191923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.13091,
+    24.83868,
+    90.13091,
+    24.83868
+],
+  "geometry": {"coordinates":[90.13091,24.83868],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1259721721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"92.20635,21.42717,92.20635,21.42717",
+    "geom:latitude":21.42717,
+    "geom:longitude":92.20635,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2022.0",
+    "gn:admin3_code":"202266.0",
+    "gn:admin4_code":"20226647.0",
+    "gn:asciiname":"Hajirpara",
+    "gn:country_code":"BD",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6416745,
+    "gn:latitude":21.42717,
+    "gn:longitude":92.20635,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"H\u0101jirp\u0101ra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "H\u0101jirp\u0101ra"
+    ],
+    "name:ben_x_variant":[
+        "H\u0101jip\u0101ra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421169477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6416745
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"3f2a5bb722a665ef3a58525336056d78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421169477,
+            "locality_id":1259721721,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1259721721,
+    "wof:lastmodified":1537586269,
+    "wof:name":"Hajirpara",
+    "wof:parent_id":421169477,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    92.20635,
+    21.42717,
+    92.20635,
+    21.42717
+],
+  "geometry": {"coordinates":[92.20635,21.42717],"type":"Point"}
+}

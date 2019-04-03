@@ -1,0 +1,70 @@
+{
+  "id": 1243205521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.23453,24.76729,90.23453,24.76729",
+    "geom:latitude":24.76729,
+    "geom:longitude":90.23453,
+    "gn:admin1_code":"H",
+    "gn:admin2_code":"3061.0",
+    "gn:admin3_code":"306165.0",
+    "gn:admin4_code":"30616577.0",
+    "gn:asciiname":"Adhpakhia",
+    "gn:country_code":"BD",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1213250,
+    "gn:latitude":24.76729,
+    "gn:longitude":90.23453,
+    "gn:modification_date":"2016-11-17",
+    "gn:name":"\u0100dhp\u0101khia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        1108803101,
+        421185469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1213250
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"bb5aecb91218aea14a2b419f17132d8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421185469,
+            "locality_id":1243205521,
+            "region_id":1108803101
+        }
+    ],
+    "wof:id":1243205521,
+    "wof:lastmodified":1536656047,
+    "wof:name":"Adhpakhia",
+    "wof:parent_id":421185469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.23453,
+    24.76729,
+    90.23453,
+    24.76729
+],
+  "geometry": {"coordinates":[90.23453000000001,24.76729],"type":"Point"}
+}

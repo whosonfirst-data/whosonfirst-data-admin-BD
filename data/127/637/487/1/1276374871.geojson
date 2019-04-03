@@ -1,0 +1,76 @@
+{
+  "id": 1276374871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.98682,23.4925,88.98682,23.4925",
+    "geom:latitude":23.4925,
+    "geom:longitude":88.98682,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4044.0",
+    "gn:admin3_code":"404442.0",
+    "gn:admin4_code":"40444227.0",
+    "gn:asciiname":"Dhopuail",
+    "gn:country_code":"BD",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1204215,
+    "gn:latitude":23.4925,
+    "gn:longitude":88.98682,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Dhopuail",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Dhopuail"
+    ],
+    "name:ben_x_variant":[
+        "Dhop\u0101bila"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        1108694679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1204215
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"aebc9143307174be8cfc464fa51f049b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694679,
+            "locality_id":1276374871,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1276374871,
+    "wof:lastmodified":1537586053,
+    "wof:name":"Dhopuail",
+    "wof:parent_id":1108694679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.98682,
+    23.4925,
+    88.98682,
+    23.4925
+],
+  "geometry": {"coordinates":[88.98681999999999,23.4925],"type":"Point"}
+}

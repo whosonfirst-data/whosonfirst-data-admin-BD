@@ -1,0 +1,73 @@
+{
+  "id": 1276259213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.57542,22.79232,89.57542,22.79232",
+    "geom:latitude":22.79232,
+    "geom:longitude":89.57542,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4047.0",
+    "gn:admin3_code":"404751.0",
+    "gn:admin4_code":"40475131.0",
+    "gn:asciiname":"Matiakhali",
+    "gn:country_code":"BD",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7486243,
+    "gn:latitude":22.79232,
+    "gn:longitude":89.57542,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Mati\u0101khali",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Mati\u0101khali"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        421185473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7486243
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"69915e5cbafacdf08baf9945d3a2c0bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421185473,
+            "locality_id":1276259213,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1276259213,
+    "wof:lastmodified":1537586608,
+    "wof:name":"Matiakhali",
+    "wof:parent_id":421185473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.57542,
+    22.79232,
+    89.57542,
+    22.79232
+],
+  "geometry": {"coordinates":[89.57541999999999,22.79232],"type":"Point"}
+}

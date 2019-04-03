@@ -1,0 +1,70 @@
+{
+  "id": 1293134185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.85,24.95,88.85,24.95",
+    "geom:latitude":24.95,
+    "geom:longitude":88.85,
+    "gn:admin1_code":"83",
+    "gn:admin2_code":"5064.0",
+    "gn:admin3_code":"506450.0",
+    "gn:admin4_code":"50645076.0",
+    "gn:asciiname":"Ekdala Gosainpur",
+    "gn:country_code":"BD",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1203457,
+    "gn:latitude":24.95,
+    "gn:longitude":88.85,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Ekd\u0101la Gos\u0101inpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669031,
+        421191663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1203457
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"29e8affdbc2bd8f78ca8c800f0eb50fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421191663,
+            "locality_id":1293134185,
+            "region_id":85669031
+        }
+    ],
+    "wof:id":1293134185,
+    "wof:lastmodified":1536799557,
+    "wof:name":"Ekdala Gosainpur",
+    "wof:parent_id":421191663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.85,
+    24.95,
+    88.85,
+    24.95
+],
+  "geometry": {"coordinates":[88.84999999999999,24.95],"type":"Point"}
+}

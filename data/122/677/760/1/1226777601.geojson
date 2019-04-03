@@ -1,0 +1,73 @@
+{
+  "id": 1226777601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.33372,25.25924,89.33372,25.25924",
+    "geom:latitude":25.25924,
+    "geom:longitude":89.33372,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5532",
+    "gn:admin3_code":"553267.0",
+    "gn:admin4_code":"55326738.0",
+    "gn:asciiname":"Digdari",
+    "gn:country_code":"BD",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7895482,
+    "gn:latitude":25.25924,
+    "gn:longitude":89.33372,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Digdari",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Digdari"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7895482
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"f0610093f7522d6b6fb0ad230225a448",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694675,
+            "locality_id":1226777601,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1226777601,
+    "wof:lastmodified":1537586762,
+    "wof:name":"Digdari",
+    "wof:parent_id":1108694675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.33372,
+    25.25924,
+    89.33372,
+    25.25924
+],
+  "geometry": {"coordinates":[89.33372,25.25924],"type":"Point"}
+}

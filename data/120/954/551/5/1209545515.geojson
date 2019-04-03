@@ -1,0 +1,67 @@
+{
+  "id": 1209545515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.71607,22.93779,89.71607,22.93779",
+    "geom:latitude":22.93779,
+    "geom:longitude":89.71607,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4047.0",
+    "gn:admin3_code":"404794.0",
+    "gn:admin4_code":"40479454.0",
+    "gn:asciiname":"Kararia",
+    "gn:country_code":"BD",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7486413,
+    "gn:latitude":22.93779,
+    "gn:longitude":89.71607,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Kararia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Kararia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7486413
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"363f89138f45c456d15698246e773e3c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209545515
+        }
+    ],
+    "wof:id":1209545515,
+    "wof:lastmodified":1537586613,
+    "wof:name":"Kararia",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.71607,
+    22.93779,
+    89.71607,
+    22.93779
+],
+  "geometry": {"coordinates":[89.71607,22.93779],"type":"Point"}
+}

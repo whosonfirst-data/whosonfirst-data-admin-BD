@@ -1,0 +1,67 @@
+{
+  "id": 1209139329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.0676,25.34696,89.0676,25.34696",
+    "geom:latitude":25.34696,
+    "geom:longitude":89.0676,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5527",
+    "gn:admin3_code":"552769.0",
+    "gn:admin4_code":"55276994.0",
+    "gn:asciiname":"Kurahan",
+    "gn:country_code":"BD",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8064917,
+    "gn:latitude":25.34696,
+    "gn:longitude":89.0676,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Kurahan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Kurahan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8064917
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"bddfe56f9cb982830ab09e2b1d55ac3a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209139329
+        }
+    ],
+    "wof:id":1209139329,
+    "wof:lastmodified":1537586854,
+    "wof:name":"Kurahan",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.0676,
+    25.34696,
+    89.0676,
+    25.34696
+],
+  "geometry": {"coordinates":[89.0676,25.34696],"type":"Point"}
+}

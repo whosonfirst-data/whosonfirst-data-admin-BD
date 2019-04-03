@@ -1,0 +1,73 @@
+{
+  "id": 1276259291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.89216,24.50619,88.89216,24.50619",
+    "geom:latitude":24.50619,
+    "geom:longitude":88.89216,
+    "gn:admin1_code":"83",
+    "gn:admin2_code":"5081.0",
+    "gn:admin3_code":"508182.0",
+    "gn:admin4_code":"50818281.0",
+    "gn:asciiname":"Amghoshpara",
+    "gn:country_code":"BD",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1212851,
+    "gn:latitude":24.50619,
+    "gn:longitude":88.89216,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Amghoshp\u0101ra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Amghoshp\u0101ra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669031,
+        421172439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1212851
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"d318ac051dd6c51232069b0089787443",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421172439,
+            "locality_id":1276259291,
+            "region_id":85669031
+        }
+    ],
+    "wof:id":1276259291,
+    "wof:lastmodified":1537586203,
+    "wof:name":"Amghoshpara",
+    "wof:parent_id":421172439,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.89216,
+    24.50619,
+    88.89216,
+    24.50619
+],
+  "geometry": {"coordinates":[88.89216,24.50619],"type":"Point"}
+}

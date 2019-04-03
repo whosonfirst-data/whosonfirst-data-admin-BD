@@ -1,0 +1,74 @@
+{
+  "id": 1259713453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.28896,22.5149,90.28896,22.5149",
+    "geom:latitude":22.5149,
+    "geom:longitude":90.28896,
+    "gn:admin1_code":"85",
+    "gn:admin2_code":"1006.0",
+    "gn:admin3_code":"100607.0",
+    "gn:admin4_code":"10060788.0",
+    "gn:asciiname":"Bara Puiautha",
+    "gn:country_code":"BD",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1210277,
+    "gn:latitude":22.5149,
+    "gn:longitude":90.28896,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Bara Pui\u0101utha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bara Pui\u0101utha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669019,
+        421187745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1210277,
+        "wk:page":"Bara_Puiautha"
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"59fa7ee8fc2b8d671c35225bdfe7ff57",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421187745,
+            "locality_id":1259713453,
+            "region_id":85669019
+        }
+    ],
+    "wof:id":1259713453,
+    "wof:lastmodified":1537586159,
+    "wof:name":"Bara Puiautha",
+    "wof:parent_id":421187745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.28896,
+    22.5149,
+    90.28896,
+    22.5149
+],
+  "geometry": {"coordinates":[90.28896,22.5149],"type":"Point"}
+}

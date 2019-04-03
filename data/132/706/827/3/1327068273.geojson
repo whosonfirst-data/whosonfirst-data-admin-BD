@@ -1,0 +1,74 @@
+{
+  "id": 1327068273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.20597,23.14842,91.20597,23.14842",
+    "geom:latitude":23.14842,
+    "geom:longitude":91.20597,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2019",
+    "gn:admin3_code":"201987.0",
+    "gn:admin4_code":"20198769.0",
+    "gn:asciiname":"Patwar",
+    "gn:country_code":"BD",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1192064,
+    "gn:latitude":23.14842,
+    "gn:longitude":91.20597,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Patw\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Patoar",
+        "Patw\u0101r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421187801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1192064
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"715ac139a067a74b75d8236dc475c4de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421187801,
+            "locality_id":1327068273,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1327068273,
+    "wof:lastmodified":1537585829,
+    "wof:name":"Patwar",
+    "wof:parent_id":421187801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.20597,
+    23.14842,
+    91.20597,
+    23.14842
+],
+  "geometry": {"coordinates":[91.20596999999999,23.14842],"type":"Point"}
+}

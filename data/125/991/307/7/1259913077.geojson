@@ -1,0 +1,73 @@
+{
+  "id": 1259913077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.97423,23.14993,89.97423,23.14993",
+    "geom:latitude":23.14993,
+    "geom:longitude":89.97423,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3054.0",
+    "gn:admin3_code":"305480.0",
+    "gn:admin4_code":"30548066.0",
+    "gn:asciiname":"Ikarbari",
+    "gn:country_code":"BD",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7480740,
+    "gn:latitude":23.14993,
+    "gn:longitude":89.97423,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Ikarb\u0101ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Ikarb\u0101ri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421183929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7480740
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"051da23e941bdd7a97a5cbf81e17d450",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421183929,
+            "locality_id":1259913077,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1259913077,
+    "wof:lastmodified":1537586459,
+    "wof:name":"Ikarbari",
+    "wof:parent_id":421183929,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.97423,
+    23.14993,
+    89.97423,
+    23.14993
+],
+  "geometry": {"coordinates":[89.97423000000001,23.14993],"type":"Point"}
+}

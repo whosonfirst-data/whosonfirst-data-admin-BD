@@ -1,0 +1,74 @@
+{
+  "id": 1243396745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.62188,23.5701,89.62188,23.5701",
+    "geom:latitude":23.5701,
+    "geom:longitude":89.62188,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3029",
+    "gn:admin3_code":"302956.0",
+    "gn:admin4_code":"30295631.0",
+    "gn:asciiname":"Mahishapura",
+    "gn:country_code":"BD",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1195512,
+    "gn:latitude":23.5701,
+    "gn:longitude":89.62188,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Mahish\u0101pura",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mahisapur",
+        "Mahish\u0101pura"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421198063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1195512
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"fb3d8ef037707c3a6136cdaa605c1b96",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421198063,
+            "locality_id":1243396745,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1243396745,
+    "wof:lastmodified":1537585890,
+    "wof:name":"Mahishapura",
+    "wof:parent_id":421198063,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.62188,
+    23.5701,
+    89.62188,
+    23.5701
+],
+  "geometry": {"coordinates":[89.62188,23.5701],"type":"Point"}
+}

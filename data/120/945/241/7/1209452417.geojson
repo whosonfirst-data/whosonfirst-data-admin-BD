@@ -1,0 +1,64 @@
+{
+  "id": 1209452417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.96667,24.0,88.96667,24.0",
+    "geom:latitude":24.0,
+    "geom:longitude":88.96667,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4050",
+    "gn:admin3_code":"405094.0",
+    "gn:admin4_code":"40509443.0",
+    "gn:asciiname":"Nitarpol",
+    "gn:country_code":"BD",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1192725,
+    "gn:latitude":24.0,
+    "gn:longitude":88.96667,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Nit\u0101rpol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1192725
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"737b058ca7fb1f8179deee35ba63abf6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209452417
+        }
+    ],
+    "wof:id":1209452417,
+    "wof:lastmodified":1536286632,
+    "wof:name":"Nitarpol",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.96667,
+    24.0,
+    88.96667,
+    24.0
+],
+  "geometry": {"coordinates":[88.96666999999999,24.0],"type":"Point"}
+}

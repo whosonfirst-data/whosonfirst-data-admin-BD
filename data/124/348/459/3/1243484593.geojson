@@ -1,0 +1,73 @@
+{
+  "id": 1243484593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.44528,25.75526,88.44528,25.75526",
+    "geom:latitude":25.75526,
+    "geom:longitude":88.44528,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5527.0",
+    "gn:admin3_code":"552721.0",
+    "gn:admin4_code":"55272181.0",
+    "gn:asciiname":"Barga",
+    "gn:country_code":"BD",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7487914,
+    "gn:latitude":25.75526,
+    "gn:longitude":88.44528,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Barga",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Barga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7487914
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"f7e7e7a0dda6ddfa8b8c157a99876700",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694671,
+            "locality_id":1243484593,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1243484593,
+    "wof:lastmodified":1537586653,
+    "wof:name":"Barga",
+    "wof:parent_id":1108694671,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.44528000000003,
+    25.75526,
+    88.44528000000003,
+    25.75526
+],
+  "geometry": {"coordinates":[88.44528000000003,25.75526],"type":"Point"}
+}

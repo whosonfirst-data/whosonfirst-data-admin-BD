@@ -1,0 +1,70 @@
+{
+  "id": 1209953903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.66942,23.71428,90.66942,23.71428",
+    "geom:latitude":23.71428,
+    "geom:longitude":90.66942,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3067",
+    "gn:admin3_code":"306702.0",
+    "gn:admin4_code":"30670263.0",
+    "gn:asciiname":"Kakailmora",
+    "gn:country_code":"BD",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1199352,
+    "gn:latitude":23.71428,
+    "gn:longitude":90.66942,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"K\u0101k\u0101ilmora",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421197045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1199352
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"4db672a1656a0f4203691061ba872cb0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421197045,
+            "locality_id":1209953903,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1209953903,
+    "wof:lastmodified":1536380562,
+    "wof:name":"Kakailmora",
+    "wof:parent_id":421197045,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.66942,
+    23.71428,
+    90.66942,
+    23.71428
+],
+  "geometry": {"coordinates":[90.66942,23.71428],"type":"Point"}
+}

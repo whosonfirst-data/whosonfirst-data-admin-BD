@@ -1,0 +1,74 @@
+{
+  "id": 1243587099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.88423,22.51284,89.88423,22.51284",
+    "geom:latitude":22.51284,
+    "geom:longitude":89.88423,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4001",
+    "gn:admin3_code":"400160.0",
+    "gn:admin4_code":"40016011.0",
+    "gn:asciiname":"Kachikata",
+    "gn:country_code":"BD",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1199619,
+    "gn:latitude":22.51284,
+    "gn:longitude":89.88423,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"K\u0101chik\u0101ta",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "K\u0101chik\u0101ta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        421187747
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1199619,
+        "wk:page":"Kachikata"
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"76c621e995bee45c5a0721c44c13878a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421187747,
+            "locality_id":1243587099,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1243587099,
+    "wof:lastmodified":1537585963,
+    "wof:name":"Kachikata",
+    "wof:parent_id":421187747,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.88423,
+    22.51284,
+    89.88423,
+    22.51284
+],
+  "geometry": {"coordinates":[89.88423,22.51284],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1192956495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.82662,22.66382,91.82662,22.66382",
+    "geom:latitude":22.66382,
+    "geom:longitude":91.82662,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2015.0",
+    "gn:admin3_code":"201533.0",
+    "gn:admin4_code":"20153357.0",
+    "gn:asciiname":"Sahanagar",
+    "gn:country_code":"BD",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6414338,
+    "gn:latitude":22.66382,
+    "gn:longitude":91.82662,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"S\u0101h\u0101nagar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "S\u0101h\u0101nagar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421201541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6414338
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"d35159b477446e085802b3128ba797e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421201541,
+            "locality_id":1192956495,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1192956495,
+    "wof:lastmodified":1537586224,
+    "wof:name":"Sahanagar",
+    "wof:parent_id":421201541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.82662,
+    22.66382,
+    91.82662,
+    22.66382
+],
+  "geometry": {"coordinates":[91.82662000000001,22.66382],"type":"Point"}
+}

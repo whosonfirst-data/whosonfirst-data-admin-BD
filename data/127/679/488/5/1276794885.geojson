@@ -1,0 +1,70 @@
+{
+  "id": 1276794885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.65461,22.65549,90.65461,22.65549",
+    "geom:latitude":22.65549,
+    "geom:longitude":90.65461,
+    "gn:admin1_code":"85",
+    "gn:admin2_code":"1009",
+    "gn:admin3_code":"100918.0",
+    "gn:admin4_code":"10091807.0",
+    "gn:asciiname":"Sachia",
+    "gn:country_code":"BD",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1189402,
+    "gn:latitude":22.65549,
+    "gn:longitude":90.65461,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"S\u0101chia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669019,
+        421184491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1189402
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"b0c07e5daefb8eb1be32b772d2dbbabe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421184491,
+            "locality_id":1276794885,
+            "region_id":85669019
+        }
+    ],
+    "wof:id":1276794885,
+    "wof:lastmodified":1536657730,
+    "wof:name":"Sachia",
+    "wof:parent_id":421184491,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.65461,
+    22.65549,
+    90.65461,
+    22.65549
+],
+  "geometry": {"coordinates":[90.65461000000001,22.65549],"type":"Point"}
+}

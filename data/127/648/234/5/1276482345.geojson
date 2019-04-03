@@ -1,0 +1,70 @@
+{
+  "id": 1276482345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"92.39118,25.01951,92.39118,25.01951",
+    "geom:latitude":25.01951,
+    "geom:longitude":92.39118,
+    "gn:admin1_code":"86",
+    "gn:admin2_code":"6091",
+    "gn:admin3_code":"609159.0",
+    "gn:admin4_code":"60915972.0",
+    "gn:asciiname":"Madarpur",
+    "gn:country_code":"BD",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1195905,
+    "gn:latitude":25.01951,
+    "gn:longitude":92.39118,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"M\u0101d\u0101rpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669025,
+        421187795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1195905
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"c9f499630566bfce363c28a4ebeecaa9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421187795,
+            "locality_id":1276482345,
+            "region_id":85669025
+        }
+    ],
+    "wof:id":1276482345,
+    "wof:lastmodified":1537073080,
+    "wof:name":"Madarpur",
+    "wof:parent_id":421187795,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    92.39118,
+    25.01951,
+    92.39118,
+    25.01951
+],
+  "geometry": {"coordinates":[92.39118000000001,25.01951],"type":"Point"}
+}

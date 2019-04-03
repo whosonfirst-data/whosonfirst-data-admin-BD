@@ -1,0 +1,70 @@
+{
+  "id": 1327076519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.85383,22.88312,90.85383,22.88312",
+    "geom:latitude":22.88312,
+    "geom:longitude":90.85383,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2051.0",
+    "gn:admin3_code":"205143.0",
+    "gn:admin4_code":"20514315.0",
+    "gn:asciiname":"Bhawaniganj",
+    "gn:country_code":"BD",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1208967,
+    "gn:latitude":22.88312,
+    "gn:longitude":90.85383,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Bhaw\u0101n\u012bganj",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421166521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1208967
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"ec73439af88dde368302c9468cfed232",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421166521,
+            "locality_id":1327076519,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1327076519,
+    "wof:lastmodified":1536697130,
+    "wof:name":"Bhawaniganj",
+    "wof:parent_id":421166521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.85383,
+    22.88312,
+    90.85383,
+    22.88312
+],
+  "geometry": {"coordinates":[90.85383,22.88312],"type":"Point"}
+}

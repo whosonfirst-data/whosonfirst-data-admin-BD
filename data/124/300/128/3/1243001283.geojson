@@ -1,0 +1,77 @@
+{
+  "id": 1243001283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.89597,22.30942,89.89597,22.30942",
+    "geom:latitude":22.30942,
+    "geom:longitude":89.89597,
+    "gn:admin1_code":"85",
+    "gn:admin2_code":"1079.0",
+    "gn:admin3_code":"107958.0",
+    "gn:admin4_code":"10795817.0",
+    "gn:asciiname":"Bara Machhaua",
+    "gn:country_code":"BD",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1210357,
+    "gn:latitude":22.30942,
+    "gn:longitude":89.89597,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Bara Machhaua",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Bara Machhaua"
+    ],
+    "name:ben_x_variant":[
+        "Bara M\u0101chhua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669019,
+        421172031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1210357,
+        "wk:page":"Bara_Machhua"
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"359888eab46a4bffd9f5e65f324065e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421172031,
+            "locality_id":1243001283,
+            "region_id":85669019
+        }
+    ],
+    "wof:id":1243001283,
+    "wof:lastmodified":1537586161,
+    "wof:name":"Bara Machhaua",
+    "wof:parent_id":421172031,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.89596999999998,
+    22.30942000000001,
+    89.89596999999998,
+    22.30942000000001
+],
+  "geometry": {"coordinates":[89.89596999999998,22.30942000000001],"type":"Point"}
+}

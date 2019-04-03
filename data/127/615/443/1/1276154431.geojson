@@ -1,0 +1,74 @@
+{
+  "id": 1276154431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.93473,25.27049,89.93473,25.27049",
+    "geom:latitude":25.27049,
+    "geom:longitude":89.93473,
+    "gn:admin1_code":"H",
+    "gn:admin2_code":"3089",
+    "gn:admin3_code":"308990.0",
+    "gn:admin4_code":"30899079.0",
+    "gn:asciiname":"Karna Jhora",
+    "gn:country_code":"BD",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1198391,
+    "gn:latitude":25.27049,
+    "gn:longitude":89.93473,
+    "gn:modification_date":"2016-11-17",
+    "gn:name":"Karna Jhora",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kornajhora",
+        "Karna Jhora"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        1108803101,
+        421190979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1198391
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"9e08d7bbd23cad6be7518dd74f155559",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421190979,
+            "locality_id":1276154431,
+            "region_id":1108803101
+        }
+    ],
+    "wof:id":1276154431,
+    "wof:lastmodified":1537585944,
+    "wof:name":"Karna Jhora",
+    "wof:parent_id":421190979,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.93473,
+    25.27049,
+    89.93473,
+    25.27049
+],
+  "geometry": {"coordinates":[89.93473,25.27049],"type":"Point"}
+}

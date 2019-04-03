@@ -1,0 +1,70 @@
+{
+  "id": 1309944153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.83471,23.18929,90.83471,23.18929",
+    "geom:latitude":23.18929,
+    "geom:longitude":90.83471,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2013",
+    "gn:admin3_code":"201345.0",
+    "gn:admin4_code":"20134589.0",
+    "gn:asciiname":"Lakshmipur",
+    "gn:country_code":"BD",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1196285,
+    "gn:latitude":23.18929,
+    "gn:longitude":90.83471,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Lakshm\u012bpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        1108694669
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1196285
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"046a69a3df63158866edbc937b4fa5dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694669,
+            "locality_id":1309944153,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1309944153,
+    "wof:lastmodified":1536731988,
+    "wof:name":"Lakshmipur",
+    "wof:parent_id":1108694669,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.83471,
+    23.18929,
+    90.83471,
+    23.18929
+],
+  "geometry": {"coordinates":[90.83471,23.18929],"type":"Point"}
+}

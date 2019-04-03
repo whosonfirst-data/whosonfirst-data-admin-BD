@@ -1,0 +1,70 @@
+{
+  "id": 1276151055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.53333,24.6,90.53333,24.6",
+    "geom:latitude":24.6,
+    "geom:longitude":90.53333,
+    "gn:admin1_code":"H",
+    "gn:admin2_code":"3061.0",
+    "gn:admin3_code":"306131.0",
+    "gn:admin4_code":"30613167.0",
+    "gn:asciiname":"Ghagra Narayanpur",
+    "gn:country_code":"BD",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1202675,
+    "gn:latitude":24.6,
+    "gn:longitude":90.53333,
+    "gn:modification_date":"2016-11-17",
+    "gn:name":"Gh\u0101gra N\u0101r\u0101yanpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        1108803101,
+        421185469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1202675
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"0b5f37a68b99b588686db5daf70f9d40",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421185469,
+            "locality_id":1276151055,
+            "region_id":1108803101
+        }
+    ],
+    "wof:id":1276151055,
+    "wof:lastmodified":1537022097,
+    "wof:name":"Ghagra Narayanpur",
+    "wof:parent_id":421185469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.53333,
+    24.6,
+    90.53333,
+    24.6
+],
+  "geometry": {"coordinates":[90.53333000000001,24.6],"type":"Point"}
+}

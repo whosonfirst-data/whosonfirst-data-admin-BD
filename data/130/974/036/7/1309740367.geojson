@@ -1,0 +1,73 @@
+{
+  "id": 1309740367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.85097,22.49816,89.85097,22.49816",
+    "geom:latitude":22.49816,
+    "geom:longitude":89.85097,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4001.0",
+    "gn:admin3_code":"400160.0",
+    "gn:admin4_code":"40016011.0",
+    "gn:asciiname":"Banshbaria",
+    "gn:country_code":"BD",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7476088,
+    "gn:latitude":22.49816,
+    "gn:longitude":89.85097,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Banshbaria",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Banshbaria"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        421187747
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7476088
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"9921b69436ba59974d49be85c1a06f60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421187747,
+            "locality_id":1309740367,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1309740367,
+    "wof:lastmodified":1537586336,
+    "wof:name":"Banshbaria",
+    "wof:parent_id":421187747,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.85096999999998,
+    22.49816,
+    89.85096999999998,
+    22.49816
+],
+  "geometry": {"coordinates":[89.85096999999998,22.49816],"type":"Point"}
+}

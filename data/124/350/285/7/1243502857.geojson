@@ -1,0 +1,70 @@
+{
+  "id": 1243502857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.0,23.05,91.0,23.05",
+    "geom:latitude":23.05,
+    "geom:longitude":91.0,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2075.0",
+    "gn:admin3_code":"207508.0",
+    "gn:admin4_code":"20750859.0",
+    "gn:asciiname":"Afsarkhil",
+    "gn:country_code":"BD",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1213230,
+    "gn:latitude":23.05,
+    "gn:longitude":91.0,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Afsarkhil",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421177051
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1213230
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"0c2bf08eed617700660a743b0719b0e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421177051,
+            "locality_id":1243502857,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1243502857,
+    "wof:lastmodified":1536724706,
+    "wof:name":"Afsarkhil",
+    "wof:parent_id":421177051,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.0,
+    23.05,
+    91.0,
+    23.05
+],
+  "geometry": {"coordinates":[91.0,23.05],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1226275977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.11331,23.16853,90.11331,23.16853",
+    "geom:latitude":23.16853,
+    "geom:longitude":90.11331,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3054",
+    "gn:admin3_code":"305454.0",
+    "gn:admin4_code":"30545447.0",
+    "gn:asciiname":"Uttar Khankuri",
+    "gn:country_code":"BD",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1191852,
+    "gn:latitude":23.16853,
+    "gn:longitude":90.11331,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Uttar Kh\u0101nkuri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Uttar Kauakuri",
+        "North K\u0101u\u0101kuri",
+        "Uttar Kh\u0101nkuri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421183929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1191852
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"cfa1926d558832cd96088e99cf91ba3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421183929,
+            "locality_id":1226275977,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1226275977,
+    "wof:lastmodified":1537585823,
+    "wof:name":"Uttar Khankuri",
+    "wof:parent_id":421183929,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.11331,
+    23.16853,
+    90.11331,
+    23.16853
+],
+  "geometry": {"coordinates":[90.11331,23.16853],"type":"Point"}
+}

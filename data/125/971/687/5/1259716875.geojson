@@ -1,0 +1,73 @@
+{
+  "id": 1259716875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.03058,22.28122,90.03058,22.28122",
+    "geom:latitude":22.28122,
+    "geom:longitude":90.03058,
+    "gn:admin1_code":"85",
+    "gn:admin2_code":"1004.0",
+    "gn:admin3_code":"100419.0",
+    "gn:admin4_code":"10041947.0",
+    "gn:asciiname":"Jafrakhali",
+    "gn:country_code":"BD",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7476350,
+    "gn:latitude":22.28122,
+    "gn:longitude":90.03058,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"J\u0101fr\u0101kh\u0101li",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "J\u0101fr\u0101kh\u0101li"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669019,
+        421176043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7476350
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"d51c06d7a2d30c9840db19106cead04b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421176043,
+            "locality_id":1259716875,
+            "region_id":85669019
+        }
+    ],
+    "wof:id":1259716875,
+    "wof:lastmodified":1537586342,
+    "wof:name":"Jafrakhali",
+    "wof:parent_id":421176043,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.03058,
+    22.28122,
+    90.03058,
+    22.28122
+],
+  "geometry": {"coordinates":[90.03058,22.28122],"type":"Point"}
+}

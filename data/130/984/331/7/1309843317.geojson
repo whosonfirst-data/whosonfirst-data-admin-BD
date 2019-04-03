@@ -1,0 +1,73 @@
+{
+  "id": 1309843317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.67487,23.77423,88.67487,23.77423",
+    "geom:latitude":23.77423,
+    "geom:longitude":88.67487,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4057.0",
+    "gn:admin3_code":"405787.0",
+    "gn:admin4_code":"40578719.0",
+    "gn:asciiname":"Puran Madnodanga",
+    "gn:country_code":"BD",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7484124,
+    "gn:latitude":23.77423,
+    "gn:longitude":88.67487,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Pur\u0101n M\u0101dnod\u0101nga",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Pur\u0101n M\u0101dnod\u0101nga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        421191661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7484124
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"febe48495cda48763ec6995afdc1e032",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421191661,
+            "locality_id":1309843317,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1309843317,
+    "wof:lastmodified":1537586556,
+    "wof:name":"Puran Madnodanga",
+    "wof:parent_id":421191661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.67487,
+    23.77423,
+    88.67487,
+    23.77423
+],
+  "geometry": {"coordinates":[88.67487,23.77423],"type":"Point"}
+}

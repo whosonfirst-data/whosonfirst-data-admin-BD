@@ -1,0 +1,74 @@
+{
+  "id": 1326660187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.03384,22.9101,89.03384,22.9101",
+    "geom:latitude":22.9101,
+    "geom:longitude":89.03384,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4087",
+    "gn:admin3_code":"408743.0",
+    "gn:admin4_code":"40874379.0",
+    "gn:asciiname":"Kushadanga",
+    "gn:country_code":"BD",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1196507,
+    "gn:latitude":22.9101,
+    "gn:longitude":89.03384,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Kush\u0101d\u0101nga",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kusadanga",
+        "Kush\u0101d\u0101nga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        421201927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1196507
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"73ce2423353dd4892a104ad21c6147da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421201927,
+            "locality_id":1326660187,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1326660187,
+    "wof:lastmodified":1537585907,
+    "wof:name":"Kushadanga",
+    "wof:parent_id":421201927,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.03384,
+    22.9101,
+    89.03384,
+    22.9101
+],
+  "geometry": {"coordinates":[89.03384,22.9101],"type":"Point"}
+}

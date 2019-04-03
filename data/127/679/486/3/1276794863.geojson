@@ -1,0 +1,73 @@
+{
+  "id": 1276794863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.45275,23.24248,89.45275,23.24248",
+    "geom:latitude":23.24248,
+    "geom:longitude":89.45275,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4065",
+    "gn:admin3_code":"406576.0",
+    "gn:admin4_code":"40657654.0",
+    "gn:asciiname":"Maijpara",
+    "gn:country_code":"BD",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1195416,
+    "gn:latitude":23.24248,
+    "gn:longitude":89.45275,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"M\u0101ijp\u0101ra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "M\u0101ijp\u0101ra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        421205213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1195416
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"7eb7c50a6cdcad13599dfc6cb706ae17",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421205213,
+            "locality_id":1276794863,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1276794863,
+    "wof:lastmodified":1537585887,
+    "wof:name":"Maijpara",
+    "wof:parent_id":421205213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.45275,
+    23.24248,
+    89.45275,
+    23.24248
+],
+  "geometry": {"coordinates":[89.45274999999999,23.24248],"type":"Point"}
+}

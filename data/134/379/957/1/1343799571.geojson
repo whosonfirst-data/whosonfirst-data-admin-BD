@@ -1,0 +1,77 @@
+{
+  "id": 1343799571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.18824,22.37513,90.18824,22.37513",
+    "geom:latitude":22.37513,
+    "geom:longitude":90.18824,
+    "gn:admin1_code":"85",
+    "gn:admin2_code":"1078",
+    "gn:admin3_code":"107876.0",
+    "gn:admin4_code":"10787613.0",
+    "gn:asciiname":"South Amragachhia",
+    "gn:country_code":"BD",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1187483,
+    "gn:latitude":22.37513,
+    "gn:longitude":90.18824,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"South \u0100mr\u0101g\u0101chhia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "South \u0100mr\u0101g\u0101chhia"
+    ],
+    "name:und_x_variant":[
+        "South Amragachia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669019,
+        421176043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1187483,
+        "wk:page":"South_Amragachhia"
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"28e788416591e152776bb61c9e5cec3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421176043,
+            "locality_id":1343799571,
+            "region_id":85669019
+        }
+    ],
+    "wof:id":1343799571,
+    "wof:lastmodified":1537585739,
+    "wof:name":"South Amragachhia",
+    "wof:parent_id":421176043,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.18824,
+    22.37513,
+    90.18824,
+    22.37513
+],
+  "geometry": {"coordinates":[90.18823999999999,22.37513],"type":"Point"}
+}

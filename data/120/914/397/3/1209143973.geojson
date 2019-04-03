@@ -1,0 +1,67 @@
+{
+  "id": 1209143973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.86131,22.22009,91.86131,22.22009",
+    "geom:latitude":22.22009,
+    "geom:longitude":91.86131,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2015.0",
+    "gn:admin3_code":"201504.0",
+    "gn:admin4_code":"20150419.0",
+    "gn:asciiname":"Mohammadpur",
+    "gn:country_code":"BD",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6415537,
+    "gn:latitude":22.22009,
+    "gn:longitude":91.86131,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Mohammadpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Mohammadpur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6415537
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"bea9697f64ee8a8c253c6317fdfd22dc",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209143973
+        }
+    ],
+    "wof:id":1209143973,
+    "wof:lastmodified":1537586247,
+    "wof:name":"Mohammadpur",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.86131,
+    22.22009,
+    91.86131,
+    22.22009
+],
+  "geometry": {"coordinates":[91.86131,22.22009],"type":"Point"}
+}

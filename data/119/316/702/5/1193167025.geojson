@@ -1,0 +1,70 @@
+{
+  "id": 1193167025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.91667,24.68333,89.91667,24.68333",
+    "geom:latitude":24.68333,
+    "geom:longitude":89.91667,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3093.0",
+    "gn:admin3_code":"309358.0",
+    "gn:admin4_code":"30935885.0",
+    "gn:asciiname":"Darichandbari",
+    "gn:country_code":"BD",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1205095,
+    "gn:latitude":24.68333,
+    "gn:longitude":89.91667,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Darich\u0101ndb\u0101ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421185471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1205095
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"ceb47032868b33a1dcb819c962669c9d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421185471,
+            "locality_id":1193167025,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1193167025,
+    "wof:lastmodified":1536384488,
+    "wof:name":"Darichandbari",
+    "wof:parent_id":421185471,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.91667,
+    24.68333,
+    89.91667,
+    24.68333
+],
+  "geometry": {"coordinates":[89.91667,24.68333],"type":"Point"}
+}

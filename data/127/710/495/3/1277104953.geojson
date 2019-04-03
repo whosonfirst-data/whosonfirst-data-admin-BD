@@ -1,0 +1,71 @@
+{
+  "id": 1277104953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.00712,25.13242,91.00712,25.13242",
+    "geom:latitude":25.13242,
+    "geom:longitude":91.00712,
+    "gn:admin1_code":"81",
+    "gn:asciiname":"Rangsi",
+    "gn:country_code":"BD",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1189835,
+    "gn:latitude":25.13242,
+    "gn:longitude":91.00712,
+    "gn:modification_date":"2012-12-05",
+    "gn:name":"Rangsi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rangchi",
+        "Rangsi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669025,
+        421201931
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1189835
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"c2f1c65719e3e56d522cb07dbb89a8b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421201931,
+            "locality_id":1277104953,
+            "region_id":85669025
+        }
+    ],
+    "wof:id":1277104953,
+    "wof:lastmodified":1537585787,
+    "wof:name":"Rangsi",
+    "wof:parent_id":421201931,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.00712,
+    25.13242,
+    91.00712,
+    25.13242
+],
+  "geometry": {"coordinates":[91.00712,25.13242],"type":"Point"}
+}

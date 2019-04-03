@@ -1,0 +1,70 @@
+{
+  "id": 1293419693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.46017,23.54658,90.46017,23.54658",
+    "geom:latitude":23.54658,
+    "geom:longitude":90.46017,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3059",
+    "gn:admin3_code":"305994.0",
+    "gn:admin4_code":"30599431.0",
+    "gn:asciiname":"Uttar Betka",
+    "gn:country_code":"BD",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1185668,
+    "gn:latitude":23.54658,
+    "gn:longitude":90.46017,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Uttar Betka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421205059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1185668
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"29e20d329f843418822d1cafea04567f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421205059,
+            "locality_id":1293419693,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1293419693,
+    "wof:lastmodified":1536884337,
+    "wof:name":"Uttar Betka",
+    "wof:parent_id":421205059,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.46017,
+    23.54658,
+    90.46017,
+    23.54658
+],
+  "geometry": {"coordinates":[90.46017000000001,23.54658],"type":"Point"}
+}

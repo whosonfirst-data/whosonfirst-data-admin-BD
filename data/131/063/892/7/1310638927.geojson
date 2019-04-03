@@ -1,0 +1,73 @@
+{
+  "id": 1310638927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"92.07444,21.53048,92.07444,21.53048",
+    "geom:latitude":21.53048,
+    "geom:longitude":92.07444,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2022.0",
+    "gn:admin3_code":"202224.0",
+    "gn:admin4_code":"20222435.0",
+    "gn:asciiname":"Chandarpara",
+    "gn:country_code":"BD",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6414878,
+    "gn:latitude":21.53048,
+    "gn:longitude":92.07444,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Ch\u0101ndarpara",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Ch\u0101ndarpara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421205057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6414878
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"56ead088e5253d916ac7d503c2d0124a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421205057,
+            "locality_id":1310638927,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1310638927,
+    "wof:lastmodified":1537586234,
+    "wof:name":"Chandarpara",
+    "wof:parent_id":421205057,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    92.07444,
+    21.53048,
+    92.07444,
+    21.53048
+],
+  "geometry": {"coordinates":[92.07444,21.53048],"type":"Point"}
+}

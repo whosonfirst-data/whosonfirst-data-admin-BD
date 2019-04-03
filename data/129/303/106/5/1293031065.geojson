@@ -1,0 +1,76 @@
+{
+  "id": 1293031065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.61822,23.11987,89.61822,23.11987",
+    "geom:latitude":23.11987,
+    "geom:longitude":89.61822,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4065",
+    "gn:admin3_code":"406552.0",
+    "gn:admin4_code":"40655207.0",
+    "gn:asciiname":"Sarkol",
+    "gn:country_code":"BD",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1188548,
+    "gn:latitude":23.11987,
+    "gn:longitude":89.61822,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"S\u0101rkol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "S\u0101rkol"
+    ],
+    "name:ben_x_variant":[
+        "S\u0101rol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        421205213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1188548
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"2ecbe32887327c5017800506d510997e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421205213,
+            "locality_id":1293031065,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1293031065,
+    "wof:lastmodified":1537585764,
+    "wof:name":"Sarkol",
+    "wof:parent_id":421205213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.61822,
+    23.11987,
+    89.61822,
+    23.11987
+],
+  "geometry": {"coordinates":[89.61821999999999,23.11987],"type":"Point"}
+}

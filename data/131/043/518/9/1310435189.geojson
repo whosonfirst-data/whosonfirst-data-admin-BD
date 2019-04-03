@@ -1,0 +1,73 @@
+{
+  "id": 1310435189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.42752,23.05308,89.42752,23.05308",
+    "geom:latitude":23.05308,
+    "geom:longitude":89.42752,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4041.0",
+    "gn:admin3_code":"404104.0",
+    "gn:admin4_code":"40410473.0",
+    "gn:asciiname":"Kadla",
+    "gn:country_code":"BD",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7479899,
+    "gn:latitude":23.05308,
+    "gn:longitude":89.42752,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"K\u0101dla",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "K\u0101dla"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        421176039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7479899
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"0ed922e775a20cdedc1b0339a0e4d420",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421176039,
+            "locality_id":1310435189,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1310435189,
+    "wof:lastmodified":1537586434,
+    "wof:name":"Kadla",
+    "wof:parent_id":421176039,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.42752,
+    23.05308,
+    89.42752,
+    23.05308
+],
+  "geometry": {"coordinates":[89.42752,23.05308],"type":"Point"}
+}

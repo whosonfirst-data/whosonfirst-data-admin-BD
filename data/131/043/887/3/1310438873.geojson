@@ -1,0 +1,70 @@
+{
+  "id": 1310438873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.2891,23.61098,89.2891,23.61098",
+    "geom:latitude":23.61098,
+    "geom:longitude":89.2891,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4044.0",
+    "gn:admin3_code":"404480.0",
+    "gn:admin4_code":"40448010.0",
+    "gn:asciiname":"Hat Fazilpur",
+    "gn:country_code":"BD",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1201238,
+    "gn:latitude":23.61098,
+    "gn:longitude":89.2891,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"H\u0101t F\u0101zilpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        1108694679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1201238
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"0725325cb3a2b0105d1c3842a7c7ea78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694679,
+            "locality_id":1310438873,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1310438873,
+    "wof:lastmodified":1537012469,
+    "wof:name":"Hat Fazilpur",
+    "wof:parent_id":1108694679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.2891,
+    23.61098,
+    89.2891,
+    23.61098
+],
+  "geometry": {"coordinates":[89.2891,23.61098],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1360114559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.58865,25.73025,89.58865,25.73025",
+    "geom:latitude":25.73025,
+    "geom:longitude":89.58865,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5549",
+    "gn:admin3_code":"554994.0",
+    "gn:admin4_code":"55499472.0",
+    "gn:asciiname":"Baro Mahishmuri",
+    "gn:country_code":"BD",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7926357,
+    "gn:latitude":25.73025,
+    "gn:longitude":89.58865,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Baro Mahishmuri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Baro Mahishmuri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7926357
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"5f5313c0cb80d383fb324c15cb5cf024",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694685,
+            "locality_id":1360114559,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1360114559,
+    "wof:lastmodified":1537586821,
+    "wof:name":"Baro Mahishmuri",
+    "wof:parent_id":1108694685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.58865,
+    25.73025,
+    89.58865,
+    25.73025
+],
+  "geometry": {"coordinates":[89.58865,25.73025],"type":"Point"}
+}

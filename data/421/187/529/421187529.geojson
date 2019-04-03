@@ -1,0 +1,79 @@
+{
+  "id": 421187529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.00957,23.85768,90.00957,23.85768",
+    "geom:latitude":23.85768,
+    "geom:longitude":90.00957,
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "M\u0101nikganj"
+    ],
+    "qs:gn_country":"BD",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":1348441,
+    "qs:gn_pop":0,
+    "qs:name":"Manikganj",
+    "qs:name_adm0":"Bangladesh",
+    "qs:name_adm1":"Dhaka",
+    "qs:photos":432,
+    "qs:photos_1k":88,
+    "qs:photos_9k":2,
+    "qs:photos_9r":5,
+    "qs:photos_all":432,
+    "qs:photos_sr":6,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1083623,
+    "qs:woe_adm0":23424759,
+    "qs:woe_id":1915144,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421191745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1348441,
+        "gp:id":1915144,
+        "qs:id":1083623
+    },
+    "wof:country":"BD",
+    "wof:created":1459009516,
+    "wof:geomhash":"228b66ecb76c216cd16c4952175ceb0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421191745,
+            "locality_id":421187529,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":421187529,
+    "wof:lastmodified":1501219972,
+    "wof:name":"Manikganj",
+    "wof:parent_id":421191745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.00957,
+    23.85768,
+    90.00957,
+    23.85768
+],
+  "geometry": {"coordinates":[90.00957,23.85768],"type":"Point"}
+}

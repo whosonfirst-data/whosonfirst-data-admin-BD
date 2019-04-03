@@ -1,0 +1,74 @@
+{
+  "id": 1310143173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.42628,23.05105,90.42628,23.05105",
+    "geom:latitude":23.05105,
+    "geom:longitude":90.42628,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3086",
+    "gn:admin3_code":"308636.0",
+    "gn:admin4_code":"30863635.0",
+    "gn:asciiname":"Khord Jangal",
+    "gn:country_code":"BD",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1197283,
+    "gn:latitude":23.05105,
+    "gn:longitude":90.42628,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Khord Jangal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Khudra Jangal",
+        "Khord Jangal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421188359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1197283
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"d71ad1763a6bdcc1210a5a2c06e2332f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421188359,
+            "locality_id":1310143173,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1310143173,
+    "wof:lastmodified":1537585922,
+    "wof:name":"Khord Jangal",
+    "wof:parent_id":421188359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.42628,
+    23.05105,
+    90.42628,
+    23.05105
+],
+  "geometry": {"coordinates":[90.42628000000001,23.05105],"type":"Point"}
+}

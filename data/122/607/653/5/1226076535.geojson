@@ -1,0 +1,73 @@
+{
+  "id": 1226076535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.24396,21.87264,90.24396,21.87264",
+    "geom:latitude":21.87264,
+    "geom:longitude":90.24396,
+    "gn:admin1_code":"85",
+    "gn:admin2_code":"1078.0",
+    "gn:admin3_code":"107866.0",
+    "gn:admin4_code":"10786659.0",
+    "gn:asciiname":"Bara Baliatali",
+    "gn:country_code":"BD",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1210757,
+    "gn:latitude":21.87264,
+    "gn:longitude":90.24396,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"B\u0101r\u0101 Bali\u0101tali",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "B\u0101r\u0101 Bali\u0101tali"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669019,
+        421169845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1210757
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"c6bb7dff0f0a20e7f9ac6a635fe8c1a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421169845,
+            "locality_id":1226076535,
+            "region_id":85669019
+        }
+    ],
+    "wof:id":1226076535,
+    "wof:lastmodified":1537586167,
+    "wof:name":"Bara Baliatali",
+    "wof:parent_id":421169845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.24396,
+    21.87264,
+    90.24396,
+    21.87264
+],
+  "geometry": {"coordinates":[90.24396,21.87264],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1310628835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.98255,25.02297,89.98255,25.02297",
+    "geom:latitude":25.02297,
+    "geom:longitude":89.98255,
+    "gn:admin1_code":"H",
+    "gn:admin2_code":"3089",
+    "gn:admin3_code":"308988.0",
+    "gn:admin4_code":"30898840.0",
+    "gn:asciiname":"Dupaghat",
+    "gn:country_code":"BD",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7922544,
+    "gn:latitude":25.02297,
+    "gn:longitude":89.98255,
+    "gn:modification_date":"2016-11-17",
+    "gn:name":"Dupaghat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Dupaghat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        1108803101,
+        421190979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7922544
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"0beaae158fb1bf89488611f5e5c82f8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421190979,
+            "locality_id":1310628835,
+            "region_id":1108803101
+        }
+    ],
+    "wof:id":1310628835,
+    "wof:lastmodified":1537586787,
+    "wof:name":"Dupaghat",
+    "wof:parent_id":421190979,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.98255,
+    25.02297,
+    89.98255,
+    25.02297
+],
+  "geometry": {"coordinates":[89.98255,25.02297],"type":"Point"}
+}

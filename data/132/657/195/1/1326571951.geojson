@@ -1,0 +1,75 @@
+{
+  "id": 1326571951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.63333,23.33333,90.63333,23.33333",
+    "geom:latitude":23.33333,
+    "geom:longitude":90.63333,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2013.0",
+    "gn:admin3_code":"201379.0",
+    "gn:admin4_code":"20137908.0",
+    "gn:asciiname":"Chhota Char Kalia",
+    "gn:cc2":"BD",
+    "gn:country_code":"BD",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1206030,
+    "gn:latitude":23.33333,
+    "gn:longitude":90.63333,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Chhota Char K\u0101lia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chotto Charkalia",
+        "Chhota Char K\u0101lia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        1108694669
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1206030
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"9d36a2678fef9097133f213af5198ea1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694669,
+            "locality_id":1326571951,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1326571951,
+    "wof:lastmodified":1537586085,
+    "wof:name":"Chhota Char Kalia",
+    "wof:parent_id":1108694669,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.63333,
+    23.33333,
+    90.63333,
+    23.33333
+],
+  "geometry": {"coordinates":[90.63333,23.33333],"type":"Point"}
+}

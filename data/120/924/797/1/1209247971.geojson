@@ -1,0 +1,68 @@
+{
+  "id": 1209247971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.26846,22.60253,89.26846,22.60253",
+    "geom:latitude":22.60253,
+    "geom:longitude":89.26846,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4047.0",
+    "gn:admin3_code":"404764.0",
+    "gn:admin4_code":"40476483.0",
+    "gn:asciiname":"Arazi Bhawanipur",
+    "gn:country_code":"BD",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1212581,
+    "gn:latitude":22.60253,
+    "gn:longitude":89.26846,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"\u0100r\u0101zi Bhaw\u0101n\u012bpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Arazi Bhabanipur",
+        "\u0100r\u0101zi Bhaw\u0101n\u012bpur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1212581
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"b78b0089d03c8b051362bf8d87bce7c3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209247971
+        }
+    ],
+    "wof:id":1209247971,
+    "wof:lastmodified":1537586199,
+    "wof:name":"Arazi Bhawanipur",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.26846,
+    22.60253,
+    89.26846,
+    22.60253
+],
+  "geometry": {"coordinates":[89.26846,22.60253],"type":"Point"}
+}

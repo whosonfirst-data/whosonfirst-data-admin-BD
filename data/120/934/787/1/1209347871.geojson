@@ -1,0 +1,64 @@
+{
+  "id": 1209347871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.5,24.53333,88.5,24.53333",
+    "geom:latitude":24.53333,
+    "geom:longitude":88.5,
+    "gn:admin1_code":"83",
+    "gn:admin2_code":"5081",
+    "gn:admin3_code":"508134.0",
+    "gn:admin4_code":"50813485.0",
+    "gn:asciiname":"Khatandar",
+    "gn:country_code":"BD",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1197472,
+    "gn:latitude":24.53333,
+    "gn:longitude":88.5,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Khatandar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1197472
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"0e91121d306185739efa02e58fa3de43",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209347871
+        }
+    ],
+    "wof:id":1209347871,
+    "wof:lastmodified":1536289848,
+    "wof:name":"Khatandar",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.5,
+    24.53333,
+    88.5,
+    24.53333
+],
+  "geometry": {"coordinates":[88.5,24.53333],"type":"Point"}
+}

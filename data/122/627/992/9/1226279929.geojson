@@ -1,0 +1,70 @@
+{
+  "id": 1226279929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.25167,24.03993,90.25167,24.03993",
+    "geom:latitude":24.03993,
+    "geom:longitude":90.25167,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3033.0",
+    "gn:admin3_code":"303332.0",
+    "gn:admin4_code":"30333266.0",
+    "gn:asciiname":"Chandara",
+    "gn:country_code":"BD",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1207468,
+    "gn:latitude":24.03993,
+    "gn:longitude":90.25167,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Ch\u0101ndara",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421203493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1207468
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"978c2c6a566ae040aaff7167ef11a546",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421203493,
+            "locality_id":1226279929,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1226279929,
+    "wof:lastmodified":1536883677,
+    "wof:name":"Chandara",
+    "wof:parent_id":421203493,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.25167,
+    24.03993,
+    90.25167,
+    24.03993
+],
+  "geometry": {"coordinates":[90.25167,24.03993],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1327276259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.91824,23.6027,90.91824,23.6027",
+    "geom:latitude":23.6027,
+    "geom:longitude":90.91824,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2019",
+    "gn:admin3_code":"201981.0",
+    "gn:admin4_code":"20198136.0",
+    "gn:asciiname":"Mugsair",
+    "gn:country_code":"BD",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1194061,
+    "gn:latitude":23.6027,
+    "gn:longitude":90.91824,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Mugs\u0101ir",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421187801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1194061
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"40271de9958d2e4ebf4e394557f7cdc1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421187801,
+            "locality_id":1327276259,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1327276259,
+    "wof:lastmodified":1536906590,
+    "wof:name":"Mugsair",
+    "wof:parent_id":421187801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.91824,
+    23.6027,
+    90.91824,
+    23.6027
+],
+  "geometry": {"coordinates":[90.91824,23.6027],"type":"Point"}
+}

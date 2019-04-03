@@ -1,0 +1,74 @@
+{
+  "id": 1344190483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.364,23.74869,89.364,23.74869",
+    "geom:latitude":23.74869,
+    "geom:longitude":89.364,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3082",
+    "gn:admin3_code":"308273.0",
+    "gn:admin4_code":"30827390.0",
+    "gn:asciiname":"Sarsa",
+    "gn:country_code":"BD",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1188539,
+    "gn:latitude":23.74869,
+    "gn:longitude":89.364,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Sarsa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sarisha",
+        "Sarsa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        1108694699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1188539
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"0089bdcb3105951d602e834c5e0d1e0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694699,
+            "locality_id":1344190483,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1344190483,
+    "wof:lastmodified":1537585763,
+    "wof:name":"Sarsa",
+    "wof:parent_id":1108694699,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.36399999999998,
+    23.74869,
+    89.36399999999998,
+    23.74869
+],
+  "geometry": {"coordinates":[89.36399999999998,23.74869],"type":"Point"}
+}

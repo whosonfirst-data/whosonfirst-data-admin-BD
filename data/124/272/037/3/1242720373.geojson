@@ -1,0 +1,73 @@
+{
+  "id": 1242720373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"92.06869,21.45172,92.06869,21.45172",
+    "geom:latitude":21.45172,
+    "geom:longitude":92.06869,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2022.0",
+    "gn:admin3_code":"202266.0",
+    "gn:admin4_code":"20226638.0",
+    "gn:asciiname":"Siramura",
+    "gn:country_code":"BD",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6416693,
+    "gn:latitude":21.45172,
+    "gn:longitude":92.06869,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Sir\u0101mura",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Sir\u0101mura"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421205057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6416693
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"6152d5f07180dd9a985a76b8cd91e0f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421205057,
+            "locality_id":1242720373,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1242720373,
+    "wof:lastmodified":1537586268,
+    "wof:name":"Siramura",
+    "wof:parent_id":421205057,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    92.06869,
+    21.45172,
+    92.06869,
+    21.45172
+],
+  "geometry": {"coordinates":[92.06869,21.45172],"type":"Point"}
+}

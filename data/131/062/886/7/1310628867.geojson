@@ -1,0 +1,70 @@
+{
+  "id": 1310628867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.81558,23.78471,89.81558,23.78471",
+    "geom:latitude":23.78471,
+    "geom:longitude":89.81558,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3056.0",
+    "gn:admin3_code":"305678.0",
+    "gn:admin4_code":"30567811.0",
+    "gn:asciiname":"Baruria",
+    "gn:country_code":"BD",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1210024,
+    "gn:latitude":23.78471,
+    "gn:longitude":89.81558,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Baruria",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421191745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1210024
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"d65e4b16a48130f8ad95babb57d3594f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421191745,
+            "locality_id":1310628867,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1310628867,
+    "wof:lastmodified":1536738992,
+    "wof:name":"Baruria",
+    "wof:parent_id":421191745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.81558000000003,
+    23.78471,
+    89.81558000000003,
+    23.78471
+],
+  "geometry": {"coordinates":[89.81558000000003,23.78471],"type":"Point"}
+}

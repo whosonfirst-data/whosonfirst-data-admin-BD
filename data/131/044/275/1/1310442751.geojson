@@ -1,0 +1,73 @@
+{
+  "id": 1310442751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.61155,23.79737,88.61155,23.79737",
+    "geom:latitude":23.79737,
+    "geom:longitude":88.61155,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4057.0",
+    "gn:admin3_code":"405787.0",
+    "gn:admin4_code":"40578738.0",
+    "gn:asciiname":"Kamdebpur",
+    "gn:country_code":"BD",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7484083,
+    "gn:latitude":23.79737,
+    "gn:longitude":88.61155,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"K\u0101mdebpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "K\u0101mdebpur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        421191661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7484083
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"50f4b773e6a7ea9d5913efd37ae02c9e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421191661,
+            "locality_id":1310442751,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1310442751,
+    "wof:lastmodified":1537586555,
+    "wof:name":"Kamdebpur",
+    "wof:parent_id":421191661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.61155,
+    23.79737,
+    88.61155,
+    23.79737
+],
+  "geometry": {"coordinates":[88.61154999999999,23.79737],"type":"Point"}
+}

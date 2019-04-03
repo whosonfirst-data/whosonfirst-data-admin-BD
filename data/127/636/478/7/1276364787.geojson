@@ -1,0 +1,73 @@
+{
+  "id": 1276364787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.63926,26.14742,89.63926,26.14742",
+    "geom:latitude":26.14742,
+    "geom:longitude":89.63926,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5549",
+    "gn:admin3_code":"554906.0",
+    "gn:admin4_code":"55490695.0",
+    "gn:asciiname":"Naleya",
+    "gn:country_code":"BD",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8038844,
+    "gn:latitude":26.14742,
+    "gn:longitude":89.63926,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Naleya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Naleya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8038844
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"79210a82a2e77aa2dd261ac0a29007bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694685,
+            "locality_id":1276364787,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1276364787,
+    "wof:lastmodified":1537586834,
+    "wof:name":"Naleya",
+    "wof:parent_id":1108694685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.63926,
+    26.14742,
+    89.63926,
+    26.14742
+],
+  "geometry": {"coordinates":[89.63925999999999,26.14742],"type":"Point"}
+}

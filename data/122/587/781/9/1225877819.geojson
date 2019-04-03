@@ -1,0 +1,73 @@
+{
+  "id": 1225877819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.4707,24.42286,88.4707,24.42286",
+    "geom:latitude":24.42286,
+    "geom:longitude":88.4707,
+    "gn:admin1_code":"83",
+    "gn:admin2_code":"5081.0",
+    "gn:admin3_code":"508134.0",
+    "gn:admin4_code":"50813428.0",
+    "gn:asciiname":"Parshapara",
+    "gn:country_code":"BD",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7482674,
+    "gn:latitude":24.42286,
+    "gn:longitude":88.4707,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Parshapara",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Parshapara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669031,
+        421172439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7482674
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"b580d0a0e7cf3525b61fefaf9d9db515",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421172439,
+            "locality_id":1225877819,
+            "region_id":85669031
+        }
+    ],
+    "wof:id":1225877819,
+    "wof:lastmodified":1537586514,
+    "wof:name":"Parshapara",
+    "wof:parent_id":421172439,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.4707,
+    24.42286,
+    88.4707,
+    24.42286
+],
+  "geometry": {"coordinates":[88.47069999999999,24.42286],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1226472425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.65349,23.68823,89.65349,23.68823",
+    "geom:latitude":23.68823,
+    "geom:longitude":89.65349,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3082",
+    "gn:admin3_code":"308276.0",
+    "gn:admin4_code":"30827658.0",
+    "gn:asciiname":"West Mulghar",
+    "gn:country_code":"BD",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1185356,
+    "gn:latitude":23.68823,
+    "gn:longitude":89.65349,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"West Mulghar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Paschim Mulghar",
+        "West Mulghar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        1108694699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1185356
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"dfa04d763c46574be0b5d3e00b85b543",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694699,
+            "locality_id":1226472425,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1226472425,
+    "wof:lastmodified":1537585698,
+    "wof:name":"West Mulghar",
+    "wof:parent_id":1108694699,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.65349,
+    23.68823,
+    89.65349,
+    23.68823
+],
+  "geometry": {"coordinates":[89.65349000000001,23.68823],"type":"Point"}
+}

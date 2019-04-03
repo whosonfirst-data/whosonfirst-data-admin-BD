@@ -1,0 +1,74 @@
+{
+  "id": 1343598749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.7915,23.59945,89.7915,23.59945",
+    "geom:latitude":23.59945,
+    "geom:longitude":89.7915,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3029",
+    "gn:admin3_code":"302947.0",
+    "gn:admin4_code":"30294715.0",
+    "gn:asciiname":"Komarpur",
+    "gn:country_code":"BD",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1197029,
+    "gn:latitude":23.59945,
+    "gn:longitude":89.7915,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Komarpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kamarpur",
+        "Komarpur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421198063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1197029
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"3be41c0b04dfdb489cf6790daff1011c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421198063,
+            "locality_id":1343598749,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1343598749,
+    "wof:lastmodified":1537585915,
+    "wof:name":"Komarpur",
+    "wof:parent_id":421198063,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.7915,
+    23.59945,
+    89.7915,
+    23.59945
+],
+  "geometry": {"coordinates":[89.7915,23.59945],"type":"Point"}
+}

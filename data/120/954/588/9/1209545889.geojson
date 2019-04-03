@@ -1,0 +1,67 @@
+{
+  "id": 1209545889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.82655,26.07505,88.82655,26.07505",
+    "geom:latitude":26.07505,
+    "geom:longitude":88.82655,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5573.0",
+    "gn:admin3_code":"557315.0",
+    "gn:admin4_code":"55731595.0",
+    "gn:asciiname":"Harnaria",
+    "gn:country_code":"BD",
+    "gn:dem":54,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7105377,
+    "gn:latitude":26.07505,
+    "gn:longitude":88.82655,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Harnaria",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Harnaria"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7105377
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"65548894edac91fdd62eeebe72919a06",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209545889
+        }
+    ],
+    "wof:id":1209545889,
+    "wof:lastmodified":1537586302,
+    "wof:name":"Harnaria",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.82655,
+    26.07505,
+    88.82655,
+    26.07505
+],
+  "geometry": {"coordinates":[88.82655,26.07505],"type":"Point"}
+}

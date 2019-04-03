@@ -1,0 +1,73 @@
+{
+  "id": 1209753673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.88245,22.2271,91.88245,22.2271",
+    "geom:latitude":22.2271,
+    "geom:longitude":91.88245,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2015.0",
+    "gn:admin3_code":"201504.0",
+    "gn:admin4_code":"20150409.0",
+    "gn:asciiname":"Khilpara",
+    "gn:country_code":"BD",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6415532,
+    "gn:latitude":22.2271,
+    "gn:longitude":91.88245,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Khilp\u0101ra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Khilp\u0101ra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421201541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6415532
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"2372a3d8318a591fd0447874890102ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421201541,
+            "locality_id":1209753673,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1209753673,
+    "wof:lastmodified":1537586247,
+    "wof:name":"Khilpara",
+    "wof:parent_id":421201541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.88245,
+    22.2271,
+    91.88245,
+    22.2271
+],
+  "geometry": {"coordinates":[91.88245000000001,22.2271],"type":"Point"}
+}

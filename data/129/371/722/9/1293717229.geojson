@@ -1,0 +1,76 @@
+{
+  "id": 1293717229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.82045,23.08104,89.82045,23.08104",
+    "geom:latitude":23.08104,
+    "geom:longitude":89.82045,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3035",
+    "gn:admin3_code":"303532.0",
+    "gn:admin4_code":"30353264.0",
+    "gn:asciiname":"Mullakandi",
+    "gn:country_code":"BD",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1194150,
+    "gn:latitude":23.08104,
+    "gn:longitude":89.82045,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Mullak\u0101ndi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Mullak\u0101ndi"
+    ],
+    "name:ben_x_variant":[
+        "Mollak\u0101ndi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421194867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1194150
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"4f67a608591abc65877ef5c54b4254c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421194867,
+            "locality_id":1293717229,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1293717229,
+    "wof:lastmodified":1537585864,
+    "wof:name":"Mullakandi",
+    "wof:parent_id":421194867,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.82045,
+    23.08104,
+    89.82045,
+    23.08104
+],
+  "geometry": {"coordinates":[89.82044999999999,23.08104],"type":"Point"}
+}

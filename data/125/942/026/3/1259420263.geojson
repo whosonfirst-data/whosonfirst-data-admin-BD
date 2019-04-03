@@ -1,0 +1,73 @@
+{
+  "id": 1259420263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.5446,26.11658,88.5446,26.11658",
+    "geom:latitude":26.11658,
+    "geom:longitude":88.5446,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5594.0",
+    "gn:admin3_code":"559494.0",
+    "gn:admin4_code":"55949421.0",
+    "gn:asciiname":"Bara Bella",
+    "gn:country_code":"BD",
+    "gn:dem":64,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7104958,
+    "gn:latitude":26.11658,
+    "gn:longitude":88.5446,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Bara Bella",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Bara Bella"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7104958
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"f5798feb6988b8f91f4f15ede0aed67b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694703,
+            "locality_id":1259420263,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1259420263,
+    "wof:lastmodified":1537586290,
+    "wof:name":"Bara Bella",
+    "wof:parent_id":1108694703,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.5446,
+    26.11658,
+    88.5446,
+    26.11658
+],
+  "geometry": {"coordinates":[88.5446,26.11658],"type":"Point"}
+}

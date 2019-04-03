@@ -1,0 +1,73 @@
+{
+  "id": 1343292121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.1742,23.31584,89.1742,23.31584",
+    "geom:latitude":23.31584,
+    "geom:longitude":89.1742,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4044.0",
+    "gn:admin3_code":"404433.0",
+    "gn:admin4_code":"40443310.0",
+    "gn:asciiname":"Badurgachha",
+    "gn:country_code":"BD",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7634186,
+    "gn:latitude":23.31584,
+    "gn:longitude":89.1742,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"B\u0101durg\u0101chha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "B\u0101durg\u0101chha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        1108694679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7634186
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"0f4b6e9721cc3140feef6107f6ca8bfa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694679,
+            "locality_id":1343292121,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1343292121,
+    "wof:lastmodified":1537586705,
+    "wof:name":"Badurgachha",
+    "wof:parent_id":1108694679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.1742,
+    23.31584,
+    89.1742,
+    23.31584
+],
+  "geometry": {"coordinates":[89.1742,23.31584],"type":"Point"}
+}

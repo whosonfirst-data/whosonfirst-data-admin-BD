@@ -1,0 +1,70 @@
+{
+  "id": 1277109901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.26847,22.20407,90.26847,22.20407",
+    "geom:latitude":22.20407,
+    "geom:longitude":90.26847,
+    "gn:admin1_code":"82",
+    "gn:asciiname":"Matbaria",
+    "gn:country_code":"BD",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7478565,
+    "gn:latitude":22.20407,
+    "gn:longitude":90.26847,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"M\u0101tbaria",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "M\u0101tbaria"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669019,
+        421176043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7478565
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"294556c8f20ae7bdc92a69727578bf41",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421176043,
+            "locality_id":1277109901,
+            "region_id":85669019
+        }
+    ],
+    "wof:id":1277109901,
+    "wof:lastmodified":1537586395,
+    "wof:name":"Matbaria",
+    "wof:parent_id":421176043,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.26847,
+    22.20407,
+    90.26847,
+    22.20407
+],
+  "geometry": {"coordinates":[90.26846999999999,22.20407],"type":"Point"}
+}

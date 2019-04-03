@@ -1,0 +1,70 @@
+{
+  "id": 1343591229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.31293,22.68837,89.31293,22.68837",
+    "geom:latitude":22.68837,
+    "geom:longitude":89.31293,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4047",
+    "gn:admin3_code":"404764.0",
+    "gn:admin4_code":"40476450.0",
+    "gn:asciiname":"Kapilmuni",
+    "gn:country_code":"BD",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1198508,
+    "gn:latitude":22.68837,
+    "gn:longitude":89.31293,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Kapilmuni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        421185473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1198508
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"83cd9fca3deb4bdfe510d9a109a78d9e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421185473,
+            "locality_id":1343591229,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1343591229,
+    "wof:lastmodified":1537052903,
+    "wof:name":"Kapilmuni",
+    "wof:parent_id":421185473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.31293000000002,
+    22.68837000000001,
+    89.31293000000002,
+    22.68837000000001
+],
+  "geometry": {"coordinates":[89.31293000000002,22.68837000000001],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1344190645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.11089,25.35447,89.11089,25.35447",
+    "geom:latitude":25.35447,
+    "geom:longitude":89.11089,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5527",
+    "gn:admin3_code":"552769.0",
+    "gn:admin4_code":"55276908.0",
+    "gn:asciiname":"Takamati",
+    "gn:country_code":"BD",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8064928,
+    "gn:latitude":25.35447,
+    "gn:longitude":89.11089,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Takamati",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Takamati"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8064928
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"30f1316e3affc0268aff9d311000dbb5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694671,
+            "locality_id":1344190645,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1344190645,
+    "wof:lastmodified":1537586854,
+    "wof:name":"Takamati",
+    "wof:parent_id":1108694671,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.11089,
+    25.35447000000001,
+    89.11089,
+    25.35447000000001
+],
+  "geometry": {"coordinates":[89.11089,25.35447000000001],"type":"Point"}
+}

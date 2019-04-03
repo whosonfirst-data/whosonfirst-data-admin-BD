@@ -1,0 +1,74 @@
+{
+  "id": 1343792039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.73632,24.46969,90.73632,24.46969",
+    "geom:latitude":24.46969,
+    "geom:longitude":90.73632,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3048.0",
+    "gn:admin3_code":"304849.0",
+    "gn:admin4_code":"30484994.0",
+    "gn:asciiname":"Beruali",
+    "gn:country_code":"BD",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1209514,
+    "gn:latitude":24.46969,
+    "gn:longitude":90.73632,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Beru\u0101li",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Beru\u0101li",
+        "Beru\u0101il"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421170483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1209514
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"9080a3343cb9e86108cad51f1485f0ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421170483,
+            "locality_id":1343792039,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1343792039,
+    "wof:lastmodified":1537586147,
+    "wof:name":"Beruali",
+    "wof:parent_id":421170483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.73632,
+    24.46969,
+    90.73632,
+    24.46969
+],
+  "geometry": {"coordinates":[90.73632000000001,24.46969],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1243104713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.87674,24.33663,91.87674,24.33663",
+    "geom:latitude":24.33663,
+    "geom:longitude":91.87674,
+    "gn:admin1_code":"86",
+    "gn:admin2_code":"6058",
+    "gn:admin3_code":"605856.0",
+    "gn:admin4_code":"60585619.0",
+    "gn:asciiname":"Jogibil",
+    "gn:country_code":"BD",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1199809,
+    "gn:latitude":24.33663,
+    "gn:longitude":91.87674,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Jogib\u012bl",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jugibil",
+        "Jogib\u012bl"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669025,
+        1108694693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1199809
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"7f57b018e9d832ef565436da27098968",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694693,
+            "locality_id":1243104713,
+            "region_id":85669025
+        }
+    ],
+    "wof:id":1243104713,
+    "wof:lastmodified":1537585967,
+    "wof:name":"Jogibil",
+    "wof:parent_id":1108694693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.87674,
+    24.33663,
+    91.87674,
+    24.33663
+],
+  "geometry": {"coordinates":[91.87674,24.33663],"type":"Point"}
+}

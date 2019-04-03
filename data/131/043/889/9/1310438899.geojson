@@ -1,0 +1,70 @@
+{
+  "id": 1310438899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.94602,23.83241,89.94602,23.83241",
+    "geom:latitude":23.83241,
+    "geom:longitude":89.94602,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3056",
+    "gn:admin3_code":"305622.0",
+    "gn:admin4_code":"30562223.0",
+    "gn:asciiname":"Nayachar Tarail",
+    "gn:country_code":"BD",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1193022,
+    "gn:latitude":23.83241,
+    "gn:longitude":89.94602,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Nay\u0101char T\u0101r\u0101il",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421191745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1193022
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"35c7880a21b711ffe6069495c7c9d2be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421191745,
+            "locality_id":1310438899,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1310438899,
+    "wof:lastmodified":1537012432,
+    "wof:name":"Nayachar Tarail",
+    "wof:parent_id":421191745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.94601999999998,
+    23.83241,
+    89.94601999999998,
+    23.83241
+],
+  "geometry": {"coordinates":[89.94601999999998,23.83241],"type":"Point"}
+}

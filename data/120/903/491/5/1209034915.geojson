@@ -1,0 +1,67 @@
+{
+  "id": 1209034915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.18281,25.8196,89.18281,25.8196",
+    "geom:latitude":25.8196,
+    "geom:longitude":89.18281,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5585",
+    "gn:admin3_code":"558527.0",
+    "gn:admin4_code":"55852710.0",
+    "gn:asciiname":"Monohar",
+    "gn:country_code":"BD",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7923962,
+    "gn:latitude":25.8196,
+    "gn:longitude":89.18281,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Monohar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Monohar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7923962
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"382148918f3416f1fbb04098e8a69982",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209034915
+        }
+    ],
+    "wof:id":1209034915,
+    "wof:lastmodified":1537586813,
+    "wof:name":"Monohar",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.18281,
+    25.8196,
+    89.18281,
+    25.8196
+],
+  "geometry": {"coordinates":[89.18281,25.8196],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1310238157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.88421,22.91257,89.88421,22.91257",
+    "geom:latitude":22.91257,
+    "geom:longitude":89.88421,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3035.0",
+    "gn:admin3_code":"303591.0",
+    "gn:admin4_code":"30359176.0",
+    "gn:asciiname":"Gimadanga",
+    "gn:country_code":"BD",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1202453,
+    "gn:latitude":22.91257,
+    "gn:longitude":89.88421,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Gim\u0101d\u0101nga",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gim\u0101d\u0101nga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421194867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1202453,
+        "wk:page":"Gimadanga"
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"31b7f5044abf249a5b64d62eed174851",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421194867,
+            "locality_id":1310238157,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1310238157,
+    "wof:lastmodified":1537586017,
+    "wof:name":"Gimadanga",
+    "wof:parent_id":421194867,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.88421,
+    22.91257,
+    89.88421,
+    22.91257
+],
+  "geometry": {"coordinates":[89.88421,22.91257],"type":"Point"}
+}

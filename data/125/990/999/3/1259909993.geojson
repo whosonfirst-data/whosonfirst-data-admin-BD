@@ -1,0 +1,70 @@
+{
+  "id": 1259909993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.32582,25.56739,89.32582,25.56739",
+    "geom:latitude":25.56739,
+    "geom:longitude":89.32582,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5585",
+    "gn:admin3_code":"558558.0",
+    "gn:admin4_code":"55855816.0",
+    "gn:asciiname":"Chakchaka",
+    "gn:country_code":"BD",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7889900,
+    "gn:latitude":25.56739,
+    "gn:longitude":89.32582,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Chakchaka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7889900
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"aeafa61913a0338ffe6dbd5b6e0e5477",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694701,
+            "locality_id":1259909993,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1259909993,
+    "wof:lastmodified":1536740885,
+    "wof:name":"Chakchaka",
+    "wof:parent_id":1108694701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.32582,
+    25.56739,
+    89.32582,
+    25.56739
+],
+  "geometry": {"coordinates":[89.32581999999999,25.56739],"type":"Point"}
+}

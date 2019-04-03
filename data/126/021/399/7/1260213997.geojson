@@ -1,0 +1,70 @@
+{
+  "id": 1260213997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.81753,24.83327,90.81753,24.83327",
+    "geom:latitude":24.83327,
+    "geom:longitude":90.81753,
+    "gn:admin1_code":"H",
+    "gn:admin2_code":"3072",
+    "gn:admin3_code":"307204.0",
+    "gn:admin4_code":"30720447.0",
+    "gn:asciiname":"Sutarpur",
+    "gn:country_code":"BD",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1186834,
+    "gn:latitude":24.83327,
+    "gn:longitude":90.81753,
+    "gn:modification_date":"2016-11-17",
+    "gn:name":"Sut\u0101rpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        1108803101,
+        421200811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1186834
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"d4b6f702bf4a18c61e08a96386774cd2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421200811,
+            "locality_id":1260213997,
+            "region_id":1108803101
+        }
+    ],
+    "wof:id":1260213997,
+    "wof:lastmodified":1536806132,
+    "wof:name":"Sutarpur",
+    "wof:parent_id":421200811,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.81753,
+    24.83327,
+    90.81753,
+    24.83327
+],
+  "geometry": {"coordinates":[90.81753,24.83327],"type":"Point"}
+}

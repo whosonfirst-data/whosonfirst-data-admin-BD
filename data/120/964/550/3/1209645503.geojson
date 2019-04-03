@@ -1,0 +1,64 @@
+{
+  "id": 1209645503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.7651,24.84306,90.7651,24.84306",
+    "geom:latitude":24.84306,
+    "geom:longitude":90.7651,
+    "gn:admin1_code":"H",
+    "gn:admin2_code":"3072",
+    "gn:admin3_code":"307274.0",
+    "gn:admin4_code":"30727407.0",
+    "gn:asciiname":"Madhabpur",
+    "gn:country_code":"BD",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1195869,
+    "gn:latitude":24.84306,
+    "gn:longitude":90.7651,
+    "gn:modification_date":"2016-11-17",
+    "gn:name":"M\u0101dhabpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1195869
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"3df7ee446eb42b641fbf123e4559e1da",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209645503
+        }
+    ],
+    "wof:id":1209645503,
+    "wof:lastmodified":1536280749,
+    "wof:name":"Madhabpur",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.7651,
+    24.84306,
+    90.7651,
+    24.84306
+],
+  "geometry": {"coordinates":[90.7651,24.84306],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1226676093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.68006,24.88836,88.68006,24.88836",
+    "geom:latitude":24.88836,
+    "geom:longitude":88.68006,
+    "gn:admin1_code":"83",
+    "gn:admin2_code":"5064.0",
+    "gn:admin3_code":"506450.0",
+    "gn:admin4_code":"50645019.0",
+    "gn:asciiname":"Chandas",
+    "gn:country_code":"BD",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1207465,
+    "gn:latitude":24.88836,
+    "gn:longitude":88.68006,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Chandas",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Chandas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669031,
+        421191663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1207465
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"e5a91eb8b2ca7bedd234b4752c77648d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421191663,
+            "locality_id":1226676093,
+            "region_id":85669031
+        }
+    ],
+    "wof:id":1226676093,
+    "wof:lastmodified":1537586110,
+    "wof:name":"Chandas",
+    "wof:parent_id":421191663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.68006,
+    24.88836,
+    88.68006,
+    24.88836
+],
+  "geometry": {"coordinates":[88.68006,24.88836],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1242707713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.00621,24.08988,89.00621,24.08988",
+    "geom:latitude":24.08988,
+    "geom:longitude":89.00621,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4050.0",
+    "gn:admin3_code":"405015.0",
+    "gn:admin4_code":"40501581.0",
+    "gn:asciiname":"Golapnagar",
+    "gn:country_code":"BD",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1202168,
+    "gn:latitude":24.08988,
+    "gn:longitude":89.00621,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Gol\u0101pnagar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        890438075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1202168
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"299be6ae2fd0dc5584bcf2e9e644a005",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":890438075,
+            "locality_id":1242707713,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1242707713,
+    "wof:lastmodified":1536875562,
+    "wof:name":"Golapnagar",
+    "wof:parent_id":890438075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.00621,
+    24.08988,
+    89.00621,
+    24.08988
+],
+  "geometry": {"coordinates":[89.00621,24.08988],"type":"Point"}
+}

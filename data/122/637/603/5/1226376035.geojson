@@ -1,0 +1,76 @@
+{
+  "id": 1226376035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.681,24.46352,88.681,24.46352",
+    "geom:latitude":24.46352,
+    "geom:longitude":88.681,
+    "gn:admin1_code":"83",
+    "gn:admin2_code":"5081",
+    "gn:admin3_code":"508131.0",
+    "gn:admin4_code":"50813147.0",
+    "gn:asciiname":"Joynagar",
+    "gn:country_code":"BD",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1200075,
+    "gn:latitude":24.46352,
+    "gn:longitude":88.681,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Joynagar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Joynagar"
+    ],
+    "name:ben_x_variant":[
+        "Jaynagar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669031,
+        421172439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1200075
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"0a3efc29deb936b24918dff2b42370f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421172439,
+            "locality_id":1226376035,
+            "region_id":85669031
+        }
+    ],
+    "wof:id":1226376035,
+    "wof:lastmodified":1537585972,
+    "wof:name":"Joynagar",
+    "wof:parent_id":421172439,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.681,
+    24.46352000000001,
+    88.681,
+    24.46352000000001
+],
+  "geometry": {"coordinates":[88.681,24.46352000000001],"type":"Point"}
+}

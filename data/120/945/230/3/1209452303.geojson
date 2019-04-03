@@ -1,0 +1,68 @@
+{
+  "id": 1209452303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.31697,23.34877,90.31697,23.34877",
+    "geom:latitude":23.34877,
+    "geom:longitude":90.31697,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3086",
+    "gn:admin3_code":"308694.0",
+    "gn:admin4_code":"30869494.0",
+    "gn:asciiname":"Khosal Sikdarer Kandi",
+    "gn:country_code":"BD",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1197269,
+    "gn:latitude":23.34877,
+    "gn:longitude":90.31697,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Khos\u0101l Sikd\u0101rer K\u0101ndi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Khesal Sikanderkandi",
+        "Khos\u0101l Sikd\u0101rer K\u0101ndi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1197269
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"689b25bf4a5e0c36cd5b36cafca4d368",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209452303
+        }
+    ],
+    "wof:id":1209452303,
+    "wof:lastmodified":1537585921,
+    "wof:name":"Khosal Sikdarer Kandi",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.31697,
+    23.34877,
+    90.31697,
+    23.34877
+],
+  "geometry": {"coordinates":[90.31697,23.34877],"type":"Point"}
+}

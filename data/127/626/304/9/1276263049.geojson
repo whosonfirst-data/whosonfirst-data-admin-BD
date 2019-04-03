@@ -1,0 +1,70 @@
+{
+  "id": 1276263049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.06522,24.55069,90.06522,24.55069",
+    "geom:latitude":24.55069,
+    "geom:longitude":90.06522,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3093.0",
+    "gn:admin3_code":"309357.0",
+    "gn:admin4_code":"30935728.0",
+    "gn:asciiname":"Dhama Basuri",
+    "gn:country_code":"BD",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1204490,
+    "gn:latitude":24.55069,
+    "gn:longitude":90.06522,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Dh\u0101ma B\u0101suri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421185471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1204490
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"fd9fcc9dccd0d46f0b361aecffd59728",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421185471,
+            "locality_id":1276263049,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1276263049,
+    "wof:lastmodified":1536871821,
+    "wof:name":"Dhama Basuri",
+    "wof:parent_id":421185471,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.06522,
+    24.55069,
+    90.06522,
+    24.55069
+],
+  "geometry": {"coordinates":[90.06522,24.55069],"type":"Point"}
+}

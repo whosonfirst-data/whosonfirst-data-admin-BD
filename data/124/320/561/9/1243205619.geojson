@@ -1,0 +1,74 @@
+{
+  "id": 1243205619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.16569,24.38949,91.16569,24.38949",
+    "geom:latitude":24.38949,
+    "geom:longitude":91.16569,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3048.0",
+    "gn:admin3_code":"304802.0",
+    "gn:admin4_code":"30480283.0",
+    "gn:asciiname":"Abdullahpur",
+    "gn:country_code":"BD",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1213341,
+    "gn:latitude":24.38949,
+    "gn:longitude":91.16569,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Abdull\u0101hpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Abdull\u0101hpur",
+        "Abdull\u0101pur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421170483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1213341
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"c3aadd7d9971235b13639893e96f2288",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421170483,
+            "locality_id":1243205619,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1243205619,
+    "wof:lastmodified":1537586212,
+    "wof:name":"Abdullahpur",
+    "wof:parent_id":421170483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.16569,
+    24.38949,
+    91.16569,
+    24.38949
+],
+  "geometry": {"coordinates":[91.16569,24.38949],"type":"Point"}
+}

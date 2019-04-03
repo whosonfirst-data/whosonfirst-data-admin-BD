@@ -1,0 +1,70 @@
+{
+  "id": 1260013151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.34979,22.07083,90.34979,22.07083",
+    "geom:latitude":22.07083,
+    "geom:longitude":90.34979,
+    "gn:admin1_code":"82",
+    "gn:asciiname":"Golbunia",
+    "gn:country_code":"BD",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7478617,
+    "gn:latitude":22.07083,
+    "gn:longitude":90.34979,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"Golbunia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Golbunia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669019,
+        421169845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7478617
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"a1072030f72a91b1675618c36035b0bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421169845,
+            "locality_id":1260013151,
+            "region_id":85669019
+        }
+    ],
+    "wof:id":1260013151,
+    "wof:lastmodified":1537586396,
+    "wof:name":"Golbunia",
+    "wof:parent_id":421169845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.34979,
+    22.07083,
+    90.34979,
+    22.07083
+],
+  "geometry": {"coordinates":[90.34979,22.07083],"type":"Point"}
+}

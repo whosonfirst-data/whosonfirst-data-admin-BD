@@ -1,0 +1,73 @@
+{
+  "id": 1310342691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.85347,23.93475,88.85347,23.93475",
+    "geom:latitude":23.93475,
+    "geom:longitude":88.85347,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4050.0",
+    "gn:admin3_code":"405039.0",
+    "gn:admin4_code":"40503920.0",
+    "gn:asciiname":"Sharishaduli",
+    "gn:country_code":"BD",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7484411,
+    "gn:latitude":23.93475,
+    "gn:longitude":88.85347,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Sharishaduli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Sharishaduli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        421191661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7484411
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"4353ba81d3da8504d0389abe84859593",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421191661,
+            "locality_id":1310342691,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1310342691,
+    "wof:lastmodified":1537586563,
+    "wof:name":"Sharishaduli",
+    "wof:parent_id":421191661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.85347,
+    23.93475,
+    88.85347,
+    23.93475
+],
+  "geometry": {"coordinates":[88.85347,23.93475],"type":"Point"}
+}

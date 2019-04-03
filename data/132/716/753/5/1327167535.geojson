@@ -1,0 +1,70 @@
+{
+  "id": 1327167535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.97344,23.8748,89.97344,23.8748",
+    "geom:latitude":23.8748,
+    "geom:longitude":89.97344,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3056.0",
+    "gn:admin3_code":"305646.0",
+    "gn:admin4_code":"30564623.0",
+    "gn:asciiname":"Bhatbhaur",
+    "gn:country_code":"BD",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1209102,
+    "gn:latitude":23.8748,
+    "gn:longitude":89.97344,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Bh\u0101tbh\u0101ur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421191745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1209102
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"99eef524c453a9585ae17ca7b4a92d9e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421191745,
+            "locality_id":1327167535,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1327167535,
+    "wof:lastmodified":1537060651,
+    "wof:name":"Bhatbhaur",
+    "wof:parent_id":421191745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.97344,
+    23.8748,
+    89.97344,
+    23.8748
+],
+  "geometry": {"coordinates":[89.97344,23.8748],"type":"Point"}
+}

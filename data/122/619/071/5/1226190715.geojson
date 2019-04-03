@@ -1,0 +1,70 @@
+{
+  "id": 1226190715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"92.41667,22.65,92.41667,22.65",
+    "geom:latitude":22.65,
+    "geom:longitude":92.41667,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2084",
+    "gn:admin3_code":"208447.0",
+    "gn:admin4_code":"20844757.0",
+    "gn:asciiname":"Mitingapara",
+    "gn:country_code":"BD",
+    "gn:dem":65,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1194253,
+    "gn:latitude":22.65,
+    "gn:longitude":92.41667,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Miting\u0101p\u0101ra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421188983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1194253
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"1507d5faca6279c27d197da25144cfb8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421188983,
+            "locality_id":1226190715,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1226190715,
+    "wof:lastmodified":1537012283,
+    "wof:name":"Mitingapara",
+    "wof:parent_id":421188983,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    92.41667,
+    22.65,
+    92.41667,
+    22.65
+],
+  "geometry": {"coordinates":[92.41667,22.65],"type":"Point"}
+}

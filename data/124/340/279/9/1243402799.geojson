@@ -1,0 +1,70 @@
+{
+  "id": 1243402799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.4,22.96667,91.4,22.96667",
+    "geom:latitude":22.96667,
+    "geom:longitude":91.4,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2030",
+    "gn:admin3_code":"203029.0",
+    "gn:admin4_code":"20302917.0",
+    "gn:asciiname":"Maruar Char",
+    "gn:country_code":"BD",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1194773,
+    "gn:latitude":22.96667,
+    "gn:longitude":91.4,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Maruar Char",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421181771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1194773
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"6f33fb8c28527c6ab641b8aa568f2719",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421181771,
+            "locality_id":1243402799,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1243402799,
+    "wof:lastmodified":1536867302,
+    "wof:name":"Maruar Char",
+    "wof:parent_id":421181771,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.4,
+    22.96667,
+    91.4,
+    22.96667
+],
+  "geometry": {"coordinates":[91.40000000000001,22.96667],"type":"Point"}
+}

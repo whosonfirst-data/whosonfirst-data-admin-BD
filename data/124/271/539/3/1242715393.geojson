@@ -1,0 +1,71 @@
+{
+  "id": 1242715393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.29138,22.20433,90.29138,22.20433",
+    "geom:latitude":22.20433,
+    "geom:longitude":90.29138,
+    "gn:admin1_code":"82",
+    "gn:asciiname":"West Chunakhali",
+    "gn:country_code":"BD",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1185396,
+    "gn:latitude":22.20433,
+    "gn:longitude":90.29138,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"West Chunakh\u0101li",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "West Chunakh\u0101li"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669019,
+        421176043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1185396,
+        "wk:page":"West_Chunakhali"
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"a8edb051396115cf7126dabb99b8aae7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421176043,
+            "locality_id":1242715393,
+            "region_id":85669019
+        }
+    ],
+    "wof:id":1242715393,
+    "wof:lastmodified":1537585700,
+    "wof:name":"West Chunakhali",
+    "wof:parent_id":421176043,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.29138,
+    22.20433,
+    90.29138,
+    22.20433
+],
+  "geometry": {"coordinates":[90.29138,22.20433],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 890450137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.7239,22.49518,90.7239,22.49518",
+    "geom:latitude":22.49518,
+    "geom:longitude":90.7239,
+    "gn:country":"BD",
+    "gn:fcode":"PPL",
+    "gn:pop":45670,
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ben_x_preferred":[
+        "Burh\u0101nuddin"
+    ],
+    "name:ben_x_variant":[
+        "Barah\u0101nuddin"
+    ],
+    "name:dut_x_preferred":[
+        "Barahanuddin"
+    ],
+    "name:eng_x_preferred":[
+        "Barahanuddin"
+    ],
+    "name:swe_x_preferred":[
+        "Burh\u0101nuddin"
+    ],
+    "qs:name":"Burh\u0101nuddin",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"7",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669019,
+        421184491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1210565,
+        "gp:id":1914996,
+        "qs:id":84372,
+        "wd:id":"Q4858194"
+    },
+    "wof:country":"BD",
+    "wof:created":1469052727,
+    "wof:geomhash":"705387e6f0d260968e2ae48e0649c9c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421184491,
+            "locality_id":890450137,
+            "region_id":85669019
+        }
+    ],
+    "wof:id":890450137,
+    "wof:lastmodified":1513898960,
+    "wof:name":"Burh\u0101nuddin",
+    "wof:parent_id":421184491,
+    "wof:placetype":"locality",
+    "wof:population":45670,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.7239,
+    22.49518,
+    90.7239,
+    22.49518
+],
+  "geometry": {"coordinates":[90.7239,22.49518],"type":"Point"}
+}

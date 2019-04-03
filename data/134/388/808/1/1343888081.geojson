@@ -1,0 +1,70 @@
+{
+  "id": 1343888081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.53216,24.18121,91.53216,24.18121",
+    "geom:latitude":24.18121,
+    "geom:longitude":91.53216,
+    "gn:admin1_code":"86",
+    "gn:admin2_code":"6036.0",
+    "gn:admin3_code":"603626.0",
+    "gn:admin4_code":"60362628.0",
+    "gn:asciiname":"Aamkandi",
+    "gn:country_code":"BD",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7534741,
+    "gn:latitude":24.18121,
+    "gn:longitude":91.53216,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Aamkandi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669025,
+        421176045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7534741
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"c8891e3164da3519c96188c65da85306",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421176045,
+            "locality_id":1343888081,
+            "region_id":85669025
+        }
+    ],
+    "wof:id":1343888081,
+    "wof:lastmodified":1536624952,
+    "wof:name":"Aamkandi",
+    "wof:parent_id":421176045,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.53216,
+    24.18121,
+    91.53216,
+    24.18121
+],
+  "geometry": {"coordinates":[91.53216,24.18121],"type":"Point"}
+}

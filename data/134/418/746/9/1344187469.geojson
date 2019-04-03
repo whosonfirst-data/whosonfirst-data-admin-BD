@@ -1,0 +1,73 @@
+{
+  "id": 1344187469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.19585,23.30216,89.19585,23.30216",
+    "geom:latitude":23.30216,
+    "geom:longitude":89.19585,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4044",
+    "gn:admin3_code":"404433.0",
+    "gn:admin4_code":"40443310.0",
+    "gn:asciiname":"Subarnasara",
+    "gn:country_code":"BD",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1187101,
+    "gn:latitude":23.30216,
+    "gn:longitude":89.19585,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Subarnas\u0101ra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Subarnas\u0101ra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        1108694679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1187101
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"2acb276559fbedd0998d0e68a050f492",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694679,
+            "locality_id":1344187469,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1344187469,
+    "wof:lastmodified":1537585729,
+    "wof:name":"Subarnasara",
+    "wof:parent_id":1108694679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.19585,
+    23.30216,
+    89.19585,
+    23.30216
+],
+  "geometry": {"coordinates":[89.19584999999999,23.30216],"type":"Point"}
+}

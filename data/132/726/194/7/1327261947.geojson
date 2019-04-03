@@ -1,0 +1,73 @@
+{
+  "id": 1327261947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.80993,25.95213,89.80993,25.95213",
+    "geom:latitude":25.95213,
+    "geom:longitude":89.80993,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5549",
+    "gn:admin3_code":"554961.0",
+    "gn:admin4_code":"55496163.0",
+    "gn:asciiname":"Char Balanhat",
+    "gn:country_code":"BD",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7923344,
+    "gn:latitude":25.95213,
+    "gn:longitude":89.80993,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Char B\u0101l\u0101nhat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Char B\u0101l\u0101nhat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7923344
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"c07c1b0438028754539c9bf42fea4d91",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694685,
+            "locality_id":1327261947,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1327261947,
+    "wof:lastmodified":1537586795,
+    "wof:name":"Char Balanhat",
+    "wof:parent_id":1108694685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.80993000000002,
+    25.95213,
+    89.80993000000002,
+    25.95213
+],
+  "geometry": {"coordinates":[89.80993000000002,25.95213],"type":"Point"}
+}

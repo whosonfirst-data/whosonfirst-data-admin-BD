@@ -1,0 +1,73 @@
+{
+  "id": 1276689023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.62363,24.59636,88.62363,24.59636",
+    "geom:latitude":24.59636,
+    "geom:longitude":88.62363,
+    "gn:admin1_code":"83",
+    "gn:admin2_code":"5081.0",
+    "gn:admin3_code":"508153.0",
+    "gn:admin4_code":"50815340.0",
+    "gn:asciiname":"Gochha",
+    "gn:country_code":"BD",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1202243,
+    "gn:latitude":24.59636,
+    "gn:longitude":88.62363,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Gochha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Gochha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669031,
+        421172439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1202243
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"e4799ae2f558b8894c21f224dbfb541c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421172439,
+            "locality_id":1276689023,
+            "region_id":85669031
+        }
+    ],
+    "wof:id":1276689023,
+    "wof:lastmodified":1537586013,
+    "wof:name":"Gochha",
+    "wof:parent_id":421172439,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.62363,
+    24.59636,
+    88.62363,
+    24.59636
+],
+  "geometry": {"coordinates":[88.62363000000001,24.59636],"type":"Point"}
+}

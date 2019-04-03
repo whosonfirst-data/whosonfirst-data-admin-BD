@@ -1,0 +1,73 @@
+{
+  "id": 1260324457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.80528,25.93972,88.80528,25.93972",
+    "geom:latitude":25.93972,
+    "geom:longitude":88.80528,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5573.0",
+    "gn:admin3_code":"557364.0",
+    "gn:admin4_code":"55736450.0",
+    "gn:asciiname":"Patkamuri",
+    "gn:country_code":"BD",
+    "gn:dem":52,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7488974,
+    "gn:latitude":25.93972,
+    "gn:longitude":88.80528,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Patk\u0101muri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Patk\u0101muri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7488974
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"dea40ce22a4de7f808d0ef00a744460f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694695,
+            "locality_id":1260324457,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1260324457,
+    "wof:lastmodified":1537586684,
+    "wof:name":"Patkamuri",
+    "wof:parent_id":1108694695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.80528000000002,
+    25.93972,
+    88.80528000000002,
+    25.93972
+],
+  "geometry": {"coordinates":[88.80528000000002,25.93972],"type":"Point"}
+}

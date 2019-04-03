@@ -1,0 +1,70 @@
+{
+  "id": 1293720733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.78125,23.8904,89.78125,23.8904",
+    "geom:latitude":23.8904,
+    "geom:longitude":89.78125,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3056",
+    "gn:admin3_code":"305678.0",
+    "gn:admin4_code":"30567859.0",
+    "gn:asciiname":"Paila",
+    "gn:country_code":"BD",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1191464,
+    "gn:latitude":23.8904,
+    "gn:longitude":89.78125,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Paila",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421191745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1191464
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"ba5438fd53ab9b941655d42799d0c559",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421191745,
+            "locality_id":1293720733,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1293720733,
+    "wof:lastmodified":1536948567,
+    "wof:name":"Paila",
+    "wof:parent_id":421191745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.78125,
+    23.8904,
+    89.78125,
+    23.8904
+],
+  "geometry": {"coordinates":[89.78125,23.8904],"type":"Point"}
+}

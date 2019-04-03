@@ -1,0 +1,73 @@
+{
+  "id": 1209954005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.4273,25.49751,89.4273,25.49751",
+    "geom:latitude":25.49751,
+    "geom:longitude":89.4273,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5585",
+    "gn:admin3_code":"558558.0",
+    "gn:admin4_code":"55855844.0",
+    "gn:asciiname":"Radhakrishnapur",
+    "gn:country_code":"BD",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7890918,
+    "gn:latitude":25.49751,
+    "gn:longitude":89.4273,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Radhakrishnapur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Radhakrishnapur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7890918
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"02f38562f34d5b5495ae84bc895067dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694701,
+            "locality_id":1209954005,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1209954005,
+    "wof:lastmodified":1537586749,
+    "wof:name":"Radhakrishnapur",
+    "wof:parent_id":1108694701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.4273,
+    25.49751,
+    89.4273,
+    25.49751
+],
+  "geometry": {"coordinates":[89.4273,25.49751],"type":"Point"}
+}

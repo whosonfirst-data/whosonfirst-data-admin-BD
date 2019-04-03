@@ -1,0 +1,73 @@
+{
+  "id": 1243400683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.50129,25.01662,88.50129,25.01662",
+    "geom:latitude":25.01662,
+    "geom:longitude":88.50129,
+    "gn:admin1_code":"83",
+    "gn:admin2_code":"5064.0",
+    "gn:admin3_code":"506479.0",
+    "gn:admin4_code":"50647987.0",
+    "gn:asciiname":"Purbagram",
+    "gn:country_code":"BD",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7488602,
+    "gn:latitude":25.01662,
+    "gn:longitude":88.50129,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Purbagr\u0101m",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Purbagr\u0101m"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669031,
+        421191663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7488602
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"23e867766b768cb0676fb8eaf7d2d8d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421191663,
+            "locality_id":1243400683,
+            "region_id":85669031
+        }
+    ],
+    "wof:id":1243400683,
+    "wof:lastmodified":1537586673,
+    "wof:name":"Purbagram",
+    "wof:parent_id":421191663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.50129,
+    25.01662,
+    88.50129,
+    25.01662
+],
+  "geometry": {"coordinates":[88.50129,25.01662],"type":"Point"}
+}

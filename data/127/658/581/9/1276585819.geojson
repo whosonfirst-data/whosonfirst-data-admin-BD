@@ -1,0 +1,73 @@
+{
+  "id": 1276585819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.90518,25.7038,88.90518,25.7038",
+    "geom:latitude":25.7038,
+    "geom:longitude":88.90518,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5527.0",
+    "gn:admin3_code":"552777.0",
+    "gn:admin4_code":"55277708.0",
+    "gn:asciiname":"Kaipulki",
+    "gn:country_code":"BD",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7481010,
+    "gn:latitude":25.7038,
+    "gn:longitude":88.90518,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Kaipulki",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Kaipulki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7481010
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"f6c8ce2cfb8a26994af1b2b2bddca06c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694671,
+            "locality_id":1276585819,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1276585819,
+    "wof:lastmodified":1537586466,
+    "wof:name":"Kaipulki",
+    "wof:parent_id":1108694671,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.90518,
+    25.7038,
+    88.90518,
+    25.7038
+],
+  "geometry": {"coordinates":[88.90518,25.7038],"type":"Point"}
+}

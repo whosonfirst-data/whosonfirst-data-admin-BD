@@ -1,0 +1,70 @@
+{
+  "id": 1343987877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.47286,25.15215,89.47286,25.15215",
+    "geom:latitude":25.15215,
+    "geom:longitude":89.47286,
+    "gn:admin1_code":"83",
+    "gn:asciiname":"Kazibaro",
+    "gn:country_code":"BD",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7892469,
+    "gn:latitude":25.15215,
+    "gn:longitude":89.47286,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Kazib\u0101ro",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Kazib\u0101ro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7892469
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"5e53b80aa40aa9a5e658947b3d1dc01c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694675,
+            "locality_id":1343987877,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1343987877,
+    "wof:lastmodified":1537586757,
+    "wof:name":"Kazibaro",
+    "wof:parent_id":1108694675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.47286,
+    25.15215,
+    89.47286,
+    25.15215
+],
+  "geometry": {"coordinates":[89.47286,25.15215],"type":"Point"}
+}

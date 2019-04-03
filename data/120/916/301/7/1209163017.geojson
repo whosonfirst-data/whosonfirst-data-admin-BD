@@ -1,0 +1,67 @@
+{
+  "id": 1209163017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"92.01775,22.51508,92.01775,22.51508",
+    "geom:latitude":22.51508,
+    "geom:longitude":92.01775,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2084.0",
+    "gn:admin3_code":"208425.0",
+    "gn:admin4_code":"20842519.0",
+    "gn:asciiname":"Sonalichara",
+    "gn:country_code":"BD",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6414742,
+    "gn:latitude":22.51508,
+    "gn:longitude":92.01775,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Son\u0101lichara",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Son\u0101lichara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6414742
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"c7093df2d468ea64eff3909ac6a564f7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209163017
+        }
+    ],
+    "wof:id":1209163017,
+    "wof:lastmodified":1537586232,
+    "wof:name":"Sonalichara",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    92.01775,
+    22.51508,
+    92.01775,
+    22.51508
+],
+  "geometry": {"coordinates":[92.01775000000001,22.51508],"type":"Point"}
+}

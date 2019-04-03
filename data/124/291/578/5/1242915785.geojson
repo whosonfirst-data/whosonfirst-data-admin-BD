@@ -1,0 +1,70 @@
+{
+  "id": 1242915785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.9636,23.29987,90.9636,23.29987",
+    "geom:latitude":23.29987,
+    "geom:longitude":90.9636,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2013",
+    "gn:admin3_code":"201358.0",
+    "gn:admin4_code":"20135807.0",
+    "gn:asciiname":"Punsahi",
+    "gn:country_code":"BD",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1190852,
+    "gn:latitude":23.29987,
+    "gn:longitude":90.9636,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Puns\u0101hi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        1108694669
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1190852
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"64b99909d33db413cb9816119e90910d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694669,
+            "locality_id":1242915785,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1242915785,
+    "wof:lastmodified":1537070611,
+    "wof:name":"Punsahi",
+    "wof:parent_id":1108694669,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.9636,
+    23.29987,
+    90.9636,
+    23.29987
+],
+  "geometry": {"coordinates":[90.9636,23.29987],"type":"Point"}
+}

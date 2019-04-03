@@ -1,0 +1,73 @@
+{
+  "id": 1293238015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.38161,25.2587,89.38161,25.2587",
+    "geom:latitude":25.2587,
+    "geom:longitude":89.38161,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5532",
+    "gn:admin3_code":"553267.0",
+    "gn:admin4_code":"55326709.0",
+    "gn:asciiname":"Salbanga Bhaturia",
+    "gn:country_code":"BD",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7895456,
+    "gn:latitude":25.2587,
+    "gn:longitude":89.38161,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Salbanga Bhaturia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Salbanga Bhaturia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7895456
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"612d592a29217ef8be3bb9c2de71e43a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694675,
+            "locality_id":1293238015,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1293238015,
+    "wof:lastmodified":1537586762,
+    "wof:name":"Salbanga Bhaturia",
+    "wof:parent_id":1108694675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.38161,
+    25.2587,
+    89.38161,
+    25.2587
+],
+  "geometry": {"coordinates":[89.38160999999999,25.2587],"type":"Point"}
+}

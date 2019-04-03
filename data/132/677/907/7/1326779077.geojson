@@ -1,0 +1,75 @@
+{
+  "id": 1326779077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.05,23.31667,91.05,23.31667",
+    "geom:latitude":23.31667,
+    "geom:longitude":91.05,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2019",
+    "gn:admin3_code":"201909.0",
+    "gn:admin4_code":"20190944.0",
+    "gn:asciiname":"Solapukuria",
+    "gn:cc2":"BD",
+    "gn:country_code":"BD",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1187644,
+    "gn:latitude":23.31667,
+    "gn:longitude":91.05,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Sol\u0101pukuria",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "East Sol\u0101pukharia",
+        "Sol\u0101pukuria"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421187801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1187644
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"6965a55f55368f0dacf432a5ea87f1cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421187801,
+            "locality_id":1326779077,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1326779077,
+    "wof:lastmodified":1537585742,
+    "wof:name":"Solapukuria",
+    "wof:parent_id":421187801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.05,
+    23.31667,
+    91.05,
+    23.31667
+],
+  "geometry": {"coordinates":[91.05,23.31667],"type":"Point"}
+}

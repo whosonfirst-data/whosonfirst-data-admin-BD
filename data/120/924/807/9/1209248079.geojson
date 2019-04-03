@@ -1,0 +1,67 @@
+{
+  "id": 1209248079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.70122,22.7859,89.70122,22.7859",
+    "geom:latitude":22.7859,
+    "geom:longitude":89.70122,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4001.0",
+    "gn:admin3_code":"400134.0",
+    "gn:admin4_code":"40013463.0",
+    "gn:asciiname":"Bhirab Nadi Char",
+    "gn:country_code":"BD",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7486447,
+    "gn:latitude":22.7859,
+    "gn:longitude":89.70122,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Bhirab Nadi Char",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Bhirab Nadi Char"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7486447
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"23f452c6a836cacb3005b068a267776a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209248079
+        }
+    ],
+    "wof:id":1209248079,
+    "wof:lastmodified":1537586614,
+    "wof:name":"Bhirab Nadi Char",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.70121999999998,
+    22.7859,
+    89.70121999999998,
+    22.7859
+],
+  "geometry": {"coordinates":[89.70121999999998,22.7859],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1226472375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.41952,21.91443,90.41952,21.91443",
+    "geom:latitude":21.91443,
+    "geom:longitude":90.41952,
+    "gn:admin1_code":"85",
+    "gn:admin2_code":"1078.0",
+    "gn:admin3_code":"107897.0",
+    "gn:admin4_code":"10789783.0",
+    "gn:asciiname":"Kataban",
+    "gn:country_code":"BD",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7634717,
+    "gn:latitude":21.91443,
+    "gn:longitude":90.41952,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Kat\u0101ban",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Kat\u0101ban"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669019,
+        421169845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7634717
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"d3c1fef01bc2934893be7d65dc324f7e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421169845,
+            "locality_id":1226472375,
+            "region_id":85669019
+        }
+    ],
+    "wof:id":1226472375,
+    "wof:lastmodified":1537586713,
+    "wof:name":"Kataban",
+    "wof:parent_id":421169845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.41952,
+    21.91443,
+    90.41952,
+    21.91443
+],
+  "geometry": {"coordinates":[90.41952000000001,21.91443],"type":"Point"}
+}

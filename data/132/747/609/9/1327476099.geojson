@@ -1,0 +1,73 @@
+{
+  "id": 1327476099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"92.09251,21.74753,92.09251,21.74753",
+    "geom:latitude":21.74753,
+    "geom:longitude":92.09251,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2022.0",
+    "gn:admin3_code":"202216.0",
+    "gn:admin4_code":"20221644.0",
+    "gn:asciiname":"Hajian",
+    "gn:country_code":"BD",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6415226,
+    "gn:latitude":21.74753,
+    "gn:longitude":92.09251,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"H\u0101ji\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "H\u0101ji\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421169477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6415226
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"8b5f0aaec74717686454aa83f4d48341",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421169477,
+            "locality_id":1327476099,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1327476099,
+    "wof:lastmodified":1537586240,
+    "wof:name":"Hajian",
+    "wof:parent_id":421169477,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    92.09251,
+    21.74753,
+    92.09251,
+    21.74753
+],
+  "geometry": {"coordinates":[92.09251,21.74753],"type":"Point"}
+}

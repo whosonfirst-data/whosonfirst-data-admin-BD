@@ -1,0 +1,73 @@
+{
+  "id": 1243393275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.50345,25.89404,89.50345,25.89404",
+    "geom:latitude":25.89404,
+    "geom:longitude":89.50345,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5552",
+    "gn:admin3_code":"555255.0",
+    "gn:admin4_code":"55525507.0",
+    "gn:asciiname":"Ruara Ram",
+    "gn:country_code":"BD",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7923514,
+    "gn:latitude":25.89404,
+    "gn:longitude":89.50345,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Ruara R\u0101m",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Ruara R\u0101m"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7923514
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"c77e5511b02ce5cfda6df8ec139a3e28",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694687,
+            "locality_id":1243393275,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1243393275,
+    "wof:lastmodified":1537586800,
+    "wof:name":"Ruara Ram",
+    "wof:parent_id":1108694687,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.50345,
+    25.89404,
+    89.50345,
+    25.89404
+],
+  "geometry": {"coordinates":[89.50345,25.89404],"type":"Point"}
+}

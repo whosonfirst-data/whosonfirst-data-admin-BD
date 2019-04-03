@@ -1,0 +1,70 @@
+{
+  "id": 1310035957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.12073,23.86563,90.12073,23.86563",
+    "geom:latitude":23.86563,
+    "geom:longitude":90.12073,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3056",
+    "gn:admin3_code":"305646.0",
+    "gn:admin4_code":"30564609.0",
+    "gn:asciiname":"Koshnaikandi",
+    "gn:country_code":"BD",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1196974,
+    "gn:latitude":23.86563,
+    "gn:longitude":90.12073,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Koshn\u0101ik\u0101ndi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421191745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1196974
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"38d7f11805aa90cfbeb2df518c65f32a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421191745,
+            "locality_id":1310035957,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1310035957,
+    "wof:lastmodified":1537093694,
+    "wof:name":"Koshnaikandi",
+    "wof:parent_id":421191745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.12073,
+    23.86563,
+    90.12073,
+    23.86563
+],
+  "geometry": {"coordinates":[90.12072999999999,23.86563],"type":"Point"}
+}

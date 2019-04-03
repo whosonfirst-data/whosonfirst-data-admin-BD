@@ -1,0 +1,67 @@
+{
+  "id": 1209453197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"92.21907,21.77439,92.21907,21.77439",
+    "geom:latitude":21.77439,
+    "geom:longitude":92.21907,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2003.0",
+    "gn:admin3_code":"200351.0",
+    "gn:admin4_code":"20035163.0",
+    "gn:asciiname":"Lama",
+    "gn:country_code":"BD",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6415294,
+    "gn:latitude":21.77439,
+    "gn:longitude":92.21907,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"L\u0101ma",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "L\u0101ma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6415294
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"83b74ed8a95851d937813ac78eeaa550",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209453197
+        }
+    ],
+    "wof:id":1209453197,
+    "wof:lastmodified":1537586241,
+    "wof:name":"Lama",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    92.21907,
+    21.77439,
+    92.21907,
+    21.77439
+],
+  "geometry": {"coordinates":[92.21907,21.77439],"type":"Point"}
+}

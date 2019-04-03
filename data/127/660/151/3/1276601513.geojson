@@ -1,0 +1,70 @@
+{
+  "id": 1276601513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.11583,23.795,91.11583,23.795",
+    "geom:latitude":23.795,
+    "geom:longitude":91.11583,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2012.0",
+    "gn:admin3_code":"201263.0",
+    "gn:admin4_code":"20126365.0",
+    "gn:asciiname":"Kuti",
+    "gn:country_code":"BD",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1462806,
+    "gn:latitude":23.795,
+    "gn:longitude":91.11583,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Kuti",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        1108694667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1462806
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"69d45a86149a55cd88212a66c2534614",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694667,
+            "locality_id":1276601513,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1276601513,
+    "wof:lastmodified":1536917489,
+    "wof:name":"Kuti",
+    "wof:parent_id":1108694667,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.11583,
+    23.795,
+    91.11583,
+    23.795
+],
+  "geometry": {"coordinates":[91.11583,23.795],"type":"Point"}
+}

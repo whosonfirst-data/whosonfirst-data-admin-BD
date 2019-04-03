@@ -1,0 +1,61 @@
+{
+  "id": 1209645331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.14345,25.24729,89.14345,25.24729",
+    "geom:latitude":25.24729,
+    "geom:longitude":89.14345,
+    "gn:admin1_code":"87",
+    "gn:asciiname":"Keorta",
+    "gn:country_code":"BD",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1197912,
+    "gn:latitude":25.24729,
+    "gn:longitude":89.14345,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Keorta",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1197912
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"61b0941a244b65a4869e8d41f288b0d7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209645331
+        }
+    ],
+    "wof:id":1209645331,
+    "wof:lastmodified":1536280754,
+    "wof:name":"Keorta",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.14345,
+    25.24729,
+    89.14345,
+    25.24729
+],
+  "geometry": {"coordinates":[89.14345,25.24729],"type":"Point"}
+}

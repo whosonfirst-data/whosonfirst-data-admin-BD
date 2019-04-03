@@ -1,0 +1,73 @@
+{
+  "id": 1310039279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.04376,23.95252,89.04376,23.95252",
+    "geom:latitude":23.95252,
+    "geom:longitude":89.04376,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4050.0",
+    "gn:admin3_code":"405094.0",
+    "gn:admin4_code":"40509429.0",
+    "gn:asciiname":"Satragachha",
+    "gn:country_code":"BD",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7485619,
+    "gn:latitude":23.95252,
+    "gn:longitude":89.04376,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Satrag\u0101chha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Satrag\u0101chha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        890438075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7485619
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"bad2ebc4818dcf837161a27bb5597463",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":890438075,
+            "locality_id":1310039279,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1310039279,
+    "wof:lastmodified":1537586595,
+    "wof:name":"Satragachha",
+    "wof:parent_id":890438075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.04375999999998,
+    23.95252,
+    89.04375999999998,
+    23.95252
+],
+  "geometry": {"coordinates":[89.04375999999998,23.95252],"type":"Point"}
+}

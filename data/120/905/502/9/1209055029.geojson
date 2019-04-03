@@ -1,0 +1,64 @@
+{
+  "id": 1209055029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.95431,23.3005,90.95431,23.3005",
+    "geom:latitude":23.3005,
+    "geom:longitude":90.95431,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2013",
+    "gn:admin3_code":"201358.0",
+    "gn:admin4_code":"20135831.0",
+    "gn:asciiname":"Saharpar",
+    "gn:country_code":"BD",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1189217,
+    "gn:latitude":23.3005,
+    "gn:longitude":90.95431,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"S\u0101h\u0101rp\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1189217
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"43fbb62d1c8085a617707a55fe9e4f4a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209055029
+        }
+    ],
+    "wof:id":1209055029,
+    "wof:lastmodified":1536299137,
+    "wof:name":"Saharpar",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.95431,
+    23.3005,
+    90.95431,
+    23.3005
+],
+  "geometry": {"coordinates":[90.95431000000001,23.3005],"type":"Point"}
+}

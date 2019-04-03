@@ -1,0 +1,70 @@
+{
+  "id": 1360015465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.80307,24.01391,89.80307,24.01391",
+    "geom:latitude":24.01391,
+    "geom:longitude":89.80307,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3093",
+    "gn:admin3_code":"309376.0",
+    "gn:admin4_code":"30937621.0",
+    "gn:asciiname":"Kadim Kagna",
+    "gn:country_code":"BD",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1199555,
+    "gn:latitude":24.01391,
+    "gn:longitude":89.80307,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Kadim K\u0101gna",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421185471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1199555
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"fcc99eba7033b5aac9fc246a1e6a4c38",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421185471,
+            "locality_id":1360015465,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1360015465,
+    "wof:lastmodified":1537044386,
+    "wof:name":"Kadim Kagna",
+    "wof:parent_id":421185471,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.80306999999998,
+    24.01391,
+    89.80306999999998,
+    24.01391
+],
+  "geometry": {"coordinates":[89.80306999999998,24.01391],"type":"Point"}
+}

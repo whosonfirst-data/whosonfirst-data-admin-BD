@@ -1,0 +1,70 @@
+{
+  "id": 1226475731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.42244,25.08629,89.42244,25.08629",
+    "geom:latitude":25.08629,
+    "geom:longitude":89.42244,
+    "gn:admin1_code":"83",
+    "gn:asciiname":"Singa",
+    "gn:country_code":"BD",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7890941,
+    "gn:latitude":25.08629,
+    "gn:longitude":89.42244,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Singa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Singa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7890941
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"7922c36471d952646d498149b29c707b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694675,
+            "locality_id":1226475731,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1226475731,
+    "wof:lastmodified":1537586749,
+    "wof:name":"Singa",
+    "wof:parent_id":1108694675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.42244000000002,
+    25.08629,
+    89.42244000000002,
+    25.08629
+],
+  "geometry": {"coordinates":[89.42244000000002,25.08629],"type":"Point"}
+}

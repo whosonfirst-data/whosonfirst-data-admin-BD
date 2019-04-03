@@ -1,0 +1,70 @@
+{
+  "id": 1293538099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.98333,23.21667,90.98333,23.21667",
+    "geom:latitude":23.21667,
+    "geom:longitude":90.98333,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2013",
+    "gn:admin3_code":"201395.0",
+    "gn:admin4_code":"20139582.0",
+    "gn:asciiname":"Malara",
+    "gn:country_code":"BD",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1195212,
+    "gn:latitude":23.21667,
+    "gn:longitude":90.98333,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"M\u0101lara",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        1108694669
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1195212
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"056c82d62c470be662133bed50fd5f66",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694669,
+            "locality_id":1293538099,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1293538099,
+    "wof:lastmodified":1536714602,
+    "wof:name":"Malara",
+    "wof:parent_id":1108694669,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.98333,
+    23.21667,
+    90.98333,
+    23.21667
+],
+  "geometry": {"coordinates":[90.98333,23.21667],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1343699041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.50656,25.91985,88.50656,25.91985",
+    "geom:latitude":25.91985,
+    "geom:longitude":88.50656,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5594.0",
+    "gn:admin3_code":"559494.0",
+    "gn:admin4_code":"55949417.0",
+    "gn:asciiname":"Gonapara",
+    "gn:country_code":"BD",
+    "gn:dem":52,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7105776,
+    "gn:latitude":25.91985,
+    "gn:longitude":88.50656,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Gon\u0101p\u0101ra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Gon\u0101p\u0101ra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7105776
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"aadfd204ddaf0c93e35c32b391cf808c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694671,
+            "locality_id":1343699041,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1343699041,
+    "wof:lastmodified":1537586312,
+    "wof:name":"Gonapara",
+    "wof:parent_id":1108694671,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.50656,
+    25.91985,
+    88.50656,
+    25.91985
+],
+  "geometry": {"coordinates":[88.50655999999999,25.91985],"type":"Point"}
+}

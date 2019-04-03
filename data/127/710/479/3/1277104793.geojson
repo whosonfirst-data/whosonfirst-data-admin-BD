@@ -1,0 +1,76 @@
+{
+  "id": 1277104793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.18021,23.89879,89.18021,23.89879",
+    "geom:latitude":23.89879,
+    "geom:longitude":89.18021,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4050",
+    "gn:admin3_code":"405071.0",
+    "gn:admin4_code":"40507151.0",
+    "gn:asciiname":"Kaya",
+    "gn:country_code":"BD",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1192270,
+    "gn:latitude":23.89879,
+    "gn:longitude":89.18021,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Kay\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Kay\u0101"
+    ],
+    "name:ben_x_variant":[
+        "Paschim Kaya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        890438075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1192270
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"158623536d0e51cf2e0a50359a38ccc3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":890438075,
+            "locality_id":1277104793,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1277104793,
+    "wof:lastmodified":1537585832,
+    "wof:name":"Kaya",
+    "wof:parent_id":890438075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.18021,
+    23.89879,
+    89.18021,
+    23.89879
+],
+  "geometry": {"coordinates":[89.18021,23.89879],"type":"Point"}
+}

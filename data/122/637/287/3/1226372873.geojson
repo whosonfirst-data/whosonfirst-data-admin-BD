@@ -1,0 +1,74 @@
+{
+  "id": 1226372873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.17702,22.74217,90.17702,22.74217",
+    "geom:latitude":22.74217,
+    "geom:longitude":90.17702,
+    "gn:admin1_code":"85",
+    "gn:admin2_code":"1079",
+    "gn:admin3_code":"107987.0",
+    "gn:admin4_code":"10798709.0",
+    "gn:asciiname":"South Sarwakati",
+    "gn:country_code":"BD",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1187340,
+    "gn:latitude":22.74217,
+    "gn:longitude":90.17702,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"South S\u0101rw\u0101k\u0101ti",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "South S\u0101rw\u0101k\u0101ti"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669019,
+        421172031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1187340,
+        "wk:page":"South_Sarwakati"
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"defad01365c838a9d24a9250f49addda",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421172031,
+            "locality_id":1226372873,
+            "region_id":85669019
+        }
+    ],
+    "wof:id":1226372873,
+    "wof:lastmodified":1537585733,
+    "wof:name":"South Sarwakati",
+    "wof:parent_id":421172031,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.17702,
+    22.74217,
+    90.17702,
+    22.74217
+],
+  "geometry": {"coordinates":[90.17702,22.74217],"type":"Point"}
+}

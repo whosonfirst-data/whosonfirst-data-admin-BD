@@ -1,0 +1,76 @@
+{
+  "id": 1326663375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.02513,23.21046,89.02513,23.21046",
+    "geom:latitude":23.21046,
+    "geom:longitude":89.02513,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4041.0",
+    "gn:admin3_code":"404111.0",
+    "gn:admin4_code":"40411117.0",
+    "gn:asciiname":"Jhulinni",
+    "gn:country_code":"BD",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1204155,
+    "gn:latitude":23.21046,
+    "gn:longitude":89.02513,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Jhulinni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Jhulinni"
+    ],
+    "name:ben_x_variant":[
+        "Dhuli\u0101ni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        421176039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1204155
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"6179a641c19094f23552dc30823bcde7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421176039,
+            "locality_id":1326663375,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1326663375,
+    "wof:lastmodified":1537586052,
+    "wof:name":"Jhulinni",
+    "wof:parent_id":421176039,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.02513,
+    23.21046,
+    89.02513,
+    23.21046
+],
+  "geometry": {"coordinates":[89.02513,23.21046],"type":"Point"}
+}

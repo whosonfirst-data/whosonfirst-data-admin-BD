@@ -1,0 +1,70 @@
+{
+  "id": 1209448643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.85115,24.66555,88.85115,24.66555",
+    "geom:latitude":24.66555,
+    "geom:longitude":88.85115,
+    "gn:admin1_code":"83",
+    "gn:admin2_code":"5064",
+    "gn:admin3_code":"506403.0",
+    "gn:admin4_code":"50640342.0",
+    "gn:asciiname":"Paharpur",
+    "gn:country_code":"BD",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1191543,
+    "gn:latitude":24.66555,
+    "gn:longitude":88.85115,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Paharpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Paharpur"
+    ],
+    "name:ben_x_variant":[
+        "P\u0101h\u0101rpur Buzrug"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1191543
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"cf7661bfd6848e007c311a8c65806278",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209448643
+        }
+    ],
+    "wof:id":1209448643,
+    "wof:lastmodified":1537585815,
+    "wof:name":"Paharpur",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.85115,
+    24.66555,
+    88.85115,
+    24.66555
+],
+  "geometry": {"coordinates":[88.85115,24.66555],"type":"Point"}
+}

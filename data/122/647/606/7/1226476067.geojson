@@ -1,0 +1,73 @@
+{
+  "id": 1226476067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.07452,23.27476,89.07452,23.27476",
+    "geom:latitude":23.27476,
+    "geom:longitude":89.07452,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4041",
+    "gn:admin3_code":"404111.0",
+    "gn:admin4_code":"40411134.0",
+    "gn:asciiname":"Marua",
+    "gn:country_code":"BD",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1194776,
+    "gn:latitude":23.27476,
+    "gn:longitude":89.07452,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Marua",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Marua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        421176039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1194776
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"d241acd9b8f8b85a25ae49f3addedd41",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421176039,
+            "locality_id":1226476067,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1226476067,
+    "wof:lastmodified":1537585875,
+    "wof:name":"Marua",
+    "wof:parent_id":421176039,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.07451999999998,
+    23.27476,
+    89.07451999999998,
+    23.27476
+],
+  "geometry": {"coordinates":[89.07451999999998,23.27476],"type":"Point"}
+}

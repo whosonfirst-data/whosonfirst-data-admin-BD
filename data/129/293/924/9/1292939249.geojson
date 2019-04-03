@@ -1,0 +1,73 @@
+{
+  "id": 1292939249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.21339,25.95957,88.21339,25.95957",
+    "geom:latitude":25.95957,
+    "geom:longitude":88.21339,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5594.0",
+    "gn:admin3_code":"559486.0",
+    "gn:admin4_code":"55948679.0",
+    "gn:asciiname":"Kuabhita",
+    "gn:country_code":"BD",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7487516,
+    "gn:latitude":25.95957,
+    "gn:longitude":88.21339,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Ku\u0101bhita",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Ku\u0101bhita"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7487516
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"0d81b639f6ee75258f3563206756f5c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694703,
+            "locality_id":1292939249,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1292939249,
+    "wof:lastmodified":1537586641,
+    "wof:name":"Kuabhita",
+    "wof:parent_id":1108694703,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.21339,
+    25.95957000000001,
+    88.21339,
+    25.95957000000001
+],
+  "geometry": {"coordinates":[88.21339,25.95957000000001],"type":"Point"}
+}

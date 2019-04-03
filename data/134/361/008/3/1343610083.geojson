@@ -1,0 +1,73 @@
+{
+  "id": 1343610083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"92.0394,21.83191,92.0394,21.83191",
+    "geom:latitude":21.83191,
+    "geom:longitude":92.0394,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2022.0",
+    "gn:admin3_code":"202216.0",
+    "gn:admin4_code":"20221616.0",
+    "gn:asciiname":"Kala Sikdarpara",
+    "gn:country_code":"BD",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6414713,
+    "gn:latitude":21.83191,
+    "gn:longitude":92.0394,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"K\u0101la Sikd\u0101rp\u0101ra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "K\u0101la Sikd\u0101rp\u0101ra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421205057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6414713
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"d293cb0927da6f02c62b9d1634bd75ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421205057,
+            "locality_id":1343610083,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1343610083,
+    "wof:lastmodified":1537586231,
+    "wof:name":"Kala Sikdarpara",
+    "wof:parent_id":421205057,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    92.0394,
+    21.83191,
+    92.0394,
+    21.83191
+],
+  "geometry": {"coordinates":[92.0394,21.83191],"type":"Point"}
+}

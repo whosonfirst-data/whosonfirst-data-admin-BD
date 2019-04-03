@@ -1,0 +1,70 @@
+{
+  "id": 1327167555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.84984,24.65817,90.84984,24.65817",
+    "geom:latitude":24.65817,
+    "geom:longitude":90.84984,
+    "gn:admin1_code":"H",
+    "gn:admin2_code":"3072.0",
+    "gn:admin3_code":"307247.0",
+    "gn:admin4_code":"30724747.0",
+    "gn:asciiname":"Chandgati",
+    "gn:country_code":"BD",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1207445,
+    "gn:latitude":24.65817,
+    "gn:longitude":90.84984,
+    "gn:modification_date":"2016-11-17",
+    "gn:name":"Chandg\u0101ti",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        1108803101,
+        421200811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1207445
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"fa457d3dfd8b6b4c1ed90ab2c4971fb1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421200811,
+            "locality_id":1327167555,
+            "region_id":1108803101
+        }
+    ],
+    "wof:id":1327167555,
+    "wof:lastmodified":1537060626,
+    "wof:name":"Chandgati",
+    "wof:parent_id":421200811,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.84984,
+    24.65817,
+    90.84984,
+    24.65817
+],
+  "geometry": {"coordinates":[90.84984,24.65817],"type":"Point"}
+}

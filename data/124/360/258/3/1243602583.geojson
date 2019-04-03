@@ -1,0 +1,73 @@
+{
+  "id": 1243602583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"92.51271,22.6919,92.51271,22.6919",
+    "geom:latitude":22.6919,
+    "geom:longitude":92.51271,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2084.0",
+    "gn:admin3_code":"208447.0",
+    "gn:admin4_code":"20844738.0",
+    "gn:asciiname":"Uttar Karalidahari",
+    "gn:country_code":"BD",
+    "gn:dem":84,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7476949,
+    "gn:latitude":22.6919,
+    "gn:longitude":92.51271,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Uttar Karalidahari",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Uttar Karalidahari"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421188983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7476949
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"962ad2d9949cb4467512d1e676733616",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421188983,
+            "locality_id":1243602583,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1243602583,
+    "wof:lastmodified":1537586358,
+    "wof:name":"Uttar Karalidahari",
+    "wof:parent_id":421188983,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    92.51271,
+    22.6919,
+    92.51271,
+    22.6919
+],
+  "geometry": {"coordinates":[92.51271,22.6919],"type":"Point"}
+}

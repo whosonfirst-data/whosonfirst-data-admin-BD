@@ -1,0 +1,74 @@
+{
+  "id": 1226679719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.08963,23.00746,90.08963,23.00746",
+    "geom:latitude":23.00746,
+    "geom:longitude":90.08963,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3035",
+    "gn:admin3_code":"303551.0",
+    "gn:admin4_code":"30355179.0",
+    "gn:asciiname":"Ramsil Khagbari",
+    "gn:country_code":"BD",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1189899,
+    "gn:latitude":23.00746,
+    "gn:longitude":90.08963,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"R\u0101msil Kh\u0101gb\u0101ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Khagbari",
+        "R\u0101msil Kh\u0101gb\u0101ri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421194867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1189899
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"5c0581a0564ee4aa267589adfb99f7a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421194867,
+            "locality_id":1226679719,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1226679719,
+    "wof:lastmodified":1537585788,
+    "wof:name":"Ramsil Khagbari",
+    "wof:parent_id":421194867,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.08963,
+    23.00746,
+    90.08963,
+    23.00746
+],
+  "geometry": {"coordinates":[90.08963,23.00746],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1344190531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.99321,26.34045,88.99321,26.34045",
+    "geom:latitude":26.34045,
+    "geom:longitude":88.99321,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5552.0",
+    "gn:admin3_code":"555270.0",
+    "gn:admin4_code":"55527067.0",
+    "gn:asciiname":"Dhabalsati",
+    "gn:country_code":"BD",
+    "gn:dem":61,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7105299,
+    "gn:latitude":26.34045,
+    "gn:longitude":88.99321,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Dhabalsati",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Dhabalsati"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7105299
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"473b72419fa47ab4bc8f718f87706789",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694687,
+            "locality_id":1344190531,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1344190531,
+    "wof:lastmodified":1537586299,
+    "wof:name":"Dhabalsati",
+    "wof:parent_id":1108694687,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.99320999999998,
+    26.34045,
+    88.99320999999998,
+    26.34045
+],
+  "geometry": {"coordinates":[88.99320999999998,26.34045],"type":"Point"}
+}

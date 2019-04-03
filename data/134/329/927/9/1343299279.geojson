@@ -1,0 +1,73 @@
+{
+  "id": 1343299279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.87061,24.91755,88.87061,24.91755",
+    "geom:latitude":24.91755,
+    "geom:longitude":88.87061,
+    "gn:admin1_code":"83",
+    "gn:admin2_code":"5064.0",
+    "gn:admin3_code":"506406.0",
+    "gn:admin4_code":"50640631.0",
+    "gn:asciiname":"Bharatta",
+    "gn:country_code":"BD",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1209154,
+    "gn:latitude":24.91755,
+    "gn:longitude":88.87061,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Bh\u0101r\u0101tta",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Bh\u0101r\u0101tta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669031,
+        421191663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1209154
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"674d1535ebbae9290d4576dac03e9d2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421191663,
+            "locality_id":1343299279,
+            "region_id":85669031
+        }
+    ],
+    "wof:id":1343299279,
+    "wof:lastmodified":1537586142,
+    "wof:name":"Bharatta",
+    "wof:parent_id":421191663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.87061,
+    24.91755,
+    88.87061,
+    24.91755
+],
+  "geometry": {"coordinates":[88.87061,24.91755],"type":"Point"}
+}

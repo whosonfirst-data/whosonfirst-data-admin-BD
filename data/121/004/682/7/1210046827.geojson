@@ -1,0 +1,71 @@
+{
+  "id": 1210046827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.91349,22.21102,89.91349,22.21102",
+    "geom:latitude":22.21102,
+    "geom:longitude":89.91349,
+    "gn:admin1_code":"82",
+    "gn:asciiname":"Sapleja",
+    "gn:country_code":"BD",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1188684,
+    "gn:latitude":22.21102,
+    "gn:longitude":89.91349,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Sapleja",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Sapleja"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669019,
+        421172031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1188684,
+        "wk:page":"Sapleja"
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"1429b3b4ab27c755cda7253c8c2ec67b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421172031,
+            "locality_id":1210046827,
+            "region_id":85669019
+        }
+    ],
+    "wof:id":1210046827,
+    "wof:lastmodified":1537585766,
+    "wof:name":"Sapleja",
+    "wof:parent_id":421172031,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.91349,
+    22.21102,
+    89.91349,
+    22.21102
+],
+  "geometry": {"coordinates":[89.91349,22.21102],"type":"Point"}
+}

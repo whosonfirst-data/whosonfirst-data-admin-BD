@@ -1,0 +1,70 @@
+{
+  "id": 1209953989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.5256,24.02695,90.5256,24.02695",
+    "geom:latitude":24.02695,
+    "geom:longitude":90.5256,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3033",
+    "gn:admin3_code":"303334.0",
+    "gn:admin4_code":"30333469.0",
+    "gn:asciiname":"Sarusuachhla",
+    "gn:country_code":"BD",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1188524,
+    "gn:latitude":24.02695,
+    "gn:longitude":90.5256,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Sarusu\u0101chhla",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421203493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1188524
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"48398fefe896d0dcdf1c6bdc3c582b45",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421203493,
+            "locality_id":1209953989,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1209953989,
+    "wof:lastmodified":1536380467,
+    "wof:name":"Sarusuachhla",
+    "wof:parent_id":421203493,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.5256,
+    24.02695,
+    90.5256,
+    24.02695
+],
+  "geometry": {"coordinates":[90.5256,24.02695],"type":"Point"}
+}

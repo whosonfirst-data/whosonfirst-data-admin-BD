@@ -1,0 +1,70 @@
+{
+  "id": 1276689379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.41806,23.71341,89.41806,23.71341",
+    "geom:latitude":23.71341,
+    "geom:longitude":89.41806,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3082.0",
+    "gn:admin3_code":"308273.0",
+    "gn:admin4_code":"30827380.0",
+    "gn:asciiname":"Golabari Banagram",
+    "gn:country_code":"BD",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1202178,
+    "gn:latitude":23.71341,
+    "gn:longitude":89.41806,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Gol\u0101b\u0101ri Banagr\u0101m",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        1108694699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1202178
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"23064409105b4cb39a2b7282354dc18e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694699,
+            "locality_id":1276689379,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1276689379,
+    "wof:lastmodified":1536798852,
+    "wof:name":"Golabari Banagram",
+    "wof:parent_id":1108694699,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.41806,
+    23.71341,
+    89.41806,
+    23.71341
+],
+  "geometry": {"coordinates":[89.41806,23.71341],"type":"Point"}
+}

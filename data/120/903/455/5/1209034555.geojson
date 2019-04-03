@@ -1,0 +1,67 @@
+{
+  "id": 1209034555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.20912,22.42895,90.20912,22.42895",
+    "geom:latitude":22.42895,
+    "geom:longitude":90.20912,
+    "gn:admin1_code":"85",
+    "gn:admin2_code":"1004",
+    "gn:admin3_code":"100447.0",
+    "gn:admin4_code":"10044711.0",
+    "gn:asciiname":"Ranipur",
+    "gn:country_code":"BD",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1189811,
+    "gn:latitude":22.42895,
+    "gn:longitude":90.20912,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"R\u0101nipur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "R\u0101nipur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1189811
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"746d9a861e2e496f564fd4e44f39176e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209034555
+        }
+    ],
+    "wof:id":1209034555,
+    "wof:lastmodified":1537585787,
+    "wof:name":"Ranipur",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.20912,
+    22.42895,
+    90.20912,
+    22.42895
+],
+  "geometry": {"coordinates":[90.20912,22.42895],"type":"Point"}
+}

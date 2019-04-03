@@ -1,0 +1,73 @@
+{
+  "id": 1327376209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"92.52038,22.53364,92.52038,22.53364",
+    "geom:latitude":22.53364,
+    "geom:longitude":92.52038,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2084.0",
+    "gn:admin3_code":"208429.0",
+    "gn:admin4_code":"20842947.0",
+    "gn:asciiname":"Chhota Kuradia",
+    "gn:country_code":"BD",
+    "gn:dem":87,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7477007,
+    "gn:latitude":22.53364,
+    "gn:longitude":92.52038,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Chhota Kuradia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Chhota Kuradia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421188983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7477007
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"41777d8d46b7e6f39c7beb8c0670dbfc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421188983,
+            "locality_id":1327376209,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1327376209,
+    "wof:lastmodified":1537586359,
+    "wof:name":"Chhota Kuradia",
+    "wof:parent_id":421188983,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    92.52038,
+    22.53364,
+    92.52038,
+    22.53364
+],
+  "geometry": {"coordinates":[92.52038,22.53364],"type":"Point"}
+}

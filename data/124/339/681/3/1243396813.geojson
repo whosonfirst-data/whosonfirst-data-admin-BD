@@ -1,0 +1,73 @@
+{
+  "id": 1243396813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.24431,25.28052,89.24431,25.28052",
+    "geom:latitude":25.28052,
+    "geom:longitude":89.24431,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5527",
+    "gn:admin3_code":"552743.0",
+    "gn:admin4_code":"55274376.0",
+    "gn:asciiname":"Ibrahimpur",
+    "gn:country_code":"BD",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8064968,
+    "gn:latitude":25.28052,
+    "gn:longitude":89.24431,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Ibrahimpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Ibrahimpur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8064968
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"b80c5fc0a5e5a8d7c6907a074a0fcf6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694671,
+            "locality_id":1243396813,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1243396813,
+    "wof:lastmodified":1537586856,
+    "wof:name":"Ibrahimpur",
+    "wof:parent_id":1108694671,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.24431,
+    25.28052000000001,
+    89.24431,
+    25.28052000000001
+],
+  "geometry": {"coordinates":[89.24431,25.28052000000001],"type":"Point"}
+}

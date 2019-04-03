@@ -1,0 +1,68 @@
+{
+  "id": 1209648603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.13982,24.75501,90.13982,24.75501",
+    "geom:latitude":24.75501,
+    "geom:longitude":90.13982,
+    "gn:admin1_code":"H",
+    "gn:admin2_code":"3061.0",
+    "gn:admin3_code":"306165.0",
+    "gn:admin4_code":"30616534.0",
+    "gn:asciiname":"Ghayaspur",
+    "gn:country_code":"BD",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1202763,
+    "gn:latitude":24.75501,
+    "gn:longitude":90.13982,
+    "gn:modification_date":"2016-11-17",
+    "gn:name":"Ghay\u0101spur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ghay\u0101spur",
+        "Gayespur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1202763
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"ce7504b3750fb5be2ec59cf76e5702a1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209648603
+        }
+    ],
+    "wof:id":1209648603,
+    "wof:lastmodified":1537586023,
+    "wof:name":"Ghayaspur",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.13982,
+    24.75501,
+    90.13982,
+    24.75501
+],
+  "geometry": {"coordinates":[90.13982,24.75501],"type":"Point"}
+}

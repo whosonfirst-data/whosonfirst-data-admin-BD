@@ -1,0 +1,70 @@
+{
+  "id": 1343691839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.00699,24.31273,90.00699,24.31273",
+    "geom:latitude":24.31273,
+    "geom:longitude":90.00699,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3093",
+    "gn:admin3_code":"309347.0",
+    "gn:admin4_code":"30934707.0",
+    "gn:asciiname":"Saragi",
+    "gn:country_code":"BD",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1188662,
+    "gn:latitude":24.31273,
+    "gn:longitude":90.00699,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Sar\u0101gi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421185471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1188662
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"d688decc9c58eee19d405d8a588691e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421185471,
+            "locality_id":1343691839,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1343691839,
+    "wof:lastmodified":1536910283,
+    "wof:name":"Saragi",
+    "wof:parent_id":421185471,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.00699,
+    24.31273,
+    90.00699,
+    24.31273
+],
+  "geometry": {"coordinates":[90.00699,24.31273],"type":"Point"}
+}

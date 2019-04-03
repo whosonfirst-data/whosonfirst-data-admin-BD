@@ -1,0 +1,70 @@
+{
+  "id": 1310435187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.81027,22.19773,90.81027,22.19773",
+    "geom:latitude":22.19773,
+    "geom:longitude":90.81027,
+    "gn:admin1_code":"82",
+    "gn:asciiname":"Ayeshabag",
+    "gn:country_code":"BD",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7477955,
+    "gn:latitude":22.19773,
+    "gn:longitude":90.81027,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"Ayesh\u0101b\u0101g",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Ayesh\u0101b\u0101g"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669019,
+        421184491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7477955
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"258f83d06c005fb8dc1bb55109d00dc8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421184491,
+            "locality_id":1310435187,
+            "region_id":85669019
+        }
+    ],
+    "wof:id":1310435187,
+    "wof:lastmodified":1537586380,
+    "wof:name":"Ayeshabag",
+    "wof:parent_id":421184491,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.81027,
+    22.19773,
+    90.81027,
+    22.19773
+],
+  "geometry": {"coordinates":[90.81027,22.19773],"type":"Point"}
+}

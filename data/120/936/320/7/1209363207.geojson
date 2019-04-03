@@ -1,0 +1,70 @@
+{
+  "id": 1209363207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"92.17698,21.1867,92.17698,21.1867",
+    "geom:latitude":21.1867,
+    "geom:longitude":92.17698,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2022.0",
+    "gn:admin3_code":"202294.0",
+    "gn:admin4_code":"20229479.0",
+    "gn:asciiname":"Gundum Bazar",
+    "gn:country_code":"BD",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1201864,
+    "gn:latitude":21.1867,
+    "gn:longitude":92.17698,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Gundum B\u0101z\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Gundum B\u0101z\u0101r"
+    ],
+    "name:ben_x_variant":[
+        "Gundum"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1201864
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"da8ad0f45a425c2587070071bc25aeff",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209363207
+        }
+    ],
+    "wof:id":1209363207,
+    "wof:lastmodified":1537586006,
+    "wof:name":"Gundum Bazar",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    92.17698,
+    21.1867,
+    92.17698,
+    21.1867
+],
+  "geometry": {"coordinates":[92.17698,21.1867],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1343291849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.49498,23.25448,89.49498,23.25448",
+    "geom:latitude":23.25448,
+    "geom:longitude":89.49498,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4065.0",
+    "gn:admin3_code":"406576.0",
+    "gn:admin4_code":"40657640.0",
+    "gn:asciiname":"Jadabpur Dumairtala",
+    "gn:country_code":"BD",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7479666,
+    "gn:latitude":23.25448,
+    "gn:longitude":89.49498,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Jadabpur Dumairtala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Jadabpur Dumairtala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        421205213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7479666
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"ab755774c9aae8fe1671533f257847a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421205213,
+            "locality_id":1343291849,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1343291849,
+    "wof:lastmodified":1537586427,
+    "wof:name":"Jadabpur Dumairtala",
+    "wof:parent_id":421205213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.49498,
+    23.25448,
+    89.49498,
+    23.25448
+],
+  "geometry": {"coordinates":[89.49498,23.25448],"type":"Point"}
+}

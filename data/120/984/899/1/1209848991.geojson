@@ -1,0 +1,70 @@
+{
+  "id": 1209848991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.02164,22.8266,89.02164,22.8266",
+    "geom:latitude":22.8266,
+    "geom:longitude":89.02164,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4087",
+    "gn:admin3_code":"408743.0",
+    "gn:admin4_code":"40874323.0",
+    "gn:asciiname":"Rudrapur",
+    "gn:country_code":"BD",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1189512,
+    "gn:latitude":22.8266,
+    "gn:longitude":89.02164,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Rudrapur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        421201927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1189512
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"5758e608c48cb1b910f7b3f0eddbd453",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421201927,
+            "locality_id":1209848991,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1209848991,
+    "wof:lastmodified":1536389338,
+    "wof:name":"Rudrapur",
+    "wof:parent_id":421201927,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.02164,
+    22.8266,
+    89.02164,
+    22.8266
+],
+  "geometry": {"coordinates":[89.02164,22.8266],"type":"Point"}
+}

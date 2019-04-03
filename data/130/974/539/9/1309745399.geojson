@@ -1,0 +1,74 @@
+{
+  "id": 1309745399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.60205,23.53358,89.60205,23.53358",
+    "geom:latitude":23.53358,
+    "geom:longitude":89.60205,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3029.0",
+    "gn:admin3_code":"302956.0",
+    "gn:admin4_code":"30295673.0",
+    "gn:asciiname":"Baikunthapur",
+    "gn:country_code":"BD",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1211670,
+    "gn:latitude":23.53358,
+    "gn:longitude":89.60205,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Baikunthapur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Baikuntapur",
+        "Baikunthapur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421198063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1211670
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"34c76bf9eddd35fc52acdbfe9730afe6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421198063,
+            "locality_id":1309745399,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1309745399,
+    "wof:lastmodified":1537586182,
+    "wof:name":"Baikunthapur",
+    "wof:parent_id":421198063,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.60205,
+    23.53358,
+    89.60205,
+    23.53358
+],
+  "geometry": {"coordinates":[89.60205000000001,23.53358],"type":"Point"}
+}

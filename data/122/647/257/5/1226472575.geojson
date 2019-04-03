@@ -1,0 +1,73 @@
+{
+  "id": 1226472575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.10394,21.95703,90.10394,21.95703",
+    "geom:latitude":21.95703,
+    "geom:longitude":90.10394,
+    "gn:admin1_code":"85",
+    "gn:admin2_code":"1004.0",
+    "gn:admin3_code":"100409.0",
+    "gn:admin4_code":"10040939.0",
+    "gn:asciiname":"Panjrabhanga",
+    "gn:country_code":"BD",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7477709,
+    "gn:latitude":21.95703,
+    "gn:longitude":90.10394,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"P\u0101njr\u0101bh\u0101nga",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "P\u0101njr\u0101bh\u0101nga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669019,
+        421176043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7477709
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"67e25be9afc82d80b05eb5f029889a46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421176043,
+            "locality_id":1226472575,
+            "region_id":85669019
+        }
+    ],
+    "wof:id":1226472575,
+    "wof:lastmodified":1537586373,
+    "wof:name":"Panjrabhanga",
+    "wof:parent_id":421176043,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.10394,
+    21.95703,
+    90.10394,
+    21.95703
+],
+  "geometry": {"coordinates":[90.10393999999999,21.95703],"type":"Point"}
+}

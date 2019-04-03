@@ -1,0 +1,70 @@
+{
+  "id": 1343710289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.21667,22.81667,91.21667,22.81667",
+    "geom:latitude":22.81667,
+    "geom:longitude":91.21667,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2075.0",
+    "gn:admin3_code":"207589.0",
+    "gn:admin4_code":"20758955.0",
+    "gn:asciiname":"Ghoshbag",
+    "gn:country_code":"BD",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1202516,
+    "gn:latitude":22.81667,
+    "gn:longitude":91.21667,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Ghoshb\u0101g",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421177051
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1202516
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"6b19868bae4d8206a3870504f80ebbee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421177051,
+            "locality_id":1343710289,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1343710289,
+    "wof:lastmodified":1536882736,
+    "wof:name":"Ghoshbag",
+    "wof:parent_id":421177051,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.21667,
+    22.81667,
+    91.21667,
+    22.81667
+],
+  "geometry": {"coordinates":[91.21666999999999,22.81667],"type":"Point"}
+}

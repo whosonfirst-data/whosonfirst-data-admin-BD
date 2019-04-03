@@ -1,0 +1,69 @@
+{
+  "id": 1209248131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.7738,23.51259,89.7738,23.51259",
+    "geom:latitude":23.51259,
+    "geom:longitude":89.7738,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3029",
+    "gn:admin3_code":"302947.0",
+    "gn:admin4_code":"30294763.0",
+    "gn:asciiname":"Purdia Kasimabad",
+    "gn:country_code":"BD",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1190669,
+    "gn:latitude":23.51259,
+    "gn:longitude":89.7738,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Purdia K\u0101sim\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pardiamashinabad",
+        "Poradia Kashimabad",
+        "Purdia K\u0101sim\u0101b\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1190669
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"b905233d152e5211a078c4c1e3908571",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209248131
+        }
+    ],
+    "wof:id":1209248131,
+    "wof:lastmodified":1537585799,
+    "wof:name":"Purdia Kasimabad",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.7738,
+    23.51259,
+    89.7738,
+    23.51259
+],
+  "geometry": {"coordinates":[89.77379999999999,23.51259],"type":"Point"}
+}

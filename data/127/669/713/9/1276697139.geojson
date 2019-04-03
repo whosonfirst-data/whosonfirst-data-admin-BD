@@ -1,0 +1,73 @@
+{
+  "id": 1276697139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.50924,22.269,90.50924,22.269",
+    "geom:latitude":22.269,
+    "geom:longitude":90.50924,
+    "gn:admin1_code":"85",
+    "gn:admin2_code":"1078.0",
+    "gn:admin3_code":"107852.0",
+    "gn:admin4_code":"10785210.0",
+    "gn:asciiname":"Paschim Alipur",
+    "gn:country_code":"BD",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7478057,
+    "gn:latitude":22.269,
+    "gn:longitude":90.50924,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Paschim \u0100lipur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Paschim \u0100lipur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669019,
+        421169845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7478057
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"d6bc4683f7f24fd9c1e8786963269bd4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421169845,
+            "locality_id":1276697139,
+            "region_id":85669019
+        }
+    ],
+    "wof:id":1276697139,
+    "wof:lastmodified":1537586382,
+    "wof:name":"Paschim Alipur",
+    "wof:parent_id":421169845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.50924,
+    22.269,
+    90.50924,
+    22.269
+],
+  "geometry": {"coordinates":[90.50924000000001,22.269],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1260324335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.30519,24.89784,90.30519,24.89784",
+    "geom:latitude":24.89784,
+    "geom:longitude":90.30519,
+    "gn:admin1_code":"H",
+    "gn:admin2_code":"3061",
+    "gn:admin3_code":"306181.0",
+    "gn:admin4_code":"30618118.0",
+    "gn:asciiname":"Mankanda",
+    "gn:country_code":"BD",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1194919,
+    "gn:latitude":24.89784,
+    "gn:longitude":90.30519,
+    "gn:modification_date":"2016-11-17",
+    "gn:name":"Mank\u0101nda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        1108803101,
+        421185469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1194919
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"0f6e11603d88bc7a8ef68b53e535feec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421185469,
+            "locality_id":1260324335,
+            "region_id":1108803101
+        }
+    ],
+    "wof:id":1260324335,
+    "wof:lastmodified":1536657083,
+    "wof:name":"Mankanda",
+    "wof:parent_id":421185469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.30519,
+    24.89784,
+    90.30519,
+    24.89784
+],
+  "geometry": {"coordinates":[90.30519,24.89784],"type":"Point"}
+}

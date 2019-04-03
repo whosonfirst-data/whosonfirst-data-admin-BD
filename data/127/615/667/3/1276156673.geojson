@@ -1,0 +1,70 @@
+{
+  "id": 1276156673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.57069,25.16088,89.57069,25.16088",
+    "geom:latitude":25.16088,
+    "geom:longitude":89.57069,
+    "gn:admin1_code":"83",
+    "gn:asciiname":"Dhanaruha",
+    "gn:country_code":"BD",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7905677,
+    "gn:latitude":25.16088,
+    "gn:longitude":89.57069,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Dhanaruha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Dhanaruha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7905677
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"768ac6072fea8196cd077f0a5896a0ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694675,
+            "locality_id":1276156673,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1276156673,
+    "wof:lastmodified":1537586778,
+    "wof:name":"Dhanaruha",
+    "wof:parent_id":1108694675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.57069,
+    25.16088,
+    89.57069,
+    25.16088
+],
+  "geometry": {"coordinates":[89.57069,25.16088],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1209845757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.39863,24.92224,88.39863,24.92224",
+    "geom:latitude":24.92224,
+    "geom:longitude":88.39863,
+    "gn:admin1_code":"83",
+    "gn:admin2_code":"5070.0",
+    "gn:admin3_code":"507037.0",
+    "gn:admin4_code":"50703773.0",
+    "gn:asciiname":"Joyshail",
+    "gn:country_code":"BD",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7489198,
+    "gn:latitude":24.92224,
+    "gn:longitude":88.39863,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Joyshail",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Joyshail"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669031,
+        421191607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7489198
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"f03f0e6f077e61f6fc8e3133caaa7c24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421191607,
+            "locality_id":1209845757,
+            "region_id":85669031
+        }
+    ],
+    "wof:id":1209845757,
+    "wof:lastmodified":1537586690,
+    "wof:name":"Joyshail",
+    "wof:parent_id":421191607,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.39863000000003,
+    24.92224,
+    88.39863000000003,
+    24.92224
+],
+  "geometry": {"coordinates":[88.39863000000003,24.92224],"type":"Point"}
+}

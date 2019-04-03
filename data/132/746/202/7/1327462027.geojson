@@ -1,0 +1,70 @@
+{
+  "id": 1327462027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.49327,25.07037,89.49327,25.07037",
+    "geom:latitude":25.07037,
+    "geom:longitude":89.49327,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5532",
+    "gn:admin3_code":"553230.0",
+    "gn:admin4_code":"55323072.0",
+    "gn:asciiname":"Salmara",
+    "gn:country_code":"BD",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1188947,
+    "gn:latitude":25.07037,
+    "gn:longitude":89.49327,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"S\u0101lm\u0101ra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1188947
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"5b4c28ff32caf1a01a195940e5e6e444",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694675,
+            "locality_id":1327462027,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1327462027,
+    "wof:lastmodified":1536636982,
+    "wof:name":"Salmara",
+    "wof:parent_id":1108694675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.49327,
+    25.07037,
+    89.49327,
+    25.07037
+],
+  "geometry": {"coordinates":[89.49327,25.07037],"type":"Point"}
+}

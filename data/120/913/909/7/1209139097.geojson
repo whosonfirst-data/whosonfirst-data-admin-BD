@@ -1,0 +1,67 @@
+{
+  "id": 1209139097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.7383,24.6232,88.7383,24.6232",
+    "geom:latitude":24.6232,
+    "geom:longitude":88.7383,
+    "gn:admin1_code":"83",
+    "gn:admin2_code":"5081.0",
+    "gn:admin3_code":"508112.0",
+    "gn:admin4_code":"50811294.0",
+    "gn:asciiname":"Barigaon",
+    "gn:country_code":"BD",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7483190,
+    "gn:latitude":24.6232,
+    "gn:longitude":88.7383,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Barig\u0101on",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Barig\u0101on"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7483190
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"00830f3206b49607776742b9b853314b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209139097
+        }
+    ],
+    "wof:id":1209139097,
+    "wof:lastmodified":1537586530,
+    "wof:name":"Barigaon",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.7383,
+    24.6232,
+    88.7383,
+    24.6232
+],
+  "geometry": {"coordinates":[88.7383,24.6232],"type":"Point"}
+}

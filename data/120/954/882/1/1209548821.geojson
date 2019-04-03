@@ -1,0 +1,64 @@
+{
+  "id": 1209548821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.26667,23.83333,90.26667,23.83333",
+    "geom:latitude":23.83333,
+    "geom:longitude":90.26667,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3026",
+    "gn:admin3_code":"302672.0",
+    "gn:admin4_code":"30267200.0",
+    "gn:asciiname":"Tiabari",
+    "gn:country_code":"BD",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1186110,
+    "gn:latitude":23.83333,
+    "gn:longitude":90.26667,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Tiab\u0101ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1186110
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"ecf0cc3f5ac92d91de02a8c6c54d58f7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209548821
+        }
+    ],
+    "wof:id":1209548821,
+    "wof:lastmodified":1536283758,
+    "wof:name":"Tiabari",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.26667,
+    23.83333,
+    90.26667,
+    23.83333
+],
+  "geometry": {"coordinates":[90.26667,23.83333],"type":"Point"}
+}

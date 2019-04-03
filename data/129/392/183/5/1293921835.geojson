@@ -1,0 +1,73 @@
+{
+  "id": 1293921835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"92.10361,21.28542,92.10361,21.28542",
+    "geom:latitude":21.28542,
+    "geom:longitude":92.10361,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2022",
+    "gn:admin3_code":"202294.0",
+    "gn:admin4_code":"20229415.0",
+    "gn:asciiname":"Rumkhapalong",
+    "gn:country_code":"BD",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1189480,
+    "gn:latitude":21.28542,
+    "gn:longitude":92.10361,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Rumkh\u0101p\u0101long",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Rumkh\u0101p\u0101long"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421205057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1189480
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"d7f7be756776e74bfdc59b9394251688",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421205057,
+            "locality_id":1293921835,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1293921835,
+    "wof:lastmodified":1537585781,
+    "wof:name":"Rumkhapalong",
+    "wof:parent_id":421205057,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    92.10361,
+    21.28542,
+    92.10361,
+    21.28542
+],
+  "geometry": {"coordinates":[92.10361,21.28542],"type":"Point"}
+}

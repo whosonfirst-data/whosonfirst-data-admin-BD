@@ -1,0 +1,70 @@
+{
+  "id": 1276161625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.08389,22.75111,91.08389,22.75111",
+    "geom:latitude":22.75111,
+    "geom:longitude":91.08389,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2075.0",
+    "gn:admin3_code":"207587.0",
+    "gn:admin4_code":"20758780.0",
+    "gn:asciiname":"Noanni",
+    "gn:country_code":"BD",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1462715,
+    "gn:latitude":22.75111,
+    "gn:longitude":91.08389,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Noanni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421177051
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1462715
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"159b6abc0d27968e54c825645858cba0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421177051,
+            "locality_id":1276161625,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1276161625,
+    "wof:lastmodified":1537008150,
+    "wof:name":"Noanni",
+    "wof:parent_id":421177051,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.08389,
+    22.75111,
+    91.08389,
+    22.75111
+],
+  "geometry": {"coordinates":[91.08389,22.75111],"type":"Point"}
+}

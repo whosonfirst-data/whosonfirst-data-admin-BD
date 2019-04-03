@@ -1,0 +1,64 @@
+{
+  "id": 1209645033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.00739,25.73424,89.00739,25.73424",
+    "geom:latitude":25.73424,
+    "geom:longitude":89.00739,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5585",
+    "gn:admin3_code":"558503.0",
+    "gn:admin4_code":"55850382.0",
+    "gn:asciiname":"Radhanagar Pathanpara",
+    "gn:country_code":"BD",
+    "gn:dem":41,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1190569,
+    "gn:latitude":25.73424,
+    "gn:longitude":89.00739,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"R\u0101dh\u0101nagar P\u0101th\u0101npara",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1190569
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"0574db415429dac0bc2db7d8c227c324",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209645033
+        }
+    ],
+    "wof:id":1209645033,
+    "wof:lastmodified":1536280762,
+    "wof:name":"Radhanagar Pathanpara",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.00739,
+    25.73424,
+    89.00739,
+    25.73424
+],
+  "geometry": {"coordinates":[89.00739,25.73424],"type":"Point"}
+}

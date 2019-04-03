@@ -1,0 +1,73 @@
+{
+  "id": 1326763927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.86869,26.08149,88.86869,26.08149",
+    "geom:latitude":26.08149,
+    "geom:longitude":88.86869,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5573.0",
+    "gn:admin3_code":"557336.0",
+    "gn:admin4_code":"55733621.0",
+    "gn:asciiname":"Matakpur",
+    "gn:country_code":"BD",
+    "gn:dem":54,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7105465,
+    "gn:latitude":26.08149,
+    "gn:longitude":88.86869,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Matakpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Matakpur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7105465
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"26969ef902d54e2809337adaeab687b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694695,
+            "locality_id":1326763927,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1326763927,
+    "wof:lastmodified":1537586304,
+    "wof:name":"Matakpur",
+    "wof:parent_id":1108694695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.86869,
+    26.08149,
+    88.86869,
+    26.08149
+],
+  "geometry": {"coordinates":[88.86869,26.08149],"type":"Point"}
+}

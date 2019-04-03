@@ -1,0 +1,70 @@
+{
+  "id": 1310629099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.74028,25.03639,89.74028,25.03639",
+    "geom:latitude":25.03639,
+    "geom:longitude":89.74028,
+    "gn:admin1_code":"H",
+    "gn:asciiname":"Sonamukhi",
+    "gn:country_code":"BD",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7905720,
+    "gn:latitude":25.03639,
+    "gn:longitude":89.74028,
+    "gn:modification_date":"2016-12-05",
+    "gn:name":"Son\u0101mukhi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Son\u0101mukhi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        1108803101,
+        421191923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7905720
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"009c6c60fc8695b9a0cb18078970baf3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421191923,
+            "locality_id":1310629099,
+            "region_id":1108803101
+        }
+    ],
+    "wof:id":1310629099,
+    "wof:lastmodified":1537586779,
+    "wof:name":"Sonamukhi",
+    "wof:parent_id":421191923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.74028,
+    25.03639,
+    89.74028,
+    25.03639
+],
+  "geometry": {"coordinates":[89.74028,25.03639],"type":"Point"}
+}

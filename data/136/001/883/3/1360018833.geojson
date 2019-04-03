@@ -1,0 +1,70 @@
+{
+  "id": 1360018833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.47678,22.95618,89.47678,22.95618",
+    "geom:latitude":22.95618,
+    "geom:longitude":89.47678,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4047.0",
+    "gn:admin3_code":"404769.0",
+    "gn:admin4_code":"40476938.0",
+    "gn:asciiname":"Damodar",
+    "gn:country_code":"BD",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1205246,
+    "gn:latitude":22.95618,
+    "gn:longitude":89.47678,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"D\u0101modar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        421185473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1205246
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"bd88de7e4af0c9032a6e29d03fa4c766",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421185473,
+            "locality_id":1360018833,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1360018833,
+    "wof:lastmodified":1537039595,
+    "wof:name":"Damodar",
+    "wof:parent_id":421185473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.47678,
+    22.95618,
+    89.47678,
+    22.95618
+],
+  "geometry": {"coordinates":[89.47678000000001,22.95618],"type":"Point"}
+}

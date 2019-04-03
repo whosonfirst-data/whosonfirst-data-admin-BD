@@ -1,0 +1,73 @@
+{
+  "id": 1293817249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.67318,25.16313,88.67318,25.16313",
+    "geom:latitude":25.16313,
+    "geom:longitude":88.67318,
+    "gn:admin1_code":"83",
+    "gn:admin2_code":"5064.0",
+    "gn:admin3_code":"506475.0",
+    "gn:admin4_code":"50647594.0",
+    "gn:asciiname":"Wari Khanda",
+    "gn:country_code":"BD",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7488802,
+    "gn:latitude":25.16313,
+    "gn:longitude":88.67318,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"W\u0101ri Khanda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "W\u0101ri Khanda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669031,
+        421191663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7488802
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"744cae1f9edae8fc52e3c80836ec1f39",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421191663,
+            "locality_id":1293817249,
+            "region_id":85669031
+        }
+    ],
+    "wof:id":1293817249,
+    "wof:lastmodified":1537586679,
+    "wof:name":"Wari Khanda",
+    "wof:parent_id":421191663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.67318,
+    25.16313,
+    88.67318,
+    25.16313
+],
+  "geometry": {"coordinates":[88.67318,25.16313],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1326563259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.05817,23.24853,89.05817,23.24853",
+    "geom:latitude":23.24853,
+    "geom:longitude":89.05817,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4041",
+    "gn:admin3_code":"404111.0",
+    "gn:admin4_code":"40411186.0",
+    "gn:asciiname":"Singhajhul",
+    "gn:country_code":"BD",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1187788,
+    "gn:latitude":23.24853,
+    "gn:longitude":89.05817,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Singhajhul",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Singhajhul"
+    ],
+    "name:ben_x_variant":[
+        "Singhajhuli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        421176039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1187788
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"003b1d98caace1222652355c10c9ab20",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421176039,
+            "locality_id":1326563259,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1326563259,
+    "wof:lastmodified":1537585745,
+    "wof:name":"Singhajhul",
+    "wof:parent_id":421176039,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.05816999999998,
+    23.24853,
+    89.05816999999998,
+    23.24853
+],
+  "geometry": {"coordinates":[89.05816999999998,23.24853],"type":"Point"}
+}

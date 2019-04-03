@@ -1,0 +1,73 @@
+{
+  "id": 1259910115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.51971,25.30772,89.51971,25.30772",
+    "geom:latitude":25.30772,
+    "geom:longitude":89.51971,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5532",
+    "gn:admin3_code":"553224.0",
+    "gn:admin4_code":"55322421.0",
+    "gn:asciiname":"Taraf Kal",
+    "gn:country_code":"BD",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7905455,
+    "gn:latitude":25.30772,
+    "gn:longitude":89.51971,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Taraf Kal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Taraf Kal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7905455
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"4cdcc64b989ae9025ce2ee90c978c32b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694675,
+            "locality_id":1259910115,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1259910115,
+    "wof:lastmodified":1537586773,
+    "wof:name":"Taraf Kal",
+    "wof:parent_id":1108694675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.51971,
+    25.30772,
+    89.51971,
+    25.30772
+],
+  "geometry": {"coordinates":[89.51971,25.30772],"type":"Point"}
+}

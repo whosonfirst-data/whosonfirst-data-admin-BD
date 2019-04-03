@@ -1,0 +1,133 @@
+{
+  "id": 85902971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":60160595.962556,
+    "geom:bbox":"90.393385,23.715054,90.393385,23.715054",
+    "geom:latitude":23.715054,
+    "geom:longitude":90.393385,
+    "gn:gn_country":"BD",
+    "gn:gn_fcode":"PPLX",
+    "gn:gn_pop":0,
+    "gn:latitude":23.71667,
+    "gn:longitude":90.38333,
+    "iso:country":"BD",
+    "lbl:latitude":23.715054,
+    "lbl:longitude":90.393385,
+    "mps:latitude":23.699123,
+    "mps:longitude":90.389935,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":2,
+    "name:eng_x_preferred":[
+        "Amla Para"
+    ],
+    "name:unk_x_variant":[
+        "Amla Para"
+    ],
+    "qs:gn_adm0_cc":"BD",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":1185241,
+    "qs:gn_nam_loc":"Dhaka, Dhaka, Dhaka, BD",
+    "qs:gn_namadm1":"00",
+    "qs:gn_name":"Amla Para",
+    "qs:local_max":8762,
+    "qs:local_sum":10899,
+    "qs:localhoods":2,
+    "qs:name":"Amla Para",
+    "qs:name_adm0":"Bangladesh",
+    "qs:name_adm1":"Dhaka",
+    "qs:name_adm2":"Dhaka",
+    "qs:name_local":"Dhaka",
+    "qs:photo_max":1055,
+    "qs:photo_sum":8762,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":161,
+    "qs:woe_adm0":23424759,
+    "qs:woe_adm1":2344791,
+    "qs:woe_adm2":23706470,
+    "qs:woe_lau":0,
+    "qs:woe_local":1915035,
+    "qs:woe_ver":"7.10.0",
+    "qs_pg:aaroncc":"BD",
+    "qs_pg:gn_country":"BD",
+    "qs_pg:gn_fcode":"PPLX",
+    "qs_pg:gn_id":1212814,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Amla Para",
+    "qs_pg:name_adm0":"Bangladesh",
+    "qs_pg:name_adm1":"Dhaka",
+    "qs_pg:photos":8197,
+    "qs_pg:photos_1k":1000,
+    "qs_pg:photos_9k":36,
+    "qs_pg:photos_9r":15,
+    "qs_pg:photos_all":8197,
+    "qs_pg:photos_sr":25,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":235464,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424759,
+    "qs_pg:woe_id":1888427,
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        85669009,
+        102191569,
+        85632475,
+        421187803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1212814,
+        "gp:id":1888427,
+        "qs:id":235464,
+        "qs_pg:id":235464
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"79074e8a92913203369afc2e3c69b22e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421187803,
+            "locality_id":-1,
+            "neighbourhood_id":85902971,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":85902971,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1534379234,
+    "wof:name":"Amla Para",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1126099843
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.393385,
+    23.715054,
+    90.393385,
+    23.715054
+],
+  "geometry": {"coordinates":[90.39338499999999,23.715054],"type":"Point"}
+}

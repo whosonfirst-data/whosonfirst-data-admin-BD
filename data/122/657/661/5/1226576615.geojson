@@ -1,0 +1,70 @@
+{
+  "id": 1226576615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.64211,24.87092,90.64211,24.87092",
+    "geom:latitude":24.87092,
+    "geom:longitude":90.64211,
+    "gn:admin1_code":"H",
+    "gn:admin2_code":"3072",
+    "gn:admin3_code":"307283.0",
+    "gn:admin4_code":"30728387.0",
+    "gn:asciiname":"Sabajpur",
+    "gn:country_code":"BD",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1189437,
+    "gn:latitude":24.87092,
+    "gn:longitude":90.64211,
+    "gn:modification_date":"2016-11-17",
+    "gn:name":"S\u0101b\u0101jpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        1108803101,
+        421200811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1189437
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"7f4edeee1a2e21cab54f908aaf6ef784",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421200811,
+            "locality_id":1226576615,
+            "region_id":1108803101
+        }
+    ],
+    "wof:id":1226576615,
+    "wof:lastmodified":1536955086,
+    "wof:name":"Sabajpur",
+    "wof:parent_id":421200811,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.64211,
+    24.87092,
+    90.64211,
+    24.87092
+],
+  "geometry": {"coordinates":[90.64211,24.87092],"type":"Point"}
+}

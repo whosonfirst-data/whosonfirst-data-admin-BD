@@ -1,0 +1,70 @@
+{
+  "id": 1293427965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.2,23.46667,91.2,23.46667",
+    "geom:latitude":23.46667,
+    "geom:longitude":91.2,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2019",
+    "gn:admin3_code":"201967.0",
+    "gn:admin4_code":"20196700.0",
+    "gn:asciiname":"Panchthubi",
+    "gn:country_code":"BD",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1192641,
+    "gn:latitude":23.46667,
+    "gn:longitude":91.2,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"P\u0101nchthubi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421187801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1192641
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"17e639399302caa766123868231fa343",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421187801,
+            "locality_id":1293427965,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1293427965,
+    "wof:lastmodified":1536871784,
+    "wof:name":"Panchthubi",
+    "wof:parent_id":421187801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.2,
+    23.46667,
+    91.2,
+    23.46667
+],
+  "geometry": {"coordinates":[91.2,23.46667],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1209352033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.96111,23.69642,88.96111,23.69642",
+    "geom:latitude":23.69642,
+    "geom:longitude":88.96111,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4018.0",
+    "gn:admin3_code":"401807.0",
+    "gn:admin4_code":"40180794.0",
+    "gn:asciiname":"Khejurtala",
+    "gn:country_code":"BD",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7484888,
+    "gn:latitude":23.69642,
+    "gn:longitude":88.96111,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Khejurtala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Khejurtala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7484888
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"658c3e8ee6a976c24d6d65e43b5ef831",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209352033
+        }
+    ],
+    "wof:id":1209352033,
+    "wof:lastmodified":1537586577,
+    "wof:name":"Khejurtala",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.96110999999998,
+    23.69642,
+    88.96110999999998,
+    23.69642
+],
+  "geometry": {"coordinates":[88.96110999999998,23.69642],"type":"Point"}
+}

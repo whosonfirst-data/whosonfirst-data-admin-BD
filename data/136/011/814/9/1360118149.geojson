@@ -1,0 +1,74 @@
+{
+  "id": 1360118149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.81455,23.31905,89.81455,23.31905",
+    "geom:latitude":23.31905,
+    "geom:longitude":89.81455,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3035",
+    "gn:admin3_code":"303558.0",
+    "gn:admin4_code":"30355878.0",
+    "gn:asciiname":"Janbag",
+    "gn:country_code":"BD",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1200253,
+    "gn:latitude":23.31905,
+    "gn:longitude":89.81455,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"J\u0101nb\u0101g",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Janbhag",
+        "J\u0101nb\u0101g"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421194867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1200253
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"d5ace4ae44181639bbd29ec6233393c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421194867,
+            "locality_id":1360118149,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1360118149,
+    "wof:lastmodified":1537585976,
+    "wof:name":"Janbag",
+    "wof:parent_id":421194867,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.81455,
+    23.31905,
+    89.81455,
+    23.31905
+],
+  "geometry": {"coordinates":[89.81455,23.31905],"type":"Point"}
+}

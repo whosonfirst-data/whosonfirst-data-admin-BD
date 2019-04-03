@@ -1,0 +1,73 @@
+{
+  "id": 1276583717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.43195,23.29474,89.43195,23.29474",
+    "geom:latitude":23.29474,
+    "geom:longitude":89.43195,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4055.0",
+    "gn:admin3_code":"405585.0",
+    "gn:admin4_code":"40558523.0",
+    "gn:asciiname":"Radhadanga",
+    "gn:country_code":"BD",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7478483,
+    "gn:latitude":23.29474,
+    "gn:longitude":89.43195,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Radhad\u0101nga",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Radhad\u0101nga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        1108694689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7478483
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"f953c4824118e37df01d1eb8b405605c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694689,
+            "locality_id":1276583717,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1276583717,
+    "wof:lastmodified":1537586393,
+    "wof:name":"Radhadanga",
+    "wof:parent_id":1108694689,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.43195,
+    23.29474,
+    89.43195,
+    23.29474
+],
+  "geometry": {"coordinates":[89.43195,23.29474],"type":"Point"}
+}

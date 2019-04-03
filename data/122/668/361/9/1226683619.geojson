@@ -1,0 +1,73 @@
+{
+  "id": 1226683619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.54284,26.06093,88.54284,26.06093",
+    "geom:latitude":26.06093,
+    "geom:longitude":88.54284,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5594",
+    "gn:admin3_code":"559494.0",
+    "gn:admin4_code":"55949415.0",
+    "gn:asciiname":"Kiarigaon",
+    "gn:country_code":"BD",
+    "gn:dem":61,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1197206,
+    "gn:latitude":26.06093,
+    "gn:longitude":88.54284,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Ki\u0101r\u012bgaon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Ki\u0101r\u012bgaon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1197206
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"dadfeb93fe3b5255773b8819142bfef6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694703,
+            "locality_id":1226683619,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1226683619,
+    "wof:lastmodified":1537585919,
+    "wof:name":"Kiarigaon",
+    "wof:parent_id":1108694703,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.54284,
+    26.06093,
+    88.54284,
+    26.06093
+],
+  "geometry": {"coordinates":[88.54284,26.06093],"type":"Point"}
+}

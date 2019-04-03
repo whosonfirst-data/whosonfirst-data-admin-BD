@@ -1,0 +1,70 @@
+{
+  "id": 1293822137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.96491,23.37278,90.96491,23.37278",
+    "geom:latitude":23.37278,
+    "geom:longitude":90.96491,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2019.0",
+    "gn:admin3_code":"201927.0",
+    "gn:admin4_code":"20192731.0",
+    "gn:asciiname":"Dherera",
+    "gn:country_code":"BD",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1204266,
+    "gn:latitude":23.37278,
+    "gn:longitude":90.96491,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Dherera",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421187801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1204266
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"952e03f8d809a65f49d2e935a13684ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421187801,
+            "locality_id":1293822137,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1293822137,
+    "wof:lastmodified":1536801737,
+    "wof:name":"Dherera",
+    "wof:parent_id":421187801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.96491,
+    23.37278,
+    90.96491,
+    23.37278
+],
+  "geometry": {"coordinates":[90.96491,23.37278],"type":"Point"}
+}

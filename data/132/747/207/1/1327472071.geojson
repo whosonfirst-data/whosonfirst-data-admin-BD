@@ -1,0 +1,70 @@
+{
+  "id": 1327472071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.72944,22.4575,91.72944,22.4575",
+    "geom:latitude":22.4575,
+    "geom:longitude":91.72944,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2015",
+    "gn:admin3_code":"201586.0",
+    "gn:admin4_code":"20158685.0",
+    "gn:asciiname":"Sitalpur",
+    "gn:country_code":"BD",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1187698,
+    "gn:latitude":22.4575,
+    "gn:longitude":91.72944,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"S\u012btalpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421201541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1187698
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"f2dae87ef149b15bb9b6c00a5ab8aee9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421201541,
+            "locality_id":1327472071,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1327472071,
+    "wof:lastmodified":1536621381,
+    "wof:name":"Sitalpur",
+    "wof:parent_id":421201541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.72944,
+    22.4575,
+    91.72944,
+    22.4575
+],
+  "geometry": {"coordinates":[91.72944,22.4575],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1259625569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.70797,23.02683,90.70797,23.02683",
+    "geom:latitude":23.02683,
+    "geom:longitude":90.70797,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2051",
+    "gn:admin3_code":"205158.0",
+    "gn:admin4_code":"20515823.0",
+    "gn:asciiname":"Takuar Char",
+    "gn:country_code":"BD",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1186670,
+    "gn:latitude":23.02683,
+    "gn:longitude":90.70797,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"T\u0101ku\u0101r Char",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421166521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1186670
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"fab53201def69cda6e11733e21cece0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421166521,
+            "locality_id":1259625569,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1259625569,
+    "wof:lastmodified":1536654071,
+    "wof:name":"Takuar Char",
+    "wof:parent_id":421166521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.70797,
+    23.02683,
+    90.70797,
+    23.02683
+],
+  "geometry": {"coordinates":[90.70797,23.02683],"type":"Point"}
+}

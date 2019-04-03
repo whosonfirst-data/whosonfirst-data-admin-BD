@@ -1,0 +1,73 @@
+{
+  "id": 1276689259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.09308,23.56909,89.09308,23.56909",
+    "geom:latitude":23.56909,
+    "geom:longitude":89.09308,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4044.0",
+    "gn:admin3_code":"404419.0",
+    "gn:admin4_code":"40441926.0",
+    "gn:asciiname":"Natabaria",
+    "gn:country_code":"BD",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7478911,
+    "gn:latitude":23.56909,
+    "gn:longitude":89.09308,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"N\u0101t\u0101baria",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "N\u0101t\u0101baria"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        1108694679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7478911
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"737aa5b365103bf39c24709df705c28e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694679,
+            "locality_id":1276689259,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1276689259,
+    "wof:lastmodified":1537586404,
+    "wof:name":"Natabaria",
+    "wof:parent_id":1108694679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.09308,
+    23.56909,
+    89.09308,
+    23.56909
+],
+  "geometry": {"coordinates":[89.09308,23.56909],"type":"Point"}
+}

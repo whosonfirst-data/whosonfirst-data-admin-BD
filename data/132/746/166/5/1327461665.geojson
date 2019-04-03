@@ -1,0 +1,77 @@
+{
+  "id": 1327461665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.20421,22.38301,89.20421,22.38301",
+    "geom:latitude":22.38301,
+    "geom:longitude":89.20421,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4087",
+    "gn:admin3_code":"408704.0",
+    "gn:admin4_code":"40870477.0",
+    "gn:asciiname":"Pratapnagar",
+    "gn:country_code":"BD",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1190918,
+    "gn:latitude":22.38301,
+    "gn:longitude":89.20421,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Prat\u0101pnagar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Prat\u0101pnagar"
+    ],
+    "name:und_x_variant":[
+        "Prataphagar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        421201927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1190918,
+        "wk:page":"Pratapnagar"
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"23725e1546ae343be2f93af463d66b54",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421201927,
+            "locality_id":1327461665,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1327461665,
+    "wof:lastmodified":1537585805,
+    "wof:name":"Pratapnagar",
+    "wof:parent_id":421201927,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.20421,
+    22.38301,
+    89.20421,
+    22.38301
+],
+  "geometry": {"coordinates":[89.20421,22.38301],"type":"Point"}
+}

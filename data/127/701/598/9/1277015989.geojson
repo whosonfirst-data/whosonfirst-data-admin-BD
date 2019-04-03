@@ -1,0 +1,73 @@
+{
+  "id": 1277015989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.71703,25.28765,89.71703,25.28765",
+    "geom:latitude":25.28765,
+    "geom:longitude":89.71703,
+    "gn:admin1_code":"83",
+    "gn:asciiname":"Magori ghat",
+    "gn:country_code":"BD",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7905504,
+    "gn:latitude":25.28765,
+    "gn:longitude":89.71703,
+    "gn:modification_date":"2012-12-07",
+    "gn:name":"Magori ghat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Magori ghat"
+    ],
+    "name:und_x_variant":[
+        "M\u0101grigh\u0101t"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7905504
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"d6f186c2a43b4d8a0045c4d089218fe5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694675,
+            "locality_id":1277015989,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1277015989,
+    "wof:lastmodified":1537586774,
+    "wof:name":"Magori ghat",
+    "wof:parent_id":1108694675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.71703000000002,
+    25.28765,
+    89.71703000000002,
+    25.28765
+],
+  "geometry": {"coordinates":[89.71703000000002,25.28765],"type":"Point"}
+}

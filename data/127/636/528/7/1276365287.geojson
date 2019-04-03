@@ -1,0 +1,73 @@
+{
+  "id": 1276365287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.20945,25.78506,89.20945,25.78506",
+    "geom:latitude":25.78506,
+    "geom:longitude":89.20945,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5585",
+    "gn:admin3_code":"558549.0",
+    "gn:admin4_code":"55854994.0",
+    "gn:asciiname":"Purba Gilabari",
+    "gn:country_code":"BD",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7923979,
+    "gn:latitude":25.78506,
+    "gn:longitude":89.20945,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Purba Gil\u0101b\u0101ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Purba Gil\u0101b\u0101ri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7923979
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"70a3987c7759413531683a9c71e6d94c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694701,
+            "locality_id":1276365287,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1276365287,
+    "wof:lastmodified":1537586814,
+    "wof:name":"Purba Gilabari",
+    "wof:parent_id":1108694701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.20945,
+    25.78506,
+    89.20945,
+    25.78506
+],
+  "geometry": {"coordinates":[89.20945,25.78506],"type":"Point"}
+}

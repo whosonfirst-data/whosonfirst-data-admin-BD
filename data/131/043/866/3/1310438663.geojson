@@ -1,0 +1,70 @@
+{
+  "id": 1310438663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.1321,23.84503,90.1321,23.84503",
+    "geom:latitude":23.84503,
+    "geom:longitude":90.1321,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3056",
+    "gn:admin3_code":"305682.0",
+    "gn:admin4_code":"30568294.0",
+    "gn:asciiname":"Uttar Singair",
+    "gn:country_code":"BD",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1185477,
+    "gn:latitude":23.84503,
+    "gn:longitude":90.1321,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Uttar Sing\u0101ir",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421191745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1185477
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"8d7b5f6665fe7d82b82fafada6e9ea0b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421191745,
+            "locality_id":1310438663,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1310438663,
+    "wof:lastmodified":1537012767,
+    "wof:name":"Uttar Singair",
+    "wof:parent_id":421191745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.1321,
+    23.84503,
+    90.1321,
+    23.84503
+],
+  "geometry": {"coordinates":[90.13209999999999,23.84503],"type":"Point"}
+}

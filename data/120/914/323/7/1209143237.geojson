@@ -1,0 +1,69 @@
+{
+  "id": 1209143237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"92.23333,24.83333,92.23333,24.83333",
+    "geom:latitude":24.83333,
+    "geom:longitude":92.23333,
+    "gn:admin1_code":"86",
+    "gn:admin2_code":"6091.0",
+    "gn:admin3_code":"609117.0",
+    "gn:admin4_code":"60911777.0",
+    "gn:asciiname":"Ashraghari",
+    "gn:cc2":"BD",
+    "gn:country_code":"BD",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1212417,
+    "gn:latitude":24.83333,
+    "gn:longitude":92.23333,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Ashraghari",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Asthaghari",
+        "Ashraghari"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1212417
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"09723138045e0df97eddda238da376d7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209143237
+        }
+    ],
+    "wof:id":1209143237,
+    "wof:lastmodified":1537586195,
+    "wof:name":"Ashraghari",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    92.23333,
+    24.83333,
+    92.23333,
+    24.83333
+],
+  "geometry": {"coordinates":[92.23333,24.83333],"type":"Point"}
+}

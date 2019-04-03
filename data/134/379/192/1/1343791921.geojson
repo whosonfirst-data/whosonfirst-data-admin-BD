@@ -1,0 +1,73 @@
+{
+  "id": 1343791921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.27573,25.89026,89.27573,25.89026",
+    "geom:latitude":25.89026,
+    "geom:longitude":89.27573,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5585",
+    "gn:admin3_code":"558527.0",
+    "gn:admin4_code":"55852773.0",
+    "gn:asciiname":"Sankarda",
+    "gn:country_code":"BD",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8016439,
+    "gn:latitude":25.89026,
+    "gn:longitude":89.27573,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Sankarda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Sankarda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8016439
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"509501c9d38d2bdee9c66d6698d45d8f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694701,
+            "locality_id":1343791921,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1343791921,
+    "wof:lastmodified":1537586830,
+    "wof:name":"Sankarda",
+    "wof:parent_id":1108694701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.27573000000002,
+    25.89026,
+    89.27573000000002,
+    25.89026
+],
+  "geometry": {"coordinates":[89.27573000000002,25.89026],"type":"Point"}
+}

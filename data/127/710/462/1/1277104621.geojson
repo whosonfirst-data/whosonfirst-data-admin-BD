@@ -1,0 +1,73 @@
+{
+  "id": 1277104621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.01059,25.18329,90.01059,25.18329",
+    "geom:latitude":25.18329,
+    "geom:longitude":90.01059,
+    "gn:admin1_code":"H",
+    "gn:admin2_code":"3089",
+    "gn:admin3_code":"308937.0",
+    "gn:admin4_code":"30893743.0",
+    "gn:asciiname":"Bogirbhita",
+    "gn:country_code":"BD",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7922813,
+    "gn:latitude":25.18329,
+    "gn:longitude":90.01059,
+    "gn:modification_date":"2016-11-17",
+    "gn:name":"Bogirbhita",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Bogirbhita"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        1108803101,
+        421190979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7922813
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"4279ce5cae0fb4d384fed67e32f879a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421190979,
+            "locality_id":1277104621,
+            "region_id":1108803101
+        }
+    ],
+    "wof:id":1277104621,
+    "wof:lastmodified":1537586790,
+    "wof:name":"Bogirbhita",
+    "wof:parent_id":421190979,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.01059000000002,
+    25.18329,
+    90.01059000000002,
+    25.18329
+],
+  "geometry": {"coordinates":[90.01059000000002,25.18329],"type":"Point"}
+}

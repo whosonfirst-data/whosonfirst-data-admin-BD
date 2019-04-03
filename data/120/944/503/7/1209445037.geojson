@@ -1,0 +1,67 @@
+{
+  "id": 1209445037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.0939,25.44715,89.0939,25.44715",
+    "geom:latitude":25.44715,
+    "geom:longitude":89.0939,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5527",
+    "gn:admin3_code":"552769.0",
+    "gn:admin4_code":"55276917.0",
+    "gn:asciiname":"Binodnagar",
+    "gn:country_code":"BD",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8064647,
+    "gn:latitude":25.44715,
+    "gn:longitude":89.0939,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Binodnagar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Binodnagar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8064647
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"65e2b5a2df50abc473a8088dfe9f295a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209445037
+        }
+    ],
+    "wof:id":1209445037,
+    "wof:lastmodified":1537586843,
+    "wof:name":"Binodnagar",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.0939,
+    25.44715,
+    89.0939,
+    25.44715
+],
+  "geometry": {"coordinates":[89.0939,25.44715],"type":"Point"}
+}

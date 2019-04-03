@@ -1,0 +1,73 @@
+{
+  "id": 1293326111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.79001,26.11562,88.79001,26.11562",
+    "geom:latitude":26.11562,
+    "geom:longitude":88.79001,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5573.0",
+    "gn:admin3_code":"557315.0",
+    "gn:admin4_code":"55731538.0",
+    "gn:asciiname":"Bara Rauta",
+    "gn:country_code":"BD",
+    "gn:dem":59,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1210258,
+    "gn:latitude":26.11562,
+    "gn:longitude":88.79001,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Bara Rauta",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Bara Rauta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1210258
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"56da6c23f33448fea0c51330078ea969",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694695,
+            "locality_id":1293326111,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1293326111,
+    "wof:lastmodified":1537586159,
+    "wof:name":"Bara Rauta",
+    "wof:parent_id":1108694695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.79001,
+    26.11562,
+    88.79001,
+    26.11562
+],
+  "geometry": {"coordinates":[88.79001,26.11562],"type":"Point"}
+}

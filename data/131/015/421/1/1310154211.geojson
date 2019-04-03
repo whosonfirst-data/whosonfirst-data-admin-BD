@@ -1,0 +1,70 @@
+{
+  "id": 1310154211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.78167,23.2467,91.78167,23.2467",
+    "geom:latitude":23.2467,
+    "geom:longitude":91.78167,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2046.0",
+    "gn:admin3_code":"204670.0",
+    "gn:admin4_code":"20467076.0",
+    "gn:asciiname":"Diwanbari",
+    "gn:country_code":"BD",
+    "gn:dem":52,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1203957,
+    "gn:latitude":23.2467,
+    "gn:longitude":91.78167,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"D\u012bw\u0101nb\u0101ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        1108694683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1203957
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"ab93085ca621f1fc482e63759679c8d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694683,
+            "locality_id":1310154211,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1310154211,
+    "wof:lastmodified":1536927122,
+    "wof:name":"Diwanbari",
+    "wof:parent_id":1108694683,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.78167,
+    23.2467,
+    91.78167,
+    23.2467
+],
+  "geometry": {"coordinates":[91.78167000000001,23.2467],"type":"Point"}
+}

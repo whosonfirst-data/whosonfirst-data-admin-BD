@@ -1,0 +1,73 @@
+{
+  "id": 1243297321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.07511,25.40981,89.07511,25.40981",
+    "geom:latitude":25.40981,
+    "geom:longitude":89.07511,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5527",
+    "gn:admin3_code":"552769.0",
+    "gn:admin4_code":"55276943.0",
+    "gn:asciiname":"Uttar Syampur",
+    "gn:country_code":"BD",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8064814,
+    "gn:latitude":25.40981,
+    "gn:longitude":89.07511,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Uttar Syampur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Uttar Syampur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8064814
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"849351cdbd671a5dd331db2751100297",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694671,
+            "locality_id":1243297321,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1243297321,
+    "wof:lastmodified":1537586849,
+    "wof:name":"Uttar Syampur",
+    "wof:parent_id":1108694671,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.07511,
+    25.40981,
+    89.07511,
+    25.40981
+],
+  "geometry": {"coordinates":[89.07511,25.40981],"type":"Point"}
+}

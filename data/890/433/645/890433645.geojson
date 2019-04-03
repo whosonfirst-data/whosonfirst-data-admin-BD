@@ -1,0 +1,76 @@
+{
+  "id": 890433645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.09061,23.11134,89.09061,23.11134",
+    "geom:latitude":23.11134,
+    "geom:longitude":89.09061,
+    "gn:country":"BD",
+    "gn:fcode":"PPL",
+    "gn:pop":41957,
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Jhikarg\u0101chha"
+    ],
+    "name:ben_x_variant":[
+        "Jhikergacha",
+        "Jhingerg\u0101cha"
+    ],
+    "name:unk_x_variant":[
+        "Jhikargacha"
+    ],
+    "qs:name":"Jhingerg\u0101cha",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"7",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        421176039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1185204,
+        "gp:id":1915095,
+        "qs:id":130904
+    },
+    "wof:country":"BD",
+    "wof:created":1469051988,
+    "wof:geomhash":"33b30315cd006b70420cdf328c7051a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421176039,
+            "locality_id":890433645,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":890433645,
+    "wof:lastmodified":1505343536,
+    "wof:name":"Jhingerg\u0101cha",
+    "wof:parent_id":421176039,
+    "wof:placetype":"locality",
+    "wof:population":41957,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.09061,
+    23.11134,
+    89.09061,
+    23.11134
+],
+  "geometry": {"coordinates":[89.09061,23.11134],"type":"Point"}
+}

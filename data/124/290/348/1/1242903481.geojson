@@ -1,0 +1,73 @@
+{
+  "id": 1242903481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.63985,25.51677,89.63985,25.51677",
+    "geom:latitude":25.51677,
+    "geom:longitude":89.63985,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5532.0",
+    "gn:admin3_code":"553291.0",
+    "gn:admin4_code":"55329118.0",
+    "gn:asciiname":"Haripur",
+    "gn:country_code":"BD",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1201398,
+    "gn:latitude":25.51677,
+    "gn:longitude":89.63985,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Har\u012bpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Har\u012bpur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1201398
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"fa35232973192ce07c97f686e26cda1a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694675,
+            "locality_id":1242903481,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1242903481,
+    "wof:lastmodified":1537585999,
+    "wof:name":"Haripur",
+    "wof:parent_id":1108694675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.63985,
+    25.51677,
+    89.63985,
+    25.51677
+],
+  "geometry": {"coordinates":[89.63985,25.51677],"type":"Point"}
+}

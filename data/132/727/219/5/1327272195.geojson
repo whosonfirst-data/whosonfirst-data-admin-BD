@@ -1,0 +1,73 @@
+{
+  "id": 1327272195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.86261,21.88295,91.86261,21.88295",
+    "geom:latitude":21.88295,
+    "geom:longitude":91.86261,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2022.0",
+    "gn:admin3_code":"202245.0",
+    "gn:admin4_code":"20224581.0",
+    "gn:asciiname":"Kuliaripara",
+    "gn:country_code":"BD",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6415834,
+    "gn:latitude":21.88295,
+    "gn:longitude":91.86261,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Kuli\u0101rip\u0101ra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Kuli\u0101rip\u0101ra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421205057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6415834
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"99db7298b03f739a28ddb31acd0b4d0b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421205057,
+            "locality_id":1327272195,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1327272195,
+    "wof:lastmodified":1537586252,
+    "wof:name":"Kuliaripara",
+    "wof:parent_id":421205057,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.86261,
+    21.88295,
+    91.86261,
+    21.88295
+],
+  "geometry": {"coordinates":[91.86261,21.88295],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1259713649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.57373,25.07555,89.57373,25.07555",
+    "geom:latitude":25.07555,
+    "geom:longitude":89.57373,
+    "gn:admin1_code":"83",
+    "gn:asciiname":"Arazi Badinapara",
+    "gn:country_code":"BD",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7905661,
+    "gn:latitude":25.07555,
+    "gn:longitude":89.57373,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Arazi B\u0101d\u012bn\u0101p\u0101ra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Arazi B\u0101d\u012bn\u0101p\u0101ra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7905661
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"d37cdd9267e4f2a30c3b5b84abd7805e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694675,
+            "locality_id":1259713649,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1259713649,
+    "wof:lastmodified":1537586778,
+    "wof:name":"Arazi Badinapara",
+    "wof:parent_id":1108694675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.57373,
+    25.07555,
+    89.57373,
+    25.07555
+],
+  "geometry": {"coordinates":[89.57373,25.07555],"type":"Point"}
+}

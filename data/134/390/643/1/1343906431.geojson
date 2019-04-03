@@ -1,0 +1,74 @@
+{
+  "id": 1343906431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.9517,23.28339,90.9517,23.28339",
+    "geom:latitude":23.28339,
+    "geom:longitude":90.9517,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2013.0",
+    "gn:admin3_code":"201358.0",
+    "gn:admin4_code":"20135831.0",
+    "gn:asciiname":"Amujan",
+    "gn:country_code":"BD",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1212764,
+    "gn:latitude":23.28339,
+    "gn:longitude":90.9517,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"\u0100muj\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0100muj\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        1108694669
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1212764,
+        "wk:page":"Amujan"
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"8dd2aa3c9054a03c2ea73c68b52e8253",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694669,
+            "locality_id":1343906431,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1343906431,
+    "wof:lastmodified":1537586202,
+    "wof:name":"Amujan",
+    "wof:parent_id":1108694669,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.9517,
+    23.28339,
+    90.9517,
+    23.28339
+],
+  "geometry": {"coordinates":[90.9517,23.28339],"type":"Point"}
+}

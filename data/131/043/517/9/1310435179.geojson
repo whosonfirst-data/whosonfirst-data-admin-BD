@@ -1,0 +1,74 @@
+{
+  "id": 1310435179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.09322,23.18677,90.09322,23.18677",
+    "geom:latitude":23.18677,
+    "geom:longitude":90.09322,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3054",
+    "gn:admin3_code":"305480.0",
+    "gn:admin4_code":"30548028.0",
+    "gn:asciiname":"Nayakandi",
+    "gn:country_code":"BD",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1193016,
+    "gn:latitude":23.18677,
+    "gn:longitude":90.09322,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"N\u0101y\u0101k\u0101ndi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nalkandi",
+        "N\u0101y\u0101k\u0101ndi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421183929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1193016
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"a85ca8cedd892986344103468b6ffa21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421183929,
+            "locality_id":1310435179,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1310435179,
+    "wof:lastmodified":1537585845,
+    "wof:name":"Nayakandi",
+    "wof:parent_id":421183929,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.09322,
+    23.18677000000001,
+    90.09322,
+    23.18677000000001
+],
+  "geometry": {"coordinates":[90.09322,23.18677000000001],"type":"Point"}
+}

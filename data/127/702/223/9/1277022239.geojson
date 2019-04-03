@@ -1,0 +1,70 @@
+{
+  "id": 1277022239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.78311,23.08636,90.78311,23.08636",
+    "geom:latitude":23.08636,
+    "geom:longitude":90.78311,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2013",
+    "gn:admin3_code":"201345.0",
+    "gn:admin4_code":"20134583.0",
+    "gn:asciiname":"Mandarkhil",
+    "gn:country_code":"BD",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1195023,
+    "gn:latitude":23.08636,
+    "gn:longitude":90.78311,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"M\u0101nd\u0101rkhil",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        1108694669
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1195023
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"3c7bf4b5e72f8c52ebeb4fbb1dc91e60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694669,
+            "locality_id":1277022239,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1277022239,
+    "wof:lastmodified":1536849177,
+    "wof:name":"Mandarkhil",
+    "wof:parent_id":1108694669,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.78311,
+    23.08636,
+    90.78311,
+    23.08636
+],
+  "geometry": {"coordinates":[90.78310999999999,23.08636],"type":"Point"}
+}

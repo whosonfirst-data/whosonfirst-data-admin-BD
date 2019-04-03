@@ -1,0 +1,70 @@
+{
+  "id": 1293420037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.0018,24.27571,90.0018,24.27571",
+    "geom:latitude":24.27571,
+    "geom:longitude":90.0018,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3093",
+    "gn:admin3_code":"309309.0",
+    "gn:admin4_code":"30930935.0",
+    "gn:asciiname":"Nedhar",
+    "gn:country_code":"BD",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1192934,
+    "gn:latitude":24.27571,
+    "gn:longitude":90.0018,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Nedh\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421185471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1192934
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"4b9318daa5d32be9700c19bfc2b088ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421185471,
+            "locality_id":1293420037,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1293420037,
+    "wof:lastmodified":1536883836,
+    "wof:name":"Nedhar",
+    "wof:parent_id":421185471,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.0018,
+    24.27571,
+    90.0018,
+    24.27571
+],
+  "geometry": {"coordinates":[90.0018,24.27571],"type":"Point"}
+}

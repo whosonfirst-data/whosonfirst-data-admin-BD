@@ -1,0 +1,70 @@
+{
+  "id": 1276692619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.67622,22.61116,89.67622,22.61116",
+    "geom:latitude":22.61116,
+    "geom:longitude":89.67622,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4001",
+    "gn:admin3_code":"400173.0",
+    "gn:admin4_code":"40017305.0",
+    "gn:asciiname":"Kumlai",
+    "gn:country_code":"BD",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1196662,
+    "gn:latitude":22.61116,
+    "gn:longitude":89.67622,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Kuml\u0101i",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        421187747
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1196662
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"a659e427dbed7a01d76ccc43d42b624f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421187747,
+            "locality_id":1276692619,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1276692619,
+    "wof:lastmodified":1536794550,
+    "wof:name":"Kumlai",
+    "wof:parent_id":421187747,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.67622,
+    22.61116,
+    89.67622,
+    22.61116
+],
+  "geometry": {"coordinates":[89.67622,22.61116],"type":"Point"}
+}

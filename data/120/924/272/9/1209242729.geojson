@@ -1,0 +1,70 @@
+{
+  "id": 1209242729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.90444,25.09293,89.90444,25.09293",
+    "geom:latitude":25.09293,
+    "geom:longitude":89.90444,
+    "gn:admin1_code":"H",
+    "gn:admin2_code":"3039",
+    "gn:admin3_code":"303929.0",
+    "gn:admin4_code":"30392939.0",
+    "gn:asciiname":"Phulkar Char",
+    "gn:country_code":"BD",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7922007,
+    "gn:latitude":25.09293,
+    "gn:longitude":89.90444,
+    "gn:modification_date":"2016-11-17",
+    "gn:name":"Phulkar Char",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Phulkar Char"
+    ],
+    "name:und_x_variant":[
+        "Gapalnagar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7922007
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"561cadc0fff3e92c2d47e1800347bd1c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209242729
+        }
+    ],
+    "wof:id":1209242729,
+    "wof:lastmodified":1537586784,
+    "wof:name":"Phulkar Char",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.90444000000002,
+    25.09293,
+    89.90444000000002,
+    25.09293
+],
+  "geometry": {"coordinates":[89.90444000000002,25.09293],"type":"Point"}
+}

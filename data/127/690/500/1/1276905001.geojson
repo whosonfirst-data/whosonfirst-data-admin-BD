@@ -1,0 +1,70 @@
+{
+  "id": 1276905001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.31629,23.47303,90.31629,23.47303",
+    "geom:latitude":23.47303,
+    "geom:longitude":90.31629,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3059",
+    "gn:admin3_code":"305944.0",
+    "gn:admin4_code":"30594455.0",
+    "gn:asciiname":"Kanaksar",
+    "gn:country_code":"BD",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1198737,
+    "gn:latitude":23.47303,
+    "gn:longitude":90.31629,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Kanaks\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421205059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1198737
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"8bee7358041f60d5a41eb59f3549fc8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421205059,
+            "locality_id":1276905001,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1276905001,
+    "wof:lastmodified":1537006973,
+    "wof:name":"Kanaksar",
+    "wof:parent_id":421205059,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.31629,
+    23.47303,
+    90.31629,
+    23.47303
+],
+  "geometry": {"coordinates":[90.31629,23.47303],"type":"Point"}
+}

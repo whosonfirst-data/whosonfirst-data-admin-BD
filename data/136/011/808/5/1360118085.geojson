@@ -1,0 +1,70 @@
+{
+  "id": 1360118085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.75423,22.24818,90.75423,22.24818",
+    "geom:latitude":22.24818,
+    "geom:longitude":90.75423,
+    "gn:admin1_code":"82",
+    "gn:asciiname":"Aligaon",
+    "gn:country_code":"BD",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7477928,
+    "gn:latitude":22.24818,
+    "gn:longitude":90.75423,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"Aligaon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Aligaon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669019,
+        421184491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7477928
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"6bc47b8d6b232490a6845a08bff52675",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421184491,
+            "locality_id":1360118085,
+            "region_id":85669019
+        }
+    ],
+    "wof:id":1360118085,
+    "wof:lastmodified":1537586379,
+    "wof:name":"Aligaon",
+    "wof:parent_id":421184491,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.75423,
+    22.24818,
+    90.75423,
+    22.24818
+],
+  "geometry": {"coordinates":[90.75423000000001,22.24818],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1310242341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.96807,22.60357,88.96807,22.60357",
+    "geom:latitude":22.60357,
+    "geom:longitude":88.96807,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4087.0",
+    "gn:admin3_code":"408725.0",
+    "gn:admin4_code":"40872515.0",
+    "gn:asciiname":"Kuraldanga",
+    "gn:country_code":"BD",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7485577,
+    "gn:latitude":22.60357,
+    "gn:longitude":88.96807,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Kurald\u0101nga",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Kurald\u0101nga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        421201927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7485577
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"4ebced89c384a1ceaeaefd7dbcda16fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421201927,
+            "locality_id":1310242341,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1310242341,
+    "wof:lastmodified":1537586594,
+    "wof:name":"Kuraldanga",
+    "wof:parent_id":421201927,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.96807,
+    22.60357,
+    88.96807,
+    22.60357
+],
+  "geometry": {"coordinates":[88.96807,22.60357],"type":"Point"}
+}

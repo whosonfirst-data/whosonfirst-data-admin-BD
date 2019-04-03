@@ -1,0 +1,66 @@
+{
+  "id": 1242911593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.83819,21.73714,91.83819,21.73714",
+    "geom:latitude":21.73714,
+    "geom:longitude":91.83819,
+    "gn:admin1_code":"84",
+    "gn:asciiname":"Botarkata",
+    "gn:country_code":"BD",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6416463,
+    "gn:latitude":21.73714,
+    "gn:longitude":91.83819,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"Botarkata",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Botarkata"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6416463
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"5c293cc2dce3532343682f9524ca8586",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":-1,
+            "locality_id":1242911593,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1242911593,
+    "wof:lastmodified":1537586264,
+    "wof:name":"Botarkata",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.83819,
+    21.73714,
+    91.83819,
+    21.73714
+],
+  "geometry": {"coordinates":[91.83819,21.73714],"type":"Point"}
+}

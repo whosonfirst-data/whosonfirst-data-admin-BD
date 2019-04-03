@@ -1,0 +1,70 @@
+{
+  "id": 1326472737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.03333,23.0,91.03333,23.0",
+    "geom:latitude":23.0,
+    "geom:longitude":91.03333,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2075.0",
+    "gn:admin3_code":"207508.0",
+    "gn:admin4_code":"20750814.0",
+    "gn:asciiname":"Bachairgaon",
+    "gn:country_code":"BD",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1212175,
+    "gn:latitude":23.0,
+    "gn:longitude":91.03333,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"B\u0101chairgaon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421177051
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1212175
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"691284938bf3f9bbc87410e6c1f03daa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421177051,
+            "locality_id":1326472737,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1326472737,
+    "wof:lastmodified":1537066864,
+    "wof:name":"Bachairgaon",
+    "wof:parent_id":421177051,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.03333,
+    23.0,
+    91.03333,
+    23.0
+],
+  "geometry": {"coordinates":[91.03333000000001,23.0],"type":"Point"}
+}

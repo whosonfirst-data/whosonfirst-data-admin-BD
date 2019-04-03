@@ -1,0 +1,73 @@
+{
+  "id": 1293916861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.7562,25.44642,89.7562,25.44642",
+    "geom:latitude":25.44642,
+    "geom:longitude":89.7562,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5549",
+    "gn:admin3_code":"554908.0",
+    "gn:admin4_code":"55490876.0",
+    "gn:asciiname":"Baliamari",
+    "gn:country_code":"BD",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7925138,
+    "gn:latitude":25.44642,
+    "gn:longitude":89.7562,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Baliamari",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Baliamari"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7925138
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"8d58c297ad989c10dcff67088d0326cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694685,
+            "locality_id":1293916861,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1293916861,
+    "wof:lastmodified":1537586818,
+    "wof:name":"Baliamari",
+    "wof:parent_id":1108694685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.7562,
+    25.44642,
+    89.7562,
+    25.44642
+],
+  "geometry": {"coordinates":[89.75620000000001,25.44642],"type":"Point"}
+}

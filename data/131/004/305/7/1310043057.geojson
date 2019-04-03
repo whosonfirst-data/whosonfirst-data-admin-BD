@@ -1,0 +1,73 @@
+{
+  "id": 1310043057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.9996,25.6749,88.9996,25.6749",
+    "geom:latitude":25.6749,
+    "geom:longitude":88.9996,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5585",
+    "gn:admin3_code":"558503.0",
+    "gn:admin4_code":"55850388.0",
+    "gn:asciiname":"Dakshin Muksudpur",
+    "gn:country_code":"BD",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8042323,
+    "gn:latitude":25.6749,
+    "gn:longitude":88.9996,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Dakshin Muksudpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Dakshin Muksudpur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8042323
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"769589183a504d007cf0d680f54385c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694701,
+            "locality_id":1310043057,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1310043057,
+    "wof:lastmodified":1537586834,
+    "wof:name":"Dakshin Muksudpur",
+    "wof:parent_id":1108694701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.9996,
+    25.6749,
+    88.9996,
+    25.6749
+],
+  "geometry": {"coordinates":[88.9996,25.6749],"type":"Point"}
+}

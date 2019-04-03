@@ -1,0 +1,70 @@
+{
+  "id": 1243393549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.67149,22.52322,90.67149,22.52322",
+    "geom:latitude":22.52322,
+    "geom:longitude":90.67149,
+    "gn:admin1_code":"85",
+    "gn:admin2_code":"1009.0",
+    "gn:admin3_code":"100921.0",
+    "gn:admin4_code":"10092157.0",
+    "gn:asciiname":"Dharia",
+    "gn:country_code":"BD",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1204334,
+    "gn:latitude":22.52322,
+    "gn:longitude":90.67149,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Dh\u0101ria",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669019,
+        421184491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1204334
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"9abfde4be1510be6b61cb6656c1687fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421184491,
+            "locality_id":1243393549,
+            "region_id":85669019
+        }
+    ],
+    "wof:id":1243393549,
+    "wof:lastmodified":1536881296,
+    "wof:name":"Dharia",
+    "wof:parent_id":421184491,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.67149,
+    22.52322,
+    90.67149,
+    22.52322
+],
+  "geometry": {"coordinates":[90.67149000000001,22.52322],"type":"Point"}
+}

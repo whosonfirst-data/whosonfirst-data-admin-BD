@@ -1,0 +1,70 @@
+{
+  "id": 1310154199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.98218,23.03385,90.98218,23.03385",
+    "geom:latitude":23.03385,
+    "geom:longitude":90.98218,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2075",
+    "gn:admin3_code":"207510.0",
+    "gn:admin4_code":"20751047.0",
+    "gn:asciiname":"Singbahura",
+    "gn:country_code":"BD",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1187795,
+    "gn:latitude":23.03385,
+    "gn:longitude":90.98218,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Singb\u0101hura",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421177051
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1187795
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"89867fe81d86881a8889b76530aeff20",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421177051,
+            "locality_id":1310154199,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1310154199,
+    "wof:lastmodified":1536927137,
+    "wof:name":"Singbahura",
+    "wof:parent_id":421177051,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.98218,
+    23.03385,
+    90.98218,
+    23.03385
+],
+  "geometry": {"coordinates":[90.98218,23.03385],"type":"Point"}
+}

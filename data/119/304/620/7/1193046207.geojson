@@ -1,0 +1,70 @@
+{
+  "id": 1193046207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.11359,25.11845,90.11359,25.11845",
+    "geom:latitude":25.11845,
+    "geom:longitude":90.11359,
+    "gn:admin1_code":"H",
+    "gn:admin2_code":"3089",
+    "gn:admin3_code":"308970.0",
+    "gn:admin4_code":"30897077.0",
+    "gn:asciiname":"Khalle Bil",
+    "gn:country_code":"BD",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7914192,
+    "gn:latitude":25.11845,
+    "gn:longitude":90.11359,
+    "gn:modification_date":"2016-11-17",
+    "gn:name":"Khalle B\u012bl",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        1108803101,
+        421190979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7914192
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"e66d1114d033c05feb672ee0a940b9ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421190979,
+            "locality_id":1193046207,
+            "region_id":1108803101
+        }
+    ],
+    "wof:id":1193046207,
+    "wof:lastmodified":1536370703,
+    "wof:name":"Khalle Bil",
+    "wof:parent_id":421190979,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.11359,
+    25.11845,
+    90.11359,
+    25.11845
+],
+  "geometry": {"coordinates":[90.11359,25.11845],"type":"Point"}
+}

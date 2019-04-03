@@ -1,0 +1,76 @@
+{
+  "id": 1243212315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"92.05167,22.53323,92.05167,22.53323",
+    "geom:latitude":22.53323,
+    "geom:longitude":92.05167,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2015.0",
+    "gn:admin3_code":"201570.0",
+    "gn:admin4_code":"20157069.0",
+    "gn:asciiname":"Ghagra",
+    "gn:country_code":"BD",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1202686,
+    "gn:latitude":22.53323,
+    "gn:longitude":92.05167,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Gh\u0101gra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Gh\u0101gra"
+    ],
+    "name:und_x_variant":[
+        "Dakshin Ghagra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421201541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1202686
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"f23a71057b7dc6650ff45ebd1ddbd699",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421201541,
+            "locality_id":1243212315,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1243212315,
+    "wof:lastmodified":1537586021,
+    "wof:name":"Ghagra",
+    "wof:parent_id":421201541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    92.05167,
+    22.53323,
+    92.05167,
+    22.53323
+],
+  "geometry": {"coordinates":[92.05167,22.53323],"type":"Point"}
+}

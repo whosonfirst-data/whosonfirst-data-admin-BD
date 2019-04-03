@@ -1,0 +1,73 @@
+{
+  "id": 1243396825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.98025,23.14929,89.98025,23.14929",
+    "geom:latitude":23.14929,
+    "geom:longitude":89.98025,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3054.0",
+    "gn:admin3_code":"305480.0",
+    "gn:admin4_code":"30548066.0",
+    "gn:asciiname":"Dighirpar",
+    "gn:country_code":"BD",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7480739,
+    "gn:latitude":23.14929,
+    "gn:longitude":89.98025,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Dighirp\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Dighirp\u0101r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421183929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7480739
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"a9ea7314eefdbd05f9e54d2715b9c02f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421183929,
+            "locality_id":1243396825,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1243396825,
+    "wof:lastmodified":1537586458,
+    "wof:name":"Dighirpar",
+    "wof:parent_id":421183929,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.98025,
+    23.14929,
+    89.98025,
+    23.14929
+],
+  "geometry": {"coordinates":[89.98025,23.14929],"type":"Point"}
+}

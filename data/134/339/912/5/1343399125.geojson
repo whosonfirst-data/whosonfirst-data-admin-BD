@@ -1,0 +1,74 @@
+{
+  "id": 1343399125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"92.39918,22.54384,92.39918,22.54384",
+    "geom:latitude":22.54384,
+    "geom:longitude":92.39918,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2084",
+    "gn:admin3_code":"208447.0",
+    "gn:admin4_code":"20844776.0",
+    "gn:asciiname":"Maidong",
+    "gn:country_code":"BD",
+    "gn:dem":49,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1195446,
+    "gn:latitude":22.54384,
+    "gn:longitude":92.39918,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Maidong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Maidang",
+        "Maidong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421188983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1195446
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"159a75d8de9f64e6ca6ee853f473e145",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421188983,
+            "locality_id":1343399125,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1343399125,
+    "wof:lastmodified":1537585888,
+    "wof:name":"Maidong",
+    "wof:parent_id":421188983,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    92.39918,
+    22.54384,
+    92.39918,
+    22.54384
+],
+  "geometry": {"coordinates":[92.39918,22.54384],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1343498609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.00173,23.47814,89.00173,23.47814",
+    "geom:latitude":23.47814,
+    "geom:longitude":89.00173,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4044.0",
+    "gn:admin3_code":"404442.0",
+    "gn:admin4_code":"40444267.0",
+    "gn:asciiname":"Andulpota",
+    "gn:country_code":"BD",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7633945,
+    "gn:latitude":23.47814,
+    "gn:longitude":89.00173,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Andulpota",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Andulpota"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        1108694679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7633945
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"b5c08ae6034faf193b09f7b1756fb2be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694679,
+            "locality_id":1343498609,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1343498609,
+    "wof:lastmodified":1537586698,
+    "wof:name":"Andulpota",
+    "wof:parent_id":1108694679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.00173000000002,
+    23.47814,
+    89.00173000000002,
+    23.47814
+],
+  "geometry": {"coordinates":[89.00173000000002,23.47814],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1293233927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.71202,24.02122,90.71202,24.02122",
+    "geom:latitude":24.02122,
+    "geom:longitude":90.71202,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3068",
+    "gn:admin3_code":"306876.0",
+    "gn:admin4_code":"30687694.0",
+    "gn:asciiname":"Petipalashi",
+    "gn:country_code":"BD",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1191225,
+    "gn:latitude":24.02122,
+    "gn:longitude":90.71202,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Petipal\u0101shi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Petipal\u0101si",
+        "Petipal\u0101shi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421169707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1191225
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"1f09b3673db19ffa3696571de2abcedc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421169707,
+            "locality_id":1293233927,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1293233927,
+    "wof:lastmodified":1537585811,
+    "wof:name":"Petipalashi",
+    "wof:parent_id":421169707,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.71202,
+    24.02122,
+    90.71202,
+    24.02122
+],
+  "geometry": {"coordinates":[90.71202,24.02122],"type":"Point"}
+}

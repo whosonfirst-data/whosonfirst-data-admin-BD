@@ -1,0 +1,76 @@
+{
+  "id": 1343389021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.43229,22.21285,90.43229,22.21285",
+    "geom:latitude":22.21285,
+    "geom:longitude":90.43229,
+    "gn:admin1_code":"82",
+    "gn:asciiname":"Hoglabunia",
+    "gn:country_code":"BD",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1201015,
+    "gn:latitude":22.21285,
+    "gn:longitude":90.43229,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Hogl\u0101bunia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Hogl\u0101bunia"
+    ],
+    "name:ben_x_variant":[
+        "Hogalbania"
+    ],
+    "name:und_x_variant":[
+        "Hogalbunia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669019,
+        421169845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1201015
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"d7b6090913f1b65c0fcb8da222c9340a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421169845,
+            "locality_id":1343389021,
+            "region_id":85669019
+        }
+    ],
+    "wof:id":1343389021,
+    "wof:lastmodified":1537585991,
+    "wof:name":"Hoglabunia",
+    "wof:parent_id":421169845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.43229,
+    22.21285,
+    90.43229,
+    22.21285
+],
+  "geometry": {"coordinates":[90.43228999999999,22.21285],"type":"Point"}
+}

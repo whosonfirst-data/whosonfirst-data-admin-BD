@@ -1,0 +1,73 @@
+{
+  "id": 1293631603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.75301,22.75043,91.75301,22.75043",
+    "geom:latitude":22.75043,
+    "geom:longitude":91.75301,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2015.0",
+    "gn:admin3_code":"201533.0",
+    "gn:admin4_code":"20153319.0",
+    "gn:asciiname":"Amtali",
+    "gn:country_code":"BD",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1212781,
+    "gn:latitude":22.75043,
+    "gn:longitude":91.75301,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"\u0100mtali",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "\u0100mtali"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421201541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1212781
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"a5be0b280e28a0092e182a3c28928259",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421201541,
+            "locality_id":1293631603,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1293631603,
+    "wof:lastmodified":1537586202,
+    "wof:name":"Amtali",
+    "wof:parent_id":421201541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.75301,
+    22.75043,
+    91.75301,
+    22.75043
+],
+  "geometry": {"coordinates":[91.75301,22.75043],"type":"Point"}
+}

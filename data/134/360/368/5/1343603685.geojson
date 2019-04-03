@@ -1,0 +1,73 @@
+{
+  "id": 1343603685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"92.16139,22.18981,92.16139,22.18981",
+    "geom:latitude":22.18981,
+    "geom:longitude":92.16139,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2003.0",
+    "gn:admin3_code":"200314.0",
+    "gn:admin4_code":"20031415.0",
+    "gn:asciiname":"Thowinegyapara",
+    "gn:country_code":"BD",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6416910,
+    "gn:latitude":22.18981,
+    "gn:longitude":92.16139,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Thowinegy\u0101p\u0101ra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Thowinegy\u0101p\u0101ra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421169477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6416910
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"0ea0a96140120f86f708411164838365",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421169477,
+            "locality_id":1343603685,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1343603685,
+    "wof:lastmodified":1537586271,
+    "wof:name":"Thowinegyapara",
+    "wof:parent_id":421169477,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    92.16139,
+    22.18981,
+    92.16139,
+    22.18981
+],
+  "geometry": {"coordinates":[92.16139,22.18981],"type":"Point"}
+}

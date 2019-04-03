@@ -1,0 +1,73 @@
+{
+  "id": 1310531593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.19842,23.44119,89.19842,23.44119",
+    "geom:latitude":23.44119,
+    "geom:longitude":89.19842,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4044.0",
+    "gn:admin3_code":"404419.0",
+    "gn:admin4_code":"40441963.0",
+    "gn:asciiname":"Bhitsar",
+    "gn:country_code":"BD",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7634261,
+    "gn:latitude":23.44119,
+    "gn:longitude":89.19842,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Bhitsar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Bhitsar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        1108694679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7634261
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"1e83d89c27d6a29b14eda48c13540a48",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694679,
+            "locality_id":1310531593,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1310531593,
+    "wof:lastmodified":1537586707,
+    "wof:name":"Bhitsar",
+    "wof:parent_id":1108694679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.19842,
+    23.44119,
+    89.19842,
+    23.44119
+],
+  "geometry": {"coordinates":[89.19842,23.44119],"type":"Point"}
+}

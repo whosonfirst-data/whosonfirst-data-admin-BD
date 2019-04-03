@@ -1,0 +1,70 @@
+{
+  "id": 1276472519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.64831,24.41824,90.64831,24.41824",
+    "geom:latitude":24.41824,
+    "geom:longitude":90.64831,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3048.0",
+    "gn:admin3_code":"304827.0",
+    "gn:admin4_code":"30482781.0",
+    "gn:asciiname":"Char Biswanathpur",
+    "gn:country_code":"BD",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1207023,
+    "gn:latitude":24.41824,
+    "gn:longitude":90.64831,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Char Biswan\u0101thpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421170483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1207023
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"d4cce843328f8ff24086747fac9be257",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421170483,
+            "locality_id":1276472519,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1276472519,
+    "wof:lastmodified":1537086438,
+    "wof:name":"Char Biswanathpur",
+    "wof:parent_id":421170483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.64831,
+    24.41824,
+    90.64831,
+    24.41824
+],
+  "geometry": {"coordinates":[90.64831,24.41824],"type":"Point"}
+}

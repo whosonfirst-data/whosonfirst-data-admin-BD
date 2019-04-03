@@ -1,0 +1,73 @@
+{
+  "id": 1293517675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.57503,25.95545,88.57503,25.95545",
+    "geom:latitude":25.95545,
+    "geom:longitude":88.57503,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5527.0",
+    "gn:admin3_code":"552712.0",
+    "gn:admin4_code":"55271277.0",
+    "gn:asciiname":"Arazi Shialkheda",
+    "gn:country_code":"BD",
+    "gn:dem":52,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7105755,
+    "gn:latitude":25.95545,
+    "gn:longitude":88.57503,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"\u0100r\u0101zi Shi\u0101lkheda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "\u0100r\u0101zi Shi\u0101lkheda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7105755
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"8e2a8b955d15e48e92e9d483673017f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694671,
+            "locality_id":1293517675,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1293517675,
+    "wof:lastmodified":1537586311,
+    "wof:name":"Arazi Shialkheda",
+    "wof:parent_id":1108694671,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.57503,
+    25.95545,
+    88.57503,
+    25.95545
+],
+  "geometry": {"coordinates":[88.57503,25.95545],"type":"Point"}
+}

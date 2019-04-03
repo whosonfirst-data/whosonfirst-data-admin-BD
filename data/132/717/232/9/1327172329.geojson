@@ -1,0 +1,70 @@
+{
+  "id": 1327172329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.1,22.85,91.1,22.85",
+    "geom:latitude":22.85,
+    "geom:longitude":91.1,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2075.0",
+    "gn:admin3_code":"207587.0",
+    "gn:admin4_code":"20758700.0",
+    "gn:asciiname":"Harinarayanpur",
+    "gn:country_code":"BD",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1201462,
+    "gn:latitude":22.85,
+    "gn:longitude":91.1,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Harin\u0101r\u0101yanpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421177051
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1201462
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"bac115b319cca77bc6182a3e57e91b1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421177051,
+            "locality_id":1327172329,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1327172329,
+    "wof:lastmodified":1537053993,
+    "wof:name":"Harinarayanpur",
+    "wof:parent_id":421177051,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.1,
+    22.85,
+    91.1,
+    22.85
+],
+  "geometry": {"coordinates":[91.09999999999999,22.85],"type":"Point"}
+}

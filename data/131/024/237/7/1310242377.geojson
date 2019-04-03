@@ -1,0 +1,70 @@
+{
+  "id": 1310242377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.2179,24.99793,89.2179,24.99793",
+    "geom:latitude":24.99793,
+    "geom:longitude":89.2179,
+    "gn:admin1_code":"83",
+    "gn:admin2_code":"5010.0",
+    "gn:admin3_code":"501094.0",
+    "gn:admin4_code":"50109471.0",
+    "gn:asciiname":"Bhatra",
+    "gn:country_code":"BD",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1209009,
+    "gn:latitude":24.99793,
+    "gn:longitude":89.2179,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Bh\u0101tra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669031,
+        421187793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1209009
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"60b0520b6b86e12152d277833ef5084e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421187793,
+            "locality_id":1310242377,
+            "region_id":85669031
+        }
+    ],
+    "wof:id":1310242377,
+    "wof:lastmodified":1536798972,
+    "wof:name":"Bhatra",
+    "wof:parent_id":421187793,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.2179,
+    24.99793,
+    89.2179,
+    24.99793
+],
+  "geometry": {"coordinates":[89.2179,24.99793],"type":"Point"}
+}

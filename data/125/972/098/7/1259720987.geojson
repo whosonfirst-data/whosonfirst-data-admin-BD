@@ -1,0 +1,70 @@
+{
+  "id": 1259720987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.15751,23.97012,90.15751,23.97012",
+    "geom:latitude":23.97012,
+    "geom:longitude":90.15751,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3026.0",
+    "gn:admin3_code":"302614.0",
+    "gn:admin4_code":"30261459.0",
+    "gn:asciiname":"Bannakhola",
+    "gn:country_code":"BD",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1210905,
+    "gn:latitude":23.97012,
+    "gn:longitude":90.15751,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"B\u0101nnakhola",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421187803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1210905
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"ac19b291fa4f250d0012d79df1a9a682",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421187803,
+            "locality_id":1259720987,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1259720987,
+    "wof:lastmodified":1537012207,
+    "wof:name":"Bannakhola",
+    "wof:parent_id":421187803,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.15751,
+    23.97012,
+    90.15751,
+    23.97012
+],
+  "geometry": {"coordinates":[90.15751,23.97012],"type":"Point"}
+}

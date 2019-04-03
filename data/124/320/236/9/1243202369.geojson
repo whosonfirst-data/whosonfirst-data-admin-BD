@@ -1,0 +1,79 @@
+{
+  "id": 1243202369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.5148,25.98027,89.5148,25.98027",
+    "geom:latitude":25.98027,
+    "geom:longitude":89.5148,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5549",
+    "gn:admin3_code":"554918.0",
+    "gn:admin4_code":"55491867.0",
+    "gn:asciiname":"Naudanga",
+    "gn:country_code":"BD",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1193067,
+    "gn:latitude":25.98027,
+    "gn:longitude":89.5148,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"N\u0101ud\u0101nga",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "N\u0101ud\u0101nga"
+    ],
+    "name:ben_x_variant":[
+        "Naodanga"
+    ],
+    "name:und_x_variant":[
+        "Naodanga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1193067
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"a957c37c31be1ba3d9aaf8b3dd911304",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694685,
+            "locality_id":1243202369,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1243202369,
+    "wof:lastmodified":1537585845,
+    "wof:name":"Naudanga",
+    "wof:parent_id":1108694685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.5148,
+    25.98027,
+    89.5148,
+    25.98027
+],
+  "geometry": {"coordinates":[89.51479999999999,25.98027],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 890450135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.71275,22.22647,90.71275,22.22647",
+    "geom:latitude":22.22647,
+    "geom:longitude":90.71275,
+    "gn:country":"BD",
+    "gn:fcode":"PPL",
+    "gn:pop":48305,
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Uttar Char Fasson"
+    ],
+    "name:ben_x_variant":[
+        "Dakshin Char Fasson"
+    ],
+    "name:unk_x_variant":[
+        "South Char Fashion"
+    ],
+    "qs:name":"Uttar Char Fasson",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"7",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669019,
+        421184491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1205481,
+        "gp:id":1915008,
+        "qs:id":84371
+    },
+    "wof:country":"BD",
+    "wof:created":1469052727,
+    "wof:geomhash":"3035fe00b408cc8df147077c5e3dc5bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421184491,
+            "locality_id":890450135,
+            "region_id":85669019
+        }
+    ],
+    "wof:id":890450135,
+    "wof:lastmodified":1505343632,
+    "wof:name":"Uttar Char Fasson",
+    "wof:parent_id":421184491,
+    "wof:placetype":"locality",
+    "wof:population":48305,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.71275,
+    22.22647,
+    90.71275,
+    22.22647
+],
+  "geometry": {"coordinates":[90.71275,22.22647],"type":"Point"}
+}

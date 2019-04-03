@@ -1,0 +1,76 @@
+{
+  "id": 1327167401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.91918,24.86467,88.91918,24.86467",
+    "geom:latitude":24.86467,
+    "geom:longitude":88.91918,
+    "gn:admin1_code":"83",
+    "gn:admin2_code":"5064",
+    "gn:admin3_code":"506460.0",
+    "gn:admin4_code":"50646007.0",
+    "gn:asciiname":"Paharpur",
+    "gn:country_code":"BD",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1197140,
+    "gn:latitude":24.86467,
+    "gn:longitude":88.91918,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"P\u0101h\u0101rpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "P\u0101h\u0101rpur"
+    ],
+    "name:ben_x_variant":[
+        "Kismat P\u0101h\u0101rpur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669031,
+        421191663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1197140
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"209f0c56541d4b655de1d963d0603250",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421191663,
+            "locality_id":1327167401,
+            "region_id":85669031
+        }
+    ],
+    "wof:id":1327167401,
+    "wof:lastmodified":1537585918,
+    "wof:name":"Paharpur",
+    "wof:parent_id":421191663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.91918000000003,
+    24.86467,
+    88.91918000000003,
+    24.86467
+],
+  "geometry": {"coordinates":[88.91918000000003,24.86467],"type":"Point"}
+}

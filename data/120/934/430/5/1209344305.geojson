@@ -1,0 +1,67 @@
+{
+  "id": 1209344305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.28965,25.42921,89.28965,25.42921",
+    "geom:latitude":25.42921,
+    "geom:longitude":89.28965,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5585",
+    "gn:admin3_code":"558576.0",
+    "gn:admin4_code":"55857675.0",
+    "gn:asciiname":"Bara Nizampur",
+    "gn:country_code":"BD",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7891871,
+    "gn:latitude":25.42921,
+    "gn:longitude":89.28965,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Bara Nizampur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Bara Nizampur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7891871
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"265783da982fe702b6ccbb0862006010",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209344305
+        }
+    ],
+    "wof:id":1209344305,
+    "wof:lastmodified":1537586754,
+    "wof:name":"Bara Nizampur",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.28965,
+    25.42921,
+    89.28965,
+    25.42921
+],
+  "geometry": {"coordinates":[89.28964999999999,25.42921],"type":"Point"}
+}

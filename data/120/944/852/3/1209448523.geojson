@@ -1,0 +1,68 @@
+{
+  "id": 1209448523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.41443,22.59408,89.41443,22.59408",
+    "geom:latitude":22.59408,
+    "geom:longitude":89.41443,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4047",
+    "gn:admin3_code":"404764.0",
+    "gn:admin4_code":"40476427.0",
+    "gn:asciiname":"Nawai",
+    "gn:country_code":"BD",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1193053,
+    "gn:latitude":22.59408,
+    "gn:longitude":89.41443,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Naw\u0101i",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Noai",
+        "Naw\u0101i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1193053
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"3d5bb5a758b472b9d356d0808930f8f4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209448523
+        }
+    ],
+    "wof:id":1209448523,
+    "wof:lastmodified":1537585845,
+    "wof:name":"Nawai",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.41443000000002,
+    22.59408,
+    89.41443000000002,
+    22.59408
+],
+  "geometry": {"coordinates":[89.41443000000002,22.59408],"type":"Point"}
+}

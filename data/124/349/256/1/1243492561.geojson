@@ -1,0 +1,73 @@
+{
+  "id": 1243492561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"92.18415,22.30191,92.18415,22.30191",
+    "geom:latitude":22.30191,
+    "geom:longitude":92.18415,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2003.0",
+    "gn:admin3_code":"200314.0",
+    "gn:admin4_code":"20031447.0",
+    "gn:asciiname":"Dungmaripara",
+    "gn:country_code":"BD",
+    "gn:dem":54,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6416304,
+    "gn:latitude":22.30191,
+    "gn:longitude":92.18415,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Dungmarip\u0101ra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Dungmarip\u0101ra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421169477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6416304
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"93adc4626806f48cae2218b76c4eb65d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421169477,
+            "locality_id":1243492561,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1243492561,
+    "wof:lastmodified":1537586260,
+    "wof:name":"Dungmaripara",
+    "wof:parent_id":421169477,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    92.18415,
+    22.30191,
+    92.18415,
+    22.30191
+],
+  "geometry": {"coordinates":[92.18415,22.30191],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1210046865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.81222,25.86383,89.81222,25.86383",
+    "geom:latitude":25.86383,
+    "geom:longitude":89.81222,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5549",
+    "gn:admin3_code":"554961.0",
+    "gn:admin4_code":"55496163.0",
+    "gn:asciiname":"Damalgram",
+    "gn:country_code":"BD",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7923367,
+    "gn:latitude":25.86383,
+    "gn:longitude":89.81222,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"D\u0101m\u0101lgr\u0101m",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "D\u0101m\u0101lgr\u0101m"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7923367
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"c53a33384ec27531e68c80e2816aa919",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694685,
+            "locality_id":1210046865,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1210046865,
+    "wof:lastmodified":1537586796,
+    "wof:name":"Damalgram",
+    "wof:parent_id":1108694685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.81222,
+    25.86383,
+    89.81222,
+    25.86383
+],
+  "geometry": {"coordinates":[89.81222,25.86383],"type":"Point"}
+}

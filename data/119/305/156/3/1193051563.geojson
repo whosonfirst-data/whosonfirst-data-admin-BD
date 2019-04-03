@@ -1,0 +1,70 @@
+{
+  "id": 1193051563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.21462,22.87268,90.21462,22.87268",
+    "geom:latitude":22.87268,
+    "geom:longitude":90.21462,
+    "gn:admin1_code":"85",
+    "gn:admin2_code":"1006",
+    "gn:admin3_code":"100694.0",
+    "gn:admin4_code":"10069421.0",
+    "gn:asciiname":"Kazira",
+    "gn:country_code":"BD",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1197999,
+    "gn:latitude":22.87268,
+    "gn:longitude":90.21462,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"K\u0101zira",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669019,
+        421187745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1197999
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"3c097374ad52b28ec4c0457476deeaea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421187745,
+            "locality_id":1193051563,
+            "region_id":85669019
+        }
+    ],
+    "wof:id":1193051563,
+    "wof:lastmodified":1536365733,
+    "wof:name":"Kazira",
+    "wof:parent_id":421187745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.21462,
+    22.87268,
+    90.21462,
+    22.87268
+],
+  "geometry": {"coordinates":[90.21462,22.87268],"type":"Point"}
+}

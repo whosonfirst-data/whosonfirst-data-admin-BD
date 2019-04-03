@@ -1,0 +1,70 @@
+{
+  "id": 1310353783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.47194,22.95,91.47194,22.95",
+    "geom:latitude":22.95,
+    "geom:longitude":91.47194,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2030.0",
+    "gn:admin3_code":"203029.0",
+    "gn:admin4_code":"20302930.0",
+    "gn:asciiname":"Farhadnagur",
+    "gn:country_code":"BD",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1462690,
+    "gn:latitude":22.95,
+    "gn:longitude":91.47194,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Farh\u0101dnagur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421181771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1462690
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"7bb9dbb3fb0989090f596f1dfba4c5f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421181771,
+            "locality_id":1310353783,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1310353783,
+    "wof:lastmodified":1536637351,
+    "wof:name":"Farhadnagur",
+    "wof:parent_id":421181771,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.47194,
+    22.95,
+    91.47194,
+    22.95
+],
+  "geometry": {"coordinates":[91.47194,22.95],"type":"Point"}
+}

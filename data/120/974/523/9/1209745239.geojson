@@ -1,0 +1,73 @@
+{
+  "id": 1209745239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.11243,25.67355,89.11243,25.67355",
+    "geom:latitude":25.67355,
+    "geom:longitude":89.11243,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5585",
+    "gn:admin3_code":"558503.0",
+    "gn:admin4_code":"55850363.0",
+    "gn:asciiname":"Dakshin Baochandi",
+    "gn:country_code":"BD",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8064407,
+    "gn:latitude":25.67355,
+    "gn:longitude":89.11243,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Dakshin Baochandi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Dakshin Baochandi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8064407
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"95ef42f9b741186e05371fdb0bb79c21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694701,
+            "locality_id":1209745239,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1209745239,
+    "wof:lastmodified":1537586836,
+    "wof:name":"Dakshin Baochandi",
+    "wof:parent_id":1108694701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.11243,
+    25.67355,
+    89.11243,
+    25.67355
+],
+  "geometry": {"coordinates":[89.11243,25.67355],"type":"Point"}
+}

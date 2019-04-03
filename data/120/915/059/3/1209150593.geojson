@@ -1,0 +1,67 @@
+{
+  "id": 1209150593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.9475,22.45543,91.9475,22.45543",
+    "geom:latitude":22.45543,
+    "geom:longitude":91.9475,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2015.0",
+    "gn:admin3_code":"201574.0",
+    "gn:admin4_code":"20157469.0",
+    "gn:asciiname":"Diwanpur",
+    "gn:country_code":"BD",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6414278,
+    "gn:latitude":22.45543,
+    "gn:longitude":91.9475,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Diw\u0101npur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Diw\u0101npur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6414278
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"a08681c2bcf9840634ff0f956bb49827",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209150593
+        }
+    ],
+    "wof:id":1209150593,
+    "wof:lastmodified":1537586223,
+    "wof:name":"Diwanpur",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.9475,
+    22.45543,
+    91.9475,
+    22.45543
+],
+  "geometry": {"coordinates":[91.94750000000001,22.45543],"type":"Point"}
+}

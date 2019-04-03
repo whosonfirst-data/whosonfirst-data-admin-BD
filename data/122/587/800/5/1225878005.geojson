@@ -1,0 +1,73 @@
+{
+  "id": 1225878005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.64486,25.80215,88.64486,25.80215",
+    "geom:latitude":25.80215,
+    "geom:longitude":88.64486,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5527.0",
+    "gn:admin3_code":"552756.0",
+    "gn:admin4_code":"55275631.0",
+    "gn:asciiname":"Mahadipur",
+    "gn:country_code":"BD",
+    "gn:dem":44,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7105921,
+    "gn:latitude":25.80215,
+    "gn:longitude":88.64486,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Mahadipur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Mahadipur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7105921
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"452bcda801313fd174aa6624028117bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694671,
+            "locality_id":1225878005,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1225878005,
+    "wof:lastmodified":1537586316,
+    "wof:name":"Mahadipur",
+    "wof:parent_id":1108694671,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.64486,
+    25.80215,
+    88.64486,
+    25.80215
+],
+  "geometry": {"coordinates":[88.64485999999999,25.80215],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1276912511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.07134,25.39568,89.07134,25.39568",
+    "geom:latitude":25.39568,
+    "geom:longitude":89.07134,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5527",
+    "gn:admin3_code":"552710.0",
+    "gn:admin4_code":"55271035.0",
+    "gn:asciiname":"Dudiagachhi",
+    "gn:country_code":"BD",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8064857,
+    "gn:latitude":25.39568,
+    "gn:longitude":89.07134,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Dudiagachhi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Dudiagachhi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8064857
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"844ca939f05b24c682af31de92d51235",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694671,
+            "locality_id":1276912511,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1276912511,
+    "wof:lastmodified":1537586851,
+    "wof:name":"Dudiagachhi",
+    "wof:parent_id":1108694671,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.07134,
+    25.39568,
+    89.07134,
+    25.39568
+],
+  "geometry": {"coordinates":[89.07134000000001,25.39568],"type":"Point"}
+}

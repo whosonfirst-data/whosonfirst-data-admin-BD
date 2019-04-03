@@ -1,0 +1,73 @@
+{
+  "id": 1193193957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.85585,21.88012,91.85585,21.88012",
+    "geom:latitude":21.88012,
+    "geom:longitude":91.85585,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2022.0",
+    "gn:admin3_code":"202245.0",
+    "gn:admin4_code":"20224540.0",
+    "gn:asciiname":"Dhurung",
+    "gn:country_code":"BD",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1204114,
+    "gn:latitude":21.88012,
+    "gn:longitude":91.85585,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Dhurung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Dhurung"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421205057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1204114
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"5751ddd02c5d8ffd733cb16f12bc8ad5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421205057,
+            "locality_id":1193193957,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1193193957,
+    "wof:lastmodified":1537586051,
+    "wof:name":"Dhurung",
+    "wof:parent_id":421205057,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.85585,
+    21.88012,
+    91.85585,
+    21.88012
+],
+  "geometry": {"coordinates":[91.85585,21.88012],"type":"Point"}
+}

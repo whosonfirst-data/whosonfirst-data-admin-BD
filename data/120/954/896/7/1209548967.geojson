@@ -1,0 +1,70 @@
+{
+  "id": 1209548967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.56342,24.49834,88.56342,24.49834",
+    "geom:latitude":24.49834,
+    "geom:longitude":88.56342,
+    "gn:admin1_code":"83",
+    "gn:admin2_code":"5081",
+    "gn:admin3_code":"508194.0",
+    "gn:admin4_code":"50819467.0",
+    "gn:asciiname":"Silpur",
+    "gn:country_code":"BD",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1187916,
+    "gn:latitude":24.49834,
+    "gn:longitude":88.56342,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Silpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Silpur"
+    ],
+    "name:ben_x_variant":[
+        "Silimpur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1187916
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"d55bfd0fb5f05c9ff5eea375d5beccd4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209548967
+        }
+    ],
+    "wof:id":1209548967,
+    "wof:lastmodified":1537585748,
+    "wof:name":"Silpur",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.56342,
+    24.49834,
+    88.56342,
+    24.49834
+],
+  "geometry": {"coordinates":[88.56341999999999,24.49834],"type":"Point"}
+}

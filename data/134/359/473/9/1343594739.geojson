@@ -1,0 +1,73 @@
+{
+  "id": 1343594739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.48304,25.69323,89.48304,25.69323",
+    "geom:latitude":25.69323,
+    "geom:longitude":89.48304,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5585.0",
+    "gn:admin3_code":"558573.0",
+    "gn:admin4_code":"55857319.0",
+    "gn:asciiname":"Dhapgachh",
+    "gn:country_code":"BD",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7887935,
+    "gn:latitude":25.69323,
+    "gn:longitude":89.48304,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Dh\u0101pg\u0101chh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Dh\u0101pg\u0101chh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7887935
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"dac744a54a980b4b4fc4ce148b25c4b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694701,
+            "locality_id":1343594739,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1343594739,
+    "wof:lastmodified":1537586717,
+    "wof:name":"Dhapgachh",
+    "wof:parent_id":1108694701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.48304,
+    25.69323,
+    89.48304,
+    25.69323
+],
+  "geometry": {"coordinates":[89.48304,25.69323],"type":"Point"}
+}

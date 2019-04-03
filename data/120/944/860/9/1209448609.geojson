@@ -1,0 +1,67 @@
+{
+  "id": 1209448609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.37322,24.88471,88.37322,24.88471",
+    "geom:latitude":24.88471,
+    "geom:longitude":88.37322,
+    "gn:admin1_code":"83",
+    "gn:admin2_code":"5070.0",
+    "gn:admin3_code":"507037.0",
+    "gn:admin4_code":"50703773.0",
+    "gn:asciiname":"Ramkandar",
+    "gn:country_code":"BD",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7489232,
+    "gn:latitude":24.88471,
+    "gn:longitude":88.37322,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"R\u0101mk\u0101ndar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "R\u0101mk\u0101ndar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7489232
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"0856714f3b11ead1d3c5cbe03da4f33c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209448609
+        }
+    ],
+    "wof:id":1209448609,
+    "wof:lastmodified":1537586691,
+    "wof:name":"Ramkandar",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.37321999999998,
+    24.88471,
+    88.37321999999998,
+    24.88471
+],
+  "geometry": {"coordinates":[88.37321999999998,24.88471],"type":"Point"}
+}

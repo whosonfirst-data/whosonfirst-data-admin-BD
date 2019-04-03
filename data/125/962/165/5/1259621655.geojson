@@ -1,0 +1,75 @@
+{
+  "id": 1259621655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"92.01454,23.01348,92.01454,23.01348",
+    "geom:latitude":23.01348,
+    "geom:longitude":92.01454,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2046",
+    "gn:admin3_code":"204665.0",
+    "gn:admin4_code":"20466547.0",
+    "gn:asciiname":"Maischari",
+    "gn:country_code":"BD",
+    "gn:dem":44,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1194744,
+    "gn:latitude":23.01348,
+    "gn:longitude":92.01454,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Maischari",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "M\u0101schhari",
+        "M\u0101schari",
+        "Maischari"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        1108694683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1194744
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"9f6932e86a7e5d739a9aef7e766b2205",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694683,
+            "locality_id":1259621655,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1259621655,
+    "wof:lastmodified":1537585874,
+    "wof:name":"Maischari",
+    "wof:parent_id":1108694683,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    92.01454,
+    23.01348,
+    92.01454,
+    23.01348
+],
+  "geometry": {"coordinates":[92.01454,23.01348],"type":"Point"}
+}

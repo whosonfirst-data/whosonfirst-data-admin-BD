@@ -1,0 +1,70 @@
+{
+  "id": 1260110109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.61554,22.83896,90.61554,22.83896",
+    "geom:latitude":22.83896,
+    "geom:longitude":90.61554,
+    "gn:admin1_code":"85",
+    "gn:admin2_code":"1006",
+    "gn:admin3_code":"100662.0",
+    "gn:admin4_code":"10066294.0",
+    "gn:asciiname":"Sultani Santoshpur",
+    "gn:country_code":"BD",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1186982,
+    "gn:latitude":22.83896,
+    "gn:longitude":90.61554,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Sult\u0101ni Santoshpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669019,
+        421187745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1186982
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"1f83e8be14c610cb6db526ff5a8f0f4e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421187745,
+            "locality_id":1260110109,
+            "region_id":85669019
+        }
+    ],
+    "wof:id":1260110109,
+    "wof:lastmodified":1536950123,
+    "wof:name":"Sultani Santoshpur",
+    "wof:parent_id":421187745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.61554,
+    22.83896,
+    90.61554,
+    22.83896
+],
+  "geometry": {"coordinates":[90.61554,22.83896],"type":"Point"}
+}

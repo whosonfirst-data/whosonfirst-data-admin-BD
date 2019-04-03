@@ -1,0 +1,70 @@
+{
+  "id": 1259820901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.183,23.542,89.183,23.542",
+    "geom:latitude":23.542,
+    "geom:longitude":89.183,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4044.0",
+    "gn:admin3_code":"404419.0",
+    "gn:admin4_code":"40441900.0",
+    "gn:asciiname":"Jhenaidah Sardar UZ",
+    "gn:country_code":"BD",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7701326,
+    "gn:latitude":23.542,
+    "gn:longitude":89.183,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Jhenaidah Sardar UZ",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        1108694679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7701326
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"35fcbeda781e5b1a2f3ec501db545cbf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694679,
+            "locality_id":1259820901,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1259820901,
+    "wof:lastmodified":1536868152,
+    "wof:name":"Jhenaidah Sardar UZ",
+    "wof:parent_id":1108694679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.18299999999998,
+    23.542,
+    89.18299999999998,
+    23.542
+],
+  "geometry": {"coordinates":[89.18299999999998,23.542],"type":"Point"}
+}

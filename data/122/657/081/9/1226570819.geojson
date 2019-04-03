@@ -1,0 +1,73 @@
+{
+  "id": 1226570819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.9185,25.835,88.9185,25.835",
+    "geom:latitude":25.835,
+    "geom:longitude":88.9185,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5573.0",
+    "gn:admin3_code":"557385.0",
+    "gn:admin4_code":"55738567.0",
+    "gn:asciiname":"Chaora",
+    "gn:country_code":"BD",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7489143,
+    "gn:latitude":25.835,
+    "gn:longitude":88.9185,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Chaora",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Chaora"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7489143
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"34c55a2dbf619be5da52d134ac27b847",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694695,
+            "locality_id":1226570819,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1226570819,
+    "wof:lastmodified":1537586689,
+    "wof:name":"Chaora",
+    "wof:parent_id":1108694695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.9185,
+    25.835,
+    88.9185,
+    25.835
+],
+  "geometry": {"coordinates":[88.91849999999999,25.835],"type":"Point"}
+}

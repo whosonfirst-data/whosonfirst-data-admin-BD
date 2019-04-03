@@ -1,0 +1,67 @@
+{
+  "id": 1209252165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.16642,23.73156,89.16642,23.73156",
+    "geom:latitude":23.73156,
+    "geom:longitude":89.16642,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4044.0",
+    "gn:admin3_code":"404480.0",
+    "gn:admin4_code":"40448056.0",
+    "gn:asciiname":"Shitaliadanga",
+    "gn:country_code":"BD",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7478983,
+    "gn:latitude":23.73156,
+    "gn:longitude":89.16642,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Shitaliad\u0101nga",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Shitaliad\u0101nga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7478983
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"5950067dae2d3261586e4557c77b6d36",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209252165
+        }
+    ],
+    "wof:id":1209252165,
+    "wof:lastmodified":1537586406,
+    "wof:name":"Shitaliadanga",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.16642,
+    23.73156,
+    89.16642,
+    23.73156
+],
+  "geometry": {"coordinates":[89.16642,23.73156],"type":"Point"}
+}

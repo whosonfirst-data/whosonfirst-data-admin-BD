@@ -1,0 +1,74 @@
+{
+  "id": 1326863305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.14783,25.13325,89.14783,25.13325",
+    "geom:latitude":25.13325,
+    "geom:longitude":89.14783,
+    "gn:admin1_code":"83",
+    "gn:admin2_code":"5038",
+    "gn:admin3_code":"503847.0",
+    "gn:admin4_code":"50384709.0",
+    "gn:asciiname":"Koytahar",
+    "gn:country_code":"BD",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1199397,
+    "gn:latitude":25.13325,
+    "gn:longitude":89.14783,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Koyt\u0101h\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Koyt\u0101h\u0101r",
+        "K\u0101itahar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669031,
+        1108694681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1199397
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"f06b03fa7a0e56a0b9ee0055372df393",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694681,
+            "locality_id":1326863305,
+            "region_id":85669031
+        }
+    ],
+    "wof:id":1326863305,
+    "wof:lastmodified":1537585959,
+    "wof:name":"Koytahar",
+    "wof:parent_id":1108694681,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.14783,
+    25.13325,
+    89.14783,
+    25.13325
+],
+  "geometry": {"coordinates":[89.14783,25.13325],"type":"Point"}
+}

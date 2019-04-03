@@ -1,0 +1,73 @@
+{
+  "id": 1343489759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.73821,23.11922,89.73821,23.11922",
+    "geom:latitude":23.11922,
+    "geom:longitude":89.73821,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3035.0",
+    "gn:admin3_code":"303532.0",
+    "gn:admin4_code":"30353238.0",
+    "gn:asciiname":"Tetulia Durgapur",
+    "gn:country_code":"BD",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7480245,
+    "gn:latitude":23.11922,
+    "gn:longitude":89.73821,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Tetulia Durg\u0101pur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Tetulia Durg\u0101pur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421194867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7480245
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"979256a04e85d9c7806d531ee8f21e63",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421194867,
+            "locality_id":1343489759,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1343489759,
+    "wof:lastmodified":1537586444,
+    "wof:name":"Tetulia Durgapur",
+    "wof:parent_id":421194867,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.73821,
+    23.11922,
+    89.73821,
+    23.11922
+],
+  "geometry": {"coordinates":[89.73821,23.11922],"type":"Point"}
+}

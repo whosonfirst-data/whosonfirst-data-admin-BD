@@ -1,0 +1,70 @@
+{
+  "id": 1226688203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.76667,23.1,90.76667,23.1",
+    "geom:latitude":23.1,
+    "geom:longitude":90.76667,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2013.0",
+    "gn:admin3_code":"201345.0",
+    "gn:admin4_code":"20134577.0",
+    "gn:asciiname":"Gridha Kalindia",
+    "gn:country_code":"BD",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1201930,
+    "gn:latitude":23.1,
+    "gn:longitude":90.76667,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Gridha K\u0101lindia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        1108694669
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1201930
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"60e236339dc397c2afc2e26f97b27391",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694669,
+            "locality_id":1226688203,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1226688203,
+    "wof:lastmodified":1536798514,
+    "wof:name":"Gridha Kalindia",
+    "wof:parent_id":1108694669,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.76667,
+    23.1,
+    90.76667,
+    23.1
+],
+  "geometry": {"coordinates":[90.76667,23.1],"type":"Point"}
+}

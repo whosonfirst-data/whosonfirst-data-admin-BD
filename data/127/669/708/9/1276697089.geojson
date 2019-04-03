@@ -1,0 +1,73 @@
+{
+  "id": 1276697089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.47053,25.91643,88.47053,25.91643",
+    "geom:latitude":25.91643,
+    "geom:longitude":88.47053,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5594",
+    "gn:admin3_code":"559494.0",
+    "gn:admin4_code":"55949417.0",
+    "gn:asciiname":"Kismat Saidpur",
+    "gn:country_code":"BD",
+    "gn:dem":49,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1197136,
+    "gn:latitude":25.91643,
+    "gn:longitude":88.47053,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Kismat Saidpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Kismat Saidpur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1197136
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"6f4c57386917fc37738ed0c6a7a07780",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694703,
+            "locality_id":1276697089,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1276697089,
+    "wof:lastmodified":1537585917,
+    "wof:name":"Kismat Saidpur",
+    "wof:parent_id":1108694703,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.47053000000002,
+    25.91643,
+    88.47053000000002,
+    25.91643
+],
+  "geometry": {"coordinates":[88.47053000000002,25.91643],"type":"Point"}
+}

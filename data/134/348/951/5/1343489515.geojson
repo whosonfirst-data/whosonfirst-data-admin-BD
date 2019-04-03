@@ -1,0 +1,70 @@
+{
+  "id": 1343489515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.5984,22.74626,89.5984,22.74626",
+    "geom:latitude":22.74626,
+    "geom:longitude":89.5984,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4047",
+    "gn:admin3_code":"404712.0",
+    "gn:admin4_code":"40471211.0",
+    "gn:asciiname":"Talapara",
+    "gn:country_code":"BD",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1186665,
+    "gn:latitude":22.74626,
+    "gn:longitude":89.5984,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Tal\u0101p\u0101ra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        421185473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1186665
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"84b60f013e8905d5caa498812ebbff0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421185473,
+            "locality_id":1343489515,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1343489515,
+    "wof:lastmodified":1536704665,
+    "wof:name":"Talapara",
+    "wof:parent_id":421185473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.5984,
+    22.74626,
+    89.5984,
+    22.74626
+],
+  "geometry": {"coordinates":[89.5984,22.74626],"type":"Point"}
+}

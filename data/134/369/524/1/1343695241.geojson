@@ -1,0 +1,74 @@
+{
+  "id": 1343695241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.59803,23.7005,89.59803,23.7005",
+    "geom:latitude":23.7005,
+    "geom:longitude":89.59803,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3082",
+    "gn:admin3_code":"308207.0",
+    "gn:admin4_code":"30820747.0",
+    "gn:asciiname":"Sandiara",
+    "gn:country_code":"BD",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1188832,
+    "gn:latitude":23.7005,
+    "gn:longitude":89.59803,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"S\u0101ndi\u0101ra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sandiora",
+        "S\u0101ndi\u0101ra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        1108694699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1188832
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"d9d28c865bb749b5e9b724f767b190a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694699,
+            "locality_id":1343695241,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1343695241,
+    "wof:lastmodified":1537585768,
+    "wof:name":"Sandiara",
+    "wof:parent_id":1108694699,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.59803000000002,
+    23.7005,
+    89.59803000000002,
+    23.7005
+],
+  "geometry": {"coordinates":[89.59803000000002,23.7005],"type":"Point"}
+}

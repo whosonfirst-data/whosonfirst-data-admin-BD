@@ -1,0 +1,70 @@
+{
+  "id": 1293423189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.50107,23.38196,89.50107,23.38196",
+    "geom:latitude":23.38196,
+    "geom:longitude":89.50107,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4055.0",
+    "gn:admin3_code":"405557.0",
+    "gn:admin4_code":"40555733.0",
+    "gn:asciiname":"Gopalgram",
+    "gn:country_code":"BD",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1202119,
+    "gn:latitude":23.38196,
+    "gn:longitude":89.50107,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Gop\u0101lgr\u0101m",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        1108694689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1202119
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"3e83dc5fd7a6220cf86f331da66e44a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694689,
+            "locality_id":1293423189,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1293423189,
+    "wof:lastmodified":1536879014,
+    "wof:name":"Gopalgram",
+    "wof:parent_id":1108694689,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.50107,
+    23.38196,
+    89.50107,
+    23.38196
+],
+  "geometry": {"coordinates":[89.50107,23.38196],"type":"Point"}
+}

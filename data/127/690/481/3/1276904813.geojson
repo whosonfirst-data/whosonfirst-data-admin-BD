@@ -1,0 +1,70 @@
+{
+  "id": 1276904813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.77474,23.9986,90.77474,23.9986",
+    "geom:latitude":23.9986,
+    "geom:longitude":90.77474,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3068.0",
+    "gn:admin3_code":"306876.0",
+    "gn:admin4_code":"30687621.0",
+    "gn:asciiname":"Chaupat",
+    "gn:country_code":"BD",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1206300,
+    "gn:latitude":23.9986,
+    "gn:longitude":90.77474,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Chaup\u0101t",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421169707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1206300
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"eb5d892beb2f880cad26cecb756bec63",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421169707,
+            "locality_id":1276904813,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1276904813,
+    "wof:lastmodified":1537007212,
+    "wof:name":"Chaupat",
+    "wof:parent_id":421169707,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.77474,
+    23.9986,
+    90.77474,
+    23.9986
+],
+  "geometry": {"coordinates":[90.77473999999999,23.9986],"type":"Point"}
+}

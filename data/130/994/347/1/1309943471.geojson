@@ -1,0 +1,73 @@
+{
+  "id": 1309943471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.45364,25.83577,88.45364,25.83577",
+    "geom:latitude":25.83577,
+    "geom:longitude":88.45364,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5527.0",
+    "gn:admin3_code":"552721.0",
+    "gn:admin4_code":"55272167.0",
+    "gn:asciiname":"Chota Sultanpur",
+    "gn:country_code":"BD",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7487874,
+    "gn:latitude":25.83577,
+    "gn:longitude":88.45364,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Chota Sultanpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Chota Sultanpur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7487874
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"92a70b7ba9f9e945f8f3b67279f87672",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694671,
+            "locality_id":1309943471,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1309943471,
+    "wof:lastmodified":1537586651,
+    "wof:name":"Chota Sultanpur",
+    "wof:parent_id":1108694671,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.45364000000002,
+    25.83577,
+    88.45364000000002,
+    25.83577
+],
+  "geometry": {"coordinates":[88.45364000000002,25.83577],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1309943463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.0487,25.0896,90.0487,25.0896",
+    "geom:latitude":25.0896,
+    "geom:longitude":90.0487,
+    "gn:admin1_code":"H",
+    "gn:admin2_code":"3089",
+    "gn:admin3_code":"308937.0",
+    "gn:admin4_code":"30893717.0",
+    "gn:asciiname":"Chinguria",
+    "gn:country_code":"BD",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7923328,
+    "gn:latitude":25.0896,
+    "gn:longitude":90.0487,
+    "gn:modification_date":"2016-11-17",
+    "gn:name":"Chinguria",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Chinguria"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        1108803101,
+        421190979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7923328
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"d10e02bc0b4f5f61b8f8a537bd4d73f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421190979,
+            "locality_id":1309943463,
+            "region_id":1108803101
+        }
+    ],
+    "wof:id":1309943463,
+    "wof:lastmodified":1537586795,
+    "wof:name":"Chinguria",
+    "wof:parent_id":421190979,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.0487,
+    25.0896,
+    90.0487,
+    25.0896
+],
+  "geometry": {"coordinates":[90.0487,25.0896],"type":"Point"}
+}

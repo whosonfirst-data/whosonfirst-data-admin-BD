@@ -1,0 +1,64 @@
+{
+  "id": 1209645453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.24666,22.6255,89.24666,22.6255",
+    "geom:latitude":22.6255,
+    "geom:longitude":89.24666,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4087",
+    "gn:admin3_code":"408704.0",
+    "gn:admin4_code":"40870443.0",
+    "gn:asciiname":"Khariati",
+    "gn:country_code":"BD",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1197544,
+    "gn:latitude":22.6255,
+    "gn:longitude":89.24666,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Kh\u0101ri\u0101ti",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1197544
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"499c7bd18589d8b1747726cc0237ea90",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209645453
+        }
+    ],
+    "wof:id":1209645453,
+    "wof:lastmodified":1536280750,
+    "wof:name":"Khariati",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.24665999999998,
+    22.6255,
+    89.24665999999998,
+    22.6255
+],
+  "geometry": {"coordinates":[89.24665999999998,22.6255],"type":"Point"}
+}

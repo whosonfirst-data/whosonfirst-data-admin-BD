@@ -1,0 +1,74 @@
+{
+  "id": 1326467833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.38382,23.5335,89.38382,23.5335",
+    "geom:latitude":23.5335,
+    "geom:longitude":89.38382,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4055",
+    "gn:admin3_code":"405557.0",
+    "gn:admin4_code":"40555706.0",
+    "gn:asciiname":"West Bariala",
+    "gn:country_code":"BD",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1185416,
+    "gn:latitude":23.5335,
+    "gn:longitude":89.38382,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"West B\u0101ri\u0101la",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Paschim Bariala",
+        "West B\u0101ri\u0101la"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        1108694689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1185416
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"efb81edd3fa7d412112b9c041df28d13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694689,
+            "locality_id":1326467833,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1326467833,
+    "wof:lastmodified":1537585700,
+    "wof:name":"West Bariala",
+    "wof:parent_id":1108694689,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.38382,
+    23.5335,
+    89.38382,
+    23.5335
+],
+  "geometry": {"coordinates":[89.38382,23.5335],"type":"Point"}
+}

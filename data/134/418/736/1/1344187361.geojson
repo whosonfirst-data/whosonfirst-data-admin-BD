@@ -1,0 +1,73 @@
+{
+  "id": 1344187361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.58138,25.68534,89.58138,25.68534",
+    "geom:latitude":25.68534,
+    "geom:longitude":89.58138,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5549",
+    "gn:admin3_code":"554994.0",
+    "gn:admin4_code":"55499489.0",
+    "gn:asciiname":"Purba Noadanga",
+    "gn:country_code":"BD",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7926415,
+    "gn:latitude":25.68534,
+    "gn:longitude":89.58138,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Purba No\u0101d\u0101nga",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Purba No\u0101d\u0101nga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7926415
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"37b6ab0388ed109defc2de0926474e48",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694685,
+            "locality_id":1344187361,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1344187361,
+    "wof:lastmodified":1537586823,
+    "wof:name":"Purba Noadanga",
+    "wof:parent_id":1108694685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.58138000000002,
+    25.68534,
+    89.58138000000002,
+    25.68534
+],
+  "geometry": {"coordinates":[89.58138000000002,25.68534],"type":"Point"}
+}

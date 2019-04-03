@@ -1,0 +1,75 @@
+{
+  "id": 1310247089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.94491,23.36089,90.94491,23.36089",
+    "geom:latitude":23.36089,
+    "geom:longitude":90.94491,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2019",
+    "gn:admin3_code":"201927.0",
+    "gn:admin4_code":"20192731.0",
+    "gn:asciiname":"West Lakshmipur",
+    "gn:country_code":"BD",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1185369,
+    "gn:latitude":23.36089,
+    "gn:longitude":90.94491,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"West Lakshm\u012bpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lakshm\u012bpur",
+        "West Lakshimpur",
+        "West Lakshm\u012bpur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421187801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1185369
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"901536c25c9cdcde6528d6b2a202120d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421187801,
+            "locality_id":1310247089,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1310247089,
+    "wof:lastmodified":1537585698,
+    "wof:name":"West Lakshmipur",
+    "wof:parent_id":421187801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.94491,
+    23.36089,
+    90.94491,
+    23.36089
+],
+  "geometry": {"coordinates":[90.94490999999999,23.36089],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1293916927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.42202,25.16571,89.42202,25.16571",
+    "geom:latitude":25.16571,
+    "geom:longitude":89.42202,
+    "gn:admin1_code":"83",
+    "gn:asciiname":"Perbatipur",
+    "gn:country_code":"BD",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7891936,
+    "gn:latitude":25.16571,
+    "gn:longitude":89.42202,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Perbatipur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Perbatipur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7891936
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"7e6e2b348671e36a4eb4ded09eeb1c15",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694675,
+            "locality_id":1293916927,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1293916927,
+    "wof:lastmodified":1537586754,
+    "wof:name":"Perbatipur",
+    "wof:parent_id":1108694675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.42201999999997,
+    25.16571,
+    89.42201999999997,
+    25.16571
+],
+  "geometry": {"coordinates":[89.42201999999997,25.16571],"type":"Point"}
+}

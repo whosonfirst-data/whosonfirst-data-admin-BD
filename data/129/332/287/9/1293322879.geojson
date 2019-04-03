@@ -1,0 +1,73 @@
+{
+  "id": 1293322879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.71871,23.58157,88.71871,23.58157",
+    "geom:latitude":23.58157,
+    "geom:longitude":88.71871,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4018.0",
+    "gn:admin3_code":"401831.0",
+    "gn:admin4_code":"40183159.0",
+    "gn:asciiname":"Bagadanga",
+    "gn:country_code":"BD",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7484252,
+    "gn:latitude":23.58157,
+    "gn:longitude":88.71871,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"B\u0101g\u0101d\u0101nga",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "B\u0101g\u0101d\u0101nga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        421194153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7484252
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"ad62de9a4b9c6f34d79b43a0b1f9716f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421194153,
+            "locality_id":1293322879,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1293322879,
+    "wof:lastmodified":1537586559,
+    "wof:name":"Bagadanga",
+    "wof:parent_id":421194153,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.71871,
+    23.58157000000001,
+    88.71871,
+    23.58157000000001
+],
+  "geometry": {"coordinates":[88.71871,23.58157000000001],"type":"Point"}
+}

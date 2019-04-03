@@ -1,0 +1,76 @@
+{
+  "id": 1242903857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.19952,23.2049,89.19952,23.2049",
+    "geom:latitude":23.2049,
+    "geom:longitude":89.19952,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4041.0",
+    "gn:admin3_code":"404147.0",
+    "gn:admin4_code":"40414789.0",
+    "gn:asciiname":"Solpur",
+    "gn:country_code":"BD",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1208181,
+    "gn:latitude":23.2049,
+    "gn:longitude":89.19952,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Solpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Solpur"
+    ],
+    "name:ben_x_variant":[
+        "Bolpur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        421176039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1208181
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"29156ad65d5d2489b7abcc17de380387",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421176039,
+            "locality_id":1242903857,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1242903857,
+    "wof:lastmodified":1537586125,
+    "wof:name":"Solpur",
+    "wof:parent_id":421176039,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.19951999999998,
+    23.2049,
+    89.19951999999998,
+    23.2049
+],
+  "geometry": {"coordinates":[89.19951999999998,23.2049],"type":"Point"}
+}

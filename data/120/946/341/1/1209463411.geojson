@@ -1,0 +1,64 @@
+{
+  "id": 1209463411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.91121,22.99169,90.91121,22.99169",
+    "geom:latitude":22.99169,
+    "geom:longitude":90.91121,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2051",
+    "gn:admin3_code":"205143.0",
+    "gn:admin4_code":"20514310.0",
+    "gn:asciiname":"Lalpur",
+    "gn:country_code":"BD",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1196218,
+    "gn:latitude":22.99169,
+    "gn:longitude":90.91121,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"L\u0101lpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1196218
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"2507775fd23db672b7e8f10d80224d38",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209463411
+        }
+    ],
+    "wof:id":1209463411,
+    "wof:lastmodified":1536286313,
+    "wof:name":"Lalpur",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.91121,
+    22.99169,
+    90.91121,
+    22.99169
+],
+  "geometry": {"coordinates":[90.91121,22.99169],"type":"Point"}
+}

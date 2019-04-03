@@ -1,0 +1,76 @@
+{
+  "id": 1310253333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"92.14615,22.21385,92.14615,22.21385",
+    "geom:latitude":22.21385,
+    "geom:longitude":92.14615,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2015.0",
+    "gn:admin3_code":"201518.0",
+    "gn:admin4_code":"20151838.0",
+    "gn:asciiname":"Chem",
+    "gn:country_code":"BD",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6415931,
+    "gn:latitude":22.21385,
+    "gn:longitude":92.14615,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Chem",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Chem"
+    ],
+    "name:und_x_variant":[
+        "Chemi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421169477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6415931
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"45925fd7b499ea3618f3b578d9ef9ba7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421169477,
+            "locality_id":1310253333,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1310253333,
+    "wof:lastmodified":1537586253,
+    "wof:name":"Chem",
+    "wof:parent_id":421169477,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    92.14615,
+    22.21385,
+    92.14615,
+    22.21385
+],
+  "geometry": {"coordinates":[92.14615000000001,22.21385],"type":"Point"}
+}

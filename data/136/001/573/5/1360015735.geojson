@@ -1,0 +1,76 @@
+{
+  "id": 1360015735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.94621,23.67661,88.94621,23.67661",
+    "geom:latitude":23.67661,
+    "geom:longitude":88.94621,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4018",
+    "gn:admin3_code":"401807.0",
+    "gn:admin4_code":"40180794.0",
+    "gn:asciiname":"Jahanpur",
+    "gn:country_code":"BD",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1200480,
+    "gn:latitude":23.67661,
+    "gn:longitude":88.94621,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Jah\u0101npur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Jah\u0101npur"
+    ],
+    "name:und_x_variant":[
+        "Janhapur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        421194153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1200480
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"1eb3710b4f71f25c5bf9750069491102",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421194153,
+            "locality_id":1360015735,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1360015735,
+    "wof:lastmodified":1537585980,
+    "wof:name":"Jahanpur",
+    "wof:parent_id":421194153,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.94621,
+    23.67661,
+    88.94621,
+    23.67661
+],
+  "geometry": {"coordinates":[88.94620999999999,23.67661],"type":"Point"}
+}

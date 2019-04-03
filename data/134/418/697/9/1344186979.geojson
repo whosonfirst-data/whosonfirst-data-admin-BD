@@ -1,0 +1,73 @@
+{
+  "id": 1344186979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.80539,26.03736,89.80539,26.03736",
+    "geom:latitude":26.03736,
+    "geom:longitude":89.80539,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5549",
+    "gn:admin3_code":"554961.0",
+    "gn:admin4_code":"55496150.0",
+    "gn:asciiname":"Shibar Hat",
+    "gn:country_code":"BD",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8037886,
+    "gn:latitude":26.03736,
+    "gn:longitude":89.80539,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Shibar Hat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Shibar Hat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632469,
+        85672181,
+        890506839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8037886
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"7f1c26837fc17445504c7ce6d4e5a8dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":890506839,
+            "locality_id":1344186979,
+            "region_id":85672181
+        }
+    ],
+    "wof:id":1344186979,
+    "wof:lastmodified":1537586832,
+    "wof:name":"Shibar Hat",
+    "wof:parent_id":890506839,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.80539,
+    26.03736,
+    89.80539,
+    26.03736
+],
+  "geometry": {"coordinates":[89.80539,26.03736],"type":"Point"}
+}

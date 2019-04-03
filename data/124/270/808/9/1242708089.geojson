@@ -1,0 +1,75 @@
+{
+  "id": 1242708089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.0,23.21667,89.0,23.21667",
+    "geom:latitude":23.21667,
+    "geom:longitude":89.0,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4041",
+    "gn:admin3_code":"404111.0",
+    "gn:admin4_code":"40411117.0",
+    "gn:asciiname":"Shahazadpur",
+    "gn:cc2":"BD",
+    "gn:country_code":"BD",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1188206,
+    "gn:latitude":23.21667,
+    "gn:longitude":89.0,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Sh\u0101h\u0101z\u0101dpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sahajadpur",
+        "Sh\u0101h\u0101z\u0101dpur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        421176039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1188206
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"328d3a1d8a2b23c98a778f403997d83e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421176039,
+            "locality_id":1242708089,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1242708089,
+    "wof:lastmodified":1537585756,
+    "wof:name":"Shahazadpur",
+    "wof:parent_id":421176039,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.0,
+    23.21667,
+    89.0,
+    23.21667
+],
+  "geometry": {"coordinates":[89.0,23.21667],"type":"Point"}
+}

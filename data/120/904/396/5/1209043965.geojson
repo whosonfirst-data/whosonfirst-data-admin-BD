@@ -1,0 +1,64 @@
+{
+  "id": 1209043965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.67863,23.52896,89.67863,23.52896",
+    "geom:latitude":23.52896,
+    "geom:longitude":89.67863,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3029.0",
+    "gn:admin3_code":"302956.0",
+    "gn:admin4_code":"30295684.0",
+    "gn:asciiname":"Brahmankandi",
+    "gn:country_code":"BD",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1208113,
+    "gn:latitude":23.52896,
+    "gn:longitude":89.67863,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Br\u0101hmank\u0101ndi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1208113
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"4c03874ccd86bf9b7d6cdcdf66d9cf2c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209043965
+        }
+    ],
+    "wof:id":1209043965,
+    "wof:lastmodified":1536299455,
+    "wof:name":"Brahmankandi",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.67863,
+    23.52896,
+    89.67863,
+    23.52896
+],
+  "geometry": {"coordinates":[89.67863,23.52896],"type":"Point"}
+}

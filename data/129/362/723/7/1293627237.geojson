@@ -1,0 +1,73 @@
+{
+  "id": 1293627237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.71878,23.05964,90.71878,23.05964",
+    "geom:latitude":23.05964,
+    "geom:longitude":90.71878,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2013.0",
+    "gn:admin3_code":"201345.0",
+    "gn:admin4_code":"20134523.0",
+    "gn:asciiname":"Alinia",
+    "gn:country_code":"BD",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1212906,
+    "gn:latitude":23.05964,
+    "gn:longitude":90.71878,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Alinia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0100lunia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        1108694669
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1212906
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"0a89f0d390f246ccb9918378cefd959d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694669,
+            "locality_id":1293627237,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1293627237,
+    "wof:lastmodified":1537586204,
+    "wof:name":"Alinia",
+    "wof:parent_id":1108694669,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.71878,
+    23.05964,
+    90.71878,
+    23.05964
+],
+  "geometry": {"coordinates":[90.71878,23.05964],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1343991269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.98267,25.05318,89.98267,25.05318",
+    "geom:latitude":25.05318,
+    "geom:longitude":89.98267,
+    "gn:admin1_code":"H",
+    "gn:admin2_code":"3089",
+    "gn:admin3_code":"308988.0",
+    "gn:admin4_code":"30898840.0",
+    "gn:asciiname":"Kandapara",
+    "gn:country_code":"BD",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7922120,
+    "gn:latitude":25.05318,
+    "gn:longitude":89.98267,
+    "gn:modification_date":"2016-11-17",
+    "gn:name":"Kandapara",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Kandapara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        1108803101,
+        421190979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7922120
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"9738a019133c2ae8c3a0dc30f8d7580c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421190979,
+            "locality_id":1343991269,
+            "region_id":1108803101
+        }
+    ],
+    "wof:id":1343991269,
+    "wof:lastmodified":1537586785,
+    "wof:name":"Kandapara",
+    "wof:parent_id":421190979,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.98267,
+    25.05318,
+    89.98267,
+    25.05318
+],
+  "geometry": {"coordinates":[89.98267,25.05318],"type":"Point"}
+}

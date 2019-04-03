@@ -1,0 +1,67 @@
+{
+  "id": 1209256913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"92.05733,21.5185,92.05733,21.5185",
+    "geom:latitude":21.5185,
+    "geom:longitude":92.05733,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2022.0",
+    "gn:admin3_code":"202266.0",
+    "gn:admin4_code":"20226638.0",
+    "gn:asciiname":"Kalichhara",
+    "gn:country_code":"BD",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6414877,
+    "gn:latitude":21.5185,
+    "gn:longitude":92.05733,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"K\u0101lichhara",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "K\u0101lichhara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6414877
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"55393e1bca7d41d1583f7d1d9c0bd146",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209256913
+        }
+    ],
+    "wof:id":1209256913,
+    "wof:lastmodified":1537586234,
+    "wof:name":"Kalichhara",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    92.05733,
+    21.5185,
+    92.05733,
+    21.5185
+],
+  "geometry": {"coordinates":[92.05732999999999,21.5185],"type":"Point"}
+}

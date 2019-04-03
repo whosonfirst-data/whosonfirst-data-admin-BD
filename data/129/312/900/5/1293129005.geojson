@@ -1,0 +1,73 @@
+{
+  "id": 1293129005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.08038,25.20654,90.08038,25.20654",
+    "geom:latitude":25.20654,
+    "geom:longitude":90.08038,
+    "gn:admin1_code":"H",
+    "gn:admin2_code":"3089",
+    "gn:admin3_code":"308937.0",
+    "gn:admin4_code":"30893760.0",
+    "gn:asciiname":"Salchala",
+    "gn:country_code":"BD",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7922757,
+    "gn:latitude":25.20654,
+    "gn:longitude":90.08038,
+    "gn:modification_date":"2016-11-17",
+    "gn:name":"Salchala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Salchala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        1108803101,
+        421190979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7922757
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"83ae1f09df6f0acf0268c08fccf40362",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421190979,
+            "locality_id":1293129005,
+            "region_id":1108803101
+        }
+    ],
+    "wof:id":1293129005,
+    "wof:lastmodified":1537586790,
+    "wof:name":"Salchala",
+    "wof:parent_id":421190979,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.08038,
+    25.20654,
+    90.08038,
+    25.20654
+],
+  "geometry": {"coordinates":[90.08038000000001,25.20654],"type":"Point"}
+}

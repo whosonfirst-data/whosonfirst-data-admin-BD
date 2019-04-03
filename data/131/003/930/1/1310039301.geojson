@@ -1,0 +1,70 @@
+{
+  "id": 1310039301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.11942,23.2185,90.11942,23.2185",
+    "geom:latitude":23.2185,
+    "geom:longitude":90.11942,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3054.0",
+    "gn:admin3_code":"305454.0",
+    "gn:admin4_code":"30545405.0",
+    "gn:asciiname":"Dighalpara",
+    "gn:country_code":"BD",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1204004,
+    "gn:latitude":23.2185,
+    "gn:longitude":90.11942,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Dighalp\u0101ra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421183929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1204004
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"c0a962b3c6e837064f29c62fca0426d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421183929,
+            "locality_id":1310039301,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1310039301,
+    "wof:lastmodified":1537088788,
+    "wof:name":"Dighalpara",
+    "wof:parent_id":421183929,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.11942,
+    23.2185,
+    90.11942,
+    23.2185
+],
+  "geometry": {"coordinates":[90.11942000000001,23.2185],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1293522811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.61593,23.40316,89.61593,23.40316",
+    "geom:latitude":23.40316,
+    "geom:longitude":89.61593,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3029.0",
+    "gn:admin3_code":"302918.0",
+    "gn:admin4_code":"30291860.0",
+    "gn:asciiname":"East Char Barni",
+    "gn:country_code":"BD",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1203564,
+    "gn:latitude":23.40316,
+    "gn:longitude":89.61593,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"East Char Barni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Purba Char Barni",
+        "East Char Barni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421198063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1203564
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"ba36138c4e3c3685cf53ea13dc552357",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421198063,
+            "locality_id":1293522811,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1293522811,
+    "wof:lastmodified":1537586042,
+    "wof:name":"East Char Barni",
+    "wof:parent_id":421198063,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.61593,
+    23.40316,
+    89.61593,
+    23.40316
+],
+  "geometry": {"coordinates":[89.61593000000001,23.40316],"type":"Point"}
+}

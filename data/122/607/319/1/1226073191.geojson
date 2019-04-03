@@ -1,0 +1,70 @@
+{
+  "id": 1226073191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.12318,23.08529,90.12318,23.08529",
+    "geom:latitude":23.08529,
+    "geom:longitude":90.12318,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3054",
+    "gn:admin3_code":"305440.0",
+    "gn:admin4_code":"30544075.0",
+    "gn:asciiname":"Shashikar",
+    "gn:country_code":"BD",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9257365,
+    "gn:latitude":23.08529,
+    "gn:longitude":90.12318,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Shashikar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421183929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9257365
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"2be58b991f8dd45be8ea80c0b06ae5af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421183929,
+            "locality_id":1226073191,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1226073191,
+    "wof:lastmodified":1536685776,
+    "wof:name":"Shashikar",
+    "wof:parent_id":421183929,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.12318,
+    23.08529,
+    90.12318,
+    23.08529
+],
+  "geometry": {"coordinates":[90.12318,23.08529],"type":"Point"}
+}

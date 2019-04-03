@@ -1,0 +1,73 @@
+{
+  "id": 1360114553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.94057,23.15511,89.94057,23.15511",
+    "geom:latitude":23.15511,
+    "geom:longitude":89.94057,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3035.0",
+    "gn:admin3_code":"303532.0",
+    "gn:admin4_code":"30353282.0",
+    "gn:asciiname":"Bhennabaria",
+    "gn:country_code":"BD",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7480737,
+    "gn:latitude":23.15511,
+    "gn:longitude":89.94057,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Bhenn\u0101b\u0101ria",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Bhenn\u0101b\u0101ria"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421194867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7480737
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"c7b84732cb38d00f791548ba6484ed0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421194867,
+            "locality_id":1360114553,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1360114553,
+    "wof:lastmodified":1537586458,
+    "wof:name":"Bhennabaria",
+    "wof:parent_id":421194867,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.94057,
+    23.15511,
+    89.94057,
+    23.15511
+],
+  "geometry": {"coordinates":[89.94056999999999,23.15511],"type":"Point"}
+}

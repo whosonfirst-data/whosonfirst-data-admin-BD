@@ -1,0 +1,75 @@
+{
+  "id": 1242619655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.65937,23.13607,90.65937,23.13607",
+    "geom:latitude":23.13607,
+    "geom:longitude":90.65937,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2013.0",
+    "gn:admin3_code":"201322.0",
+    "gn:admin4_code":"20132254.0",
+    "gn:asciiname":"Bakarpur",
+    "gn:country_code":"BD",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1211510,
+    "gn:latitude":23.13607,
+    "gn:longitude":90.65937,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"B\u0101k\u0101rpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "B\u0101kharpur",
+        "B\u0101k\u0101rpur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        1108694669
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1211510,
+        "wk:page":"Bakharpur"
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"166fdf575f45e95e3fd08798dbe8bbc1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694669,
+            "locality_id":1242619655,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1242619655,
+    "wof:lastmodified":1537586179,
+    "wof:name":"Bakarpur",
+    "wof:parent_id":1108694669,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.65937,
+    23.13607,
+    90.65937,
+    23.13607
+],
+  "geometry": {"coordinates":[90.65937,23.13607],"type":"Point"}
+}

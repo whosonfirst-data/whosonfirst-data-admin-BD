@@ -1,0 +1,70 @@
+{
+  "id": 1276370643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.75636,24.16786,90.75636,24.16786",
+    "geom:latitude":24.16786,
+    "geom:longitude":90.75636,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3068",
+    "gn:admin3_code":"306852.0",
+    "gn:admin4_code":"30685267.0",
+    "gn:asciiname":"Singrakandi",
+    "gn:country_code":"BD",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1187769,
+    "gn:latitude":24.16786,
+    "gn:longitude":90.75636,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Singr\u0101k\u0101ndi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421169707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1187769
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"ca5d2d741226583f0564a3b9a0c5ea22",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421169707,
+            "locality_id":1276370643,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1276370643,
+    "wof:lastmodified":1536729020,
+    "wof:name":"Singrakandi",
+    "wof:parent_id":421169707,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.75636,
+    24.16786,
+    90.75636,
+    24.16786
+],
+  "geometry": {"coordinates":[90.75636,24.16786],"type":"Point"}
+}

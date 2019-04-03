@@ -1,0 +1,70 @@
+{
+  "id": 1276798505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.8151,23.99515,89.8151,23.99515",
+    "geom:latitude":23.99515,
+    "geom:longitude":89.8151,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3093.0",
+    "gn:admin3_code":"309376.0",
+    "gn:admin4_code":"30937621.0",
+    "gn:asciiname":"Bade Bhugolhat",
+    "gn:country_code":"BD",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1212122,
+    "gn:latitude":23.99515,
+    "gn:longitude":89.8151,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"B\u0101de Bhugolh\u0101t",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421185471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1212122
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"9d1e5404a30b6bbfad413d6dfc7496c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421185471,
+            "locality_id":1276798505,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1276798505,
+    "wof:lastmodified":1536652581,
+    "wof:name":"Bade Bhugolhat",
+    "wof:parent_id":421185471,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.8151,
+    23.99515,
+    89.8151,
+    23.99515
+],
+  "geometry": {"coordinates":[89.8151,23.99515],"type":"Point"}
+}

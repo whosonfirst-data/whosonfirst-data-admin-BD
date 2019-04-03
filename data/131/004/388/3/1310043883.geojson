@@ -1,0 +1,70 @@
+{
+  "id": 1310043883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.82685,23.30688,90.82685,23.30688",
+    "geom:latitude":23.30688,
+    "geom:longitude":90.82685,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2013",
+    "gn:admin3_code":"201349.0",
+    "gn:admin4_code":"20134950.0",
+    "gn:asciiname":"Pirijpur",
+    "gn:country_code":"BD",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1191070,
+    "gn:latitude":23.30688,
+    "gn:longitude":90.82685,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Pirijpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        1108694669
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1191070
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"7452fe3b2cc54f5cc97b3cb34c425880",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694669,
+            "locality_id":1310043883,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1310043883,
+    "wof:lastmodified":1537082138,
+    "wof:name":"Pirijpur",
+    "wof:parent_id":1108694669,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.82685,
+    23.30688,
+    90.82685,
+    23.30688
+],
+  "geometry": {"coordinates":[90.82684999999999,23.30688],"type":"Point"}
+}

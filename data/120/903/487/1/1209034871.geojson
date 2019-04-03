@@ -1,0 +1,68 @@
+{
+  "id": 1209034871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.98697,22.73735,89.98697,22.73735",
+    "geom:latitude":22.73735,
+    "geom:longitude":89.98697,
+    "gn:admin1_code":"85",
+    "gn:admin2_code":"1079",
+    "gn:admin3_code":"107976.0",
+    "gn:admin4_code":"10797673.0",
+    "gn:asciiname":"Sankharikati",
+    "gn:country_code":"BD",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1188768,
+    "gn:latitude":22.73735,
+    "gn:longitude":89.98697,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"S\u0101nkh\u0101rik\u0101ti",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "S\u0101nkh\u0101rik\u0101ti"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1188768,
+        "wk:page":"Sankharikati"
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"f2a73c3d33ffed97b2c0035a773c2707",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209034871
+        }
+    ],
+    "wof:id":1209034871,
+    "wof:lastmodified":1537585767,
+    "wof:name":"Sankharikati",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.98697,
+    22.73735,
+    89.98697,
+    22.73735
+],
+  "geometry": {"coordinates":[89.98697,22.73735],"type":"Point"}
+}

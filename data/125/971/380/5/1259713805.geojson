@@ -1,0 +1,74 @@
+{
+  "id": 1259713805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.28258,23.26933,90.28258,23.26933",
+    "geom:latitude":23.26933,
+    "geom:longitude":90.28258,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3086.0",
+    "gn:admin3_code":"308669.0",
+    "gn:admin4_code":"30866938.0",
+    "gn:asciiname":"Bara Sundwip",
+    "gn:country_code":"BD",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1210227,
+    "gn:latitude":23.26933,
+    "gn:longitude":90.28258,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Bara Sundwip",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bara Sandwip",
+        "Bara Sundwip"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421188359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1210227
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"6c6e6c4b6b2c3dce6bab3da007206392",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421188359,
+            "locality_id":1259713805,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1259713805,
+    "wof:lastmodified":1537586158,
+    "wof:name":"Bara Sundwip",
+    "wof:parent_id":421188359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.28258,
+    23.26933,
+    90.28258,
+    23.26933
+],
+  "geometry": {"coordinates":[90.28258,23.26933],"type":"Point"}
+}

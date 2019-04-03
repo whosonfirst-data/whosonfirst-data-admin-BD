@@ -1,0 +1,73 @@
+{
+  "id": 1242903541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.68746,22.44781,89.68746,22.44781",
+    "geom:latitude":22.44781,
+    "geom:longitude":89.68746,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4001.0",
+    "gn:admin3_code":"400158.0",
+    "gn:admin4_code":"40015889.0",
+    "gn:asciiname":"Madurpalta",
+    "gn:country_code":"BD",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7486523,
+    "gn:latitude":22.44781,
+    "gn:longitude":89.68746,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Madurpalta",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Madurpalta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        421187747
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7486523
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"bce7e1dadc9f62fba72980b597d27d29",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421187747,
+            "locality_id":1242903541,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1242903541,
+    "wof:lastmodified":1537586615,
+    "wof:name":"Madurpalta",
+    "wof:parent_id":421187747,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.68746,
+    22.44781,
+    89.68746,
+    22.44781
+],
+  "geometry": {"coordinates":[89.68746,22.44781],"type":"Point"}
+}

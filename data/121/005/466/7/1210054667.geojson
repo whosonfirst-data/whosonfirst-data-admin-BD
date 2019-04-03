@@ -1,0 +1,73 @@
+{
+  "id": 1210054667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.96637,23.02844,90.96637,23.02844",
+    "geom:latitude":23.02844,
+    "geom:longitude":90.96637,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2075.0",
+    "gn:admin3_code":"207510.0",
+    "gn:admin4_code":"20751047.0",
+    "gn:asciiname":"Purba Srinagar",
+    "gn:country_code":"BD",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1203485,
+    "gn:latitude":23.02844,
+    "gn:longitude":90.96637,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Purba Srinagar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "East Srinagar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421177051
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1203485
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"c11d701f1ac5dec8c24d922b3aa8c824",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421177051,
+            "locality_id":1210054667,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1210054667,
+    "wof:lastmodified":1537586038,
+    "wof:name":"Purba Srinagar",
+    "wof:parent_id":421177051,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.96637,
+    23.02844,
+    90.96637,
+    23.02844
+],
+  "geometry": {"coordinates":[90.96637,23.02844],"type":"Point"}
+}

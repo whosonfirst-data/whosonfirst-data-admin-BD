@@ -1,0 +1,74 @@
+{
+  "id": 1344187109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.47492,23.51259,90.47492,23.51259",
+    "geom:latitude":23.51259,
+    "geom:longitude":90.47492,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3059.0",
+    "gn:admin3_code":"305994.0",
+    "gn:admin4_code":"30599494.0",
+    "gn:asciiname":"Baralia",
+    "gn:country_code":"BD",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1210366,
+    "gn:latitude":23.51259,
+    "gn:longitude":90.47492,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Baralia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bharalia",
+        "Baralia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421205059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1210366
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"d9e97cc79b7aacd6ccd531d8bc71b5bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421205059,
+            "locality_id":1344187109,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1344187109,
+    "wof:lastmodified":1537586161,
+    "wof:name":"Baralia",
+    "wof:parent_id":421205059,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.47492,
+    23.51259,
+    90.47492,
+    23.51259
+],
+  "geometry": {"coordinates":[90.47492,23.51259],"type":"Point"}
+}

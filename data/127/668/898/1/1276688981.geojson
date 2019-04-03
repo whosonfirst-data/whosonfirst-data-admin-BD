@@ -1,0 +1,70 @@
+{
+  "id": 1276688981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.1,23.93333,89.1,23.93333",
+    "geom:latitude":23.93333,
+    "geom:longitude":89.1,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4050.0",
+    "gn:admin3_code":"405079.0",
+    "gn:admin4_code":"40507925.0",
+    "gn:asciiname":"Alakdia",
+    "gn:country_code":"BD",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1213057,
+    "gn:latitude":23.93333,
+    "gn:longitude":89.1,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"\u0100lakdia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        890438075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1213057
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"2099474a938616f30da9e5807a4421bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":890438075,
+            "locality_id":1276688981,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1276688981,
+    "wof:lastmodified":1536799366,
+    "wof:name":"Alakdia",
+    "wof:parent_id":890438075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.1,
+    23.93333,
+    89.1,
+    23.93333
+],
+  "geometry": {"coordinates":[89.09999999999999,23.93333],"type":"Point"}
+}

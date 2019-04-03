@@ -1,0 +1,76 @@
+{
+  "id": 1210046765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.85823,24.18352,88.85823,24.18352",
+    "geom:latitude":24.18352,
+    "geom:longitude":88.85823,
+    "gn:admin1_code":"83",
+    "gn:admin2_code":"5081.0",
+    "gn:admin3_code":"508110.0",
+    "gn:admin4_code":"50811015.0",
+    "gn:asciiname":"Bag Sayasta",
+    "gn:country_code":"BD",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1211862,
+    "gn:latitude":24.18352,
+    "gn:longitude":88.85823,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Bag S\u0101yasta",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Bag S\u0101yasta"
+    ],
+    "name:ben_x_variant":[
+        "B\u0101g S\u0101yesta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669031,
+        421172439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1211862
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"56f1a88b99b1286bd001160257f317b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421172439,
+            "locality_id":1210046765,
+            "region_id":85669031
+        }
+    ],
+    "wof:id":1210046765,
+    "wof:lastmodified":1537586185,
+    "wof:name":"Bag Sayasta",
+    "wof:parent_id":421172439,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.85823,
+    24.18352,
+    88.85823,
+    24.18352
+],
+  "geometry": {"coordinates":[88.85823000000001,24.18352],"type":"Point"}
+}

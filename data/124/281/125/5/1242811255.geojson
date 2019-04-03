@@ -1,0 +1,76 @@
+{
+  "id": 1242811255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.46637,24.92884,88.46637,24.92884",
+    "geom:latitude":24.92884,
+    "geom:longitude":88.46637,
+    "gn:admin1_code":"83",
+    "gn:admin2_code":"5070.0",
+    "gn:admin3_code":"507037.0",
+    "gn:admin4_code":"50703763.0",
+    "gn:asciiname":"Bara Shahpur",
+    "gn:country_code":"BD",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1210657,
+    "gn:latitude":24.92884,
+    "gn:longitude":88.46637,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Bara Shahpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Bara Shahpur"
+    ],
+    "name:ben_x_variant":[
+        "Bara D\u0101dpur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669031,
+        421191607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1210657
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"6fec49cf24303d7b3591450fb176354f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421191607,
+            "locality_id":1242811255,
+            "region_id":85669031
+        }
+    ],
+    "wof:id":1242811255,
+    "wof:lastmodified":1537586165,
+    "wof:name":"Bara Shahpur",
+    "wof:parent_id":421191607,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.46637,
+    24.92884,
+    88.46637,
+    24.92884
+],
+  "geometry": {"coordinates":[88.46637,24.92884],"type":"Point"}
+}

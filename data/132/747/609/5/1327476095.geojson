@@ -1,0 +1,73 @@
+{
+  "id": 1327476095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.94049,21.82707,91.94049,21.82707",
+    "geom:latitude":21.82707,
+    "geom:longitude":91.94049,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2022.0",
+    "gn:admin3_code":"202295.0",
+    "gn:admin4_code":"20229511.0",
+    "gn:asciiname":"Budhamajhirghona",
+    "gn:country_code":"BD",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6415631,
+    "gn:latitude":21.82707,
+    "gn:longitude":91.94049,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Budham\u0101jhirghona",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Budham\u0101jhirghona"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421205057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6415631
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"9d7417f7d41e952798289a951b77b979",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421205057,
+            "locality_id":1327476095,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1327476095,
+    "wof:lastmodified":1537586249,
+    "wof:name":"Budhamajhirghona",
+    "wof:parent_id":421205057,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.94049,
+    21.82707000000001,
+    91.94049,
+    21.82707000000001
+],
+  "geometry": {"coordinates":[91.94049,21.82707000000001],"type":"Point"}
+}

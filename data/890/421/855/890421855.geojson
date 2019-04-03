@@ -1,0 +1,69 @@
+{
+  "id": 890421855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.12143,23.24018,91.12143,23.24018",
+    "geom:latitude":23.24018,
+    "geom:longitude":91.12143,
+    "gn:country":"BD",
+    "gn:fcode":"PPL",
+    "gn:pop":82290,
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Laksam"
+    ],
+    "qs:name":"L\u0101ksh\u0101m",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"8",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421187801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1185183,
+        "gp:id":1915128,
+        "qs:id":130902
+    },
+    "wof:country":"BD",
+    "wof:created":1469051415,
+    "wof:geomhash":"c4c136e3fc555d995de248d67e8f8ee8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421187801,
+            "locality_id":890421855,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":890421855,
+    "wof:lastmodified":1505343466,
+    "wof:name":"L\u0101ksh\u0101m",
+    "wof:parent_id":421187801,
+    "wof:placetype":"locality",
+    "wof:population":82290,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.12143,
+    23.24018,
+    91.12143,
+    23.24018
+],
+  "geometry": {"coordinates":[91.12143,23.24018],"type":"Point"}
+}

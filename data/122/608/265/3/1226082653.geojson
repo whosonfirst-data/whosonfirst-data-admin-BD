@@ -1,0 +1,73 @@
+{
+  "id": 1226082653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.24361,23.61272,89.24361,23.61272",
+    "geom:latitude":23.61272,
+    "geom:longitude":89.24361,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4044.0",
+    "gn:admin3_code":"404480.0",
+    "gn:admin4_code":"40448069.0",
+    "gn:asciiname":"Kshudra Rara",
+    "gn:country_code":"BD",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7479069,
+    "gn:latitude":23.61272,
+    "gn:longitude":89.24361,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Kshudra Rara",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Kshudra Rara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        1108694679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7479069
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"c94ff799f35e28c0fcd96938d20b2098",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694679,
+            "locality_id":1226082653,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1226082653,
+    "wof:lastmodified":1537586409,
+    "wof:name":"Kshudra Rara",
+    "wof:parent_id":1108694679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.24361,
+    23.61272,
+    89.24361,
+    23.61272
+],
+  "geometry": {"coordinates":[89.24361,23.61272],"type":"Point"}
+}

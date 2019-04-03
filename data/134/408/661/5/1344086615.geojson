@@ -1,0 +1,74 @@
+{
+  "id": 1344086615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.13469,22.2904,90.13469,22.2904",
+    "geom:latitude":22.2904,
+    "geom:longitude":90.13469,
+    "gn:admin1_code":"85",
+    "gn:admin2_code":"1004",
+    "gn:admin3_code":"100447.0",
+    "gn:admin4_code":"10044759.0",
+    "gn:asciiname":"Kumrakhali",
+    "gn:country_code":"BD",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1196656,
+    "gn:latitude":22.2904,
+    "gn:longitude":90.13469,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Kumr\u0101kh\u0101li",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Kumr\u0101kh\u0101li"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669019,
+        421176043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1196656,
+        "wk:page":"Kumrakhali"
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"24885425c0a3f386e13b54f14fc70b85",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421176043,
+            "locality_id":1344086615,
+            "region_id":85669019
+        }
+    ],
+    "wof:id":1344086615,
+    "wof:lastmodified":1537585910,
+    "wof:name":"Kumrakhali",
+    "wof:parent_id":421176043,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.13469,
+    22.2904,
+    90.13469,
+    22.2904
+],
+  "geometry": {"coordinates":[90.13469000000001,22.2904],"type":"Point"}
+}

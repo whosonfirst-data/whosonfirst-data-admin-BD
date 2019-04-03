@@ -1,0 +1,73 @@
+{
+  "id": 1293427973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.90709,22.85449,91.90709,22.85449",
+    "geom:latitude":22.85449,
+    "geom:longitude":91.90709,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2046.0",
+    "gn:admin3_code":"204661.0",
+    "gn:admin4_code":"20466147.0",
+    "gn:asciiname":"Wangoha",
+    "gn:country_code":"BD",
+    "gn:dem":55,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7477516,
+    "gn:latitude":22.85449,
+    "gn:longitude":91.90709,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"W\u0101ngoha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "W\u0101ngoha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        1108694683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7477516
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"26aab58d804c131df371aaa8db515af8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694683,
+            "locality_id":1293427973,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1293427973,
+    "wof:lastmodified":1537586370,
+    "wof:name":"Wangoha",
+    "wof:parent_id":1108694683,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.90709,
+    22.85449,
+    91.90709,
+    22.85449
+],
+  "geometry": {"coordinates":[91.90709,22.85449],"type":"Point"}
+}

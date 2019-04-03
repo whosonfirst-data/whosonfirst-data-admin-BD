@@ -1,0 +1,70 @@
+{
+  "id": 1293034439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.46725,23.7857,89.46725,23.7857",
+    "geom:latitude":23.7857,
+    "geom:longitude":89.46725,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3082",
+    "gn:admin3_code":"308273.0",
+    "gn:admin4_code":"30827330.0",
+    "gn:asciiname":"Teli Jhaugram",
+    "gn:country_code":"BD",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1186312,
+    "gn:latitude":23.7857,
+    "gn:longitude":89.46725,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Teli Jh\u0101ugr\u0101m",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        1108694699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1186312
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"8bf34472926bfbd6b05de902c93b063b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694699,
+            "locality_id":1293034439,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1293034439,
+    "wof:lastmodified":1536943825,
+    "wof:name":"Teli Jhaugram",
+    "wof:parent_id":1108694699,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.46725,
+    23.7857,
+    89.46725,
+    23.7857
+],
+  "geometry": {"coordinates":[89.46725000000001,23.7857],"type":"Point"}
+}

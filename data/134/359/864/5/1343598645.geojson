@@ -1,0 +1,70 @@
+{
+  "id": 1343598645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.24151,22.87187,90.24151,22.87187",
+    "geom:latitude":22.87187,
+    "geom:longitude":90.24151,
+    "gn:admin1_code":"85",
+    "gn:admin2_code":"1006.0",
+    "gn:admin3_code":"100694.0",
+    "gn:admin4_code":"10069410.0",
+    "gn:asciiname":"Hastisunda",
+    "gn:country_code":"BD",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1201266,
+    "gn:latitude":22.87187,
+    "gn:longitude":90.24151,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"H\u0101stisunda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669019,
+        421187745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1201266
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"2511bfa5467f55678bda81beb8ed9820",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421187745,
+            "locality_id":1343598645,
+            "region_id":85669019
+        }
+    ],
+    "wof:id":1343598645,
+    "wof:lastmodified":1537042336,
+    "wof:name":"Hastisunda",
+    "wof:parent_id":421187745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.24151,
+    22.87187,
+    90.24151,
+    22.87187
+],
+  "geometry": {"coordinates":[90.24151000000001,22.87187],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1276908461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.87552,26.26067,88.87552,26.26067",
+    "geom:latitude":26.26067,
+    "geom:longitude":88.87552,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5573.0",
+    "gn:admin3_code":"557312.0",
+    "gn:admin4_code":"55731276.0",
+    "gn:asciiname":"Jalwapara",
+    "gn:country_code":"BD",
+    "gn:dem":62,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7105260,
+    "gn:latitude":26.26067,
+    "gn:longitude":88.87552,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Jalwap\u0101ra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Jalwap\u0101ra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7105260
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"8882f4d41a8ddea29fc3a4ba86bbd6b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694695,
+            "locality_id":1276908461,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1276908461,
+    "wof:lastmodified":1537586298,
+    "wof:name":"Jalwapara",
+    "wof:parent_id":1108694695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.87552,
+    26.26067,
+    88.87552,
+    26.26067
+],
+  "geometry": {"coordinates":[88.87551999999999,26.26067],"type":"Point"}
+}

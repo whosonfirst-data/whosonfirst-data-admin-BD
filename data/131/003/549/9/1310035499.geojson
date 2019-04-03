@@ -1,0 +1,73 @@
+{
+  "id": 1310035499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.83587,23.24076,89.83587,23.24076",
+    "geom:latitude":23.24076,
+    "geom:longitude":89.83587,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3035.0",
+    "gn:admin3_code":"303558.0",
+    "gn:admin4_code":"30355855.0",
+    "gn:asciiname":"Bara Sripur",
+    "gn:country_code":"BD",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7480697,
+    "gn:latitude":23.24076,
+    "gn:longitude":89.83587,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Bara Sripur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Bara Sripur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421194867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7480697
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"294ad4bd6c298d52d472c9865ae8c02b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421194867,
+            "locality_id":1310035499,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1310035499,
+    "wof:lastmodified":1537586457,
+    "wof:name":"Bara Sripur",
+    "wof:parent_id":421194867,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.83587,
+    23.24076,
+    89.83587,
+    23.24076
+],
+  "geometry": {"coordinates":[89.83587,23.24076],"type":"Point"}
+}

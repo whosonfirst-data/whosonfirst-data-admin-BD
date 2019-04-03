@@ -1,0 +1,73 @@
+{
+  "id": 1243602579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.97352,22.71523,91.97352,22.71523",
+    "geom:latitude":22.71523,
+    "geom:longitude":91.97352,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2084.0",
+    "gn:admin3_code":"208425.0",
+    "gn:admin4_code":"20842538.0",
+    "gn:asciiname":"Kalabaniapara",
+    "gn:country_code":"BD",
+    "gn:dem":63,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6414314,
+    "gn:latitude":22.71523,
+    "gn:longitude":91.97352,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Kalabaniap\u0101ra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Kalabaniap\u0101ra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421188983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6414314
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"657be38a16e1726a4ff0c1ed18fcf325",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421188983,
+            "locality_id":1243602579,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1243602579,
+    "wof:lastmodified":1537586224,
+    "wof:name":"Kalabaniapara",
+    "wof:parent_id":421188983,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.97352,
+    22.71523,
+    91.97352,
+    22.71523
+],
+  "geometry": {"coordinates":[91.97351999999999,22.71523],"type":"Point"}
+}

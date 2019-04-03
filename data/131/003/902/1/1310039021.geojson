@@ -1,0 +1,73 @@
+{
+  "id": 1310039021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.27124,25.87989,88.27124,25.87989",
+    "geom:latitude":25.87989,
+    "geom:longitude":88.27124,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5594.0",
+    "gn:admin3_code":"559486.0",
+    "gn:admin4_code":"55948663.0",
+    "gn:asciiname":"Kismat Singhpara",
+    "gn:country_code":"BD",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7487632,
+    "gn:latitude":25.87989,
+    "gn:longitude":88.27124,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Kismat Singhp\u0101ra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Kismat Singhp\u0101ra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7487632
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"ef807d1eb71008e318e944d12196189e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694703,
+            "locality_id":1310039021,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1310039021,
+    "wof:lastmodified":1537586644,
+    "wof:name":"Kismat Singhpara",
+    "wof:parent_id":1108694703,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.27124,
+    25.87989,
+    88.27124,
+    25.87989
+],
+  "geometry": {"coordinates":[88.27124000000001,25.87989],"type":"Point"}
+}

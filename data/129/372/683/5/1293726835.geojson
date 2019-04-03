@@ -1,0 +1,70 @@
+{
+  "id": 1293726835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.44623,24.47733,89.44623,24.47733",
+    "geom:latitude":24.47733,
+    "geom:longitude":89.44623,
+    "gn:admin1_code":"83",
+    "gn:admin2_code":"5088",
+    "gn:admin3_code":"508861.0",
+    "gn:admin4_code":"50886185.0",
+    "gn:asciiname":"Nimgachhi",
+    "gn:country_code":"BD",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1192801,
+    "gn:latitude":24.47733,
+    "gn:longitude":89.44623,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Nimg\u0101chhi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669031,
+        421201929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1192801
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"df47e995c149f833f9820c75f52c1c95",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421201929,
+            "locality_id":1293726835,
+            "region_id":85669031
+        }
+    ],
+    "wof:id":1293726835,
+    "wof:lastmodified":1536939902,
+    "wof:name":"Nimgachhi",
+    "wof:parent_id":421201929,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.44623,
+    24.47733,
+    89.44623,
+    24.47733
+],
+  "geometry": {"coordinates":[89.44623,24.47733],"type":"Point"}
+}

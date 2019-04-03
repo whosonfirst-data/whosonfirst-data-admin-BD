@@ -1,0 +1,73 @@
+{
+  "id": 1343389289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.37919,26.59047,88.37919,26.59047",
+    "geom:latitude":26.59047,
+    "geom:longitude":88.37919,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5577.0",
+    "gn:admin3_code":"557790.0",
+    "gn:admin4_code":"55779013.0",
+    "gn:asciiname":"Khangi Kismat",
+    "gn:country_code":"BD",
+    "gn:dem":104,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7486721,
+    "gn:latitude":26.59047,
+    "gn:longitude":88.37919,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Kh\u0101ngi Kismat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Kh\u0101ngi Kismat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632469,
+        85672219,
+        890511213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7486721
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"0622277751727a1401b0e134f7c613e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":890511213,
+            "locality_id":1343389289,
+            "region_id":85672219
+        }
+    ],
+    "wof:id":1343389289,
+    "wof:lastmodified":1537586619,
+    "wof:name":"Khangi Kismat",
+    "wof:parent_id":890511213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.37919000000002,
+    26.59047,
+    88.37919000000002,
+    26.59047
+],
+  "geometry": {"coordinates":[88.37919000000002,26.59047],"type":"Point"}
+}

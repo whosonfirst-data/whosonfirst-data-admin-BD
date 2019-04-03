@@ -1,0 +1,73 @@
+{
+  "id": 1242711483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.50877,25.8467,89.50877,25.8467",
+    "geom:latitude":25.8467,
+    "geom:longitude":89.50877,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5552",
+    "gn:admin3_code":"555255.0",
+    "gn:admin4_code":"55525583.0",
+    "gn:asciiname":"Dinadali",
+    "gn:country_code":"BD",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7923524,
+    "gn:latitude":25.8467,
+    "gn:longitude":89.50877,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Din\u0101d\u0101li",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Din\u0101d\u0101li"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7923524
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"85ba9ec9a555ae26d570e3b61857fbfb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694687,
+            "locality_id":1242711483,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1242711483,
+    "wof:lastmodified":1537586800,
+    "wof:name":"Dinadali",
+    "wof:parent_id":1108694687,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.50877,
+    25.8467,
+    89.50877,
+    25.8467
+],
+  "geometry": {"coordinates":[89.50877,25.8467],"type":"Point"}
+}

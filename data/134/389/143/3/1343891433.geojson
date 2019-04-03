@@ -1,0 +1,73 @@
+{
+  "id": 1343891433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.56551,23.18782,89.56551,23.18782",
+    "geom:latitude":23.18782,
+    "geom:longitude":89.56551,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4065.0",
+    "gn:admin3_code":"406576.0",
+    "gn:admin4_code":"40657606.0",
+    "gn:asciiname":"Daoatala",
+    "gn:country_code":"BD",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7480412,
+    "gn:latitude":23.18782,
+    "gn:longitude":89.56551,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Dao\u0101tala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Dao\u0101tala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        421205213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7480412
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"b07f5513f48e89932207b2b298e9df50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421205213,
+            "locality_id":1343891433,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1343891433,
+    "wof:lastmodified":1537586449,
+    "wof:name":"Daoatala",
+    "wof:parent_id":421205213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.56551,
+    23.18782,
+    89.56551,
+    23.18782
+],
+  "geometry": {"coordinates":[89.56551,23.18782],"type":"Point"}
+}

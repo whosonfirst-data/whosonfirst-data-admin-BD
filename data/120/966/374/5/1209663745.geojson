@@ -1,0 +1,61 @@
+{
+  "id": 1209663745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.5967,23.53827,90.5967,23.53827",
+    "geom:latitude":23.53827,
+    "geom:longitude":90.5967,
+    "gn:admin1_code":"84",
+    "gn:asciiname":"Nayanagar",
+    "gn:country_code":"BD",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1193006,
+    "gn:latitude":23.53827,
+    "gn:longitude":90.5967,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Nay\u0101nagar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1193006
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"756c916077bfb69204c45fa7e65eda4d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209663745
+        }
+    ],
+    "wof:id":1209663745,
+    "wof:lastmodified":1536280170,
+    "wof:name":"Nayanagar",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.5967,
+    23.53827,
+    90.5967,
+    23.53827
+],
+  "geometry": {"coordinates":[90.5967,23.53827],"type":"Point"}
+}

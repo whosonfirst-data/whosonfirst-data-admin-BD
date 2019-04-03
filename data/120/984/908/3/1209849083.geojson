@@ -1,0 +1,70 @@
+{
+  "id": 1209849083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.51074,24.85702,88.51074,24.85702",
+    "geom:latitude":24.85702,
+    "geom:longitude":88.51074,
+    "gn:admin1_code":"83",
+    "gn:admin2_code":"5064",
+    "gn:admin3_code":"506469.0",
+    "gn:admin4_code":"50646973.0",
+    "gn:asciiname":"Noapara",
+    "gn:country_code":"BD",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1191970,
+    "gn:latitude":24.85702,
+    "gn:longitude":88.51074,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"No\u0101p\u0101ra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669031,
+        421191663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1191970
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"120ce8bf3890efd73639e1e1b7dfd1c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421191663,
+            "locality_id":1209849083,
+            "region_id":85669031
+        }
+    ],
+    "wof:id":1209849083,
+    "wof:lastmodified":1536389298,
+    "wof:name":"Noapara",
+    "wof:parent_id":421191663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.51074,
+    24.85702,
+    88.51074,
+    24.85702
+],
+  "geometry": {"coordinates":[88.51074,24.85702],"type":"Point"}
+}

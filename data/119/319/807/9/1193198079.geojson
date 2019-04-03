@@ -1,0 +1,73 @@
+{
+  "id": 1193198079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"92.15982,21.60007,92.15982,21.60007",
+    "geom:latitude":21.60007,
+    "geom:longitude":92.15982,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2003.0",
+    "gn:admin3_code":"200373.0",
+    "gn:admin4_code":"20037319.0",
+    "gn:asciiname":"Pattargara",
+    "gn:country_code":"BD",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6415071,
+    "gn:latitude":21.60007,
+    "gn:longitude":92.15982,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Pattarg\u0101ra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Pattarg\u0101ra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421169477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6415071
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"bedc9ef17bbf55689c8ffe194e3dc49f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421169477,
+            "locality_id":1193198079,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1193198079,
+    "wof:lastmodified":1537586237,
+    "wof:name":"Pattargara",
+    "wof:parent_id":421169477,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    92.15982,
+    21.60007,
+    92.15982,
+    21.60007
+],
+  "geometry": {"coordinates":[92.15982,21.60007],"type":"Point"}
+}

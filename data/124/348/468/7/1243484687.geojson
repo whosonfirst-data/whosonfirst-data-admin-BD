@@ -1,0 +1,73 @@
+{
+  "id": 1243484687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.57514,22.29445,90.57514,22.29445",
+    "geom:latitude":22.29445,
+    "geom:longitude":90.57514,
+    "gn:admin1_code":"85",
+    "gn:admin2_code":"1078.0",
+    "gn:admin3_code":"107852.0",
+    "gn:admin4_code":"10785231.0",
+    "gn:asciiname":"Nijala",
+    "gn:country_code":"BD",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7478068,
+    "gn:latitude":22.29445,
+    "gn:longitude":90.57514,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Nij\u0101la",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Nij\u0101la"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669019,
+        421169845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7478068
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"57bb45a00f5c2d65bfad0ec3489d3636",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421169845,
+            "locality_id":1243484687,
+            "region_id":85669019
+        }
+    ],
+    "wof:id":1243484687,
+    "wof:lastmodified":1537586382,
+    "wof:name":"Nijala",
+    "wof:parent_id":421169845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.57514,
+    22.29445,
+    90.57514,
+    22.29445
+],
+  "geometry": {"coordinates":[90.57514,22.29445],"type":"Point"}
+}

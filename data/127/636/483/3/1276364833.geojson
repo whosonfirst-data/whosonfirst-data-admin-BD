@@ -1,0 +1,76 @@
+{
+  "id": 1276364833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.36353,24.46765,88.36353,24.46765",
+    "geom:latitude":24.46765,
+    "geom:longitude":88.36353,
+    "gn:admin1_code":"83",
+    "gn:admin2_code":"5081",
+    "gn:admin3_code":"508134.0",
+    "gn:admin4_code":"50813438.0",
+    "gn:asciiname":"Pusunda",
+    "gn:country_code":"BD",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1192210,
+    "gn:latitude":24.46765,
+    "gn:longitude":88.36353,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Pusunda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Pusunda"
+    ],
+    "name:ben_x_variant":[
+        "Pasunda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669031,
+        421172439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1192210
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"b1c12f7c4c8c41231e59144689a8b5be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421172439,
+            "locality_id":1276364833,
+            "region_id":85669031
+        }
+    ],
+    "wof:id":1276364833,
+    "wof:lastmodified":1537585831,
+    "wof:name":"Pusunda",
+    "wof:parent_id":421172439,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.36353000000003,
+    24.46765,
+    88.36353000000003,
+    24.46765
+],
+  "geometry": {"coordinates":[88.36353000000003,24.46765],"type":"Point"}
+}

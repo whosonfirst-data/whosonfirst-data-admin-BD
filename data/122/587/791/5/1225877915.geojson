@@ -1,0 +1,70 @@
+{
+  "id": 1225877915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.89013,23.86172,89.89013,23.86172",
+    "geom:latitude":23.86172,
+    "geom:longitude":89.89013,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3056.0",
+    "gn:admin3_code":"305678.0",
+    "gn:admin4_code":"30567823.0",
+    "gn:asciiname":"Chhota Dhulandi",
+    "gn:country_code":"BD",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1206013,
+    "gn:latitude":23.86172,
+    "gn:longitude":89.89013,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Chhota Dhulandi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421191745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1206013
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"bd4eaee2ff291c24ecdf0294917e92e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421191745,
+            "locality_id":1225877915,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1225877915,
+    "wof:lastmodified":1536967075,
+    "wof:name":"Chhota Dhulandi",
+    "wof:parent_id":421191745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.89013,
+    23.86172,
+    89.89013,
+    23.86172
+],
+  "geometry": {"coordinates":[89.89013,23.86172],"type":"Point"}
+}

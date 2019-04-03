@@ -1,0 +1,73 @@
+{
+  "id": 1209764121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.96383,21.7242,91.96383,21.7242",
+    "geom:latitude":21.7242,
+    "geom:longitude":91.96383,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2022.0",
+    "gn:admin3_code":"202216.0",
+    "gn:admin4_code":"20221605.0",
+    "gn:asciiname":"Pukuriapara",
+    "gn:country_code":"BD",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6416288,
+    "gn:latitude":21.7242,
+    "gn:longitude":91.96383,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Pukur\u012bap\u0101ra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Pukur\u012bap\u0101ra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421205057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6416288
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"6dfa0a225f196e5a06975cb0a8ed24ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421205057,
+            "locality_id":1209764121,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1209764121,
+    "wof:lastmodified":1537586260,
+    "wof:name":"Pukuriapara",
+    "wof:parent_id":421205057,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.96383,
+    21.7242,
+    91.96383,
+    21.7242
+],
+  "geometry": {"coordinates":[91.96383,21.7242],"type":"Point"}
+}

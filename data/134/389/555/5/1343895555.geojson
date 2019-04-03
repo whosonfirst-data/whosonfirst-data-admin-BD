@@ -1,0 +1,70 @@
+{
+  "id": 1343895555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.58492,23.84993,90.58492,23.84993",
+    "geom:latitude":23.84993,
+    "geom:longitude":90.58492,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3067",
+    "gn:admin3_code":"306768.0",
+    "gn:admin4_code":"30676807.0",
+    "gn:asciiname":"Kutubpur",
+    "gn:country_code":"BD",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1196446,
+    "gn:latitude":23.84993,
+    "gn:longitude":90.58492,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Kutubpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421197045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1196446
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"6ae5dc3229fc642e154b2c55627b6ba4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421197045,
+            "locality_id":1343895555,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1343895555,
+    "wof:lastmodified":1536613434,
+    "wof:name":"Kutubpur",
+    "wof:parent_id":421197045,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.58492,
+    23.84993,
+    90.58492,
+    23.84993
+],
+  "geometry": {"coordinates":[90.58492,23.84993],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1260009583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.88333,22.38333,90.88333,22.38333",
+    "geom:latitude":22.38333,
+    "geom:longitude":90.88333,
+    "gn:admin1_code":"85",
+    "gn:admin2_code":"1009",
+    "gn:admin3_code":"100991.0",
+    "gn:admin4_code":"10099138.0",
+    "gn:asciiname":"Kanchanpur",
+    "gn:country_code":"BD",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1198718,
+    "gn:latitude":22.38333,
+    "gn:longitude":90.88333,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"K\u0101nchanpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669019,
+        421184491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1198718
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"164ab5f589baf1ea18c7bcce4aa7c44f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421184491,
+            "locality_id":1260009583,
+            "region_id":85669019
+        }
+    ],
+    "wof:id":1260009583,
+    "wof:lastmodified":1537091246,
+    "wof:name":"Kanchanpur",
+    "wof:parent_id":421184491,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.88333,
+    22.38333,
+    90.88333,
+    22.38333
+],
+  "geometry": {"coordinates":[90.88333,22.38333],"type":"Point"}
+}

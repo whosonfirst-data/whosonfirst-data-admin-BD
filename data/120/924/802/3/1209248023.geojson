@@ -1,0 +1,67 @@
+{
+  "id": 1209248023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.74311,25.98953,88.74311,25.98953",
+    "geom:latitude":25.98953,
+    "geom:longitude":88.74311,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5527.0",
+    "gn:admin3_code":"552760.0",
+    "gn:admin4_code":"55276015.0",
+    "gn:asciiname":"Chandipur",
+    "gn:country_code":"BD",
+    "gn:dem":58,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7106036,
+    "gn:latitude":25.98953,
+    "gn:longitude":88.74311,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Chandipur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Chandipur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7106036
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"157f640ff6a67b08754ab97b08dc48b0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209248023
+        }
+    ],
+    "wof:id":1209248023,
+    "wof:lastmodified":1537586320,
+    "wof:name":"Chandipur",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.74311,
+    25.98953,
+    88.74311,
+    25.98953
+],
+  "geometry": {"coordinates":[88.74311,25.98953],"type":"Point"}
+}

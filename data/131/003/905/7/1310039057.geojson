@@ -1,0 +1,70 @@
+{
+  "id": 1310039057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.9,23.83333,89.9,23.83333",
+    "geom:latitude":23.83333,
+    "geom:longitude":89.9,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3056",
+    "gn:admin3_code":"305678.0",
+    "gn:admin4_code":"30567835.0",
+    "gn:asciiname":"Madhya Simulia",
+    "gn:country_code":"BD",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1195752,
+    "gn:latitude":23.83333,
+    "gn:longitude":89.9,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Madhya Simulia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421191745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1195752
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"fd952e6d44f302063a6c881dd8f2d7dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421191745,
+            "locality_id":1310039057,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1310039057,
+    "wof:lastmodified":1537089134,
+    "wof:name":"Madhya Simulia",
+    "wof:parent_id":421191745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.9,
+    23.83333,
+    89.9,
+    23.83333
+],
+  "geometry": {"coordinates":[89.90000000000001,23.83333],"type":"Point"}
+}

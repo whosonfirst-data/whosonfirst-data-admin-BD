@@ -1,0 +1,64 @@
+{
+  "id": 1209152707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.68806,22.52639,91.68806,22.52639",
+    "geom:latitude":22.52639,
+    "geom:longitude":91.68806,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2015.0",
+    "gn:admin3_code":"201586.0",
+    "gn:admin4_code":"20158609.0",
+    "gn:asciiname":"Akilpara",
+    "gn:country_code":"BD",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6413603,
+    "gn:latitude":22.52639,
+    "gn:longitude":91.68806,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Akilp\u0101ra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6413603
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"8100183e2bd021cf60485466040185b8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209152707
+        }
+    ],
+    "wof:id":1209152707,
+    "wof:lastmodified":1536296157,
+    "wof:name":"Akilpara",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.68806,
+    22.52639,
+    91.68806,
+    22.52639
+],
+  "geometry": {"coordinates":[91.68805999999999,22.52639],"type":"Point"}
+}

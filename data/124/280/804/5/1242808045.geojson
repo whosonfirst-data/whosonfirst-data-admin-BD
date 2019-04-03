@@ -1,0 +1,70 @@
+{
+  "id": 1242808045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.43657,22.92006,90.43657,22.92006",
+    "geom:latitude":22.92006,
+    "geom:longitude":90.43657,
+    "gn:admin1_code":"85",
+    "gn:admin2_code":"1006",
+    "gn:admin3_code":"100636.0",
+    "gn:admin4_code":"10063654.0",
+    "gn:asciiname":"Tulsi Ghata",
+    "gn:country_code":"BD",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1185940,
+    "gn:latitude":22.92006,
+    "gn:longitude":90.43657,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Tulsi Gh\u0101ta",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669019,
+        421187745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1185940
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"44249739fceec9e5d878c2053de17cac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421187745,
+            "locality_id":1242808045,
+            "region_id":85669019
+        }
+    ],
+    "wof:id":1242808045,
+    "wof:lastmodified":1536732122,
+    "wof:name":"Tulsi Ghata",
+    "wof:parent_id":421187745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.43657,
+    22.92006,
+    90.43657,
+    22.92006
+],
+  "geometry": {"coordinates":[90.43657,22.92006],"type":"Point"}
+}

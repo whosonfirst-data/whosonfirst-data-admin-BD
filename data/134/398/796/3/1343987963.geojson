@@ -1,0 +1,74 @@
+{
+  "id": 1343987963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.31585,24.11587,89.31585,24.11587",
+    "geom:latitude":24.11587,
+    "geom:longitude":89.31585,
+    "gn:admin1_code":"83",
+    "gn:admin2_code":"5076",
+    "gn:admin3_code":"507605.0",
+    "gn:admin4_code":"50760547.0",
+    "gn:asciiname":"Shujapur",
+    "gn:country_code":"BD",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1188106,
+    "gn:latitude":24.11587,
+    "gn:longitude":89.31585,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Shuj\u0101pur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sujapur",
+        "Shuj\u0101pur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669031,
+        421197541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1188106
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"b3837799c18d77a517faae0e900642a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421197541,
+            "locality_id":1343987963,
+            "region_id":85669031
+        }
+    ],
+    "wof:id":1343987963,
+    "wof:lastmodified":1537585752,
+    "wof:name":"Shujapur",
+    "wof:parent_id":421197541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.31585,
+    24.11587,
+    89.31585,
+    24.11587
+],
+  "geometry": {"coordinates":[89.31585,24.11587],"type":"Point"}
+}

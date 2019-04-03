@@ -1,0 +1,73 @@
+{
+  "id": 1226179833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.68694,23.96125,89.68694,23.96125",
+    "geom:latitude":23.96125,
+    "geom:longitude":89.68694,
+    "gn:admin1_code":"83",
+    "gn:admin2_code":"5076.0",
+    "gn:admin3_code":"507616.0",
+    "gn:admin4_code":"50761673.0",
+    "gn:asciiname":"Bharenga",
+    "gn:country_code":"BD",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7480042,
+    "gn:latitude":23.96125,
+    "gn:longitude":89.68694,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Bh\u0101renga",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Bh\u0101renga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669031,
+        421197541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7480042
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"82012e6cd33223cc48a59ac980053cda",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421197541,
+            "locality_id":1226179833,
+            "region_id":85669031
+        }
+    ],
+    "wof:id":1226179833,
+    "wof:lastmodified":1537586438,
+    "wof:name":"Bharenga",
+    "wof:parent_id":421197541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.68694,
+    23.96125,
+    89.68694,
+    23.96125
+],
+  "geometry": {"coordinates":[89.68694000000001,23.96125],"type":"Point"}
+}

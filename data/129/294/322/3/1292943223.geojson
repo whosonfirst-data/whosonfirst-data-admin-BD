@@ -1,0 +1,73 @@
+{
+  "id": 1292943223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.58642,25.25146,89.58642,25.25146",
+    "geom:latitude":25.25146,
+    "geom:longitude":89.58642,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5532",
+    "gn:admin3_code":"553221.0",
+    "gn:admin4_code":"55322171.0",
+    "gn:asciiname":"Sinria",
+    "gn:country_code":"BD",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7905435,
+    "gn:latitude":25.25146,
+    "gn:longitude":89.58642,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Sinria",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Sinria"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7905435
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"acc2114600447cb5f4bb932abed9c699",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694675,
+            "locality_id":1292943223,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1292943223,
+    "wof:lastmodified":1537586772,
+    "wof:name":"Sinria",
+    "wof:parent_id":1108694675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.58641999999998,
+    25.25146,
+    89.58641999999998,
+    25.25146
+],
+  "geometry": {"coordinates":[89.58641999999998,25.25146],"type":"Point"}
+}

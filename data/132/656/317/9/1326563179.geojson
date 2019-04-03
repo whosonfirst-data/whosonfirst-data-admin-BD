@@ -1,0 +1,74 @@
+{
+  "id": 1326563179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.32262,23.72888,90.32262,23.72888",
+    "geom:latitude":23.72888,
+    "geom:longitude":90.32262,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3026.0",
+    "gn:admin3_code":"302638.0",
+    "gn:admin4_code":"30263877.0",
+    "gn:asciiname":"Chhota Manoharia",
+    "gn:country_code":"BD",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1205910,
+    "gn:latitude":23.72888,
+    "gn:longitude":90.32262,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Chhota Manoh\u0101ria",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chota Monoharia",
+        "Chhota Manoh\u0101ria"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421187803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1205910
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"fef4bda31fd867f09830867844d06030",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421187803,
+            "locality_id":1326563179,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1326563179,
+    "wof:lastmodified":1537586083,
+    "wof:name":"Chhota Manoharia",
+    "wof:parent_id":421187803,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.32262,
+    23.72888,
+    90.32262,
+    23.72888
+],
+  "geometry": {"coordinates":[90.32262,23.72888],"type":"Point"}
+}

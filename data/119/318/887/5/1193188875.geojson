@@ -1,0 +1,70 @@
+{
+  "id": 1193188875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"92.18333,23.21667,92.18333,23.21667",
+    "geom:latitude":23.21667,
+    "geom:longitude":92.18333,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2084",
+    "gn:admin3_code":"208407.0",
+    "gn:admin4_code":"20840723.0",
+    "gn:asciiname":"Tintilla",
+    "gn:country_code":"BD",
+    "gn:dem":41,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1186048,
+    "gn:latitude":23.21667,
+    "gn:longitude":92.18333,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Tintilla",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421188983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1186048
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"db9896ae40741ca9583c8dbd8ca30d98",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421188983,
+            "locality_id":1193188875,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1193188875,
+    "wof:lastmodified":1536364022,
+    "wof:name":"Tintilla",
+    "wof:parent_id":421188983,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    92.18333,
+    23.21667,
+    92.18333,
+    23.21667
+],
+  "geometry": {"coordinates":[92.18333,23.21667],"type":"Point"}
+}

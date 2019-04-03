@@ -1,0 +1,73 @@
+{
+  "id": 1344094139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.4757,23.18494,89.4757,23.18494",
+    "geom:latitude":23.18494,
+    "geom:longitude":89.4757,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4065.0",
+    "gn:admin3_code":"406576.0",
+    "gn:admin4_code":"40657674.0",
+    "gn:asciiname":"Bishnupur",
+    "gn:country_code":"BD",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1208308,
+    "gn:latitude":23.18494,
+    "gn:longitude":89.4757,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Bishnupur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Bishnupur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        421205213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1208308
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"d0f72373094f62ac8767a6ce51013eea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421205213,
+            "locality_id":1344094139,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1344094139,
+    "wof:lastmodified":1537586127,
+    "wof:name":"Bishnupur",
+    "wof:parent_id":421205213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.4757,
+    23.18494,
+    89.4757,
+    23.18494
+],
+  "geometry": {"coordinates":[89.4757,23.18494],"type":"Point"}
+}

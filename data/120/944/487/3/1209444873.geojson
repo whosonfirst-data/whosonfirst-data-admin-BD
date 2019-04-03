@@ -1,0 +1,68 @@
+{
+  "id": 1209444873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.78846,23.9743,89.78846,23.9743",
+    "geom:latitude":23.9743,
+    "geom:longitude":89.78846,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3056",
+    "gn:admin3_code":"305610.0",
+    "gn:admin4_code":"30561066.0",
+    "gn:asciiname":"Bara Lautara",
+    "gn:country_code":"BD",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1196075,
+    "gn:latitude":23.9743,
+    "gn:longitude":89.78846,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Bara L\u0101ut\u0101ra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bara L\u0101ut\u0101ra",
+        "L\u0101ut\u0101ra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1196075
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"7e7b4ac0e1457cf09c19d869b2b3c7a2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209444873
+        }
+    ],
+    "wof:id":1209444873,
+    "wof:lastmodified":1537585900,
+    "wof:name":"Bara Lautara",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.78846,
+    23.9743,
+    89.78846,
+    23.9743
+],
+  "geometry": {"coordinates":[89.78846,23.9743],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1226791707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"92.06705,22.53616,92.06705,22.53616",
+    "geom:latitude":22.53616,
+    "geom:longitude":92.06705,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2015.0",
+    "gn:admin3_code":"201570.0",
+    "gn:admin4_code":"20157069.0",
+    "gn:asciiname":"Lalanagar",
+    "gn:country_code":"BD",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6413968,
+    "gn:latitude":22.53616,
+    "gn:longitude":92.06705,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"L\u0101l\u0101nagar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "L\u0101l\u0101nagar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421201541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6413968
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"bb6c8e5d5f7bc788e0cd4314b80631aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421201541,
+            "locality_id":1226791707,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1226791707,
+    "wof:lastmodified":1537586218,
+    "wof:name":"Lalanagar",
+    "wof:parent_id":421201541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    92.06705,
+    22.53616,
+    92.06705,
+    22.53616
+],
+  "geometry": {"coordinates":[92.06704999999999,22.53616],"type":"Point"}
+}

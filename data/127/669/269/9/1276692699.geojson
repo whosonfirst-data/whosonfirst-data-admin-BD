@@ -1,0 +1,70 @@
+{
+  "id": 1276692699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.52459,23.32881,89.52459,23.32881",
+    "geom:latitude":23.32881,
+    "geom:longitude":89.52459,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4055.0",
+    "gn:admin3_code":"405566.0",
+    "gn:admin4_code":"40556663.0",
+    "gn:asciiname":"Dari Saldha",
+    "gn:country_code":"BD",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1205033,
+    "gn:latitude":23.32881,
+    "gn:longitude":89.52459,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Dari S\u0101ldha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        1108694689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1205033
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"8b6199b4fa4779cc2111605fe4d41859",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694689,
+            "locality_id":1276692699,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1276692699,
+    "wof:lastmodified":1536794449,
+    "wof:name":"Dari Saldha",
+    "wof:parent_id":1108694689,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.52459,
+    23.32881,
+    89.52459,
+    23.32881
+],
+  "geometry": {"coordinates":[89.52459,23.32881],"type":"Point"}
+}

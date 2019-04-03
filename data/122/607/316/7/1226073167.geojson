@@ -1,0 +1,73 @@
+{
+  "id": 1226073167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.64916,22.75786,89.64916,22.75786",
+    "geom:latitude":22.75786,
+    "geom:longitude":89.64916,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4047.0",
+    "gn:admin3_code":"404775.0",
+    "gn:admin4_code":"40477581.0",
+    "gn:asciiname":"Ballabhpur",
+    "gn:country_code":"BD",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7486345,
+    "gn:latitude":22.75786,
+    "gn:longitude":89.64916,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Ballabhpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Ballabhpur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        421185473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7486345
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"009f3ffad08d50b4935c08e50a0599b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421185473,
+            "locality_id":1226073167,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1226073167,
+    "wof:lastmodified":1537586611,
+    "wof:name":"Ballabhpur",
+    "wof:parent_id":421185473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.64916,
+    22.75786,
+    89.64916,
+    22.75786
+],
+  "geometry": {"coordinates":[89.64915999999999,22.75786],"type":"Point"}
+}

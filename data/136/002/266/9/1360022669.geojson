@@ -1,0 +1,73 @@
+{
+  "id": 1360022669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.89873,23.48363,88.89873,23.48363",
+    "geom:latitude":23.48363,
+    "geom:longitude":88.89873,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4018.0",
+    "gn:admin3_code":"401855.0",
+    "gn:admin4_code":"40185519.0",
+    "gn:asciiname":"Hardaha",
+    "gn:country_code":"BD",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7485135,
+    "gn:latitude":23.48363,
+    "gn:longitude":88.89873,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"H\u0101rdaha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "H\u0101rdaha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        421194153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7485135
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"5639464b69d4875966200f7990ee70f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421194153,
+            "locality_id":1360022669,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1360022669,
+    "wof:lastmodified":1537586583,
+    "wof:name":"Hardaha",
+    "wof:parent_id":421194153,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.89873,
+    23.48363,
+    88.89873,
+    23.48363
+],
+  "geometry": {"coordinates":[88.89873,23.48363],"type":"Point"}
+}

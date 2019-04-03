@@ -1,0 +1,73 @@
+{
+  "id": 1293132191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.409,21.92759,90.409,21.92759",
+    "geom:latitude":21.92759,
+    "geom:longitude":90.409,
+    "gn:admin1_code":"85",
+    "gn:admin2_code":"1078.0",
+    "gn:admin3_code":"107897.0",
+    "gn:admin4_code":"10789783.0",
+    "gn:asciiname":"Chauha",
+    "gn:country_code":"BD",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7634713,
+    "gn:latitude":21.92759,
+    "gn:longitude":90.409,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Chauha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Chauha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669019,
+        421169845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7634713
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"348c1cb844b96f7f1133fb8d114218e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421169845,
+            "locality_id":1293132191,
+            "region_id":85669019
+        }
+    ],
+    "wof:id":1293132191,
+    "wof:lastmodified":1537586713,
+    "wof:name":"Chauha",
+    "wof:parent_id":421169845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.409,
+    21.92759,
+    90.409,
+    21.92759
+],
+  "geometry": {"coordinates":[90.40900000000001,21.92759],"type":"Point"}
+}

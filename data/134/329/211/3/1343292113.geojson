@@ -1,0 +1,73 @@
+{
+  "id": 1343292113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.64257,25.88134,89.64257,25.88134",
+    "geom:latitude":25.88134,
+    "geom:longitude":89.64257,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5549",
+    "gn:admin3_code":"554952.0",
+    "gn:admin4_code":"55495238.0",
+    "gn:asciiname":"Khamar Holokhana",
+    "gn:country_code":"BD",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7923434,
+    "gn:latitude":25.88134,
+    "gn:longitude":89.64257,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Kh\u0101m\u0101r Holokh\u0101na",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Kh\u0101m\u0101r Holokh\u0101na"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7923434
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"c0309213e9fa74f4b7e537683c7d9e3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694685,
+            "locality_id":1343292113,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1343292113,
+    "wof:lastmodified":1537586798,
+    "wof:name":"Khamar Holokhana",
+    "wof:parent_id":1108694685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.64256999999998,
+    25.88134,
+    89.64256999999998,
+    25.88134
+],
+  "geometry": {"coordinates":[89.64256999999998,25.88134],"type":"Point"}
+}

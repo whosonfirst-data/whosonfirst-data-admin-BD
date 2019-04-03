@@ -1,0 +1,70 @@
+{
+  "id": 1276259303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.99647,24.47965,89.99647,24.47965",
+    "geom:latitude":24.47965,
+    "geom:longitude":89.99647,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3093.0",
+    "gn:admin3_code":"309328.0",
+    "gn:admin4_code":"30932860.0",
+    "gn:asciiname":"Bhani Katra",
+    "gn:country_code":"BD",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1209207,
+    "gn:latitude":24.47965,
+    "gn:longitude":89.99647,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Bh\u0101ni K\u0101tra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421185471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1209207
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"0642b36ae24cde8b381cc1feb2797742",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421185471,
+            "locality_id":1276259303,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1276259303,
+    "wof:lastmodified":1536877038,
+    "wof:name":"Bhani Katra",
+    "wof:parent_id":421185471,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.99647,
+    24.47965,
+    89.99647,
+    24.47965
+],
+  "geometry": {"coordinates":[89.99647,24.47965],"type":"Point"}
+}

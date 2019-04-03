@@ -1,0 +1,73 @@
+{
+  "id": 1327364021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.31915,24.68115,88.31915,24.68115",
+    "geom:latitude":24.68115,
+    "geom:longitude":88.31915,
+    "gn:admin1_code":"83",
+    "gn:admin2_code":"5070.0",
+    "gn:admin3_code":"507066.0",
+    "gn:admin4_code":"50706633.0",
+    "gn:asciiname":"Chandadaha Bill Chhatra",
+    "gn:country_code":"BD",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7482360,
+    "gn:latitude":24.68115,
+    "gn:longitude":88.31915,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Chandadaha Bill Chhatra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Chandadaha Bill Chhatra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669031,
+        421191607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7482360
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"c228b620a7d8ed96ae659d7f880a10ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421191607,
+            "locality_id":1327364021,
+            "region_id":85669031
+        }
+    ],
+    "wof:id":1327364021,
+    "wof:lastmodified":1537586505,
+    "wof:name":"Chandadaha Bill Chhatra",
+    "wof:parent_id":421191607,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.31915,
+    24.68115,
+    88.31915,
+    24.68115
+],
+  "geometry": {"coordinates":[88.31914999999999,24.68115],"type":"Point"}
+}

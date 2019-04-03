@@ -1,0 +1,73 @@
+{
+  "id": 1310435409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.29615,25.63222,89.29615,25.63222",
+    "geom:latitude":25.63222,
+    "geom:longitude":89.29615,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5585.0",
+    "gn:admin3_code":"558558.0",
+    "gn:admin4_code":"55855855.0",
+    "gn:asciiname":"Narayanpur",
+    "gn:country_code":"BD",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7889423,
+    "gn:latitude":25.63222,
+    "gn:longitude":89.29615,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"N\u0101r\u0101yanpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "N\u0101r\u0101yanpur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7889423
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"c6cd021b640b12e1dd38dac15fce16f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694701,
+            "locality_id":1310435409,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1310435409,
+    "wof:lastmodified":1537586733,
+    "wof:name":"Narayanpur",
+    "wof:parent_id":1108694701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.29615,
+    25.63222,
+    89.29615,
+    25.63222
+],
+  "geometry": {"coordinates":[89.29615,25.63222],"type":"Point"}
+}

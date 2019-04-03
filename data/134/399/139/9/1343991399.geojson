@@ -1,0 +1,76 @@
+{
+  "id": 1343991399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.28181,22.42534,89.28181,22.42534",
+    "geom:latitude":22.42534,
+    "geom:longitude":89.28181,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4047.0",
+    "gn:admin3_code":"404753.0",
+    "gn:admin4_code":"40475311.0",
+    "gn:asciiname":"Dakshin Bamia",
+    "gn:country_code":"BD",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1211167,
+    "gn:latitude":22.42534,
+    "gn:longitude":89.28181,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Dakshin B\u0101mia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Dakshin B\u0101mia"
+    ],
+    "name:ben_x_variant":[
+        "B\u0101mia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        421185473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1211167
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"9550662e592e728e2cbc5eafe32b10f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421185473,
+            "locality_id":1343991399,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1343991399,
+    "wof:lastmodified":1537586173,
+    "wof:name":"Dakshin Bamia",
+    "wof:parent_id":421185473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.28181,
+    22.42534,
+    89.28181,
+    22.42534
+],
+  "geometry": {"coordinates":[89.28180999999999,22.42534],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1309844173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"92.37828,23.06901,92.37828,23.06901",
+    "geom:latitude":23.06901,
+    "geom:longitude":92.37828,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2084.0",
+    "gn:admin3_code":"208421.0",
+    "gn:admin4_code":"20842131.0",
+    "gn:asciiname":"Bhadipara",
+    "gn:country_code":"BD",
+    "gn:dem":58,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7477172,
+    "gn:latitude":23.06901,
+    "gn:longitude":92.37828,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Bh\u0101d\u012bp\u0101ra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Bh\u0101d\u012bp\u0101ra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421188983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7477172
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"49c62b38733b6fb35648a0ee8e1a159f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421188983,
+            "locality_id":1309844173,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1309844173,
+    "wof:lastmodified":1537586362,
+    "wof:name":"Bhadipara",
+    "wof:parent_id":421188983,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    92.37828,
+    23.06901,
+    92.37828,
+    23.06901
+],
+  "geometry": {"coordinates":[92.37828,23.06901],"type":"Point"}
+}

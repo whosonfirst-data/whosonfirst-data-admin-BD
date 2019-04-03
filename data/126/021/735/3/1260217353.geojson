@@ -1,0 +1,73 @@
+{
+  "id": 1260217353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.75876,24.53967,88.75876,24.53967",
+    "geom:latitude":24.53967,
+    "geom:longitude":88.75876,
+    "gn:admin1_code":"83",
+    "gn:admin2_code":"5081",
+    "gn:admin3_code":"508112.0",
+    "gn:admin4_code":"50811250.0",
+    "gn:asciiname":"Mahabbatpur",
+    "gn:country_code":"BD",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1195671,
+    "gn:latitude":24.53967,
+    "gn:longitude":88.75876,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Mahabbatpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Mahabbatpur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669031,
+        421172439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1195671
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"552fc39a2bfb376076bc8560a6309ec9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421172439,
+            "locality_id":1260217353,
+            "region_id":85669031
+        }
+    ],
+    "wof:id":1260217353,
+    "wof:lastmodified":1537585894,
+    "wof:name":"Mahabbatpur",
+    "wof:parent_id":421172439,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.75876,
+    24.53967,
+    88.75876,
+    24.53967
+],
+  "geometry": {"coordinates":[88.75876,24.53967],"type":"Point"}
+}

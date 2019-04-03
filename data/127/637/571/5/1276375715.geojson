@@ -1,0 +1,83 @@
+{
+  "id": 1276375715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.17193,24.05296,91.17193,24.05296",
+    "geom:latitude":24.05296,
+    "geom:longitude":91.17193,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2012",
+    "gn:admin3_code":"201294.0",
+    "gn:admin4_code":"20129485.0",
+    "gn:asciiname":"Shahbazpur Town",
+    "gn:country_code":"BD",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1188204,
+    "gn:latitude":24.05296,
+    "gn:longitude":91.17193,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Sh\u0101hb\u0101zpur Town",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_colloquial":[
+        "\u09b6\u09be\u09b9\u09cd\u200c\u09ac\u09be\u099c\u09aa\u09c1\u09b0 \u099f\u09be\u0989\u09a8"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b6\u09be\u09b9\u09cd\u200c\u09ac\u09be\u099c\u09aa\u09c1\u09b0 \u099f\u09be\u0989\u09a8"
+    ],
+    "name:eng_x_preferred":[
+        "Shahbazpur Town"
+    ],
+    "name:und_x_variant":[
+        "Sh\u0101hb\u0101zpur Town"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        1108694667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1188204,
+        "wk:page":"Shahbazpur_Town"
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"307bf59acc1d970ed1f8715f5033e47f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694667,
+            "locality_id":1276375715,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1276375715,
+    "wof:lastmodified":1537585756,
+    "wof:name":"Shahbazpur Town",
+    "wof:parent_id":1108694667,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.17193,
+    24.05296,
+    91.17193,
+    24.05296
+],
+  "geometry": {"coordinates":[91.17193,24.05296],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1260316751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.34958,23.18361,90.34958,23.18361",
+    "geom:latitude":23.18361,
+    "geom:longitude":90.34958,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3086",
+    "gn:admin3_code":"308669.0",
+    "gn:admin4_code":"30866976.0",
+    "gn:asciiname":"Rudrakar",
+    "gn:country_code":"BD",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1189517,
+    "gn:latitude":23.18361,
+    "gn:longitude":90.34958,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Rudrakar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421188359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1189517
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"ca0969dbfdb1c9b8786a6bb50c6fe3d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421188359,
+            "locality_id":1260316751,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1260316751,
+    "wof:lastmodified":1536667443,
+    "wof:name":"Rudrakar",
+    "wof:parent_id":421188359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.34958,
+    23.18361,
+    90.34958,
+    23.18361
+],
+  "geometry": {"coordinates":[90.34958,23.18361],"type":"Point"}
+}

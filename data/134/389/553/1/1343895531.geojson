@@ -1,0 +1,70 @@
+{
+  "id": 1343895531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.74766,22.57956,90.74766,22.57956",
+    "geom:latitude":22.57956,
+    "geom:longitude":90.74766,
+    "gn:admin1_code":"85",
+    "gn:admin2_code":"1009.0",
+    "gn:admin3_code":"100929.0",
+    "gn:admin4_code":"10092995.0",
+    "gn:asciiname":"Char Subhi",
+    "gn:country_code":"BD",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1206438,
+    "gn:latitude":22.57956,
+    "gn:longitude":90.74766,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Char Subhi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669019,
+        421184491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1206438
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"768344852e38b527326f6ec3b779e7ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421184491,
+            "locality_id":1343895531,
+            "region_id":85669019
+        }
+    ],
+    "wof:id":1343895531,
+    "wof:lastmodified":1536613473,
+    "wof:name":"Char Subhi",
+    "wof:parent_id":421184491,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.74766,
+    22.57956,
+    90.74766,
+    22.57956
+],
+  "geometry": {"coordinates":[90.74766,22.57956],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1259725829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"92.10133,22.14167,92.10133,22.14167",
+    "geom:latitude":22.14167,
+    "geom:longitude":92.10133,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2015.0",
+    "gn:admin3_code":"201582.0",
+    "gn:admin4_code":"20158240.0",
+    "gn:asciiname":"Dharmapur",
+    "gn:country_code":"BD",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1204301,
+    "gn:latitude":22.14167,
+    "gn:longitude":92.10133,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Dharm\u0101pur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Dharm\u0101pur"
+    ],
+    "name:und_x_variant":[
+        "Dharmmapur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421201541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1204301
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"71207e9ce2d8983e7e1730a1cf3cecd8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421201541,
+            "locality_id":1259725829,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1259725829,
+    "wof:lastmodified":1537586054,
+    "wof:name":"Dharmapur",
+    "wof:parent_id":421201541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    92.10133,
+    22.14167,
+    92.10133,
+    22.14167
+],
+  "geometry": {"coordinates":[92.10133,22.14167],"type":"Point"}
+}

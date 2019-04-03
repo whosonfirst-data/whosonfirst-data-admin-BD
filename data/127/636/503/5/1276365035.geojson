@@ -1,0 +1,73 @@
+{
+  "id": 1276365035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.81922,25.0435,89.81922,25.0435",
+    "geom:latitude":25.0435,
+    "geom:longitude":89.81922,
+    "gn:admin1_code":"H",
+    "gn:admin2_code":"3039.0",
+    "gn:admin3_code":"303961.0",
+    "gn:admin4_code":"30396128.0",
+    "gn:asciiname":"Durmat",
+    "gn:country_code":"BD",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1203607,
+    "gn:latitude":25.0435,
+    "gn:longitude":89.81922,
+    "gn:modification_date":"2016-11-17",
+    "gn:name":"Durmat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Durmut"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        1108803101,
+        421191923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1203607
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"fe589d194d3dfb2a3ed046abc37be8ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421191923,
+            "locality_id":1276365035,
+            "region_id":1108803101
+        }
+    ],
+    "wof:id":1276365035,
+    "wof:lastmodified":1537586044,
+    "wof:name":"Durmat",
+    "wof:parent_id":421191923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.81922,
+    25.0435,
+    89.81922,
+    25.0435
+],
+  "geometry": {"coordinates":[89.81922,25.0435],"type":"Point"}
+}

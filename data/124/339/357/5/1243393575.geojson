@@ -1,0 +1,73 @@
+{
+  "id": 1243393575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.50865,23.9493,89.50865,23.9493",
+    "geom:latitude":23.9493,
+    "geom:longitude":89.50865,
+    "gn:admin1_code":"83",
+    "gn:admin2_code":"5076.0",
+    "gn:admin3_code":"507683.0",
+    "gn:admin4_code":"50768319.0",
+    "gn:asciiname":"Bara Jor Pukuria",
+    "gn:country_code":"BD",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7479523,
+    "gn:latitude":23.9493,
+    "gn:longitude":89.50865,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Bara Jor Pukuria",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Bara Jor Pukuria"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669031,
+        421197541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7479523
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"7c68b2e8c84c11e068aea0a27d8fec84",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421197541,
+            "locality_id":1243393575,
+            "region_id":85669031
+        }
+    ],
+    "wof:id":1243393575,
+    "wof:lastmodified":1537586422,
+    "wof:name":"Bara Jor Pukuria",
+    "wof:parent_id":421197541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.50865,
+    23.9493,
+    89.50865,
+    23.9493
+],
+  "geometry": {"coordinates":[89.50865,23.9493],"type":"Point"}
+}

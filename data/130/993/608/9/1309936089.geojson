@@ -1,0 +1,67 @@
+{
+  "id": 1309936089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.27494,24.64734,91.27494,24.64734",
+    "geom:latitude":24.64734,
+    "geom:longitude":91.27494,
+    "gn:admin1_code":"83",
+    "gn:asciiname":"Kandigaon",
+    "gn:country_code":"BD",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8430568,
+    "gn:latitude":24.64734,
+    "gn:longitude":91.27494,
+    "gn:modification_date":"2012-12-07",
+    "gn:name":"K\u0101ndigaon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669025,
+        421201931
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8430568
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"042be98c51b31fec7621a24e24fda49c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421201931,
+            "locality_id":1309936089,
+            "region_id":85669025
+        }
+    ],
+    "wof:id":1309936089,
+    "wof:lastmodified":1536743208,
+    "wof:name":"Kandigaon",
+    "wof:parent_id":421201931,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.27494,
+    24.64734,
+    91.27494,
+    24.64734
+],
+  "geometry": {"coordinates":[91.27494,24.64734],"type":"Point"}
+}

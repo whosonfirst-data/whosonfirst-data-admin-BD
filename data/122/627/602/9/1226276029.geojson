@@ -1,0 +1,70 @@
+{
+  "id": 1226276029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.75573,24.13902,90.75573,24.13902",
+    "geom:latitude":24.13902,
+    "geom:longitude":90.75573,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3068.0",
+    "gn:admin3_code":"306852.0",
+    "gn:admin4_code":"30685267.0",
+    "gn:asciiname":"Dakshin Baraidia",
+    "gn:country_code":"BD",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1205515,
+    "gn:latitude":24.13902,
+    "gn:longitude":90.75573,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Dakshin B\u0101raidia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421169707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1205515
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"150981e5d72f7862676b5628e04136a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421169707,
+            "locality_id":1226276029,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1226276029,
+    "wof:lastmodified":1536889609,
+    "wof:name":"Dakshin Baraidia",
+    "wof:parent_id":421169707,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.75573,
+    24.13902,
+    90.75573,
+    24.13902
+],
+  "geometry": {"coordinates":[90.75573,24.13902],"type":"Point"}
+}

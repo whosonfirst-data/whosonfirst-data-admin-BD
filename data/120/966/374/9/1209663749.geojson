@@ -1,0 +1,67 @@
+{
+  "id": 1209663749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"92.0443,21.85233,92.0443,21.85233",
+    "geom:latitude":21.85233,
+    "geom:longitude":92.0443,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2022.0",
+    "gn:admin3_code":"202216.0",
+    "gn:admin4_code":"20221650.0",
+    "gn:asciiname":"Dharpara",
+    "gn:country_code":"BD",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6414716,
+    "gn:latitude":21.85233,
+    "gn:longitude":92.0443,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Dharp\u0101ra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Dharp\u0101ra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6414716
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"f43bb369f9a311a0ee1e3bca30b5c354",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209663749
+        }
+    ],
+    "wof:id":1209663749,
+    "wof:lastmodified":1537586231,
+    "wof:name":"Dharpara",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    92.0443,
+    21.85233,
+    92.0443,
+    21.85233
+],
+  "geometry": {"coordinates":[92.04430000000001,21.85233],"type":"Point"}
+}

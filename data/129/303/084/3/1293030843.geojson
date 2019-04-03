@@ -1,0 +1,73 @@
+{
+  "id": 1293030843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.10858,25.92413,89.10858,25.92413",
+    "geom:latitude":25.92413,
+    "geom:longitude":89.10858,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5573",
+    "gn:admin3_code":"557345.0",
+    "gn:admin4_code":"55734508.0",
+    "gn:asciiname":"Purba Daliram",
+    "gn:country_code":"BD",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1190778,
+    "gn:latitude":25.92413,
+    "gn:longitude":89.10858,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Purba Dal\u012br\u0101m",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Purba Dal\u012br\u0101m"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1190778
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"72b5ada7450d3aa63f00da20c9f6befe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694695,
+            "locality_id":1293030843,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1293030843,
+    "wof:lastmodified":1537585802,
+    "wof:name":"Purba Daliram",
+    "wof:parent_id":1108694695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.10858,
+    25.92413,
+    89.10858,
+    25.92413
+],
+  "geometry": {"coordinates":[89.10858,25.92413],"type":"Point"}
+}

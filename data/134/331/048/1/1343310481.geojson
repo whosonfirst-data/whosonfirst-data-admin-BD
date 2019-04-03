@@ -1,0 +1,70 @@
+{
+  "id": 1343310481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.76928,23.13008,90.76928,23.13008",
+    "geom:latitude":23.13008,
+    "geom:longitude":90.76928,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2013",
+    "gn:admin3_code":"201345.0",
+    "gn:admin4_code":"20134529.0",
+    "gn:asciiname":"Rudragaon",
+    "gn:country_code":"BD",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1189520,
+    "gn:latitude":23.13008,
+    "gn:longitude":90.76928,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Rudragaon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        1108694669
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1189520
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"c2d518b64787395e450176fde6b7e666",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694669,
+            "locality_id":1343310481,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1343310481,
+    "wof:lastmodified":1536962710,
+    "wof:name":"Rudragaon",
+    "wof:parent_id":1108694669,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.76928,
+    23.13008,
+    90.76928,
+    23.13008
+],
+  "geometry": {"coordinates":[90.76927999999999,23.13008],"type":"Point"}
+}

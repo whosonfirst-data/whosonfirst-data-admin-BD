@@ -1,0 +1,70 @@
+{
+  "id": 1242808161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.37116,24.3793,89.37116,24.3793",
+    "geom:latitude":24.3793,
+    "geom:longitude":89.37116,
+    "gn:admin1_code":"83",
+    "gn:admin2_code":"5088.0",
+    "gn:admin3_code":"508889.0",
+    "gn:admin4_code":"50888942.0",
+    "gn:asciiname":"Dobila",
+    "gn:country_code":"BD",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1203938,
+    "gn:latitude":24.3793,
+    "gn:longitude":89.37116,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Dob\u012bla",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669031,
+        421201929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1203938
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"a0cabab9e455524d6b447fe493cdd922",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421201929,
+            "locality_id":1242808161,
+            "region_id":85669031
+        }
+    ],
+    "wof:id":1242808161,
+    "wof:lastmodified":1536731967,
+    "wof:name":"Dobila",
+    "wof:parent_id":421201929,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.37116,
+    24.3793,
+    89.37116,
+    24.3793
+],
+  "geometry": {"coordinates":[89.37116,24.3793],"type":"Point"}
+}

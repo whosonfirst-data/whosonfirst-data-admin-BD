@@ -1,0 +1,73 @@
+{
+  "id": 1327371113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.81402,25.7584,89.81402,25.7584",
+    "geom:latitude":25.7584,
+    "geom:longitude":89.81402,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5549",
+    "gn:admin3_code":"554994.0",
+    "gn:admin4_code":"55499475.0",
+    "gn:asciiname":"Mepurer Alga",
+    "gn:country_code":"BD",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7923376,
+    "gn:latitude":25.7584,
+    "gn:longitude":89.81402,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Mepurer \u0100lga",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Mepurer \u0100lga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7923376
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"2590279d1ce29a1ab3da112eb59163fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694685,
+            "locality_id":1327371113,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1327371113,
+    "wof:lastmodified":1537586796,
+    "wof:name":"Mepurer Alga",
+    "wof:parent_id":1108694685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.81402,
+    25.7584,
+    89.81402,
+    25.7584
+],
+  "geometry": {"coordinates":[89.81402,25.7584],"type":"Point"}
+}

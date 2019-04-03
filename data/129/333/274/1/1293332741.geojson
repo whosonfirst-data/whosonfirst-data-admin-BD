@@ -1,0 +1,75 @@
+{
+  "id": 1293332741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.81016,22.91769,90.81016,22.91769",
+    "geom:latitude":22.91769,
+    "geom:longitude":90.81016,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2051",
+    "gn:admin3_code":"205143.0",
+    "gn:admin4_code":"20514385.0",
+    "gn:asciiname":"Puran Sak Char",
+    "gn:country_code":"BD",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1191693,
+    "gn:latitude":22.91769,
+    "gn:longitude":90.81016,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Pur\u0101n S\u0101k Char",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sakchar",
+        "Old S\u0101k Char",
+        "Pur\u0101n S\u0101k Char"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421166521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1191693
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"c87ac0b5db8d12f387f1ec01fc633d93",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421166521,
+            "locality_id":1293332741,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1293332741,
+    "wof:lastmodified":1537585818,
+    "wof:name":"Puran Sak Char",
+    "wof:parent_id":421166521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.81016,
+    22.91769,
+    90.81016,
+    22.91769
+],
+  "geometry": {"coordinates":[90.81016,22.91769],"type":"Point"}
+}

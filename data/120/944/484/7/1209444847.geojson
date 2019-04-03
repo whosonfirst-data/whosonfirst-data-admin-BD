@@ -1,0 +1,67 @@
+{
+  "id": 1209444847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.00632,25.11049,89.00632,25.11049",
+    "geom:latitude":25.11049,
+    "geom:longitude":89.00632,
+    "gn:admin1_code":"83",
+    "gn:admin2_code":"5038.0",
+    "gn:admin3_code":"503847.0",
+    "gn:admin4_code":"50384700.0",
+    "gn:asciiname":"Hatil",
+    "gn:country_code":"BD",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7887848,
+    "gn:latitude":25.11049,
+    "gn:longitude":89.00632,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"H\u0101til",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "H\u0101til"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7887848
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"818e9811daf4a3cba8acc60f04ca057e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209444847
+        }
+    ],
+    "wof:id":1209444847,
+    "wof:lastmodified":1537586716,
+    "wof:name":"Hatil",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.00632,
+    25.11049,
+    89.00632,
+    25.11049
+],
+  "geometry": {"coordinates":[89.00632,25.11049],"type":"Point"}
+}

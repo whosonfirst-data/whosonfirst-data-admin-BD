@@ -1,0 +1,70 @@
+{
+  "id": 1259917181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.79893,23.53056,89.79893,23.53056",
+    "geom:latitude":23.53056,
+    "geom:longitude":89.79893,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3029.0",
+    "gn:admin3_code":"302947.0",
+    "gn:admin4_code":"30294755.0",
+    "gn:asciiname":"Bengdoba",
+    "gn:country_code":"BD",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1209577,
+    "gn:latitude":23.53056,
+    "gn:longitude":89.79893,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Bengdoba",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421198063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1209577
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"a9b3bf0cd78dab78353012c6a2c5a33e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421198063,
+            "locality_id":1259917181,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1259917181,
+    "wof:lastmodified":1536730863,
+    "wof:name":"Bengdoba",
+    "wof:parent_id":421198063,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.79893,
+    23.53056,
+    89.79893,
+    23.53056
+],
+  "geometry": {"coordinates":[89.79893,23.53056],"type":"Point"}
+}

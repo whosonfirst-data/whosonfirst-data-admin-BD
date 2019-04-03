@@ -1,0 +1,73 @@
+{
+  "id": 1276374927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.84543,24.8688,88.84543,24.8688",
+    "geom:latitude":24.8688,
+    "geom:longitude":88.84543,
+    "gn:admin1_code":"83",
+    "gn:admin2_code":"5064.0",
+    "gn:admin3_code":"506450.0",
+    "gn:admin4_code":"50645028.0",
+    "gn:asciiname":"Chaumasia",
+    "gn:country_code":"BD",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1206306,
+    "gn:latitude":24.8688,
+    "gn:longitude":88.84543,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Chaum\u0101sia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Chaum\u0101sia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669031,
+        421191663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1206306
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"9ef3f5496daf2c76d92657c1b79af35e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421191663,
+            "locality_id":1276374927,
+            "region_id":85669031
+        }
+    ],
+    "wof:id":1276374927,
+    "wof:lastmodified":1537586091,
+    "wof:name":"Chaumasia",
+    "wof:parent_id":421191663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.84543000000002,
+    24.8688,
+    88.84543000000002,
+    24.8688
+],
+  "geometry": {"coordinates":[88.84543000000002,24.8688],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1276494319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.69195,23.21583,90.69195,23.21583",
+    "geom:latitude":23.21583,
+    "geom:longitude":90.69195,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2013",
+    "gn:admin3_code":"201322.0",
+    "gn:admin4_code":"20132222.0",
+    "gn:asciiname":"Muqimpur",
+    "gn:country_code":"BD",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1195264,
+    "gn:latitude":23.21583,
+    "gn:longitude":90.69195,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Muqimpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Makimpur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        1108694669
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1195264
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"744451748fc9b76f3168ec778c2e9225",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694669,
+            "locality_id":1276494319,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1276494319,
+    "wof:lastmodified":1537585884,
+    "wof:name":"Muqimpur",
+    "wof:parent_id":1108694669,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.69195,
+    23.21583,
+    90.69195,
+    23.21583
+],
+  "geometry": {"coordinates":[90.69195000000001,23.21583],"type":"Point"}
+}

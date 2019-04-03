@@ -1,0 +1,70 @@
+{
+  "id": 1226676263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.98843,23.92898,89.98843,23.92898",
+    "geom:latitude":23.92898,
+    "geom:longitude":89.98843,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3056.0",
+    "gn:admin3_code":"305670.0",
+    "gn:admin4_code":"30567095.0",
+    "gn:asciiname":"Airmara",
+    "gn:country_code":"BD",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1213142,
+    "gn:latitude":23.92898,
+    "gn:longitude":89.98843,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"\u0100irm\u0101ra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421191745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1213142
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"2f7980dffe7513fefea93d3544111661",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421191745,
+            "locality_id":1226676263,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1226676263,
+    "wof:lastmodified":1536814913,
+    "wof:name":"Airmara",
+    "wof:parent_id":421191745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.98843000000002,
+    23.92898,
+    89.98843000000002,
+    23.92898
+],
+  "geometry": {"coordinates":[89.98843000000002,23.92898],"type":"Point"}
+}

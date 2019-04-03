@@ -1,0 +1,76 @@
+{
+  "id": 1209944843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.79895,25.84998,88.79895,25.84998",
+    "geom:latitude":25.84998,
+    "geom:longitude":88.79895,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5527.0",
+    "gn:admin3_code":"552760.0",
+    "gn:admin4_code":"55276031.0",
+    "gn:asciiname":"Chhatiangarh",
+    "gn:country_code":"BD",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1206195,
+    "gn:latitude":25.84998,
+    "gn:longitude":88.79895,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Chh\u0101tiangarh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Chh\u0101tiangarh"
+    ],
+    "name:und_x_variant":[
+        "Chhatianagar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1206195
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"25755f4f666f8e3dd477c478cadbdeca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694671,
+            "locality_id":1209944843,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1209944843,
+    "wof:lastmodified":1537586088,
+    "wof:name":"Chhatiangarh",
+    "wof:parent_id":1108694671,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.79895,
+    25.84998,
+    88.79895,
+    25.84998
+],
+  "geometry": {"coordinates":[88.79895,25.84998],"type":"Point"}
+}

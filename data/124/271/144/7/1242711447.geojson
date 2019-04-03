@@ -1,0 +1,70 @@
+{
+  "id": 1242711447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.89757,24.6481,89.89757,24.6481",
+    "geom:latitude":24.6481,
+    "geom:longitude":89.89757,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3093.0",
+    "gn:admin3_code":"309358.0",
+    "gn:admin4_code":"30935880.0",
+    "gn:asciiname":"Alipur",
+    "gn:country_code":"BD",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1212954,
+    "gn:latitude":24.6481,
+    "gn:longitude":89.89757,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Alipur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421185471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1212954
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"6a465e86e2e8338e6964220e737f2f41",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421185471,
+            "locality_id":1242711447,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1242711447,
+    "wof:lastmodified":1536869891,
+    "wof:name":"Alipur",
+    "wof:parent_id":421185471,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.89757,
+    24.6481,
+    89.89757,
+    24.6481
+],
+  "geometry": {"coordinates":[89.89757,24.6481],"type":"Point"}
+}

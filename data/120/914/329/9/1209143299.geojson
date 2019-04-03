@@ -1,0 +1,67 @@
+{
+  "id": 1209143299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.10449,23.26073,89.10449,23.26073",
+    "geom:latitude":23.26073,
+    "geom:longitude":89.10449,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4041.0",
+    "gn:admin3_code":"404111.0",
+    "gn:admin4_code":"40411177.0",
+    "gn:asciiname":"Durgabarkati",
+    "gn:country_code":"BD",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7634167,
+    "gn:latitude":23.26073,
+    "gn:longitude":89.10449,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Durg\u0101bark\u0101ti",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Durg\u0101bark\u0101ti"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7634167
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"2832bcd7b940cc3c19954896d1af447a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209143299
+        }
+    ],
+    "wof:id":1209143299,
+    "wof:lastmodified":1537586705,
+    "wof:name":"Durgabarkati",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.10449,
+    23.26073,
+    89.10449,
+    23.26073
+],
+  "geometry": {"coordinates":[89.10449,23.26073],"type":"Point"}
+}

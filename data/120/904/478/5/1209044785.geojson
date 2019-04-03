@@ -1,0 +1,67 @@
+{
+  "id": 1209044785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"92.07672,21.34531,92.07672,21.34531",
+    "geom:latitude":21.34531,
+    "geom:longitude":92.07672,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2022.0",
+    "gn:admin3_code":"202266.0",
+    "gn:admin4_code":"20226657.0",
+    "gn:asciiname":"Madhia Khuniapalong",
+    "gn:country_code":"BD",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6416614,
+    "gn:latitude":21.34531,
+    "gn:longitude":92.07672,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Madhia Khuni\u0101p\u0101long",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Madhia Khuni\u0101p\u0101long"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6416614
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"502d16e1c09b50cf713c61f20f8ab66f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209044785
+        }
+    ],
+    "wof:id":1209044785,
+    "wof:lastmodified":1537586266,
+    "wof:name":"Madhia Khuniapalong",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    92.07672,
+    21.34531,
+    92.07672,
+    21.34531
+],
+  "geometry": {"coordinates":[92.07671999999999,21.34531],"type":"Point"}
+}

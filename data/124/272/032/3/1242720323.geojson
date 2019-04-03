@@ -1,0 +1,73 @@
+{
+  "id": 1242720323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"92.36781,23.0031,92.36781,23.0031",
+    "geom:latitude":23.0031,
+    "geom:longitude":92.36781,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2084.0",
+    "gn:admin3_code":"208421.0",
+    "gn:admin4_code":"20842131.0",
+    "gn:asciiname":"Gaskapachara",
+    "gn:country_code":"BD",
+    "gn:dem":51,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7477166,
+    "gn:latitude":23.0031,
+    "gn:longitude":92.36781,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"G\u0101sk\u0101p\u0101chara",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "G\u0101sk\u0101p\u0101chara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421188983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7477166
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"6ad72ac624e92476ab34c1aa2f841e77",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421188983,
+            "locality_id":1242720323,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1242720323,
+    "wof:lastmodified":1537586362,
+    "wof:name":"Gaskapachara",
+    "wof:parent_id":421188983,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    92.36781,
+    23.0031,
+    92.36781,
+    23.0031
+],
+  "geometry": {"coordinates":[92.36781000000001,23.0031],"type":"Point"}
+}

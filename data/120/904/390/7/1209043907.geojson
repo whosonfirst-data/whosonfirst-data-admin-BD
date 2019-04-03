@@ -1,0 +1,67 @@
+{
+  "id": 1209043907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.44798,23.03364,89.44798,23.03364",
+    "geom:latitude":23.03364,
+    "geom:longitude":89.44798,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4041.0",
+    "gn:admin3_code":"404104.0",
+    "gn:admin4_code":"40410410.0",
+    "gn:asciiname":"Singari",
+    "gn:country_code":"BD",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7479308,
+    "gn:latitude":23.03364,
+    "gn:longitude":89.44798,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Sing\u0101ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Sing\u0101ri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7479308
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"1545b1d5e041ef96e85c15f0f136ad78",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209043907
+        }
+    ],
+    "wof:id":1209043907,
+    "wof:lastmodified":1537586416,
+    "wof:name":"Singari",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.44798,
+    23.03364,
+    89.44798,
+    23.03364
+],
+  "geometry": {"coordinates":[89.44798,23.03364],"type":"Point"}
+}

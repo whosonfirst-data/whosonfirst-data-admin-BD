@@ -1,0 +1,67 @@
+{
+  "id": 1209135815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.14771,25.87737,89.14771,25.87737",
+    "geom:latitude":25.87737,
+    "geom:longitude":89.14771,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5585",
+    "gn:admin3_code":"558527.0",
+    "gn:admin4_code":"55852710.0",
+    "gn:asciiname":"Bakshiganj Hat",
+    "gn:country_code":"BD",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7923955,
+    "gn:latitude":25.87737,
+    "gn:longitude":89.14771,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Bakshiganj H\u0101t",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Bakshiganj H\u0101t"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7923955
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"2602976b5308a51eea940f1e43eee6ab",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209135815
+        }
+    ],
+    "wof:id":1209135815,
+    "wof:lastmodified":1537586813,
+    "wof:name":"Bakshiganj Hat",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.14771,
+    25.87737000000001,
+    89.14771,
+    25.87737000000001
+],
+  "geometry": {"coordinates":[89.14771,25.87737000000001],"type":"Point"}
+}

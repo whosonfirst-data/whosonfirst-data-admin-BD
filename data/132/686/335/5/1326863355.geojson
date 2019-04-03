@@ -1,0 +1,73 @@
+{
+  "id": 1326863355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.18967,25.98159,88.18967,25.98159",
+    "geom:latitude":25.98159,
+    "geom:longitude":88.18967,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5594.0",
+    "gn:admin3_code":"559486.0",
+    "gn:admin4_code":"55948631.0",
+    "gn:asciiname":"Ansardangi",
+    "gn:country_code":"BD",
+    "gn:dem":50,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7487498,
+    "gn:latitude":25.98159,
+    "gn:longitude":88.18967,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"\u0100ns\u0101rdangi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "\u0100ns\u0101rdangi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7487498
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"8c0dee891b0987bfa58d59df717105fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694703,
+            "locality_id":1326863355,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1326863355,
+    "wof:lastmodified":1537586641,
+    "wof:name":"Ansardangi",
+    "wof:parent_id":1108694703,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.18966999999998,
+    25.98159,
+    88.18966999999998,
+    25.98159
+],
+  "geometry": {"coordinates":[88.18966999999998,25.98159],"type":"Point"}
+}

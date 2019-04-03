@@ -1,0 +1,70 @@
+{
+  "id": 1209136029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.04041,22.39078,89.04041,22.39078",
+    "geom:latitude":22.39078,
+    "geom:longitude":89.04041,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4087",
+    "gn:admin3_code":"408747.0",
+    "gn:admin4_code":"40874739.0",
+    "gn:asciiname":"Mahiskur",
+    "gn:country_code":"BD",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1195569,
+    "gn:latitude":22.39078,
+    "gn:longitude":89.04041,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Mahiskur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Mahiskur"
+    ],
+    "name:und_x_variant":[
+        "Maheskur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1195569
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"2ed469c5abcdf8d99d28c2aaba31d48e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209136029
+        }
+    ],
+    "wof:id":1209136029,
+    "wof:lastmodified":1537585891,
+    "wof:name":"Mahiskur",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.04041,
+    22.39078,
+    89.04041,
+    22.39078
+],
+  "geometry": {"coordinates":[89.04040999999999,22.39078],"type":"Point"}
+}

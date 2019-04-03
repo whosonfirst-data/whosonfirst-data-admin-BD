@@ -1,0 +1,73 @@
+{
+  "id": 1193167079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.16499,25.75782,89.16499,25.75782",
+    "geom:latitude":25.75782,
+    "geom:longitude":89.16499,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5585",
+    "gn:admin3_code":"558549.0",
+    "gn:admin4_code":"55854947.0",
+    "gn:asciiname":"Pakhi Banda",
+    "gn:country_code":"BD",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7923991,
+    "gn:latitude":25.75782,
+    "gn:longitude":89.16499,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Pakhi B\u0101nda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Pakhi B\u0101nda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7923991
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"1ffcb3b855a325fba12e0f5726a10567",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694701,
+            "locality_id":1193167079,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1193167079,
+    "wof:lastmodified":1537586814,
+    "wof:name":"Pakhi Banda",
+    "wof:parent_id":1108694701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.16499,
+    25.75782,
+    89.16499,
+    25.75782
+],
+  "geometry": {"coordinates":[89.16499,25.75782],"type":"Point"}
+}

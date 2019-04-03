@@ -1,0 +1,83 @@
+{
+  "id": 1243587397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.44375,26.34375,88.44375,26.34375",
+    "geom:latitude":26.34375,
+    "geom:longitude":88.44375,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5577.0",
+    "gn:admin3_code":"557704.0",
+    "gn:admin4_code":"55770440.0",
+    "gn:asciiname":"Munnapara",
+    "gn:country_code":"BD",
+    "gn:dem":76,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7486943,
+    "gn:latitude":26.34375,
+    "gn:longitude":88.44375,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Munn\u0101p\u0101ra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Munn\u0101p\u0101ra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694697,
+        85632469,
+        85672219,
+        890505611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7486943
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"f405092468939753b223d31f6d3ad7ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694697,
+            "locality_id":1243587397,
+            "region_id":85669035
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":890505611,
+            "locality_id":1243587397,
+            "region_id":85672219
+        }
+    ],
+    "wof:id":1243587397,
+    "wof:lastmodified":1537586625,
+    "wof:name":"Munnapara",
+    "wof:parent_id":-4,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.44375,
+    26.34375,
+    88.44375,
+    26.34375
+],
+  "geometry": {"coordinates":[88.44374999999999,26.34375],"type":"Point"}
+}

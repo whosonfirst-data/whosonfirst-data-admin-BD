@@ -1,0 +1,70 @@
+{
+  "id": 1310039305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.39316,22.97776,89.39316,22.97776",
+    "geom:latitude":22.97776,
+    "geom:longitude":89.39316,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4041",
+    "gn:admin3_code":"404104.0",
+    "gn:admin4_code":"40410442.0",
+    "gn:asciiname":"Samaspur",
+    "gn:country_code":"BD",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1188892,
+    "gn:latitude":22.97776,
+    "gn:longitude":89.39316,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Samaspur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        421176039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1188892
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"c564076362865ee7ffddbdaa6f00c6b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421176039,
+            "locality_id":1310039305,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1310039305,
+    "wof:lastmodified":1537088781,
+    "wof:name":"Samaspur",
+    "wof:parent_id":421176039,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.39316,
+    22.97776,
+    89.39316,
+    22.97776
+],
+  "geometry": {"coordinates":[89.39315999999999,22.97776],"type":"Point"}
+}

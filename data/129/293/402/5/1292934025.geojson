@@ -1,0 +1,75 @@
+{
+  "id": 1292934025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.80303,24.22148,89.80303,24.22148",
+    "geom:latitude":24.22148,
+    "geom:longitude":89.80303,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3093",
+    "gn:admin3_code":"309395.0",
+    "gn:admin4_code":"30939565.0",
+    "gn:asciiname":"Ichhapasha Char",
+    "gn:country_code":"BD",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1200847,
+    "gn:latitude":24.22148,
+    "gn:longitude":89.80303,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Ichh\u0101p\u0101sha Char",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ichapasha Pachbaria",
+        "Ichh\u0101p\u0101sa",
+        "Ichh\u0101p\u0101sha Char"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421185471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1200847
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"92bba907fd3ef84a8bdbcfef9685cd0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421185471,
+            "locality_id":1292934025,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1292934025,
+    "wof:lastmodified":1537585987,
+    "wof:name":"Ichhapasha Char",
+    "wof:parent_id":421185471,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.80303,
+    24.22148,
+    89.80303,
+    24.22148
+],
+  "geometry": {"coordinates":[89.80303000000001,24.22148],"type":"Point"}
+}

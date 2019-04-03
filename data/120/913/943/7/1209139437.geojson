@@ -1,0 +1,67 @@
+{
+  "id": 1209139437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.68689,24.8002,88.68689,24.8002",
+    "geom:latitude":24.8002,
+    "geom:longitude":88.68689,
+    "gn:admin1_code":"83",
+    "gn:admin2_code":"5064",
+    "gn:admin3_code":"506447.0",
+    "gn:admin4_code":"50644767.0",
+    "gn:asciiname":"Kaibara",
+    "gn:country_code":"BD",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1199450,
+    "gn:latitude":24.8002,
+    "gn:longitude":88.68689,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Kaib\u0101ra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Kaib\u0101ra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1199450
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"a6b78e39fb268950def0ee3828ff33c2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209139437
+        }
+    ],
+    "wof:id":1209139437,
+    "wof:lastmodified":1537585960,
+    "wof:name":"Kaibara",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.68689,
+    24.8002,
+    88.68689,
+    24.8002
+],
+  "geometry": {"coordinates":[88.68689000000001,24.8002],"type":"Point"}
+}

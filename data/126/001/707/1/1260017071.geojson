@@ -1,0 +1,73 @@
+{
+  "id": 1260017071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.56158,25.72182,88.56158,25.72182",
+    "geom:latitude":25.72182,
+    "geom:longitude":88.56158,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5527.0",
+    "gn:admin3_code":"552717.0",
+    "gn:admin4_code":"55271776.0",
+    "gn:asciiname":"Harishchandrapur",
+    "gn:country_code":"BD",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7488335,
+    "gn:latitude":25.72182,
+    "gn:longitude":88.56158,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Harishchandrapur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Harishchandrapur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7488335
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"a2864027de49fff4b78c6607219c3cec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694671,
+            "locality_id":1260017071,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1260017071,
+    "wof:lastmodified":1537586665,
+    "wof:name":"Harishchandrapur",
+    "wof:parent_id":1108694671,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.56158,
+    25.72182,
+    88.56158,
+    25.72182
+],
+  "geometry": {"coordinates":[88.56158000000001,25.72182],"type":"Point"}
+}

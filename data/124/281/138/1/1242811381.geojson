@@ -1,0 +1,73 @@
+{
+  "id": 1242811381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.7197,22.99063,89.7197,22.99063",
+    "geom:latitude":22.99063,
+    "geom:longitude":89.7197,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4065.0",
+    "gn:admin3_code":"406528.0",
+    "gn:admin4_code":"40652815.0",
+    "gn:asciiname":"Sharifpur",
+    "gn:country_code":"BD",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7486399,
+    "gn:latitude":22.99063,
+    "gn:longitude":89.7197,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Sharifpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Sharifpur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        421205213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7486399
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"7aa07d53bd82f8ce2e50898ab6787ee8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421205213,
+            "locality_id":1242811381,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1242811381,
+    "wof:lastmodified":1537586612,
+    "wof:name":"Sharifpur",
+    "wof:parent_id":421205213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.7197,
+    22.99063,
+    89.7197,
+    22.99063
+],
+  "geometry": {"coordinates":[89.7197,22.99063],"type":"Point"}
+}

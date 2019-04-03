@@ -1,0 +1,73 @@
+{
+  "id": 1293322829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.49839,22.90675,89.49839,22.90675",
+    "geom:latitude":22.90675,
+    "geom:longitude":89.49839,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4047.0",
+    "gn:admin3_code":"404748.0",
+    "gn:admin4_code":"40474800.0",
+    "gn:asciiname":"Jugipot",
+    "gn:country_code":"BD",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7486178,
+    "gn:latitude":22.90675,
+    "gn:longitude":89.49839,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Jugipot",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Jugipot"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        421185473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7486178
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"05c2da57b68db20f86fc1d9d86415743",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421185473,
+            "locality_id":1293322829,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1293322829,
+    "wof:lastmodified":1537586606,
+    "wof:name":"Jugipot",
+    "wof:parent_id":421185473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.49839,
+    22.90675,
+    89.49839,
+    22.90675
+],
+  "geometry": {"coordinates":[89.49839,22.90675],"type":"Point"}
+}

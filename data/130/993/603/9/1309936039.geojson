@@ -1,0 +1,70 @@
+{
+  "id": 1309936039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.41381,22.56258,90.41381,22.56258",
+    "geom:latitude":22.56258,
+    "geom:longitude":90.41381,
+    "gn:admin1_code":"85",
+    "gn:admin2_code":"1006",
+    "gn:admin3_code":"100607.0",
+    "gn:admin4_code":"10060733.0",
+    "gn:asciiname":"Sundarkati",
+    "gn:country_code":"BD",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1186931,
+    "gn:latitude":22.56258,
+    "gn:longitude":90.41381,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Sundark\u0101ti",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669019,
+        421187745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1186931
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"6f8e89a7e387833311624be3ca5782e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421187745,
+            "locality_id":1309936039,
+            "region_id":85669019
+        }
+    ],
+    "wof:id":1309936039,
+    "wof:lastmodified":1536743274,
+    "wof:name":"Sundarkati",
+    "wof:parent_id":421187745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.41381,
+    22.56258,
+    90.41381,
+    22.56258
+],
+  "geometry": {"coordinates":[90.41381,22.56258],"type":"Point"}
+}

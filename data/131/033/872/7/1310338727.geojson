@@ -1,0 +1,73 @@
+{
+  "id": 1310338727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.27281,25.20509,89.27281,25.20509",
+    "geom:latitude":25.20509,
+    "geom:longitude":89.27281,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5532",
+    "gn:admin3_code":"553230.0",
+    "gn:admin4_code":"55323033.0",
+    "gn:asciiname":"Kanatikor",
+    "gn:country_code":"BD",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7889605,
+    "gn:latitude":25.20509,
+    "gn:longitude":89.27281,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Kan\u0101tikor",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Kan\u0101tikor"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7889605
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"bee8ffc2ad7f1555619580ff6afec306",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694675,
+            "locality_id":1310338727,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1310338727,
+    "wof:lastmodified":1537586736,
+    "wof:name":"Kanatikor",
+    "wof:parent_id":1108694675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.27280999999998,
+    25.20509,
+    89.27280999999998,
+    25.20509
+],
+  "geometry": {"coordinates":[89.27280999999998,25.20509],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1226372401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.4789,25.83772,88.4789,25.83772",
+    "geom:latitude":25.83772,
+    "geom:longitude":88.4789,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5527.0",
+    "gn:admin3_code":"552721.0",
+    "gn:admin4_code":"55272140.0",
+    "gn:asciiname":"Muraripur",
+    "gn:country_code":"BD",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7487876,
+    "gn:latitude":25.83772,
+    "gn:longitude":88.4789,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Muraripur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Muraripur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7487876
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"60d79b1ebd440653b12ee9b124e5fa19",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694671,
+            "locality_id":1226372401,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1226372401,
+    "wof:lastmodified":1537586651,
+    "wof:name":"Muraripur",
+    "wof:parent_id":1108694671,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.4789,
+    25.83772,
+    88.4789,
+    25.83772
+],
+  "geometry": {"coordinates":[88.4789,25.83772],"type":"Point"}
+}

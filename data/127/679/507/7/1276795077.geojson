@@ -1,0 +1,70 @@
+{
+  "id": 1276795077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.82015,23.99048,90.82015,23.99048",
+    "geom:latitude":23.99048,
+    "geom:longitude":90.82015,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3068",
+    "gn:admin3_code":"306876.0",
+    "gn:admin4_code":"30687652.0",
+    "gn:asciiname":"Saikar Char",
+    "gn:country_code":"BD",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1189137,
+    "gn:latitude":23.99048,
+    "gn:longitude":90.82015,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Saik\u0101r Char",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421169707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1189137
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"78eb42e9c6677e5a59a89471dec275a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421169707,
+            "locality_id":1276795077,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1276795077,
+    "wof:lastmodified":1536657475,
+    "wof:name":"Saikar Char",
+    "wof:parent_id":421169707,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.82015,
+    23.99048,
+    90.82015,
+    23.99048
+],
+  "geometry": {"coordinates":[90.82015,23.99048],"type":"Point"}
+}

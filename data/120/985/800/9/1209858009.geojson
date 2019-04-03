@@ -1,0 +1,73 @@
+{
+  "id": 1209858009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"92.06841,22.06462,92.06841,22.06462",
+    "geom:latitude":22.06462,
+    "geom:longitude":92.06841,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2015.0",
+    "gn:admin3_code":"201582.0",
+    "gn:admin4_code":"20158287.0",
+    "gn:asciiname":"Rupkania",
+    "gn:country_code":"BD",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6416658,
+    "gn:latitude":22.06462,
+    "gn:longitude":92.06841,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Rupkania",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Rupkania"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421201541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6416658
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"b3ad4db0637a0a3bd3fb817e1b0f673e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421201541,
+            "locality_id":1209858009,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1209858009,
+    "wof:lastmodified":1537586267,
+    "wof:name":"Rupkania",
+    "wof:parent_id":421201541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    92.06841,
+    22.06462,
+    92.06841,
+    22.06462
+],
+  "geometry": {"coordinates":[92.06841,22.06462],"type":"Point"}
+}

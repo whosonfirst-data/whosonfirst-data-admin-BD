@@ -1,0 +1,70 @@
+{
+  "id": 1259721743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.45,23.08333,91.45,23.08333",
+    "geom:latitude":23.08333,
+    "geom:longitude":91.45,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2030.0",
+    "gn:admin3_code":"203095.0",
+    "gn:admin4_code":"20309574.0",
+    "gn:asciiname":"Anandapur",
+    "gn:country_code":"BD",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1212750,
+    "gn:latitude":23.08333,
+    "gn:longitude":91.45,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"\u0100nandapur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421181771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1212750
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"375b216a39a3f35adcea3d1359d4f219",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421181771,
+            "locality_id":1259721743,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1259721743,
+    "wof:lastmodified":1537011224,
+    "wof:name":"Anandapur",
+    "wof:parent_id":421181771,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.45,
+    23.08333,
+    91.45,
+    23.08333
+],
+  "geometry": {"coordinates":[91.45,23.08333],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1226777511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.95,23.58333,89.95,23.58333",
+    "geom:latitude":23.58333,
+    "geom:longitude":89.95,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3029",
+    "gn:admin3_code":"302921.0",
+    "gn:admin4_code":"30292138.0",
+    "gn:asciiname":"Panchutia",
+    "gn:country_code":"BD",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1192626,
+    "gn:latitude":23.58333,
+    "gn:longitude":89.95,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"P\u0101nchutia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421198063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1192626
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"6c973c2e2d7db655f90c070b94d16148",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421198063,
+            "locality_id":1226777511,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1226777511,
+    "wof:lastmodified":1536669907,
+    "wof:name":"Panchutia",
+    "wof:parent_id":421198063,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.95,
+    23.58333,
+    89.95,
+    23.58333
+],
+  "geometry": {"coordinates":[89.95,23.58333],"type":"Point"}
+}

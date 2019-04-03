@@ -1,0 +1,73 @@
+{
+  "id": 1310135905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.61937,25.04486,88.61937,25.04486",
+    "geom:latitude":25.04486,
+    "geom:longitude":88.61937,
+    "gn:admin1_code":"83",
+    "gn:admin2_code":"5064",
+    "gn:admin3_code":"506475.0",
+    "gn:admin4_code":"50647508.0",
+    "gn:asciiname":"Maheshpur",
+    "gn:country_code":"BD",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8355764,
+    "gn:latitude":25.04486,
+    "gn:longitude":88.61937,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Maheshpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Maheshpur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669031,
+        421191663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8355764
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"9b8e58ef1d58b5b9e4a675db4e5874db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421191663,
+            "locality_id":1310135905,
+            "region_id":85669031
+        }
+    ],
+    "wof:id":1310135905,
+    "wof:lastmodified":1537586868,
+    "wof:name":"Maheshpur",
+    "wof:parent_id":421191663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.61936999999998,
+    25.04486,
+    88.61936999999998,
+    25.04486
+],
+  "geometry": {"coordinates":[88.61936999999998,25.04486],"type":"Point"}
+}

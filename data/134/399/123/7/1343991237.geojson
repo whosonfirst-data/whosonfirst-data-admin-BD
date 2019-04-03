@@ -1,0 +1,74 @@
+{
+  "id": 1343991237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.26657,22.73017,90.26657,22.73017",
+    "geom:latitude":22.73017,
+    "geom:longitude":90.26657,
+    "gn:admin1_code":"85",
+    "gn:admin2_code":"1042.0",
+    "gn:admin3_code":"104240.0",
+    "gn:admin4_code":"10424019.0",
+    "gn:asciiname":"Alokdia",
+    "gn:country_code":"BD",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1212919,
+    "gn:latitude":22.73017,
+    "gn:longitude":90.26657,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"\u0100lokdia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0100lokdia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669019,
+        1108694677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1212919,
+        "wk:page":"Alokdia"
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"9d6be2ec0a9006d32fc75bb73e08b5c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694677,
+            "locality_id":1343991237,
+            "region_id":85669019
+        }
+    ],
+    "wof:id":1343991237,
+    "wof:lastmodified":1537586205,
+    "wof:name":"Alokdia",
+    "wof:parent_id":1108694677,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.26657,
+    22.73017,
+    90.26657,
+    22.73017
+],
+  "geometry": {"coordinates":[90.26657,22.73017],"type":"Point"}
+}

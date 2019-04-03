@@ -1,0 +1,73 @@
+{
+  "id": 1226476061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.23574,25.32093,89.23574,25.32093",
+    "geom:latitude":25.32093,
+    "geom:longitude":89.23574,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5527",
+    "gn:admin3_code":"552743.0",
+    "gn:admin4_code":"55274319.0",
+    "gn:asciiname":"Krishnarampur",
+    "gn:country_code":"BD",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8064776,
+    "gn:latitude":25.32093,
+    "gn:longitude":89.23574,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Krishnarampur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Krishnarampur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8064776
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"c0f1e921d48176edfb0207c0d3adc072",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694671,
+            "locality_id":1226476061,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1226476061,
+    "wof:lastmodified":1537586848,
+    "wof:name":"Krishnarampur",
+    "wof:parent_id":1108694671,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.23574,
+    25.32093,
+    89.23574,
+    25.32093
+],
+  "geometry": {"coordinates":[89.23574000000001,25.32093],"type":"Point"}
+}

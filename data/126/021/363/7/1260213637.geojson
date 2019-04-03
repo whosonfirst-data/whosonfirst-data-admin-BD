@@ -1,0 +1,74 @@
+{
+  "id": 1260213637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.80609,23.61353,89.80609,23.61353",
+    "geom:latitude":23.61353,
+    "geom:longitude":89.80609,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3029",
+    "gn:admin3_code":"302947.0",
+    "gn:admin4_code":"30294715.0",
+    "gn:asciiname":"Sobharampur",
+    "gn:country_code":"BD",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1187667,
+    "gn:latitude":23.61353,
+    "gn:longitude":89.80609,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Sobh\u0101r\u0101mpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shovarampur",
+        "Sobh\u0101r\u0101mpur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421198063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1187667
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"72978eb5ee7b5e4645957bfb1d4b8daf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421198063,
+            "locality_id":1260213637,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1260213637,
+    "wof:lastmodified":1537585743,
+    "wof:name":"Sobharampur",
+    "wof:parent_id":421198063,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.80609,
+    23.61353,
+    89.80609,
+    23.61353
+],
+  "geometry": {"coordinates":[89.80609,23.61353],"type":"Point"}
+}

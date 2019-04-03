@@ -1,0 +1,70 @@
+{
+  "id": 1343494717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.82928,23.56694,89.82928,23.56694",
+    "geom:latitude":23.56694,
+    "geom:longitude":89.82928,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3029",
+    "gn:admin3_code":"302947.0",
+    "gn:admin4_code":"30294755.0",
+    "gn:asciiname":"Kaijuri",
+    "gn:country_code":"BD",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1199429,
+    "gn:latitude":23.56694,
+    "gn:longitude":89.82928,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Kaijuri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421198063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1199429
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"8a7ad31cc77a0bd2c2709f4f9abc4806",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421198063,
+            "locality_id":1343494717,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1343494717,
+    "wof:lastmodified":1536696990,
+    "wof:name":"Kaijuri",
+    "wof:parent_id":421198063,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.82928000000003,
+    23.56694,
+    89.82928000000003,
+    23.56694
+],
+  "geometry": {"coordinates":[89.82928000000003,23.56694],"type":"Point"}
+}

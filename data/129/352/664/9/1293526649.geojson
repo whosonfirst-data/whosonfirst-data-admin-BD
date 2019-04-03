@@ -1,0 +1,70 @@
+{
+  "id": 1293526649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.88333,23.95,89.88333,23.95",
+    "geom:latitude":23.95,
+    "geom:longitude":89.88333,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3056",
+    "gn:admin3_code":"305610.0",
+    "gn:admin4_code":"30561076.0",
+    "gn:asciiname":"Ulail",
+    "gn:country_code":"BD",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1185802,
+    "gn:latitude":23.95,
+    "gn:longitude":89.88333,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Ul\u0101il",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421191745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1185802
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"b5ca3e0f49883ac21f5ba4968f68a1aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421191745,
+            "locality_id":1293526649,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1293526649,
+    "wof:lastmodified":1536730857,
+    "wof:name":"Ulail",
+    "wof:parent_id":421191745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.88333,
+    23.95,
+    89.88333,
+    23.95
+],
+  "geometry": {"coordinates":[89.88333,23.95],"type":"Point"}
+}

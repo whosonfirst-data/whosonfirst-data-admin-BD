@@ -1,0 +1,70 @@
+{
+  "id": 1310333647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.88333,23.8,89.88333,23.8",
+    "geom:latitude":23.8,
+    "geom:longitude":89.88333,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3056.0",
+    "gn:admin3_code":"305678.0",
+    "gn:admin4_code":"30567835.0",
+    "gn:asciiname":"Chhota Jamsa",
+    "gn:country_code":"BD",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1205968,
+    "gn:latitude":23.8,
+    "gn:longitude":89.88333,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Chhota J\u0101msa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421191745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1205968
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"719469c2970e6b183e57739a56f8a273",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421191745,
+            "locality_id":1310333647,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1310333647,
+    "wof:lastmodified":1536667530,
+    "wof:name":"Chhota Jamsa",
+    "wof:parent_id":421191745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.88333,
+    23.8,
+    89.88333,
+    23.8
+],
+  "geometry": {"coordinates":[89.88333,23.8],"type":"Point"}
+}

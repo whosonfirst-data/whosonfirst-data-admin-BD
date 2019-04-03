@@ -1,0 +1,74 @@
+{
+  "id": 1226676383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.41909,23.69763,89.41909,23.69763",
+    "geom:latitude":23.69763,
+    "geom:longitude":89.41909,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3082.0",
+    "gn:admin3_code":"308273.0",
+    "gn:admin4_code":"30827395.0",
+    "gn:asciiname":"Bazeapti Kaya",
+    "gn:country_code":"BD",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1209754,
+    "gn:latitude":23.69763,
+    "gn:longitude":89.41909,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"B\u0101ze\u0101pti Kaya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bajeapti Kaya",
+        "B\u0101ze\u0101pti Kaya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        1108694699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1209754
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"ca7296b157e503ecb745515cd0f7bf13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694699,
+            "locality_id":1226676383,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1226676383,
+    "wof:lastmodified":1537586151,
+    "wof:name":"Bazeapti Kaya",
+    "wof:parent_id":1108694699,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.41909,
+    23.69763,
+    89.41909,
+    23.69763
+],
+  "geometry": {"coordinates":[89.41909,23.69763],"type":"Point"}
+}

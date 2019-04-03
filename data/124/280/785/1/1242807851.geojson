@@ -1,0 +1,73 @@
+{
+  "id": 1242807851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.47029,26.28161,88.47029,26.28161",
+    "geom:latitude":26.28161,
+    "geom:longitude":88.47029,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5577.0",
+    "gn:admin3_code":"557704.0",
+    "gn:admin4_code":"55770454.0",
+    "gn:asciiname":"Kumarganj",
+    "gn:country_code":"BD",
+    "gn:dem":75,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7487025,
+    "gn:latitude":26.28161,
+    "gn:longitude":88.47029,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Kum\u0101rganj",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Kum\u0101rganj"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7487025
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"8146450d67c653db82eae8f2fddb2f33",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694697,
+            "locality_id":1242807851,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1242807851,
+    "wof:lastmodified":1537586628,
+    "wof:name":"Kumarganj",
+    "wof:parent_id":1108694697,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.47029,
+    26.28161,
+    88.47029,
+    26.28161
+],
+  "geometry": {"coordinates":[88.47029000000001,26.28161],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1226280041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.48193,24.52187,88.48193,24.52187",
+    "geom:latitude":24.52187,
+    "geom:longitude":88.48193,
+    "gn:admin1_code":"83",
+    "gn:admin2_code":"5081.0",
+    "gn:admin3_code":"508134.0",
+    "gn:admin4_code":"50813485.0",
+    "gn:asciiname":"Asrampur",
+    "gn:country_code":"BD",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7482587,
+    "gn:latitude":24.52187,
+    "gn:longitude":88.48193,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Asrampur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Asrampur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669031,
+        421172439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7482587
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"73235b7185f0b68bcd6e165b7e6532d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421172439,
+            "locality_id":1226280041,
+            "region_id":85669031
+        }
+    ],
+    "wof:id":1226280041,
+    "wof:lastmodified":1537586512,
+    "wof:name":"Asrampur",
+    "wof:parent_id":421172439,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.48193,
+    24.52187,
+    88.48193,
+    24.52187
+],
+  "geometry": {"coordinates":[88.48193000000001,24.52187],"type":"Point"}
+}

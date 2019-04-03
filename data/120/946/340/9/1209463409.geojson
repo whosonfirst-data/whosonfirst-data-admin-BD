@@ -1,0 +1,67 @@
+{
+  "id": 1209463409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.78363,22.99573,91.78363,22.99573",
+    "geom:latitude":22.99573,
+    "geom:longitude":91.78363,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2046.0",
+    "gn:admin3_code":"204680.0",
+    "gn:admin4_code":"20468076.0",
+    "gn:asciiname":"Chanamphrupara",
+    "gn:country_code":"BD",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7477462,
+    "gn:latitude":22.99573,
+    "gn:longitude":91.78363,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Chanamphrup\u0101ra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Chanamphrup\u0101ra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7477462
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"3283b314eb6de0b40cad26afec3d7b5a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209463409
+        }
+    ],
+    "wof:id":1209463409,
+    "wof:lastmodified":1537586368,
+    "wof:name":"Chanamphrupara",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.78363,
+    22.99573,
+    91.78363,
+    22.99573
+],
+  "geometry": {"coordinates":[91.78363,22.99573],"type":"Point"}
+}

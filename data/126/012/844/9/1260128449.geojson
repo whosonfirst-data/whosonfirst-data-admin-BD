@@ -1,0 +1,74 @@
+{
+  "id": 1260128449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.9985,23.80934,90.9985,23.80934",
+    "geom:latitude":23.80934,
+    "geom:longitude":90.9985,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2012",
+    "gn:admin3_code":"201285.0",
+    "gn:admin4_code":"20128547.0",
+    "gn:asciiname":"Laur Fatehpur",
+    "gn:country_code":"BD",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1196084,
+    "gn:latitude":23.80934,
+    "gn:longitude":90.9985,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"L\u0101ur Fatehpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Laur Fetepur",
+        "L\u0101ur Fatehpur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        1108694667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1196084
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"b77ec555806e58227342d5e81b03ec69",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694667,
+            "locality_id":1260128449,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1260128449,
+    "wof:lastmodified":1537585900,
+    "wof:name":"Laur Fatehpur",
+    "wof:parent_id":1108694667,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.9985,
+    23.80934,
+    90.9985,
+    23.80934
+],
+  "geometry": {"coordinates":[90.99850000000001,23.80934],"type":"Point"}
+}

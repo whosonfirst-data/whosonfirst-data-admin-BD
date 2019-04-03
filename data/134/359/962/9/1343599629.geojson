@@ -1,0 +1,70 @@
+{
+  "id": 1343599629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"92.38155,22.39117,92.38155,22.39117",
+    "geom:latitude":22.39117,
+    "geom:longitude":92.38155,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2084",
+    "gn:admin3_code":"208429.0",
+    "gn:admin4_code":"20842947.0",
+    "gn:asciiname":"Mashkubha",
+    "gn:country_code":"BD",
+    "gn:dem":55,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1194740,
+    "gn:latitude":22.39117,
+    "gn:longitude":92.38155,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Mashkubha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421188983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1194740
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"a7e806e05a93165bc2cb8022d10bb1ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421188983,
+            "locality_id":1343599629,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1343599629,
+    "wof:lastmodified":1537041059,
+    "wof:name":"Mashkubha",
+    "wof:parent_id":421188983,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    92.38155,
+    22.39117,
+    92.38155,
+    22.39117
+],
+  "geometry": {"coordinates":[92.38155,22.39117],"type":"Point"}
+}

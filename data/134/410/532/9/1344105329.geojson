@@ -1,0 +1,70 @@
+{
+  "id": 1344105329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.0,22.9,91.0,22.9",
+    "geom:latitude":22.9,
+    "geom:longitude":91.0,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2075.0",
+    "gn:admin3_code":"207507.0",
+    "gn:admin4_code":"20750728.0",
+    "gn:asciiname":"Amirpur",
+    "gn:country_code":"BD",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1212834,
+    "gn:latitude":22.9,
+    "gn:longitude":91.0,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"\u0100m\u012brpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421177051
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1212834
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"35a8f72a9f03bc948994850cf9b7fdc2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421177051,
+            "locality_id":1344105329,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1344105329,
+    "wof:lastmodified":1536810511,
+    "wof:name":"Amirpur",
+    "wof:parent_id":421177051,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.0,
+    22.9,
+    91.0,
+    22.9
+],
+  "geometry": {"coordinates":[91.0,22.9],"type":"Point"}
+}

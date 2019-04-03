@@ -1,0 +1,70 @@
+{
+  "id": 1344190657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.06425,24.36106,90.06425,24.36106",
+    "geom:latitude":24.36106,
+    "geom:longitude":90.06425,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3093.0",
+    "gn:admin3_code":"309347.0",
+    "gn:admin4_code":"30934765.0",
+    "gn:asciiname":"Aolatail",
+    "gn:country_code":"BD",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1212643,
+    "gn:latitude":24.36106,
+    "gn:longitude":90.06425,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"\u0100ol\u0101tail",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421185471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1212643
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"6aef6e63033a12290f70a2f028bdd740",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421185471,
+            "locality_id":1344190657,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1344190657,
+    "wof:lastmodified":1536687909,
+    "wof:name":"Aolatail",
+    "wof:parent_id":421185471,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.06425,
+    24.36106,
+    90.06425,
+    24.36106
+],
+  "geometry": {"coordinates":[90.06425,24.36106],"type":"Point"}
+}

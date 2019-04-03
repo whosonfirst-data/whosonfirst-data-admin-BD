@@ -1,0 +1,70 @@
+{
+  "id": 1242907013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.44098,23.49609,90.44098,23.49609",
+    "geom:latitude":23.49609,
+    "geom:longitude":90.44098,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3059",
+    "gn:admin3_code":"305994.0",
+    "gn:admin4_code":"30599415.0",
+    "gn:asciiname":"Kurmira",
+    "gn:country_code":"BD",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1196551,
+    "gn:latitude":23.49609,
+    "gn:longitude":90.44098,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Kurmira",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421205059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1196551
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"9eecb0043b08d35cf024a04a43304a30",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421205059,
+            "locality_id":1242907013,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1242907013,
+    "wof:lastmodified":1537083105,
+    "wof:name":"Kurmira",
+    "wof:parent_id":421205059,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.44098,
+    23.49609,
+    90.44098,
+    23.49609
+],
+  "geometry": {"coordinates":[90.44098,23.49609],"type":"Point"}
+}

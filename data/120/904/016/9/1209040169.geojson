@@ -1,0 +1,64 @@
+{
+  "id": 1209040169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.78753,24.76375,90.78753,24.76375",
+    "geom:latitude":24.76375,
+    "geom:longitude":90.78753,
+    "gn:admin1_code":"H",
+    "gn:admin2_code":"3072",
+    "gn:admin3_code":"307247.0",
+    "gn:admin4_code":"30724706.0",
+    "gn:asciiname":"Kailati",
+    "gn:country_code":"BD",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1199411,
+    "gn:latitude":24.76375,
+    "gn:longitude":90.78753,
+    "gn:modification_date":"2016-11-17",
+    "gn:name":"Kail\u0101ti",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1199411
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"a6b0f03cf3ef1bafab31c05fe22a4756",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209040169
+        }
+    ],
+    "wof:id":1209040169,
+    "wof:lastmodified":1536299571,
+    "wof:name":"Kailati",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.78753,
+    24.76375,
+    90.78753,
+    24.76375
+],
+  "geometry": {"coordinates":[90.78753,24.76375],"type":"Point"}
+}

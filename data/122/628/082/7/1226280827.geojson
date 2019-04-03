@@ -1,0 +1,73 @@
+{
+  "id": 1226280827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.80912,22.57178,91.80912,22.57178",
+    "geom:latitude":22.57178,
+    "geom:longitude":91.80912,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2015.0",
+    "gn:admin3_code":"201537.0",
+    "gn:admin4_code":"20153753.0",
+    "gn:asciiname":"Saudangnagar",
+    "gn:country_code":"BD",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6414428,
+    "gn:latitude":22.57178,
+    "gn:longitude":91.80912,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Saudangnagar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Saudangnagar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421201541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6414428
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"78b241e04e7248da1fe7073b1efe7ac7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421201541,
+            "locality_id":1226280827,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1226280827,
+    "wof:lastmodified":1537586227,
+    "wof:name":"Saudangnagar",
+    "wof:parent_id":421201541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.80912,
+    22.57178,
+    91.80912,
+    22.57178
+],
+  "geometry": {"coordinates":[91.80911999999999,22.57178],"type":"Point"}
+}

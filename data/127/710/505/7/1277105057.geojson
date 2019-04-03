@@ -1,0 +1,70 @@
+{
+  "id": 1277105057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.45,23.76667,89.45,23.76667",
+    "geom:latitude":23.76667,
+    "geom:longitude":89.45,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3082.0",
+    "gn:admin3_code":"308273.0",
+    "gn:admin4_code":"30827310.0",
+    "gn:asciiname":"Hatgram",
+    "gn:country_code":"BD",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1201236,
+    "gn:latitude":23.76667,
+    "gn:longitude":89.45,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"H\u0101tgr\u0101m",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        1108694699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1201236
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"d24265812d4f4b3dd734dcb5229bde76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694699,
+            "locality_id":1277105057,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1277105057,
+    "wof:lastmodified":1536735695,
+    "wof:name":"Hatgram",
+    "wof:parent_id":1108694699,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.45,
+    23.76667,
+    89.45,
+    23.76667
+],
+  "geometry": {"coordinates":[89.45,23.76667],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1310139151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.25,25.86667,88.25,25.86667",
+    "geom:latitude":25.86667,
+    "geom:longitude":88.25,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5594",
+    "gn:admin3_code":"559486.0",
+    "gn:admin4_code":"55948663.0",
+    "gn:asciiname":"Rasunpur",
+    "gn:country_code":"BD",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1189715,
+    "gn:latitude":25.86667,
+    "gn:longitude":88.25,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Rasunpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1189715
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"796db1508bdce4a7d094f2066d84ffdb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694703,
+            "locality_id":1310139151,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1310139151,
+    "wof:lastmodified":1536948342,
+    "wof:name":"Rasunpur",
+    "wof:parent_id":1108694703,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.25,
+    25.86667000000001,
+    88.25,
+    25.86667000000001
+],
+  "geometry": {"coordinates":[88.25,25.86667000000001],"type":"Point"}
+}

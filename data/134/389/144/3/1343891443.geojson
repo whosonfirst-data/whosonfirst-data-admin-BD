@@ -1,0 +1,76 @@
+{
+  "id": 1343891443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.0535,23.20452,89.0535,23.20452",
+    "geom:latitude":23.20452,
+    "geom:longitude":89.0535,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4041.0",
+    "gn:admin3_code":"404111.0",
+    "gn:admin4_code":"40411160.0",
+    "gn:asciiname":"Banurhuda",
+    "gn:country_code":"BD",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1210833,
+    "gn:latitude":23.20452,
+    "gn:longitude":89.0535,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"B\u0101nurhuda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "B\u0101nurhuda"
+    ],
+    "name:und_x_variant":[
+        "Banurahuda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        421176039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1210833
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"4b0a6ad180b12062ec1871b014d39e3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421176039,
+            "locality_id":1343891443,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1343891443,
+    "wof:lastmodified":1537586168,
+    "wof:name":"Banurhuda",
+    "wof:parent_id":421176039,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.0535,
+    23.20452,
+    89.0535,
+    23.20452
+],
+  "geometry": {"coordinates":[89.0535,23.20452],"type":"Point"}
+}

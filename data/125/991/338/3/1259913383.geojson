@@ -1,0 +1,73 @@
+{
+  "id": 1259913383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.89427,25.13458,88.89427,25.13458",
+    "geom:latitude":25.13458,
+    "geom:longitude":88.89427,
+    "gn:admin1_code":"83",
+    "gn:admin2_code":"5064.0",
+    "gn:admin3_code":"506428.0",
+    "gn:admin4_code":"50642863.0",
+    "gn:asciiname":"Beniduar",
+    "gn:country_code":"BD",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7481659,
+    "gn:latitude":25.13458,
+    "gn:longitude":88.89427,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Benidu\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Benidu\u0101r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669031,
+        421191663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7481659
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"518d9d39ab48e7f52c82b3cc96398140",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421191663,
+            "locality_id":1259913383,
+            "region_id":85669031
+        }
+    ],
+    "wof:id":1259913383,
+    "wof:lastmodified":1537586485,
+    "wof:name":"Beniduar",
+    "wof:parent_id":421191663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.89426999999998,
+    25.13458,
+    88.89426999999998,
+    25.13458
+],
+  "geometry": {"coordinates":[88.89426999999998,25.13458],"type":"Point"}
+}

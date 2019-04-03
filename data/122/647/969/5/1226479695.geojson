@@ -1,0 +1,79 @@
+{
+  "id": 1226479695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.27619,25.90826,89.27619,25.90826",
+    "geom:latitude":25.90826,
+    "geom:longitude":89.27619,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5552",
+    "gn:admin3_code":"555239.0",
+    "gn:admin4_code":"55523953.0",
+    "gn:asciiname":"Rudreswar",
+    "gn:country_code":"BD",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1189503,
+    "gn:latitude":25.90826,
+    "gn:longitude":89.27619,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Rudreswar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Rudreswar"
+    ],
+    "name:ben_x_variant":[
+        "Rudreshwar"
+    ],
+    "name:und_x_variant":[
+        "Rudreshwar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1189503
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"7b1e796714313e523e65bcd7163dca32",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694687,
+            "locality_id":1226479695,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1226479695,
+    "wof:lastmodified":1537585781,
+    "wof:name":"Rudreswar",
+    "wof:parent_id":1108694687,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.27619,
+    25.90826,
+    89.27619,
+    25.90826
+],
+  "geometry": {"coordinates":[89.27619,25.90826],"type":"Point"}
+}

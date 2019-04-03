@@ -1,0 +1,73 @@
+{
+  "id": 1276374887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.30685,25.30987,89.30685,25.30987",
+    "geom:latitude":25.30987,
+    "geom:longitude":89.30685,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5585",
+    "gn:admin3_code":"558576.0",
+    "gn:admin4_code":"55857637.0",
+    "gn:asciiname":"Jamirbari",
+    "gn:country_code":"BD",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7898367,
+    "gn:latitude":25.30987,
+    "gn:longitude":89.30685,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Jamirbari",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Jamirbari"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7898367
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"0734c94eaadc67466aa822413ee6c8c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694701,
+            "locality_id":1276374887,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1276374887,
+    "wof:lastmodified":1537586767,
+    "wof:name":"Jamirbari",
+    "wof:parent_id":1108694701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.30685,
+    25.30987,
+    89.30685,
+    25.30987
+],
+  "geometry": {"coordinates":[89.30685,25.30987],"type":"Point"}
+}

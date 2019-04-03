@@ -1,0 +1,65 @@
+{
+  "id": 1209344417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.26074,22.07871,90.26074,22.07871",
+    "geom:latitude":22.07871,
+    "geom:longitude":90.26074,
+    "gn:admin1_code":"82",
+    "gn:asciiname":"Chila Chhonauta",
+    "gn:country_code":"BD",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1205808,
+    "gn:latitude":22.07871,
+    "gn:longitude":90.26074,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Chila Chhonauta",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Chila Chhonauta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1205808,
+        "wk:page":"Chila_Chhonauta"
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"94db48a8718f79099d7b5c2c56dc095b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209344417
+        }
+    ],
+    "wof:id":1209344417,
+    "wof:lastmodified":1537586081,
+    "wof:name":"Chila Chhonauta",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.26074,
+    22.07871,
+    90.26074,
+    22.07871
+],
+  "geometry": {"coordinates":[90.26074,22.07871],"type":"Point"}
+}

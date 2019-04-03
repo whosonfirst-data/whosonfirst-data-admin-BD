@@ -1,0 +1,70 @@
+{
+  "id": 1242921923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.25,22.91667,91.25,22.91667",
+    "geom:latitude":22.91667,
+    "geom:longitude":91.25,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2075",
+    "gn:admin3_code":"207580.0",
+    "gn:admin4_code":"20758019.0",
+    "gn:asciiname":"Kazirkhil",
+    "gn:country_code":"BD",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1197974,
+    "gn:latitude":22.91667,
+    "gn:longitude":91.25,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"K\u0101zirkhil",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421177051
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1197974
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"d0918c0d22aa907a4bed96a583f238dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421177051,
+            "locality_id":1242921923,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1242921923,
+    "wof:lastmodified":1537062114,
+    "wof:name":"Kazirkhil",
+    "wof:parent_id":421177051,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.25,
+    22.91667,
+    91.25,
+    22.91667
+],
+  "geometry": {"coordinates":[91.25,22.91667],"type":"Point"}
+}

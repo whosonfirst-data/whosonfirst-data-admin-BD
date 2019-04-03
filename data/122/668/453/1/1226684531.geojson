@@ -1,0 +1,70 @@
+{
+  "id": 1226684531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.72871,23.1274,90.72871,23.1274",
+    "geom:latitude":23.1274,
+    "geom:longitude":90.72871,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2013.0",
+    "gn:admin3_code":"201345.0",
+    "gn:admin4_code":"20134541.0",
+    "gn:asciiname":"Char Mathura",
+    "gn:country_code":"BD",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1206637,
+    "gn:latitude":23.1274,
+    "gn:longitude":90.72871,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Char Mathura",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        1108694669
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1206637
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"32a6800fcab87f5f6a1a2c810fbab53d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694669,
+            "locality_id":1226684531,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1226684531,
+    "wof:lastmodified":1536803551,
+    "wof:name":"Char Mathura",
+    "wof:parent_id":1108694669,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.72871,
+    23.1274,
+    90.72871,
+    23.1274
+],
+  "geometry": {"coordinates":[90.72871000000001,23.1274],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1310234999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.78798,23.43724,88.78798,23.43724",
+    "geom:latitude":23.43724,
+    "geom:longitude":88.78798,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4018.0",
+    "gn:admin3_code":"401855.0",
+    "gn:admin4_code":"40185557.0",
+    "gn:asciiname":"Gayeshpur",
+    "gn:country_code":"BD",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7484936,
+    "gn:latitude":23.43724,
+    "gn:longitude":88.78798,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Gayeshpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Gayeshpur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        421194153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7484936
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"ad04861ffede647edbc4c2360e9f446b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421194153,
+            "locality_id":1310234999,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1310234999,
+    "wof:lastmodified":1537586578,
+    "wof:name":"Gayeshpur",
+    "wof:parent_id":421194153,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.78798,
+    23.43724,
+    88.78798,
+    23.43724
+],
+  "geometry": {"coordinates":[88.78798,23.43724],"type":"Point"}
+}

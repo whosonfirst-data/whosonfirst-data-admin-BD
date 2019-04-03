@@ -1,0 +1,70 @@
+{
+  "id": 1226372581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.00274,23.90992,90.00274,23.90992",
+    "geom:latitude":23.90992,
+    "geom:longitude":90.00274,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3056.0",
+    "gn:admin3_code":"305646.0",
+    "gn:admin4_code":"30564631.0",
+    "gn:asciiname":"Gosainagar",
+    "gn:country_code":"BD",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1201968,
+    "gn:latitude":23.90992,
+    "gn:longitude":90.00274,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Gos\u0101inagar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421191745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1201968
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"0d88f9ae99119b583527c9bfca43ab70",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421191745,
+            "locality_id":1226372581,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1226372581,
+    "wof:lastmodified":1536750925,
+    "wof:name":"Gosainagar",
+    "wof:parent_id":421191745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.00274,
+    23.90992,
+    90.00274,
+    23.90992
+],
+  "geometry": {"coordinates":[90.00274,23.90992],"type":"Point"}
+}

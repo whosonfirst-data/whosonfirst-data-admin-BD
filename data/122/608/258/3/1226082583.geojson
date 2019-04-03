@@ -1,0 +1,84 @@
+{
+  "id": 1226082583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.98885,23.67346,88.98885,23.67346",
+    "geom:latitude":23.67346,
+    "geom:longitude":88.98885,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4018.0",
+    "gn:admin3_code":"401807.0",
+    "gn:admin4_code":"40180779.0",
+    "gn:asciiname":"Nowlamary",
+    "gn:country_code":"BD",
+    "gn:dem":16,
+    "gn:elevation":"20.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7484878,
+    "gn:latitude":23.67346,
+    "gn:longitude":88.98885,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Nowlamary",
+    "gn:population":3500,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_colloquial":[
+        "\u09a8\u0993\u09b2\u09be\u09ae\u09be\u09b0\u09c0"
+    ],
+    "name:ben_x_historical":[
+        "\u09a8\u0993\u09b2\u09be\u09ae\u09be\u09b0\u09c0"
+    ],
+    "name:ben_x_preferred":[
+        "\u09a8\u0993\u09b2\u09be\u09ae\u09be\u09b0\u09c0"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        421194153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7484878,
+        "wk:page":"Nowlamary"
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"1bc7334c17c287eb50d0f8095074f90a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421194153,
+            "locality_id":1226082583,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1226082583,
+    "wof:lastmodified":1537487334,
+    "wof:name":"Nowlamary",
+    "wof:parent_id":421194153,
+    "wof:placetype":"locality",
+    "wof:population":3500,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.98885,
+    23.67346,
+    88.98885,
+    23.67346
+],
+  "geometry": {"coordinates":[88.98885,23.67346],"type":"Point"}
+}

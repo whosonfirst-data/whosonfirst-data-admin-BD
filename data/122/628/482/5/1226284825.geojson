@@ -1,0 +1,70 @@
+{
+  "id": 1226284825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.98487,23.30114,90.98487,23.30114",
+    "geom:latitude":23.30114,
+    "geom:longitude":90.98487,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2019",
+    "gn:admin3_code":"201909.0",
+    "gn:admin4_code":"20190912.0",
+    "gn:asciiname":"Sonaimuri",
+    "gn:country_code":"BD",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1187586,
+    "gn:latitude":23.30114,
+    "gn:longitude":90.98487,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Son\u0101imuri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421187801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1187586
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"bb469acc56139da7e4c271939fe79d76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421187801,
+            "locality_id":1226284825,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1226284825,
+    "wof:lastmodified":1536876508,
+    "wof:name":"Sonaimuri",
+    "wof:parent_id":421187801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.98487,
+    23.30114,
+    90.98487,
+    23.30114
+],
+  "geometry": {"coordinates":[90.98487,23.30114],"type":"Point"}
+}

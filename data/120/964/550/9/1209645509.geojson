@@ -1,0 +1,68 @@
+{
+  "id": 1209645509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.35442,24.55428,89.35442,24.55428",
+    "geom:latitude":24.55428,
+    "geom:longitude":89.35442,
+    "gn:admin1_code":"83",
+    "gn:admin2_code":"5088",
+    "gn:admin3_code":"508889.0",
+    "gn:admin4_code":"50888973.0",
+    "gn:asciiname":"Chak Kalamula",
+    "gn:country_code":"BD",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1199225,
+    "gn:latitude":24.55428,
+    "gn:longitude":89.35442,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Chak K\u0101l\u0101mula",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chak K\u0101l\u0101mula",
+        "K\u0101l\u0101mula"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1199225
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"122836aa8b71b6fbe858731683e63d27",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209645509
+        }
+    ],
+    "wof:id":1209645509,
+    "wof:lastmodified":1537585956,
+    "wof:name":"Chak Kalamula",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.35441999999998,
+    24.55428,
+    89.35441999999998,
+    24.55428
+],
+  "geometry": {"coordinates":[89.35441999999998,24.55428],"type":"Point"}
+}

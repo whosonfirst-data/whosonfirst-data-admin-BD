@@ -1,0 +1,70 @@
+{
+  "id": 1209845629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.50059,23.26263,89.50059,23.26263",
+    "geom:latitude":23.26263,
+    "geom:longitude":89.50059,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4065.0",
+    "gn:admin3_code":"406576.0",
+    "gn:admin4_code":"40657640.0",
+    "gn:asciiname":"Harighara",
+    "gn:country_code":"BD",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1201507,
+    "gn:latitude":23.26263,
+    "gn:longitude":89.50059,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"H\u0101righara",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        421205213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1201507
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"2e02c59ae9b19d765e354775939087f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421205213,
+            "locality_id":1209845629,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1209845629,
+    "wof:lastmodified":1536390795,
+    "wof:name":"Harighara",
+    "wof:parent_id":421205213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.50059,
+    23.26263,
+    89.50059,
+    23.26263
+],
+  "geometry": {"coordinates":[89.50059,23.26263],"type":"Point"}
+}

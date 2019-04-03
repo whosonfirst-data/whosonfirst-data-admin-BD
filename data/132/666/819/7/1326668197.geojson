@@ -1,0 +1,75 @@
+{
+  "id": 1326668197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.0117,24.04016,91.0117,24.04016",
+    "geom:latitude":24.04016,
+    "geom:longitude":91.0117,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2012.0",
+    "gn:admin3_code":"201233.0",
+    "gn:admin4_code":"20123389.0",
+    "gn:asciiname":"Ashuganj City",
+    "gn:country_code":"BD",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1212405,
+    "gn:latitude":24.04016,
+    "gn:longitude":91.0117,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"\u0100shuganj City",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0100shuganj",
+        "Ashuganj City, Bangladesh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        1108694667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1212405,
+        "wk:page":"Ashuganj_City,_Bangladesh"
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"a7fa68c489d2aae8f58b3e91e98ab95d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694667,
+            "locality_id":1326668197,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1326668197,
+    "wof:lastmodified":1537586194,
+    "wof:name":"Ashuganj City",
+    "wof:parent_id":1108694667,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.0117,
+    24.04016,
+    91.0117,
+    24.04016
+],
+  "geometry": {"coordinates":[91.0117,24.04016],"type":"Point"}
+}

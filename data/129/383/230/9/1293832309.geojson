@@ -1,0 +1,73 @@
+{
+  "id": 1293832309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"92.12778,22.36223,92.12778,22.36223",
+    "geom:latitude":22.36223,
+    "geom:longitude":92.12778,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2015.0",
+    "gn:admin3_code":"201570.0",
+    "gn:admin4_code":"20157043.0",
+    "gn:asciiname":"Sukbilash",
+    "gn:country_code":"BD",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6416435,
+    "gn:latitude":22.36223,
+    "gn:longitude":92.12778,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Sukbilash",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Sukbilash"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421169477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6416435
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"819dea80d9575f59c1da7077e0d93600",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421169477,
+            "locality_id":1293832309,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1293832309,
+    "wof:lastmodified":1537586263,
+    "wof:name":"Sukbilash",
+    "wof:parent_id":421169477,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    92.12778,
+    22.36223,
+    92.12778,
+    22.36223
+],
+  "geometry": {"coordinates":[92.12778,22.36223],"type":"Point"}
+}

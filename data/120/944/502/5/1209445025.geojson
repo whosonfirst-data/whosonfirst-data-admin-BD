@@ -1,0 +1,68 @@
+{
+  "id": 1209445025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.70253,23.49787,89.70253,23.49787",
+    "geom:latitude":23.49787,
+    "geom:longitude":89.70253,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3029.0",
+    "gn:admin3_code":"302918.0",
+    "gn:admin4_code":"30291820.0",
+    "gn:asciiname":"Dasturdia",
+    "gn:country_code":"BD",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1204938,
+    "gn:latitude":23.49787,
+    "gn:longitude":89.70253,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Dasturdia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dastardia",
+        "Dasturdia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1204938
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"3c4bc658ba3b3f183af831490842e25c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209445025
+        }
+    ],
+    "wof:id":1209445025,
+    "wof:lastmodified":1537586064,
+    "wof:name":"Dasturdia",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.70253000000002,
+    23.49787,
+    89.70253000000002,
+    23.49787
+],
+  "geometry": {"coordinates":[89.70253000000002,23.49787],"type":"Point"}
+}

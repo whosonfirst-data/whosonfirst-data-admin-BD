@@ -1,0 +1,77 @@
+{
+  "id": 1360023623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"92.09597,22.84073,92.09597,22.84073",
+    "geom:latitude":22.84073,
+    "geom:longitude":92.09597,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2084",
+    "gn:admin3_code":"208475.0",
+    "gn:admin4_code":"20847557.0",
+    "gn:asciiname":"Nanyarchar",
+    "gn:country_code":"BD",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1193409,
+    "gn:latitude":22.84073,
+    "gn:longitude":92.09597,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"N\u0101ny\u0101rchar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "N\u0101ny\u0101rchar"
+    ],
+    "name:und_x_variant":[
+        "N\u0101ny\u0101rchar",
+        "N\u0101ny\u0101rchar B\u0101z\u0101r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421188983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1193409
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"e265992cc9bf2fc09c1d031d8b59d9c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421188983,
+            "locality_id":1360023623,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1360023623,
+    "wof:lastmodified":1537585852,
+    "wof:name":"Nanyarchar",
+    "wof:parent_id":421188983,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    92.09597,
+    22.84073,
+    92.09597,
+    22.84073
+],
+  "geometry": {"coordinates":[92.09596999999999,22.84073],"type":"Point"}
+}

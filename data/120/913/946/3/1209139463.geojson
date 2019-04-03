@@ -1,0 +1,67 @@
+{
+  "id": 1209139463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.05171,22.23743,90.05171,22.23743",
+    "geom:latitude":22.23743,
+    "geom:longitude":90.05171,
+    "gn:admin1_code":"85",
+    "gn:admin2_code":"1004.0",
+    "gn:admin3_code":"100419.0",
+    "gn:admin4_code":"10041971.0",
+    "gn:asciiname":"Duatali",
+    "gn:country_code":"BD",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7476578,
+    "gn:latitude":22.23743,
+    "gn:longitude":90.05171,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Duatali",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Duatali"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7476578
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"864ce4dac6e2597c54123c2127bd49b0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209139463
+        }
+    ],
+    "wof:id":1209139463,
+    "wof:lastmodified":1537586348,
+    "wof:name":"Duatali",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.05171,
+    22.23743,
+    90.05171,
+    22.23743
+],
+  "geometry": {"coordinates":[90.05171,22.23743],"type":"Point"}
+}

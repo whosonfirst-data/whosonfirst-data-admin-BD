@@ -1,0 +1,76 @@
+{
+  "id": 1193170659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.9172,24.92195,88.9172,24.92195",
+    "geom:latitude":24.92195,
+    "geom:longitude":88.9172,
+    "gn:admin1_code":"83",
+    "gn:admin2_code":"5064.0",
+    "gn:admin3_code":"506406.0",
+    "gn:admin4_code":"50640631.0",
+    "gn:asciiname":"Harikrishnapur",
+    "gn:country_code":"BD",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1201486,
+    "gn:latitude":24.92195,
+    "gn:longitude":88.9172,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Harikrishnapur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Harikrishnapur"
+    ],
+    "name:und_x_variant":[
+        "Harikishnapur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669031,
+        421191663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1201486
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"d3fc7219208b03ace483957b43939cf9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421191663,
+            "locality_id":1193170659,
+            "region_id":85669031
+        }
+    ],
+    "wof:id":1193170659,
+    "wof:lastmodified":1537586000,
+    "wof:name":"Harikrishnapur",
+    "wof:parent_id":421191663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.9172,
+    24.92195,
+    88.9172,
+    24.92195
+],
+  "geometry": {"coordinates":[88.91719999999999,24.92195],"type":"Point"}
+}

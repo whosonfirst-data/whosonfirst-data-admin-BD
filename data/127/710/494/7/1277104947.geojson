@@ -1,0 +1,70 @@
+{
+  "id": 1277104947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.65932,24.99345,90.65932,24.99345",
+    "geom:latitude":24.99345,
+    "geom:longitude":90.65932,
+    "gn:admin1_code":"H",
+    "gn:admin2_code":"3072.0",
+    "gn:admin3_code":"307283.0",
+    "gn:admin4_code":"30728371.0",
+    "gn:asciiname":"Chorerbhita",
+    "gn:country_code":"BD",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1205723,
+    "gn:latitude":24.99345,
+    "gn:longitude":90.65932,
+    "gn:modification_date":"2016-11-17",
+    "gn:name":"Chorerbhita",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        1108803101,
+        421200811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1205723
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"2930427320adffcc2d86a29402dd8d32",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421200811,
+            "locality_id":1277104947,
+            "region_id":1108803101
+        }
+    ],
+    "wof:id":1277104947,
+    "wof:lastmodified":1536735845,
+    "wof:name":"Chorerbhita",
+    "wof:parent_id":421200811,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.65932,
+    24.99345,
+    90.65932,
+    24.99345
+],
+  "geometry": {"coordinates":[90.65931999999999,24.99345],"type":"Point"}
+}

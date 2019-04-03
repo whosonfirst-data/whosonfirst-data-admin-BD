@@ -1,0 +1,74 @@
+{
+  "id": 1343489461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.25947,22.42699,90.25947,22.42699",
+    "geom:latitude":22.42699,
+    "geom:longitude":90.25947,
+    "gn:admin1_code":"82",
+    "gn:asciiname":"Andud",
+    "gn:country_code":"BD",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1212696,
+    "gn:latitude":22.42699,
+    "gn:longitude":90.25947,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Andud",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Andud"
+    ],
+    "name:ben_x_variant":[
+        "Andua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669019,
+        421169845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1212696,
+        "wk:page":"Andua"
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"732cd91db1cd3daf8128b633b79f27c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421169845,
+            "locality_id":1343489461,
+            "region_id":85669019
+        }
+    ],
+    "wof:id":1343489461,
+    "wof:lastmodified":1537586201,
+    "wof:name":"Andud",
+    "wof:parent_id":421169845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.25947,
+    22.42699,
+    90.25947,
+    22.42699
+],
+  "geometry": {"coordinates":[90.25946999999999,22.42699],"type":"Point"}
+}

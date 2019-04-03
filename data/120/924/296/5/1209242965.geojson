@@ -1,0 +1,67 @@
+{
+  "id": 1209242965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.19695,23.22788,89.19695,23.22788",
+    "geom:latitude":23.22788,
+    "geom:longitude":89.19695,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4041",
+    "gn:admin3_code":"404147.0",
+    "gn:admin4_code":"40414765.0",
+    "gn:asciiname":"Khojarhat",
+    "gn:country_code":"BD",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1197342,
+    "gn:latitude":23.22788,
+    "gn:longitude":89.19695,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Khoj\u0101rh\u0101t",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Khoj\u0101rh\u0101t"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1197342
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"8bd5f13de14deb554a2b27cb58dad921",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209242965
+        }
+    ],
+    "wof:id":1209242965,
+    "wof:lastmodified":1537585924,
+    "wof:name":"Khojarhat",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.19695,
+    23.22788,
+    89.19695,
+    23.22788
+],
+  "geometry": {"coordinates":[89.19695,23.22788],"type":"Point"}
+}

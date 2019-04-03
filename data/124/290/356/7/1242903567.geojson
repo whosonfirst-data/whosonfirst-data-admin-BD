@@ -1,0 +1,70 @@
+{
+  "id": 1242903567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.27116,22.59933,90.27116,22.59933",
+    "geom:latitude":22.59933,
+    "geom:longitude":90.27116,
+    "gn:admin1_code":"85",
+    "gn:admin2_code":"1042",
+    "gn:admin3_code":"104273.0",
+    "gn:admin4_code":"10427331.0",
+    "gn:asciiname":"Mallikghat",
+    "gn:country_code":"BD",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1195153,
+    "gn:latitude":22.59933,
+    "gn:longitude":90.27116,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Mallikgh\u0101t",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669019,
+        1108694677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1195153
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"1958de19e56264724feb4035e104662d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694677,
+            "locality_id":1242903567,
+            "region_id":85669019
+        }
+    ],
+    "wof:id":1242903567,
+    "wof:lastmodified":1537088089,
+    "wof:name":"Mallikghat",
+    "wof:parent_id":1108694677,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.27116,
+    22.59933,
+    90.27116,
+    22.59933
+],
+  "geometry": {"coordinates":[90.27115999999999,22.59933],"type":"Point"}
+}

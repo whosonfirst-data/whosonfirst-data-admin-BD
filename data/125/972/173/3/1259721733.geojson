@@ -1,0 +1,73 @@
+{
+  "id": 1259721733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"92.09379,22.92009,92.09379,22.92009",
+    "geom:latitude":22.92009,
+    "geom:longitude":92.09379,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2084.0",
+    "gn:admin3_code":"208475.0",
+    "gn:admin4_code":"20847576.0",
+    "gn:asciiname":"Silonia",
+    "gn:country_code":"BD",
+    "gn:dem":60,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7477301,
+    "gn:latitude":22.92009,
+    "gn:longitude":92.09379,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Silonia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Silonia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421188983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7477301
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"9e6a8c4b7caad5347a900b50b0b282bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421188983,
+            "locality_id":1259721733,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1259721733,
+    "wof:lastmodified":1537586364,
+    "wof:name":"Silonia",
+    "wof:parent_id":421188983,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    92.09379,
+    22.92009,
+    92.09379,
+    22.92009
+],
+  "geometry": {"coordinates":[92.09379,22.92009],"type":"Point"}
+}

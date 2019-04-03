@@ -1,0 +1,73 @@
+{
+  "id": 1277104713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.00596,22.40563,89.00596,22.40563",
+    "geom:latitude":22.40563,
+    "geom:longitude":89.00596,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4087.0",
+    "gn:admin3_code":"408747.0",
+    "gn:admin4_code":"40874739.0",
+    "gn:asciiname":"Balakati",
+    "gn:country_code":"BD",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1211441,
+    "gn:latitude":22.40563,
+    "gn:longitude":89.00596,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"B\u0101l\u0101k\u0101ti",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "B\u0101l\u0101k\u0101ti"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        421201927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1211441
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"62beb5f1818347cbb6d1a6f16c14f530",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421201927,
+            "locality_id":1277104713,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1277104713,
+    "wof:lastmodified":1537586177,
+    "wof:name":"Balakati",
+    "wof:parent_id":421201927,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.00596,
+    22.40563,
+    89.00596,
+    22.40563
+],
+  "geometry": {"coordinates":[89.00596,22.40563],"type":"Point"}
+}

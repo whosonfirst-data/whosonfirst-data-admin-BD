@@ -1,0 +1,67 @@
+{
+  "id": 1209136073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.99276,24.38614,88.99276,24.38614",
+    "geom:latitude":24.38614,
+    "geom:longitude":88.99276,
+    "gn:admin1_code":"83",
+    "gn:admin2_code":"5069.0",
+    "gn:admin3_code":"506963.0",
+    "gn:admin4_code":"50696307.0",
+    "gn:asciiname":"Jataine",
+    "gn:country_code":"BD",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7483821,
+    "gn:latitude":24.38614,
+    "gn:longitude":88.99276,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"J\u0101t\u0101ine",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "J\u0101t\u0101ine"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7483821
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"8f1c844ea64f10691706d854b4d442f4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209136073
+        }
+    ],
+    "wof:id":1209136073,
+    "wof:lastmodified":1537586547,
+    "wof:name":"Jataine",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.99276,
+    24.38614,
+    88.99276,
+    24.38614
+],
+  "geometry": {"coordinates":[88.99276,24.38614],"type":"Point"}
+}

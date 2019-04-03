@@ -1,0 +1,73 @@
+{
+  "id": 1226380021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.01604,23.98501,89.01604,23.98501",
+    "geom:latitude":23.98501,
+    "geom:longitude":89.01604,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4050.0",
+    "gn:admin3_code":"405094.0",
+    "gn:admin4_code":"40509421.0",
+    "gn:asciiname":"Baradi",
+    "gn:country_code":"BD",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1210632,
+    "gn:latitude":23.98501,
+    "gn:longitude":89.01604,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"B\u0101radi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "B\u0101radi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        890438075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1210632
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"84763c1884907c424c88f420175be28b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":890438075,
+            "locality_id":1226380021,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1226380021,
+    "wof:lastmodified":1537586164,
+    "wof:name":"Baradi",
+    "wof:parent_id":890438075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.01604,
+    23.98501,
+    89.01604,
+    23.98501
+],
+  "geometry": {"coordinates":[89.01604,23.98501],"type":"Point"}
+}

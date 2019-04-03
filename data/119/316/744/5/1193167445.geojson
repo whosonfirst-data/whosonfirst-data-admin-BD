@@ -1,0 +1,73 @@
+{
+  "id": 1193167445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.16089,25.78623,89.16089,25.78623",
+    "geom:latitude":25.78623,
+    "geom:longitude":89.16089,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5585",
+    "gn:admin3_code":"558549.0",
+    "gn:admin4_code":"55854923.0",
+    "gn:asciiname":"Eakiran",
+    "gn:country_code":"BD",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7924001,
+    "gn:latitude":25.78623,
+    "gn:longitude":89.16089,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Eakir\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Eakir\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7924001
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"8844cb10ee4f24eb9419bdb680d6cbe3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694701,
+            "locality_id":1193167445,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1193167445,
+    "wof:lastmodified":1537586814,
+    "wof:name":"Eakiran",
+    "wof:parent_id":1108694701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.16089000000002,
+    25.78623,
+    89.16089000000002,
+    25.78623
+],
+  "geometry": {"coordinates":[89.16089000000002,25.78623],"type":"Point"}
+}

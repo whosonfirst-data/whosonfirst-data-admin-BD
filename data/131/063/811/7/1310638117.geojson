@@ -1,0 +1,70 @@
+{
+  "id": 1310638117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.41757,22.26046,90.41757,22.26046",
+    "geom:latitude":22.26046,
+    "geom:longitude":90.41757,
+    "gn:admin1_code":"82",
+    "gn:asciiname":"Haridebpur",
+    "gn:country_code":"BD",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8355702,
+    "gn:latitude":22.26046,
+    "gn:longitude":90.41757,
+    "gn:modification_date":"2012-08-05",
+    "gn:name":"Haridebpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Haridebpur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669019,
+        421169845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8355702
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"089bdd1b7b01f83c5ec35d42691c5151",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421169845,
+            "locality_id":1310638117,
+            "region_id":85669019
+        }
+    ],
+    "wof:id":1310638117,
+    "wof:lastmodified":1537586865,
+    "wof:name":"Haridebpur",
+    "wof:parent_id":421169845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.41757,
+    22.26046,
+    90.41757,
+    22.26046
+],
+  "geometry": {"coordinates":[90.41757,22.26046],"type":"Point"}
+}

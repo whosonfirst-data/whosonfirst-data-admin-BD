@@ -1,0 +1,70 @@
+{
+  "id": 1327059929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.06922,24.62617,90.06922,24.62617",
+    "geom:latitude":24.62617,
+    "geom:longitude":90.06922,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3093",
+    "gn:admin3_code":"309357.0",
+    "gn:admin4_code":"30935719.0",
+    "gn:asciiname":"Ramkrishnabari",
+    "gn:country_code":"BD",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1190047,
+    "gn:latitude":24.62617,
+    "gn:longitude":90.06922,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"R\u0101mkrishnab\u0101ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421185471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1190047
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"d34221a370a0d339b4a919d83667fe21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421185471,
+            "locality_id":1327059929,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1327059929,
+    "wof:lastmodified":1536721198,
+    "wof:name":"Ramkrishnabari",
+    "wof:parent_id":421185471,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.06922,
+    24.62617,
+    90.06922,
+    24.62617
+],
+  "geometry": {"coordinates":[90.06922,24.62617],"type":"Point"}
+}

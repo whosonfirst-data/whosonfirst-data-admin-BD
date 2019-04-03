@@ -1,0 +1,73 @@
+{
+  "id": 1276800823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.94336,25.91724,88.94336,25.91724",
+    "geom:latitude":25.91724,
+    "geom:longitude":88.94336,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5573",
+    "gn:admin3_code":"557364.0",
+    "gn:admin4_code":"55736437.0",
+    "gn:asciiname":"Pachapukur",
+    "gn:country_code":"BD",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1191642,
+    "gn:latitude":25.91724,
+    "gn:longitude":88.94336,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Pach\u0101pukur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Pach\u0101pukur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1191642
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"01e4a4c5457449f8515890d27dce27d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694695,
+            "locality_id":1276800823,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1276800823,
+    "wof:lastmodified":1537585817,
+    "wof:name":"Pachapukur",
+    "wof:parent_id":1108694695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.94336,
+    25.91724,
+    88.94336,
+    25.91724
+],
+  "geometry": {"coordinates":[88.94336,25.91724],"type":"Point"}
+}

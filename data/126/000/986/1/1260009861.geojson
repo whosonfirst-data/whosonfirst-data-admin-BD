@@ -1,0 +1,74 @@
+{
+  "id": 1260009861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.82381,24.93467,90.82381,24.93467",
+    "geom:latitude":24.93467,
+    "geom:longitude":90.82381,
+    "gn:admin1_code":"H",
+    "gn:admin2_code":"3072",
+    "gn:admin3_code":"307274.0",
+    "gn:admin4_code":"30727494.0",
+    "gn:asciiname":"Tatiar",
+    "gn:country_code":"BD",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1186433,
+    "gn:latitude":24.93467,
+    "gn:longitude":90.82381,
+    "gn:modification_date":"2016-11-17",
+    "gn:name":"T\u0101tiar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tatair",
+        "T\u0101tiar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        1108803101,
+        421200811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1186433
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"589d1e932ce990053c6125d972dceb03",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421200811,
+            "locality_id":1260009861,
+            "region_id":1108803101
+        }
+    ],
+    "wof:id":1260009861,
+    "wof:lastmodified":1537585718,
+    "wof:name":"Tatiar",
+    "wof:parent_id":421200811,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.82381,
+    24.93467,
+    90.82381,
+    24.93467
+],
+  "geometry": {"coordinates":[90.82380999999999,24.93467],"type":"Point"}
+}

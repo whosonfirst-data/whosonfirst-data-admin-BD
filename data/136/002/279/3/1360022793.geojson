@@ -1,0 +1,73 @@
+{
+  "id": 1360022793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.75305,24.35288,88.75305,24.35288",
+    "geom:latitude":24.35288,
+    "geom:longitude":88.75305,
+    "gn:admin1_code":"83",
+    "gn:admin2_code":"5081.0",
+    "gn:admin3_code":"508125.0",
+    "gn:admin4_code":"50812587.0",
+    "gn:asciiname":"Kumrabadal",
+    "gn:country_code":"BD",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7483721,
+    "gn:latitude":24.35288,
+    "gn:longitude":88.75305,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Kumr\u0101b\u0101dal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Kumr\u0101b\u0101dal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669031,
+        421172439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7483721
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"5be9eae32a0d634d2e0d17610b4c5a58",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421172439,
+            "locality_id":1360022793,
+            "region_id":85669031
+        }
+    ],
+    "wof:id":1360022793,
+    "wof:lastmodified":1537586545,
+    "wof:name":"Kumrabadal",
+    "wof:parent_id":421172439,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.75305,
+    24.35288,
+    88.75305,
+    24.35288
+],
+  "geometry": {"coordinates":[88.75305,24.35288],"type":"Point"}
+}

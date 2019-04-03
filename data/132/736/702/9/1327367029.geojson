@@ -1,0 +1,70 @@
+{
+  "id": 1327367029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.43486,25.09738,89.43486,25.09738",
+    "geom:latitude":25.09738,
+    "geom:longitude":89.43486,
+    "gn:admin1_code":"83",
+    "gn:asciiname":"Kuchasahar",
+    "gn:country_code":"BD",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7892206,
+    "gn:latitude":25.09738,
+    "gn:longitude":89.43486,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Kuchasah\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Kuchasah\u0101r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7892206
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"2dd0e18b6d34a71ff85a9ba9d59df609",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694675,
+            "locality_id":1327367029,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1327367029,
+    "wof:lastmodified":1537586755,
+    "wof:name":"Kuchasahar",
+    "wof:parent_id":1108694675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.43486,
+    25.09738,
+    89.43486,
+    25.09738
+],
+  "geometry": {"coordinates":[89.43486,25.09738],"type":"Point"}
+}

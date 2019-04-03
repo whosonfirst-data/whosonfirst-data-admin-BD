@@ -1,0 +1,73 @@
+{
+  "id": 1293619169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.42488,21.93983,90.42488,21.93983",
+    "geom:latitude":21.93983,
+    "geom:longitude":90.42488,
+    "gn:admin1_code":"85",
+    "gn:admin2_code":"1078.0",
+    "gn:admin3_code":"107897.0",
+    "gn:admin4_code":"10789783.0",
+    "gn:asciiname":"Dakshin Kazir Haola",
+    "gn:country_code":"BD",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7634709,
+    "gn:latitude":21.93983,
+    "gn:longitude":90.42488,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Dakshin K\u0101zir H\u0101ola",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Dakshin K\u0101zir H\u0101ola"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669019,
+        421169845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7634709
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"141eca932be6d289233f9b553c833799",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421169845,
+            "locality_id":1293619169,
+            "region_id":85669019
+        }
+    ],
+    "wof:id":1293619169,
+    "wof:lastmodified":1537586712,
+    "wof:name":"Dakshin Kazir Haola",
+    "wof:parent_id":421169845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.42488,
+    21.93983,
+    90.42488,
+    21.93983
+],
+  "geometry": {"coordinates":[90.42488,21.93983],"type":"Point"}
+}

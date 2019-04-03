@@ -1,0 +1,70 @@
+{
+  "id": 1226570921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.88863,22.23136,89.88863,22.23136",
+    "geom:latitude":22.23136,
+    "geom:longitude":89.88863,
+    "gn:admin1_code":"82",
+    "gn:asciiname":"Hogalpati",
+    "gn:country_code":"BD",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8355694,
+    "gn:latitude":22.23136,
+    "gn:longitude":89.88863,
+    "gn:modification_date":"2012-08-05",
+    "gn:name":"Hogalpati",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Hogalpati"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669019,
+        421172031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8355694
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"4af91f0f8a09d1446ce44f058cdc6021",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421172031,
+            "locality_id":1226570921,
+            "region_id":85669019
+        }
+    ],
+    "wof:id":1226570921,
+    "wof:lastmodified":1537586865,
+    "wof:name":"Hogalpati",
+    "wof:parent_id":421172031,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.88863,
+    22.23136,
+    89.88863,
+    22.23136
+],
+  "geometry": {"coordinates":[89.88863000000001,22.23136],"type":"Point"}
+}

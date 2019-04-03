@@ -1,0 +1,73 @@
+{
+  "id": 1243602597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"92.04075,21.79582,92.04075,21.79582",
+    "geom:latitude":21.79582,
+    "geom:longitude":92.04075,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2022.0",
+    "gn:admin3_code":"202216.0",
+    "gn:admin4_code":"20221661.0",
+    "gn:asciiname":"Khilchhadak",
+    "gn:country_code":"BD",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6414826,
+    "gn:latitude":21.79582,
+    "gn:longitude":92.04075,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Khilchh\u0101dak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Khilchh\u0101dak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421205057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6414826
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"62144dac26db462160f759c5ab21f3c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421205057,
+            "locality_id":1243602597,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1243602597,
+    "wof:lastmodified":1537586232,
+    "wof:name":"Khilchhadak",
+    "wof:parent_id":421205057,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    92.04075,
+    21.79582000000001,
+    92.04075,
+    21.79582000000001
+],
+  "geometry": {"coordinates":[92.04075,21.79582000000001],"type":"Point"}
+}

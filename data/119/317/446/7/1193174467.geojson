@@ -1,0 +1,73 @@
+{
+  "id": 1193174467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.20241,25.05183,90.20241,25.05183",
+    "geom:latitude":25.05183,
+    "geom:longitude":90.20241,
+    "gn:admin1_code":"H",
+    "gn:admin2_code":"3089",
+    "gn:admin3_code":"308970.0",
+    "gn:admin4_code":"30897094.0",
+    "gn:asciiname":"Bajakura",
+    "gn:country_code":"BD",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8537466,
+    "gn:latitude":25.05183,
+    "gn:longitude":90.20241,
+    "gn:modification_date":"2016-11-17",
+    "gn:name":"Bajakura",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Bajakura"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        1108803101,
+        421190979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8537466
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"ec554e4aedb0b1544965635078f8a419",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421190979,
+            "locality_id":1193174467,
+            "region_id":1108803101
+        }
+    ],
+    "wof:id":1193174467,
+    "wof:lastmodified":1537586872,
+    "wof:name":"Bajakura",
+    "wof:parent_id":421190979,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.20241,
+    25.05183,
+    90.20241,
+    25.05183
+],
+  "geometry": {"coordinates":[90.20241,25.05183],"type":"Point"}
+}

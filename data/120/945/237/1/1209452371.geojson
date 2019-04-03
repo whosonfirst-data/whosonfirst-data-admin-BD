@@ -1,0 +1,67 @@
+{
+  "id": 1209452371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.71181,24.86499,88.71181,24.86499",
+    "geom:latitude":24.86499,
+    "geom:longitude":88.71181,
+    "gn:admin1_code":"83",
+    "gn:admin2_code":"5064.0",
+    "gn:admin3_code":"506447.0",
+    "gn:admin4_code":"50644706.0",
+    "gn:asciiname":"Chak Jamdai",
+    "gn:country_code":"BD",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1207782,
+    "gn:latitude":24.86499,
+    "gn:longitude":88.71181,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Chak Jamdai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Chak Jamdai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1207782
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"eeac8500507cce778c516e181865dfe2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209452371
+        }
+    ],
+    "wof:id":1209452371,
+    "wof:lastmodified":1537586117,
+    "wof:name":"Chak Jamdai",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.71181,
+    24.86499,
+    88.71181,
+    24.86499
+],
+  "geometry": {"coordinates":[88.71181,24.86499],"type":"Point"}
+}

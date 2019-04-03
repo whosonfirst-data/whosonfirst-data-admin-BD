@@ -1,0 +1,70 @@
+{
+  "id": 1310238371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.42793,22.98574,90.42793,22.98574",
+    "geom:latitude":22.98574,
+    "geom:longitude":90.42793,
+    "gn:admin1_code":"85",
+    "gn:admin2_code":"1006",
+    "gn:admin3_code":"100669.0",
+    "gn:admin4_code":"10066935.0",
+    "gn:asciiname":"Saidergram",
+    "gn:country_code":"BD",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1189174,
+    "gn:latitude":22.98574,
+    "gn:longitude":90.42793,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Saidergr\u0101m",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669019,
+        421187745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1189174
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"7b1f13cef4271d6a130c6f1bc8f68a5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421187745,
+            "locality_id":1310238371,
+            "region_id":85669019
+        }
+    ],
+    "wof:id":1310238371,
+    "wof:lastmodified":1536804683,
+    "wof:name":"Saidergram",
+    "wof:parent_id":421187745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.42793,
+    22.98574,
+    90.42793,
+    22.98574
+],
+  "geometry": {"coordinates":[90.42793,22.98574],"type":"Point"}
+}

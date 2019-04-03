@@ -1,0 +1,71 @@
+{
+  "id": 1259601115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.54742,22.79503,90.54742,22.79503",
+    "geom:latitude":22.79503,
+    "geom:longitude":90.54742,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Char Sadekpur",
+    "gn:country_code":"BD",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1189394,
+    "gn:latitude":22.79503,
+    "gn:longitude":90.54742,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Char S\u0101dekpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Char S\u0101dekpur",
+        "S\u0101dakpur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669019,
+        421187745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1189394
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"6d56cf1b13289df74ad71bf875e37e33",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421187745,
+            "locality_id":1259601115,
+            "region_id":85669019
+        }
+    ],
+    "wof:id":1259601115,
+    "wof:lastmodified":1537585779,
+    "wof:name":"Char Sadekpur",
+    "wof:parent_id":421187745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.54742,
+    22.79503,
+    90.54742,
+    22.79503
+],
+  "geometry": {"coordinates":[90.54742,22.79503],"type":"Point"}
+}

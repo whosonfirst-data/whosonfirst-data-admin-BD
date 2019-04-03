@@ -1,0 +1,67 @@
+{
+  "id": 1209243077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.24036,25.73939,89.24036,25.73939",
+    "geom:latitude":25.73939,
+    "geom:longitude":89.24036,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5585",
+    "gn:admin3_code":"558549.0",
+    "gn:admin4_code":"55854971.0",
+    "gn:asciiname":"Goneshpur",
+    "gn:country_code":"BD",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8538048,
+    "gn:latitude":25.73939,
+    "gn:longitude":89.24036,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Goneshpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Goneshpur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8538048
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"9c5a8301bd2b3d6463ffc32226447dc7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209243077
+        }
+    ],
+    "wof:id":1209243077,
+    "wof:lastmodified":1537586873,
+    "wof:name":"Goneshpur",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.24036,
+    25.73939,
+    89.24036,
+    25.73939
+],
+  "geometry": {"coordinates":[89.24036,25.73939],"type":"Point"}
+}

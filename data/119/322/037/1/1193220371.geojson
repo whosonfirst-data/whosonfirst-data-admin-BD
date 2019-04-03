@@ -1,0 +1,73 @@
+{
+  "id": 1193220371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"92.23094,22.42127,92.23094,22.42127",
+    "geom:latitude":22.42127,
+    "geom:longitude":92.23094,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2084.0",
+    "gn:admin3_code":"208436.0",
+    "gn:admin4_code":"20843638.0",
+    "gn:asciiname":"Gummaram Para",
+    "gn:country_code":"BD",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6416161,
+    "gn:latitude":22.42127,
+    "gn:longitude":92.23094,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Gummaram P\u0101ra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Gummaram P\u0101ra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421188983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6416161
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"63248bb44073b00f875f06198da6e4a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421188983,
+            "locality_id":1193220371,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1193220371,
+    "wof:lastmodified":1537586258,
+    "wof:name":"Gummaram Para",
+    "wof:parent_id":421188983,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    92.23094,
+    22.42127,
+    92.23094,
+    22.42127
+],
+  "geometry": {"coordinates":[92.23094,22.42127],"type":"Point"}
+}

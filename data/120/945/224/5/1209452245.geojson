@@ -1,0 +1,64 @@
+{
+  "id": 1209452245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"92.04086,24.80879,92.04086,24.80879",
+    "geom:latitude":24.80879,
+    "geom:longitude":92.04086,
+    "gn:admin1_code":"86",
+    "gn:admin2_code":"6091.0",
+    "gn:admin3_code":"609138.0",
+    "gn:admin4_code":"60913825.0",
+    "gn:asciiname":"Dhakadakshin",
+    "gn:country_code":"BD",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1204558,
+    "gn:latitude":24.80879,
+    "gn:longitude":92.04086,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Dh\u0101kadakshin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1204558
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"f1b357353c80810d56f8ba11a0121113",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209452245
+        }
+    ],
+    "wof:id":1209452245,
+    "wof:lastmodified":1536286637,
+    "wof:name":"Dhakadakshin",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    92.04086,
+    24.80879,
+    92.04086,
+    24.80879
+],
+  "geometry": {"coordinates":[92.04086,24.80879],"type":"Point"}
+}

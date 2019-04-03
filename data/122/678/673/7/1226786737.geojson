@@ -1,0 +1,70 @@
+{
+  "id": 1226786737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.64545,24.09788,90.64545,24.09788",
+    "geom:latitude":24.09788,
+    "geom:longitude":90.64545,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3068.0",
+    "gn:admin3_code":"306852.0",
+    "gn:admin4_code":"30685247.0",
+    "gn:asciiname":"Athara Kahania",
+    "gn:country_code":"BD",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1212310,
+    "gn:latitude":24.09788,
+    "gn:longitude":90.64545,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"\u0100th\u0101ra K\u0101hania",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421169707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1212310
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"2421e03e6db8f0db12f1e611ec546053",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421169707,
+            "locality_id":1226786737,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1226786737,
+    "wof:lastmodified":1536656490,
+    "wof:name":"Athara Kahania",
+    "wof:parent_id":421169707,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.64545,
+    24.09788,
+    90.64545,
+    24.09788
+],
+  "geometry": {"coordinates":[90.64545,24.09788],"type":"Point"}
+}

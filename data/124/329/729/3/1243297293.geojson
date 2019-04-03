@@ -1,0 +1,73 @@
+{
+  "id": 1243297293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.98364,23.01956,89.98364,23.01956",
+    "geom:latitude":23.01956,
+    "geom:longitude":89.98364,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3035.0",
+    "gn:admin3_code":"303551.0",
+    "gn:admin4_code":"30355155.0",
+    "gn:asciiname":"Bizamerkand",
+    "gn:country_code":"BD",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7480772,
+    "gn:latitude":23.01956,
+    "gn:longitude":89.98364,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Bizamerk\u0101nd",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Bizamerk\u0101nd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421194867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7480772
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"1e74ab4145bbb3246ef9c48cff41cfe1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421194867,
+            "locality_id":1243297293,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1243297293,
+    "wof:lastmodified":1537586459,
+    "wof:name":"Bizamerkand",
+    "wof:parent_id":421194867,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.98364000000002,
+    23.01956,
+    89.98364000000002,
+    23.01956
+],
+  "geometry": {"coordinates":[89.98364000000002,23.01956],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1309740371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.26248,23.84599,90.26248,23.84599",
+    "geom:latitude":23.84599,
+    "geom:longitude":90.26248,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3026",
+    "gn:admin3_code":"302672.0",
+    "gn:admin4_code":"30267200.0",
+    "gn:asciiname":"Majidpur",
+    "gn:country_code":"BD",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1195315,
+    "gn:latitude":23.84599,
+    "gn:longitude":90.26248,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Majidpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421187803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1195315
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"f494ad3626521f457bdb502400a872fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421187803,
+            "locality_id":1309740371,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1309740371,
+    "wof:lastmodified":1537024463,
+    "wof:name":"Majidpur",
+    "wof:parent_id":421187803,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.26248,
+    23.84599,
+    90.26248,
+    23.84599
+],
+  "geometry": {"coordinates":[90.26248,23.84599],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1242707771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.2194,22.85568,90.2194,22.85568",
+    "geom:latitude":22.85568,
+    "geom:longitude":90.2194,
+    "gn:admin1_code":"85",
+    "gn:admin2_code":"1006.0",
+    "gn:admin3_code":"100694.0",
+    "gn:admin4_code":"10069421.0",
+    "gn:asciiname":"Gariagabha",
+    "gn:country_code":"BD",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1202847,
+    "gn:latitude":22.85568,
+    "gn:longitude":90.2194,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Gari\u0101gabha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669019,
+        421187745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1202847
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"8997c9f7f20cdaf820240d6c32eda5a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421187745,
+            "locality_id":1242707771,
+            "region_id":85669019
+        }
+    ],
+    "wof:id":1242707771,
+    "wof:lastmodified":1536875479,
+    "wof:name":"Gariagabha",
+    "wof:parent_id":421187745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.2194,
+    22.85568,
+    90.2194,
+    22.85568
+],
+  "geometry": {"coordinates":[90.21939999999999,22.85568],"type":"Point"}
+}

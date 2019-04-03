@@ -1,0 +1,67 @@
+{
+  "id": 1209135885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.70685,24.33013,88.70685,24.33013",
+    "geom:latitude":24.33013,
+    "geom:longitude":88.70685,
+    "gn:admin1_code":"83",
+    "gn:admin2_code":"5081.0",
+    "gn:admin3_code":"508125.0",
+    "gn:admin4_code":"50812547.0",
+    "gn:asciiname":"Sipaipara",
+    "gn:country_code":"BD",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7483388,
+    "gn:latitude":24.33013,
+    "gn:longitude":88.70685,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Sipaip\u0101ra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Sipaip\u0101ra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7483388
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"56f90145e1cc879101a0b7131fc64dcd",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209135885
+        }
+    ],
+    "wof:id":1209135885,
+    "wof:lastmodified":1537586536,
+    "wof:name":"Sipaipara",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.70685,
+    24.33013,
+    88.70685,
+    24.33013
+],
+  "geometry": {"coordinates":[88.70685,24.33013],"type":"Point"}
+}

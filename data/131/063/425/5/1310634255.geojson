@@ -1,0 +1,70 @@
+{
+  "id": 1310634255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.23989,23.01037,89.23989,23.01037",
+    "geom:latitude":23.01037,
+    "geom:longitude":89.23989,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4041",
+    "gn:admin3_code":"404161.0",
+    "gn:admin4_code":"40416167.0",
+    "gn:asciiname":"Thate Kamalpur",
+    "gn:country_code":"BD",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1186137,
+    "gn:latitude":23.01037,
+    "gn:longitude":89.23989,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Thate Kam\u0101lpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        421176039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1186137
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"660a987061706dbd1412f15f151a7b33",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421176039,
+            "locality_id":1310634255,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1310634255,
+    "wof:lastmodified":1536731504,
+    "wof:name":"Thate Kamalpur",
+    "wof:parent_id":421176039,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.23989,
+    23.01037,
+    89.23989,
+    23.01037
+],
+  "geometry": {"coordinates":[89.23989,23.01037],"type":"Point"}
+}

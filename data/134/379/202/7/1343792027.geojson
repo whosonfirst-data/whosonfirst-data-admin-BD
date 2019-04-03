@@ -1,0 +1,73 @@
+{
+  "id": 1343792027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.68481,26.00098,89.68481,26.00098",
+    "geom:latitude":26.00098,
+    "geom:longitude":89.68481,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5549",
+    "gn:admin3_code":"554961.0",
+    "gn:admin4_code":"55496156.0",
+    "gn:asciiname":"Purba Nageswari",
+    "gn:country_code":"BD",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8537895,
+    "gn:latitude":26.00098,
+    "gn:longitude":89.68481,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Purba Nageswari",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Purba Nageswari"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8537895
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"ba5ace264e2b794e5ab7ec384d0dce5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694685,
+            "locality_id":1343792027,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1343792027,
+    "wof:lastmodified":1537586873,
+    "wof:name":"Purba Nageswari",
+    "wof:parent_id":1108694685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.68481,
+    26.00098,
+    89.68481,
+    26.00098
+],
+  "geometry": {"coordinates":[89.68481,26.00098],"type":"Point"}
+}

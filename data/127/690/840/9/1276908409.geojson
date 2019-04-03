@@ -1,0 +1,74 @@
+{
+  "id": 1276908409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.21664,22.51486,90.21664,22.51486",
+    "geom:latitude":22.51486,
+    "geom:longitude":90.21664,
+    "gn:admin1_code":"85",
+    "gn:admin2_code":"1042",
+    "gn:admin3_code":"104273.0",
+    "gn:admin4_code":"10427336.0",
+    "gn:asciiname":"Pagla Gajalia",
+    "gn:country_code":"BD",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1191570,
+    "gn:latitude":22.51486,
+    "gn:longitude":90.21664,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"P\u0101gla Gaj\u0101lia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pagala Gazalia",
+        "P\u0101gla Gaj\u0101lia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669019,
+        1108694677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1191570
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"e621cd7aa1c48b8180df8142986f7f67",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694677,
+            "locality_id":1276908409,
+            "region_id":85669019
+        }
+    ],
+    "wof:id":1276908409,
+    "wof:lastmodified":1537585815,
+    "wof:name":"Pagla Gajalia",
+    "wof:parent_id":1108694677,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.21664,
+    22.51486,
+    90.21664,
+    22.51486
+],
+  "geometry": {"coordinates":[90.21664,22.51486],"type":"Point"}
+}

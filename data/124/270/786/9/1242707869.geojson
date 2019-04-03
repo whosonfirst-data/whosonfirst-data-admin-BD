@@ -1,0 +1,74 @@
+{
+  "id": 1242707869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.11436,23.12992,90.11436,23.12992",
+    "geom:latitude":23.12992,
+    "geom:longitude":90.11436,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3054",
+    "gn:admin3_code":"305454.0",
+    "gn:admin4_code":"30545471.0",
+    "gn:asciiname":"North Khagchhara",
+    "gn:country_code":"BD",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1191850,
+    "gn:latitude":23.12992,
+    "gn:longitude":90.11436,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"North Kh\u0101gchh\u0101ra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Uttar Khagchhara",
+        "North Kh\u0101gchh\u0101ra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421183929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1191850
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"5ab1aad06e768b8655fabc52699f8721",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421183929,
+            "locality_id":1242707869,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1242707869,
+    "wof:lastmodified":1537585823,
+    "wof:name":"North Khagchhara",
+    "wof:parent_id":421183929,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.11436,
+    23.12992,
+    90.11436,
+    23.12992
+],
+  "geometry": {"coordinates":[90.11436,23.12992],"type":"Point"}
+}

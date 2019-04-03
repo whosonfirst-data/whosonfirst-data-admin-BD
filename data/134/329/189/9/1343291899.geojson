@@ -1,0 +1,70 @@
+{
+  "id": 1343291899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.43399,23.10496,90.43399,23.10496",
+    "geom:latitude":23.10496,
+    "geom:longitude":90.43399,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3086",
+    "gn:admin3_code":"308636.0",
+    "gn:admin4_code":"30863683.0",
+    "gn:asciiname":"Labankati",
+    "gn:country_code":"BD",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1196426,
+    "gn:latitude":23.10496,
+    "gn:longitude":90.43399,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"L\u0101bank\u0101ti",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421188359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1196426
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"b894d1824b43e25d074ab2c4d42fd54b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421188359,
+            "locality_id":1343291899,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1343291899,
+    "wof:lastmodified":1536988818,
+    "wof:name":"Labankati",
+    "wof:parent_id":421188359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.43399,
+    23.10496,
+    90.43399,
+    23.10496
+],
+  "geometry": {"coordinates":[90.43398999999999,23.10496],"type":"Point"}
+}

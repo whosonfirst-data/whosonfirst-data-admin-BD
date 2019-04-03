@@ -1,0 +1,70 @@
+{
+  "id": 1343791817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.9301,23.94597,89.9301,23.94597",
+    "geom:latitude":23.94597,
+    "geom:longitude":89.9301,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3056",
+    "gn:admin3_code":"305610.0",
+    "gn:admin4_code":"30561057.0",
+    "gn:asciiname":"Uttar Bairagi",
+    "gn:country_code":"BD",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1185688,
+    "gn:latitude":23.94597,
+    "gn:longitude":89.9301,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Uttar Bair\u0101gi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421191745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1185688
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"1cf220f6bee40ae9651c0e4671d71704",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421191745,
+            "locality_id":1343791817,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1343791817,
+    "wof:lastmodified":1536766231,
+    "wof:name":"Uttar Bairagi",
+    "wof:parent_id":421191745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.9301,
+    23.94597000000001,
+    89.9301,
+    23.94597000000001
+],
+  "geometry": {"coordinates":[89.9301,23.94597000000001],"type":"Point"}
+}

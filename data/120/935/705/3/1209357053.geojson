@@ -1,0 +1,70 @@
+{
+  "id": 1209357053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"92.0815,21.45307,92.0815,21.45307",
+    "geom:latitude":21.45307,
+    "geom:longitude":92.0815,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2022.0",
+    "gn:admin3_code":"202266.0",
+    "gn:admin4_code":"20226638.0",
+    "gn:asciiname":"Ashkarkhil",
+    "gn:country_code":"BD",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1212421,
+    "gn:latitude":21.45307,
+    "gn:longitude":92.0815,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Ashkarkhil",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Ashkarkhil"
+    ],
+    "name:und_x_variant":[
+        "Ashkahil"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1212421
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"3054917021ade774d9f7f1701ce84974",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209357053
+        }
+    ],
+    "wof:id":1209357053,
+    "wof:lastmodified":1537586195,
+    "wof:name":"Ashkarkhil",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    92.0815,
+    21.45307,
+    92.0815,
+    21.45307
+],
+  "geometry": {"coordinates":[92.08150000000001,21.45307],"type":"Point"}
+}

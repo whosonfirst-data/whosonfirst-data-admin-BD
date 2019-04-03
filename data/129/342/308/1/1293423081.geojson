@@ -1,0 +1,73 @@
+{
+  "id": 1293423081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.54545,22.8026,89.54545,22.8026",
+    "geom:latitude":22.8026,
+    "geom:longitude":89.54545,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4047.0",
+    "gn:admin3_code":"404785.0",
+    "gn:admin4_code":"40478525.0",
+    "gn:asciiname":"Gallamari",
+    "gn:country_code":"BD",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7486211,
+    "gn:latitude":22.8026,
+    "gn:longitude":89.54545,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"G\u0101ll\u0101m\u0101ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "G\u0101ll\u0101m\u0101ri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        421185473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7486211
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"5530674254ad25d2c92a2d6e08a44c71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421185473,
+            "locality_id":1293423081,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1293423081,
+    "wof:lastmodified":1537586607,
+    "wof:name":"Gallamari",
+    "wof:parent_id":421185473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.54545,
+    22.8026,
+    89.54545,
+    22.8026
+],
+  "geometry": {"coordinates":[89.54545,22.8026],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1209252115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.96677,24.90642,88.96677,24.90642",
+    "geom:latitude":24.90642,
+    "geom:longitude":88.96677,
+    "gn:admin1_code":"83",
+    "gn:admin2_code":"5064",
+    "gn:admin3_code":"506406.0",
+    "gn:admin4_code":"50640642.0",
+    "gn:asciiname":"Jolapara",
+    "gn:country_code":"BD",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1199788,
+    "gn:latitude":24.90642,
+    "gn:longitude":88.96677,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Jol\u0101p\u0101ra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Jol\u0101p\u0101ra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1199788
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"504c09ae4164d525018638bbb6c0f3c0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209252115
+        }
+    ],
+    "wof:id":1209252115,
+    "wof:lastmodified":1537585967,
+    "wof:name":"Jolapara",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.96677,
+    24.90642,
+    88.96677,
+    24.90642
+],
+  "geometry": {"coordinates":[88.96677,24.90642],"type":"Point"}
+}

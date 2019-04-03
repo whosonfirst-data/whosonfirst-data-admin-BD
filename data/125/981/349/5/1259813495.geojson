@@ -1,0 +1,73 @@
+{
+  "id": 1259813495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.98625,25.90273,88.98625,25.90273",
+    "geom:latitude":25.90273,
+    "geom:longitude":88.98625,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5573",
+    "gn:admin3_code":"557345.0",
+    "gn:admin4_code":"55734569.0",
+    "gn:asciiname":"Musrut Panialpukur",
+    "gn:country_code":"BD",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1193876,
+    "gn:latitude":25.90273,
+    "gn:longitude":88.98625,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Musrut P\u0101ni\u0101lpukur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Musrut P\u0101ni\u0101lpukur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1193876
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"ac37f9d9f41c28f293728a51b235fe1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694695,
+            "locality_id":1259813495,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1259813495,
+    "wof:lastmodified":1537585858,
+    "wof:name":"Musrut Panialpukur",
+    "wof:parent_id":1108694695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.98625,
+    25.90273,
+    88.98625,
+    25.90273
+],
+  "geometry": {"coordinates":[88.98625,25.90273],"type":"Point"}
+}

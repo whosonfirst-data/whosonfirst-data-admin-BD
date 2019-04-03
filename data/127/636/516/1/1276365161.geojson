@@ -1,0 +1,70 @@
+{
+  "id": 1276365161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.56952,23.74182,90.56952,23.74182",
+    "geom:latitude":23.74182,
+    "geom:longitude":90.56952,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3067.0",
+    "gn:admin3_code":"306704.0",
+    "gn:admin4_code":"30670477.0",
+    "gn:asciiname":"Dasnaogaon",
+    "gn:country_code":"BD",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1204954,
+    "gn:latitude":23.74182,
+    "gn:longitude":90.56952,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"D\u0101snaogaon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421197045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1204954
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"c6857a3a4bd18543d03db70c9a459568",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421197045,
+            "locality_id":1276365161,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1276365161,
+    "wof:lastmodified":1536736069,
+    "wof:name":"Dasnaogaon",
+    "wof:parent_id":421197045,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.56952,
+    23.74182,
+    90.56952,
+    23.74182
+],
+  "geometry": {"coordinates":[90.56952,23.74182],"type":"Point"}
+}

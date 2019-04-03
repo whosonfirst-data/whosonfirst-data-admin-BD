@@ -1,0 +1,70 @@
+{
+  "id": 1293817083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.96667,23.88333,89.96667,23.88333",
+    "geom:latitude":23.88333,
+    "geom:longitude":89.96667,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3056",
+    "gn:admin3_code":"305646.0",
+    "gn:admin4_code":"30564623.0",
+    "gn:asciiname":"Tegharia",
+    "gn:country_code":"BD",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1186373,
+    "gn:latitude":23.88333,
+    "gn:longitude":89.96667,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Tegharia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421191745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1186373
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"c3a5fb32a126b3ee3a77bfec1e52785a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421191745,
+            "locality_id":1293817083,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1293817083,
+    "wof:lastmodified":1536808683,
+    "wof:name":"Tegharia",
+    "wof:parent_id":421191745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.96667,
+    23.88333,
+    89.96667,
+    23.88333
+],
+  "geometry": {"coordinates":[89.96666999999999,23.88333],"type":"Point"}
+}

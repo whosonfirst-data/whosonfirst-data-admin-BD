@@ -1,0 +1,73 @@
+{
+  "id": 1226475995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.3303,26.02212,89.3303,26.02212",
+    "geom:latitude":26.02212,
+    "geom:longitude":89.3303,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5552",
+    "gn:admin3_code":"555239.0",
+    "gn:admin4_code":"55523947.0",
+    "gn:asciiname":"Shabakdas Nitha",
+    "gn:country_code":"BD",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8207404,
+    "gn:latitude":26.02212,
+    "gn:longitude":89.3303,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Shab\u0101kd\u0101s Nitha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Shab\u0101kd\u0101s Nitha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8207404
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"48a58100ff19b2565e7a8235ff152ecc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694687,
+            "locality_id":1226475995,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1226475995,
+    "wof:lastmodified":1537586863,
+    "wof:name":"Shabakdas Nitha",
+    "wof:parent_id":1108694687,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.3303,
+    26.02212,
+    89.3303,
+    26.02212
+],
+  "geometry": {"coordinates":[89.33029999999999,26.02212],"type":"Point"}
+}

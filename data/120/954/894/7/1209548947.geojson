@@ -1,0 +1,67 @@
+{
+  "id": 1209548947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.50457,25.54123,89.50457,25.54123",
+    "geom:latitude":25.54123,
+    "geom:longitude":89.50457,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5532",
+    "gn:admin3_code":"553291.0",
+    "gn:admin4_code":"55329131.0",
+    "gn:asciiname":"Bachhihati",
+    "gn:country_code":"BD",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7926501,
+    "gn:latitude":25.54123,
+    "gn:longitude":89.50457,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Bachhih\u0101ti",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Bachhih\u0101ti"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7926501
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"eac272e420e68b6421c57fd472b49fb9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209548947
+        }
+    ],
+    "wof:id":1209548947,
+    "wof:lastmodified":1537586826,
+    "wof:name":"Bachhihati",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.50457,
+    25.54123,
+    89.50457,
+    25.54123
+],
+  "geometry": {"coordinates":[89.50457,25.54123],"type":"Point"}
+}

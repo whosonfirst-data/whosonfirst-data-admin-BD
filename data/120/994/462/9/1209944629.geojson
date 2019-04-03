@@ -1,0 +1,73 @@
+{
+  "id": 1209944629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.55444,23.09462,89.55444,23.09462",
+    "geom:latitude":23.09462,
+    "geom:longitude":89.55444,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4065.0",
+    "gn:admin3_code":"406528.0",
+    "gn:admin4_code":"40652831.0",
+    "gn:asciiname":"Arazi Bahsgram",
+    "gn:country_code":"BD",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7480387,
+    "gn:latitude":23.09462,
+    "gn:longitude":89.55444,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"\u0100r\u0101zi B\u0101hsgr\u0101m",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "\u0100r\u0101zi B\u0101hsgr\u0101m"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        421205213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7480387
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"10502fd645b42e0771c87e215920cdf5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421205213,
+            "locality_id":1209944629,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1209944629,
+    "wof:lastmodified":1537586448,
+    "wof:name":"Arazi Bahsgram",
+    "wof:parent_id":421205213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.55444,
+    23.09462000000001,
+    89.55444,
+    23.09462000000001
+],
+  "geometry": {"coordinates":[89.55444,23.09462000000001],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1343795363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.77623,25.73668,88.77623,25.73668",
+    "geom:latitude":25.73668,
+    "geom:longitude":88.77623,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5527.0",
+    "gn:admin3_code":"552730.0",
+    "gn:admin4_code":"55273087.0",
+    "gn:asciiname":"Chanta Char",
+    "gn:country_code":"BD",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7480807,
+    "gn:latitude":25.73668,
+    "gn:longitude":88.77623,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Chanta Char",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Chanta Char"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7480807
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"f8cdc00882c1b208e5bb1a25e6f7afa0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694671,
+            "locality_id":1343795363,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1343795363,
+    "wof:lastmodified":1537586461,
+    "wof:name":"Chanta Char",
+    "wof:parent_id":1108694671,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.77623,
+    25.73668,
+    88.77623,
+    25.73668
+],
+  "geometry": {"coordinates":[88.77623,25.73668],"type":"Point"}
+}

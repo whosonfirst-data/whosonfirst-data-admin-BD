@@ -1,0 +1,70 @@
+{
+  "id": 1259431259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.80275,23.07583,90.80275,23.07583",
+    "geom:latitude":23.07583,
+    "geom:longitude":90.80275,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2051.0",
+    "gn:admin3_code":"205165.0",
+    "gn:admin4_code":"20516523.0",
+    "gn:asciiname":"Harischar",
+    "gn:country_code":"BD",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1201368,
+    "gn:latitude":23.07583,
+    "gn:longitude":90.80275,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Harischar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421166521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1201368
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"a85e874f198e0fddc841fc1f52e3d555",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421166521,
+            "locality_id":1259431259,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1259431259,
+    "wof:lastmodified":1536934709,
+    "wof:name":"Harischar",
+    "wof:parent_id":421166521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.80275,
+    23.07583,
+    90.80275,
+    23.07583
+],
+  "geometry": {"coordinates":[90.80275,23.07583],"type":"Point"}
+}

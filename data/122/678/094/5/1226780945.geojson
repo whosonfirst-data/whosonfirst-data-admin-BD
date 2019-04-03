@@ -1,0 +1,73 @@
+{
+  "id": 1226780945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.897,25.9225,88.897,25.9225",
+    "geom:latitude":25.9225,
+    "geom:longitude":88.897,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5573.0",
+    "gn:admin3_code":"557364.0",
+    "gn:admin4_code":"55736431.0",
+    "gn:asciiname":"Kamarpara",
+    "gn:country_code":"BD",
+    "gn:dem":49,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7489060,
+    "gn:latitude":25.9225,
+    "gn:longitude":88.897,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"K\u0101m\u0101rp\u0101ra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "K\u0101m\u0101rp\u0101ra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7489060
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"462478cb53b1b183a5e0d48e51f5c966",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694695,
+            "locality_id":1226780945,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1226780945,
+    "wof:lastmodified":1537586686,
+    "wof:name":"Kamarpara",
+    "wof:parent_id":1108694695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.897,
+    25.9225,
+    88.897,
+    25.9225
+],
+  "geometry": {"coordinates":[88.89700000000001,25.9225],"type":"Point"}
+}

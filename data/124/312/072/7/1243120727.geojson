@@ -1,0 +1,70 @@
+{
+  "id": 1243120727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.80629,23.3451,90.80629,23.3451",
+    "geom:latitude":23.3451,
+    "geom:longitude":90.80629,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2013.0",
+    "gn:admin3_code":"201376.0",
+    "gn:admin4_code":"20137643.0",
+    "gn:asciiname":"Haridaspara",
+    "gn:country_code":"BD",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1201523,
+    "gn:latitude":23.3451,
+    "gn:longitude":90.80629,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Harid\u0101sp\u0101ra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        1108694669
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1201523
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"0e16ae0919dcbf05e8aa0df0fcb41456",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694669,
+            "locality_id":1243120727,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1243120727,
+    "wof:lastmodified":1536778783,
+    "wof:name":"Haridaspara",
+    "wof:parent_id":1108694669,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.80629,
+    23.3451,
+    90.80629,
+    23.3451
+],
+  "geometry": {"coordinates":[90.80629,23.3451],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1343389049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.9133,24.7449,88.9133,24.7449",
+    "geom:latitude":24.7449,
+    "geom:longitude":88.9133,
+    "gn:admin1_code":"83",
+    "gn:admin2_code":"5064",
+    "gn:admin3_code":"506460.0",
+    "gn:admin4_code":"50646036.0",
+    "gn:asciiname":"Ramraipur",
+    "gn:country_code":"BD",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1189913,
+    "gn:latitude":24.7449,
+    "gn:longitude":88.9133,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"R\u0101mr\u0101ipur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "R\u0101mr\u0101ipur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669031,
+        421191663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1189913
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"8c1fb1b2ba13125ceac5ac9dd83b4d30",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421191663,
+            "locality_id":1343389049,
+            "region_id":85669031
+        }
+    ],
+    "wof:id":1343389049,
+    "wof:lastmodified":1537585789,
+    "wof:name":"Ramraipur",
+    "wof:parent_id":421191663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.9133,
+    24.7449,
+    88.9133,
+    24.7449
+],
+  "geometry": {"coordinates":[88.91330000000001,24.7449],"type":"Point"}
+}

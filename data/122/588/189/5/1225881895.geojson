@@ -1,0 +1,70 @@
+{
+  "id": 1225881895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.2028,23.65078,90.2028,23.65078",
+    "geom:latitude":23.65078,
+    "geom:longitude":90.2028,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3026.0",
+    "gn:admin3_code":"302662.0",
+    "gn:admin4_code":"30266213.0",
+    "gn:asciiname":"Dakshin Chaukighata",
+    "gn:country_code":"BD",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1205475,
+    "gn:latitude":23.65078,
+    "gn:longitude":90.2028,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Dakshin Chaukigh\u0101ta",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421187803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1205475
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"4707dfa0f44f4c36764b1dec62a98ecb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421187803,
+            "locality_id":1225881895,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1225881895,
+    "wof:lastmodified":1536961329,
+    "wof:name":"Dakshin Chaukighata",
+    "wof:parent_id":421187803,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.2028,
+    23.65078,
+    90.2028,
+    23.65078
+],
+  "geometry": {"coordinates":[90.2028,23.65078],"type":"Point"}
+}

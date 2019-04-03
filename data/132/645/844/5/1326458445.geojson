@@ -1,0 +1,73 @@
+{
+  "id": 1326458445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.06949,23.87395,89.06949,23.87395",
+    "geom:latitude":23.87395,
+    "geom:longitude":89.06949,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4050.0",
+    "gn:admin3_code":"405079.0",
+    "gn:admin4_code":"40507950.0",
+    "gn:asciiname":"Dustapara",
+    "gn:country_code":"BD",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7485667,
+    "gn:latitude":23.87395,
+    "gn:longitude":89.06949,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Dustap\u0101ra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Dustap\u0101ra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        890438075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7485667
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"3c01d12fc6f9c7b38920e5bd051e1dcd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":890438075,
+            "locality_id":1326458445,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1326458445,
+    "wof:lastmodified":1537586597,
+    "wof:name":"Dustapara",
+    "wof:parent_id":890438075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.06949,
+    23.87395,
+    89.06949,
+    23.87395
+],
+  "geometry": {"coordinates":[89.06949,23.87395],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1344089933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.75039,24.59049,90.75039,24.59049",
+    "geom:latitude":24.59049,
+    "geom:longitude":90.75039,
+    "gn:admin1_code":"H",
+    "gn:admin2_code":"3061.0",
+    "gn:admin3_code":"306172.0",
+    "gn:admin4_code":"30617231.0",
+    "gn:asciiname":"Biara",
+    "gn:country_code":"BD",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1208706,
+    "gn:latitude":24.59049,
+    "gn:longitude":90.75039,
+    "gn:modification_date":"2016-11-17",
+    "gn:name":"Bi\u0101ra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        1108803101,
+        421185469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1208706
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"ecbd6fd4bd7acf2b0f602280cdf26e11",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421185469,
+            "locality_id":1344089933,
+            "region_id":1108803101
+        }
+    ],
+    "wof:id":1344089933,
+    "wof:lastmodified":1536832169,
+    "wof:name":"Biara",
+    "wof:parent_id":421185469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.75039,
+    24.59049,
+    90.75039,
+    24.59049
+],
+  "geometry": {"coordinates":[90.75039,24.59049],"type":"Point"}
+}

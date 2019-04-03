@@ -1,0 +1,70 @@
+{
+  "id": 1293527535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.08028,23.41639,91.08028,23.41639",
+    "geom:latitude":23.41639,
+    "geom:longitude":91.08028,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2019.0",
+    "gn:admin3_code":"201909.0",
+    "gn:admin4_code":"20190918.0",
+    "gn:asciiname":"Dakshin Deora",
+    "gn:country_code":"BD",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1462782,
+    "gn:latitude":23.41639,
+    "gn:longitude":91.08028,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Dakshin Deora",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421187801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1462782
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"bd768962d5b3ae771c5437efc725d489",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421187801,
+            "locality_id":1293527535,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1293527535,
+    "wof:lastmodified":1536729710,
+    "wof:name":"Dakshin Deora",
+    "wof:parent_id":421187801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.08028,
+    23.41639,
+    91.08028,
+    23.41639
+],
+  "geometry": {"coordinates":[91.08028,23.41639],"type":"Point"}
+}

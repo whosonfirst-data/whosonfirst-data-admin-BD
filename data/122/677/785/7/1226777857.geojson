@@ -1,0 +1,70 @@
+{
+  "id": 1226777857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.23979,23.80918,89.23979,23.80918",
+    "geom:latitude":23.80918,
+    "geom:longitude":89.23979,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4050.0",
+    "gn:admin3_code":"405071.0",
+    "gn:admin4_code":"40507134.0",
+    "gn:asciiname":"Debinagar",
+    "gn:country_code":"BD",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1204784,
+    "gn:latitude":23.80918,
+    "gn:longitude":89.23979,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Deb\u012bnagar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        890438075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1204784
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"7d2661a0acf05e0b0c2e36bc55736e73",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":890438075,
+            "locality_id":1226777857,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1226777857,
+    "wof:lastmodified":1536669423,
+    "wof:name":"Debinagar",
+    "wof:parent_id":890438075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.23979,
+    23.80918,
+    89.23979,
+    23.80918
+],
+  "geometry": {"coordinates":[89.23979,23.80918],"type":"Point"}
+}

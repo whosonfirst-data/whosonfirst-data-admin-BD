@@ -1,0 +1,73 @@
+{
+  "id": 1360133179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.75364,23.11081,90.75364,23.11081",
+    "geom:latitude":23.11081,
+    "geom:longitude":90.75364,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2013.0",
+    "gn:admin3_code":"201345.0",
+    "gn:admin4_code":"20134535.0",
+    "gn:asciiname":"Char Pata",
+    "gn:country_code":"BD",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1206564,
+    "gn:latitude":23.11081,
+    "gn:longitude":90.75364,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Char Pata",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Char P\u0101ra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        1108694669
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1206564
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"40794030391f45df7f2f6296c51ef182",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694669,
+            "locality_id":1360133179,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1360133179,
+    "wof:lastmodified":1537586096,
+    "wof:name":"Char Pata",
+    "wof:parent_id":1108694669,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.75364,
+    23.11081,
+    90.75364,
+    23.11081
+],
+  "geometry": {"coordinates":[90.75364,23.11081],"type":"Point"}
+}

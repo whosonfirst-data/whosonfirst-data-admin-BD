@@ -1,0 +1,73 @@
+{
+  "id": 1226777583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.15854,24.62693,89.15854,24.62693",
+    "geom:latitude":24.62693,
+    "geom:longitude":89.15854,
+    "gn:admin1_code":"83",
+    "gn:admin2_code":"5010",
+    "gn:admin3_code":"501067.0",
+    "gn:admin4_code":"50106721.0",
+    "gn:asciiname":"Tentulia",
+    "gn:country_code":"BD",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1186244,
+    "gn:latitude":24.62693,
+    "gn:longitude":89.15854,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Tentulia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tentulia Bh\u0101r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669031,
+        421187793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1186244
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"290f283ceaf92e74d23d63d30ed2c363",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421187793,
+            "locality_id":1226777583,
+            "region_id":85669031
+        }
+    ],
+    "wof:id":1226777583,
+    "wof:lastmodified":1537585716,
+    "wof:name":"Tentulia",
+    "wof:parent_id":421187793,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.15854,
+    24.62693,
+    89.15854,
+    24.62693
+],
+  "geometry": {"coordinates":[89.15854,24.62693],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1259913347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.8734,25.44931,88.8734,25.44931",
+    "geom:latitude":25.44931,
+    "geom:longitude":88.8734,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5527.0",
+    "gn:admin3_code":"552738.0",
+    "gn:admin4_code":"55273866.0",
+    "gn:asciiname":"Chowkipara",
+    "gn:country_code":"BD",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1206318,
+    "gn:latitude":25.44931,
+    "gn:longitude":88.8734,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Chowkip\u0101ra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Chowkip\u0101ra"
+    ],
+    "name:ben_x_variant":[
+        "Chauki\u0101p\u0101ra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1206318
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"13e410660ca131f421b681c70b7f8066",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694671,
+            "locality_id":1259913347,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1259913347,
+    "wof:lastmodified":1537586091,
+    "wof:name":"Chowkipara",
+    "wof:parent_id":1108694671,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.8734,
+    25.44931,
+    88.8734,
+    25.44931
+],
+  "geometry": {"coordinates":[88.8734,25.44931],"type":"Point"}
+}

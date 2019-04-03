@@ -1,0 +1,76 @@
+{
+  "id": 1310438677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.34013,25.97432,89.34013,25.97432",
+    "geom:latitude":25.97432,
+    "geom:longitude":89.34013,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5552.0",
+    "gn:admin3_code":"555202.0",
+    "gn:admin4_code":"55520259.0",
+    "gn:asciiname":"Chandanpat",
+    "gn:country_code":"BD",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1207482,
+    "gn:latitude":25.97432,
+    "gn:longitude":89.34013,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Chandanpat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Chandanpat"
+    ],
+    "name:ben_x_variant":[
+        "Chandan Pat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1207482
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"7320935245984fca5b50750eedd8c8c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694687,
+            "locality_id":1310438677,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1310438677,
+    "wof:lastmodified":1537586110,
+    "wof:name":"Chandanpat",
+    "wof:parent_id":1108694687,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.34013,
+    25.97432,
+    89.34013,
+    25.97432
+],
+  "geometry": {"coordinates":[89.34013,25.97432],"type":"Point"}
+}

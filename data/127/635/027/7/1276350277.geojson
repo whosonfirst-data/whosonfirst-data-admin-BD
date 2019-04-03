@@ -1,0 +1,71 @@
+{
+  "id": 1276350277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.63507,23.0744,90.63507,23.0744",
+    "geom:latitude":23.0744,
+    "geom:longitude":90.63507,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Char Haim",
+    "gn:country_code":"BD",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1206894,
+    "gn:latitude":23.0744,
+    "gn:longitude":90.63507,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Char H\u0101im",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Char Hime",
+        "Char H\u0101im"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        1108694669
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1206894
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"82ecd1ef0903a311b1099c29487aa061",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694669,
+            "locality_id":1276350277,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1276350277,
+    "wof:lastmodified":1537586102,
+    "wof:name":"Char Haim",
+    "wof:parent_id":1108694669,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.63507,
+    23.0744,
+    90.63507,
+    23.0744
+],
+  "geometry": {"coordinates":[90.63507,23.0744],"type":"Point"}
+}

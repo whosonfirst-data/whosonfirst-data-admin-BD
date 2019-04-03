@@ -1,0 +1,70 @@
+{
+  "id": 1226276015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.51135,24.66655,90.51135,24.66655",
+    "geom:latitude":24.66655,
+    "geom:longitude":90.51135,
+    "gn:admin1_code":"H",
+    "gn:admin2_code":"3061",
+    "gn:admin3_code":"306131.0",
+    "gn:admin4_code":"30613190.0",
+    "gn:asciiname":"Madhur Baira",
+    "gn:country_code":"BD",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1195808,
+    "gn:latitude":24.66655,
+    "gn:longitude":90.51135,
+    "gn:modification_date":"2016-11-17",
+    "gn:name":"Madhur B\u0101ira",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        1108803101,
+        421185469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1195808
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"927d98552a879cf4691264ec8c54f82e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421185469,
+            "locality_id":1226276015,
+            "region_id":1108803101
+        }
+    ],
+    "wof:id":1226276015,
+    "wof:lastmodified":1536889629,
+    "wof:name":"Madhur Baira",
+    "wof:parent_id":421185469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.51135,
+    24.66655,
+    90.51135,
+    24.66655
+],
+  "geometry": {"coordinates":[90.51134999999999,24.66655],"type":"Point"}
+}

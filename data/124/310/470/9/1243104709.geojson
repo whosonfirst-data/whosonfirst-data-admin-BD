@@ -1,0 +1,73 @@
+{
+  "id": 1243104709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.68941,22.42768,89.68941,22.42768",
+    "geom:latitude":22.42768,
+    "geom:longitude":89.68941,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4001.0",
+    "gn:admin3_code":"400158.0",
+    "gn:admin4_code":"40015889.0",
+    "gn:asciiname":"Kachubunia",
+    "gn:country_code":"BD",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7486532,
+    "gn:latitude":22.42768,
+    "gn:longitude":89.68941,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Kachubunia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Kachubunia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        421187747
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7486532
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"ffa5395b7f70c44342df71a596bc9a0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421187747,
+            "locality_id":1243104709,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1243104709,
+    "wof:lastmodified":1537586616,
+    "wof:name":"Kachubunia",
+    "wof:parent_id":421187747,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.68941,
+    22.42768,
+    89.68941,
+    22.42768
+],
+  "geometry": {"coordinates":[89.68941,22.42768],"type":"Point"}
+}

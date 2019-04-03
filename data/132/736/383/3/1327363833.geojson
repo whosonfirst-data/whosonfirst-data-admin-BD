@@ -1,0 +1,73 @@
+{
+  "id": 1327363833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.64875,24.50775,88.64875,24.50775",
+    "geom:latitude":24.50775,
+    "geom:longitude":88.64875,
+    "gn:admin1_code":"83",
+    "gn:admin2_code":"5081.0",
+    "gn:admin3_code":"508153.0",
+    "gn:admin4_code":"50815367.0",
+    "gn:asciiname":"Akubari",
+    "gn:country_code":"BD",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7483061,
+    "gn:latitude":24.50775,
+    "gn:longitude":88.64875,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Akub\u0101ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Akub\u0101ri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669031,
+        421172439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7483061
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"9d9f083d044437d80f2628c174ef3fc7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421172439,
+            "locality_id":1327363833,
+            "region_id":85669031
+        }
+    ],
+    "wof:id":1327363833,
+    "wof:lastmodified":1537586526,
+    "wof:name":"Akubari",
+    "wof:parent_id":421172439,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.64875,
+    24.50775,
+    88.64875,
+    24.50775
+],
+  "geometry": {"coordinates":[88.64875000000001,24.50775],"type":"Point"}
+}

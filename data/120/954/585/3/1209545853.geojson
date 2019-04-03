@@ -1,0 +1,67 @@
+{
+  "id": 1209545853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.2109,25.43728,89.2109,25.43728",
+    "geom:latitude":25.43728,
+    "geom:longitude":89.2109,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5585",
+    "gn:admin3_code":"558576.0",
+    "gn:admin4_code":"55857650.0",
+    "gn:asciiname":"Kocharpara",
+    "gn:country_code":"BD",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8064695,
+    "gn:latitude":25.43728,
+    "gn:longitude":89.2109,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Kocharpara",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Kocharpara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8064695
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"b804f6b325674c3524356efc870af7fc",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209545853
+        }
+    ],
+    "wof:id":1209545853,
+    "wof:lastmodified":1537586845,
+    "wof:name":"Kocharpara",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.2109,
+    25.43728,
+    89.2109,
+    25.43728
+],
+  "geometry": {"coordinates":[89.2109,25.43728],"type":"Point"}
+}

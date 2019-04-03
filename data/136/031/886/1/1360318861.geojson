@@ -1,0 +1,73 @@
+{
+  "id": 1360318861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.00833,25.54405,89.00833,25.54405",
+    "geom:latitude":25.54405,
+    "geom:longitude":89.00833,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5527",
+    "gn:admin3_code":"552777.0",
+    "gn:admin4_code":"55277734.0",
+    "gn:asciiname":"Raghabendrapur",
+    "gn:country_code":"BD",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8064578,
+    "gn:latitude":25.54405,
+    "gn:longitude":89.00833,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Raghabendrapur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Raghabendrapur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8064578
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"afb1f1cbbb6b7bff01fbc8faa3b73c95",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694671,
+            "locality_id":1360318861,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1360318861,
+    "wof:lastmodified":1537586841,
+    "wof:name":"Raghabendrapur",
+    "wof:parent_id":1108694671,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.00833,
+    25.54405,
+    89.00833,
+    25.54405
+],
+  "geometry": {"coordinates":[89.00833,25.54405],"type":"Point"}
+}

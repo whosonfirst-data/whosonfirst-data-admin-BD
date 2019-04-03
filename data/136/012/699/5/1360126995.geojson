@@ -1,0 +1,70 @@
+{
+  "id": 1360126995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.93673,23.0854,90.93673,23.0854",
+    "geom:latitude":23.0854,
+    "geom:longitude":90.93673,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2075.0",
+    "gn:admin3_code":"207510.0",
+    "gn:admin4_code":"20751066.0",
+    "gn:asciiname":"Bais Sindur",
+    "gn:country_code":"BD",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1211599,
+    "gn:latitude":23.0854,
+    "gn:longitude":90.93673,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"B\u0101is Sindur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421177051
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1211599
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"d3be27d0b7d7359ee6c6796f1d48336f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421177051,
+            "locality_id":1360126995,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1360126995,
+    "wof:lastmodified":1536884715,
+    "wof:name":"Bais Sindur",
+    "wof:parent_id":421177051,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.93673,
+    23.0854,
+    90.93673,
+    23.0854
+],
+  "geometry": {"coordinates":[90.93673,23.0854],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1276794967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.10589,23.01641,90.10589,23.01641",
+    "geom:latitude":23.01641,
+    "geom:longitude":90.10589,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3035",
+    "gn:admin3_code":"303551.0",
+    "gn:admin4_code":"30355179.0",
+    "gn:asciiname":"Ramsil",
+    "gn:country_code":"BD",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1189903,
+    "gn:latitude":23.01641,
+    "gn:longitude":90.10589,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"R\u0101msil",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Santoha Ramshil",
+        "R\u0101msil"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421194867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1189903
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"18d6d1c58c52fcf059084a9faebf63da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421194867,
+            "locality_id":1276794967,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1276794967,
+    "wof:lastmodified":1537585789,
+    "wof:name":"Ramsil",
+    "wof:parent_id":421194867,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.10589,
+    23.01641,
+    90.10589,
+    23.01641
+],
+  "geometry": {"coordinates":[90.10589,23.01641],"type":"Point"}
+}

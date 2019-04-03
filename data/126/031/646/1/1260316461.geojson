@@ -1,0 +1,73 @@
+{
+  "id": 1260316461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.27578,25.603,89.27578,25.603",
+    "geom:latitude":25.603,
+    "geom:longitude":89.27578,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5585",
+    "gn:admin3_code":"558558.0",
+    "gn:admin4_code":"55855867.0",
+    "gn:asciiname":"Balasan Fatehpur",
+    "gn:country_code":"BD",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7889451,
+    "gn:latitude":25.603,
+    "gn:longitude":89.27578,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"B\u0101l\u0101san Fatehpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "B\u0101l\u0101san Fatehpur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7889451
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"5835029c9b449a5bce77a3acdc9ae1ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694701,
+            "locality_id":1260316461,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1260316461,
+    "wof:lastmodified":1537586734,
+    "wof:name":"Balasan Fatehpur",
+    "wof:parent_id":1108694701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.27578000000003,
+    25.603,
+    89.27578000000003,
+    25.603
+],
+  "geometry": {"coordinates":[89.27578000000003,25.603],"type":"Point"}
+}

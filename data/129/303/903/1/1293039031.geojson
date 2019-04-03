@@ -1,0 +1,73 @@
+{
+  "id": 1293039031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"92.17525,22.21721,92.17525,22.21721",
+    "geom:latitude":22.21721,
+    "geom:longitude":92.17525,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2003.0",
+    "gn:admin3_code":"200314.0",
+    "gn:admin4_code":"20031415.0",
+    "gn:asciiname":"Bhangamurapara",
+    "gn:country_code":"BD",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6416867,
+    "gn:latitude":22.21721,
+    "gn:longitude":92.17525,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Bhang\u0101mur\u0101p\u0101ra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Bhang\u0101mur\u0101p\u0101ra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421169477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6416867
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"1786768d82dfa4bd47b7e001d41d2ea0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421169477,
+            "locality_id":1293039031,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1293039031,
+    "wof:lastmodified":1537586270,
+    "wof:name":"Bhangamurapara",
+    "wof:parent_id":421169477,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    92.17525,
+    22.21721,
+    92.17525,
+    22.21721
+],
+  "geometry": {"coordinates":[92.17525000000001,22.21721],"type":"Point"}
+}

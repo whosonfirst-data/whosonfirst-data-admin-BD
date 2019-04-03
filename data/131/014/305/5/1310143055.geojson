@@ -1,0 +1,76 @@
+{
+  "id": 1310143055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.95517,23.24889,89.95517,23.24889",
+    "geom:latitude":23.24889,
+    "geom:longitude":89.95517,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3035",
+    "gn:admin3_code":"303558.0",
+    "gn:admin4_code":"30355872.0",
+    "gn:asciiname":"West Naokhanda",
+    "gn:country_code":"BD",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1185352,
+    "gn:latitude":23.24889,
+    "gn:longitude":89.95517,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"West Naokhanda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "West Naokhanda"
+    ],
+    "name:und_x_variant":[
+        "Paschim Naokhanda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421194867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1185352
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"73128313005274cd777c1dcad5470562",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421194867,
+            "locality_id":1310143055,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1310143055,
+    "wof:lastmodified":1537585697,
+    "wof:name":"West Naokhanda",
+    "wof:parent_id":421194867,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.95517,
+    23.24889,
+    89.95517,
+    23.24889
+],
+  "geometry": {"coordinates":[89.95517,23.24889],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1360018901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.70267,24.65857,90.70267,24.65857",
+    "geom:latitude":24.65857,
+    "geom:longitude":90.70267,
+    "gn:admin1_code":"H",
+    "gn:admin2_code":"3061",
+    "gn:admin3_code":"306131.0",
+    "gn:admin4_code":"30613109.0",
+    "gn:asciiname":"Itaulia",
+    "gn:country_code":"BD",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1200655,
+    "gn:latitude":24.65857,
+    "gn:longitude":90.70267,
+    "gn:modification_date":"2016-11-17",
+    "gn:name":"It\u0101ulia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        1108803101,
+        421185469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1200655
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"31ba40e4f279ebd29c803ca5e5c61cd4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421185469,
+            "locality_id":1360018901,
+            "region_id":1108803101
+        }
+    ],
+    "wof:id":1360018901,
+    "wof:lastmodified":1537039500,
+    "wof:name":"Itaulia",
+    "wof:parent_id":421185469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.70267,
+    24.65857,
+    90.70267,
+    24.65857
+],
+  "geometry": {"coordinates":[90.70267,24.65857],"type":"Point"}
+}

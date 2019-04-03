@@ -1,0 +1,70 @@
+{
+  "id": 1243292171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.52975,23.36307,89.52975,23.36307",
+    "geom:latitude":23.36307,
+    "geom:longitude":89.52975,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4055",
+    "gn:admin3_code":"405566.0",
+    "gn:admin4_code":"40556684.0",
+    "gn:asciiname":"Rajapur",
+    "gn:country_code":"BD",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1190330,
+    "gn:latitude":23.36307,
+    "gn:longitude":89.52975,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"R\u0101j\u0101pur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        1108694689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1190330
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"ac5fcd18dfc1de9d0d96600d34f072e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694689,
+            "locality_id":1243292171,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1243292171,
+    "wof:lastmodified":1537026864,
+    "wof:name":"Rajapur",
+    "wof:parent_id":1108694689,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.52975,
+    23.36307,
+    89.52975,
+    23.36307
+],
+  "geometry": {"coordinates":[89.52975000000001,23.36307],"type":"Point"}
+}

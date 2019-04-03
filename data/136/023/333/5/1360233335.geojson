@@ -1,0 +1,73 @@
+{
+  "id": 1360233335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"92.01526,22.90507,92.01526,22.90507",
+    "geom:latitude":22.90507,
+    "geom:longitude":92.01526,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2046.0",
+    "gn:admin3_code":"204665.0",
+    "gn:admin4_code":"20466531.0",
+    "gn:asciiname":"Nagongpara",
+    "gn:country_code":"BD",
+    "gn:dem":50,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7477263,
+    "gn:latitude":22.90507,
+    "gn:longitude":92.01526,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Nagongp\u0101ra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Nagongp\u0101ra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        1108694683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7477263
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"67abcbfa79e5f7b245c856626d083f67",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694683,
+            "locality_id":1360233335,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1360233335,
+    "wof:lastmodified":1537586363,
+    "wof:name":"Nagongpara",
+    "wof:parent_id":1108694683,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    92.01526,
+    22.90507,
+    92.01526,
+    22.90507
+],
+  "geometry": {"coordinates":[92.01526,22.90507],"type":"Point"}
+}

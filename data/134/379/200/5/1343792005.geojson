@@ -1,0 +1,73 @@
+{
+  "id": 1343792005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.97805,26.19975,88.97805,26.19975",
+    "geom:latitude":26.19975,
+    "geom:longitude":88.97805,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5573.0",
+    "gn:admin3_code":"557312.0",
+    "gn:admin4_code":"55731295.0",
+    "gn:asciiname":"Kumlaipartari",
+    "gn:country_code":"BD",
+    "gn:dem":59,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7105579,
+    "gn:latitude":26.19975,
+    "gn:longitude":88.97805,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Kumlaipart\u0101ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Kumlaipart\u0101ri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7105579
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"b5a52ef15d23f85b833240356a5cc2c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694695,
+            "locality_id":1343792005,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1343792005,
+    "wof:lastmodified":1537586307,
+    "wof:name":"Kumlaipartari",
+    "wof:parent_id":1108694695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.97805,
+    26.19975,
+    88.97805,
+    26.19975
+],
+  "geometry": {"coordinates":[88.97805,26.19975],"type":"Point"}
+}

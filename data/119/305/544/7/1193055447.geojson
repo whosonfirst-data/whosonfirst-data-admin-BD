@@ -1,0 +1,70 @@
+{
+  "id": 1193055447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.69675,22.52063,90.69675,22.52063",
+    "geom:latitude":22.52063,
+    "geom:longitude":90.69675,
+    "gn:admin1_code":"85",
+    "gn:admin2_code":"1009",
+    "gn:admin3_code":"100921.0",
+    "gn:admin4_code":"10092157.0",
+    "gn:asciiname":"Pet Manika",
+    "gn:country_code":"BD",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1191224,
+    "gn:latitude":22.52063,
+    "gn:longitude":90.69675,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Pet M\u0101nika",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669019,
+        421184491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1191224
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"c40c7ed4705305a8f021698a35a631e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421184491,
+            "locality_id":1193055447,
+            "region_id":85669019
+        }
+    ],
+    "wof:id":1193055447,
+    "wof:lastmodified":1536383321,
+    "wof:name":"Pet Manika",
+    "wof:parent_id":421184491,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.69675,
+    22.52063,
+    90.69675,
+    22.52063
+],
+  "geometry": {"coordinates":[90.69674999999999,22.52063],"type":"Point"}
+}

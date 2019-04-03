@@ -1,0 +1,70 @@
+{
+  "id": 1276579979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.25853,24.40471,89.25853,24.40471",
+    "geom:latitude":24.40471,
+    "geom:longitude":89.25853,
+    "gn:admin1_code":"83",
+    "gn:admin2_code":"5069.0",
+    "gn:admin3_code":"506941.0",
+    "gn:admin4_code":"50694113.0",
+    "gn:asciiname":"Brahmanbaria",
+    "gn:country_code":"BD",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1208147,
+    "gn:latitude":24.40471,
+    "gn:longitude":89.25853,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Br\u0101hmanb\u0101ria",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669031,
+        421182115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1208147
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"9dc0b87b1aae9b4a28079c643d4b556e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421182115,
+            "locality_id":1276579979,
+            "region_id":85669031
+        }
+    ],
+    "wof:id":1276579979,
+    "wof:lastmodified":1536946322,
+    "wof:name":"Brahmanbaria",
+    "wof:parent_id":421182115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.25853000000002,
+    24.40471,
+    89.25853000000002,
+    24.40471
+],
+  "geometry": {"coordinates":[89.25853000000002,24.40471],"type":"Point"}
+}

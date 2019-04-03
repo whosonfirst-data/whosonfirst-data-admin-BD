@@ -1,0 +1,73 @@
+{
+  "id": 1243202323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.42445,25.47522,89.42445,25.47522",
+    "geom:latitude":25.47522,
+    "geom:longitude":89.42445,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5585",
+    "gn:admin3_code":"558558.0",
+    "gn:admin4_code":"55855844.0",
+    "gn:asciiname":"Dhorakaba",
+    "gn:country_code":"BD",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7891026,
+    "gn:latitude":25.47522,
+    "gn:longitude":89.42445,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Dhorakaba",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Dhorakaba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7891026
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"3de8f81c13c284d613d19221421e0d24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694701,
+            "locality_id":1243202323,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1243202323,
+    "wof:lastmodified":1537586750,
+    "wof:name":"Dhorakaba",
+    "wof:parent_id":1108694701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.42445,
+    25.47522,
+    89.42445,
+    25.47522
+],
+  "geometry": {"coordinates":[89.42444999999999,25.47522],"type":"Point"}
+}

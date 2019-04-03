@@ -1,0 +1,70 @@
+{
+  "id": 1276472807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.45518,25.14058,89.45518,25.14058",
+    "geom:latitude":25.14058,
+    "geom:longitude":89.45518,
+    "gn:admin1_code":"83",
+    "gn:asciiname":"Madardaha",
+    "gn:country_code":"BD",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7892461,
+    "gn:latitude":25.14058,
+    "gn:longitude":89.45518,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"M\u0101d\u0101rdaha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "M\u0101d\u0101rdaha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7892461
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"7e4c718928f11674cdd4e82266328b1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694675,
+            "locality_id":1276472807,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1276472807,
+    "wof:lastmodified":1537586757,
+    "wof:name":"Madardaha",
+    "wof:parent_id":1108694675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.45518,
+    25.14058,
+    89.45518,
+    25.14058
+],
+  "geometry": {"coordinates":[89.45518,25.14058],"type":"Point"}
+}

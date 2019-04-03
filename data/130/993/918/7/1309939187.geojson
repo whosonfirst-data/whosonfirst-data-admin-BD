@@ -1,0 +1,79 @@
+{
+  "id": 1309939187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.09649,23.02756,89.09649,23.02756",
+    "geom:latitude":23.02756,
+    "geom:longitude":89.09649,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4041",
+    "gn:admin3_code":"404161.0",
+    "gn:admin4_code":"40416133.0",
+    "gn:asciiname":"Kaemkala",
+    "gn:country_code":"BD",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1199514,
+    "gn:latitude":23.02756,
+    "gn:longitude":89.09649,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Kaemkala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Kaemkala"
+    ],
+    "name:ben_x_variant":[
+        "K\u0101emkola"
+    ],
+    "name:und_x_variant":[
+        "Kavemkola"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        421176039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1199514
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"8bd9d287c76f70b2325a3a946c319d67",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421176039,
+            "locality_id":1309939187,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1309939187,
+    "wof:lastmodified":1537585961,
+    "wof:name":"Kaemkala",
+    "wof:parent_id":421176039,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.09649,
+    23.02756,
+    89.09649,
+    23.02756
+],
+  "geometry": {"coordinates":[89.09649,23.02756],"type":"Point"}
+}

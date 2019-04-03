@@ -1,0 +1,73 @@
+{
+  "id": 1293326147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.8304,25.53593,89.8304,25.53593",
+    "geom:latitude":25.53593,
+    "geom:longitude":89.8304,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5549",
+    "gn:admin3_code":"554979.0",
+    "gn:admin4_code":"55497971.0",
+    "gn:asciiname":"Kanralkandi",
+    "gn:country_code":"BD",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7926528,
+    "gn:latitude":25.53593,
+    "gn:longitude":89.8304,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Kanr\u0101lk\u0101ndi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Kanr\u0101lk\u0101ndi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7926528
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"f64c90cb349622ae2e83aedcac618510",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694685,
+            "locality_id":1293326147,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1293326147,
+    "wof:lastmodified":1537586827,
+    "wof:name":"Kanralkandi",
+    "wof:parent_id":1108694685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.8304,
+    25.53593,
+    89.8304,
+    25.53593
+],
+  "geometry": {"coordinates":[89.8304,25.53593],"type":"Point"}
+}

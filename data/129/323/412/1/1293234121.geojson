@@ -1,0 +1,76 @@
+{
+  "id": 1293234121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.76409,23.96872,88.76409,23.96872",
+    "geom:latitude":23.96872,
+    "geom:longitude":88.76409,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4050.0",
+    "gn:admin3_code":"405039.0",
+    "gn:admin4_code":"40503906.0",
+    "gn:asciiname":"Dharmadaha",
+    "gn:country_code":"BD",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1204328,
+    "gn:latitude":23.96872,
+    "gn:longitude":88.76409,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Dharmadaha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Dharmadaha"
+    ],
+    "name:und_x_variant":[
+        "Dharmmadaha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        421191661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1204328
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"81357d0874fe8d4c5bd65897795f9673",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421191661,
+            "locality_id":1293234121,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1293234121,
+    "wof:lastmodified":1537586055,
+    "wof:name":"Dharmadaha",
+    "wof:parent_id":421191661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.76409,
+    23.96872,
+    88.76409,
+    23.96872
+],
+  "geometry": {"coordinates":[88.76409,23.96872],"type":"Point"}
+}

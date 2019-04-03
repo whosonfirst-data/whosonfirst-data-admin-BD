@@ -1,0 +1,74 @@
+{
+  "id": 1225881831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.5987,23.3455,89.5987,23.3455",
+    "geom:latitude":23.3455,
+    "geom:longitude":89.5987,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4055",
+    "gn:admin3_code":"405566.0",
+    "gn:admin4_code":"40556673.0",
+    "gn:asciiname":"West Char Narayandia",
+    "gn:country_code":"BD",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1185401,
+    "gn:latitude":23.3455,
+    "gn:longitude":89.5987,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"West Char N\u0101r\u0101yandia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Paschim Char Narayandia",
+        "West Char N\u0101r\u0101yandia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        1108694689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1185401
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"1297dfe4d70e1f8336669fa145fc2acd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694689,
+            "locality_id":1225881831,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1225881831,
+    "wof:lastmodified":1537585700,
+    "wof:name":"West Char Narayandia",
+    "wof:parent_id":1108694689,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.5987,
+    23.3455,
+    89.5987,
+    23.3455
+],
+  "geometry": {"coordinates":[89.59869999999999,23.3455],"type":"Point"}
+}

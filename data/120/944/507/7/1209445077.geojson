@@ -1,0 +1,68 @@
+{
+  "id": 1209445077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.43442,24.8461,89.43442,24.8461",
+    "geom:latitude":24.8461,
+    "geom:longitude":89.43442,
+    "gn:admin1_code":"83",
+    "gn:admin2_code":"5010",
+    "gn:admin3_code":"501020.0",
+    "gn:admin4_code":"50102077.0",
+    "gn:asciiname":"Khidra Dhama",
+    "gn:country_code":"BD",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1197396,
+    "gn:latitude":24.8461,
+    "gn:longitude":89.43442,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Khidra Dhama",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kshidra Dhama",
+        "Khidra Dhama"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1197396
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"1294f53563323067245f26f83bd4d704",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209445077
+        }
+    ],
+    "wof:id":1209445077,
+    "wof:lastmodified":1537585925,
+    "wof:name":"Khidra Dhama",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.43441999999997,
+    24.8461,
+    89.43441999999997,
+    24.8461
+],
+  "geometry": {"coordinates":[89.43441999999997,24.8461],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1193188859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.9,23.6,90.9,23.6",
+    "geom:latitude":23.6,
+    "geom:longitude":90.9,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2019",
+    "gn:admin3_code":"201981.0",
+    "gn:admin4_code":"20198127.0",
+    "gn:asciiname":"South Puskarinirpar",
+    "gn:cc2":"BD",
+    "gn:country_code":"BD",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1187354,
+    "gn:latitude":23.6,
+    "gn:longitude":90.9,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"South Puskarinirp\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pushkarinirp\u0101r",
+        "South Pushkurinirpar",
+        "South Puskarinirp\u0101r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421187801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1187354
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"bfd18cc0867f90a081c14adc855ad38e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421187801,
+            "locality_id":1193188859,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1193188859,
+    "wof:lastmodified":1537585734,
+    "wof:name":"South Puskarinirpar",
+    "wof:parent_id":421187801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.9,
+    23.6,
+    90.9,
+    23.6
+],
+  "geometry": {"coordinates":[90.90000000000001,23.6],"type":"Point"}
+}

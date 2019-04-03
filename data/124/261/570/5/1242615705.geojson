@@ -1,0 +1,73 @@
+{
+  "id": 1242615705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.88868,22.69958,91.88868,22.69958",
+    "geom:latitude":22.69958,
+    "geom:longitude":91.88868,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2046.0",
+    "gn:admin3_code":"204661.0",
+    "gn:admin4_code":"20466123.0",
+    "gn:asciiname":"Kutubchari",
+    "gn:country_code":"BD",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6414299,
+    "gn:latitude":22.69958,
+    "gn:longitude":91.88868,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Kutubchari",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Kutubchari"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        1108694683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6414299
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"a0302cc48d56a604e945c82702c6928d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694683,
+            "locality_id":1242615705,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1242615705,
+    "wof:lastmodified":1537586223,
+    "wof:name":"Kutubchari",
+    "wof:parent_id":1108694683,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.88868,
+    22.69958,
+    91.88868,
+    22.69958
+],
+  "geometry": {"coordinates":[91.88867999999999,22.69958],"type":"Point"}
+}

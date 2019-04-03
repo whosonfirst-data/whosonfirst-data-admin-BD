@@ -1,0 +1,73 @@
+{
+  "id": 1243301111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.38025,26.10129,88.38025,26.10129",
+    "geom:latitude":26.10129,
+    "geom:longitude":88.38025,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5594.0",
+    "gn:admin3_code":"559494.0",
+    "gn:admin4_code":"55949410.0",
+    "gn:asciiname":"Mokhabandi",
+    "gn:country_code":"BD",
+    "gn:dem":65,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7487349,
+    "gn:latitude":26.10129,
+    "gn:longitude":88.38025,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Mokh\u0101b\u0101ndi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Mokh\u0101b\u0101ndi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7487349
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"09e32a6a462ccb8efd76ed7404039a30",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694703,
+            "locality_id":1243301111,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1243301111,
+    "wof:lastmodified":1537586636,
+    "wof:name":"Mokhabandi",
+    "wof:parent_id":1108694703,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.38025,
+    26.10129,
+    88.38025,
+    26.10129
+],
+  "geometry": {"coordinates":[88.38025,26.10129],"type":"Point"}
+}

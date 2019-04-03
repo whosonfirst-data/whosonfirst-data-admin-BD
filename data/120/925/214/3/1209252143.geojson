@@ -1,0 +1,67 @@
+{
+  "id": 1209252143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.03159,22.3748,89.03159,22.3748",
+    "geom:latitude":22.3748,
+    "geom:longitude":89.03159,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4087.0",
+    "gn:admin3_code":"408747.0",
+    "gn:admin4_code":"40874739.0",
+    "gn:asciiname":"Geterchak",
+    "gn:country_code":"BD",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7485782,
+    "gn:latitude":22.3748,
+    "gn:longitude":89.03159,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Geterchak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Geterchak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7485782
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"746681b868171a28caf2cd0655e51916",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209252143
+        }
+    ],
+    "wof:id":1209252143,
+    "wof:lastmodified":1537586600,
+    "wof:name":"Geterchak",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.03159000000002,
+    22.3748,
+    89.03159000000002,
+    22.3748
+],
+  "geometry": {"coordinates":[89.03159000000002,22.3748],"type":"Point"}
+}

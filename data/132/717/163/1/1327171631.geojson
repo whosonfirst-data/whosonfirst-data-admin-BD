@@ -1,0 +1,73 @@
+{
+  "id": 1327171631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.2724,22.45072,90.2724,22.45072",
+    "geom:latitude":22.45072,
+    "geom:longitude":90.2724,
+    "gn:admin1_code":"82",
+    "gn:asciiname":"Madhabkhali",
+    "gn:country_code":"BD",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1195892,
+    "gn:latitude":22.45072,
+    "gn:longitude":90.2724,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"M\u0101dhabkh\u0101li",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "M\u0101dhabkh\u0101li"
+    ],
+    "name:ben_x_variant":[
+        "M\u0101dhabh\u0101li"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669019,
+        421169845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1195892
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"f4a75caa53fadacc70d3d6dd641e05ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421169845,
+            "locality_id":1327171631,
+            "region_id":85669019
+        }
+    ],
+    "wof:id":1327171631,
+    "wof:lastmodified":1537585897,
+    "wof:name":"Madhabkhali",
+    "wof:parent_id":421169845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.2724,
+    22.45072,
+    90.2724,
+    22.45072
+],
+  "geometry": {"coordinates":[90.2724,22.45072],"type":"Point"}
+}

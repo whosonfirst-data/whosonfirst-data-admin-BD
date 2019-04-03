@@ -1,0 +1,67 @@
+{
+  "id": 1209252199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.31199,25.36035,89.31199,25.36035",
+    "geom:latitude":25.36035,
+    "geom:longitude":89.31199,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5585",
+    "gn:admin3_code":"558576.0",
+    "gn:admin4_code":"55857682.0",
+    "gn:asciiname":"Krishnapur",
+    "gn:country_code":"BD",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7898409,
+    "gn:latitude":25.36035,
+    "gn:longitude":89.31199,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Krishnapur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Krishnapur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7898409
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"70337f75c612373687496acf8cbdbb5b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209252199
+        }
+    ],
+    "wof:id":1209252199,
+    "wof:lastmodified":1537586768,
+    "wof:name":"Krishnapur",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.31199000000002,
+    25.36035,
+    89.31199000000002,
+    25.36035
+],
+  "geometry": {"coordinates":[89.31199000000002,25.36035],"type":"Point"}
+}

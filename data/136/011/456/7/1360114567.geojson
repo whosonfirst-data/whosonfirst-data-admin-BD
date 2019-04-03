@@ -1,0 +1,70 @@
+{
+  "id": 1360114567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.04615,24.91982,89.04615,24.91982",
+    "geom:latitude":24.91982,
+    "geom:longitude":89.04615,
+    "gn:admin1_code":"83",
+    "gn:admin2_code":"5038",
+    "gn:admin3_code":"503813.0",
+    "gn:admin4_code":"50381315.0",
+    "gn:asciiname":"Temaria",
+    "gn:country_code":"BD",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1186287,
+    "gn:latitude":24.91982,
+    "gn:longitude":89.04615,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Tem\u0101ria",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669031,
+        1108694681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1186287
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"28252bc450e8c38ec01c04f4bf4b85c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694681,
+            "locality_id":1360114567,
+            "region_id":85669031
+        }
+    ],
+    "wof:id":1360114567,
+    "wof:lastmodified":1536903349,
+    "wof:name":"Temaria",
+    "wof:parent_id":1108694681,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.04615,
+    24.91982,
+    89.04615,
+    24.91982
+],
+  "geometry": {"coordinates":[89.04615,24.91982],"type":"Point"}
+}

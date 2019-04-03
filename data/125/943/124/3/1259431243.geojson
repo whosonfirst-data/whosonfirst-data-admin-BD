@@ -1,0 +1,70 @@
+{
+  "id": 1259431243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.00363,23.33912,91.00363,23.33912",
+    "geom:latitude":23.33912,
+    "geom:longitude":91.00363,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2019",
+    "gn:admin3_code":"201909.0",
+    "gn:admin4_code":"20190906.0",
+    "gn:asciiname":"Khatla",
+    "gn:country_code":"BD",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1197461,
+    "gn:latitude":23.33912,
+    "gn:longitude":91.00363,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Kh\u0101tla",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421187801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1197461
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"064015bea6e9234f1d44c3c1c0b13658",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421187801,
+            "locality_id":1259431243,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1259431243,
+    "wof:lastmodified":1536934732,
+    "wof:name":"Khatla",
+    "wof:parent_id":421187801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.00363,
+    23.33912,
+    91.00363,
+    23.33912
+],
+  "geometry": {"coordinates":[91.00363,23.33912],"type":"Point"}
+}

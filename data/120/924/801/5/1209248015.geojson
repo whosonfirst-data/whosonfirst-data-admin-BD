@@ -1,0 +1,67 @@
+{
+  "id": 1209248015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.99272,25.15208,89.99272,25.15208",
+    "geom:latitude":25.15208,
+    "geom:longitude":89.99272,
+    "gn:admin1_code":"H",
+    "gn:admin2_code":"3089",
+    "gn:admin3_code":"308937.0",
+    "gn:admin4_code":"30893743.0",
+    "gn:asciiname":"Chhota Majlikanda",
+    "gn:country_code":"BD",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7921348,
+    "gn:latitude":25.15208,
+    "gn:longitude":89.99272,
+    "gn:modification_date":"2016-11-17",
+    "gn:name":"Chhota Majlikanda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Chhota Majlikanda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7921348
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"8d16374673df709a4c3006489da09057",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209248015
+        }
+    ],
+    "wof:id":1209248015,
+    "wof:lastmodified":1537586783,
+    "wof:name":"Chhota Majlikanda",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.99271999999998,
+    25.15208,
+    89.99271999999998,
+    25.15208
+],
+  "geometry": {"coordinates":[89.99271999999998,25.15208],"type":"Point"}
+}

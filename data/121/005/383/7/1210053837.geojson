@@ -1,0 +1,73 @@
+{
+  "id": 1210053837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.85085,25.65882,89.85085,25.65882",
+    "geom:latitude":25.65882,
+    "geom:longitude":89.85085,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5549",
+    "gn:admin3_code":"554979.0",
+    "gn:admin4_code":"55497923.0",
+    "gn:asciiname":"Danthbanga",
+    "gn:country_code":"BD",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7926548,
+    "gn:latitude":25.65882,
+    "gn:longitude":89.85085,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"D\u0101nthb\u0101nga",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "D\u0101nthb\u0101nga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7926548
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"749b5201886286ace7c1ae666c4508af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694685,
+            "locality_id":1210053837,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1210053837,
+    "wof:lastmodified":1537586828,
+    "wof:name":"Danthbanga",
+    "wof:parent_id":1108694685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.85085,
+    25.65882,
+    89.85085,
+    25.65882
+],
+  "geometry": {"coordinates":[89.85084999999999,25.65882],"type":"Point"}
+}

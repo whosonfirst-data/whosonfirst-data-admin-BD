@@ -1,0 +1,70 @@
+{
+  "id": 1209852851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.47125,22.59003,89.47125,22.59003",
+    "geom:latitude":22.59003,
+    "geom:longitude":89.47125,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4047",
+    "gn:admin3_code":"404717.0",
+    "gn:admin4_code":"40471784.0",
+    "gn:asciiname":"Tildanga",
+    "gn:country_code":"BD",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1186065,
+    "gn:latitude":22.59003,
+    "gn:longitude":89.47125,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Tild\u0101nga",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        421185473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1186065
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"cf755ba0700f850b3b29605a0e776a02",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421185473,
+            "locality_id":1209852851,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1209852851,
+    "wof:lastmodified":1536387608,
+    "wof:name":"Tildanga",
+    "wof:parent_id":421185473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.47125,
+    22.59003,
+    89.47125,
+    22.59003
+],
+  "geometry": {"coordinates":[89.47125,22.59003],"type":"Point"}
+}

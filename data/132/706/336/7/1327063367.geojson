@@ -1,0 +1,73 @@
+{
+  "id": 1327063367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.77287,23.36436,88.77287,23.36436",
+    "geom:latitude":23.36436,
+    "geom:longitude":88.77287,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4044.0",
+    "gn:admin3_code":"404471.0",
+    "gn:admin4_code":"40447189.0",
+    "gn:asciiname":"Champatala",
+    "gn:country_code":"BD",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7484969,
+    "gn:latitude":23.36436,
+    "gn:longitude":88.77287,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Ch\u0101mpatala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Ch\u0101mpatala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        1108694679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7484969
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"a58392fc1e14a0e2cdbe7bad9f7b3ebc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694679,
+            "locality_id":1327063367,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1327063367,
+    "wof:lastmodified":1537586579,
+    "wof:name":"Champatala",
+    "wof:parent_id":1108694679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.77287,
+    23.36436,
+    88.77287,
+    23.36436
+],
+  "geometry": {"coordinates":[88.77287,23.36436],"type":"Point"}
+}

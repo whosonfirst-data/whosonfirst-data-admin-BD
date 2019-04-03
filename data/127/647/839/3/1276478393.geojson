@@ -1,0 +1,70 @@
+{
+  "id": 1276478393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.09221,23.66717,90.09221,23.66717",
+    "geom:latitude":23.66717,
+    "geom:longitude":90.09221,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3026",
+    "gn:admin3_code":"302662.0",
+    "gn:admin4_code":"30266233.0",
+    "gn:asciiname":"Ratanpur",
+    "gn:country_code":"BD",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1189700,
+    "gn:latitude":23.66717,
+    "gn:longitude":90.09221,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Ratanpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421187803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1189700
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"fe10220b802016074942ceb1a4e31613",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421187803,
+            "locality_id":1276478393,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1276478393,
+    "wof:lastmodified":1537078500,
+    "wof:name":"Ratanpur",
+    "wof:parent_id":421187803,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.09221,
+    23.66717,
+    90.09221,
+    23.66717
+],
+  "geometry": {"coordinates":[90.09220999999999,23.66717],"type":"Point"}
+}

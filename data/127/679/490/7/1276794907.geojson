@@ -1,0 +1,74 @@
+{
+  "id": 1276794907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.59653,24.01773,90.59653,24.01773",
+    "geom:latitude":24.01773,
+    "geom:longitude":90.59653,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3033.0",
+    "gn:admin3_code":"303334.0",
+    "gn:admin4_code":"30333494.0",
+    "gn:asciiname":"Dari Bogun",
+    "gn:country_code":"BD",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1205107,
+    "gn:latitude":24.01773,
+    "gn:longitude":90.59653,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"D\u0101ri B\u014dgun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "D\u0101ri B\u014dgun",
+        "Dari B\u0101gun"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421203493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1205107
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"2217a091ad4e2155513bb2565095f689",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421203493,
+            "locality_id":1276794907,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1276794907,
+    "wof:lastmodified":1537586066,
+    "wof:name":"Dari Bogun",
+    "wof:parent_id":421203493,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.59653,
+    24.01773,
+    90.59653,
+    24.01773
+],
+  "geometry": {"coordinates":[90.59653,24.01773],"type":"Point"}
+}

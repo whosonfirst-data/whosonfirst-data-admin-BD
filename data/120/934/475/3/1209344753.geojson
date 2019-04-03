@@ -1,0 +1,67 @@
+{
+  "id": 1209344753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.17435,22.35522,90.17435,22.35522",
+    "geom:latitude":22.35522,
+    "geom:longitude":90.17435,
+    "gn:admin1_code":"85",
+    "gn:admin2_code":"1004.0",
+    "gn:admin3_code":"100447.0",
+    "gn:admin4_code":"10044747.0",
+    "gn:asciiname":"Jalisa",
+    "gn:country_code":"BD",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7476640,
+    "gn:latitude":22.35522,
+    "gn:longitude":90.17435,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Jalisa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Jalisa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7476640
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"932d6d80ce6e55a9f8a9493d0cac7cbe",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209344753
+        }
+    ],
+    "wof:id":1209344753,
+    "wof:lastmodified":1537586350,
+    "wof:name":"Jalisa",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.17435,
+    22.35522000000001,
+    90.17435,
+    22.35522000000001
+],
+  "geometry": {"coordinates":[90.17435,22.35522000000001],"type":"Point"}
+}

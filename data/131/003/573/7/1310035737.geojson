@@ -1,0 +1,73 @@
+{
+  "id": 1310035737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.70628,24.99495,88.70628,24.99495",
+    "geom:latitude":24.99495,
+    "geom:longitude":88.70628,
+    "gn:admin1_code":"83",
+    "gn:admin2_code":"5064.0",
+    "gn:admin3_code":"506450.0",
+    "gn:admin4_code":"50645047.0",
+    "gn:asciiname":"Formanpur",
+    "gn:country_code":"BD",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7482817,
+    "gn:latitude":24.99495,
+    "gn:longitude":88.70628,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Form\u0101npur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Form\u0101npur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669031,
+        421191663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7482817
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"0be7d7866d7b45a45e1fcf7b8c8050ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421191663,
+            "locality_id":1310035737,
+            "region_id":85669031
+        }
+    ],
+    "wof:id":1310035737,
+    "wof:lastmodified":1537586518,
+    "wof:name":"Formanpur",
+    "wof:parent_id":421191663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.70628,
+    24.99495,
+    88.70628,
+    24.99495
+],
+  "geometry": {"coordinates":[88.70628000000001,24.99495],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1360022699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.07282,23.73301,90.07282,23.73301",
+    "geom:latitude":23.73301,
+    "geom:longitude":90.07282,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3056",
+    "gn:admin3_code":"305646.0",
+    "gn:admin4_code":"30564639.0",
+    "gn:asciiname":"Palara",
+    "gn:country_code":"BD",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1191364,
+    "gn:latitude":23.73301,
+    "gn:longitude":90.07282,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"P\u0101lara",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421191745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1191364
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"0c4673c28f9f8b0d44ad813758508f3e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421191745,
+            "locality_id":1360022699,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1360022699,
+    "wof:lastmodified":1537034043,
+    "wof:name":"Palara",
+    "wof:parent_id":421191745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.07282,
+    23.73301,
+    90.07282,
+    23.73301
+],
+  "geometry": {"coordinates":[90.07281999999999,23.73301],"type":"Point"}
+}

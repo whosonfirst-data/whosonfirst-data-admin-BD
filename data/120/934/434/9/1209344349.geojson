@@ -1,0 +1,68 @@
+{
+  "id": 1209344349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.33093,24.15045,91.33093,24.15045",
+    "geom:latitude":24.15045,
+    "geom:longitude":91.33093,
+    "gn:admin1_code":"86",
+    "gn:admin2_code":"6036.0",
+    "gn:admin3_code":"603671.0",
+    "gn:admin4_code":"60367169.0",
+    "gn:asciiname":"Bejora",
+    "gn:country_code":"BD",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1209677,
+    "gn:latitude":24.15045,
+    "gn:longitude":91.33093,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Bejora",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bejura",
+        "Bejora"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1209677
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"24efaa1d500ee1c429a1d416e0174922",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209344349
+        }
+    ],
+    "wof:id":1209344349,
+    "wof:lastmodified":1537586150,
+    "wof:name":"Bejora",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.33093,
+    24.15045,
+    91.33093,
+    24.15045
+],
+  "geometry": {"coordinates":[91.33093,24.15045],"type":"Point"}
+}

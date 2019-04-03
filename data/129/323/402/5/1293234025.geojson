@@ -1,0 +1,70 @@
+{
+  "id": 1293234025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.58699,23.25754,89.58699,23.25754",
+    "geom:latitude":23.25754,
+    "geom:longitude":89.58699,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4065",
+    "gn:admin3_code":"406552.0",
+    "gn:admin4_code":"40655247.0",
+    "gn:asciiname":"Sarsuna",
+    "gn:country_code":"BD",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1188536,
+    "gn:latitude":23.25754,
+    "gn:longitude":89.58699,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Sarsuna",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        421205213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1188536
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"7a783af25c1d6d8cd730dc135de996cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421205213,
+            "locality_id":1293234025,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1293234025,
+    "wof:lastmodified":1536655588,
+    "wof:name":"Sarsuna",
+    "wof:parent_id":421205213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.58699,
+    23.25754,
+    89.58699,
+    23.25754
+],
+  "geometry": {"coordinates":[89.58699,23.25754],"type":"Point"}
+}

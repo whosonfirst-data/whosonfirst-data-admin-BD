@@ -1,0 +1,73 @@
+{
+  "id": 1193170379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.42382,24.45854,88.42382,24.45854",
+    "geom:latitude":24.45854,
+    "geom:longitude":88.42382,
+    "gn:admin1_code":"83",
+    "gn:admin2_code":"5081.0",
+    "gn:admin3_code":"508134.0",
+    "gn:admin4_code":"50813447.0",
+    "gn:asciiname":"Uchrakantar",
+    "gn:country_code":"BD",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7482626,
+    "gn:latitude":24.45854,
+    "gn:longitude":88.42382,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Uchr\u0101k\u0101nt\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Uchr\u0101k\u0101nt\u0101r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669031,
+        421172439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7482626
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"7c211af18084bcf048f854bcab2c743d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421172439,
+            "locality_id":1193170379,
+            "region_id":85669031
+        }
+    ],
+    "wof:id":1193170379,
+    "wof:lastmodified":1537586513,
+    "wof:name":"Uchrakantar",
+    "wof:parent_id":421172439,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.42381999999998,
+    24.45854,
+    88.42381999999998,
+    24.45854
+],
+  "geometry": {"coordinates":[88.42381999999998,24.45854],"type":"Point"}
+}

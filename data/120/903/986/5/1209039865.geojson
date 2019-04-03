@@ -1,0 +1,64 @@
+{
+  "id": 1209039865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.90116,24.20059,90.90116,24.20059",
+    "geom:latitude":24.20059,
+    "geom:longitude":90.90116,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3048",
+    "gn:admin3_code":"304806.0",
+    "gn:admin4_code":"30480694.0",
+    "gn:asciiname":"Noakandi Kamalpur",
+    "gn:country_code":"BD",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1191993,
+    "gn:latitude":24.20059,
+    "gn:longitude":90.90116,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"No\u0101k\u0101ndi K\u0101m\u0101lpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1191993
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"77b1808dbcdaf9f0ea962f49939a7ef2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209039865
+        }
+    ],
+    "wof:id":1209039865,
+    "wof:lastmodified":1536299580,
+    "wof:name":"Noakandi Kamalpur",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.90116,
+    24.20059,
+    90.90116,
+    24.20059
+],
+  "geometry": {"coordinates":[90.90116,24.20059],"type":"Point"}
+}

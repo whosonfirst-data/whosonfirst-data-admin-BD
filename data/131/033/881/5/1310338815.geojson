@@ -1,0 +1,73 @@
+{
+  "id": 1310338815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.68555,25.61801,89.68555,25.61801",
+    "geom:latitude":25.61801,
+    "geom:longitude":89.68555,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5549",
+    "gn:admin3_code":"554909.0",
+    "gn:admin4_code":"55490971.0",
+    "gn:asciiname":"Bajra Tabakpur",
+    "gn:country_code":"BD",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8537547,
+    "gn:latitude":25.61801,
+    "gn:longitude":89.68555,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Bajra Tabakpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Bajra Tabakpur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8537547
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"b4facef8e2c2534fba6d216bc2497e2a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694685,
+            "locality_id":1310338815,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1310338815,
+    "wof:lastmodified":1537586873,
+    "wof:name":"Bajra Tabakpur",
+    "wof:parent_id":1108694685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.68555,
+    25.61801,
+    89.68555,
+    25.61801
+],
+  "geometry": {"coordinates":[89.68555000000001,25.61801],"type":"Point"}
+}

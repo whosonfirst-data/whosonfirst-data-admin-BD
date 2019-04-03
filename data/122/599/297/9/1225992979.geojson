@@ -1,0 +1,76 @@
+{
+  "id": 1225992979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"92.07329,21.97756,92.07329,21.97756",
+    "geom:latitude":21.97756,
+    "geom:longitude":92.07329,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2015.0",
+    "gn:admin3_code":"201547.0",
+    "gn:admin4_code":"20154732.0",
+    "gn:asciiname":"Chimati",
+    "gn:country_code":"BD",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1205680,
+    "gn:latitude":21.97756,
+    "gn:longitude":92.07329,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Chimati",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Chimati"
+    ],
+    "name:und_x_variant":[
+        "Chunati"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421201541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1205680
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"3d0a744470c0bb03b6554aa1bfa1a2e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421201541,
+            "locality_id":1225992979,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1225992979,
+    "wof:lastmodified":1537586079,
+    "wof:name":"Chimati",
+    "wof:parent_id":421201541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    92.07329,
+    21.97756,
+    92.07329,
+    21.97756
+],
+  "geometry": {"coordinates":[92.07329,21.97756],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1276160863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.91145,24.26431,89.91145,24.26431",
+    "geom:latitude":24.26431,
+    "geom:longitude":89.91145,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3093.0",
+    "gn:admin3_code":"309395.0",
+    "gn:admin4_code":"30939500.0",
+    "gn:asciiname":"Akur Takur",
+    "gn:country_code":"BD",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1213072,
+    "gn:latitude":24.26431,
+    "gn:longitude":89.91145,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Akur T\u0101kur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421185471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1213072
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"ee0b256c53a4f2f8d43e7a5928b6314f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421185471,
+            "locality_id":1276160863,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1276160863,
+    "wof:lastmodified":1537009126,
+    "wof:name":"Akur Takur",
+    "wof:parent_id":421185471,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.91145,
+    24.26431,
+    89.91145,
+    24.26431
+],
+  "geometry": {"coordinates":[89.91145,24.26431],"type":"Point"}
+}

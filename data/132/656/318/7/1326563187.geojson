@@ -1,0 +1,73 @@
+{
+  "id": 1326563187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.98444,24.31381,88.98444,24.31381",
+    "geom:latitude":24.31381,
+    "geom:longitude":88.98444,
+    "gn:admin1_code":"83",
+    "gn:admin2_code":"5069.0",
+    "gn:admin3_code":"506909.0",
+    "gn:admin4_code":"50690938.0",
+    "gn:asciiname":"Panchuria",
+    "gn:country_code":"BD",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7483833,
+    "gn:latitude":24.31381,
+    "gn:longitude":88.98444,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"P\u0101nchuria",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "P\u0101nchuria"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669031,
+        421182115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7483833
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"4cf281a8a7d43b159e19c7ce0125aee6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421182115,
+            "locality_id":1326563187,
+            "region_id":85669031
+        }
+    ],
+    "wof:id":1326563187,
+    "wof:lastmodified":1537586548,
+    "wof:name":"Panchuria",
+    "wof:parent_id":421182115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.98444,
+    24.31381,
+    88.98444,
+    24.31381
+],
+  "geometry": {"coordinates":[88.98444000000001,24.31381],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1309834475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.60297,23.72808,90.60297,23.72808",
+    "geom:latitude":23.72808,
+    "geom:longitude":90.60297,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3067",
+    "gn:admin3_code":"306704.0",
+    "gn:admin4_code":"30670434.0",
+    "gn:asciiname":"Shaikherhat",
+    "gn:country_code":"BD",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1188323,
+    "gn:latitude":23.72808,
+    "gn:longitude":90.60297,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Shaikherh\u0101t",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shaikherh\u0101t",
+        "Sekherh\u0101t"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421197045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1188323
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"0d039d0c4101a6cc008573790d4d7e35",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421197045,
+            "locality_id":1309834475,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1309834475,
+    "wof:lastmodified":1537585759,
+    "wof:name":"Shaikherhat",
+    "wof:parent_id":421197045,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.60297,
+    23.72808,
+    90.60297,
+    23.72808
+],
+  "geometry": {"coordinates":[90.60297,23.72808],"type":"Point"}
+}

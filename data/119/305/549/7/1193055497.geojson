@@ -1,0 +1,76 @@
+{
+  "id": 1193055497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.2748,22.4577,89.2748,22.4577",
+    "geom:latitude":22.4577,
+    "geom:longitude":89.2748,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4047.0",
+    "gn:admin3_code":"404753.0",
+    "gn:admin4_code":"40475305.0",
+    "gn:asciiname":"Amadi",
+    "gn:country_code":"BD",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1212904,
+    "gn:latitude":22.4577,
+    "gn:longitude":89.2748,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Am\u0101di",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Am\u0101di"
+    ],
+    "name:und_x_variant":[
+        "Armadi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        421185473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1212904
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"901844eb3f27c4004cc12f9e60822a27",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421185473,
+            "locality_id":1193055497,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1193055497,
+    "wof:lastmodified":1537586204,
+    "wof:name":"Amadi",
+    "wof:parent_id":421185473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.2748,
+    22.4577,
+    89.2748,
+    22.4577
+],
+  "geometry": {"coordinates":[89.2748,22.4577],"type":"Point"}
+}

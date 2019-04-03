@@ -1,0 +1,67 @@
+{
+  "id": 1209545849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.50764,26.17112,88.50764,26.17112",
+    "geom:latitude":26.17112,
+    "geom:longitude":88.50764,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5594.0",
+    "gn:admin3_code":"559494.0",
+    "gn:admin4_code":"55949436.0",
+    "gn:asciiname":"Tepagaon",
+    "gn:country_code":"BD",
+    "gn:dem":65,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7104944,
+    "gn:latitude":26.17112,
+    "gn:longitude":88.50764,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Tepag\u00e3on",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Tepag\u00e3on"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7104944
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"9b43fd0da6cbd3de40f26fa15244a462",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209545849
+        }
+    ],
+    "wof:id":1209545849,
+    "wof:lastmodified":1537586290,
+    "wof:name":"Tepagaon",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.50764000000002,
+    26.17112,
+    88.50764000000002,
+    26.17112
+],
+  "geometry": {"coordinates":[88.50764000000002,26.17112],"type":"Point"}
+}

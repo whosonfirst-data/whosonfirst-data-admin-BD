@@ -1,0 +1,70 @@
+{
+  "id": 1243010501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.29261,22.72823,89.29261,22.72823",
+    "geom:latitude":22.72823,
+    "geom:longitude":89.29261,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4087",
+    "gn:admin3_code":"408790.0",
+    "gn:admin4_code":"40879031.0",
+    "gn:asciiname":"Khalilnagar",
+    "gn:country_code":"BD",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1197723,
+    "gn:latitude":22.72823,
+    "gn:longitude":89.29261,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Khal\u012blnagar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        421201927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1197723
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"3eb5aef87c20faf468557d15521254c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421201927,
+            "locality_id":1243010501,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1243010501,
+    "wof:lastmodified":1536937724,
+    "wof:name":"Khalilnagar",
+    "wof:parent_id":421201927,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.29261,
+    22.72823,
+    89.29261,
+    22.72823
+],
+  "geometry": {"coordinates":[89.29261,22.72823],"type":"Point"}
+}

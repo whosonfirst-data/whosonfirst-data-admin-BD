@@ -1,0 +1,64 @@
+{
+  "id": 1209034607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.38086,23.56091,89.38086,23.56091",
+    "geom:latitude":23.56091,
+    "geom:longitude":89.38086,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4055.0",
+    "gn:admin3_code":"405595.0",
+    "gn:admin4_code":"40559573.0",
+    "gn:asciiname":"Dosatina",
+    "gn:country_code":"BD",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1203837,
+    "gn:latitude":23.56091,
+    "gn:longitude":89.38086,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Dosatina",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1203837
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"da2ee4529495c8972fddd553a859cf43",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209034607
+        }
+    ],
+    "wof:id":1209034607,
+    "wof:lastmodified":1536299742,
+    "wof:name":"Dosatina",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.38086,
+    23.56091,
+    89.38086,
+    23.56091
+],
+  "geometry": {"coordinates":[89.38086,23.56091],"type":"Point"}
+}

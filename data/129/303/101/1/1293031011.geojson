@@ -1,0 +1,73 @@
+{
+  "id": 1293031011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.04746,26.35827,89.04746,26.35827",
+    "geom:latitude":26.35827,
+    "geom:longitude":89.04746,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5552.0",
+    "gn:admin3_code":"555270.0",
+    "gn:admin4_code":"55527027.0",
+    "gn:asciiname":"Bhandardaha",
+    "gn:country_code":"BD",
+    "gn:dem":60,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7484019,
+    "gn:latitude":26.35827,
+    "gn:longitude":89.04746,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Bh\u0101ndard\u0101ha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Bh\u0101ndard\u0101ha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7484019
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"5b9ea6a2c5c8ca7ad74811c93fe42aa6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694687,
+            "locality_id":1293031011,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1293031011,
+    "wof:lastmodified":1537586553,
+    "wof:name":"Bhandardaha",
+    "wof:parent_id":1108694687,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.04746,
+    26.35827,
+    89.04746,
+    26.35827
+],
+  "geometry": {"coordinates":[89.04746,26.35827],"type":"Point"}
+}

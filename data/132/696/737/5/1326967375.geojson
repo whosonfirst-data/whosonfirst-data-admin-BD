@@ -1,0 +1,70 @@
+{
+  "id": 1326967375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.43806,25.16197,89.43806,25.16197",
+    "geom:latitude":25.16197,
+    "geom:longitude":89.43806,
+    "gn:admin1_code":"83",
+    "gn:asciiname":"Chhota Abhirampur",
+    "gn:country_code":"BD",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7892036,
+    "gn:latitude":25.16197,
+    "gn:longitude":89.43806,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Chhota Abhir\u0101mpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Chhota Abhir\u0101mpur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7892036
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"b917a18d1a94ab48dd359098c0e2cd19",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694675,
+            "locality_id":1326967375,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1326967375,
+    "wof:lastmodified":1537586755,
+    "wof:name":"Chhota Abhirampur",
+    "wof:parent_id":1108694675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.43806,
+    25.16197,
+    89.43806,
+    25.16197
+],
+  "geometry": {"coordinates":[89.43805999999999,25.16197],"type":"Point"}
+}

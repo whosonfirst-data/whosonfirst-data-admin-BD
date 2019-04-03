@@ -1,0 +1,73 @@
+{
+  "id": 1293932085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"92.1714,22.41868,92.1714,22.41868",
+    "geom:latitude":22.41868,
+    "geom:longitude":92.1714,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2084.0",
+    "gn:admin3_code":"208436.0",
+    "gn:admin4_code":"20843676.0",
+    "gn:asciiname":"Chakka chara",
+    "gn:country_code":"BD",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6416177,
+    "gn:latitude":22.41868,
+    "gn:longitude":92.1714,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Chakka chara",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Chakka chara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421188983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6416177
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"80267cf9787bd16165d23c7a19abf8e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421188983,
+            "locality_id":1293932085,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1293932085,
+    "wof:lastmodified":1537586258,
+    "wof:name":"Chakka chara",
+    "wof:parent_id":421188983,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    92.1714,
+    22.41868,
+    92.1714,
+    22.41868
+],
+  "geometry": {"coordinates":[92.17140000000001,22.41868],"type":"Point"}
+}

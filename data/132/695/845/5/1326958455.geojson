@@ -1,0 +1,70 @@
+{
+  "id": 1326958455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.30155,22.81893,90.30155,22.81893",
+    "geom:latitude":22.81893,
+    "geom:longitude":90.30155,
+    "gn:admin1_code":"85",
+    "gn:admin2_code":"1006",
+    "gn:admin3_code":"100603.0",
+    "gn:admin4_code":"10060381.0",
+    "gn:asciiname":"Kshudrakati",
+    "gn:country_code":"BD",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1196825,
+    "gn:latitude":22.81893,
+    "gn:longitude":90.30155,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Kshudrak\u0101ti",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669019,
+        421187745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1196825
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"aad1439c4da7f478d1af513f0757c03e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421187745,
+            "locality_id":1326958455,
+            "region_id":85669019
+        }
+    ],
+    "wof:id":1326958455,
+    "wof:lastmodified":1536865874,
+    "wof:name":"Kshudrakati",
+    "wof:parent_id":421187745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.30155,
+    22.81893,
+    90.30155,
+    22.81893
+],
+  "geometry": {"coordinates":[90.30155000000001,22.81893],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1259411041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.9544,25.83524,88.9544,25.83524",
+    "geom:latitude":25.83524,
+    "geom:longitude":88.9544,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5573.0",
+    "gn:admin3_code":"557385.0",
+    "gn:admin4_code":"55738567.0",
+    "gn:asciiname":"Kashiram Belpukur",
+    "gn:country_code":"BD",
+    "gn:dem":41,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7489139,
+    "gn:latitude":25.83524,
+    "gn:longitude":88.9544,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"K\u0101shir\u0101m Belpukur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "K\u0101shir\u0101m Belpukur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7489139
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"dd21a4dfe5c4c53a5aef45585257e78a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694695,
+            "locality_id":1259411041,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1259411041,
+    "wof:lastmodified":1537586689,
+    "wof:name":"Kashiram Belpukur",
+    "wof:parent_id":1108694695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.9544,
+    25.83524,
+    88.9544,
+    25.83524
+],
+  "geometry": {"coordinates":[88.95440000000001,25.83524],"type":"Point"}
+}

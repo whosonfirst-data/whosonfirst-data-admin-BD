@@ -1,0 +1,73 @@
+{
+  "id": 1193046353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.13335,23.12926,89.13335,23.12926",
+    "geom:latitude":23.12926,
+    "geom:longitude":89.13335,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4041",
+    "gn:admin3_code":"404123.0",
+    "gn:admin4_code":"40412347.0",
+    "gn:asciiname":"Jaykrishnapur",
+    "gn:country_code":"BD",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1200098,
+    "gn:latitude":23.12926,
+    "gn:longitude":89.13335,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Jaykrishnapur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Jaykrishnapur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        421176039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1200098
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"4a0109884576f5ba219f58ddd7d91f5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421176039,
+            "locality_id":1193046353,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1193046353,
+    "wof:lastmodified":1537585973,
+    "wof:name":"Jaykrishnapur",
+    "wof:parent_id":421176039,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.13335,
+    23.12926,
+    89.13335,
+    23.12926
+],
+  "geometry": {"coordinates":[89.13334999999999,23.12926],"type":"Point"}
+}

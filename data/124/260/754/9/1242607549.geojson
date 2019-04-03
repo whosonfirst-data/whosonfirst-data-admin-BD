@@ -1,0 +1,73 @@
+{
+  "id": 1242607549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.30858,24.42319,88.30858,24.42319",
+    "geom:latitude":24.42319,
+    "geom:longitude":88.30858,
+    "gn:admin1_code":"83",
+    "gn:admin2_code":"5081.0",
+    "gn:admin3_code":"508134.0",
+    "gn:admin4_code":"50813419.0",
+    "gn:asciiname":"Diar Manikchak",
+    "gn:country_code":"BD",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7482608,
+    "gn:latitude":24.42319,
+    "gn:longitude":88.30858,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Di\u0101r M\u0101nikchak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Di\u0101r M\u0101nikchak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669031,
+        421191607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7482608
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"907971a8fd0d3595b02eb3558ba79603",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421191607,
+            "locality_id":1242607549,
+            "region_id":85669031
+        }
+    ],
+    "wof:id":1242607549,
+    "wof:lastmodified":1537586512,
+    "wof:name":"Diar Manikchak",
+    "wof:parent_id":421191607,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.30858,
+    24.42319,
+    88.30858,
+    24.42319
+],
+  "geometry": {"coordinates":[88.30858000000001,24.42319],"type":"Point"}
+}

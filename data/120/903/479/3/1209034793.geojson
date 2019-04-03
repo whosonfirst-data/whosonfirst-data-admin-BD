@@ -1,0 +1,64 @@
+{
+  "id": 1209034793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.71661,24.62661,90.71661,24.62661",
+    "geom:latitude":24.62661,
+    "geom:longitude":90.71661,
+    "gn:admin1_code":"H",
+    "gn:admin2_code":"3061.0",
+    "gn:admin3_code":"306131.0",
+    "gn:admin4_code":"30613109.0",
+    "gn:asciiname":"Atharabari",
+    "gn:country_code":"BD",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1212316,
+    "gn:latitude":24.62661,
+    "gn:longitude":90.71661,
+    "gn:modification_date":"2016-11-17",
+    "gn:name":"\u0100th\u0101rab\u0101ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1212316
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"56e783c604d8e1f586b588ad53c84a4b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209034793
+        }
+    ],
+    "wof:id":1209034793,
+    "wof:lastmodified":1536299736,
+    "wof:name":"Atharabari",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.71661,
+    24.62661,
+    90.71661,
+    24.62661
+],
+  "geometry": {"coordinates":[90.71661,24.62661],"type":"Point"}
+}

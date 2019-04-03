@@ -1,0 +1,70 @@
+{
+  "id": 1276478057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.66667,23.78333,90.66667,23.78333",
+    "geom:latitude":23.78333,
+    "geom:longitude":90.66667,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3067.0",
+    "gn:admin3_code":"306702.0",
+    "gn:admin4_code":"30670239.0",
+    "gn:asciiname":"Chhota Baraipara",
+    "gn:country_code":"BD",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1206064,
+    "gn:latitude":23.78333,
+    "gn:longitude":90.66667,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Chhota Baraipara",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421197045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1206064
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"59cc22347b4cf4939aa28bc59b24f325",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421197045,
+            "locality_id":1276478057,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1276478057,
+    "wof:lastmodified":1537078935,
+    "wof:name":"Chhota Baraipara",
+    "wof:parent_id":421197045,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.66667,
+    23.78333,
+    90.66667,
+    23.78333
+],
+  "geometry": {"coordinates":[90.66667,23.78333],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209040037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.74218,24.12633,90.74218,24.12633",
+    "geom:latitude":24.12633,
+    "geom:longitude":90.74218,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3068",
+    "gn:admin3_code":"306852.0",
+    "gn:admin4_code":"30685294.0",
+    "gn:asciiname":"Khanjar Hat",
+    "gn:country_code":"BD",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1197611,
+    "gn:latitude":24.12633,
+    "gn:longitude":90.74218,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Kh\u0101nj\u0101r H\u0101t",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1197611
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"6d2b11e5673ff78ca46bdf7a206df63e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209040037
+        }
+    ],
+    "wof:id":1209040037,
+    "wof:lastmodified":1536299574,
+    "wof:name":"Khanjar Hat",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.74218,
+    24.12633,
+    90.74218,
+    24.12633
+],
+  "geometry": {"coordinates":[90.74218,24.12633],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1310638187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.98355,23.96688,88.98355,23.96688",
+    "geom:latitude":23.96688,
+    "geom:longitude":88.98355,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4050.0",
+    "gn:admin3_code":"405094.0",
+    "gn:admin4_code":"40509443.0",
+    "gn:asciiname":"Dhubail",
+    "gn:country_code":"BD",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1204569,
+    "gn:latitude":23.96688,
+    "gn:longitude":88.98355,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Dhub\u0101il",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Dhub\u0101il"
+    ],
+    "name:ben_x_variant":[
+        "Dhabol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        890438075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1204569
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"a58e01ecdca4f4317173fab7a54ac357",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":890438075,
+            "locality_id":1310638187,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1310638187,
+    "wof:lastmodified":1537586059,
+    "wof:name":"Dhubail",
+    "wof:parent_id":890438075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.98355,
+    23.96688,
+    88.98355,
+    23.96688
+],
+  "geometry": {"coordinates":[88.98354999999999,23.96688],"type":"Point"}
+}

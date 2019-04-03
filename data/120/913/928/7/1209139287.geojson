@@ -1,0 +1,67 @@
+{
+  "id": 1209139287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.8239,25.21978,89.8239,25.21978",
+    "geom:latitude":25.21978,
+    "geom:longitude":89.8239,
+    "gn:admin1_code":"H",
+    "gn:admin2_code":"3039",
+    "gn:admin3_code":"303907.0",
+    "gn:admin4_code":"30390783.0",
+    "gn:asciiname":"Sadhurpara",
+    "gn:country_code":"BD",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1189354,
+    "gn:latitude":25.21978,
+    "gn:longitude":89.8239,
+    "gn:modification_date":"2016-11-17",
+    "gn:name":"Sadhurpara",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "S\u0101dhup\u0101ra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1189354
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"ee10a95e37c8587dab7b5618f82a7506",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209139287
+        }
+    ],
+    "wof:id":1209139287,
+    "wof:lastmodified":1537585779,
+    "wof:name":"Sadhurpara",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.8239,
+    25.21978,
+    89.8239,
+    25.21978
+],
+  "geometry": {"coordinates":[89.82389999999999,25.21978],"type":"Point"}
+}

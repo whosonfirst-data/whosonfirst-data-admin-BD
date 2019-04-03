@@ -1,0 +1,70 @@
+{
+  "id": 1293234123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.10671,24.83068,90.10671,24.83068",
+    "geom:latitude":24.83068,
+    "geom:longitude":90.10671,
+    "gn:admin1_code":"H",
+    "gn:admin2_code":"3039.0",
+    "gn:admin3_code":"303936.0",
+    "gn:admin4_code":"30393617.0",
+    "gn:asciiname":"Gopalpur",
+    "gn:country_code":"BD",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1202059,
+    "gn:latitude":24.83068,
+    "gn:longitude":90.10671,
+    "gn:modification_date":"2016-11-17",
+    "gn:name":"Gop\u0101lpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        1108803101,
+        421191923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1202059
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"d94834b83869f579319f2ef72e799371",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421191923,
+            "locality_id":1293234123,
+            "region_id":1108803101
+        }
+    ],
+    "wof:id":1293234123,
+    "wof:lastmodified":1536655447,
+    "wof:name":"Gopalpur",
+    "wof:parent_id":421191923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.10671,
+    24.83068,
+    90.10671,
+    24.83068
+],
+  "geometry": {"coordinates":[90.10671000000001,24.83068],"type":"Point"}
+}

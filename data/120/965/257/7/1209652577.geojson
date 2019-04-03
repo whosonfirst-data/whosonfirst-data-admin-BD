@@ -1,0 +1,64 @@
+{
+  "id": 1209652577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.27086,25.53465,89.27086,25.53465",
+    "geom:latitude":25.53465,
+    "geom:longitude":89.27086,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5585",
+    "gn:admin3_code":"558558.0",
+    "gn:admin4_code":"55855839.0",
+    "gn:asciiname":"Chandpur",
+    "gn:country_code":"BD",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7890260,
+    "gn:latitude":25.53465,
+    "gn:longitude":89.27086,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Ch\u0101ndpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7890260
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"759972aa3119c3f681bf598e3377cf1a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209652577
+        }
+    ],
+    "wof:id":1209652577,
+    "wof:lastmodified":1536280533,
+    "wof:name":"Chandpur",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.27086,
+    25.53465,
+    89.27086,
+    25.53465
+],
+  "geometry": {"coordinates":[89.27086,25.53465],"type":"Point"}
+}

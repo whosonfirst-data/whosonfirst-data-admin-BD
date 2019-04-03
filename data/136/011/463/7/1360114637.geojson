@@ -1,0 +1,70 @@
+{
+  "id": 1360114637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.3377,25.13459,89.3377,25.13459",
+    "geom:latitude":25.13459,
+    "geom:longitude":89.3377,
+    "gn:admin1_code":"83",
+    "gn:asciiname":"Goalpara",
+    "gn:country_code":"BD",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7890369,
+    "gn:latitude":25.13459,
+    "gn:longitude":89.3377,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Go\u0101lp\u0101ra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Go\u0101lp\u0101ra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7890369
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"189bb1d55b84a49faedd14a5fa4118d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694675,
+            "locality_id":1360114637,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1360114637,
+    "wof:lastmodified":1537586744,
+    "wof:name":"Goalpara",
+    "wof:parent_id":1108694675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.3377,
+    25.13459,
+    89.3377,
+    25.13459
+],
+  "geometry": {"coordinates":[89.3377,25.13459],"type":"Point"}
+}

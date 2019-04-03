@@ -1,0 +1,73 @@
+{
+  "id": 1226484475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"92.14234,21.87624,92.14234,21.87624",
+    "geom:latitude":21.87624,
+    "geom:longitude":92.14234,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2003.0",
+    "gn:admin3_code":"200351.0",
+    "gn:admin4_code":"20035147.0",
+    "gn:asciiname":"Chathauaiphrupara",
+    "gn:country_code":"BD",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6415285,
+    "gn:latitude":21.87624,
+    "gn:longitude":92.14234,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Chath\u0101u\u0101iphrup\u0101ra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Chath\u0101u\u0101iphrup\u0101ra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421169477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6415285
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"7d5de4314832114c955519e70575211b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421169477,
+            "locality_id":1226484475,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1226484475,
+    "wof:lastmodified":1537586241,
+    "wof:name":"Chathauaiphrupara",
+    "wof:parent_id":421169477,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    92.14234,
+    21.87624,
+    92.14234,
+    21.87624
+],
+  "geometry": {"coordinates":[92.14234,21.87624],"type":"Point"}
+}

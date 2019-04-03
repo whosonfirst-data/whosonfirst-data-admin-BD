@@ -1,0 +1,67 @@
+{
+  "id": 1209445151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.41521,26.32525,88.41521,26.32525",
+    "geom:latitude":26.32525,
+    "geom:longitude":88.41521,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5577.0",
+    "gn:admin3_code":"557704.0",
+    "gn:admin4_code":"55770440.0",
+    "gn:asciiname":"Satbari",
+    "gn:country_code":"BD",
+    "gn:dem":78,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7486942,
+    "gn:latitude":26.32525,
+    "gn:longitude":88.41521,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"S\u0101tb\u0101r\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "S\u0101tb\u0101r\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7486942
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"b5d641bca4f32f667f6715469d70efb3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209445151
+        }
+    ],
+    "wof:id":1209445151,
+    "wof:lastmodified":1537586625,
+    "wof:name":"Satbari",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.41521,
+    26.32525,
+    88.41521,
+    26.32525
+],
+  "geometry": {"coordinates":[88.41521,26.32525],"type":"Point"}
+}

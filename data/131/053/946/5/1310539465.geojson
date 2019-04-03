@@ -1,0 +1,73 @@
+{
+  "id": 1310539465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.99112,21.43248,91.99112,21.43248",
+    "geom:latitude":21.43248,
+    "geom:longitude":91.99112,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2022.0",
+    "gn:admin3_code":"202224.0",
+    "gn:admin4_code":"20222447.0",
+    "gn:asciiname":"Baidhar Gona",
+    "gn:country_code":"BD",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6415917,
+    "gn:latitude":21.43248,
+    "gn:longitude":91.99112,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Baidhar Gona",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Baidhar Gona"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421205057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6415917
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"dc7c14dea9ff548a3d62f166149e8ee5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421205057,
+            "locality_id":1310539465,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1310539465,
+    "wof:lastmodified":1537586253,
+    "wof:name":"Baidhar Gona",
+    "wof:parent_id":421205057,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.99112,
+    21.43248,
+    91.99112,
+    21.43248
+],
+  "geometry": {"coordinates":[91.99112,21.43248],"type":"Point"}
+}

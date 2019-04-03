@@ -1,0 +1,64 @@
+{
+  "id": 1209347781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.04828,23.4474,90.04828,23.4474",
+    "geom:latitude":23.4474,
+    "geom:longitude":90.04828,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3029.0",
+    "gn:admin3_code":"302984.0",
+    "gn:admin4_code":"30298485.0",
+    "gn:asciiname":"Char Brahmandi",
+    "gn:country_code":"BD",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1207019,
+    "gn:latitude":23.4474,
+    "gn:longitude":90.04828,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Char Br\u0101hmandi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1207019
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"a28be19c3f41c1fdfabaaeb3505c252a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209347781
+        }
+    ],
+    "wof:id":1209347781,
+    "wof:lastmodified":1536289851,
+    "wof:name":"Char Brahmandi",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.04828,
+    23.4474,
+    90.04828,
+    23.4474
+],
+  "geometry": {"coordinates":[90.04828000000001,23.4474],"type":"Point"}
+}

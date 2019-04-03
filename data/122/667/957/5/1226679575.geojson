@@ -1,0 +1,73 @@
+{
+  "id": 1226679575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.76658,25.95155,88.76658,25.95155",
+    "geom:latitude":25.95155,
+    "geom:longitude":88.76658,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5573.0",
+    "gn:admin3_code":"557364.0",
+    "gn:admin4_code":"55736444.0",
+    "gn:asciiname":"Musurat Gorgram",
+    "gn:country_code":"BD",
+    "gn:dem":51,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7488971,
+    "gn:latitude":25.95155,
+    "gn:longitude":88.76658,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Musurat Gorgr\u0101m",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Musurat Gorgr\u0101m"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7488971
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"be1b7ab27a3b70ba2380745ce70007a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694695,
+            "locality_id":1226679575,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1226679575,
+    "wof:lastmodified":1537586684,
+    "wof:name":"Musurat Gorgram",
+    "wof:parent_id":1108694695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.76658,
+    25.95155,
+    88.76658,
+    25.95155
+],
+  "geometry": {"coordinates":[88.76658,25.95155],"type":"Point"}
+}

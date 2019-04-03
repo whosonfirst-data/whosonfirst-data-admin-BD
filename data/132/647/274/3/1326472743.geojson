@@ -1,0 +1,73 @@
+{
+  "id": 1326472743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"92.05917,21.56712,92.05917,21.56712",
+    "geom:latitude":21.56712,
+    "geom:longitude":92.05917,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2022.0",
+    "gn:admin3_code":"202224.0",
+    "gn:admin4_code":"20222435.0",
+    "gn:asciiname":"Boalkhali",
+    "gn:country_code":"BD",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6422992,
+    "gn:latitude":21.56712,
+    "gn:longitude":92.05917,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Bo\u0101lkh\u0101li",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Bo\u0101lkh\u0101li"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421205057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6422992
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"d26f17b01f9076c1caceffa4a0829611",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421205057,
+            "locality_id":1326472743,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1326472743,
+    "wof:lastmodified":1537586273,
+    "wof:name":"Boalkhali",
+    "wof:parent_id":421205057,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    92.05917,
+    21.56712000000001,
+    92.05917,
+    21.56712000000001
+],
+  "geometry": {"coordinates":[92.05916999999999,21.56712000000001],"type":"Point"}
+}

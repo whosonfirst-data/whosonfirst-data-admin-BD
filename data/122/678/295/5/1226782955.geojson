@@ -1,0 +1,70 @@
+{
+  "id": 1226782955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.23713,22.68317,90.23713,22.68317",
+    "geom:latitude":22.68317,
+    "geom:longitude":90.23713,
+    "gn:admin1_code":"85",
+    "gn:admin2_code":"1042",
+    "gn:admin3_code":"104273.0",
+    "gn:admin4_code":"10427363.0",
+    "gn:asciiname":"Latimsar",
+    "gn:country_code":"BD",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1196110,
+    "gn:latitude":22.68317,
+    "gn:longitude":90.23713,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"L\u0101tims\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669019,
+        1108694677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1196110
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"017540ed215dd759c1e0767824d0da4d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694677,
+            "locality_id":1226782955,
+            "region_id":85669019
+        }
+    ],
+    "wof:id":1226782955,
+    "wof:lastmodified":1536662019,
+    "wof:name":"Latimsar",
+    "wof:parent_id":1108694677,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.23713,
+    22.68317,
+    90.23713,
+    22.68317
+],
+  "geometry": {"coordinates":[90.23712999999999,22.68317],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1310531565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.9474,24.24103,89.9474,24.24103",
+    "geom:latitude":24.24103,
+    "geom:longitude":89.9474,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3093",
+    "gn:admin3_code":"309395.0",
+    "gn:admin4_code":"30939559.0",
+    "gn:asciiname":"Taratia",
+    "gn:country_code":"BD",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1186478,
+    "gn:latitude":24.24103,
+    "gn:longitude":89.9474,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"T\u0101r\u0101tia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421185471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1186478
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"7e51666233da8e94837dc86b8b66b8b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421185471,
+            "locality_id":1310531565,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1310531565,
+    "wof:lastmodified":1536878639,
+    "wof:name":"Taratia",
+    "wof:parent_id":421185471,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.9474,
+    24.24103,
+    89.9474,
+    24.24103
+],
+  "geometry": {"coordinates":[89.9474,24.24103],"type":"Point"}
+}

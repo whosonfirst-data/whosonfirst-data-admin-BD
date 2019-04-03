@@ -1,0 +1,73 @@
+{
+  "id": 1260316549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.94344,25.48441,88.94344,25.48441",
+    "geom:latitude":25.48441,
+    "geom:longitude":88.94344,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5527.0",
+    "gn:admin3_code":"552738.0",
+    "gn:admin4_code":"55273800.0",
+    "gn:asciiname":"Bhimalpur",
+    "gn:country_code":"BD",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7481280,
+    "gn:latitude":25.48441,
+    "gn:longitude":88.94344,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Bhimalpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Bhimalpur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7481280
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"60114ec7e1c0f1155bd2b3ae2653dc63",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694671,
+            "locality_id":1260316549,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1260316549,
+    "wof:lastmodified":1537586474,
+    "wof:name":"Bhimalpur",
+    "wof:parent_id":1108694671,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.94344,
+    25.48441,
+    88.94344,
+    25.48441
+],
+  "geometry": {"coordinates":[88.94344,25.48441],"type":"Point"}
+}

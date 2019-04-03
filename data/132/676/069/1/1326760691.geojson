@@ -1,0 +1,70 @@
+{
+  "id": 1326760691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.22101,25.00184,90.22101,25.00184",
+    "geom:latitude":25.00184,
+    "geom:longitude":90.22101,
+    "gn:admin1_code":"H",
+    "gn:admin2_code":"3089",
+    "gn:admin3_code":"308967.0",
+    "gn:admin4_code":"30896785.0",
+    "gn:asciiname":"Ranisimul",
+    "gn:country_code":"BD",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1189805,
+    "gn:latitude":25.00184,
+    "gn:longitude":90.22101,
+    "gn:modification_date":"2016-11-17",
+    "gn:name":"R\u0101nisimul",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        1108803101,
+        421190979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1189805
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"c449fcf4246be4bb23ab9173173b8a01",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421190979,
+            "locality_id":1326760691,
+            "region_id":1108803101
+        }
+    ],
+    "wof:id":1326760691,
+    "wof:lastmodified":1536654792,
+    "wof:name":"Ranisimul",
+    "wof:parent_id":421190979,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.22101,
+    25.00184,
+    90.22101,
+    25.00184
+],
+  "geometry": {"coordinates":[90.22101000000001,25.00184],"type":"Point"}
+}

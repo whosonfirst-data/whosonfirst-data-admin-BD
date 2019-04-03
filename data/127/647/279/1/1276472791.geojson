@@ -1,0 +1,73 @@
+{
+  "id": 1276472791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.21165,22.16837,90.21165,22.16837",
+    "geom:latitude":22.16837,
+    "geom:longitude":90.21165,
+    "gn:admin1_code":"85",
+    "gn:admin2_code":"1004.0",
+    "gn:admin3_code":"100428.0",
+    "gn:admin4_code":"10042809.0",
+    "gn:asciiname":"Purba Keorabunia",
+    "gn:country_code":"BD",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7476990,
+    "gn:latitude":22.16837,
+    "gn:longitude":90.21165,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Purba Keorabunia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Purba Keorabunia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669019,
+        421176043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7476990
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"a0141778f3a36d561b398c2d7d4e58ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421176043,
+            "locality_id":1276472791,
+            "region_id":85669019
+        }
+    ],
+    "wof:id":1276472791,
+    "wof:lastmodified":1537586359,
+    "wof:name":"Purba Keorabunia",
+    "wof:parent_id":421176043,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.21165,
+    22.16837,
+    90.21165,
+    22.16837
+],
+  "geometry": {"coordinates":[90.21165000000001,22.16837],"type":"Point"}
+}

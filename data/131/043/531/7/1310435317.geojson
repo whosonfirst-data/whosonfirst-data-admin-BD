@@ -1,0 +1,70 @@
+{
+  "id": 1310435317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.12832,23.64742,90.12832,23.64742",
+    "geom:latitude":23.64742,
+    "geom:longitude":90.12832,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3026",
+    "gn:admin3_code":"302662.0",
+    "gn:admin4_code":"30266220.0",
+    "gn:asciiname":"Mridharkanda",
+    "gn:country_code":"BD",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1194095,
+    "gn:latitude":23.64742,
+    "gn:longitude":90.12832,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Mridh\u0101rk\u0101nda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421187803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1194095
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"334aa8a697badb3c2778a884cdbc1e4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421187803,
+            "locality_id":1310435317,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1310435317,
+    "wof:lastmodified":1537017642,
+    "wof:name":"Mridharkanda",
+    "wof:parent_id":421187803,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.12832,
+    23.64742,
+    90.12832,
+    23.64742
+],
+  "geometry": {"coordinates":[90.12832,23.64742],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1226175767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.94672,24.00212,89.94672,24.00212",
+    "geom:latitude":24.00212,
+    "geom:longitude":89.94672,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3056",
+    "gn:admin3_code":"305670.0",
+    "gn:admin4_code":"30567028.0",
+    "gn:asciiname":"Sabhar",
+    "gn:country_code":"BD",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1189419,
+    "gn:latitude":24.00212,
+    "gn:longitude":89.94672,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"S\u0101bh\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sabhra",
+        "S\u0101bh\u0101r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421191745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1189419
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"bc004fdab165f04dd9788a8cf208ebaf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421191745,
+            "locality_id":1226175767,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1226175767,
+    "wof:lastmodified":1537585780,
+    "wof:name":"Sabhar",
+    "wof:parent_id":421191745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.94672,
+    24.00212,
+    89.94672,
+    24.00212
+],
+  "geometry": {"coordinates":[89.94672,24.00212],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1293920969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.00388,23.64818,89.00388,23.64818",
+    "geom:latitude":23.64818,
+    "geom:longitude":89.00388,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4018.0",
+    "gn:admin3_code":"401807.0",
+    "gn:admin4_code":"40180779.0",
+    "gn:asciiname":"Khaskara",
+    "gn:country_code":"BD",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7478268,
+    "gn:latitude":23.64818,
+    "gn:longitude":89.00388,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Kh\u0101skara",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Kh\u0101skara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        421194153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7478268
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"ec8fbdf0735380861c9518fae3262c02",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421194153,
+            "locality_id":1293920969,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1293920969,
+    "wof:lastmodified":1537586387,
+    "wof:name":"Khaskara",
+    "wof:parent_id":421194153,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.00388000000002,
+    23.64818,
+    89.00388000000002,
+    23.64818
+],
+  "geometry": {"coordinates":[89.00388000000002,23.64818],"type":"Point"}
+}

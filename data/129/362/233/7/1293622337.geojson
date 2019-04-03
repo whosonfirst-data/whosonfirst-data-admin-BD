@@ -1,0 +1,73 @@
+{
+  "id": 1293622337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.62502,25.48253,89.62502,25.48253",
+    "geom:latitude":25.48253,
+    "geom:longitude":89.62502,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5532",
+    "gn:admin3_code":"553291.0",
+    "gn:admin4_code":"55329118.0",
+    "gn:asciiname":"Sicha",
+    "gn:country_code":"BD",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1187979,
+    "gn:latitude":25.48253,
+    "gn:longitude":89.62502,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Sicha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Sicha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1187979
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"dc0fe4f0aaebee8a260c368e9a476dcd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694675,
+            "locality_id":1293622337,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1293622337,
+    "wof:lastmodified":1537585749,
+    "wof:name":"Sicha",
+    "wof:parent_id":1108694675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.62501999999998,
+    25.48253,
+    89.62501999999998,
+    25.48253
+],
+  "geometry": {"coordinates":[89.62501999999998,25.48253],"type":"Point"}
+}

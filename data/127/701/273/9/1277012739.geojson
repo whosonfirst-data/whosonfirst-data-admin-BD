@@ -1,0 +1,73 @@
+{
+  "id": 1277012739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.3509,23.19614,90.3509,23.19614",
+    "geom:latitude":23.19614,
+    "geom:longitude":90.3509,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3086",
+    "gn:admin3_code":"308669.0",
+    "gn:admin4_code":"30866900.0",
+    "gn:asciiname":"Hogli",
+    "gn:country_code":"BD",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1200943,
+    "gn:latitude":23.19614,
+    "gn:longitude":90.3509,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Hogli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hugli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421188359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1200943
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"93904b870c94b5101b133e68dfdfe0fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421188359,
+            "locality_id":1277012739,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1277012739,
+    "wof:lastmodified":1537585989,
+    "wof:name":"Hogli",
+    "wof:parent_id":421188359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.3509,
+    23.19614,
+    90.3509,
+    23.19614
+],
+  "geometry": {"coordinates":[90.3509,23.19614],"type":"Point"}
+}

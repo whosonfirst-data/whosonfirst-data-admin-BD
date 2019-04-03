@@ -1,0 +1,74 @@
+{
+  "id": 1309939441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.67147,23.74401,90.67147,23.74401",
+    "geom:latitude":23.74401,
+    "geom:longitude":90.67147,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3067",
+    "gn:admin3_code":"306702.0",
+    "gn:admin4_code":"30670294.0",
+    "gn:asciiname":"Teghariapara",
+    "gn:country_code":"BD",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1186360,
+    "gn:latitude":23.74401,
+    "gn:longitude":90.67147,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Teghari\u0101p\u0101ra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Teghoria Para",
+        "Teghari\u0101p\u0101ra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421197045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1186360
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"8502f84128b9165a0110944e596a53b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421197045,
+            "locality_id":1309939441,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1309939441,
+    "wof:lastmodified":1537585717,
+    "wof:name":"Teghariapara",
+    "wof:parent_id":421197045,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.67147,
+    23.74401,
+    90.67147,
+    23.74401
+],
+  "geometry": {"coordinates":[90.67147,23.74401],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1310549853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.8213,22.71603,91.8213,22.71603",
+    "geom:latitude":22.71603,
+    "geom:longitude":91.8213,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2015.0",
+    "gn:admin3_code":"201533.0",
+    "gn:admin4_code":"20153352.0",
+    "gn:asciiname":"Dakhin Rangamatia",
+    "gn:country_code":"BD",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6414216,
+    "gn:latitude":22.71603,
+    "gn:longitude":91.8213,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Dakhin R\u0101ng\u0101m\u0101tia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Dakhin R\u0101ng\u0101m\u0101tia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421201541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6414216
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"c67768c4d5f5570aff3eca25e5865341",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421201541,
+            "locality_id":1310549853,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1310549853,
+    "wof:lastmodified":1537586222,
+    "wof:name":"Dakhin Rangamatia",
+    "wof:parent_id":421201541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.8213,
+    22.71603,
+    91.8213,
+    22.71603
+],
+  "geometry": {"coordinates":[91.82129999999999,22.71603],"type":"Point"}
+}

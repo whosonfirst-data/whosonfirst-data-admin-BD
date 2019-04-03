@@ -1,0 +1,76 @@
+{
+  "id": 1310442787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.33307,25.8956,89.33307,25.8956",
+    "geom:latitude":25.8956,
+    "geom:longitude":89.33307,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5552",
+    "gn:admin3_code":"555202.0",
+    "gn:admin4_code":"55520271.0",
+    "gn:asciiname":"Mohish Khocha",
+    "gn:country_code":"BD",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1195490,
+    "gn:latitude":25.8956,
+    "gn:longitude":89.33307,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Mohish Khocha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Mohish Khocha"
+    ],
+    "name:ben_x_variant":[
+        "Mah\u012bsh Khocha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1195490
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"21e3ce371816d035e316b04491df8fb9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694687,
+            "locality_id":1310442787,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1310442787,
+    "wof:lastmodified":1537585889,
+    "wof:name":"Mohish Khocha",
+    "wof:parent_id":1108694687,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.33306999999998,
+    25.8956,
+    89.33306999999998,
+    25.8956
+],
+  "geometry": {"coordinates":[89.33306999999998,25.8956],"type":"Point"}
+}

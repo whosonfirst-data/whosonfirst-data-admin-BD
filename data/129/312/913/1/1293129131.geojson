@@ -1,0 +1,70 @@
+{
+  "id": 1293129131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.56524,23.25996,89.56524,23.25996",
+    "geom:latitude":23.25996,
+    "geom:longitude":89.56524,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4065.0",
+    "gn:admin3_code":"406552.0",
+    "gn:admin4_code":"40655279.0",
+    "gn:asciiname":"Haldaha",
+    "gn:country_code":"BD",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1201716,
+    "gn:latitude":23.25996,
+    "gn:longitude":89.56524,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Haldaha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        421205213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1201716
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"d91cf7c212a8beb23c21409a711f3594",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421205213,
+            "locality_id":1293129131,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1293129131,
+    "wof:lastmodified":1536806628,
+    "wof:name":"Haldaha",
+    "wof:parent_id":421205213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.56524,
+    23.25996,
+    89.56524,
+    23.25996
+],
+  "geometry": {"coordinates":[89.56524,23.25996],"type":"Point"}
+}

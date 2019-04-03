@@ -1,0 +1,73 @@
+{
+  "id": 1344195623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.84466,22.88666,91.84466,22.88666",
+    "geom:latitude":22.88666,
+    "geom:longitude":91.84466,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2046.0",
+    "gn:admin3_code":"204667.0",
+    "gn:admin4_code":"20466719.0",
+    "gn:asciiname":"Mara Dolupara",
+    "gn:country_code":"BD",
+    "gn:dem":55,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7477413,
+    "gn:latitude":22.88666,
+    "gn:longitude":91.84466,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Mara Dolupara",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Mara Dolupara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        1108694683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7477413
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"1f7c6f6ed9680fb8159feae9e30b04a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694683,
+            "locality_id":1344195623,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1344195623,
+    "wof:lastmodified":1537586367,
+    "wof:name":"Mara Dolupara",
+    "wof:parent_id":1108694683,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.84466,
+    22.88666,
+    91.84466,
+    22.88666
+],
+  "geometry": {"coordinates":[91.84466,22.88666],"type":"Point"}
+}

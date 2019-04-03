@@ -1,0 +1,68 @@
+{
+  "id": 1209344593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.26048,23.80973,89.26048,23.80973",
+    "geom:latitude":23.80973,
+    "geom:longitude":89.26048,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4050.0",
+    "gn:admin3_code":"405063.0",
+    "gn:admin4_code":"40506347.0",
+    "gn:asciiname":"Hijlabat",
+    "gn:country_code":"BD",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1201063,
+    "gn:latitude":23.80973,
+    "gn:longitude":89.26048,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Hijl\u0101bat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hizlabatta",
+        "Hijl\u0101bat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1201063
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"246a56ffdf441e730fe9744f204b545f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209344593
+        }
+    ],
+    "wof:id":1209344593,
+    "wof:lastmodified":1537585992,
+    "wof:name":"Hijlabat",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.26048,
+    23.80973,
+    89.26048,
+    23.80973
+],
+  "geometry": {"coordinates":[89.26048,23.80973],"type":"Point"}
+}

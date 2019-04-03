@@ -1,0 +1,73 @@
+{
+  "id": 1327367033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.66356,22.7636,89.66356,22.7636",
+    "geom:latitude":22.7636,
+    "geom:longitude":89.66356,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4001.0",
+    "gn:admin3_code":"400134.0",
+    "gn:admin4_code":"40013410.0",
+    "gn:asciiname":"Satbaria",
+    "gn:country_code":"BD",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7486355,
+    "gn:latitude":22.7636,
+    "gn:longitude":89.66356,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"S\u0101tb\u0101ria",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "S\u0101tb\u0101ria"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        421187747
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7486355
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"4be537509086abfe0089fee1b0ea0657",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421187747,
+            "locality_id":1327367033,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1327367033,
+    "wof:lastmodified":1537586611,
+    "wof:name":"Satbaria",
+    "wof:parent_id":421187747,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.66356,
+    22.7636,
+    89.66356,
+    22.7636
+],
+  "geometry": {"coordinates":[89.66356,22.7636],"type":"Point"}
+}

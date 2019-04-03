@@ -1,0 +1,70 @@
+{
+  "id": 1360233309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.8,23.11667,90.8,23.11667",
+    "geom:latitude":23.11667,
+    "geom:longitude":90.8,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2051",
+    "gn:admin3_code":"205165.0",
+    "gn:admin4_code":"20516538.0",
+    "gn:asciiname":"Lautali",
+    "gn:country_code":"BD",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1196076,
+    "gn:latitude":23.11667,
+    "gn:longitude":90.8,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"L\u0101utali",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        1108694669
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1196076
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"8f0a544284acdade18fde214d604172e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694669,
+            "locality_id":1360233309,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1360233309,
+    "wof:lastmodified":1536732242,
+    "wof:name":"Lautali",
+    "wof:parent_id":1108694669,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.8,
+    23.11667000000001,
+    90.8,
+    23.11667000000001
+],
+  "geometry": {"coordinates":[90.8,23.11667000000001],"type":"Point"}
+}

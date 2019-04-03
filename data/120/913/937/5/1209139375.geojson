@@ -1,0 +1,67 @@
+{
+  "id": 1209139375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.10664,23.45781,89.10664,23.45781",
+    "geom:latitude":23.45781,
+    "geom:longitude":89.10664,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4044.0",
+    "gn:admin3_code":"404419.0",
+    "gn:admin4_code":"40441958.0",
+    "gn:asciiname":"Khamarail",
+    "gn:country_code":"BD",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7634088,
+    "gn:latitude":23.45781,
+    "gn:longitude":89.10664,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Kh\u0101m\u0101r\u0101il",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Kh\u0101m\u0101r\u0101il"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7634088
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"bb59dc054329b9191ba0fb32a7db4603",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209139375
+        }
+    ],
+    "wof:id":1209139375,
+    "wof:lastmodified":1537586702,
+    "wof:name":"Khamarail",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.10664,
+    23.45781,
+    89.10664,
+    23.45781
+],
+  "geometry": {"coordinates":[89.10664,23.45781],"type":"Point"}
+}

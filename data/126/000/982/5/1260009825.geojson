@@ -1,0 +1,70 @@
+{
+  "id": 1260009825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.33431,24.02572,90.33431,24.02572",
+    "geom:latitude":24.02572,
+    "geom:longitude":90.33431,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3033.0",
+    "gn:admin3_code":"303330.0",
+    "gn:admin4_code":"30333060.0",
+    "gn:asciiname":"Bagia",
+    "gn:country_code":"BD",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1211898,
+    "gn:latitude":24.02572,
+    "gn:longitude":90.33431,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"B\u0101gia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421187803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1211898
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"69f8a094d513b922bb66c2a8d4985890",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421187803,
+            "locality_id":1260009825,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1260009825,
+    "wof:lastmodified":1537090911,
+    "wof:name":"Bagia",
+    "wof:parent_id":421187803,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.33431,
+    24.02572,
+    90.33431,
+    24.02572
+],
+  "geometry": {"coordinates":[90.33431,24.02572],"type":"Point"}
+}

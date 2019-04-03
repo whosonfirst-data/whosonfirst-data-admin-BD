@@ -1,0 +1,70 @@
+{
+  "id": 1310035829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.61057,24.08217,90.61057,24.08217",
+    "geom:latitude":24.08217,
+    "geom:longitude":90.61057,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3033.0",
+    "gn:admin3_code":"303336.0",
+    "gn:admin4_code":"30333625.0",
+    "gn:asciiname":"Chatarbag",
+    "gn:country_code":"BD",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1206382,
+    "gn:latitude":24.08217,
+    "gn:longitude":90.61057,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Ch\u0101t\u0101rb\u0101g",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421203493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1206382
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"ff11c3ee07b91e3502adf9c93d339435",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421203493,
+            "locality_id":1310035829,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1310035829,
+    "wof:lastmodified":1537093883,
+    "wof:name":"Chatarbag",
+    "wof:parent_id":421203493,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.61057,
+    24.08217,
+    90.61057,
+    24.08217
+],
+  "geometry": {"coordinates":[90.61057,24.08217],"type":"Point"}
+}

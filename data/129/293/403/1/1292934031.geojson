@@ -1,0 +1,70 @@
+{
+  "id": 1292934031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.38391,25.57189,89.38391,25.57189",
+    "geom:latitude":25.57189,
+    "geom:longitude":89.38391,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5585",
+    "gn:admin3_code":"558558.0",
+    "gn:admin4_code":"55855822.0",
+    "gn:asciiname":"Jot Nurain",
+    "gn:country_code":"BD",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7889915,
+    "gn:latitude":25.57189,
+    "gn:longitude":89.38391,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Jot Nurain",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7889915
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"23457e2f4f537040a918b31935c6960b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694701,
+            "locality_id":1292934031,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1292934031,
+    "wof:lastmodified":1537084969,
+    "wof:name":"Jot Nurain",
+    "wof:parent_id":1108694701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.38391,
+    25.57189,
+    89.38391,
+    25.57189
+],
+  "geometry": {"coordinates":[89.38391,25.57189],"type":"Point"}
+}

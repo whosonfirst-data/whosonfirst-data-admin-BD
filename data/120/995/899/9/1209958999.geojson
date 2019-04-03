@@ -1,0 +1,70 @@
+{
+  "id": 1209958999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.98915,23.25289,90.98915,23.25289",
+    "geom:latitude":23.25289,
+    "geom:longitude":90.98915,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2013.0",
+    "gn:admin3_code":"201358.0",
+    "gn:admin4_code":"20135807.0",
+    "gn:asciiname":"Borga",
+    "gn:country_code":"BD",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1208165,
+    "gn:latitude":23.25289,
+    "gn:longitude":90.98915,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Borga",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        1108694669
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1208165
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"7469f327c1fd154250b4c47f1fbae624",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694669,
+            "locality_id":1209958999,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1209958999,
+    "wof:lastmodified":1536375540,
+    "wof:name":"Borga",
+    "wof:parent_id":1108694669,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.98915,
+    23.25289,
+    90.98915,
+    23.25289
+],
+  "geometry": {"coordinates":[90.98915,23.25289],"type":"Point"}
+}

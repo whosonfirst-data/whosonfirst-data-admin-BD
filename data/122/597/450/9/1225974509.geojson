@@ -1,0 +1,70 @@
+{
+  "id": 1225974509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.40314,25.5286,89.40314,25.5286",
+    "geom:latitude":25.5286,
+    "geom:longitude":89.40314,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5585",
+    "gn:admin3_code":"558558.0",
+    "gn:admin4_code":"55855844.0",
+    "gn:asciiname":"Durgapur",
+    "gn:country_code":"BD",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7890180,
+    "gn:latitude":25.5286,
+    "gn:longitude":89.40314,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Durgapur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7890180
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"870b3242147b0aaf746feadbebf9ece7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694701,
+            "locality_id":1225974509,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1225974509,
+    "wof:lastmodified":1536827036,
+    "wof:name":"Durgapur",
+    "wof:parent_id":1108694701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.40314000000002,
+    25.5286,
+    89.40314000000002,
+    25.5286
+],
+  "geometry": {"coordinates":[89.40314000000002,25.5286],"type":"Point"}
+}

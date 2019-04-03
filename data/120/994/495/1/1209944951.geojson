@@ -1,0 +1,73 @@
+{
+  "id": 1209944951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.26671,25.24572,89.26671,25.24572",
+    "geom:latitude":25.24572,
+    "geom:longitude":89.26671,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5527",
+    "gn:admin3_code":"552743.0",
+    "gn:admin4_code":"55274338.0",
+    "gn:asciiname":"Barabila",
+    "gn:country_code":"BD",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7889561,
+    "gn:latitude":25.24572,
+    "gn:longitude":89.26671,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Barabila",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Barabila"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7889561
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"b4b26b36d45f0f63d58c6a5824254da3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694671,
+            "locality_id":1209944951,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1209944951,
+    "wof:lastmodified":1537586735,
+    "wof:name":"Barabila",
+    "wof:parent_id":1108694671,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.26671,
+    25.24572,
+    89.26671,
+    25.24572
+],
+  "geometry": {"coordinates":[89.26671,25.24572],"type":"Point"}
+}

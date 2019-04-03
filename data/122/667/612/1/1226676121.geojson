@@ -1,0 +1,70 @@
+{
+  "id": 1226676121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.05861,24.05638,90.05861,24.05638",
+    "geom:latitude":24.05638,
+    "geom:longitude":90.05861,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3093",
+    "gn:admin3_code":"309366.0",
+    "gn:admin4_code":"30936694.0",
+    "gn:asciiname":"Khail Sindur",
+    "gn:country_code":"BD",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1197785,
+    "gn:latitude":24.05638,
+    "gn:longitude":90.05861,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Khail Sindur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421185471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1197785
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"f3a7f9293e21927304cdc6e28c48bb7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421185471,
+            "locality_id":1226676121,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1226676121,
+    "wof:lastmodified":1536815106,
+    "wof:name":"Khail Sindur",
+    "wof:parent_id":421185471,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.05861,
+    24.05638,
+    90.05861,
+    24.05638
+],
+  "geometry": {"coordinates":[90.05861,24.05638],"type":"Point"}
+}

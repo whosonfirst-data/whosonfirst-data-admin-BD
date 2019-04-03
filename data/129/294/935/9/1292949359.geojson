@@ -1,0 +1,66 @@
+{
+  "id": 1292949359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.71167,22.48556,91.71167,22.48556",
+    "geom:latitude":22.48556,
+    "geom:longitude":91.71167,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2015.0",
+    "gn:admin3_code":"201586.0",
+    "gn:admin4_code":"20158685.0",
+    "gn:asciiname":"Ghoramara",
+    "gn:country_code":"BD",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6413919,
+    "gn:latitude":22.48556,
+    "gn:longitude":91.71167,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Ghoram\u0101ra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6413919
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"a6245a36df56086fb696220619abf6c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":-1,
+            "locality_id":1292949359,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1292949359,
+    "wof:lastmodified":1537063043,
+    "wof:name":"Ghoramara",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.71167,
+    22.48556,
+    91.71167,
+    22.48556
+],
+  "geometry": {"coordinates":[91.71167,22.48556],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1293916729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.83934,23.59819,88.83934,23.59819",
+    "geom:latitude":23.59819,
+    "geom:longitude":88.83934,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4018.0",
+    "gn:admin3_code":"401823.0",
+    "gn:admin4_code":"40182371.0",
+    "gn:asciiname":"Makaldanga",
+    "gn:country_code":"BD",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7484697,
+    "gn:latitude":23.59819,
+    "gn:longitude":88.83934,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"M\u0101kaldanga",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "M\u0101kaldanga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        421194153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7484697
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"c42265ce9a2c6184ea1c905116ff0299",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421194153,
+            "locality_id":1293916729,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1293916729,
+    "wof:lastmodified":1537586571,
+    "wof:name":"Makaldanga",
+    "wof:parent_id":421194153,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.83934,
+    23.59819,
+    88.83934,
+    23.59819
+],
+  "geometry": {"coordinates":[88.83934000000001,23.59819],"type":"Point"}
+}

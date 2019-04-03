@@ -1,0 +1,73 @@
+{
+  "id": 1360217919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.55002,22.87518,89.55002,22.87518",
+    "geom:latitude":22.87518,
+    "geom:longitude":89.55002,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4047",
+    "gn:admin3_code":"404740.0",
+    "gn:admin4_code":"40474085.0",
+    "gn:asciiname":"Senhati",
+    "gn:country_code":"BD",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1188268,
+    "gn:latitude":22.87518,
+    "gn:longitude":89.55002,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Senh\u0101ti",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Senh\u0101ti"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        421185473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1188268
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"9dfef744cb3459b9f7b904856a09fbf6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421185473,
+            "locality_id":1360217919,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1360217919,
+    "wof:lastmodified":1537585758,
+    "wof:name":"Senhati",
+    "wof:parent_id":421185473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.55001999999998,
+    22.87518,
+    89.55001999999998,
+    22.87518
+],
+  "geometry": {"coordinates":[89.55001999999998,22.87518],"type":"Point"}
+}

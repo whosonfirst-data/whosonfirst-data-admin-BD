@@ -1,0 +1,70 @@
+{
+  "id": 1343991317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.58604,24.42113,89.58604,24.42113",
+    "geom:latitude":24.42113,
+    "geom:longitude":89.58604,
+    "gn:admin1_code":"83",
+    "gn:admin2_code":"5088",
+    "gn:admin3_code":"508894.0",
+    "gn:admin4_code":"50889436.0",
+    "gn:asciiname":"Nalka",
+    "gn:country_code":"BD",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9863974,
+    "gn:latitude":24.42113,
+    "gn:longitude":89.58604,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Nalka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669031,
+        421201929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9863974
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"1e4caa2bf558f1f4a4c3456bdbe61a0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421201929,
+            "locality_id":1343991317,
+            "region_id":85669031
+        }
+    ],
+    "wof:id":1343991317,
+    "wof:lastmodified":1536974976,
+    "wof:name":"Nalka",
+    "wof:parent_id":421201929,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.58604,
+    24.42113,
+    89.58604,
+    24.42113
+],
+  "geometry": {"coordinates":[89.58604,24.42113],"type":"Point"}
+}

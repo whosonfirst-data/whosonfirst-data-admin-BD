@@ -1,0 +1,73 @@
+{
+  "id": 1226172567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.08196,23.89425,89.08196,23.89425",
+    "geom:latitude":23.89425,
+    "geom:longitude":89.08196,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4050.0",
+    "gn:admin3_code":"405079.0",
+    "gn:admin4_code":"40507925.0",
+    "gn:asciiname":"Dhaka Jhalpara",
+    "gn:country_code":"BD",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1204556,
+    "gn:latitude":23.89425,
+    "gn:longitude":89.08196,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Dh\u0101k\u0101 Jh\u0101lp\u0101ra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Dh\u0101k\u0101 Jh\u0101lp\u0101ra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        890438075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1204556
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"599e94b16157e607e314a9ee564690be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":890438075,
+            "locality_id":1226172567,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1226172567,
+    "wof:lastmodified":1537586058,
+    "wof:name":"Dhaka Jhalpara",
+    "wof:parent_id":890438075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.08196,
+    23.89425,
+    89.08196,
+    23.89425
+],
+  "geometry": {"coordinates":[89.08196,23.89425],"type":"Point"}
+}

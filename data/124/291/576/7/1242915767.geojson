@@ -1,0 +1,70 @@
+{
+  "id": 1242915767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.15,23.66667,91.15,23.66667",
+    "geom:latitude":23.66667,
+    "geom:longitude":91.15,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2019.0",
+    "gn:admin3_code":"201915.0",
+    "gn:admin4_code":"20191588.0",
+    "gn:asciiname":"Bagra",
+    "gn:country_code":"BD",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1211869,
+    "gn:latitude":23.66667,
+    "gn:longitude":91.15,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"B\u0101gra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421187801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1211869
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"1df3ba80a68b81180dfe7c136fc7ae13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421187801,
+            "locality_id":1242915767,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1242915767,
+    "wof:lastmodified":1537070634,
+    "wof:name":"Bagra",
+    "wof:parent_id":421187801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.15,
+    23.66667,
+    91.15,
+    23.66667
+],
+  "geometry": {"coordinates":[91.15000000000001,23.66667],"type":"Point"}
+}

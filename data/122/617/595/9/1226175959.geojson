@@ -1,0 +1,70 @@
+{
+  "id": 1226175959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.76945,24.50347,90.76945,24.50347",
+    "geom:latitude":24.50347,
+    "geom:longitude":90.76945,
+    "gn:admin1_code":"H",
+    "gn:admin2_code":"3048",
+    "gn:admin3_code":"304849.0",
+    "gn:admin4_code":"30484977.0",
+    "gn:asciiname":"Panchdha",
+    "gn:country_code":"BD",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1192702,
+    "gn:latitude":24.50347,
+    "gn:longitude":90.76945,
+    "gn:modification_date":"2016-12-05",
+    "gn:name":"P\u0101nchdha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        1108803101,
+        421185469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1192702
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"d69474fef8d7a45caf22d416edd65225",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421185469,
+            "locality_id":1226175959,
+            "region_id":1108803101
+        }
+    ],
+    "wof:id":1226175959,
+    "wof:lastmodified":1537032766,
+    "wof:name":"Panchdha",
+    "wof:parent_id":421185469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.76945,
+    24.50347,
+    90.76945,
+    24.50347
+],
+  "geometry": {"coordinates":[90.76945000000001,24.50347],"type":"Point"}
+}

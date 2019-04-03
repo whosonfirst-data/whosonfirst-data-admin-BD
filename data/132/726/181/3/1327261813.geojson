@@ -1,0 +1,67 @@
+{
+  "id": 1327261813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.25219,22.56173,90.25219,22.56173",
+    "geom:latitude":22.56173,
+    "geom:longitude":90.25219,
+    "gn:admin1_code":"82",
+    "gn:asciiname":"Kamdebpur",
+    "gn:country_code":"BD",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1198789,
+    "gn:latitude":22.56173,
+    "gn:longitude":90.25219,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"K\u0101mdebpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669019,
+        1108694677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1198789
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"b5d6ef0f7da803c5f4ed82aa888a1683",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694677,
+            "locality_id":1327261813,
+            "region_id":85669019
+        }
+    ],
+    "wof:id":1327261813,
+    "wof:lastmodified":1536927965,
+    "wof:name":"Kamdebpur",
+    "wof:parent_id":1108694677,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.25219,
+    22.56173,
+    90.25219,
+    22.56173
+],
+  "geometry": {"coordinates":[90.25219,22.56173],"type":"Point"}
+}

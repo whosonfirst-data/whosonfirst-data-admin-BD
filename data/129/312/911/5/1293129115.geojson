@@ -1,0 +1,70 @@
+{
+  "id": 1293129115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.12745,23.99929,90.12745,23.99929",
+    "geom:latitude":23.99929,
+    "geom:longitude":90.12745,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3026",
+    "gn:admin3_code":"302614.0",
+    "gn:admin4_code":"30261447.0",
+    "gn:asciiname":"Kumarhati",
+    "gn:country_code":"BD",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1196711,
+    "gn:latitude":23.99929,
+    "gn:longitude":90.12745,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Kumarh\u0101ti",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421187803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1196711
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"c862dfae2bc1c6f313a796a591e6be33",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421187803,
+            "locality_id":1293129115,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1293129115,
+    "wof:lastmodified":1536806650,
+    "wof:name":"Kumarhati",
+    "wof:parent_id":421187803,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.12745,
+    23.99929,
+    90.12745,
+    23.99929
+],
+  "geometry": {"coordinates":[90.12745,23.99929],"type":"Point"}
+}

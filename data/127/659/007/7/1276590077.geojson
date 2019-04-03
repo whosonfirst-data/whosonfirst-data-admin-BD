@@ -1,0 +1,73 @@
+{
+  "id": 1276590077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.90882,26.15221,88.90882,26.15221",
+    "geom:latitude":26.15221,
+    "geom:longitude":88.90882,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5573.0",
+    "gn:admin3_code":"557312.0",
+    "gn:admin4_code":"55731209.0",
+    "gn:asciiname":"Dangapara",
+    "gn:country_code":"BD",
+    "gn:dem":57,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7105502,
+    "gn:latitude":26.15221,
+    "gn:longitude":88.90882,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Dangap\u0101ra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Dangap\u0101ra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7105502
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"531b64bdd43ebd76240aa7e936b8fc95",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694695,
+            "locality_id":1276590077,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1276590077,
+    "wof:lastmodified":1537586305,
+    "wof:name":"Dangapara",
+    "wof:parent_id":1108694695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.90881999999998,
+    26.15221,
+    88.90881999999998,
+    26.15221
+],
+  "geometry": {"coordinates":[88.90881999999998,26.15221],"type":"Point"}
+}

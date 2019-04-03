@@ -1,0 +1,73 @@
+{
+  "id": 1293138895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.92372,21.59966,91.92372,21.59966",
+    "geom:latitude":21.59966,
+    "geom:longitude":91.92372,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2022.0",
+    "gn:admin3_code":"202249.0",
+    "gn:admin4_code":"20224947.0",
+    "gn:asciiname":"Karuntali Para",
+    "gn:country_code":"BD",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6416127,
+    "gn:latitude":21.59966,
+    "gn:longitude":91.92372,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Karuntali P\u0101ra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Karuntali P\u0101ra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421205057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6416127
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"6fe2951655d9fa39db01115aec245570",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421205057,
+            "locality_id":1293138895,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1293138895,
+    "wof:lastmodified":1537586257,
+    "wof:name":"Karuntali Para",
+    "wof:parent_id":421205057,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.92372,
+    21.59966,
+    91.92372,
+    21.59966
+],
+  "geometry": {"coordinates":[91.92372,21.59966],"type":"Point"}
+}

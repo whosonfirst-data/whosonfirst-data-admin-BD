@@ -1,0 +1,73 @@
+{
+  "id": 1293238127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.5357,25.87028,89.5357,25.87028",
+    "geom:latitude":25.87028,
+    "geom:longitude":89.5357,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5552",
+    "gn:admin3_code":"555255.0",
+    "gn:admin4_code":"55525507.0",
+    "gn:asciiname":"Airkhamar",
+    "gn:country_code":"BD",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7923530,
+    "gn:latitude":25.87028,
+    "gn:longitude":89.5357,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Airkh\u0101m\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Airkh\u0101m\u0101r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7923530
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"25066d5d7430699fa086eb5ebe41b973",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694687,
+            "locality_id":1293238127,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1293238127,
+    "wof:lastmodified":1537586800,
+    "wof:name":"Airkhamar",
+    "wof:parent_id":1108694687,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.5357,
+    25.87028,
+    89.5357,
+    25.87028
+],
+  "geometry": {"coordinates":[89.53570000000001,25.87028],"type":"Point"}
+}

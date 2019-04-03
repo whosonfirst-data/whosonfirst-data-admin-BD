@@ -1,0 +1,70 @@
+{
+  "id": 1343710273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.88441,23.33721,90.88441,23.33721",
+    "geom:latitude":23.33721,
+    "geom:longitude":90.88441,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2013",
+    "gn:admin3_code":"201358.0",
+    "gn:admin4_code":"20135855.0",
+    "gn:asciiname":"Koa",
+    "gn:country_code":"BD",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1197121,
+    "gn:latitude":23.33721,
+    "gn:longitude":90.88441,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Koa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        1108694669
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1197121
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"77567e94441db53e2d756aa914eb4b4b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694669,
+            "locality_id":1343710273,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1343710273,
+    "wof:lastmodified":1536882759,
+    "wof:name":"Koa",
+    "wof:parent_id":1108694669,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.88441,
+    23.33721,
+    90.88441,
+    23.33721
+],
+  "geometry": {"coordinates":[90.88441,23.33721],"type":"Point"}
+}

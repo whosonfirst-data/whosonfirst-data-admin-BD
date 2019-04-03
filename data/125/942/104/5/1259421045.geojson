@@ -1,0 +1,70 @@
+{
+  "id": 1259421045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.9294,23.01795,90.9294,23.01795",
+    "geom:latitude":23.01795,
+    "geom:longitude":90.9294,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2075",
+    "gn:admin3_code":"207510.0",
+    "gn:admin4_code":"20751076.0",
+    "gn:asciiname":"Panchgharia",
+    "gn:country_code":"BD",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1192687,
+    "gn:latitude":23.01795,
+    "gn:longitude":90.9294,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"P\u0101nchgharia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421177051
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1192687
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"a24d045167fa19df066dd5dc2c929f05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421177051,
+            "locality_id":1259421045,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1259421045,
+    "wof:lastmodified":1536948731,
+    "wof:name":"Panchgharia",
+    "wof:parent_id":421177051,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.9294,
+    23.01795,
+    90.9294,
+    23.01795
+],
+  "geometry": {"coordinates":[90.9294,23.01795],"type":"Point"}
+}

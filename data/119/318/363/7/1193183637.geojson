@@ -1,0 +1,75 @@
+{
+  "id": 1193183637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.21667,23.33333,91.21667,23.33333",
+    "geom:latitude":23.33333,
+    "geom:longitude":91.21667,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2019",
+    "gn:admin3_code":"201931.0",
+    "gn:admin4_code":"20193161.0",
+    "gn:asciiname":"Majlispur",
+    "gn:cc2":"BD",
+    "gn:country_code":"BD",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1195301,
+    "gn:latitude":23.33333,
+    "gn:longitude":91.21667,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Majlispur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Majlishpur",
+        "Majlispur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421187801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1195301
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"49d8434ca5d57f14a09ef14d6b949516",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421187801,
+            "locality_id":1193183637,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1193183637,
+    "wof:lastmodified":1537585885,
+    "wof:name":"Majlispur",
+    "wof:parent_id":421187801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.21667,
+    23.33333,
+    91.21667,
+    23.33333
+],
+  "geometry": {"coordinates":[91.21666999999999,23.33333],"type":"Point"}
+}

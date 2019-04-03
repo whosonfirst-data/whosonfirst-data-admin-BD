@@ -1,0 +1,68 @@
+{
+  "id": 1209248241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.41275,25.51792,89.41275,25.51792",
+    "geom:latitude":25.51792,
+    "geom:longitude":89.41275,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5585",
+    "gn:admin3_code":"558558.0",
+    "gn:admin4_code":"55855844.0",
+    "gn:asciiname":"Mirzapur Digar",
+    "gn:country_code":"BD",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1194085,
+    "gn:latitude":25.51792,
+    "gn:longitude":89.41275,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Mirz\u0101pur Digar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mriz\u0101pur Digar",
+        "Mirz\u0101pur Digar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1194085
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"29c41ad1de4a840716584b67189c77fc",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209248241
+        }
+    ],
+    "wof:id":1209248241,
+    "wof:lastmodified":1537585862,
+    "wof:name":"Mirzapur Digar",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.41275,
+    25.51792,
+    89.41275,
+    25.51792
+],
+  "geometry": {"coordinates":[89.41275,25.51792],"type":"Point"}
+}

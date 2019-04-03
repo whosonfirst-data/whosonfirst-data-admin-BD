@@ -1,0 +1,73 @@
+{
+  "id": 1360015653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.54018,22.87383,89.54018,22.87383",
+    "geom:latitude":22.87383,
+    "geom:longitude":89.54018,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4047.0",
+    "gn:admin3_code":"404740.0",
+    "gn:admin4_code":"40474085.0",
+    "gn:asciiname":"Deara",
+    "gn:country_code":"BD",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7486186,
+    "gn:latitude":22.87383,
+    "gn:longitude":89.54018,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"De\u0101ra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "De\u0101ra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        421185473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7486186
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"dcf4e3268bf7ec170f2bd9f6a127d696",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421185473,
+            "locality_id":1360015653,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1360015653,
+    "wof:lastmodified":1537586607,
+    "wof:name":"Deara",
+    "wof:parent_id":421185473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.54018,
+    22.87383,
+    89.54018,
+    22.87383
+],
+  "geometry": {"coordinates":[89.54018000000001,22.87383],"type":"Point"}
+}

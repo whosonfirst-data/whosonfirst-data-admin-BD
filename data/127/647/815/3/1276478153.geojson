@@ -1,0 +1,70 @@
+{
+  "id": 1276478153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.69924,24.98796,91.69924,24.98796",
+    "geom:latitude":24.98796,
+    "geom:longitude":91.69924,
+    "gn:admin1_code":"86",
+    "gn:admin2_code":"6091",
+    "gn:admin3_code":"609127.0",
+    "gn:admin4_code":"60912771.0",
+    "gn:asciiname":"Parkul",
+    "gn:country_code":"BD",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1192381,
+    "gn:latitude":24.98796,
+    "gn:longitude":91.69924,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"P\u0101rkul",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669025,
+        421201931
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1192381
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"78e5d6a69aaa7367f795cc9be1fdcf99",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421201931,
+            "locality_id":1276478153,
+            "region_id":85669025
+        }
+    ],
+    "wof:id":1276478153,
+    "wof:lastmodified":1537078816,
+    "wof:name":"Parkul",
+    "wof:parent_id":421201931,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.69924,
+    24.98796,
+    91.69924,
+    24.98796
+],
+  "geometry": {"coordinates":[91.69924,24.98796],"type":"Point"}
+}

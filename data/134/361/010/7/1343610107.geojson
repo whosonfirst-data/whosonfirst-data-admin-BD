@@ -1,0 +1,70 @@
+{
+  "id": 1343610107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.91357,23.24427,90.91357,23.24427",
+    "geom:latitude":23.24427,
+    "geom:longitude":90.91357,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2013",
+    "gn:admin3_code":"201395.0",
+    "gn:admin4_code":"20139595.0",
+    "gn:asciiname":"Uaruk",
+    "gn:country_code":"BD",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1185897,
+    "gn:latitude":23.24427,
+    "gn:longitude":90.91357,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"U\u0101ruk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        1108694669
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1185897
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"099934e34706af85ce2052c8b3b97973",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694669,
+            "locality_id":1343610107,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1343610107,
+    "wof:lastmodified":1537026582,
+    "wof:name":"Uaruk",
+    "wof:parent_id":1108694669,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.91357,
+    23.24427,
+    90.91357,
+    23.24427
+],
+  "geometry": {"coordinates":[90.91357000000001,23.24427],"type":"Point"}
+}

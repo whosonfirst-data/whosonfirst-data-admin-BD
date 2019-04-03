@@ -1,0 +1,80 @@
+{
+  "id": 1260316729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.90225,23.32916,88.90225,23.32916",
+    "geom:latitude":23.32916,
+    "geom:longitude":88.90225,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4044",
+    "gn:admin3_code":"404471.0",
+    "gn:admin4_code":"40447153.0",
+    "gn:asciiname":"Natima",
+    "gn:country_code":"BD",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1193084,
+    "gn:latitude":23.32916,
+    "gn:longitude":88.90225,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"N\u0101tima",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "N\u0101tima"
+    ],
+    "name:ben_x_variant":[
+        "N\u0101r\u0101yanpur"
+    ],
+    "name:und_x_variant":[
+        "N\u0101r\u0101yanpur",
+        "Narayanpur Natima"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        1108694679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1193084
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"8aa55fc680cb8ae75aafb529216c3ab8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694679,
+            "locality_id":1260316729,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1260316729,
+    "wof:lastmodified":1537585846,
+    "wof:name":"Natima",
+    "wof:parent_id":1108694679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.90225,
+    23.32916,
+    88.90225,
+    23.32916
+],
+  "geometry": {"coordinates":[88.90225,23.32916],"type":"Point"}
+}

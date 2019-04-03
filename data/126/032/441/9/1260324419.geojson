@@ -1,0 +1,74 @@
+{
+  "id": 1260324419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.46923,24.24278,89.46923,24.24278",
+    "geom:latitude":24.24278,
+    "geom:longitude":89.46923,
+    "gn:admin1_code":"83",
+    "gn:admin2_code":"5088.0",
+    "gn:admin3_code":"508894.0",
+    "gn:admin4_code":"50889443.0",
+    "gn:asciiname":"Bankirat",
+    "gn:country_code":"BD",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1210917,
+    "gn:latitude":24.24278,
+    "gn:longitude":89.46923,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Bankir\u0101t",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Paschim Bankirat",
+        "Bankir\u0101t"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669031,
+        421201929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1210917
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"0c9fdbeadd6409c7036c54c39a03870f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421201929,
+            "locality_id":1260324419,
+            "region_id":85669031
+        }
+    ],
+    "wof:id":1260324419,
+    "wof:lastmodified":1537586169,
+    "wof:name":"Bankirat",
+    "wof:parent_id":421201929,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.46923000000002,
+    24.24278,
+    89.46923000000002,
+    24.24278
+],
+  "geometry": {"coordinates":[89.46923000000002,24.24278],"type":"Point"}
+}

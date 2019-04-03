@@ -1,0 +1,70 @@
+{
+  "id": 1276482395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.39991,22.62314,89.39991,22.62314",
+    "geom:latitude":22.62314,
+    "geom:longitude":89.39991,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4047.0",
+    "gn:admin3_code":"404764.0",
+    "gn:admin4_code":"40476427.0",
+    "gn:asciiname":"Geubunia",
+    "gn:country_code":"BD",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1202695,
+    "gn:latitude":22.62314,
+    "gn:longitude":89.39991,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Geubunia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        421185473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1202695
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"e38d36f88869747e0b74e34b794a442b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421185473,
+            "locality_id":1276482395,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1276482395,
+    "wof:lastmodified":1537073020,
+    "wof:name":"Geubunia",
+    "wof:parent_id":421185473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.39990999999998,
+    22.62314,
+    89.39990999999998,
+    22.62314
+],
+  "geometry": {"coordinates":[89.39990999999998,22.62314],"type":"Point"}
+}

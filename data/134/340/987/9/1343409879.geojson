@@ -1,0 +1,73 @@
+{
+  "id": 1343409879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.76284,22.67879,91.76284,22.67879",
+    "geom:latitude":22.67879,
+    "geom:longitude":91.76284,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2015.0",
+    "gn:admin3_code":"201533.0",
+    "gn:admin4_code":"20153385.0",
+    "gn:asciiname":"Patial Chari",
+    "gn:country_code":"BD",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6417348,
+    "gn:latitude":22.67879,
+    "gn:longitude":91.76284,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"P\u0101ti\u0101l Chari",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "P\u0101ti\u0101l Chari"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421201541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6417348
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"93cb5b74d46e510c58e0b90804e53f93",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421201541,
+            "locality_id":1343409879,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1343409879,
+    "wof:lastmodified":1537586273,
+    "wof:name":"Patial Chari",
+    "wof:parent_id":421201541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.76284,
+    22.67879,
+    91.76284,
+    22.67879
+],
+  "geometry": {"coordinates":[91.76284,22.67879],"type":"Point"}
+}

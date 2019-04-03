@@ -1,0 +1,70 @@
+{
+  "id": 1293517457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.34836,23.86656,89.34836,23.86656",
+    "geom:latitude":23.86656,
+    "geom:longitude":89.34836,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4050",
+    "gn:admin3_code":"405063.0",
+    "gn:admin4_code":"40506371.0",
+    "gn:asciiname":"Uthali",
+    "gn:country_code":"BD",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1185720,
+    "gn:latitude":23.86656,
+    "gn:longitude":89.34836,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Uthali",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        890438075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1185720
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"4e6e464c39a45dbb934f07a7c8bed6d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":890438075,
+            "locality_id":1293517457,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1293517457,
+    "wof:lastmodified":1536743718,
+    "wof:name":"Uthali",
+    "wof:parent_id":890438075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.34836,
+    23.86656,
+    89.34836,
+    23.86656
+],
+  "geometry": {"coordinates":[89.34836,23.86656],"type":"Point"}
+}

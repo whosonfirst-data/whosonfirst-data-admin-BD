@@ -1,0 +1,73 @@
+{
+  "id": 1260221623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.38559,24.87754,88.38559,24.87754",
+    "geom:latitude":24.87754,
+    "geom:longitude":88.38559,
+    "gn:admin1_code":"83",
+    "gn:admin2_code":"5070.0",
+    "gn:admin3_code":"507037.0",
+    "gn:admin4_code":"50703773.0",
+    "gn:asciiname":"Mirakathar",
+    "gn:country_code":"BD",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7489235,
+    "gn:latitude":24.87754,
+    "gn:longitude":88.38559,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Mir\u0101k\u0101th\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Mir\u0101k\u0101th\u0101r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669031,
+        421191607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7489235
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"58e2627354d94a3b762010224f2ebbf7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421191607,
+            "locality_id":1260221623,
+            "region_id":85669031
+        }
+    ],
+    "wof:id":1260221623,
+    "wof:lastmodified":1537586691,
+    "wof:name":"Mirakathar",
+    "wof:parent_id":421191607,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.38559000000002,
+    24.87754,
+    88.38559000000002,
+    24.87754
+],
+  "geometry": {"coordinates":[88.38559000000002,24.87754],"type":"Point"}
+}

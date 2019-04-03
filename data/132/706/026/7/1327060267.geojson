@@ -1,0 +1,73 @@
+{
+  "id": 1327060267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.12816,25.27538,89.12816,25.27538",
+    "geom:latitude":25.27538,
+    "geom:longitude":89.12816,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5527",
+    "gn:admin3_code":"552747.0",
+    "gn:admin4_code":"55274713.0",
+    "gn:asciiname":"Itai",
+    "gn:country_code":"BD",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8065005,
+    "gn:latitude":25.27538,
+    "gn:longitude":89.12816,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Itai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Itai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8065005
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"9843bc5868c0737879c82343b2cd5cfa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694671,
+            "locality_id":1327060267,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1327060267,
+    "wof:lastmodified":1537586857,
+    "wof:name":"Itai",
+    "wof:parent_id":1108694671,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.12816,
+    25.27538,
+    89.12816,
+    25.27538
+],
+  "geometry": {"coordinates":[89.12815999999999,25.27538],"type":"Point"}
+}

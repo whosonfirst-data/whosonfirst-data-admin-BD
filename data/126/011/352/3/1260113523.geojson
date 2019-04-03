@@ -1,0 +1,74 @@
+{
+  "id": 1260113523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.35611,23.07406,90.35611,23.07406",
+    "geom:latitude":23.07406,
+    "geom:longitude":90.35611,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3086.0",
+    "gn:admin3_code":"308636.0",
+    "gn:admin4_code":"30863659.0",
+    "gn:asciiname":"Dhakairhati",
+    "gn:country_code":"BD",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1204557,
+    "gn:latitude":23.07406,
+    "gn:longitude":90.35611,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Dh\u0101kairh\u0101ti",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dakorhati",
+        "Dh\u0101kairh\u0101ti"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421188359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1204557
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"5f49659ec3c48b9f55f2bab2f044c522",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421188359,
+            "locality_id":1260113523,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1260113523,
+    "wof:lastmodified":1537586059,
+    "wof:name":"Dhakairhati",
+    "wof:parent_id":421188359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.35611,
+    23.07406,
+    90.35611,
+    23.07406
+],
+  "geometry": {"coordinates":[90.35611,23.07406],"type":"Point"}
+}

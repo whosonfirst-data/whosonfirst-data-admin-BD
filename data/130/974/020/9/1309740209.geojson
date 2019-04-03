@@ -1,0 +1,70 @@
+{
+  "id": 1309740209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.1018,23.82292,90.1018,23.82292",
+    "geom:latitude":23.82292,
+    "geom:longitude":90.1018,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3056",
+    "gn:admin3_code":"305682.0",
+    "gn:admin4_code":"30568208.0",
+    "gn:asciiname":"Sanail",
+    "gn:country_code":"BD",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1188850,
+    "gn:latitude":23.82292,
+    "gn:longitude":90.1018,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Sanail",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421191745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1188850
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"d540ecec226ffb21bd5ec71af2a1036a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421191745,
+            "locality_id":1309740209,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1309740209,
+    "wof:lastmodified":1537024686,
+    "wof:name":"Sanail",
+    "wof:parent_id":421191745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.1018,
+    23.82292,
+    90.1018,
+    23.82292
+],
+  "geometry": {"coordinates":[90.1018,23.82292],"type":"Point"}
+}

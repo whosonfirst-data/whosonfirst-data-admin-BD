@@ -1,0 +1,73 @@
+{
+  "id": 1209965243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.88983,21.73034,91.88983,21.73034",
+    "geom:latitude":21.73034,
+    "geom:longitude":91.88983,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2022",
+    "gn:admin3_code":"202249.0",
+    "gn:admin4_code":"20224971.0",
+    "gn:asciiname":"Matarbari",
+    "gn:country_code":"BD",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1194670,
+    "gn:latitude":21.73034,
+    "gn:longitude":91.88983,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Matarb\u0101ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Matarb\u0101ri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421205057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1194670
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"2614b7a408eade90959b9e47b964aeee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421205057,
+            "locality_id":1209965243,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1209965243,
+    "wof:lastmodified":1537585873,
+    "wof:name":"Matarbari",
+    "wof:parent_id":421205057,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.88983,
+    21.73034,
+    91.88983,
+    21.73034
+],
+  "geometry": {"coordinates":[91.88983,21.73034],"type":"Point"}
+}

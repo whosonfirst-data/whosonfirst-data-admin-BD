@@ -1,0 +1,73 @@
+{
+  "id": 1226581003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.46616,25.81406,88.46616,25.81406",
+    "geom:latitude":25.81406,
+    "geom:longitude":88.46616,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5527.0",
+    "gn:admin3_code":"552721.0",
+    "gn:admin4_code":"55272154.0",
+    "gn:asciiname":"Subidhat",
+    "gn:country_code":"BD",
+    "gn:dem":48,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7487886,
+    "gn:latitude":25.81406,
+    "gn:longitude":88.46616,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Subidh\u0101t",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Subidh\u0101t"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7487886
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"ce80a58863e04f547fc4ca70c895db00",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694671,
+            "locality_id":1226581003,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1226581003,
+    "wof:lastmodified":1537586652,
+    "wof:name":"Subidhat",
+    "wof:parent_id":1108694671,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.46616,
+    25.81406,
+    88.46616,
+    25.81406
+],
+  "geometry": {"coordinates":[88.46616,25.81406],"type":"Point"}
+}

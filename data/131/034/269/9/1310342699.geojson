@@ -1,0 +1,74 @@
+{
+  "id": 1310342699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.41402,24.82484,89.41402,24.82484",
+    "geom:latitude":24.82484,
+    "geom:longitude":89.41402,
+    "gn:admin1_code":"83",
+    "gn:admin2_code":"5010",
+    "gn:admin3_code":"501021.0",
+    "gn:admin4_code":"50102151.0",
+    "gn:asciiname":"Sheikhpara",
+    "gn:country_code":"BD",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1188158,
+    "gn:latitude":24.82484,
+    "gn:longitude":89.41402,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Sheikhp\u0101ra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sekhpara",
+        "Sheikhp\u0101ra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669031,
+        421187793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1188158
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"099246801d1792108a25e496c96cafd0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421187793,
+            "locality_id":1310342699,
+            "region_id":85669031
+        }
+    ],
+    "wof:id":1310342699,
+    "wof:lastmodified":1537585754,
+    "wof:name":"Sheikhpara",
+    "wof:parent_id":421187793,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.41402,
+    24.82484,
+    89.41402,
+    24.82484
+],
+  "geometry": {"coordinates":[89.41401999999999,24.82484],"type":"Point"}
+}

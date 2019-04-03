@@ -1,0 +1,70 @@
+{
+  "id": 1276794759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.39503,22.5251,90.39503,22.5251",
+    "geom:latitude":22.5251,
+    "geom:longitude":90.39503,
+    "gn:admin1_code":"85",
+    "gn:admin2_code":"1006.0",
+    "gn:admin3_code":"100607.0",
+    "gn:admin4_code":"10060767.0",
+    "gn:asciiname":"Dudhal",
+    "gn:country_code":"BD",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1203789,
+    "gn:latitude":22.5251,
+    "gn:longitude":90.39503,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Dudhal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669019,
+        421187745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1203789
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"4c2424d2cc532b65628dfbea38bfcead",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421187745,
+            "locality_id":1276794759,
+            "region_id":85669019
+        }
+    ],
+    "wof:id":1276794759,
+    "wof:lastmodified":1536657901,
+    "wof:name":"Dudhal",
+    "wof:parent_id":421187745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.39503,
+    22.5251,
+    90.39503,
+    22.5251
+],
+  "geometry": {"coordinates":[90.39503000000001,22.5251],"type":"Point"}
+}

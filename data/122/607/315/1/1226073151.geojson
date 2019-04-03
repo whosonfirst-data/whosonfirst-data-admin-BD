@@ -1,0 +1,73 @@
+{
+  "id": 1226073151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.3219,25.91238,89.3219,25.91238",
+    "geom:latitude":25.91238,
+    "geom:longitude":89.3219,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5552",
+    "gn:admin3_code":"555202.0",
+    "gn:admin4_code":"55520271.0",
+    "gn:asciiname":"Deodoba",
+    "gn:country_code":"BD",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7923831,
+    "gn:latitude":25.91238,
+    "gn:longitude":89.3219,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Deodoba",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Deodoba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7923831
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"6955f7ddcb766053eaebe4ad768a292b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694687,
+            "locality_id":1226073151,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1226073151,
+    "wof:lastmodified":1537586809,
+    "wof:name":"Deodoba",
+    "wof:parent_id":1108694687,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.3219,
+    25.91238,
+    89.3219,
+    25.91238
+],
+  "geometry": {"coordinates":[89.3219,25.91238],"type":"Point"}
+}

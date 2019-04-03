@@ -1,0 +1,70 @@
+{
+  "id": 1243097139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.58559,23.7601,90.58559,23.7601",
+    "geom:latitude":23.7601,
+    "geom:longitude":90.58559,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3067",
+    "gn:admin3_code":"306702.0",
+    "gn:admin4_code":"30670223.0",
+    "gn:asciiname":"Pakunda",
+    "gn:country_code":"BD",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1191395,
+    "gn:latitude":23.7601,
+    "gn:longitude":90.58559,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"P\u0101kunda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421197045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1191395
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"872feab77bff4751ea7fb76a267bfa53",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421197045,
+            "locality_id":1243097139,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1243097139,
+    "wof:lastmodified":1536811629,
+    "wof:name":"Pakunda",
+    "wof:parent_id":421197045,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.58559,
+    23.7601,
+    90.58559,
+    23.7601
+],
+  "geometry": {"coordinates":[90.58559,23.7601],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1310435349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.0837,23.9312,89.0837,23.9312",
+    "geom:latitude":23.9312,
+    "geom:longitude":89.0837,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4050.0",
+    "gn:admin3_code":"405079.0",
+    "gn:admin4_code":"40507925.0",
+    "gn:asciiname":"Sheker Para",
+    "gn:country_code":"BD",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7485672,
+    "gn:latitude":23.9312,
+    "gn:longitude":89.0837,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Sheker Para",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Sheker Para"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        890438075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7485672
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"1e0b6b35be4954f76dbbf2ee5a631b2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":890438075,
+            "locality_id":1310435349,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1310435349,
+    "wof:lastmodified":1537586597,
+    "wof:name":"Sheker Para",
+    "wof:parent_id":890438075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.0837,
+    23.9312,
+    89.0837,
+    23.9312
+],
+  "geometry": {"coordinates":[89.08369999999999,23.9312],"type":"Point"}
+}

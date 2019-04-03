@@ -1,0 +1,70 @@
+{
+  "id": 1276804851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.26667,23.66667,89.26667,23.66667",
+    "geom:latitude":23.66667,
+    "geom:longitude":89.26667,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4044.0",
+    "gn:admin3_code":"404480.0",
+    "gn:admin4_code":"40448037.0",
+    "gn:asciiname":"Hazramina",
+    "gn:country_code":"BD",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1201112,
+    "gn:latitude":23.66667,
+    "gn:longitude":89.26667,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"H\u0101zr\u0101mina",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        1108694679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1201112
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"f25129511077217213833ea6a5f58ac6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694679,
+            "locality_id":1276804851,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1276804851,
+    "wof:lastmodified":1536643267,
+    "wof:name":"Hazramina",
+    "wof:parent_id":1108694679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.26666999999998,
+    23.66667,
+    89.26666999999998,
+    23.66667
+],
+  "geometry": {"coordinates":[89.26666999999998,23.66667],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1344086619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.83998,25.66543,89.83998,25.66543",
+    "geom:latitude":25.66543,
+    "geom:longitude":89.83998,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5549",
+    "gn:admin3_code":"554979.0",
+    "gn:admin4_code":"55497923.0",
+    "gn:asciiname":"Kauniar Char",
+    "gn:country_code":"BD",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7926546,
+    "gn:latitude":25.66543,
+    "gn:longitude":89.83998,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Kauniar Char",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Kauniar Char"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7926546
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"4509b66e6fdf34ad6a5f64aab180c39c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694685,
+            "locality_id":1344086619,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1344086619,
+    "wof:lastmodified":1537586828,
+    "wof:name":"Kauniar Char",
+    "wof:parent_id":1108694685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.83998000000003,
+    25.66543,
+    89.83998000000003,
+    25.66543
+],
+  "geometry": {"coordinates":[89.83998000000003,25.66543],"type":"Point"}
+}

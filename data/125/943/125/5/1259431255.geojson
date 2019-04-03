@@ -1,0 +1,73 @@
+{
+  "id": 1259431255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"92.51502,21.67982,92.51502,21.67982",
+    "geom:latitude":21.67982,
+    "geom:longitude":92.51502,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2003.0",
+    "gn:admin3_code":"200395.0",
+    "gn:admin4_code":"20039538.0",
+    "gn:asciiname":"Laui",
+    "gn:country_code":"BD",
+    "gn:dem":186,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7476047,
+    "gn:latitude":21.67982,
+    "gn:longitude":92.51502,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Laui",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Laui"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421169477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7476047
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"07a287062e484bb728913a7de65487a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421169477,
+            "locality_id":1259431255,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1259431255,
+    "wof:lastmodified":1537586335,
+    "wof:name":"Laui",
+    "wof:parent_id":421169477,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    92.51502,
+    21.67982,
+    92.51502,
+    21.67982
+],
+  "geometry": {"coordinates":[92.51502000000001,21.67982],"type":"Point"}
+}

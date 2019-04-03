@@ -1,0 +1,67 @@
+{
+  "id": 1209048989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"92.14394,21.62343,92.14394,21.62343",
+    "geom:latitude":21.62343,
+    "geom:longitude":92.14394,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2003.0",
+    "gn:admin3_code":"200373.0",
+    "gn:admin4_code":"20037319.0",
+    "gn:asciiname":"Gulambari",
+    "gn:country_code":"BD",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6415073,
+    "gn:latitude":21.62343,
+    "gn:longitude":92.14394,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Gul\u0101mb\u0101ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Gul\u0101mb\u0101ri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6415073
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"c2a12032f39702a5c2ab8461444c2915",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209048989
+        }
+    ],
+    "wof:id":1209048989,
+    "wof:lastmodified":1537586237,
+    "wof:name":"Gulambari",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    92.14394,
+    21.62343,
+    92.14394,
+    21.62343
+],
+  "geometry": {"coordinates":[92.14394,21.62343],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1276579967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.93684,22.51987,89.93684,22.51987",
+    "geom:latitude":22.51987,
+    "geom:longitude":89.93684,
+    "gn:admin1_code":"85",
+    "gn:admin2_code":"1079.0",
+    "gn:admin3_code":"107988.0",
+    "gn:admin4_code":"10798843.0",
+    "gn:asciiname":"Dari Char Gazipur",
+    "gn:country_code":"BD",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1205089,
+    "gn:latitude":22.51987,
+    "gn:longitude":89.93684,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Dari Char G\u0101zipur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dari Char G\u0101zipur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669019,
+        421172031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1205089,
+        "wk:page":"Dari_Char_Gazipur"
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"67d30c7903904c0b049b31a5159c4c8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421172031,
+            "locality_id":1276579967,
+            "region_id":85669019
+        }
+    ],
+    "wof:id":1276579967,
+    "wof:lastmodified":1537586066,
+    "wof:name":"Dari Char Gazipur",
+    "wof:parent_id":421172031,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.93684,
+    22.51987,
+    89.93684,
+    22.51987
+],
+  "geometry": {"coordinates":[89.93684,22.51987],"type":"Point"}
+}

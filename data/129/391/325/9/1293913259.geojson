@@ -1,0 +1,70 @@
+{
+  "id": 1293913259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.39465,22.94399,90.39465,22.94399",
+    "geom:latitude":22.94399,
+    "geom:longitude":90.39465,
+    "gn:admin1_code":"85",
+    "gn:admin2_code":"1006",
+    "gn:admin3_code":"100669.0",
+    "gn:admin4_code":"10066959.0",
+    "gn:asciiname":"Nizampur",
+    "gn:country_code":"BD",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1192021,
+    "gn:latitude":22.94399,
+    "gn:longitude":90.39465,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Niz\u0101mpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669019,
+        421187745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1192021
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"ec7c8c0e0cdd6c3540e1217cf728b7ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421187745,
+            "locality_id":1293913259,
+            "region_id":85669019
+        }
+    ],
+    "wof:id":1293913259,
+    "wof:lastmodified":1536670517,
+    "wof:name":"Nizampur",
+    "wof:parent_id":421187745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.39465,
+    22.94399,
+    90.39465,
+    22.94399
+],
+  "geometry": {"coordinates":[90.39465,22.94399],"type":"Point"}
+}

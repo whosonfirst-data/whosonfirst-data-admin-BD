@@ -1,0 +1,67 @@
+{
+  "id": 1209256927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"92.19765,21.50929,92.19765,21.50929",
+    "geom:latitude":21.50929,
+    "geom:longitude":92.19765,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2003.0",
+    "gn:admin3_code":"200373.0",
+    "gn:admin4_code":"20037338.0",
+    "gn:asciiname":"Daiyabaperpara",
+    "gn:country_code":"BD",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6423289,
+    "gn:latitude":21.50929,
+    "gn:longitude":92.19765,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Daiyab\u0101perp\u0101ra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Daiyab\u0101perp\u0101ra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6423289
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"d7dc7e0b1c1f67a0ba147c879f88c0c2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209256927
+        }
+    ],
+    "wof:id":1209256927,
+    "wof:lastmodified":1537586273,
+    "wof:name":"Daiyabaperpara",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    92.19765,
+    21.50929,
+    92.19765,
+    21.50929
+],
+  "geometry": {"coordinates":[92.19765,21.50929],"type":"Point"}
+}

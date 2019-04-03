@@ -1,0 +1,85 @@
+{
+  "id": 421188263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.99234,24.02452,88.99234,24.02452",
+    "geom:latitude":24.02452,
+    "geom:longitude":88.99234,
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ben_x_preferred":[
+        "Bher\u0101m\u0101ra"
+    ],
+    "name:unk_x_variant":[
+        "Bhairamara"
+    ],
+    "qs:gn_country":"BD",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":1185262,
+    "qs:gn_pop":38159,
+    "qs:name":"Bheramara",
+    "qs:name_adm0":"Bangladesh",
+    "qs:name_adm1":"Khulna",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":9,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":1091343,
+    "qs:woe_adm0":23424759,
+    "qs:woe_id":1915006,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        890438075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1185262,
+        "gp:id":1915006,
+        "qs:id":1091343
+    },
+    "wof:country":"BD",
+    "wof:created":1459009539,
+    "wof:geomhash":"07cae563e517c1cedb73567780f60c34",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":890438075,
+            "locality_id":421188263,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":421188263,
+    "wof:lastmodified":1505340699,
+    "wof:name":"Bheramara",
+    "wof:parent_id":890438075,
+    "wof:placetype":"locality",
+    "wof:population":38159,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.99234,
+    24.02452,
+    88.99234,
+    24.02452
+],
+  "geometry": {"coordinates":[88.99234,24.02452],"type":"Point"}
+}

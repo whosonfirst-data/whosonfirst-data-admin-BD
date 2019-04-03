@@ -1,0 +1,70 @@
+{
+  "id": 1226676367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.57067,23.60326,89.57067,23.60326",
+    "geom:latitude":23.60326,
+    "geom:longitude":89.57067,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3029",
+    "gn:admin3_code":"302956.0",
+    "gn:admin4_code":"30295663.0",
+    "gn:asciiname":"Megchami",
+    "gn:country_code":"BD",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1194504,
+    "gn:latitude":23.60326,
+    "gn:longitude":89.57067,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Megch\u0101mi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        1108694699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1194504
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"c416839b2f844353fd6f12d6cafa9473",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694699,
+            "locality_id":1226676367,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1226676367,
+    "wof:lastmodified":1536814777,
+    "wof:name":"Megchami",
+    "wof:parent_id":1108694699,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.57066999999998,
+    23.60326,
+    89.57066999999998,
+    23.60326
+],
+  "geometry": {"coordinates":[89.57066999999998,23.60326],"type":"Point"}
+}

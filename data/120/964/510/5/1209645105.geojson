@@ -1,0 +1,64 @@
+{
+  "id": 1209645105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.65994,23.28499,89.65994,23.28499",
+    "geom:latitude":23.28499,
+    "geom:longitude":89.65994,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3029.0",
+    "gn:admin3_code":"302903.0",
+    "gn:admin4_code":"30290342.0",
+    "gn:asciiname":"Char Kharakdia",
+    "gn:country_code":"BD",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1206760,
+    "gn:latitude":23.28499,
+    "gn:longitude":89.65994,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Char Kharakdia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1206760
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"4b904470d04d6e0e9e3288b107d5abed",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209645105
+        }
+    ],
+    "wof:id":1209645105,
+    "wof:lastmodified":1536280760,
+    "wof:name":"Char Kharakdia",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.65994,
+    23.28499,
+    89.65994,
+    23.28499
+],
+  "geometry": {"coordinates":[89.65994000000001,23.28499],"type":"Point"}
+}

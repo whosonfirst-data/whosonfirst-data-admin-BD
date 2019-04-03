@@ -1,0 +1,74 @@
+{
+  "id": 1344187123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.3436,23.74462,89.3436,23.74462",
+    "geom:latitude":23.74462,
+    "geom:longitude":89.3436,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3082",
+    "gn:admin3_code":"308273.0",
+    "gn:admin4_code":"30827390.0",
+    "gn:asciiname":"Naora Banagram",
+    "gn:country_code":"BD",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1193326,
+    "gn:latitude":23.74462,
+    "gn:longitude":89.3436,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"N\u0101ora Banagr\u0101m",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Naora Banagaon",
+        "N\u0101ora Banagr\u0101m"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        1108694699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1193326
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"60984464debf58b1e1e25a30998231e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694699,
+            "locality_id":1344187123,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1344187123,
+    "wof:lastmodified":1537585851,
+    "wof:name":"Naora Banagram",
+    "wof:parent_id":1108694699,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.3436,
+    23.74462,
+    89.3436,
+    23.74462
+],
+  "geometry": {"coordinates":[89.3436,23.74462],"type":"Point"}
+}

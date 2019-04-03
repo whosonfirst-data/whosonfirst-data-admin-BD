@@ -1,0 +1,74 @@
+{
+  "id": 1360018739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.2196,22.78695,90.2196,22.78695",
+    "geom:latitude":22.78695,
+    "geom:longitude":90.2196,
+    "gn:admin1_code":"85",
+    "gn:admin2_code":"1006.0",
+    "gn:admin3_code":"100694.0",
+    "gn:admin4_code":"10069431.0",
+    "gn:asciiname":"Purba Narayanpur",
+    "gn:country_code":"BD",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1203510,
+    "gn:latitude":22.78695,
+    "gn:longitude":90.2196,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Purba N\u0101r\u0101yanpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Purba N\u0101r\u0101yanpur",
+        "East N\u0101r\u0101yanpur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669019,
+        421187745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1203510
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"c4fbc0514b6847b490b5516c01c89738",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421187745,
+            "locality_id":1360018739,
+            "region_id":85669019
+        }
+    ],
+    "wof:id":1360018739,
+    "wof:lastmodified":1537586040,
+    "wof:name":"Purba Narayanpur",
+    "wof:parent_id":421187745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.2196,
+    22.78695,
+    90.2196,
+    22.78695
+],
+  "geometry": {"coordinates":[90.2196,22.78695],"type":"Point"}
+}

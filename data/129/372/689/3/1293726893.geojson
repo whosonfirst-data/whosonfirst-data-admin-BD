@@ -1,0 +1,73 @@
+{
+  "id": 1293726893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.9732,22.49365,89.9732,22.49365",
+    "geom:latitude":22.49365,
+    "geom:longitude":89.9732,
+    "gn:admin1_code":"85",
+    "gn:admin2_code":"1079.0",
+    "gn:admin3_code":"107988.0",
+    "gn:admin4_code":"10798843.0",
+    "gn:asciiname":"Togra",
+    "gn:country_code":"BD",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7476090,
+    "gn:latitude":22.49365,
+    "gn:longitude":89.9732,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Togra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Togra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669019,
+        421172031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7476090
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"9360fafbc6b56a0fa0437d268923410e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421172031,
+            "locality_id":1293726893,
+            "region_id":85669019
+        }
+    ],
+    "wof:id":1293726893,
+    "wof:lastmodified":1537586336,
+    "wof:name":"Togra",
+    "wof:parent_id":421172031,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.9732,
+    22.49365,
+    89.9732,
+    22.49365
+],
+  "geometry": {"coordinates":[89.97320000000001,22.49365],"type":"Point"}
+}

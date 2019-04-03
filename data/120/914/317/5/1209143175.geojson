@@ -1,0 +1,70 @@
+{
+  "id": 1209143175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.95255,23.05724,88.95255,23.05724",
+    "geom:latitude":23.05724,
+    "geom:longitude":88.95255,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4041",
+    "gn:admin3_code":"404190.0",
+    "gn:admin4_code":"40419086.0",
+    "gn:asciiname":"Sarsha",
+    "gn:country_code":"BD",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1185118,
+    "gn:latitude":23.05724,
+    "gn:longitude":88.95255,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"S\u0101rsha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "S\u0101rsha"
+    ],
+    "name:und_x_variant":[
+        "Sarsa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1185118
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"7ba788907c6f5102f62b9d1383fea286",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209143175
+        }
+    ],
+    "wof:id":1209143175,
+    "wof:lastmodified":1537585687,
+    "wof:name":"Sarsha",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.95255,
+    23.05724,
+    88.95255,
+    23.05724
+],
+  "geometry": {"coordinates":[88.95255,23.05724],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1327461917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.59656,24.8626,88.59656,24.8626",
+    "geom:latitude":24.8626,
+    "geom:longitude":88.59656,
+    "gn:admin1_code":"83",
+    "gn:admin2_code":"5064.0",
+    "gn:admin3_code":"506469.0",
+    "gn:admin4_code":"50646921.0",
+    "gn:asciiname":"Champaidanga",
+    "gn:country_code":"BD",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7482755,
+    "gn:latitude":24.8626,
+    "gn:longitude":88.59656,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Ch\u0101mpaid\u0101nga",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Ch\u0101mpaid\u0101nga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669031,
+        421191663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7482755
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"d5af882eb956d93b94664f9001025177",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421191663,
+            "locality_id":1327461917,
+            "region_id":85669031
+        }
+    ],
+    "wof:id":1327461917,
+    "wof:lastmodified":1537586517,
+    "wof:name":"Champaidanga",
+    "wof:parent_id":421191663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.59656,
+    24.8626,
+    88.59656,
+    24.8626
+],
+  "geometry": {"coordinates":[88.59656,24.8626],"type":"Point"}
+}

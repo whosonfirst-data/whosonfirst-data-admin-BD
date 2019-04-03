@@ -1,0 +1,67 @@
+{
+  "id": 1209055027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"92.23654,22.76336,92.23654,22.76336",
+    "geom:latitude":22.76336,
+    "geom:longitude":92.23654,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2084.0",
+    "gn:admin3_code":"208421.0",
+    "gn:admin4_code":"20842179.0",
+    "gn:asciiname":"Dighalchari",
+    "gn:country_code":"BD",
+    "gn:dem":52,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7477330,
+    "gn:latitude":22.76336,
+    "gn:longitude":92.23654,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Dighalchari",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Dighalchari"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7477330
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"24099a3fc0ff1594ff969c413076ea99",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209055027
+        }
+    ],
+    "wof:id":1209055027,
+    "wof:lastmodified":1537586365,
+    "wof:name":"Dighalchari",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    92.23654,
+    22.76336,
+    92.23654,
+    22.76336
+],
+  "geometry": {"coordinates":[92.23654000000001,22.76336],"type":"Point"}
+}

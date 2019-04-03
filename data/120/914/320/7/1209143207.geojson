@@ -1,0 +1,67 @@
+{
+  "id": 1209143207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.84498,23.25334,88.84498,23.25334",
+    "geom:latitude":23.25334,
+    "geom:longitude":88.84498,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4044.0",
+    "gn:admin3_code":"404471.0",
+    "gn:admin4_code":"40447123.0",
+    "gn:asciiname":"Makardhajpur",
+    "gn:country_code":"BD",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7485022,
+    "gn:latitude":23.25334,
+    "gn:longitude":88.84498,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Makardhajpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Makardhajpur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7485022
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"04f9f6b64e0d81458a23801613b19242",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209143207
+        }
+    ],
+    "wof:id":1209143207,
+    "wof:lastmodified":1537586580,
+    "wof:name":"Makardhajpur",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.84498,
+    23.25334,
+    88.84498,
+    23.25334
+],
+  "geometry": {"coordinates":[88.84498000000001,23.25334],"type":"Point"}
+}

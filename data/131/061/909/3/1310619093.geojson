@@ -1,0 +1,67 @@
+{
+  "id": 1310619093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"92.26667,24.83333,92.26667,24.83333",
+    "geom:latitude":24.83333,
+    "geom:longitude":92.26667,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Latu",
+    "gn:country_code":"BD",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1196107,
+    "gn:latitude":24.83333,
+    "gn:longitude":92.26667,
+    "gn:modification_date":"1994-01-27",
+    "gn:name":"L\u0101tu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632469,
+        85672181,
+        1108696053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1196107
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"d6be9ab7dd17e2e62e26a37e178f0474",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108696053,
+            "locality_id":1310619093,
+            "region_id":85672181
+        }
+    ],
+    "wof:id":1310619093,
+    "wof:lastmodified":1536753057,
+    "wof:name":"Latu",
+    "wof:parent_id":1108696053,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    92.26667,
+    24.83333,
+    92.26667,
+    24.83333
+],
+  "geometry": {"coordinates":[92.26667,24.83333],"type":"Point"}
+}

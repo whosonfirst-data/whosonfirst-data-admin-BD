@@ -1,0 +1,76 @@
+{
+  "id": 1309954271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.95795,21.89868,91.95795,21.89868",
+    "geom:latitude":21.89868,
+    "geom:longitude":91.95795,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2015",
+    "gn:admin3_code":"201508.0",
+    "gn:admin4_code":"20150863.0",
+    "gn:asciiname":"Puichari",
+    "gn:country_code":"BD",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1190890,
+    "gn:latitude":21.89868,
+    "gn:longitude":91.95795,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Puichari",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Puichari"
+    ],
+    "name:und_x_variant":[
+        "Puichhari"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421205057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1190890
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"0492d2019f0bf50e9b1e632461d4703f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421205057,
+            "locality_id":1309954271,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1309954271,
+    "wof:lastmodified":1537585804,
+    "wof:name":"Puichari",
+    "wof:parent_id":421205057,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.95795,
+    21.89868,
+    91.95795,
+    21.89868
+],
+  "geometry": {"coordinates":[91.95795,21.89868],"type":"Point"}
+}

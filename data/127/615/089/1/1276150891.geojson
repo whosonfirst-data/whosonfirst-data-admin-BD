@@ -1,0 +1,74 @@
+{
+  "id": 1276150891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.51487,24.83536,90.51487,24.83536",
+    "geom:latitude":24.83536,
+    "geom:longitude":90.51487,
+    "gn:admin1_code":"H",
+    "gn:admin2_code":"3061",
+    "gn:admin3_code":"306181.0",
+    "gn:admin4_code":"30618172.0",
+    "gn:asciiname":"Sadullahpur",
+    "gn:country_code":"BD",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1189322,
+    "gn:latitude":24.83536,
+    "gn:longitude":90.51487,
+    "gn:modification_date":"2016-11-17",
+    "gn:name":"Sadull\u0101hpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sadull\u0101hpur",
+        "S\u0101dull\u0101pur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        1108803101,
+        421185469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1189322
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"7e21bf35bf21806d83e033657e9fa2ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421185469,
+            "locality_id":1276150891,
+            "region_id":1108803101
+        }
+    ],
+    "wof:id":1276150891,
+    "wof:lastmodified":1537585778,
+    "wof:name":"Sadullahpur",
+    "wof:parent_id":421185469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.51487,
+    24.83536,
+    90.51487,
+    24.83536
+],
+  "geometry": {"coordinates":[90.51487,24.83536],"type":"Point"}
+}

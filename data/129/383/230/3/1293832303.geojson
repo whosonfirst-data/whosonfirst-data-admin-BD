@@ -1,0 +1,73 @@
+{
+  "id": 1293832303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.95131,21.99512,91.95131,21.99512",
+    "geom:latitude":21.99512,
+    "geom:longitude":91.95131,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2015.0",
+    "gn:admin3_code":"201508.0",
+    "gn:admin4_code":"20150837.0",
+    "gn:asciiname":"Jaldi",
+    "gn:country_code":"BD",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6415332,
+    "gn:latitude":21.99512,
+    "gn:longitude":91.95131,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Jaldi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Jaldi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421201541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6415332
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"bdf3169c50850747bf111370e4213bec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421201541,
+            "locality_id":1293832303,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1293832303,
+    "wof:lastmodified":1537586242,
+    "wof:name":"Jaldi",
+    "wof:parent_id":421201541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.95131,
+    21.99512,
+    91.95131,
+    21.99512
+],
+  "geometry": {"coordinates":[91.95131000000001,21.99512],"type":"Point"}
+}

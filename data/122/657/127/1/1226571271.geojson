@@ -1,0 +1,73 @@
+{
+  "id": 1226571271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.13758,25.73744,89.13758,25.73744",
+    "geom:latitude":25.73744,
+    "geom:longitude":89.13758,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5585",
+    "gn:admin3_code":"558549.0",
+    "gn:admin4_code":"55854910.0",
+    "gn:asciiname":"Shahbajpur",
+    "gn:country_code":"BD",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1189436,
+    "gn:latitude":25.73744,
+    "gn:longitude":89.13758,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Shahbajpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "S\u0101b\u0101jpur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1189436
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"06504cd2c2fa8c062024cde91f845efc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694701,
+            "locality_id":1226571271,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1226571271,
+    "wof:lastmodified":1537585780,
+    "wof:name":"Shahbajpur",
+    "wof:parent_id":1108694701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.13758,
+    25.73744,
+    89.13758,
+    25.73744
+],
+  "geometry": {"coordinates":[89.13758,25.73744],"type":"Point"}
+}

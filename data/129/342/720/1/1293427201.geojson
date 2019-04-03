@@ -1,0 +1,70 @@
+{
+  "id": 1293427201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.2487,23.76453,90.2487,23.76453",
+    "geom:latitude":23.76453,
+    "geom:longitude":90.2487,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3026.0",
+    "gn:admin3_code":"302638.0",
+    "gn:admin4_code":"30263817.0",
+    "gn:asciiname":"Baratail",
+    "gn:country_code":"BD",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1210225,
+    "gn:latitude":23.76453,
+    "gn:longitude":90.2487,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Baratail",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421187803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1210225
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"da8b6408bc089c75e101ce89df21a9a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421187803,
+            "locality_id":1293427201,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1293427201,
+    "wof:lastmodified":1536872838,
+    "wof:name":"Baratail",
+    "wof:parent_id":421187803,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.2487,
+    23.76453,
+    90.2487,
+    23.76453
+],
+  "geometry": {"coordinates":[90.2487,23.76453],"type":"Point"}
+}

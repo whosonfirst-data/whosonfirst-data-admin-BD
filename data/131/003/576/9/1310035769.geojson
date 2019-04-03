@@ -1,0 +1,73 @@
+{
+  "id": 1310035769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.59641,25.96444,89.59641,25.96444",
+    "geom:latitude":25.96444,
+    "geom:longitude":89.59641,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5549",
+    "gn:admin3_code":"554918.0",
+    "gn:admin4_code":"55491854.0",
+    "gn:asciiname":"Azoatari",
+    "gn:country_code":"BD",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7923472,
+    "gn:latitude":25.96444,
+    "gn:longitude":89.59641,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Azo\u0101t\u0101ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Azo\u0101t\u0101ri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7923472
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"a14ba635f9b4dcd29f07c804b86d9273",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694685,
+            "locality_id":1310035769,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1310035769,
+    "wof:lastmodified":1537586799,
+    "wof:name":"Azoatari",
+    "wof:parent_id":1108694685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.59640999999998,
+    25.96444,
+    89.59640999999998,
+    25.96444
+],
+  "geometry": {"coordinates":[89.59640999999998,25.96444],"type":"Point"}
+}

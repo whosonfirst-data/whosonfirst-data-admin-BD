@@ -1,0 +1,77 @@
+{
+  "id": 1276267089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.97649,22.3066,89.97649,22.3066",
+    "geom:latitude":22.3066,
+    "geom:longitude":89.97649,
+    "gn:admin1_code":"85",
+    "gn:admin2_code":"1079",
+    "gn:admin3_code":"107958.0",
+    "gn:admin4_code":"10795860.0",
+    "gn:asciiname":"Patakata",
+    "gn:country_code":"BD",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1192198,
+    "gn:latitude":22.3066,
+    "gn:longitude":89.97649,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Patakata",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Patakata"
+    ],
+    "name:und_x_variant":[
+        "Pathakata"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669019,
+        421172031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1192198,
+        "wk:page":"Patakata"
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"6b155eb1ff68ca7e089cf5021bc6046f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421172031,
+            "locality_id":1276267089,
+            "region_id":85669019
+        }
+    ],
+    "wof:id":1276267089,
+    "wof:lastmodified":1537585831,
+    "wof:name":"Patakata",
+    "wof:parent_id":421172031,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.97649,
+    22.3066,
+    89.97649,
+    22.3066
+],
+  "geometry": {"coordinates":[89.97649,22.3066],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1226172755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.11307,25.59743,89.11307,25.59743",
+    "geom:latitude":25.59743,
+    "geom:longitude":89.11307,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5585",
+    "gn:admin3_code":"558503.0",
+    "gn:admin4_code":"55850369.0",
+    "gn:asciiname":"Maisana Bil",
+    "gn:country_code":"BD",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8064543,
+    "gn:latitude":25.59743,
+    "gn:longitude":89.11307,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Maisana Bil",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Maisana Bil"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8064543
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"09d10f3acade25dd97d0522824b3d2b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694701,
+            "locality_id":1226172755,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1226172755,
+    "wof:lastmodified":1537586840,
+    "wof:name":"Maisana Bil",
+    "wof:parent_id":1108694701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.11307,
+    25.59743,
+    89.11307,
+    25.59743
+],
+  "geometry": {"coordinates":[89.11306999999999,25.59743],"type":"Point"}
+}

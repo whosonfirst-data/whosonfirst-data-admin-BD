@@ -1,0 +1,74 @@
+{
+  "id": 1193170433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.04896,24.35049,90.04896,24.35049",
+    "geom:latitude":24.35049,
+    "geom:longitude":90.04896,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3093",
+    "gn:admin3_code":"309347.0",
+    "gn:admin4_code":"30934765.0",
+    "gn:asciiname":"Naoapara",
+    "gn:country_code":"BD",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1193400,
+    "gn:latitude":24.35049,
+    "gn:longitude":90.04896,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Nao\u0101p\u0101ra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Noapara",
+        "Nao\u0101p\u0101ra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421185471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1193400
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"86606c6f0d9f9fcb5aeb010449e6cf64",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421185471,
+            "locality_id":1193170433,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1193170433,
+    "wof:lastmodified":1537585852,
+    "wof:name":"Naoapara",
+    "wof:parent_id":421185471,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.04896,
+    24.35049,
+    90.04896,
+    24.35049
+],
+  "geometry": {"coordinates":[90.04895999999999,24.35049],"type":"Point"}
+}

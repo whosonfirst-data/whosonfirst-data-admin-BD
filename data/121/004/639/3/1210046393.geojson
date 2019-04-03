@@ -1,0 +1,70 @@
+{
+  "id": 1210046393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.88333,24.15,88.88333,24.15",
+    "geom:latitude":24.15,
+    "geom:longitude":88.88333,
+    "gn:admin1_code":"83",
+    "gn:admin2_code":"5081",
+    "gn:admin3_code":"508110.0",
+    "gn:admin4_code":"50811055.0",
+    "gn:asciiname":"Karari Naosara",
+    "gn:country_code":"BD",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1198456,
+    "gn:latitude":24.15,
+    "gn:longitude":88.88333,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"K\u0101r\u0101ri N\u0101os\u0101ra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669031,
+        421172439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1198456
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"fec29a81760668ee8cc82256436dfacd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421172439,
+            "locality_id":1210046393,
+            "region_id":85669031
+        }
+    ],
+    "wof:id":1210046393,
+    "wof:lastmodified":1536378526,
+    "wof:name":"Karari Naosara",
+    "wof:parent_id":421172439,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.88333,
+    24.15,
+    88.88333,
+    24.15
+],
+  "geometry": {"coordinates":[88.88333,24.15],"type":"Point"}
+}

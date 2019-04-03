@@ -1,0 +1,70 @@
+{
+  "id": 1310531495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.23534,25.0045,90.23534,25.0045",
+    "geom:latitude":25.0045,
+    "geom:longitude":90.23534,
+    "gn:admin1_code":"H",
+    "gn:admin2_code":"3089.0",
+    "gn:admin3_code":"308967.0",
+    "gn:admin4_code":"30896785.0",
+    "gn:asciiname":"Bainjan",
+    "gn:country_code":"BD",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1211646,
+    "gn:latitude":25.0045,
+    "gn:longitude":90.23534,
+    "gn:modification_date":"2016-11-17",
+    "gn:name":"B\u0101inj\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        1108803101,
+        421190979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1211646
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"865e41ecdde413228aada3d61750b377",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421190979,
+            "locality_id":1310531495,
+            "region_id":1108803101
+        }
+    ],
+    "wof:id":1310531495,
+    "wof:lastmodified":1536878736,
+    "wof:name":"Bainjan",
+    "wof:parent_id":421190979,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.23534,
+    25.0045,
+    90.23534,
+    25.0045
+],
+  "geometry": {"coordinates":[90.23533999999999,25.0045],"type":"Point"}
+}

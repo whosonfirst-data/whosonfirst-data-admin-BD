@@ -1,0 +1,76 @@
+{
+  "id": 1293916751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.60222,22.77372,89.60222,22.77372",
+    "geom:latitude":22.77372,
+    "geom:longitude":89.60222,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4047",
+    "gn:admin3_code":"404775.0",
+    "gn:admin4_code":"40477554.0",
+    "gn:asciiname":"Jabusia",
+    "gn:country_code":"BD",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1200635,
+    "gn:latitude":22.77372,
+    "gn:longitude":89.60222,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"J\u0101busia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "J\u0101busia"
+    ],
+    "name:ben_x_variant":[
+        "J\u0101busa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        421185473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1200635
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"0c7533257bd3995775b61e7d84932bc3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421185473,
+            "locality_id":1293916751,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1293916751,
+    "wof:lastmodified":1537585983,
+    "wof:name":"Jabusia",
+    "wof:parent_id":421185473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.60221999999997,
+    22.77372,
+    89.60221999999997,
+    22.77372
+],
+  "geometry": {"coordinates":[89.60221999999997,22.77372],"type":"Point"}
+}

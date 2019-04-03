@@ -1,0 +1,73 @@
+{
+  "id": 1310235063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.62251,25.52343,88.62251,25.52343",
+    "geom:latitude":25.52343,
+    "geom:longitude":88.62251,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5527.0",
+    "gn:admin3_code":"552764.0",
+    "gn:admin4_code":"55276408.0",
+    "gn:asciiname":"Khanpur",
+    "gn:country_code":"BD",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7488190,
+    "gn:latitude":25.52343,
+    "gn:longitude":88.62251,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Kh\u0101npur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Kh\u0101npur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7488190
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"688f46cd5099e1bc7e517ad884369fa6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694671,
+            "locality_id":1310235063,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1310235063,
+    "wof:lastmodified":1537586661,
+    "wof:name":"Khanpur",
+    "wof:parent_id":1108694671,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.62250999999998,
+    25.52343,
+    88.62250999999998,
+    25.52343
+],
+  "geometry": {"coordinates":[88.62250999999998,25.52343],"type":"Point"}
+}

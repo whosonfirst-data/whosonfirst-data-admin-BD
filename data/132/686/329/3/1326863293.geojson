@@ -1,0 +1,70 @@
+{
+  "id": 1326863293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.3122,22.34187,90.3122,22.34187",
+    "geom:latitude":22.34187,
+    "geom:longitude":90.3122,
+    "gn:admin1_code":"82",
+    "gn:asciiname":"East Hetalia",
+    "gn:country_code":"BD",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7476508,
+    "gn:latitude":22.34187,
+    "gn:longitude":90.3122,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"East Het\u0101lia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "East Het\u0101lia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669019,
+        421169845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7476508
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"5c3eda787ca568820cb737ee85d46788",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421169845,
+            "locality_id":1326863293,
+            "region_id":85669019
+        }
+    ],
+    "wof:id":1326863293,
+    "wof:lastmodified":1537586346,
+    "wof:name":"East Hetalia",
+    "wof:parent_id":421169845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.3122,
+    22.34187,
+    90.3122,
+    22.34187
+],
+  "geometry": {"coordinates":[90.3122,22.34187],"type":"Point"}
+}

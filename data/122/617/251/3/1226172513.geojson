@@ -1,0 +1,73 @@
+{
+  "id": 1226172513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.13826,25.51019,89.13826,25.51019",
+    "geom:latitude":25.51019,
+    "geom:longitude":89.13826,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5585",
+    "gn:admin3_code":"558558.0",
+    "gn:admin4_code":"55855811.0",
+    "gn:asciiname":"Harakrishnapur",
+    "gn:country_code":"BD",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8064533,
+    "gn:latitude":25.51019,
+    "gn:longitude":89.13826,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Harakrishnapur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Harakrishnapur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8064533
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"9c812f7668d3f1fd0d55d5c94f80a447",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694701,
+            "locality_id":1226172513,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1226172513,
+    "wof:lastmodified":1537586840,
+    "wof:name":"Harakrishnapur",
+    "wof:parent_id":1108694701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.13826,
+    25.51019,
+    89.13826,
+    25.51019
+],
+  "geometry": {"coordinates":[89.13826,25.51019],"type":"Point"}
+}

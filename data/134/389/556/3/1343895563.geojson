@@ -1,0 +1,73 @@
+{
+  "id": 1343895563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.15773,25.7799,89.15773,25.7799",
+    "geom:latitude":25.7799,
+    "geom:longitude":89.15773,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5585",
+    "gn:admin3_code":"558549.0",
+    "gn:admin4_code":"55854923.0",
+    "gn:asciiname":"Biswanthpur",
+    "gn:country_code":"BD",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7924000,
+    "gn:latitude":25.7799,
+    "gn:longitude":89.15773,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Bisw\u0101nthpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Bisw\u0101nthpur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7924000
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"8eadc53681f6251ed23e94f085c462d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694701,
+            "locality_id":1343895563,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1343895563,
+    "wof:lastmodified":1537586814,
+    "wof:name":"Biswanthpur",
+    "wof:parent_id":1108694701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.15773,
+    25.7799,
+    89.15773,
+    25.7799
+],
+  "geometry": {"coordinates":[89.15773,25.7799],"type":"Point"}
+}

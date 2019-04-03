@@ -1,0 +1,73 @@
+{
+  "id": 1226384779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"92.07186,21.87728,92.07186,21.87728",
+    "geom:latitude":21.87728,
+    "geom:longitude":92.07186,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2022.0",
+    "gn:admin3_code":"202216.0",
+    "gn:admin4_code":"20221650.0",
+    "gn:asciiname":"Samanghata",
+    "gn:country_code":"BD",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6414611,
+    "gn:latitude":21.87728,
+    "gn:longitude":92.07186,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"S\u0101m\u0101nghata",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "S\u0101m\u0101nghata"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421169477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6414611
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"327bad749cc279a78a73719ac2acd0f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421169477,
+            "locality_id":1226384779,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1226384779,
+    "wof:lastmodified":1537586231,
+    "wof:name":"Samanghata",
+    "wof:parent_id":421169477,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    92.07186,
+    21.87728,
+    92.07186,
+    21.87728
+],
+  "geometry": {"coordinates":[92.07186,21.87728],"type":"Point"}
+}

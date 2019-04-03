@@ -1,0 +1,70 @@
+{
+  "id": 1259820907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.53324,23.84017,90.53324,23.84017",
+    "geom:latitude":23.84017,
+    "geom:longitude":90.53324,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3067.0",
+    "gn:admin3_code":"306768.0",
+    "gn:admin4_code":"30676879.0",
+    "gn:asciiname":"Brahmankhali",
+    "gn:country_code":"BD",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1208109,
+    "gn:latitude":23.84017,
+    "gn:longitude":90.53324,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Br\u0101hmankh\u0101li",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421197045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1208109
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"9d8dfc74f9e26fce59984235f6eb2e3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421197045,
+            "locality_id":1259820907,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1259820907,
+    "wof:lastmodified":1536868142,
+    "wof:name":"Brahmankhali",
+    "wof:parent_id":421197045,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.53324,
+    23.84017,
+    90.53324,
+    23.84017
+],
+  "geometry": {"coordinates":[90.53324000000001,23.84017],"type":"Point"}
+}

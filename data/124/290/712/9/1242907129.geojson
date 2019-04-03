@@ -1,0 +1,73 @@
+{
+  "id": 1242907129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.0638,23.72979,89.0638,23.72979",
+    "geom:latitude":23.72979,
+    "geom:longitude":89.0638,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4050.0",
+    "gn:admin3_code":"405079.0",
+    "gn:admin4_code":"40507982.0",
+    "gn:asciiname":"Gangaparkandi",
+    "gn:country_code":"BD",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7478227,
+    "gn:latitude":23.72979,
+    "gn:longitude":89.0638,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Gangapark\u0101ndi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Gangapark\u0101ndi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        890438075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7478227
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"56d5f318d5ac8ae1bb8cc187c9086d92",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":890438075,
+            "locality_id":1242907129,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1242907129,
+    "wof:lastmodified":1537586386,
+    "wof:name":"Gangaparkandi",
+    "wof:parent_id":890438075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.0638,
+    23.72979,
+    89.0638,
+    23.72979
+],
+  "geometry": {"coordinates":[89.0638,23.72979],"type":"Point"}
+}

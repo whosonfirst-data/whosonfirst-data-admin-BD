@@ -1,0 +1,74 @@
+{
+  "id": 1226490771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.1435,24.1153,91.1435,24.1153",
+    "geom:latitude":24.1153,
+    "geom:longitude":91.1435,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2012",
+    "gn:admin3_code":"201294.0",
+    "gn:admin4_code":"20129438.0",
+    "gn:asciiname":"Noagaon",
+    "gn:country_code":"BD",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9794298,
+    "gn:latitude":24.1153,
+    "gn:longitude":91.1435,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Noagaon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Noagaon, B-baria, Bangladesh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        1108694667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9794298,
+        "wk:page":"Noagaon,_B-baria,_Bangladesh"
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"deb46ca9f466efa6162c487ffaaf9deb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694667,
+            "locality_id":1226490771,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1226490771,
+    "wof:lastmodified":1537586875,
+    "wof:name":"Noagaon",
+    "wof:parent_id":1108694667,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.1435,
+    24.1153,
+    91.1435,
+    24.1153
+],
+  "geometry": {"coordinates":[91.1435,24.1153],"type":"Point"}
+}

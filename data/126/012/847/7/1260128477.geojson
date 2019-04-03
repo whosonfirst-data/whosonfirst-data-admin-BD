@@ -1,0 +1,70 @@
+{
+  "id": 1260128477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.97965,23.14271,90.97965,23.14271",
+    "geom:latitude":23.14271,
+    "geom:longitude":90.97965,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2013",
+    "gn:admin3_code":"201395.0",
+    "gn:admin4_code":"20139515.0",
+    "gn:asciiname":"Lepsa",
+    "gn:country_code":"BD",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1196051,
+    "gn:latitude":23.14271,
+    "gn:longitude":90.97965,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Leps\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        1108694669
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1196051
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"b0b941fa8bf5b7e87c65df5dc86af0eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694669,
+            "locality_id":1260128477,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1260128477,
+    "wof:lastmodified":1536924191,
+    "wof:name":"Lepsa",
+    "wof:parent_id":1108694669,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.97965,
+    23.14271,
+    90.97965,
+    23.14271
+],
+  "geometry": {"coordinates":[90.97965000000001,23.14271],"type":"Point"}
+}

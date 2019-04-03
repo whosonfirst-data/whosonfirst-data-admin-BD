@@ -1,0 +1,70 @@
+{
+  "id": 1293030911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.2827,23.75581,89.2827,23.75581",
+    "geom:latitude":23.75581,
+    "geom:longitude":89.2827,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4050.0",
+    "gn:admin3_code":"405063.0",
+    "gn:admin4_code":"40506323.0",
+    "gn:asciiname":"Banagram",
+    "gn:country_code":"BD",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1211137,
+    "gn:latitude":23.75581,
+    "gn:longitude":89.2827,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Banagr\u0101m",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        890438075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1211137
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"a2906a6040491b2903f1761e08ac015b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":890438075,
+            "locality_id":1293030911,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1293030911,
+    "wof:lastmodified":1536948717,
+    "wof:name":"Banagram",
+    "wof:parent_id":890438075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.2827,
+    23.75581,
+    89.2827,
+    23.75581
+],
+  "geometry": {"coordinates":[89.28270000000001,23.75581],"type":"Point"}
+}

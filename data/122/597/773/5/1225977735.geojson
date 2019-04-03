@@ -1,0 +1,75 @@
+{
+  "id": 1225977735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.1,23.1,90.1,23.1",
+    "geom:latitude":23.1,
+    "geom:longitude":90.1,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3035",
+    "gn:admin3_code":"303551.0",
+    "gn:admin4_code":"30355187.0",
+    "gn:asciiname":"Ramsil Lakhanda",
+    "gn:cc2":"BD",
+    "gn:country_code":"BD",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1189898,
+    "gn:latitude":23.1,
+    "gn:longitude":90.1,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"R\u0101msil Lakhanda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ramshil Lakhanda",
+        "R\u0101msil Lakhanda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421194867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1189898
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"7387ce5e3cfc544f77e28382f5303a93",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421194867,
+            "locality_id":1225977735,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1225977735,
+    "wof:lastmodified":1537585788,
+    "wof:name":"Ramsil Lakhanda",
+    "wof:parent_id":421194867,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.1,
+    23.1,
+    90.1,
+    23.1
+],
+  "geometry": {"coordinates":[90.09999999999999,23.1],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1259917279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.22433,25.06342,89.22433,25.06342",
+    "geom:latitude":25.06342,
+    "geom:longitude":89.22433,
+    "gn:admin1_code":"83",
+    "gn:admin2_code":"5038.0",
+    "gn:admin3_code":"503858.0",
+    "gn:admin4_code":"50385876.0",
+    "gn:asciiname":"Gopinathpur",
+    "gn:country_code":"BD",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7889175,
+    "gn:latitude":25.06342,
+    "gn:longitude":89.22433,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Gopinathpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Gopinathpur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669031,
+        1108694681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7889175
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"2fa12ffd13614787ba94ce1ee9fee20c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694681,
+            "locality_id":1259917279,
+            "region_id":85669031
+        }
+    ],
+    "wof:id":1259917279,
+    "wof:lastmodified":1537586729,
+    "wof:name":"Gopinathpur",
+    "wof:parent_id":1108694681,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.22433000000002,
+    25.06342,
+    89.22433000000002,
+    25.06342
+],
+  "geometry": {"coordinates":[89.22433000000002,25.06342],"type":"Point"}
+}

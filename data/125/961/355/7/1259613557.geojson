@@ -1,0 +1,74 @@
+{
+  "id": 1259613557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.98908,24.74735,90.98908,24.74735",
+    "geom:latitude":24.74735,
+    "geom:longitude":90.98908,
+    "gn:admin1_code":"H",
+    "gn:admin2_code":"3072",
+    "gn:admin3_code":"307263.0",
+    "gn:admin4_code":"30726373.0",
+    "gn:asciiname":"Purba Tarachapuri",
+    "gn:country_code":"BD",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1190672,
+    "gn:latitude":24.74735,
+    "gn:longitude":90.98908,
+    "gn:modification_date":"2016-11-17",
+    "gn:name":"Purba T\u0101r\u0101ch\u0101puri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Purba T\u0101r\u0101ch\u0101puri",
+        "Purbba T\u0101r\u0101ch\u0101puri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        1108803101,
+        421200811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1190672
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"6a3a60b10ae4243550df5d0782f205df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421200811,
+            "locality_id":1259613557,
+            "region_id":1108803101
+        }
+    ],
+    "wof:id":1259613557,
+    "wof:lastmodified":1537585800,
+    "wof:name":"Purba Tarachapuri",
+    "wof:parent_id":421200811,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.98908,
+    24.74735,
+    90.98908,
+    24.74735
+],
+  "geometry": {"coordinates":[90.98908,24.74735],"type":"Point"}
+}

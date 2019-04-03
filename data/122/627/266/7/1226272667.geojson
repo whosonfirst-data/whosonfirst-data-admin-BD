@@ -1,0 +1,70 @@
+{
+  "id": 1226272667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.99301,23.29999,89.99301,23.29999",
+    "geom:latitude":23.29999,
+    "geom:longitude":89.99301,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3035.0",
+    "gn:admin3_code":"303558.0",
+    "gn:admin4_code":"30355827.0",
+    "gn:asciiname":"Bagat",
+    "gn:country_code":"BD",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1212029,
+    "gn:latitude":23.29999,
+    "gn:longitude":89.99301,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"B\u0101g\u0101t",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421194867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1212029
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"87da5fefacf362a39c4d358bd7391f9e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421194867,
+            "locality_id":1226272667,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1226272667,
+    "wof:lastmodified":1536894685,
+    "wof:name":"Bagat",
+    "wof:parent_id":421194867,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.99301,
+    23.29999,
+    89.99301,
+    23.29999
+],
+  "geometry": {"coordinates":[89.99301,23.29999],"type":"Point"}
+}

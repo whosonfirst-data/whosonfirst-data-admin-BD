@@ -1,0 +1,73 @@
+{
+  "id": 1209745213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.46994,25.43277,89.46994,25.43277",
+    "geom:latitude":25.43277,
+    "geom:longitude":89.46994,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5532",
+    "gn:admin3_code":"553282.0",
+    "gn:admin4_code":"55328225.0",
+    "gn:asciiname":"Kismat Dashalia",
+    "gn:country_code":"BD",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7892232,
+    "gn:latitude":25.43277,
+    "gn:longitude":89.46994,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Kismat Dashalia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Kismat Dashalia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7892232
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"15962c3090b4265687abd41b675b1f0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694675,
+            "locality_id":1209745213,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1209745213,
+    "wof:lastmodified":1537586756,
+    "wof:name":"Kismat Dashalia",
+    "wof:parent_id":1108694675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.46994000000002,
+    25.43277,
+    89.46994000000002,
+    25.43277
+],
+  "geometry": {"coordinates":[89.46994000000002,25.43277],"type":"Point"}
+}

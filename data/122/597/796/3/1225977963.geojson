@@ -1,0 +1,76 @@
+{
+  "id": 1225977963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.93779,24.34366,88.93779,24.34366",
+    "geom:latitude":24.34366,
+    "geom:longitude":88.93779,
+    "gn:admin1_code":"83",
+    "gn:admin2_code":"5069",
+    "gn:admin3_code":"506909.0",
+    "gn:admin4_code":"50690919.0",
+    "gn:asciiname":"Khidra Malonchi",
+    "gn:country_code":"BD",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1197405,
+    "gn:latitude":24.34366,
+    "gn:longitude":88.93779,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Khidra M\u0101lonchi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Khidra M\u0101lonchi"
+    ],
+    "name:ben_x_variant":[
+        "Khidir M\u0101lanchi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669031,
+        421182115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1197405
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"29b7cb67b34ba5044f8c102fdf20ebb8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421182115,
+            "locality_id":1225977963,
+            "region_id":85669031
+        }
+    ],
+    "wof:id":1225977963,
+    "wof:lastmodified":1537585925,
+    "wof:name":"Khidra Malonchi",
+    "wof:parent_id":421182115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.93779,
+    24.34366,
+    88.93779,
+    24.34366
+],
+  "geometry": {"coordinates":[88.93779000000001,24.34366],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1226592481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.90691,23.37145,90.90691,23.37145",
+    "geom:latitude":23.37145,
+    "geom:longitude":90.90691,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2013.0",
+    "gn:admin3_code":"201358.0",
+    "gn:admin4_code":"20135839.0",
+    "gn:asciiname":"Danr Char",
+    "gn:country_code":"BD",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1205190,
+    "gn:latitude":23.37145,
+    "gn:longitude":90.90691,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"D\u0101nr Char",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dawchar",
+        "D\u0101nr Char"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        1108694669
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1205190
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"a7d3f0e347973e33dfebc8499e97299c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694669,
+            "locality_id":1226592481,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1226592481,
+    "wof:lastmodified":1537586068,
+    "wof:name":"Danr Char",
+    "wof:parent_id":1108694669,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.90691,
+    23.37145,
+    90.90691,
+    23.37145
+],
+  "geometry": {"coordinates":[90.90691,23.37145],"type":"Point"}
+}

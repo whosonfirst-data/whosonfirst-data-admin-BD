@@ -1,0 +1,70 @@
+{
+  "id": 1277104895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.29482,22.68309,89.29482,22.68309",
+    "geom:latitude":22.68309,
+    "geom:longitude":89.29482,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4047",
+    "gn:admin3_code":"404764.0",
+    "gn:admin4_code":"40476444.0",
+    "gn:asciiname":"Noakati",
+    "gn:country_code":"BD",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1191992,
+    "gn:latitude":22.68309,
+    "gn:longitude":89.29482,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"No\u0101k\u0101ti",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        421185473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1191992
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"114a37e7b4d95e26e0d17e4f1d67a947",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421185473,
+            "locality_id":1277104895,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1277104895,
+    "wof:lastmodified":1536735915,
+    "wof:name":"Noakati",
+    "wof:parent_id":421185473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.29482,
+    22.68309,
+    89.29482,
+    22.68309
+],
+  "geometry": {"coordinates":[89.29482,22.68309],"type":"Point"}
+}

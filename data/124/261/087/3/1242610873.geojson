@@ -1,0 +1,73 @@
+{
+  "id": 1242610873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.56926,25.93898,89.56926,25.93898",
+    "geom:latitude":25.93898,
+    "geom:longitude":89.56926,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5549",
+    "gn:admin3_code":"554918.0",
+    "gn:admin4_code":"55491840.0",
+    "gn:asciiname":"Chondrakhana",
+    "gn:country_code":"BD",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7923501,
+    "gn:latitude":25.93898,
+    "gn:longitude":89.56926,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Chondrakh\u0101na",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Chondrakh\u0101na"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7923501
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"f95459f7c4d2d8232792cce44476820d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694685,
+            "locality_id":1242610873,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1242610873,
+    "wof:lastmodified":1537586800,
+    "wof:name":"Chondrakhana",
+    "wof:parent_id":1108694685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.56926,
+    25.93898,
+    89.56926,
+    25.93898
+],
+  "geometry": {"coordinates":[89.56926,25.93898],"type":"Point"}
+}

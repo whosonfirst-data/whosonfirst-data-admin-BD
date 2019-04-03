@@ -1,0 +1,70 @@
+{
+  "id": 1292934077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.47881,22.28442,90.47881,22.28442",
+    "geom:latitude":22.28442,
+    "geom:longitude":90.47881,
+    "gn:admin1_code":"82",
+    "gn:asciiname":"Maubaria",
+    "gn:country_code":"BD",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7477218,
+    "gn:latitude":22.28442,
+    "gn:longitude":90.47881,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"Maubaria",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Maubaria"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669019,
+        421169845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7477218
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"a72b74a8519440d991c86884eada0e31",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421169845,
+            "locality_id":1292934077,
+            "region_id":85669019
+        }
+    ],
+    "wof:id":1292934077,
+    "wof:lastmodified":1537586363,
+    "wof:name":"Maubaria",
+    "wof:parent_id":421169845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.47881,
+    22.28442,
+    90.47881,
+    22.28442
+],
+  "geometry": {"coordinates":[90.47881,22.28442],"type":"Point"}
+}

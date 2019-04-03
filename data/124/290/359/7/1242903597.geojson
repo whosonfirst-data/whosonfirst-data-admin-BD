@@ -1,0 +1,73 @@
+{
+  "id": 1242903597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.51957,26.11897,88.51957,26.11897",
+    "geom:latitude":26.11897,
+    "geom:longitude":88.51957,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5594.0",
+    "gn:admin3_code":"559494.0",
+    "gn:admin4_code":"55949426.0",
+    "gn:asciiname":"Kesurbari Arazi",
+    "gn:country_code":"BD",
+    "gn:dem":66,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7104957,
+    "gn:latitude":26.11897,
+    "gn:longitude":88.51957,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Kesurb\u0101ri \u0100razi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Kesurb\u0101ri \u0100razi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7104957
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"86441e3bada0142932ea1e6e4cc044c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694703,
+            "locality_id":1242903597,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1242903597,
+    "wof:lastmodified":1537586290,
+    "wof:name":"Kesurbari Arazi",
+    "wof:parent_id":1108694703,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.51957,
+    26.11897,
+    88.51957,
+    26.11897
+],
+  "geometry": {"coordinates":[88.51957,26.11897],"type":"Point"}
+}

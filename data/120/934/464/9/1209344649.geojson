@@ -1,0 +1,67 @@
+{
+  "id": 1209344649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.23628,25.42679,89.23628,25.42679",
+    "geom:latitude":25.42679,
+    "geom:longitude":89.23628,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5585",
+    "gn:admin3_code":"558576.0",
+    "gn:admin4_code":"55857650.0",
+    "gn:asciiname":"Kafrikhali",
+    "gn:country_code":"BD",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8064737,
+    "gn:latitude":25.42679,
+    "gn:longitude":89.23628,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Kafrikhali",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Kafrikhali"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8064737
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"467f8ee9386ec8fef9c061602f106738",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209344649
+        }
+    ],
+    "wof:id":1209344649,
+    "wof:lastmodified":1537586847,
+    "wof:name":"Kafrikhali",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.23628000000002,
+    25.42679,
+    89.23628000000002,
+    25.42679
+],
+  "geometry": {"coordinates":[89.23628000000002,25.42679],"type":"Point"}
+}

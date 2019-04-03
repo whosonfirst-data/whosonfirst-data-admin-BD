@@ -1,0 +1,73 @@
+{
+  "id": 1209745329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.85998,25.18143,88.85998,25.18143",
+    "geom:latitude":25.18143,
+    "geom:longitude":88.85998,
+    "gn:admin1_code":"83",
+    "gn:admin2_code":"5064.0",
+    "gn:admin3_code":"506428.0",
+    "gn:admin4_code":"50642884.0",
+    "gn:asciiname":"Chhota Maliapara",
+    "gn:country_code":"BD",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7481698,
+    "gn:latitude":25.18143,
+    "gn:longitude":88.85998,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Chhota M\u0101liap\u0101ra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Chhota M\u0101liap\u0101ra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669031,
+        421191663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7481698
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"ee527a18f7f3b832d193d4e591daa4b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421191663,
+            "locality_id":1209745329,
+            "region_id":85669031
+        }
+    ],
+    "wof:id":1209745329,
+    "wof:lastmodified":1537586486,
+    "wof:name":"Chhota Maliapara",
+    "wof:parent_id":421191663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.85998000000002,
+    25.18143,
+    88.85998000000002,
+    25.18143
+],
+  "geometry": {"coordinates":[88.85998000000002,25.18143],"type":"Point"}
+}

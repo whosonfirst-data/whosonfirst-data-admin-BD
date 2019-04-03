@@ -1,0 +1,73 @@
+{
+  "id": 1343598717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.1616,25.03933,90.1616,25.03933",
+    "geom:latitude":25.03933,
+    "geom:longitude":90.1616,
+    "gn:admin1_code":"H",
+    "gn:admin2_code":"3089",
+    "gn:admin3_code":"308970.0",
+    "gn:admin4_code":"30897034.0",
+    "gn:asciiname":"Baitkamari",
+    "gn:country_code":"BD",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7923158,
+    "gn:latitude":25.03933,
+    "gn:longitude":90.1616,
+    "gn:modification_date":"2016-11-17",
+    "gn:name":"Baitkam\u0101ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Baitkam\u0101ri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        1108803101,
+        421190979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7923158
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"89b1cb5d8b3ba9304a4c14aa78034f71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421190979,
+            "locality_id":1343598717,
+            "region_id":1108803101
+        }
+    ],
+    "wof:id":1343598717,
+    "wof:lastmodified":1537586792,
+    "wof:name":"Baitkamari",
+    "wof:parent_id":421190979,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.1616,
+    25.03933,
+    90.1616,
+    25.03933
+],
+  "geometry": {"coordinates":[90.16160000000001,25.03933],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1343403433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.93963,23.15316,90.93963,23.15316",
+    "geom:latitude":23.15316,
+    "geom:longitude":90.93963,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2013",
+    "gn:admin3_code":"201395.0",
+    "gn:admin4_code":"20139590.0",
+    "gn:asciiname":"Narasinhapur",
+    "gn:country_code":"BD",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1193280,
+    "gn:latitude":23.15316,
+    "gn:longitude":90.93963,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Narasinhapur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Narasinghapur",
+        "Narasinhapur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        1108694669
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1193280
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"2e1e7642cb24926c2e702c6f13d9f32e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694669,
+            "locality_id":1343403433,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1343403433,
+    "wof:lastmodified":1537585850,
+    "wof:name":"Narasinhapur",
+    "wof:parent_id":1108694669,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.93963,
+    23.15316,
+    90.93963,
+    23.15316
+],
+  "geometry": {"coordinates":[90.93962999999999,23.15316],"type":"Point"}
+}

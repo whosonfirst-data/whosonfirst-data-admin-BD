@@ -1,0 +1,73 @@
+{
+  "id": 1226275779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.9269,23.54239,88.9269,23.54239",
+    "geom:latitude":23.54239,
+    "geom:longitude":88.9269,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4018.0",
+    "gn:admin3_code":"401823.0",
+    "gn:admin4_code":"40182383.0",
+    "gn:asciiname":"Bittidharipara",
+    "gn:country_code":"BD",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7484795,
+    "gn:latitude":23.54239,
+    "gn:longitude":88.9269,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Bittidh\u0101rip\u0101ra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Bittidh\u0101rip\u0101ra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        421194153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7484795
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"4029c3df3c5b8bf6a38d7fba59082a32",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421194153,
+            "locality_id":1226275779,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1226275779,
+    "wof:lastmodified":1537586574,
+    "wof:name":"Bittidharipara",
+    "wof:parent_id":421194153,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.9269,
+    23.54239,
+    88.9269,
+    23.54239
+],
+  "geometry": {"coordinates":[88.9269,23.54239],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1226679653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.22378,22.25762,89.22378,22.25762",
+    "geom:latitude":22.25762,
+    "geom:longitude":89.22378,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4087.0",
+    "gn:admin3_code":"408786.0",
+    "gn:admin4_code":"40878623.0",
+    "gn:asciiname":"Datnakhali",
+    "gn:country_code":"BD",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7485878,
+    "gn:latitude":22.25762,
+    "gn:longitude":89.22378,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"D\u0101tn\u0101kh\u0101li",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "D\u0101tn\u0101kh\u0101li"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        421201927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7485878
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"6260f7cc87840acea087a1dcc0f36f0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421201927,
+            "locality_id":1226679653,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1226679653,
+    "wof:lastmodified":1537586602,
+    "wof:name":"Datnakhali",
+    "wof:parent_id":421201927,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.22378,
+    22.25762000000001,
+    89.22378,
+    22.25762000000001
+],
+  "geometry": {"coordinates":[89.22378,22.25762000000001],"type":"Point"}
+}

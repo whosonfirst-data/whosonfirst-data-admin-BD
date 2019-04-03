@@ -1,0 +1,67 @@
+{
+  "id": 1209135817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.7613,26.10547,88.7613,26.10547",
+    "geom:latitude":26.10547,
+    "geom:longitude":88.7613,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5577.0",
+    "gn:admin3_code":"557734.0",
+    "gn:admin4_code":"55773447.0",
+    "gn:asciiname":"Nutah Bandar",
+    "gn:country_code":"BD",
+    "gn:dem":61,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7105359,
+    "gn:latitude":26.10547,
+    "gn:longitude":88.7613,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Nutah Bandar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Nutah Bandar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7105359
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"44202025e73e4120865b6149f779abe2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209135817
+        }
+    ],
+    "wof:id":1209135817,
+    "wof:lastmodified":1537586301,
+    "wof:name":"Nutah Bandar",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.7613,
+    26.10547,
+    88.7613,
+    26.10547
+],
+  "geometry": {"coordinates":[88.76130000000001,26.10547],"type":"Point"}
+}

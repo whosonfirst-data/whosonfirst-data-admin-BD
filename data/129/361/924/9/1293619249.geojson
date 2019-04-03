@@ -1,0 +1,70 @@
+{
+  "id": 1293619249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.89343,23.8989,89.89343,23.8989",
+    "geom:latitude":23.8989,
+    "geom:longitude":89.89343,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3056.0",
+    "gn:admin3_code":"305622.0",
+    "gn:admin4_code":"30562247.0",
+    "gn:asciiname":"Batrakandi",
+    "gn:country_code":"BD",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1209837,
+    "gn:latitude":23.8989,
+    "gn:longitude":89.89343,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"B\u0101tr\u0101k\u0101ndi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421191745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1209837
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"983d8f8a3aa47626b91487420cd37a63",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421191745,
+            "locality_id":1293619249,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1293619249,
+    "wof:lastmodified":1537091187,
+    "wof:name":"Batrakandi",
+    "wof:parent_id":421191745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.89343000000002,
+    23.8989,
+    89.89343000000002,
+    23.8989
+],
+  "geometry": {"coordinates":[89.89343000000002,23.8989],"type":"Point"}
+}

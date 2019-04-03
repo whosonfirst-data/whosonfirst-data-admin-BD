@@ -1,0 +1,74 @@
+{
+  "id": 1209845621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.02369,24.43312,90.02369,24.43312",
+    "geom:latitude":24.43312,
+    "geom:longitude":90.02369,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3093",
+    "gn:admin3_code":"309328.0",
+    "gn:admin4_code":"30932851.0",
+    "gn:asciiname":"Purli Hasan",
+    "gn:country_code":"BD",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1190668,
+    "gn:latitude":24.43312,
+    "gn:longitude":90.02369,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Purli Hasan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Purli Hasana",
+        "Purli Hasan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421185471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1190668
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"dd3cc3cb54ea8d3957696d189a10bf41",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421185471,
+            "locality_id":1209845621,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1209845621,
+    "wof:lastmodified":1537585799,
+    "wof:name":"Purli Hasan",
+    "wof:parent_id":421185471,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.02369,
+    24.43312,
+    90.02369,
+    24.43312
+],
+  "geometry": {"coordinates":[90.02369,24.43312],"type":"Point"}
+}

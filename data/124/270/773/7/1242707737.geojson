@@ -1,0 +1,70 @@
+{
+  "id": 1242707737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.18673,23.68666,90.18673,23.68666",
+    "geom:latitude":23.68666,
+    "geom:longitude":90.18673,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3026.0",
+    "gn:admin3_code":"302662.0",
+    "gn:admin4_code":"30266294.0",
+    "gn:asciiname":"Chhota Bahra",
+    "gn:country_code":"BD",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1206091,
+    "gn:latitude":23.68666,
+    "gn:longitude":90.18673,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Chhota B\u0101hra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421187803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1206091
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"4165fa98440019caff2863dab1163f50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421187803,
+            "locality_id":1242707737,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1242707737,
+    "wof:lastmodified":1536875529,
+    "wof:name":"Chhota Bahra",
+    "wof:parent_id":421187803,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.18673,
+    23.68666,
+    90.18673,
+    23.68666
+],
+  "geometry": {"coordinates":[90.18673,23.68666],"type":"Point"}
+}

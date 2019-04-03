@@ -1,0 +1,68 @@
+{
+  "id": 1209040115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.63418,23.75665,90.63418,23.75665",
+    "geom:latitude":23.75665,
+    "geom:longitude":90.63418,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3067.0",
+    "gn:admin3_code":"306702.0",
+    "gn:admin4_code":"30670247.0",
+    "gn:asciiname":"Daraibad",
+    "gn:country_code":"BD",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1205160,
+    "gn:latitude":23.75665,
+    "gn:longitude":90.63418,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Dar\u0101ib\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dariabad",
+        "Dar\u0101ib\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1205160
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"60b745c21edb1d8ab3521efd13bd8612",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209040115
+        }
+    ],
+    "wof:id":1209040115,
+    "wof:lastmodified":1537586067,
+    "wof:name":"Daraibad",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.63418,
+    23.75665,
+    90.63418,
+    23.75665
+],
+  "geometry": {"coordinates":[90.63418,23.75665],"type":"Point"}
+}

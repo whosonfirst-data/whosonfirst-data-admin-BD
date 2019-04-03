@@ -1,0 +1,73 @@
+{
+  "id": 1242921909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"92.0632,21.82785,92.0632,21.82785",
+    "geom:latitude":21.82785,
+    "geom:longitude":92.0632,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2022.0",
+    "gn:admin3_code":"202216.0",
+    "gn:admin4_code":"20221616.0",
+    "gn:asciiname":"Lala Bazar",
+    "gn:country_code":"BD",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6414736,
+    "gn:latitude":21.82785,
+    "gn:longitude":92.0632,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"L\u0101la B\u0101z\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "L\u0101la B\u0101z\u0101r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421205057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6414736
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"f575faeb8d3da23007484c3c8ddf69ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421205057,
+            "locality_id":1242921909,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1242921909,
+    "wof:lastmodified":1537586232,
+    "wof:name":"Lala Bazar",
+    "wof:parent_id":421205057,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    92.0632,
+    21.82785,
+    92.0632,
+    21.82785
+],
+  "geometry": {"coordinates":[92.06319999999999,21.82785],"type":"Point"}
+}

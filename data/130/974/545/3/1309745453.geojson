@@ -1,0 +1,73 @@
+{
+  "id": 1309745453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.10789,22.42732,89.10789,22.42732",
+    "geom:latitude":22.42732,
+    "geom:longitude":89.10789,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4087.0",
+    "gn:admin3_code":"408747.0",
+    "gn:admin4_code":"40874715.0",
+    "gn:asciiname":"Bejua",
+    "gn:country_code":"BD",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1209669,
+    "gn:latitude":22.42732,
+    "gn:longitude":89.10789,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Bejua",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Bejua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        421201927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1209669
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"06787ad30f84987966e336f52088974b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421201927,
+            "locality_id":1309745453,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1309745453,
+    "wof:lastmodified":1537586149,
+    "wof:name":"Bejua",
+    "wof:parent_id":421201927,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.10789,
+    22.42732,
+    89.10789,
+    22.42732
+],
+  "geometry": {"coordinates":[89.10789,22.42732],"type":"Point"}
+}

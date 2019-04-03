@@ -1,0 +1,70 @@
+{
+  "id": 1293717481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.67644,24.84394,90.67644,24.84394",
+    "geom:latitude":24.84394,
+    "geom:longitude":90.67644,
+    "gn:admin1_code":"H",
+    "gn:admin2_code":"3072.0",
+    "gn:admin3_code":"307274.0",
+    "gn:admin4_code":"30727415.0",
+    "gn:asciiname":"Bil Sulangi",
+    "gn:country_code":"BD",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1208500,
+    "gn:latitude":24.84394,
+    "gn:longitude":90.67644,
+    "gn:modification_date":"2016-11-17",
+    "gn:name":"Bil Sulangi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        1108803101,
+        421200811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1208500
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"3f294f19b7ec73e16c4570dfc97a2a51",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421200811,
+            "locality_id":1293717481,
+            "region_id":1108803101
+        }
+    ],
+    "wof:id":1293717481,
+    "wof:lastmodified":1536953133,
+    "wof:name":"Bil Sulangi",
+    "wof:parent_id":421200811,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.67644,
+    24.84394,
+    90.67644,
+    24.84394
+],
+  "geometry": {"coordinates":[90.67644,24.84394],"type":"Point"}
+}

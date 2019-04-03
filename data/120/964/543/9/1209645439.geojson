@@ -1,0 +1,67 @@
+{
+  "id": 1209645439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.16875,22.43593,90.16875,22.43593",
+    "geom:latitude":22.43593,
+    "geom:longitude":90.16875,
+    "gn:admin1_code":"85",
+    "gn:admin2_code":"1042.0",
+    "gn:admin3_code":"104243.0",
+    "gn:admin4_code":"10424394.0",
+    "gn:asciiname":"Raghuar Darichar",
+    "gn:country_code":"BD",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7476711,
+    "gn:latitude":22.43593,
+    "gn:longitude":90.16875,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Raghu\u0101r Darichar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Raghu\u0101r Darichar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7476711
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"33fd7605e1e8140f9d190a7372130f37",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209645439
+        }
+    ],
+    "wof:id":1209645439,
+    "wof:lastmodified":1537586352,
+    "wof:name":"Raghuar Darichar",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.16875,
+    22.43593,
+    90.16875,
+    22.43593
+],
+  "geometry": {"coordinates":[90.16875,22.43593],"type":"Point"}
+}

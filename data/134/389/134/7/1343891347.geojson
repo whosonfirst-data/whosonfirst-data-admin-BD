@@ -1,0 +1,70 @@
+{
+  "id": 1343891347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"92.01388,24.85722,92.01388,24.85722",
+    "geom:latitude":24.85722,
+    "geom:longitude":92.01388,
+    "gn:admin1_code":"86",
+    "gn:admin2_code":"6091",
+    "gn:admin3_code":"609138.0",
+    "gn:admin4_code":"60913843.0",
+    "gn:asciiname":"Golapganj",
+    "gn:country_code":"BD",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8740365,
+    "gn:latitude":24.85722,
+    "gn:longitude":92.01388,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Golapganj",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669025,
+        421187795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8740365
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"4a1f5e994effb3c04ba932df62fd4431",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421187795,
+            "locality_id":1343891347,
+            "region_id":85669025
+        }
+    ],
+    "wof:id":1343891347,
+    "wof:lastmodified":1536619961,
+    "wof:name":"Golapganj",
+    "wof:parent_id":421187795,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    92.01388,
+    24.85722,
+    92.01388,
+    24.85722
+],
+  "geometry": {"coordinates":[92.01388,24.85722],"type":"Point"}
+}

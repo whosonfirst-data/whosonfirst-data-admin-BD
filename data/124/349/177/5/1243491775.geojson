@@ -1,0 +1,74 @@
+{
+  "id": 1243491775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.46815,23.67238,89.46815,23.67238",
+    "geom:latitude":23.67238,
+    "geom:longitude":89.46815,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3082.0",
+    "gn:admin3_code":"308207.0",
+    "gn:admin4_code":"30820785.0",
+    "gn:asciiname":"Chashabila",
+    "gn:country_code":"BD",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1206399,
+    "gn:latitude":23.67238,
+    "gn:longitude":89.46815,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Chash\u0101bila",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chasabiha",
+        "Chash\u0101bila"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        1108694699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1206399
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"ea24a35c26e95b44c0daa4b8b1a0a26a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694699,
+            "locality_id":1243491775,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1243491775,
+    "wof:lastmodified":1537586093,
+    "wof:name":"Chashabila",
+    "wof:parent_id":1108694699,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.46815,
+    23.67238,
+    89.46815,
+    23.67238
+],
+  "geometry": {"coordinates":[89.46814999999999,23.67238],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1327461785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.78884,23.26141,89.78884,23.26141",
+    "geom:latitude":23.26141,
+    "geom:longitude":89.78884,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3035",
+    "gn:admin3_code":"303543.0",
+    "gn:admin4_code":"30354340.0",
+    "gn:asciiname":"Jonasur",
+    "gn:country_code":"BD",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1199784,
+    "gn:latitude":23.26141,
+    "gn:longitude":89.78884,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Jon\u0101sur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421194867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1199784
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"fe56ec29df575305faa5350ea9034bc9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421194867,
+            "locality_id":1327461785,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1327461785,
+    "wof:lastmodified":1536637353,
+    "wof:name":"Jonasur",
+    "wof:parent_id":421194867,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.78884000000002,
+    23.26141,
+    89.78884000000002,
+    23.26141
+],
+  "geometry": {"coordinates":[89.78884000000002,23.26141],"type":"Point"}
+}

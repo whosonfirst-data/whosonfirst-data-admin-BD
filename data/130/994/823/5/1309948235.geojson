@@ -1,0 +1,74 @@
+{
+  "id": 1309948235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.78269,23.43842,90.78269,23.43842",
+    "geom:latitude":23.43842,
+    "geom:longitude":90.78269,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2013",
+    "gn:admin3_code":"201376.0",
+    "gn:admin4_code":"20137656.0",
+    "gn:asciiname":"Pitambardi",
+    "gn:country_code":"BD",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1191047,
+    "gn:latitude":23.43842,
+    "gn:longitude":90.78269,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Pit\u0101mbardi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Petambardi",
+        "Pit\u0101mbardi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        1108694669
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1191047
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"8e7252d0dc6300d34a202f30e40c548d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694669,
+            "locality_id":1309948235,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1309948235,
+    "wof:lastmodified":1537585807,
+    "wof:name":"Pitambardi",
+    "wof:parent_id":1108694669,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.78269,
+    23.43842,
+    90.78269,
+    23.43842
+],
+  "geometry": {"coordinates":[90.78269,23.43842],"type":"Point"}
+}

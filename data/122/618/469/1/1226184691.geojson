@@ -1,0 +1,70 @@
+{
+  "id": 1226184691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.06667,23.5,91.06667,23.5",
+    "geom:latitude":23.5,
+    "geom:longitude":91.06667,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2019.0",
+    "gn:admin3_code":"201918.0",
+    "gn:admin4_code":"20191869.0",
+    "gn:asciiname":"Bharikota",
+    "gn:country_code":"BD",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1209147,
+    "gn:latitude":23.5,
+    "gn:longitude":91.06667,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Bh\u0101r\u012bkota",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421187801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1209147
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"139b0b8fa8681ab36ce271a9521b7c9a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421187801,
+            "locality_id":1226184691,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1226184691,
+    "wof:lastmodified":1537020681,
+    "wof:name":"Bharikota",
+    "wof:parent_id":421187801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.06667,
+    23.5,
+    91.06667,
+    23.5
+],
+  "geometry": {"coordinates":[91.06667,23.5],"type":"Point"}
+}

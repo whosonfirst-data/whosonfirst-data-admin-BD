@@ -1,0 +1,70 @@
+{
+  "id": 1242607805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.21237,24.98182,90.21237,24.98182",
+    "geom:latitude":24.98182,
+    "geom:longitude":90.21237,
+    "gn:admin1_code":"H",
+    "gn:admin2_code":"3089",
+    "gn:admin3_code":"308967.0",
+    "gn:admin4_code":"30896785.0",
+    "gn:asciiname":"Salkhan",
+    "gn:country_code":"BD",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1188958,
+    "gn:latitude":24.98182,
+    "gn:longitude":90.21237,
+    "gn:modification_date":"2016-11-17",
+    "gn:name":"S\u0101lkh\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        1108803101,
+        421190979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1188958
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"a0bfea1b52231b457af114f424a4d461",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421190979,
+            "locality_id":1242607805,
+            "region_id":1108803101
+        }
+    ],
+    "wof:id":1242607805,
+    "wof:lastmodified":1537019413,
+    "wof:name":"Salkhan",
+    "wof:parent_id":421190979,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.21237,
+    24.98182000000001,
+    90.21237,
+    24.98182000000001
+],
+  "geometry": {"coordinates":[90.21237000000001,24.98182000000001],"type":"Point"}
+}

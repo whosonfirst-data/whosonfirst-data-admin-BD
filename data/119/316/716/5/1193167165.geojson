@@ -1,0 +1,74 @@
+{
+  "id": 1193167165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.28852,23.56838,89.28852,23.56838",
+    "geom:latitude":23.56838,
+    "geom:longitude":89.28852,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4044",
+    "gn:admin3_code":"404419.0",
+    "gn:admin4_code":"40441931.0",
+    "gn:asciiname":"Narayanpur Arjya",
+    "gn:country_code":"BD",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1193214,
+    "gn:latitude":23.56838,
+    "gn:longitude":89.28852,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"N\u0101r\u0101yanpur \u0100rjya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Arjya Narayanpur",
+        "N\u0101r\u0101yanpur \u0100rjya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        1108694679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1193214
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"6855af496204476a2da95b9fa5388e09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694679,
+            "locality_id":1193167165,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1193167165,
+    "wof:lastmodified":1537585849,
+    "wof:name":"Narayanpur Arjya",
+    "wof:parent_id":1108694679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.28851999999998,
+    23.56838,
+    89.28851999999998,
+    23.56838
+],
+  "geometry": {"coordinates":[89.28851999999998,23.56838],"type":"Point"}
+}

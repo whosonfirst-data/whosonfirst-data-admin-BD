@@ -1,0 +1,70 @@
+{
+  "id": 1243592189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.83476,23.17554,90.83476,23.17554",
+    "geom:latitude":23.17554,
+    "geom:longitude":90.83476,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2013",
+    "gn:admin3_code":"201345.0",
+    "gn:admin4_code":"20134553.0",
+    "gn:asciiname":"Srikalia",
+    "gn:country_code":"BD",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1187286,
+    "gn:latitude":23.17554,
+    "gn:longitude":90.83476,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Srik\u0101lia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        1108694669
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1187286
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"7fc9417b758a7a6b9d69eb782a24f7c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694669,
+            "locality_id":1243592189,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1243592189,
+    "wof:lastmodified":1537089128,
+    "wof:name":"Srikalia",
+    "wof:parent_id":1108694669,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.83476,
+    23.17554,
+    90.83476,
+    23.17554
+],
+  "geometry": {"coordinates":[90.83476,23.17554],"type":"Point"}
+}

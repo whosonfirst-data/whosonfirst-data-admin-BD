@@ -1,0 +1,76 @@
+{
+  "id": 1293230913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.61545,25.41595,89.61545,25.41595",
+    "geom:latitude":25.41595,
+    "geom:longitude":89.61545,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5532.0",
+    "gn:admin3_code":"553291.0",
+    "gn:admin4_code":"55329188.0",
+    "gn:asciiname":"Dakshin Sripur",
+    "gn:country_code":"BD",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1205317,
+    "gn:latitude":25.41595,
+    "gn:longitude":89.61545,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Dakshin Sripur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Dakshin Sripur"
+    ],
+    "name:ben_x_variant":[
+        "Dakshin Sr\u012bpur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1205317
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"fad64249031b6a83c657d8cb5851a50a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694675,
+            "locality_id":1293230913,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1293230913,
+    "wof:lastmodified":1537586071,
+    "wof:name":"Dakshin Sripur",
+    "wof:parent_id":1108694675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.61545,
+    25.41595,
+    89.61545,
+    25.41595
+],
+  "geometry": {"coordinates":[89.61545,25.41595],"type":"Point"}
+}

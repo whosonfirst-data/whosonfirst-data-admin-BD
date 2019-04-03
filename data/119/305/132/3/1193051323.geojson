@@ -1,0 +1,75 @@
+{
+  "id": 1193051323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.6,24.33333,88.6,24.33333",
+    "geom:latitude":24.33333,
+    "geom:longitude":88.6,
+    "gn:admin1_code":"83",
+    "gn:admin2_code":"5081.0",
+    "gn:admin3_code":"508172.0",
+    "gn:admin4_code":"50817239.0",
+    "gn:asciiname":"Char Khidirpur",
+    "gn:cc2":"BD",
+    "gn:country_code":"BD",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1206756,
+    "gn:latitude":24.33333,
+    "gn:longitude":88.6,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Char Khidirpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Char Khidarpur",
+        "Char Khidirpur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669031,
+        421172439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1206756
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"31b1ec65fe50bb72671dadcab13821ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421172439,
+            "locality_id":1193051323,
+            "region_id":85669031
+        }
+    ],
+    "wof:id":1193051323,
+    "wof:lastmodified":1537586099,
+    "wof:name":"Char Khidirpur",
+    "wof:parent_id":421172439,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.6,
+    24.33333,
+    88.6,
+    24.33333
+],
+  "geometry": {"coordinates":[88.59999999999999,24.33333],"type":"Point"}
+}

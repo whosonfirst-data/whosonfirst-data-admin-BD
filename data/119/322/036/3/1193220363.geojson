@@ -1,0 +1,70 @@
+{
+  "id": 1193220363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.89357,23.29719,90.89357,23.29719",
+    "geom:latitude":23.29719,
+    "geom:longitude":90.89357,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2013",
+    "gn:admin3_code":"201358.0",
+    "gn:admin4_code":"20135863.0",
+    "gn:asciiname":"Paranpur",
+    "gn:country_code":"BD",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1192455,
+    "gn:latitude":23.29719,
+    "gn:longitude":90.89357,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Par\u0101npur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        1108694669
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1192455
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"c699d98500be8a5d11e3cc8a371cceba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694669,
+            "locality_id":1193220363,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1193220363,
+    "wof:lastmodified":1536376162,
+    "wof:name":"Paranpur",
+    "wof:parent_id":1108694669,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.89357,
+    23.29719,
+    90.89357,
+    23.29719
+],
+  "geometry": {"coordinates":[90.89357,23.29719],"type":"Point"}
+}

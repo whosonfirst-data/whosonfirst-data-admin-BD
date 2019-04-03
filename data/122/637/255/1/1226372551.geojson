@@ -1,0 +1,73 @@
+{
+  "id": 1226372551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.86802,24.03716,88.86802,24.03716",
+    "geom:latitude":24.03716,
+    "geom:longitude":88.86802,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4050",
+    "gn:admin3_code":"405039.0",
+    "gn:admin4_code":"40503940.0",
+    "gn:asciiname":"Hogalbaria",
+    "gn:country_code":"BD",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8355750,
+    "gn:latitude":24.03716,
+    "gn:longitude":88.86802,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Hogalb\u0101ria",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Hogalb\u0101ria"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        890438075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8355750
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"ebb2e83c7985e8ebe611c20fc0a2617e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":890438075,
+            "locality_id":1226372551,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1226372551,
+    "wof:lastmodified":1537586867,
+    "wof:name":"Hogalbaria",
+    "wof:parent_id":890438075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.86802,
+    24.03716,
+    88.86802,
+    24.03716
+],
+  "geometry": {"coordinates":[88.86802,24.03716],"type":"Point"}
+}

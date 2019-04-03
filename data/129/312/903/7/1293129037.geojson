@@ -1,0 +1,70 @@
+{
+  "id": 1293129037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.63998,24.32181,90.63998,24.32181",
+    "geom:latitude":24.32181,
+    "geom:longitude":90.63998,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3048.0",
+    "gn:admin3_code":"304879.0",
+    "gn:admin4_code":"30487928.0",
+    "gn:asciiname":"Char Kursa",
+    "gn:country_code":"BD",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1206727,
+    "gn:latitude":24.32181,
+    "gn:longitude":90.63998,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Char Kursa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421170483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1206727
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"720c75d28db9b97ad4a28d3a246a351c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421170483,
+            "locality_id":1293129037,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1293129037,
+    "wof:lastmodified":1536806760,
+    "wof:name":"Char Kursa",
+    "wof:parent_id":421170483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.63998,
+    24.32181,
+    90.63998,
+    24.32181
+],
+  "geometry": {"coordinates":[90.63997999999999,24.32181],"type":"Point"}
+}

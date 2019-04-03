@@ -1,0 +1,76 @@
+{
+  "id": 1343591265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.61294,26.36658,88.61294,26.36658",
+    "geom:latitude":26.36658,
+    "geom:longitude":88.61294,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5577",
+    "gn:admin3_code":"557773.0",
+    "gn:admin4_code":"55777335.0",
+    "gn:asciiname":"Malani Arazi",
+    "gn:country_code":"BD",
+    "gn:dem":76,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1195216,
+    "gn:latitude":26.36658,
+    "gn:longitude":88.61294,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Mal\u0101ni \u0100r\u0101zi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Mal\u0101ni \u0100r\u0101zi"
+    ],
+    "name:und_x_variant":[
+        "Molaniaraji"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1195216
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"1d35a7ce9fde14049107ce3d61af800a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694697,
+            "locality_id":1343591265,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1343591265,
+    "wof:lastmodified":1537585882,
+    "wof:name":"Malani Arazi",
+    "wof:parent_id":1108694697,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.61294000000002,
+    26.36658,
+    88.61294000000002,
+    26.36658
+],
+  "geometry": {"coordinates":[88.61294000000002,26.36658],"type":"Point"}
+}

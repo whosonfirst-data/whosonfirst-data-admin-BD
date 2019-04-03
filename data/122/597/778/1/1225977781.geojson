@@ -1,0 +1,70 @@
+{
+  "id": 1225977781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.69375,22.15287,90.69375,22.15287",
+    "geom:latitude":22.15287,
+    "geom:longitude":90.69375,
+    "gn:admin1_code":"82",
+    "gn:asciiname":"Sibar Char",
+    "gn:country_code":"BD",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1188070,
+    "gn:latitude":22.15287,
+    "gn:longitude":90.69375,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Sib\u0101r Char",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Sib\u0101r Char"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669019,
+        421184491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1188070
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"e3757a93ab4d7d410244e0ddef934e17",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421184491,
+            "locality_id":1225977781,
+            "region_id":85669019
+        }
+    ],
+    "wof:id":1225977781,
+    "wof:lastmodified":1537585751,
+    "wof:name":"Sibar Char",
+    "wof:parent_id":421184491,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.69375,
+    22.15287,
+    90.69375,
+    22.15287
+],
+  "geometry": {"coordinates":[90.69374999999999,22.15287],"type":"Point"}
+}

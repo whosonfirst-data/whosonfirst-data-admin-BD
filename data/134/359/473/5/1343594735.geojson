@@ -1,0 +1,73 @@
+{
+  "id": 1343594735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.13314,25.65455,89.13314,25.65455",
+    "geom:latitude":25.65455,
+    "geom:longitude":89.13314,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5585",
+    "gn:admin3_code":"558503.0",
+    "gn:admin4_code":"55850363.0",
+    "gn:asciiname":"Rostamabad",
+    "gn:country_code":"BD",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8064434,
+    "gn:latitude":25.65455,
+    "gn:longitude":89.13314,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Rostamabad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Rostamabad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8064434
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"96bd5080da0e5bf55b8048a595a6e3e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694701,
+            "locality_id":1343594735,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1343594735,
+    "wof:lastmodified":1537586836,
+    "wof:name":"Rostamabad",
+    "wof:parent_id":1108694701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.13314,
+    25.65455,
+    89.13314,
+    25.65455
+],
+  "geometry": {"coordinates":[89.13314,25.65455],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1260113705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.91667,24.66667,90.91667,24.66667",
+    "geom:latitude":24.66667,
+    "geom:longitude":90.91667,
+    "gn:admin1_code":"H",
+    "gn:admin2_code":"3072",
+    "gn:admin3_code":"307256.0",
+    "gn:admin4_code":"30725673.0",
+    "gn:asciiname":"Mahara",
+    "gn:country_code":"BD",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1195622,
+    "gn:latitude":24.66667,
+    "gn:longitude":90.91667,
+    "gn:modification_date":"2016-11-17",
+    "gn:name":"M\u0101hara",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        1108803101,
+        421200811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1195622
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"e23092b45c49acc7c176f392a88e67aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421200811,
+            "locality_id":1260113705,
+            "region_id":1108803101
+        }
+    ],
+    "wof:id":1260113705,
+    "wof:lastmodified":1536945036,
+    "wof:name":"Mahara",
+    "wof:parent_id":421200811,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.91667,
+    24.66667,
+    90.91667,
+    24.66667
+],
+  "geometry": {"coordinates":[90.91667,24.66667],"type":"Point"}
+}

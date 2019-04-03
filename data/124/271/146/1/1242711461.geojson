@@ -1,0 +1,73 @@
+{
+  "id": 1242711461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.65464,26.30148,88.65464,26.30148",
+    "geom:latitude":26.30148,
+    "geom:longitude":88.65464,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5577.0",
+    "gn:admin3_code":"557725.0",
+    "gn:admin4_code":"55772558.0",
+    "gn:asciiname":"Lashkara",
+    "gn:country_code":"BD",
+    "gn:dem":68,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7104865,
+    "gn:latitude":26.30148,
+    "gn:longitude":88.65464,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Lashkara",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Lashkara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7104865
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"989f2d73d5884a6df8bbacd71b153e2b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694697,
+            "locality_id":1242711461,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1242711461,
+    "wof:lastmodified":1537586287,
+    "wof:name":"Lashkara",
+    "wof:parent_id":1108694697,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.65464,
+    26.30148,
+    88.65464,
+    26.30148
+],
+  "geometry": {"coordinates":[88.65464,26.30148],"type":"Point"}
+}

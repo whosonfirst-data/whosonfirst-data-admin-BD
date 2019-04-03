@@ -1,0 +1,70 @@
+{
+  "id": 1310139121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.32476,23.6463,89.32476,23.6463",
+    "geom:latitude":23.6463,
+    "geom:longitude":89.32476,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4044.0",
+    "gn:admin3_code":"404480.0",
+    "gn:admin4_code":"40448012.0",
+    "gn:asciiname":"Aodha",
+    "gn:country_code":"BD",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1212648,
+    "gn:latitude":23.6463,
+    "gn:longitude":89.32476,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"\u0100odha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        1108694679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1212648
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"4b59e786d0f70279324286f241d27c3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694679,
+            "locality_id":1310139121,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1310139121,
+    "wof:lastmodified":1536948385,
+    "wof:name":"Aodha",
+    "wof:parent_id":1108694679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.32476,
+    23.6463,
+    89.32476,
+    23.6463
+],
+  "geometry": {"coordinates":[89.32476,23.6463],"type":"Point"}
+}

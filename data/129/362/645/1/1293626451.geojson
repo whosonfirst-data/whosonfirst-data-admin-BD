@@ -1,0 +1,70 @@
+{
+  "id": 1293626451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.10702,23.67825,90.10702,23.67825",
+    "geom:latitude":23.67825,
+    "geom:longitude":90.10702,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3026",
+    "gn:admin3_code":"302662.0",
+    "gn:admin4_code":"30266281.0",
+    "gn:asciiname":"Lalsri",
+    "gn:country_code":"BD",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1196208,
+    "gn:latitude":23.67825,
+    "gn:longitude":90.10702,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"L\u0101lsri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421187803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1196208
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"4498a6225ead307d5ee57806723812ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421187803,
+            "locality_id":1293626451,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1293626451,
+    "wof:lastmodified":1537080633,
+    "wof:name":"Lalsri",
+    "wof:parent_id":421187803,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.10702,
+    23.67825,
+    90.10702,
+    23.67825
+],
+  "geometry": {"coordinates":[90.10702000000001,23.67825],"type":"Point"}
+}

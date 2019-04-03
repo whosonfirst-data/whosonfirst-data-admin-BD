@@ -1,0 +1,75 @@
+{
+  "id": 1259713451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.51229,23.53742,90.51229,23.53742",
+    "geom:latitude":23.53742,
+    "geom:longitude":90.51229,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3059.0",
+    "gn:admin3_code":"305956.0",
+    "gn:admin4_code":"30595676.0",
+    "gn:asciiname":"Ranchar Champatali",
+    "gn:country_code":"BD",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1207225,
+    "gn:latitude":23.53742,
+    "gn:longitude":90.51229,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Ranchar Ch\u0101mp\u0101tali",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chapatali",
+        "Ch\u0101np\u0101tali",
+        "Ranchar Ch\u0101mp\u0101tali"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421205059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1207225
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"917d5e80a906c77317f91c05a47d760c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421205059,
+            "locality_id":1259713451,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1259713451,
+    "wof:lastmodified":1537586106,
+    "wof:name":"Ranchar Champatali",
+    "wof:parent_id":421205059,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.51229,
+    23.53742,
+    90.51229,
+    23.53742
+],
+  "geometry": {"coordinates":[90.51228999999999,23.53742],"type":"Point"}
+}

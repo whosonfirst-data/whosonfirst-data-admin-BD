@@ -1,0 +1,70 @@
+{
+  "id": 1326872449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.23333,23.38333,91.23333,23.38333",
+    "geom:latitude":23.38333,
+    "geom:longitude":91.23333,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2019",
+    "gn:admin3_code":"201968.0",
+    "gn:admin4_code":"20196880.0",
+    "gn:asciiname":"Ulain",
+    "gn:country_code":"BD",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1185801,
+    "gn:latitude":23.38333,
+    "gn:longitude":91.23333,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Ulain",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421187801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1185801
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"b4aa23082b3455ee5a3187c650d32172",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421187801,
+            "locality_id":1326872449,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1326872449,
+    "wof:lastmodified":1536990116,
+    "wof:name":"Ulain",
+    "wof:parent_id":421187801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.23333,
+    23.38333,
+    91.23333,
+    23.38333
+],
+  "geometry": {"coordinates":[91.23333,23.38333],"type":"Point"}
+}

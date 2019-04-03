@@ -1,0 +1,70 @@
+{
+  "id": 1293821305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.32354,23.94453,90.32354,23.94453",
+    "geom:latitude":23.94453,
+    "geom:longitude":90.32354,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3026.0",
+    "gn:admin3_code":"302672.0",
+    "gn:admin4_code":"30267294.0",
+    "gn:asciiname":"Diakhali",
+    "gn:country_code":"BD",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1204097,
+    "gn:latitude":23.94453,
+    "gn:longitude":90.32354,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Diakh\u0101li",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421187803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1204097
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"451599a78b30f3542f471f92e1bfae6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421187803,
+            "locality_id":1293821305,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1293821305,
+    "wof:lastmodified":1536802785,
+    "wof:name":"Diakhali",
+    "wof:parent_id":421187803,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.32354,
+    23.94453,
+    90.32354,
+    23.94453
+],
+  "geometry": {"coordinates":[90.32353999999999,23.94453],"type":"Point"}
+}

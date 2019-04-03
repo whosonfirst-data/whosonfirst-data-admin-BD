@@ -1,0 +1,70 @@
+{
+  "id": 1343394291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.49069,24.16015,90.49069,24.16015",
+    "geom:latitude":24.16015,
+    "geom:longitude":90.49069,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3033.0",
+    "gn:admin3_code":"303386.0",
+    "gn:admin4_code":"30338628.0",
+    "gn:asciiname":"Bauni",
+    "gn:country_code":"BD",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1209806,
+    "gn:latitude":24.16015,
+    "gn:longitude":90.49069,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"B\u0101uni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421203493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1209806
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"24e39fc11e86370b5ef02fd4f0606b7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421203493,
+            "locality_id":1343394291,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1343394291,
+    "wof:lastmodified":1536840728,
+    "wof:name":"Bauni",
+    "wof:parent_id":421203493,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.49069,
+    24.16015,
+    90.49069,
+    24.16015
+],
+  "geometry": {"coordinates":[90.49069,24.16015],"type":"Point"}
+}

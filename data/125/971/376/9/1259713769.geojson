@@ -1,0 +1,73 @@
+{
+  "id": 1259713769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.75823,22.32615,90.75823,22.32615",
+    "geom:latitude":22.32615,
+    "geom:longitude":90.75823,
+    "gn:admin1_code":"85",
+    "gn:admin2_code":"1009.0",
+    "gn:admin3_code":"100954.0",
+    "gn:admin4_code":"10095419.0",
+    "gn:asciiname":"Lalmchan",
+    "gn:country_code":"BD",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7478359,
+    "gn:latitude":22.32615,
+    "gn:longitude":90.75823,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"L\u0101lmchan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "L\u0101lmchan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669019,
+        421184491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7478359
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"1ca745c1f1224845649b461f030c49d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421184491,
+            "locality_id":1259713769,
+            "region_id":85669019
+        }
+    ],
+    "wof:id":1259713769,
+    "wof:lastmodified":1537586389,
+    "wof:name":"Lalmchan",
+    "wof:parent_id":421184491,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.75823,
+    22.32615,
+    90.75823,
+    22.32615
+],
+  "geometry": {"coordinates":[90.75823,22.32615],"type":"Point"}
+}

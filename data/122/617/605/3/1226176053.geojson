@@ -1,0 +1,73 @@
+{
+  "id": 1226176053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.6857,23.75222,89.6857,23.75222",
+    "geom:latitude":23.75222,
+    "geom:longitude":89.6857,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3082.0",
+    "gn:admin3_code":"308276.0",
+    "gn:admin4_code":"30827636.0",
+    "gn:asciiname":"Joyrampur",
+    "gn:country_code":"BD",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7480099,
+    "gn:latitude":23.75222,
+    "gn:longitude":89.6857,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Joyrampur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Joyrampur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        1108694699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7480099
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"ba75b514ae518c88d23be7b0f9831478",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694699,
+            "locality_id":1226176053,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1226176053,
+    "wof:lastmodified":1537586440,
+    "wof:name":"Joyrampur",
+    "wof:parent_id":1108694699,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.6857,
+    23.75222,
+    89.6857,
+    23.75222
+],
+  "geometry": {"coordinates":[89.6857,23.75222],"type":"Point"}
+}

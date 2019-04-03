@@ -1,0 +1,70 @@
+{
+  "id": 1226379945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.20442,25.74444,89.20442,25.74444",
+    "geom:latitude":25.74444,
+    "geom:longitude":89.20442,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5585",
+    "gn:admin3_code":"558549.0",
+    "gn:admin4_code":"55854971.0",
+    "gn:asciiname":"Pirzabad",
+    "gn:country_code":"BD",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1191053,
+    "gn:latitude":25.74444,
+    "gn:longitude":89.20442,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"P\u012brz\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1191053
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"75b5138dc1bf4f0a619e19a8b14c3ec7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694701,
+            "locality_id":1226379945,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1226379945,
+    "wof:lastmodified":1536740006,
+    "wof:name":"Pirzabad",
+    "wof:parent_id":1108694701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.20442,
+    25.74444,
+    89.20442,
+    25.74444
+],
+  "geometry": {"coordinates":[89.20442,25.74444],"type":"Point"}
+}

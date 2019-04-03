@@ -1,0 +1,73 @@
+{
+  "id": 1327271279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.45785,24.8342,88.45785,24.8342",
+    "geom:latitude":24.8342,
+    "geom:longitude":88.45785,
+    "gn:admin1_code":"83",
+    "gn:admin2_code":"5064.0",
+    "gn:admin3_code":"506469.0",
+    "gn:admin4_code":"50646973.0",
+    "gn:asciiname":"Birondanga",
+    "gn:country_code":"BD",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7489448,
+    "gn:latitude":24.8342,
+    "gn:longitude":88.45785,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Birond\u0101nga",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Birond\u0101nga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669031,
+        421191663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7489448
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"58b8e6b175fd8c152f3e090edf7a15c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421191663,
+            "locality_id":1327271279,
+            "region_id":85669031
+        }
+    ],
+    "wof:id":1327271279,
+    "wof:lastmodified":1537586697,
+    "wof:name":"Birondanga",
+    "wof:parent_id":421191663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.45785,
+    24.8342,
+    88.45785,
+    24.8342
+],
+  "geometry": {"coordinates":[88.45784999999999,24.8342],"type":"Point"}
+}

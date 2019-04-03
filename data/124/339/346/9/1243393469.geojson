@@ -1,0 +1,73 @@
+{
+  "id": 1243393469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.85438,24.99976,88.85438,24.99976",
+    "geom:latitude":24.99976,
+    "geom:longitude":88.85438,
+    "gn:admin1_code":"83",
+    "gn:admin2_code":"5064",
+    "gn:admin3_code":"506450.0",
+    "gn:admin4_code":"50645076.0",
+    "gn:asciiname":"Maijora",
+    "gn:country_code":"BD",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1195417,
+    "gn:latitude":24.99976,
+    "gn:longitude":88.85438,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Maijora",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Maijora"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669031,
+        421191663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1195417
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"c70e372e41e0909bf663c113690f3f2b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421191663,
+            "locality_id":1243393469,
+            "region_id":85669031
+        }
+    ],
+    "wof:id":1243393469,
+    "wof:lastmodified":1537585887,
+    "wof:name":"Maijora",
+    "wof:parent_id":421191663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.85438,
+    24.99976,
+    88.85438,
+    24.99976
+],
+  "geometry": {"coordinates":[88.85438000000001,24.99976],"type":"Point"}
+}

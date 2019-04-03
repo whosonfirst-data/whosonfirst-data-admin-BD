@@ -1,0 +1,70 @@
+{
+  "id": 1276795191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.29771,25.50772,89.29771,25.50772",
+    "geom:latitude":25.50772,
+    "geom:longitude":89.29771,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5585",
+    "gn:admin3_code":"558576.0",
+    "gn:admin4_code":"55857612.0",
+    "gn:asciiname":"Sakipur",
+    "gn:country_code":"BD",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7890321,
+    "gn:latitude":25.50772,
+    "gn:longitude":89.29771,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Sakipur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7890321
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"d75b6693b1e2642c9b1c1313e0017192",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694701,
+            "locality_id":1276795191,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1276795191,
+    "wof:lastmodified":1536657317,
+    "wof:name":"Sakipur",
+    "wof:parent_id":1108694701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.29771,
+    25.50772000000001,
+    89.29771,
+    25.50772000000001
+],
+  "geometry": {"coordinates":[89.29771,25.50772000000001],"type":"Point"}
+}

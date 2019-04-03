@@ -1,0 +1,73 @@
+{
+  "id": 1226698567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"92.07476,21.76977,92.07476,21.76977",
+    "geom:latitude":21.76977,
+    "geom:longitude":92.07476,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2022.0",
+    "gn:admin3_code":"202216.0",
+    "gn:admin4_code":"20221655.0",
+    "gn:asciiname":"Dakshin Lakhyachar",
+    "gn:country_code":"BD",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6414906,
+    "gn:latitude":21.76977,
+    "gn:longitude":92.07476,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Dakshin Lakhy\u0101char",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Dakshin Lakhy\u0101char"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421205057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6414906
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"3eda5e49a6246a5f2b25c7cf8ef00927",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421205057,
+            "locality_id":1226698567,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1226698567,
+    "wof:lastmodified":1537586235,
+    "wof:name":"Dakshin Lakhyachar",
+    "wof:parent_id":421205057,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    92.07476,
+    21.76977,
+    92.07476,
+    21.76977
+],
+  "geometry": {"coordinates":[92.07476,21.76977],"type":"Point"}
+}

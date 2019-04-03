@@ -1,0 +1,70 @@
+{
+  "id": 1343594877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.10372,25.16422,90.10372,25.16422",
+    "geom:latitude":25.16422,
+    "geom:longitude":90.10372,
+    "gn:admin1_code":"H",
+    "gn:admin2_code":"3089",
+    "gn:admin3_code":"308937.0",
+    "gn:admin4_code":"30893760.0",
+    "gn:asciiname":"Gazrikura",
+    "gn:country_code":"BD",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7913753,
+    "gn:latitude":25.16422,
+    "gn:longitude":90.10372,
+    "gn:modification_date":"2016-11-17",
+    "gn:name":"Gazrikura",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        1108803101,
+        421190979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7913753
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"65577efeba771190fa9d08550fe350da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421190979,
+            "locality_id":1343594877,
+            "region_id":1108803101
+        }
+    ],
+    "wof:id":1343594877,
+    "wof:lastmodified":1537047742,
+    "wof:name":"Gazrikura",
+    "wof:parent_id":421190979,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.10372,
+    25.16422,
+    90.10372,
+    25.16422
+],
+  "geometry": {"coordinates":[90.10372,25.16422],"type":"Point"}
+}

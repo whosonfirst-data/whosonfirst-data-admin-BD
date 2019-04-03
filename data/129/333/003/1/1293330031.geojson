@@ -1,0 +1,73 @@
+{
+  "id": 1293330031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.29692,25.45157,89.29692,25.45157",
+    "geom:latitude":25.45157,
+    "geom:longitude":89.29692,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5585",
+    "gn:admin3_code":"558576.0",
+    "gn:admin4_code":"55857669.0",
+    "gn:asciiname":"Bajitpur",
+    "gn:country_code":"BD",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7891534,
+    "gn:latitude":25.45157,
+    "gn:longitude":89.29692,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Bajitpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Bajitpur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7891534
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"34f8d07a0230f95ed1f998d252470934",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694701,
+            "locality_id":1293330031,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1293330031,
+    "wof:lastmodified":1537586752,
+    "wof:name":"Bajitpur",
+    "wof:parent_id":1108694701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.29692,
+    25.45157,
+    89.29692,
+    25.45157
+],
+  "geometry": {"coordinates":[89.29692,25.45157],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1225886951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.95094,23.79674,90.95094,23.79674",
+    "geom:latitude":23.79674,
+    "geom:longitude":90.95094,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2012.0",
+    "gn:admin3_code":"201285.0",
+    "gn:admin4_code":"20128583.0",
+    "gn:asciiname":"Chelikhola",
+    "gn:country_code":"BD",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1206274,
+    "gn:latitude":23.79674,
+    "gn:longitude":90.95094,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Chelikhola",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        1108694667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1206274
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"7cd8d162e73f2784c15b1febb4f81146",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694667,
+            "locality_id":1225886951,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1225886951,
+    "wof:lastmodified":1536954422,
+    "wof:name":"Chelikhola",
+    "wof:parent_id":1108694667,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.95094,
+    23.79674,
+    90.95094,
+    23.79674
+],
+  "geometry": {"coordinates":[90.95094,23.79674],"type":"Point"}
+}

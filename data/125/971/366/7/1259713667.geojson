@@ -1,0 +1,70 @@
+{
+  "id": 1259713667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.96891,23.3096,89.96891,23.3096",
+    "geom:latitude":23.3096,
+    "geom:longitude":89.96891,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3035",
+    "gn:admin3_code":"303558.0",
+    "gn:admin4_code":"30355822.0",
+    "gn:asciiname":"Husiargati",
+    "gn:country_code":"BD",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1200906,
+    "gn:latitude":23.3096,
+    "gn:longitude":89.96891,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Husiarg\u0101ti",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421194867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1200906
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"ab8bfa064da804c875fb6fc0991e0d5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421194867,
+            "locality_id":1259713667,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1259713667,
+    "wof:lastmodified":1537022714,
+    "wof:name":"Husiargati",
+    "wof:parent_id":421194867,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.96891,
+    23.3096,
+    89.96891,
+    23.3096
+],
+  "geometry": {"coordinates":[89.96890999999999,23.3096],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1225982699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.85233,22.92418,90.85233,22.92418",
+    "geom:latitude":22.92418,
+    "geom:longitude":90.85233,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2051",
+    "gn:admin3_code":"205143.0",
+    "gn:admin4_code":"20514360.0",
+    "gn:asciiname":"Laharkandi",
+    "gn:country_code":"BD",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1196412,
+    "gn:latitude":22.92418,
+    "gn:longitude":90.85233,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"L\u0101h\u0101rk\u0101ndi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421166521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1196412
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"0a444d8b81ee013cbcb1b0865b8fb5b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421166521,
+            "locality_id":1225982699,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1225982699,
+    "wof:lastmodified":1536815196,
+    "wof:name":"Laharkandi",
+    "wof:parent_id":421166521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.85233,
+    22.92418,
+    90.85233,
+    22.92418
+],
+  "geometry": {"coordinates":[90.85232999999999,22.92418],"type":"Point"}
+}

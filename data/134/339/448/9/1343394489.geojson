@@ -1,0 +1,70 @@
+{
+  "id": 1343394489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.46951,24.96104,89.46951,24.96104",
+    "geom:latitude":24.96104,
+    "geom:longitude":89.46951,
+    "gn:admin1_code":"83",
+    "gn:admin2_code":"5010",
+    "gn:admin3_code":"501095.0",
+    "gn:admin4_code":"50109531.0",
+    "gn:asciiname":"Madaripara",
+    "gn:country_code":"BD",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1195910,
+    "gn:latitude":24.96104,
+    "gn:longitude":89.46951,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"M\u0101d\u0101rip\u0101ra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669031,
+        421187793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1195910
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"741de76a387e5c684176e5290b3c8f4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421187793,
+            "locality_id":1343394489,
+            "region_id":85669031
+        }
+    ],
+    "wof:id":1343394489,
+    "wof:lastmodified":1536840450,
+    "wof:name":"Madaripara",
+    "wof:parent_id":421187793,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.46951,
+    24.96104,
+    89.46951,
+    24.96104
+],
+  "geometry": {"coordinates":[89.46951,24.96104],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1276795059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.70462,23.22856,89.70462,23.22856",
+    "geom:latitude":23.22856,
+    "geom:longitude":89.70462,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3029.0",
+    "gn:admin3_code":"302903.0",
+    "gn:admin4_code":"30290384.0",
+    "gn:asciiname":"Tagarbanda",
+    "gn:country_code":"BD",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7480205,
+    "gn:latitude":23.22856,
+    "gn:longitude":89.70462,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Tagarbanda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Tagarbanda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421198063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7480205
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"2873b85b4e5584034e58865205751af0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421198063,
+            "locality_id":1276795059,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1276795059,
+    "wof:lastmodified":1537586443,
+    "wof:name":"Tagarbanda",
+    "wof:parent_id":421198063,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.70461999999998,
+    23.22856,
+    89.70461999999998,
+    23.22856
+],
+  "geometry": {"coordinates":[89.70461999999998,23.22856],"type":"Point"}
+}

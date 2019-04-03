@@ -1,0 +1,67 @@
+{
+  "id": 1209135923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.50391,22.30258,90.50391,22.30258",
+    "geom:latitude":22.30258,
+    "geom:longitude":90.50391,
+    "gn:admin1_code":"85",
+    "gn:admin2_code":"1078.0",
+    "gn:admin3_code":"107857.0",
+    "gn:admin4_code":"10785722.0",
+    "gn:asciiname":"Bakulbaria",
+    "gn:country_code":"BD",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7478042,
+    "gn:latitude":22.30258,
+    "gn:longitude":90.50391,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Bakulb\u0101ria",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Bakulb\u0101ria"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7478042
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"0c7554ed4b8fe654b36e3f21044bf779",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209135923
+        }
+    ],
+    "wof:id":1209135923,
+    "wof:lastmodified":1537586381,
+    "wof:name":"Bakulbaria",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.50391,
+    22.30258,
+    90.50391,
+    22.30258
+],
+  "geometry": {"coordinates":[90.50391,22.30258],"type":"Point"}
+}

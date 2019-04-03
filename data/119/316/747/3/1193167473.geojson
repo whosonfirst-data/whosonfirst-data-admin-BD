@@ -1,0 +1,70 @@
+{
+  "id": 1193167473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.46285,23.75012,90.46285,23.75012",
+    "geom:latitude":23.75012,
+    "geom:longitude":90.46285,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3026.0",
+    "gn:admin3_code":"302640.0",
+    "gn:admin4_code":"30264008.0",
+    "gn:asciiname":"Amalia",
+    "gn:country_code":"BD",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1212898,
+    "gn:latitude":23.75012,
+    "gn:longitude":90.46285,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"\u0100malia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421187803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1212898
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"ee5af60bb8dc883868810a6c964f100f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421187803,
+            "locality_id":1193167473,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1193167473,
+    "wof:lastmodified":1536384106,
+    "wof:name":"Amalia",
+    "wof:parent_id":421187803,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.46285,
+    23.75012000000001,
+    90.46285,
+    23.75012000000001
+],
+  "geometry": {"coordinates":[90.46285,23.75012000000001],"type":"Point"}
+}

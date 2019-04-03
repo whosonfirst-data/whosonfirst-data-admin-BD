@@ -1,0 +1,70 @@
+{
+  "id": 1209845857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.25697,25.13429,89.25697,25.13429",
+    "geom:latitude":25.13429,
+    "geom:longitude":89.25697,
+    "gn:admin1_code":"83",
+    "gn:asciiname":"Dublagari",
+    "gn:country_code":"BD",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7889681,
+    "gn:latitude":25.13429,
+    "gn:longitude":89.25697,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Dublag\u0101ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Dublag\u0101ri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7889681
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"ccc0c00529476a37cc967384dd0196e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694675,
+            "locality_id":1209845857,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1209845857,
+    "wof:lastmodified":1537586737,
+    "wof:name":"Dublagari",
+    "wof:parent_id":1108694675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.25697,
+    25.13429,
+    89.25697,
+    25.13429
+],
+  "geometry": {"coordinates":[89.25697,25.13429],"type":"Point"}
+}

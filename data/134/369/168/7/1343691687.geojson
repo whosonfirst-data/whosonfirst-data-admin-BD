@@ -1,0 +1,73 @@
+{
+  "id": 1343691687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.98751,22.2738,89.98751,22.2738",
+    "geom:latitude":22.2738,
+    "geom:longitude":89.98751,
+    "gn:admin1_code":"85",
+    "gn:admin2_code":"1079",
+    "gn:admin3_code":"107958.0",
+    "gn:admin4_code":"10795886.0",
+    "gn:asciiname":"Ghoser Tikikata",
+    "gn:country_code":"BD",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8534475,
+    "gn:latitude":22.2738,
+    "gn:longitude":89.98751,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Ghoser Tikikata",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Ghoser Tikikata"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669019,
+        421172031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8534475
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"ff2d9184c00b294d03ec0b29919aa7d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421172031,
+            "locality_id":1343691687,
+            "region_id":85669019
+        }
+    ],
+    "wof:id":1343691687,
+    "wof:lastmodified":1537586869,
+    "wof:name":"Ghoser Tikikata",
+    "wof:parent_id":421172031,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.98751,
+    22.2738,
+    89.98751,
+    22.2738
+],
+  "geometry": {"coordinates":[89.98751,22.2738],"type":"Point"}
+}

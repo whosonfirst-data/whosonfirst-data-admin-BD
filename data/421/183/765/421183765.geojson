@@ -1,0 +1,85 @@
+{
+  "id": 421183765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.83431,24.36537,88.83431,24.36537",
+    "geom:latitude":24.36537,
+    "geom:longitude":88.83431,
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ben_x_preferred":[
+        "Puthia"
+    ],
+    "name:eng_x_preferred":[
+        "Puthia"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0443\u0442\u0445\u0438\u044f"
+    ],
+    "qs:gn_country":"BD",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":7483743,
+    "qs:gn_pop":0,
+    "qs:name":"Puthia",
+    "qs:name_adm0":"Bangladesh",
+    "qs:name_adm1":"Rajshahi",
+    "qs:photos":64,
+    "qs:photos_1k":13,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":64,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":983995,
+    "qs:woe_adm0":23424759,
+    "qs:woe_id":1915201,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669031,
+        421172439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7483743,
+        "gp:id":1915201,
+        "qs:id":983995
+    },
+    "wof:country":"BD",
+    "wof:created":1459009381,
+    "wof:geomhash":"65ea537a6fce30d9599e9055e8e7b377",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421172439,
+            "locality_id":421183765,
+            "region_id":85669031
+        }
+    ],
+    "wof:id":421183765,
+    "wof:lastmodified":1501273219,
+    "wof:name":"Puthia",
+    "wof:parent_id":421172439,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.83431,
+    24.36537,
+    88.83431,
+    24.36537
+],
+  "geometry": {"coordinates":[88.83431,24.36537],"type":"Point"}
+}

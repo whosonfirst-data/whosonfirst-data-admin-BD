@@ -1,0 +1,73 @@
+{
+  "id": 1310333545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.68008,25.73792,89.68008,25.73792",
+    "geom:latitude":25.73792,
+    "geom:longitude":89.68008,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5549",
+    "gn:admin3_code":"554994.0",
+    "gn:admin4_code":"55499422.0",
+    "gn:asciiname":"Buraburi",
+    "gn:country_code":"BD",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7926375,
+    "gn:latitude":25.73792,
+    "gn:longitude":89.68008,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Bur\u0101buri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Bur\u0101buri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7926375
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"4273e5ab38bf98578925275f7182f181",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694685,
+            "locality_id":1310333545,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1310333545,
+    "wof:lastmodified":1537586822,
+    "wof:name":"Buraburi",
+    "wof:parent_id":1108694685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.68008,
+    25.73792000000001,
+    89.68008,
+    25.73792000000001
+],
+  "geometry": {"coordinates":[89.68008,25.73792000000001],"type":"Point"}
+}

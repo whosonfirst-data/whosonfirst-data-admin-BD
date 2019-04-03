@@ -1,0 +1,70 @@
+{
+  "id": 1259909975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.24967,23.09885,89.24967,23.09885",
+    "geom:latitude":23.09885,
+    "geom:longitude":89.24967,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4041.0",
+    "gn:admin3_code":"404147.0",
+    "gn:admin4_code":"40414792.0",
+    "gn:asciiname":"Bahir Mallik",
+    "gn:country_code":"BD",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1211714,
+    "gn:latitude":23.09885,
+    "gn:longitude":89.24967,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"B\u0101hir Mallik",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        421176039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1211714
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"9d6c4f6002b1297d15128b1352940e8c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421176039,
+            "locality_id":1259909975,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1259909975,
+    "wof:lastmodified":1536740907,
+    "wof:name":"Bahir Mallik",
+    "wof:parent_id":421176039,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.24967,
+    23.09885,
+    89.24967,
+    23.09885
+],
+  "geometry": {"coordinates":[89.24966999999999,23.09885],"type":"Point"}
+}

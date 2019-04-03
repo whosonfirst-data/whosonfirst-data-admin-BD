@@ -1,0 +1,70 @@
+{
+  "id": 1277012469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.99554,25.24563,88.99554,25.24563",
+    "geom:latitude":25.24563,
+    "geom:longitude":88.99554,
+    "gn:admin1_code":"87",
+    "gn:asciiname":"Doghara",
+    "gn:country_code":"BD",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7481710,
+    "gn:latitude":25.24563,
+    "gn:longitude":88.99554,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Doghara",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Doghara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669031,
+        1108694681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7481710
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"7ed4591b3eade091031e49613e8c0916",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694681,
+            "locality_id":1277012469,
+            "region_id":85669031
+        }
+    ],
+    "wof:id":1277012469,
+    "wof:lastmodified":1537586487,
+    "wof:name":"Doghara",
+    "wof:parent_id":1108694681,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.99554,
+    25.24563,
+    88.99554,
+    25.24563
+],
+  "geometry": {"coordinates":[88.99554000000001,25.24563],"type":"Point"}
+}

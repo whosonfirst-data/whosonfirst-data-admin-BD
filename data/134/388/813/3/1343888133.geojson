@@ -1,0 +1,70 @@
+{
+  "id": 1343888133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.51853,22.02713,90.51853,22.02713",
+    "geom:latitude":22.02713,
+    "geom:longitude":90.51853,
+    "gn:admin1_code":"82",
+    "gn:asciiname":"Dakshin Char Biswas",
+    "gn:country_code":"BD",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7478289,
+    "gn:latitude":22.02713,
+    "gn:longitude":90.51853,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"Dakshin Char Biswas",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Dakshin Char Biswas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669019,
+        421169845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7478289
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"fc76de0d09618b5b282c2f31fde0fd14",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421169845,
+            "locality_id":1343888133,
+            "region_id":85669019
+        }
+    ],
+    "wof:id":1343888133,
+    "wof:lastmodified":1537586388,
+    "wof:name":"Dakshin Char Biswas",
+    "wof:parent_id":421169845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.51853,
+    22.02713,
+    90.51853,
+    22.02713
+],
+  "geometry": {"coordinates":[90.51853,22.02713],"type":"Point"}
+}

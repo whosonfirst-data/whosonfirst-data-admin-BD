@@ -1,0 +1,75 @@
+{
+  "id": 1192966867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.96251,23.16301,90.96251,23.16301",
+    "geom:latitude":23.16301,
+    "geom:longitude":90.96251,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2013.0",
+    "gn:admin3_code":"201395.0",
+    "gn:admin4_code":"20139520.0",
+    "gn:asciiname":"Ayanatali",
+    "gn:country_code":"BD",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1212218,
+    "gn:latitude":23.16301,
+    "gn:longitude":90.96251,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Ay\u0101natali",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0100yn\u0101tali",
+        "Ay\u0101natali"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        1108694669
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1212218,
+        "wk:page":"Aynatali"
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"1e4625243297bf9c5804013fe5f0d3ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694669,
+            "locality_id":1192966867,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1192966867,
+    "wof:lastmodified":1537586191,
+    "wof:name":"Ayanatali",
+    "wof:parent_id":1108694669,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.96251,
+    23.16301,
+    90.96251,
+    23.16301
+],
+  "geometry": {"coordinates":[90.96250999999999,23.16301],"type":"Point"}
+}

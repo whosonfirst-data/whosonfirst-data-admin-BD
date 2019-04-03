@@ -1,0 +1,70 @@
+{
+  "id": 1276472699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.8507,23.76065,89.8507,23.76065",
+    "geom:latitude":23.76065,
+    "geom:longitude":89.8507,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3056.0",
+    "gn:admin3_code":"305678.0",
+    "gn:admin4_code":"30567811.0",
+    "gn:asciiname":"Chhota Kokranda",
+    "gn:country_code":"BD",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1205934,
+    "gn:latitude":23.76065,
+    "gn:longitude":89.8507,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Chhota Kokranda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421191745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1205934
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"efdd51e68ec6fab1faaf6ca9c9b32af0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421191745,
+            "locality_id":1276472699,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1276472699,
+    "wof:lastmodified":1537086216,
+    "wof:name":"Chhota Kokranda",
+    "wof:parent_id":421191745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.8507,
+    23.76065,
+    89.8507,
+    23.76065
+],
+  "geometry": {"coordinates":[89.8507,23.76065],"type":"Point"}
+}

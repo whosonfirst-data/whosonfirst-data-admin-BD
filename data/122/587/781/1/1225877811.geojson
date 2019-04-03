@@ -1,0 +1,73 @@
+{
+  "id": 1225877811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.4348,25.67745,89.4348,25.67745",
+    "geom:latitude":25.67745,
+    "geom:longitude":89.4348,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5585.0",
+    "gn:admin3_code":"558573.0",
+    "gn:admin4_code":"55857376.0",
+    "gn:asciiname":"Kismat Jhinia",
+    "gn:country_code":"BD",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7888650,
+    "gn:latitude":25.67745,
+    "gn:longitude":89.4348,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Kismat Jhinia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Kismat Jhinia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7888650
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"1914f23c7c751361f61a25dad11a0ad7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694701,
+            "locality_id":1225877811,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1225877811,
+    "wof:lastmodified":1537586725,
+    "wof:name":"Kismat Jhinia",
+    "wof:parent_id":1108694701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.4348,
+    25.67745,
+    89.4348,
+    25.67745
+],
+  "geometry": {"coordinates":[89.4348,25.67745],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1209248209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.02519,22.03428,90.02519,22.03428",
+    "geom:latitude":22.03428,
+    "geom:longitude":90.02519,
+    "gn:admin1_code":"85",
+    "gn:admin2_code":"1004.0",
+    "gn:admin3_code":"100428.0",
+    "gn:admin4_code":"10042895.0",
+    "gn:asciiname":"Garjanbunia",
+    "gn:country_code":"BD",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7476353,
+    "gn:latitude":22.03428,
+    "gn:longitude":90.02519,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Garjanbunia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Garjanbunia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7476353
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"905fc3ad12bb5d2e3d9ab60be76f5c50",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209248209
+        }
+    ],
+    "wof:id":1209248209,
+    "wof:lastmodified":1537586342,
+    "wof:name":"Garjanbunia",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.02519000000002,
+    22.03428,
+    90.02519000000002,
+    22.03428
+],
+  "geometry": {"coordinates":[90.02519000000002,22.03428],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1259713919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.85163,23.80715,88.85163,23.80715",
+    "geom:latitude":23.80715,
+    "geom:longitude":88.85163,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4018.0",
+    "gn:admin3_code":"401807.0",
+    "gn:admin4_code":"40180723.0",
+    "gn:asciiname":"Bhangbaria",
+    "gn:country_code":"BD",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1209216,
+    "gn:latitude":23.80715,
+    "gn:longitude":88.85163,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Bh\u0101ngb\u0101ria",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Bh\u0101ngb\u0101ria"
+    ],
+    "name:und_x_variant":[
+        "Bhangabaria"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        421194153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1209216
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"d0928bdf9c2ea96a3b1614e2d54d4869",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421194153,
+            "locality_id":1259713919,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1259713919,
+    "wof:lastmodified":1537586143,
+    "wof:name":"Bhangbaria",
+    "wof:parent_id":421194153,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.85163,
+    23.80715,
+    88.85163,
+    23.80715
+],
+  "geometry": {"coordinates":[88.85163,23.80715],"type":"Point"}
+}

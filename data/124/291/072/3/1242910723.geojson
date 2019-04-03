@@ -1,0 +1,75 @@
+{
+  "id": 1242910723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.13165,23.10731,90.13165,23.10731",
+    "geom:latitude":23.10731,
+    "geom:longitude":90.13165,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3054",
+    "gn:admin3_code":"305440.0",
+    "gn:admin4_code":"30544031.0",
+    "gn:asciiname":"Jinbaria",
+    "gn:country_code":"BD",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1199867,
+    "gn:latitude":23.10731,
+    "gn:longitude":90.13165,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Jinb\u0101ria",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zinbari",
+        "Jinb\u0101ri",
+        "Jinb\u0101ria"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421183929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1199867
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"1135834d748003bed9961f9d3a383473",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421183929,
+            "locality_id":1242910723,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1242910723,
+    "wof:lastmodified":1537585968,
+    "wof:name":"Jinbaria",
+    "wof:parent_id":421183929,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.13165,
+    23.10731,
+    90.13165,
+    23.10731
+],
+  "geometry": {"coordinates":[90.13164999999999,23.10731],"type":"Point"}
+}

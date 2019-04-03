@@ -1,0 +1,70 @@
+{
+  "id": 1276804819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.88727,22.42973,89.88727,22.42973",
+    "geom:latitude":22.42973,
+    "geom:longitude":89.88727,
+    "gn:admin1_code":"82",
+    "gn:asciiname":"Paihamara",
+    "gn:country_code":"BD",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7476016,
+    "gn:latitude":22.42973,
+    "gn:longitude":89.88727,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"Paihamara",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Paihamara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        421187747
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7476016
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"c90728e8e36b910835d5fa5f1a140fe7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421187747,
+            "locality_id":1276804819,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1276804819,
+    "wof:lastmodified":1537586334,
+    "wof:name":"Paihamara",
+    "wof:parent_id":421187747,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.88727,
+    22.42973,
+    89.88727,
+    22.42973
+],
+  "geometry": {"coordinates":[89.88727,22.42973],"type":"Point"}
+}

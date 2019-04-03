@@ -1,0 +1,67 @@
+{
+  "id": 1209347993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.12362,21.95994,90.12362,21.95994",
+    "geom:latitude":21.95994,
+    "geom:longitude":90.12362,
+    "gn:admin1_code":"85",
+    "gn:admin2_code":"1004.0",
+    "gn:admin3_code":"100409.0",
+    "gn:admin4_code":"10040939.0",
+    "gn:asciiname":"Karamjapara",
+    "gn:country_code":"BD",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7477710,
+    "gn:latitude":21.95994,
+    "gn:longitude":90.12362,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Karamj\u0101p\u0101ra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Karamj\u0101p\u0101ra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7477710
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"2b3899670f11048dd10babc9e620d4f8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209347993
+        }
+    ],
+    "wof:id":1209347993,
+    "wof:lastmodified":1537586373,
+    "wof:name":"Karamjapara",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.12362,
+    21.95994,
+    90.12362,
+    21.95994
+],
+  "geometry": {"coordinates":[90.12362,21.95994],"type":"Point"}
+}

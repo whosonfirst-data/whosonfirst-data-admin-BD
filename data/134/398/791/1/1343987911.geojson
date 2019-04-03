@@ -1,0 +1,70 @@
+{
+  "id": 1343987911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.66667,23.86667,90.66667,23.86667",
+    "geom:latitude":23.86667,
+    "geom:longitude":90.66667,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3068",
+    "gn:admin3_code":"306860.0",
+    "gn:admin4_code":"30686065.0",
+    "gn:asciiname":"Paulanpur",
+    "gn:country_code":"BD",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1192061,
+    "gn:latitude":23.86667,
+    "gn:longitude":90.66667,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Paulanpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421169707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1192061
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"4e651c3efca6d912e0454d2b7199285e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421169707,
+            "locality_id":1343987911,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1343987911,
+    "wof:lastmodified":1536979846,
+    "wof:name":"Paulanpur",
+    "wof:parent_id":421169707,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.66667,
+    23.86667000000001,
+    90.66667,
+    23.86667000000001
+],
+  "geometry": {"coordinates":[90.66667,23.86667000000001],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1310043089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.09582,21.94647,90.09582,21.94647",
+    "geom:latitude":21.94647,
+    "geom:longitude":90.09582,
+    "gn:admin1_code":"85",
+    "gn:admin2_code":"1004.0",
+    "gn:admin3_code":"100409.0",
+    "gn:admin4_code":"10040939.0",
+    "gn:asciiname":"Talukderpara",
+    "gn:country_code":"BD",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7477707,
+    "gn:latitude":21.94647,
+    "gn:longitude":90.09582,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"T\u0101lukderp\u0101ra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "T\u0101lukderp\u0101ra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669019,
+        421176043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7477707
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"3210493ae23e849bf0a02400483295d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421176043,
+            "locality_id":1310043089,
+            "region_id":85669019
+        }
+    ],
+    "wof:id":1310043089,
+    "wof:lastmodified":1537586373,
+    "wof:name":"Talukderpara",
+    "wof:parent_id":421176043,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.09582,
+    21.94647,
+    90.09582,
+    21.94647
+],
+  "geometry": {"coordinates":[90.09582,21.94647],"type":"Point"}
+}

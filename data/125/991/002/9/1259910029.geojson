@@ -1,0 +1,73 @@
+{
+  "id": 1259910029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.1758,25.8056,88.1758,25.8056",
+    "geom:latitude":25.8056,
+    "geom:longitude":88.1758,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5594.0",
+    "gn:admin3_code":"559451.0",
+    "gn:admin4_code":"55945181.0",
+    "gn:asciiname":"Masalgaon",
+    "gn:country_code":"BD",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7487439,
+    "gn:latitude":25.8056,
+    "gn:longitude":88.1758,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Mas\u0101lgaon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Mas\u0101lgaon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7487439
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"b3947f89b8a20dd7d37a5a2ba4e6d6c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694703,
+            "locality_id":1259910029,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1259910029,
+    "wof:lastmodified":1537586639,
+    "wof:name":"Masalgaon",
+    "wof:parent_id":1108694703,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.1758,
+    25.8056,
+    88.1758,
+    25.8056
+],
+  "geometry": {"coordinates":[88.1758,25.8056],"type":"Point"}
+}

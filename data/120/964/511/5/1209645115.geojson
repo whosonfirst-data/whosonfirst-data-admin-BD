@@ -1,0 +1,64 @@
+{
+  "id": 1209645115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.15584,24.99225,90.15584,24.99225",
+    "geom:latitude":24.99225,
+    "geom:longitude":90.15584,
+    "gn:admin1_code":"H",
+    "gn:admin2_code":"3089.0",
+    "gn:admin3_code":"308967.0",
+    "gn:admin4_code":"30896738.0",
+    "gn:asciiname":"Baraikandi",
+    "gn:country_code":"BD",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1210488,
+    "gn:latitude":24.99225,
+    "gn:longitude":90.15584,
+    "gn:modification_date":"2016-11-17",
+    "gn:name":"B\u0101raik\u0101ndi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1210488
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"c6bbcf09a3670ce28333dcaed6af98ee",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209645115
+        }
+    ],
+    "wof:id":1209645115,
+    "wof:lastmodified":1536280760,
+    "wof:name":"Baraikandi",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.15584,
+    24.99225,
+    90.15584,
+    24.99225
+],
+  "geometry": {"coordinates":[90.15584,24.99225],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1309745491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.51748,22.24337,90.51748,22.24337",
+    "geom:latitude":22.24337,
+    "geom:longitude":90.51748,
+    "gn:admin1_code":"82",
+    "gn:asciiname":"Jauta",
+    "gn:country_code":"BD",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7478212,
+    "gn:latitude":22.24337,
+    "gn:longitude":90.51748,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"Jauta",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Jauta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669019,
+        421169845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7478212
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"14f831084964e6880c6b51ad9e1c9c65",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421169845,
+            "locality_id":1309745491,
+            "region_id":85669019
+        }
+    ],
+    "wof:id":1309745491,
+    "wof:lastmodified":1537586386,
+    "wof:name":"Jauta",
+    "wof:parent_id":421169845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.51748,
+    22.24337,
+    90.51748,
+    22.24337
+],
+  "geometry": {"coordinates":[90.51748000000001,22.24337],"type":"Point"}
+}

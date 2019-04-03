@@ -1,0 +1,74 @@
+{
+  "id": 1242708109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.05315,23.47478,90.05315,23.47478",
+    "geom:latitude":23.47478,
+    "geom:longitude":90.05315,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3029.0",
+    "gn:admin3_code":"302984.0",
+    "gn:admin4_code":"30298485.0",
+    "gn:asciiname":"Dashajar",
+    "gn:country_code":"BD",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1204971,
+    "gn:latitude":23.47478,
+    "gn:longitude":90.05315,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Dash\u0101j\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dash Hazar",
+        "Dash\u0101j\u0101r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421198063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1204971
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"7d4262e41e2dfe6eb1544e0f96742154",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421198063,
+            "locality_id":1242708109,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1242708109,
+    "wof:lastmodified":1537586065,
+    "wof:name":"Dashajar",
+    "wof:parent_id":421198063,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.05315,
+    23.47478,
+    90.05315,
+    23.47478
+],
+  "geometry": {"coordinates":[90.05315,23.47478],"type":"Point"}
+}

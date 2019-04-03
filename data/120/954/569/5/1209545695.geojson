@@ -1,0 +1,67 @@
+{
+  "id": 1209545695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.05704,25.14215,89.05704,25.14215",
+    "geom:latitude":25.14215,
+    "geom:longitude":89.05704,
+    "gn:admin1_code":"83",
+    "gn:admin2_code":"5038.0",
+    "gn:admin3_code":"503847.0",
+    "gn:admin4_code":"50384785.0",
+    "gn:asciiname":"Dastapur",
+    "gn:country_code":"BD",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7887982,
+    "gn:latitude":25.14215,
+    "gn:longitude":89.05704,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Dastapur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Dastapur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7887982
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"8a7c1b081b9b96830b5d88d771bc6565",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209545695
+        }
+    ],
+    "wof:id":1209545695,
+    "wof:lastmodified":1537586719,
+    "wof:name":"Dastapur",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.05704,
+    25.14215,
+    89.05704,
+    25.14215
+],
+  "geometry": {"coordinates":[89.05704,25.14215],"type":"Point"}
+}

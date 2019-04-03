@@ -1,0 +1,74 @@
+{
+  "id": 1309854335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.04079,24.16321,91.04079,24.16321",
+    "geom:latitude":24.16321,
+    "geom:longitude":91.04079,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2012.0",
+    "gn:admin3_code":"201294.0",
+    "gn:admin4_code":"20129409.0",
+    "gn:asciiname":"Aruail",
+    "gn:country_code":"BD",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1212467,
+    "gn:latitude":24.16321,
+    "gn:longitude":91.04079,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"\u0100ru\u0101il",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Awrail",
+        "\u0100ru\u0101il"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        1108694667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1212467
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"217c0530b91e47645758626c37f50fec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694667,
+            "locality_id":1309854335,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1309854335,
+    "wof:lastmodified":1537586196,
+    "wof:name":"Aruail",
+    "wof:parent_id":1108694667,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.04079,
+    24.16321,
+    91.04079,
+    24.16321
+],
+  "geometry": {"coordinates":[91.04079,24.16321],"type":"Point"}
+}

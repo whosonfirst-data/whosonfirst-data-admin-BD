@@ -1,0 +1,70 @@
+{
+  "id": 1293920933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.40711,25.16552,89.40711,25.16552",
+    "geom:latitude":25.16552,
+    "geom:longitude":89.40711,
+    "gn:admin1_code":"83",
+    "gn:asciiname":"Fatullahpur",
+    "gn:country_code":"BD",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7891346,
+    "gn:latitude":25.16552,
+    "gn:longitude":89.40711,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Fatull\u0101hpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Fatull\u0101hpur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7891346
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"132f04888928787e7331cd858f96b8c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694675,
+            "locality_id":1293920933,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1293920933,
+    "wof:lastmodified":1537586751,
+    "wof:name":"Fatullahpur",
+    "wof:parent_id":1108694675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.40711,
+    25.16552,
+    89.40711,
+    25.16552
+],
+  "geometry": {"coordinates":[89.40711,25.16552],"type":"Point"}
+}

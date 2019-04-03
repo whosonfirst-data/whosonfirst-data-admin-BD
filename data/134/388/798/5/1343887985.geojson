@@ -1,0 +1,73 @@
+{
+  "id": 1343887985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.02299,23.44955,89.02299,23.44955",
+    "geom:latitude":23.44955,
+    "geom:longitude":89.02299,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4044.0",
+    "gn:admin3_code":"404442.0",
+    "gn:admin4_code":"40444267.0",
+    "gn:asciiname":"Brahmapur",
+    "gn:country_code":"BD",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7633952,
+    "gn:latitude":23.44955,
+    "gn:longitude":89.02299,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Brahmapur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Brahmapur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        1108694679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7633952
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"fdbf72523073431413363c94c1c0dcaa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694679,
+            "locality_id":1343887985,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1343887985,
+    "wof:lastmodified":1537586698,
+    "wof:name":"Brahmapur",
+    "wof:parent_id":1108694679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.02299000000002,
+    23.44955,
+    89.02299000000002,
+    23.44955
+],
+  "geometry": {"coordinates":[89.02299000000002,23.44955],"type":"Point"}
+}

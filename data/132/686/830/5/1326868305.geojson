@@ -1,0 +1,73 @@
+{
+  "id": 1326868305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"92.05255,22.11633,92.05255,22.11633",
+    "geom:latitude":22.11633,
+    "geom:longitude":92.05255,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2015.0",
+    "gn:admin3_code":"201582.0",
+    "gn:admin4_code":"20158269.0",
+    "gn:asciiname":"Konkarikilpara",
+    "gn:country_code":"BD",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6416352,
+    "gn:latitude":22.11633,
+    "gn:longitude":92.05255,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Konkarikilp\u0101ra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Konkarikilp\u0101ra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421201541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6416352
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"dc9fdb0e3d3949f4b84c4d448688077a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421201541,
+            "locality_id":1326868305,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1326868305,
+    "wof:lastmodified":1537586261,
+    "wof:name":"Konkarikilpara",
+    "wof:parent_id":421201541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    92.05255,
+    22.11633,
+    92.05255,
+    22.11633
+],
+  "geometry": {"coordinates":[92.05255,22.11633],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1259909873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.2862,22.5327,90.2862,22.5327",
+    "geom:latitude":22.5327,
+    "geom:longitude":90.2862,
+    "gn:admin1_code":"85",
+    "gn:admin2_code":"1006.0",
+    "gn:admin3_code":"100607.0",
+    "gn:admin4_code":"10060794.0",
+    "gn:asciiname":"Biharipur",
+    "gn:country_code":"BD",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1208750,
+    "gn:latitude":22.5327,
+    "gn:longitude":90.2862,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Bih\u0101ripur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bih\u0101ripur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669019,
+        421187745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1208750,
+        "wk:page":"Biharipur"
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"10c3e01496963087bb682781c1daf9fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421187745,
+            "locality_id":1259909873,
+            "region_id":85669019
+        }
+    ],
+    "wof:id":1259909873,
+    "wof:lastmodified":1537586135,
+    "wof:name":"Biharipur",
+    "wof:parent_id":421187745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.2862,
+    22.5327,
+    90.2862,
+    22.5327
+],
+  "geometry": {"coordinates":[90.28619999999999,22.5327],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1293034173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.93333,23.91667,89.93333,23.91667",
+    "geom:latitude":23.91667,
+    "geom:longitude":89.93333,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3056.0",
+    "gn:admin3_code":"305622.0",
+    "gn:admin4_code":"30562283.0",
+    "gn:asciiname":"Bri Panchuria",
+    "gn:country_code":"BD",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1208055,
+    "gn:latitude":23.91667,
+    "gn:longitude":89.93333,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Bri P\u0101nchuria",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421191745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1208055
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"65a4c70314905a7c8c2e882f4e5ef084",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421191745,
+            "locality_id":1293034173,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1293034173,
+    "wof:lastmodified":1536944187,
+    "wof:name":"Bri Panchuria",
+    "wof:parent_id":421191745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.93333,
+    23.91667,
+    89.93333,
+    23.91667
+],
+  "geometry": {"coordinates":[89.93333,23.91667],"type":"Point"}
+}

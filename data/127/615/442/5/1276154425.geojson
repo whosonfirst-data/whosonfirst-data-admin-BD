@@ -1,0 +1,70 @@
+{
+  "id": 1276154425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.99085,22.22487,89.99085,22.22487",
+    "geom:latitude":22.22487,
+    "geom:longitude":89.99085,
+    "gn:admin1_code":"82",
+    "gn:asciiname":"Lakshmana",
+    "gn:country_code":"BD",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7475675,
+    "gn:latitude":22.22487,
+    "gn:longitude":89.99085,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"Lakshmana",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Lakshmana"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669019,
+        421172031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7475675
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"180c01a9b3029424f26386ae899d6b88",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421172031,
+            "locality_id":1276154425,
+            "region_id":85669019
+        }
+    ],
+    "wof:id":1276154425,
+    "wof:lastmodified":1537586328,
+    "wof:name":"Lakshmana",
+    "wof:parent_id":421172031,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.99085,
+    22.22487000000001,
+    89.99085,
+    22.22487000000001
+],
+  "geometry": {"coordinates":[89.99084999999999,22.22487000000001],"type":"Point"}
+}

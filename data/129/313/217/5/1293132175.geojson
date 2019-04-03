@@ -1,0 +1,73 @@
+{
+  "id": 1293132175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.05961,22.02867,90.05961,22.02867",
+    "geom:latitude":22.02867,
+    "geom:longitude":90.05961,
+    "gn:admin1_code":"85",
+    "gn:admin2_code":"1004.0",
+    "gn:admin3_code":"100428.0",
+    "gn:admin4_code":"10042885.0",
+    "gn:asciiname":"Taltali",
+    "gn:country_code":"BD",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7476422,
+    "gn:latitude":22.02867,
+    "gn:longitude":90.05961,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Taltali",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Taltali"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669019,
+        421176043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7476422
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"14a878627530e71a491eb7dac44a5793",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421176043,
+            "locality_id":1293132175,
+            "region_id":85669019
+        }
+    ],
+    "wof:id":1293132175,
+    "wof:lastmodified":1537586344,
+    "wof:name":"Taltali",
+    "wof:parent_id":421176043,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.05960999999998,
+    22.02867,
+    90.05960999999998,
+    22.02867
+],
+  "geometry": {"coordinates":[90.05960999999998,22.02867],"type":"Point"}
+}

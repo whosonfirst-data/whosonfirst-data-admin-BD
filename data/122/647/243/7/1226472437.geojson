@@ -1,0 +1,74 @@
+{
+  "id": 1226472437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.36979,23.75957,89.36979,23.75957",
+    "geom:latitude":23.75957,
+    "geom:longitude":89.36979,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3082",
+    "gn:admin3_code":"308273.0",
+    "gn:admin4_code":"30827390.0",
+    "gn:asciiname":"West Premtia",
+    "gn:country_code":"BD",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1185341,
+    "gn:latitude":23.75957,
+    "gn:longitude":89.36979,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"West Premtia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Paschim Premtia",
+        "West Premtia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        1108694699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1185341
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"744d262dc927cb256f0e0f98dfbdc607",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694699,
+            "locality_id":1226472437,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1226472437,
+    "wof:lastmodified":1537585697,
+    "wof:name":"West Premtia",
+    "wof:parent_id":1108694699,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.36979000000002,
+    23.75957,
+    89.36979000000002,
+    23.75957
+],
+  "geometry": {"coordinates":[89.36979000000002,23.75957],"type":"Point"}
+}

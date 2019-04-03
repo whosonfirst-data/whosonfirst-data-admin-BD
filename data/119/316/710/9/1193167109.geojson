@@ -1,0 +1,70 @@
+{
+  "id": 1193167109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.32412,23.88119,90.32412,23.88119",
+    "geom:latitude":23.88119,
+    "geom:longitude":90.32412,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3026",
+    "gn:admin3_code":"302672.0",
+    "gn:admin4_code":"30267233.0",
+    "gn:asciiname":"Mirer Chandgaon",
+    "gn:country_code":"BD",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1194385,
+    "gn:latitude":23.88119,
+    "gn:longitude":90.32412,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Mirer Ch\u0101ndgaon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421187803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1194385
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"4350b25de069960577f5261eead51ca2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421187803,
+            "locality_id":1193167109,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1193167109,
+    "wof:lastmodified":1536384423,
+    "wof:name":"Mirer Chandgaon",
+    "wof:parent_id":421187803,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.32412,
+    23.88119,
+    90.32412,
+    23.88119
+],
+  "geometry": {"coordinates":[90.32411999999999,23.88119],"type":"Point"}
+}

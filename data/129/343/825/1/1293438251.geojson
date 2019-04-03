@@ -1,0 +1,70 @@
+{
+  "id": 1293438251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.99601,23.1598,90.99601,23.1598",
+    "geom:latitude":23.1598,
+    "geom:longitude":90.99601,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2013.0",
+    "gn:admin3_code":"201395.0",
+    "gn:admin4_code":"20139515.0",
+    "gn:asciiname":"Bettala",
+    "gn:country_code":"BD",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1209452,
+    "gn:latitude":23.1598,
+    "gn:longitude":90.99601,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Bettala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        1108694669
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1209452
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"af208ef92d707d6df5ce8588d05aaa26",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694669,
+            "locality_id":1293438251,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1293438251,
+    "wof:lastmodified":1536856915,
+    "wof:name":"Bettala",
+    "wof:parent_id":1108694669,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.99601,
+    23.1598,
+    90.99601,
+    23.1598
+],
+  "geometry": {"coordinates":[90.99601,23.1598],"type":"Point"}
+}

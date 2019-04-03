@@ -1,0 +1,64 @@
+{
+  "id": 1209645471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.52514,23.99883,90.52514,23.99883",
+    "geom:latitude":23.99883,
+    "geom:longitude":90.52514,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3033.0",
+    "gn:admin3_code":"303334.0",
+    "gn:admin4_code":"30333469.0",
+    "gn:asciiname":"Chhatiani",
+    "gn:country_code":"BD",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1206191,
+    "gn:latitude":23.99883,
+    "gn:longitude":90.52514,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Chh\u0101ti\u0101ni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1206191
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"95a95f0d1a5883188b5c03073f36f109",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209645471
+        }
+    ],
+    "wof:id":1209645471,
+    "wof:lastmodified":1536280749,
+    "wof:name":"Chhatiani",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.52514,
+    23.99883,
+    90.52514,
+    23.99883
+],
+  "geometry": {"coordinates":[90.52513999999999,23.99883],"type":"Point"}
+}

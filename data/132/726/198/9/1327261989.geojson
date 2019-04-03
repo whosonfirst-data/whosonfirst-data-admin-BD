@@ -1,0 +1,70 @@
+{
+  "id": 1327261989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.5947,24.15347,90.5947,24.15347",
+    "geom:latitude":24.15347,
+    "geom:longitude":90.5947,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3033",
+    "gn:admin3_code":"303336.0",
+    "gn:admin4_code":"30333686.0",
+    "gn:asciiname":"Saraspur",
+    "gn:country_code":"BD",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1188618,
+    "gn:latitude":24.15347,
+    "gn:longitude":90.5947,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Saraspur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421203493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1188618
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"a71e737c4a9ef7f210c68a3a85481394",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421203493,
+            "locality_id":1327261989,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1327261989,
+    "wof:lastmodified":1536927709,
+    "wof:name":"Saraspur",
+    "wof:parent_id":421203493,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.5947,
+    24.15347,
+    90.5947,
+    24.15347
+],
+  "geometry": {"coordinates":[90.5947,24.15347],"type":"Point"}
+}

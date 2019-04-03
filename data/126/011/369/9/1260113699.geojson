@@ -1,0 +1,70 @@
+{
+  "id": 1260113699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.84187,23.28897,89.84187,23.28897",
+    "geom:latitude":23.28897,
+    "geom:longitude":89.84187,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3035.0",
+    "gn:admin3_code":"303558.0",
+    "gn:admin4_code":"30355833.0",
+    "gn:asciiname":"Dhakpara",
+    "gn:country_code":"BD",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1204548,
+    "gn:latitude":23.28897,
+    "gn:longitude":89.84187,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Dh\u0101kp\u0101ra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421194867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1204548
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"ca9e5e4bbb7d1fb4ad59e4f6374bad4b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421194867,
+            "locality_id":1260113699,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1260113699,
+    "wof:lastmodified":1536945046,
+    "wof:name":"Dhakpara",
+    "wof:parent_id":421194867,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.84187,
+    23.28897000000001,
+    89.84187,
+    23.28897000000001
+],
+  "geometry": {"coordinates":[89.84187,23.28897000000001],"type":"Point"}
+}

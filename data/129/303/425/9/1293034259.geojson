@@ -1,0 +1,70 @@
+{
+  "id": 1293034259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.58978,24.48888,91.58978,24.48888",
+    "geom:latitude":24.48888,
+    "geom:longitude":91.58978,
+    "gn:admin1_code":"86",
+    "gn:admin2_code":"6036.0",
+    "gn:admin3_code":"603677.0",
+    "gn:admin4_code":"60367743.0",
+    "gn:asciiname":"Debpara",
+    "gn:country_code":"BD",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1204754,
+    "gn:latitude":24.48888,
+    "gn:longitude":91.58978,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Debp\u0101ra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669025,
+        421176045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1204754
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"1f2eae1db2e22eb939d8b0b75547cda7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421176045,
+            "locality_id":1293034259,
+            "region_id":85669025
+        }
+    ],
+    "wof:id":1293034259,
+    "wof:lastmodified":1536944076,
+    "wof:name":"Debpara",
+    "wof:parent_id":421176045,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.58978,
+    24.48888,
+    91.58978,
+    24.48888
+],
+  "geometry": {"coordinates":[91.58978,24.48888],"type":"Point"}
+}

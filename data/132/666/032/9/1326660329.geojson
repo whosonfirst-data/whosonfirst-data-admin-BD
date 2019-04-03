@@ -1,0 +1,70 @@
+{
+  "id": 1326660329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.19562,22.55029,90.19562,22.55029",
+    "geom:latitude":22.55029,
+    "geom:longitude":90.19562,
+    "gn:admin1_code":"85",
+    "gn:admin2_code":"1042",
+    "gn:admin3_code":"104273.0",
+    "gn:admin4_code":"10427373.0",
+    "gn:asciiname":"Nalbunia",
+    "gn:country_code":"BD",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1193610,
+    "gn:latitude":22.55029,
+    "gn:longitude":90.19562,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Nalbunia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nalbania",
+        "Nalbunia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1193610
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"8b8a788d8e27f14819ba0e3006aaa61c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":-1,
+            "locality_id":1326660329,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1326660329,
+    "wof:lastmodified":1537585855,
+    "wof:name":"Nalbunia",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.19562,
+    22.55029,
+    90.19562,
+    22.55029
+],
+  "geometry": {"coordinates":[90.19562000000001,22.55029],"type":"Point"}
+}

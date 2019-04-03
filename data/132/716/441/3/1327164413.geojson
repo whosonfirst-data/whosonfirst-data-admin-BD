@@ -1,0 +1,70 @@
+{
+  "id": 1327164413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.03632,23.82732,90.03632,23.82732",
+    "geom:latitude":23.82732,
+    "geom:longitude":90.03632,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3056",
+    "gn:admin3_code":"305646.0",
+    "gn:admin4_code":"30564607.0",
+    "gn:asciiname":"Talifabad",
+    "gn:country_code":"BD",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1186641,
+    "gn:latitude":23.82732,
+    "gn:longitude":90.03632,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Talif\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421191745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1186641
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"11221d77a126d86b8c43d271e68d770f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421191745,
+            "locality_id":1327164413,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1327164413,
+    "wof:lastmodified":1537065001,
+    "wof:name":"Talifabad",
+    "wof:parent_id":421191745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.03631999999998,
+    23.82732,
+    90.03631999999998,
+    23.82732
+],
+  "geometry": {"coordinates":[90.03631999999998,23.82732],"type":"Point"}
+}

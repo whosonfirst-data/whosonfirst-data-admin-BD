@@ -1,0 +1,70 @@
+{
+  "id": 1276583615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.51186,25.08672,90.51186,25.08672",
+    "geom:latitude":25.08672,
+    "geom:longitude":90.51186,
+    "gn:admin1_code":"H",
+    "gn:admin2_code":"3061.0",
+    "gn:admin3_code":"306116.0",
+    "gn:admin4_code":"30611636.0",
+    "gn:asciiname":"Dhobaura",
+    "gn:country_code":"BD",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1204226,
+    "gn:latitude":25.08672,
+    "gn:longitude":90.51186,
+    "gn:modification_date":"2016-11-17",
+    "gn:name":"Dhobaura",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        1108803101,
+        421185469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1204226
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"8312cd01688b7279bf6e54df75551e2b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421185469,
+            "locality_id":1276583615,
+            "region_id":1108803101
+        }
+    ],
+    "wof:id":1276583615,
+    "wof:lastmodified":1536941630,
+    "wof:name":"Dhobaura",
+    "wof:parent_id":421185469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.51186,
+    25.08672,
+    90.51186,
+    25.08672
+],
+  "geometry": {"coordinates":[90.51186,25.08672],"type":"Point"}
+}

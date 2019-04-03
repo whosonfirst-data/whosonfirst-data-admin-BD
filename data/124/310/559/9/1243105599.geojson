@@ -1,0 +1,74 @@
+{
+  "id": 1243105599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.81651,23.76317,90.81651,23.76317",
+    "geom:latitude":23.76317,
+    "geom:longitude":90.81651,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2012",
+    "gn:admin3_code":"201204.0",
+    "gn:admin4_code":"20120481.0",
+    "gn:asciiname":"Husainpur",
+    "gn:country_code":"BD",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1200912,
+    "gn:latitude":23.76317,
+    "gn:longitude":90.81651,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Husainpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hosenpur",
+        "Husainpur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        1108694667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1200912
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"50be08365dab1397a4b515ec902b138c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694667,
+            "locality_id":1243105599,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1243105599,
+    "wof:lastmodified":1537585988,
+    "wof:name":"Husainpur",
+    "wof:parent_id":1108694667,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.81651,
+    23.76317,
+    90.81651,
+    23.76317
+],
+  "geometry": {"coordinates":[90.81650999999999,23.76317],"type":"Point"}
+}

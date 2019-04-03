@@ -1,0 +1,73 @@
+{
+  "id": 1293726819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.23069,23.8244,89.23069,23.8244",
+    "geom:latitude":23.8244,
+    "geom:longitude":89.23069,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4050.0",
+    "gn:admin3_code":"405071.0",
+    "gn:admin4_code":"40507134.0",
+    "gn:asciiname":"Chhatian Lakshmipur",
+    "gn:country_code":"BD",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1206189,
+    "gn:latitude":23.8244,
+    "gn:longitude":89.23069,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Chhatian Lakshmipur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Chhatian Lakshmipur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        890438075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1206189
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"313e4735432be3a0cec878fc5fdd9ea8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":890438075,
+            "locality_id":1293726819,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1293726819,
+    "wof:lastmodified":1537586088,
+    "wof:name":"Chhatian Lakshmipur",
+    "wof:parent_id":890438075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.23069,
+    23.8244,
+    89.23069,
+    23.8244
+],
+  "geometry": {"coordinates":[89.23069,23.8244],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1209845851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.52244,23.77107,89.52244,23.77107",
+    "geom:latitude":23.77107,
+    "geom:longitude":89.52244,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3082.0",
+    "gn:admin3_code":"308273.0",
+    "gn:admin4_code":"30827360.0",
+    "gn:asciiname":"Dogachi",
+    "gn:country_code":"BD",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7479567,
+    "gn:latitude":23.77107,
+    "gn:longitude":89.52244,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Dogachi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Dogachi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        1108694699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7479567
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"d9e04bf2103a02f089e39cd2593b6ef3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694699,
+            "locality_id":1209845851,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1209845851,
+    "wof:lastmodified":1537586423,
+    "wof:name":"Dogachi",
+    "wof:parent_id":1108694699,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.52244,
+    23.77107,
+    89.52244,
+    23.77107
+],
+  "geometry": {"coordinates":[89.52244,23.77107],"type":"Point"}
+}

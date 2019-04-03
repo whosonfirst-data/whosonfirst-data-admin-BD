@@ -1,0 +1,70 @@
+{
+  "id": 1343799463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.47717,24.49202,90.47717,24.49202",
+    "geom:latitude":24.49202,
+    "geom:longitude":90.47717,
+    "gn:admin1_code":"H",
+    "gn:admin2_code":"3061",
+    "gn:admin3_code":"306122.0",
+    "gn:admin4_code":"30612269.0",
+    "gn:asciiname":"Sandhian",
+    "gn:country_code":"BD",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1188833,
+    "gn:latitude":24.49202,
+    "gn:longitude":90.47717,
+    "gn:modification_date":"2016-11-17",
+    "gn:name":"S\u0101ndhi\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        1108803101,
+        421185469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1188833
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"eed1d8be86ba74be097c0d152bc5f434",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421185469,
+            "locality_id":1343799463,
+            "region_id":1108803101
+        }
+    ],
+    "wof:id":1343799463,
+    "wof:lastmodified":1536754638,
+    "wof:name":"Sandhian",
+    "wof:parent_id":421185469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.47717,
+    24.49202,
+    90.47717,
+    24.49202
+],
+  "geometry": {"coordinates":[90.47717,24.49202],"type":"Point"}
+}

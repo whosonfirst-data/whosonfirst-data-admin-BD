@@ -1,0 +1,77 @@
+{
+  "id": 421192427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.40491,23.79142,90.40491,23.79142",
+    "geom:latitude":23.79142,
+    "geom:longitude":90.40491,
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"BD",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":1211117,
+    "qs:gn_pop":0,
+    "qs:name":"Banani Model Town",
+    "qs:name_adm0":"Bangladesh",
+    "qs:name_adm1":"Dhaka",
+    "qs:photos":1308,
+    "qs:photos_1k":265,
+    "qs:photos_9k":6,
+    "qs:photos_9r":7,
+    "qs:photos_all":1308,
+    "qs:photos_sr":12,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1168166,
+    "qs:woe_adm0":23424759,
+    "qs:woe_id":1890068,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":49,
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421187803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1211117,
+        "gp:id":1890068,
+        "qs:id":1168166
+    },
+    "wof:country":"BD",
+    "wof:created":1459009736,
+    "wof:geomhash":"40d95d2525af4c7509d4cd452e82ed86",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421187803,
+            "locality_id":421192427,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":421192427,
+    "wof:lastmodified":1527716114,
+    "wof:name":"Banani Model Town",
+    "wof:parent_id":421187803,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.40491,
+    23.79142,
+    90.40491,
+    23.79142
+],
+  "geometry": {"coordinates":[90.40491,23.79142],"type":"Point"}
+}

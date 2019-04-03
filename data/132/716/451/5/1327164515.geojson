@@ -1,0 +1,73 @@
+{
+  "id": 1327164515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.3123,26.1089,88.3123,26.1089",
+    "geom:latitude":26.1089,
+    "geom:longitude":88.3123,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5594",
+    "gn:admin3_code":"559408.0",
+    "gn:admin4_code":"55940852.0",
+    "gn:asciiname":"Madhupur",
+    "gn:country_code":"BD",
+    "gn:dem":63,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1195813,
+    "gn:latitude":26.1089,
+    "gn:longitude":88.3123,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Madhupur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Madhupur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1195813
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"a2e433f2d63ef4d4c2bd715e041e635b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694703,
+            "locality_id":1327164515,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1327164515,
+    "wof:lastmodified":1537585896,
+    "wof:name":"Madhupur",
+    "wof:parent_id":1108694703,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.3123,
+    26.1089,
+    88.3123,
+    26.1089
+],
+  "geometry": {"coordinates":[88.31229999999999,26.1089],"type":"Point"}
+}

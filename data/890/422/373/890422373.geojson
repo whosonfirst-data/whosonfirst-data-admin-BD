@@ -1,0 +1,79 @@
+{
+  "id": 890422373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-09-21",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.83333,25.0,89.83333,25.0",
+    "geom:latitude":25.0,
+    "geom:longitude":89.83333,
+    "gn:country":"BD",
+    "gn:fcode":"ADM2",
+    "gn:pop":2260905,
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ben_x_preferred":[
+        "\u099c\u09be\u09ae\u09be\u09b2\u09aa\u09c1\u09b0 \u099c\u09c7\u09b2\u09be"
+    ],
+    "name:eng_x_preferred":[
+        "Jamalpur District"
+    ],
+    "name:eng_x_variant":[
+        "Jamalpur"
+    ],
+    "name:unk_x_variant":[
+        "Jamalpur Jela"
+    ],
+    "qs:name":"Jam\u0101lpur District",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"12",
+    "src:population":"geonames",
+    "wd:wordcount":665,
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1337172,
+        "qs:id":555781,
+        "wd:id":"Q2039306",
+        "wk:page":"Jamalpur District"
+    },
+    "wof:country":"BD",
+    "wof:created":1469051439,
+    "wof:geomhash":"2e44bda5e8188de8a848b536ba85454f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":890422373,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":890422373,
+    "wof:lastmodified":1527727165,
+    "wof:name":"Jam\u0101lpur District",
+    "wof:parent_id":85669009,
+    "wof:placetype":"county",
+    "wof:population":2260905,
+    "wof:population_rank":12,
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.83333,
+    25.0,
+    89.83333,
+    25.0
+],
+  "geometry": {"coordinates":[89.83333,25.0],"type":"Point"}
+}

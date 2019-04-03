@@ -1,0 +1,75 @@
+{
+  "id": 1193046247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.55237,23.13621,90.55237,23.13621",
+    "geom:latitude":23.13621,
+    "geom:longitude":90.55237,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3086",
+    "gn:admin3_code":"308636.0",
+    "gn:admin4_code":"30863611.0",
+    "gn:asciiname":"Echanbala",
+    "gn:country_code":"BD",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1200718,
+    "gn:latitude":23.13621,
+    "gn:longitude":90.55237,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Ech\u0101nb\u0101la",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Is\u0101nb\u0101la",
+        "Ish\u0101nb\u0101la",
+        "Ech\u0101nb\u0101la"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421188359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1200718
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"a189195f289df3b45ccb71d10b9ed902",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421188359,
+            "locality_id":1193046247,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1193046247,
+    "wof:lastmodified":1537585985,
+    "wof:name":"Echanbala",
+    "wof:parent_id":421188359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.55237,
+    23.13621,
+    90.55237,
+    23.13621
+],
+  "geometry": {"coordinates":[90.55237,23.13621],"type":"Point"}
+}

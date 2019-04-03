@@ -1,0 +1,79 @@
+{
+  "id": 421192801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.75044,22.4281,91.75044,22.4281",
+    "geom:latitude":22.4281,
+    "geom:longitude":91.75044,
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "Bhatiyari"
+    ],
+    "qs:gn_country":"BD",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":1209073,
+    "qs:gn_pop":0,
+    "qs:name":"Bhatiari",
+    "qs:name_adm0":"Bangladesh",
+    "qs:name_adm1":"Chittagong",
+    "qs:photos":52,
+    "qs:photos_1k":11,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":52,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1175316,
+    "qs:woe_adm0":23424759,
+    "qs:woe_id":1892054,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421201541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1209073,
+        "gp:id":1892054,
+        "qs:id":1175316
+    },
+    "wof:country":"BD",
+    "wof:created":1459009749,
+    "wof:geomhash":"43ca641989a43c85da2f4dc725d85eab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421201541,
+            "locality_id":421192801,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":421192801,
+    "wof:lastmodified":1501217021,
+    "wof:name":"Bhatiari",
+    "wof:parent_id":421201541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.75044,
+    22.4281,
+    91.75044,
+    22.4281
+],
+  "geometry": {"coordinates":[91.75044,22.4281],"type":"Point"}
+}

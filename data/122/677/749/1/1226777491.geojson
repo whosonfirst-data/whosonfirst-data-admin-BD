@@ -1,0 +1,70 @@
+{
+  "id": 1226777491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.10283,24.97943,89.10283,24.97943",
+    "geom:latitude":24.97943,
+    "geom:longitude":89.10283,
+    "gn:admin1_code":"83",
+    "gn:admin2_code":"5038",
+    "gn:admin3_code":"503861.0",
+    "gn:admin4_code":"50386128.0",
+    "gn:asciiname":"Matihas",
+    "gn:country_code":"BD",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1194603,
+    "gn:latitude":24.97943,
+    "gn:longitude":89.10283,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"M\u0101tih\u0101s",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669031,
+        1108694681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1194603
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"79fa10c132539e385e50c2242bebbd86",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694681,
+            "locality_id":1226777491,
+            "region_id":85669031
+        }
+    ],
+    "wof:id":1226777491,
+    "wof:lastmodified":1536669935,
+    "wof:name":"Matihas",
+    "wof:parent_id":1108694681,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.10283000000003,
+    24.97943,
+    89.10283000000003,
+    24.97943
+],
+  "geometry": {"coordinates":[89.10283000000003,24.97943],"type":"Point"}
+}

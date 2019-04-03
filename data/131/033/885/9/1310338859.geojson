@@ -1,0 +1,74 @@
+{
+  "id": 1310338859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.41692,25.00938,89.41692,25.00938",
+    "geom:latitude":25.00938,
+    "geom:longitude":89.41692,
+    "gn:admin1_code":"83",
+    "gn:admin2_code":"5010",
+    "gn:admin3_code":"501040.0",
+    "gn:admin4_code":"50104047.0",
+    "gn:asciiname":"Nanglu Paschimpara",
+    "gn:country_code":"BD",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1192241,
+    "gn:latitude":25.00938,
+    "gn:longitude":89.41692,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"N\u0101nglu Paschimp\u0101ra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "N\u0101nglu Paschimp\u0101ra",
+        "Paschimp\u0101ra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669031,
+        421187793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1192241
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"c0af977f8ce3f0e228b384e363e4c5bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421187793,
+            "locality_id":1310338859,
+            "region_id":85669031
+        }
+    ],
+    "wof:id":1310338859,
+    "wof:lastmodified":1537585832,
+    "wof:name":"Nanglu Paschimpara",
+    "wof:parent_id":421187793,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.41691999999998,
+    25.00938,
+    89.41691999999998,
+    25.00938
+],
+  "geometry": {"coordinates":[89.41691999999998,25.00938],"type":"Point"}
+}

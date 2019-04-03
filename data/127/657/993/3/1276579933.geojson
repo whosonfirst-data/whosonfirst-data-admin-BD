@@ -1,0 +1,70 @@
+{
+  "id": 1276579933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.99016,24.68912,91.99016,24.68912",
+    "geom:latitude":24.68912,
+    "geom:longitude":91.99016,
+    "gn:admin1_code":"86",
+    "gn:admin2_code":"6091.0",
+    "gn:admin3_code":"609135.0",
+    "gn:admin4_code":"60913547.0",
+    "gn:asciiname":"Ghilachara",
+    "gn:country_code":"BD",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1202594,
+    "gn:latitude":24.68912,
+    "gn:longitude":91.99016,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Ghil\u0101chara",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669025,
+        421187795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1202594
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"d956f0dde625c38ab063ad0f412c246f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421187795,
+            "locality_id":1276579933,
+            "region_id":85669025
+        }
+    ],
+    "wof:id":1276579933,
+    "wof:lastmodified":1536946383,
+    "wof:name":"Ghilachara",
+    "wof:parent_id":421187795,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.99016,
+    24.68912000000001,
+    91.99016,
+    24.68912000000001
+],
+  "geometry": {"coordinates":[91.99016,24.68912000000001],"type":"Point"}
+}

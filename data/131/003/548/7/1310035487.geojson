@@ -1,0 +1,73 @@
+{
+  "id": 1310035487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.31308,25.76377,89.31308,25.76377",
+    "geom:latitude":25.76377,
+    "geom:longitude":89.31308,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5585",
+    "gn:admin3_code":"558542.0",
+    "gn:admin4_code":"55854254.0",
+    "gn:asciiname":"Madamudan",
+    "gn:country_code":"BD",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7923703,
+    "gn:latitude":25.76377,
+    "gn:longitude":89.31308,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Madamudan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Madamudan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7923703
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"4e8a58734e65362c297f39f9ec3ec0eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694701,
+            "locality_id":1310035487,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1310035487,
+    "wof:lastmodified":1537586805,
+    "wof:name":"Madamudan",
+    "wof:parent_id":1108694701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.31308,
+    25.76377,
+    89.31308,
+    25.76377
+],
+  "geometry": {"coordinates":[89.31308,25.76377],"type":"Point"}
+}

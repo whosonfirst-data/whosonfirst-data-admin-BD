@@ -1,0 +1,69 @@
+{
+  "id": 1209463441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.80495,23.67826,90.80495,23.67826",
+    "geom:latitude":23.67826,
+    "geom:longitude":90.80495,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2019",
+    "gn:admin3_code":"201954.0",
+    "gn:admin4_code":"20195485.0",
+    "gn:asciiname":"Mir Shikari",
+    "gn:country_code":"BD",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1194340,
+    "gn:latitude":23.67826,
+    "gn:longitude":90.80495,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Mir Shikari",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Misrikari",
+        "M\u012br Sik\u0101ri",
+        "Mir Shikari"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1194340
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"2b0a8c96310944315c50f4899db8ff63",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209463441
+        }
+    ],
+    "wof:id":1209463441,
+    "wof:lastmodified":1537585868,
+    "wof:name":"Mir Shikari",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.80495,
+    23.67826,
+    90.80495,
+    23.67826
+],
+  "geometry": {"coordinates":[90.80495000000001,23.67826],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1225892929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.89147,22.95347,91.89147,22.95347",
+    "geom:latitude":22.95347,
+    "geom:longitude":91.89147,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2046.0",
+    "gn:admin3_code":"204680.0",
+    "gn:admin4_code":"20468038.0",
+    "gn:asciiname":"Sengulipara",
+    "gn:country_code":"BD",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7477481,
+    "gn:latitude":22.95347,
+    "gn:longitude":91.89147,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Sengulip\u0101ra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Sengulip\u0101ra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        1108694683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7477481
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"35fe0fe603de496a0a394b78a87712f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694683,
+            "locality_id":1225892929,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1225892929,
+    "wof:lastmodified":1537586369,
+    "wof:name":"Sengulipara",
+    "wof:parent_id":1108694683,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.89147,
+    22.95347000000001,
+    91.89147,
+    22.95347000000001
+],
+  "geometry": {"coordinates":[91.89147,22.95347000000001],"type":"Point"}
+}

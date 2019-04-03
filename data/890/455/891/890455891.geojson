@@ -1,0 +1,109 @@
+{
+  "id": 890455891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-09-21",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.16667,22.75,91.16667,22.75",
+    "geom:latitude":22.75,
+    "geom:longitude":91.16667,
+    "gn:country":"BD",
+    "gn:fcode":"ADM2",
+    "gn:pop":2741743,
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ben_x_preferred":[
+        "\u09a8\u09cb\u09af\u09bc\u09be\u0996\u09be\u09b2\u09c0 \u099c\u09c7\u09b2\u09be"
+    ],
+    "name:bpy_x_preferred":[
+        "\u09a8\u09cb\u09af\u09bc\u09be\u0996\u09be\u09b2\u09bf \u099c\u09bf\u09b2\u09be"
+    ],
+    "name:cat_x_preferred":[
+        "Districte de Noakhali"
+    ],
+    "name:eng_x_preferred":[
+        "Noakhali District"
+    ],
+    "name:eng_x_variant":[
+        "Noakhali"
+    ],
+    "name:hin_x_preferred":[
+        "\u0928\u094b\u0935\u093e\u0916\u093e\u0932\u0940"
+    ],
+    "name:lit_x_preferred":[
+        "Noakhalis"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d28\u0d35\u0d16\u0d3e\u0d32\u0d3f"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0646\u0648\u0627\u06a9\u06be\u0644\u06cc"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u043e\u0430\u043a\u0445\u0430\u043b\u0438"
+    ],
+    "name:unk_x_variant":[
+        "Noakhali Zila"
+    ],
+    "name:urd_x_preferred":[
+        "\u0646\u0648\u0627\u06a9\u06be\u0627\u0644\u06cc \u0636\u0644\u0639"
+    ],
+    "name:vie_x_preferred":[
+        "Huy\u1ec7n Noakhali"
+    ],
+    "name:zho_x_preferred":[
+        "\u8afe\u963f\u5361\u5229\u7e23"
+    ],
+    "qs:name":"No\u0101kh\u0101li District",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"12",
+    "src:population":"geonames",
+    "wd:wordcount":162,
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1337196,
+        "qs:id":555787,
+        "wd:id":"Q10953143",
+        "wk:page":"Begumganj Upazila"
+    },
+    "wof:country":"BD",
+    "wof:created":1469052979,
+    "wof:geomhash":"693a52336503fd7f992120e95db1096e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":890455891,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":890455891,
+    "wof:lastmodified":1527735398,
+    "wof:name":"No\u0101kh\u0101li District",
+    "wof:parent_id":85669023,
+    "wof:placetype":"county",
+    "wof:population":2741743,
+    "wof:population_rank":12,
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.16667,
+    22.75,
+    91.16667,
+    22.75
+],
+  "geometry": {"coordinates":[91.16667,22.75],"type":"Point"}
+}

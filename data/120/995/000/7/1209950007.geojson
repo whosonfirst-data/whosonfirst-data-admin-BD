@@ -1,0 +1,70 @@
+{
+  "id": 1209950007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.50276,25.06814,90.50276,25.06814",
+    "geom:latitude":25.06814,
+    "geom:longitude":90.50276,
+    "gn:admin1_code":"H",
+    "gn:admin2_code":"3061",
+    "gn:admin3_code":"306116.0",
+    "gn:admin4_code":"30611636.0",
+    "gn:asciiname":"Tarai Kandi",
+    "gn:country_code":"BD",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1186532,
+    "gn:latitude":25.06814,
+    "gn:longitude":90.50276,
+    "gn:modification_date":"2016-11-17",
+    "gn:name":"Tarai K\u0101ndi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        1108803101,
+        421185469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1186532
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"cbe8d34b0c72f41123bacf6c3c1156a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421185469,
+            "locality_id":1209950007,
+            "region_id":1108803101
+        }
+    ],
+    "wof:id":1209950007,
+    "wof:lastmodified":1536384554,
+    "wof:name":"Tarai Kandi",
+    "wof:parent_id":421185469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.50276,
+    25.06814,
+    90.50276,
+    25.06814
+],
+  "geometry": {"coordinates":[90.50275999999999,25.06814],"type":"Point"}
+}

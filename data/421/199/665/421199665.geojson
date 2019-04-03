@@ -1,0 +1,90 @@
+{
+  "id": 421199665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.72898,24.88352,90.72898,24.88352",
+    "geom:latitude":24.88352,
+    "geom:longitude":90.72898,
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "S\u0101tp\u0101i"
+    ],
+    "qs:gn_country":"BD",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":1185116,
+    "qs:gn_pop":79016,
+    "qs:name":"Netrakona",
+    "qs:name_adm0":"Bangladesh",
+    "qs:name_adm1":"Dhaka",
+    "qs:photos":44,
+    "qs:photos_1k":9,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":44,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"8",
+    "qs:qs_id":1221235,
+    "qs:woe_adm0":23424759,
+    "qs:woe_id":1915176,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        1108803101,
+        421200811,
+        85669009
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1185116,
+        "gp:id":1915176,
+        "qs:id":1221235
+    },
+    "wof:country":"BD",
+    "wof:created":1459009997,
+    "wof:geomhash":"a30e15c79f03fa8ed8dfc9400785d04e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421200811,
+            "locality_id":421199665,
+            "region_id":1108803101
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421200811,
+            "locality_id":421199665,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":421199665,
+    "wof:lastmodified":1505340764,
+    "wof:name":"Netrakona",
+    "wof:parent_id":421200811,
+    "wof:placetype":"locality",
+    "wof:population":79016,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.72898,
+    24.88352,
+    90.72898,
+    24.88352
+],
+  "geometry": {"coordinates":[90.72898000000001,24.88352],"type":"Point"}
+}

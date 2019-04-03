@@ -1,0 +1,75 @@
+{
+  "id": 1276494301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.4,22.9,91.4,22.9",
+    "geom:latitude":22.9,
+    "geom:longitude":91.4,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2030",
+    "gn:admin3_code":"203094.0",
+    "gn:admin4_code":"20309457.0",
+    "gn:asciiname":"Ramchandrapur",
+    "gn:cc2":"BD",
+    "gn:country_code":"BD",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1190154,
+    "gn:latitude":22.9,
+    "gn:longitude":91.4,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"R\u0101mchandrapur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "South Ramchandrapur",
+        "R\u0101mchandrapur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421181771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1190154
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"de4b8f822fac38883cbf7b2bc8d8aa5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421181771,
+            "locality_id":1276494301,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1276494301,
+    "wof:lastmodified":1537585792,
+    "wof:name":"Ramchandrapur",
+    "wof:parent_id":421181771,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.4,
+    22.9,
+    91.4,
+    22.9
+],
+  "geometry": {"coordinates":[91.40000000000001,22.9],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1209748763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.54784,25.00388,89.54784,25.00388",
+    "geom:latitude":25.00388,
+    "geom:longitude":89.54784,
+    "gn:admin1_code":"83",
+    "gn:admin2_code":"5010",
+    "gn:admin3_code":"501095.0",
+    "gn:admin4_code":"50109552.0",
+    "gn:asciiname":"Uttar Karanja",
+    "gn:country_code":"BD",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7905650,
+    "gn:latitude":25.00388,
+    "gn:longitude":89.54784,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Uttar Karanja",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Uttar Karanja"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669031,
+        421187793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7905650
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"5bd0d472706ebc078d844074f68b6748",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421187793,
+            "locality_id":1209748763,
+            "region_id":85669031
+        }
+    ],
+    "wof:id":1209748763,
+    "wof:lastmodified":1537586777,
+    "wof:name":"Uttar Karanja",
+    "wof:parent_id":421187793,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.54784000000002,
+    25.00388,
+    89.54784000000002,
+    25.00388
+],
+  "geometry": {"coordinates":[89.54784000000002,25.00388],"type":"Point"}
+}

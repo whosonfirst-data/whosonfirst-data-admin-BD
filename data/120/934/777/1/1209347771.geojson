@@ -1,0 +1,68 @@
+{
+  "id": 1209347771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.84757,23.8419,89.84757,23.8419",
+    "geom:latitude":23.8419,
+    "geom:longitude":89.84757,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3056",
+    "gn:admin3_code":"305678.0",
+    "gn:admin4_code":"30567823.0",
+    "gn:asciiname":"Kesobpatti",
+    "gn:country_code":"BD",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1197874,
+    "gn:latitude":23.8419,
+    "gn:longitude":89.84757,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Kesobpatti",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Keshabpatti",
+        "Kesobpatti"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1197874
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"60952b11862c38c5de8c4bd674caaf6c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209347771
+        }
+    ],
+    "wof:id":1209347771,
+    "wof:lastmodified":1537585933,
+    "wof:name":"Kesobpatti",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.84756999999998,
+    23.8419,
+    89.84756999999998,
+    23.8419
+],
+  "geometry": {"coordinates":[89.84756999999998,23.8419],"type":"Point"}
+}

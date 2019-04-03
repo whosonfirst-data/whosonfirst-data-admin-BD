@@ -1,0 +1,70 @@
+{
+  "id": 1209457317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.92368,21.95025,91.92368,21.95025",
+    "geom:latitude":21.95025,
+    "geom:longitude":91.92368,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2015",
+    "gn:admin3_code":"201508.0",
+    "gn:admin4_code":"20150831.0",
+    "gn:asciiname":"Purba Baraghona",
+    "gn:country_code":"BD",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1190805,
+    "gn:latitude":21.95025,
+    "gn:longitude":91.92368,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Purba Bar\u0101ghona",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Purba Bar\u0101ghona"
+    ],
+    "name:und_x_variant":[
+        "Purbba Bar\u0101ghona"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1190805
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"73904c5772bebd89a16856efb721faa9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209457317
+        }
+    ],
+    "wof:id":1209457317,
+    "wof:lastmodified":1537585803,
+    "wof:name":"Purba Baraghona",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.92368,
+    21.95025,
+    91.92368,
+    21.95025
+],
+  "geometry": {"coordinates":[91.92368,21.95025],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1309843189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.16947,23.16242,89.16947,23.16242",
+    "geom:latitude":23.16242,
+    "geom:longitude":89.16947,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4041.0",
+    "gn:admin3_code":"404147.0",
+    "gn:admin4_code":"40414705.0",
+    "gn:asciiname":"Bhikutia",
+    "gn:country_code":"BD",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1208905,
+    "gn:latitude":23.16242,
+    "gn:longitude":89.16947,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Bhikutia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Bhikutia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        421176039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1208905
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"d5aed3487ac5d17a7e7283242137c05e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421176039,
+            "locality_id":1309843189,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1309843189,
+    "wof:lastmodified":1537586138,
+    "wof:name":"Bhikutia",
+    "wof:parent_id":421176039,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.16946999999998,
+    23.16242,
+    89.16946999999998,
+    23.16242
+],
+  "geometry": {"coordinates":[89.16946999999998,23.16242],"type":"Point"}
+}

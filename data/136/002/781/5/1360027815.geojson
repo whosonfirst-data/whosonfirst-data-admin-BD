@@ -1,0 +1,73 @@
+{
+  "id": 1360027815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"92.05956,22.19252,92.05956,22.19252",
+    "geom:latitude":22.19252,
+    "geom:longitude":92.05956,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2015.0",
+    "gn:admin3_code":"201518.0",
+    "gn:admin4_code":"20151866.0",
+    "gn:asciiname":"Hashimpur",
+    "gn:country_code":"BD",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6416405,
+    "gn:latitude":22.19252,
+    "gn:longitude":92.05956,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"H\u0101shimpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "H\u0101shimpur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421201541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6416405
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"956ca6841a2c0280fbffa6803850e938",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421201541,
+            "locality_id":1360027815,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1360027815,
+    "wof:lastmodified":1537586262,
+    "wof:name":"Hashimpur",
+    "wof:parent_id":421201541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    92.05956,
+    22.19252,
+    92.05956,
+    22.19252
+],
+  "geometry": {"coordinates":[92.05956,22.19252],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1226380767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"92.06611,21.66025,92.06611,21.66025",
+    "geom:latitude":21.66025,
+    "geom:longitude":92.06611,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2022.0",
+    "gn:admin3_code":"202216.0",
+    "gn:admin4_code":"20221667.0",
+    "gn:asciiname":"Dulahazara",
+    "gn:country_code":"BD",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1203760,
+    "gn:latitude":21.66025,
+    "gn:longitude":92.06611,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Dul\u0101haz\u0101ra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Dul\u0101haz\u0101ra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421205057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1203760
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"32ccc88a3e768406b82a5682aa3fa8b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421205057,
+            "locality_id":1226380767,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1226380767,
+    "wof:lastmodified":1537586046,
+    "wof:name":"Dulahazara",
+    "wof:parent_id":421205057,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    92.06611,
+    21.66025,
+    92.06611,
+    21.66025
+],
+  "geometry": {"coordinates":[92.06610999999999,21.66025],"type":"Point"}
+}

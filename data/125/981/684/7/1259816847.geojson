@@ -1,0 +1,73 @@
+{
+  "id": 1259816847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.64973,25.59368,88.64973,25.59368",
+    "geom:latitude":25.59368,
+    "geom:longitude":88.64973,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5527.0",
+    "gn:admin3_code":"552764.0",
+    "gn:admin4_code":"55276417.0",
+    "gn:asciiname":"Karimullahpur",
+    "gn:country_code":"BD",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7488456,
+    "gn:latitude":25.59368,
+    "gn:longitude":88.64973,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Karimull\u0101hpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Karimull\u0101hpur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7488456
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"616194cdffbd5111111606870c7ab8f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694671,
+            "locality_id":1259816847,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1259816847,
+    "wof:lastmodified":1537586668,
+    "wof:name":"Karimullahpur",
+    "wof:parent_id":1108694671,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.64973,
+    25.59368,
+    88.64973,
+    25.59368
+],
+  "geometry": {"coordinates":[88.64973000000001,25.59368],"type":"Point"}
+}

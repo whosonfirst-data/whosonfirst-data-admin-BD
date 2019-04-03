@@ -1,0 +1,74 @@
+{
+  "id": 1310043203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.82237,24.38384,90.82237,24.38384",
+    "geom:latitude":24.38384,
+    "geom:longitude":90.82237,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3048.0",
+    "gn:admin3_code":"304849.0",
+    "gn:admin4_code":"30484934.0",
+    "gn:asciiname":"Bade Kariail",
+    "gn:country_code":"BD",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1212111,
+    "gn:latitude":24.38384,
+    "gn:longitude":90.82237,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Bade K\u0101ri\u0101il",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bade K\u0101ri\u0101il",
+        "B\u0101de Kari\u0101il"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421170483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1212111
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"a75a8b219dc6119fbc8abf60b5839939",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421170483,
+            "locality_id":1310043203,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1310043203,
+    "wof:lastmodified":1537586189,
+    "wof:name":"Bade Kariail",
+    "wof:parent_id":421170483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.82237,
+    24.38384,
+    90.82237,
+    24.38384
+],
+  "geometry": {"coordinates":[90.82237000000001,24.38384],"type":"Point"}
+}

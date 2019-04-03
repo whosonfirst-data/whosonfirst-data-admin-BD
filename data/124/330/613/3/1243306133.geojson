@@ -1,0 +1,73 @@
+{
+  "id": 1243306133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.93497,23.02453,90.93497,23.02453",
+    "geom:latitude":23.02453,
+    "geom:longitude":90.93497,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2075.0",
+    "gn:admin3_code":"207510.0",
+    "gn:admin4_code":"20751076.0",
+    "gn:asciiname":"Dharmapur",
+    "gn:country_code":"BD",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1204297,
+    "gn:latitude":23.02453,
+    "gn:longitude":90.93497,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Dharmapur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dharmmapur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421177051
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1204297
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"7509e5326d91e0e8fa7a51e39fe7ec15",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421177051,
+            "locality_id":1243306133,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1243306133,
+    "wof:lastmodified":1537586054,
+    "wof:name":"Dharmapur",
+    "wof:parent_id":421177051,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.93497,
+    23.02453,
+    90.93497,
+    23.02453
+],
+  "geometry": {"coordinates":[90.93497000000001,23.02453],"type":"Point"}
+}

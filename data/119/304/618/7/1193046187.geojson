@@ -1,0 +1,76 @@
+{
+  "id": 1193046187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.75154,25.0462,88.75154,25.0462",
+    "geom:latitude":25.0462,
+    "geom:longitude":88.75154,
+    "gn:admin1_code":"83",
+    "gn:admin2_code":"5064",
+    "gn:admin3_code":"506475.0",
+    "gn:admin4_code":"50647560.0",
+    "gn:asciiname":"Patnitala",
+    "gn:country_code":"BD",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1185147,
+    "gn:latitude":25.0462,
+    "gn:longitude":88.75154,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Patnitala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Patnitala"
+    ],
+    "name:und_x_variant":[
+        "Patnitola"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669031,
+        421191663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1185147
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"07fe299f37e909c4e57c6d5fe6d9b874",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421191663,
+            "locality_id":1193046187,
+            "region_id":85669031
+        }
+    ],
+    "wof:id":1193046187,
+    "wof:lastmodified":1537585688,
+    "wof:name":"Patnitala",
+    "wof:parent_id":421191663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.75154,
+    25.0462,
+    88.75154,
+    25.0462
+],
+  "geometry": {"coordinates":[88.75154000000001,25.0462],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1293913229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.31421,23.22393,90.31421,23.22393",
+    "geom:latitude":23.22393,
+    "geom:longitude":90.31421,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3086.0",
+    "gn:admin3_code":"308669.0",
+    "gn:admin4_code":"30866995.0",
+    "gn:asciiname":"Baisrasi",
+    "gn:country_code":"BD",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1211601,
+    "gn:latitude":23.22393,
+    "gn:longitude":90.31421,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"B\u0101israsi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421188359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1211601
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"72a6d030cd76b1b48921dcbd9857d1a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421188359,
+            "locality_id":1293913229,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1293913229,
+    "wof:lastmodified":1536670559,
+    "wof:name":"Baisrasi",
+    "wof:parent_id":421188359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.31421,
+    23.22393,
+    90.31421,
+    23.22393
+],
+  "geometry": {"coordinates":[90.31421,23.22393],"type":"Point"}
+}

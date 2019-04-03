@@ -1,0 +1,70 @@
+{
+  "id": 1327471253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.7484,23.51558,89.7484,23.51558",
+    "geom:latitude":23.51558,
+    "geom:longitude":89.7484,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3029.0",
+    "gn:admin3_code":"302918.0",
+    "gn:admin4_code":"30291820.0",
+    "gn:asciiname":"Ajalbera",
+    "gn:country_code":"BD",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1213131,
+    "gn:latitude":23.51558,
+    "gn:longitude":89.7484,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"\u0100jalbera",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421198063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1213131
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"2374fc3c60adc7d8f24c15ebecb59a99",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421198063,
+            "locality_id":1327471253,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1327471253,
+    "wof:lastmodified":1536622535,
+    "wof:name":"Ajalbera",
+    "wof:parent_id":421198063,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.7484,
+    23.51558,
+    89.7484,
+    23.51558
+],
+  "geometry": {"coordinates":[89.7484,23.51558],"type":"Point"}
+}

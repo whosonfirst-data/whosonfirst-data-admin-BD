@@ -1,0 +1,70 @@
+{
+  "id": 1277110255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.50384,22.57004,89.50384,22.57004",
+    "geom:latitude":22.57004,
+    "geom:longitude":89.50384,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4047",
+    "gn:admin3_code":"404717.0",
+    "gn:admin4_code":"40471742.0",
+    "gn:asciiname":"Saheber Abad",
+    "gn:country_code":"BD",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1189205,
+    "gn:latitude":22.57004,
+    "gn:longitude":89.50384,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"S\u0101heber \u0100b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        421185473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1189205
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"e76fcc4e4667346870e6af85e569fe69",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421185473,
+            "locality_id":1277110255,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1277110255,
+    "wof:lastmodified":1536728404,
+    "wof:name":"Saheber Abad",
+    "wof:parent_id":421185473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.50384,
+    22.57004,
+    89.50384,
+    22.57004
+],
+  "geometry": {"coordinates":[89.50384,22.57004],"type":"Point"}
+}

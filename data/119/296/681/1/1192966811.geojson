@@ -1,0 +1,74 @@
+{
+  "id": 1192966811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.64384,23.19551,90.64384,23.19551",
+    "geom:latitude":23.19551,
+    "geom:longitude":90.64384,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2013",
+    "gn:admin3_code":"201322.0",
+    "gn:admin4_code":"20132263.0",
+    "gn:asciiname":"Sakura",
+    "gn:country_code":"BD",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1189055,
+    "gn:latitude":23.19551,
+    "gn:longitude":90.64384,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"S\u0101kura",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "S\u0101kura",
+        "S\u0101khua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        1108694669
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1189055
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"9cddebe16a2313ca28bcfac13dab3433",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694669,
+            "locality_id":1192966811,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1192966811,
+    "wof:lastmodified":1537585772,
+    "wof:name":"Sakura",
+    "wof:parent_id":1108694669,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.64384,
+    23.19551,
+    90.64384,
+    23.19551
+],
+  "geometry": {"coordinates":[90.64384,23.19551],"type":"Point"}
+}

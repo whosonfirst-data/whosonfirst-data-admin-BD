@@ -1,0 +1,73 @@
+{
+  "id": 1209954021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.33585,22.24967,89.33585,22.24967",
+    "geom:latitude":22.24967,
+    "geom:longitude":89.33585,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4047.0",
+    "gn:admin3_code":"404753.0",
+    "gn:admin4_code":"40475322.0",
+    "gn:asciiname":"Jorsinga",
+    "gn:country_code":"BD",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7486136,
+    "gn:latitude":22.24967,
+    "gn:longitude":89.33585,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Jorsinga",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Jorsinga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        421185473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7486136
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"8c1a9ad379343fc2d479554940712a52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421185473,
+            "locality_id":1209954021,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1209954021,
+    "wof:lastmodified":1537586606,
+    "wof:name":"Jorsinga",
+    "wof:parent_id":421185473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.33585,
+    22.24967,
+    89.33585,
+    22.24967
+],
+  "geometry": {"coordinates":[89.33584999999999,22.24967],"type":"Point"}
+}

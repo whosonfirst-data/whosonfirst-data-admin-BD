@@ -1,0 +1,67 @@
+{
+  "id": 1293821207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.90841,22.0886,89.90841,22.0886",
+    "geom:latitude":22.0886,
+    "geom:longitude":89.90841,
+    "gn:admin1_code":"82",
+    "gn:asciiname":"Ekarbunia",
+    "gn:country_code":"BD",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7475930,
+    "gn:latitude":22.0886,
+    "gn:longitude":89.90841,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"Ekarbunia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Ekarbunia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7475930
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"28802ba6d4eaa49bf406ca141c35b2c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "locality_id":1293821207,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1293821207,
+    "wof:lastmodified":1537586332,
+    "wof:name":"Ekarbunia",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.90841,
+    22.0886,
+    89.90841,
+    22.0886
+],
+  "geometry": {"coordinates":[89.90841,22.0886],"type":"Point"}
+}

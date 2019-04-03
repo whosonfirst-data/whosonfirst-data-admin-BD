@@ -1,0 +1,70 @@
+{
+  "id": 1293230683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.45279,22.20913,90.45279,22.20913",
+    "geom:latitude":22.20913,
+    "geom:longitude":90.45279,
+    "gn:admin1_code":"82",
+    "gn:asciiname":"Par Dakua",
+    "gn:country_code":"BD",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7478693,
+    "gn:latitude":22.20913,
+    "gn:longitude":90.45279,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"P\u0101r D\u0101kua",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "P\u0101r D\u0101kua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669019,
+        421169845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7478693
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"7ea3d8f2d10ce045e571e1e6ddb24fed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421169845,
+            "locality_id":1293230683,
+            "region_id":85669019
+        }
+    ],
+    "wof:id":1293230683,
+    "wof:lastmodified":1537586398,
+    "wof:name":"Par Dakua",
+    "wof:parent_id":421169845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.45279,
+    22.20913,
+    90.45279,
+    22.20913
+],
+  "geometry": {"coordinates":[90.45278999999999,22.20913],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1259416177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.08333,22.66667,89.08333,22.66667",
+    "geom:latitude":22.66667,
+    "geom:longitude":89.08333,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4087.0",
+    "gn:admin3_code":"408782.0",
+    "gn:admin4_code":"40878251.0",
+    "gn:asciiname":"Ellar Char",
+    "gn:country_code":"BD",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1203424,
+    "gn:latitude":22.66667,
+    "gn:longitude":89.08333,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Ellar Char",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        421201927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1203424
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"9114013c48aa2a20dfa52f44a0e9b871",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421201927,
+            "locality_id":1259416177,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1259416177,
+    "wof:lastmodified":1536955610,
+    "wof:name":"Ellar Char",
+    "wof:parent_id":421201927,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.08333,
+    22.66667,
+    89.08333,
+    22.66667
+],
+  "geometry": {"coordinates":[89.08333,22.66667],"type":"Point"}
+}

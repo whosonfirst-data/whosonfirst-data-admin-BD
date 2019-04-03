@@ -1,0 +1,70 @@
+{
+  "id": 1243301243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.19262,25.16715,90.19262,25.16715",
+    "geom:latitude":25.16715,
+    "geom:longitude":90.19262,
+    "gn:admin1_code":"H",
+    "gn:admin2_code":"3089",
+    "gn:admin3_code":"308970.0",
+    "gn:admin4_code":"30897086.0",
+    "gn:asciiname":"Chatkia",
+    "gn:country_code":"BD",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7914152,
+    "gn:latitude":25.16715,
+    "gn:longitude":90.19262,
+    "gn:modification_date":"2016-11-17",
+    "gn:name":"Chatkia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        1108803101,
+        421190979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7914152
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"4bcc17ce36baf211a76804cc606ceecd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421190979,
+            "locality_id":1243301243,
+            "region_id":1108803101
+        }
+    ],
+    "wof:id":1243301243,
+    "wof:lastmodified":1537014027,
+    "wof:name":"Chatkia",
+    "wof:parent_id":421190979,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.19262,
+    25.16715,
+    90.19262,
+    25.16715
+],
+  "geometry": {"coordinates":[90.19262000000001,25.16715],"type":"Point"}
+}

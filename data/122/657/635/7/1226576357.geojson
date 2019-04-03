@@ -1,0 +1,73 @@
+{
+  "id": 1226576357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.51659,23.14691,89.51659,23.14691",
+    "geom:latitude":23.14691,
+    "geom:longitude":89.51659,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4065.0",
+    "gn:admin3_code":"406576.0",
+    "gn:admin4_code":"40657600.0",
+    "gn:asciiname":"Brahmandanga",
+    "gn:country_code":"BD",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7480309,
+    "gn:latitude":23.14691,
+    "gn:longitude":89.51659,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Brahmand\u0101nga",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Brahmand\u0101nga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        421205213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7480309
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"0bcbf545ebafefc25f7a60f69a375d9e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421205213,
+            "locality_id":1226576357,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1226576357,
+    "wof:lastmodified":1537586446,
+    "wof:name":"Brahmandanga",
+    "wof:parent_id":421205213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.51659000000002,
+    23.14691,
+    89.51659000000002,
+    23.14691
+],
+  "geometry": {"coordinates":[89.51659000000002,23.14691],"type":"Point"}
+}

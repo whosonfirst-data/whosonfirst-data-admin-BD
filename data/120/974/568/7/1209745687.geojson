@@ -1,0 +1,76 @@
+{
+  "id": 1209745687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.18325,22.3255,90.18325,22.3255",
+    "geom:latitude":22.3255,
+    "geom:longitude":90.18325,
+    "gn:admin1_code":"85",
+    "gn:admin2_code":"1078.0",
+    "gn:admin3_code":"107876.0",
+    "gn:admin4_code":"10787627.0",
+    "gn:asciiname":"Deulia",
+    "gn:country_code":"BD",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1204598,
+    "gn:latitude":22.3255,
+    "gn:longitude":90.18325,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Deulia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Deulia"
+    ],
+    "name:ben_x_variant":[
+        "Deuli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669019,
+        421169845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1204598
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"1ba9e1a933421019721db5767458501c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421169845,
+            "locality_id":1209745687,
+            "region_id":85669019
+        }
+    ],
+    "wof:id":1209745687,
+    "wof:lastmodified":1537586060,
+    "wof:name":"Deulia",
+    "wof:parent_id":421169845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.18325,
+    22.3255,
+    90.18325,
+    22.3255
+],
+  "geometry": {"coordinates":[90.18325,22.3255],"type":"Point"}
+}

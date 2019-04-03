@@ -1,0 +1,70 @@
+{
+  "id": 1327363901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.36758,22.03097,90.36758,22.03097",
+    "geom:latitude":22.03097,
+    "geom:longitude":90.36758,
+    "gn:admin1_code":"82",
+    "gn:asciiname":"Marajangi",
+    "gn:country_code":"BD",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7478672,
+    "gn:latitude":22.03097,
+    "gn:longitude":90.36758,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"Mar\u0101j\u0101ngi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Mar\u0101j\u0101ngi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669019,
+        421169845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7478672
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"8557162725d932bed75ade04ffd93ec4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421169845,
+            "locality_id":1327363901,
+            "region_id":85669019
+        }
+    ],
+    "wof:id":1327363901,
+    "wof:lastmodified":1537586398,
+    "wof:name":"Marajangi",
+    "wof:parent_id":421169845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.36758,
+    22.03097,
+    90.36758,
+    22.03097
+],
+  "geometry": {"coordinates":[90.36758,22.03097],"type":"Point"}
+}

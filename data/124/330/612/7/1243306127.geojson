@@ -1,0 +1,70 @@
+{
+  "id": 1243306127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.08333,23.7,91.08333,23.7",
+    "geom:latitude":23.7,
+    "geom:longitude":91.08333,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2019",
+    "gn:admin3_code":"201915.0",
+    "gn:admin4_code":"20191556.0",
+    "gn:asciiname":"Shaitsala",
+    "gn:country_code":"BD",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1188191,
+    "gn:latitude":23.7,
+    "gn:longitude":91.08333,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Sh\u0101its\u0101la",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421187801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1188191
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"56c977692cc3e8294f069aab38e8f7d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421187801,
+            "locality_id":1243306127,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1243306127,
+    "wof:lastmodified":1537007168,
+    "wof:name":"Shaitsala",
+    "wof:parent_id":421187801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.08333,
+    23.7,
+    91.08333,
+    23.7
+],
+  "geometry": {"coordinates":[91.08333,23.7],"type":"Point"}
+}

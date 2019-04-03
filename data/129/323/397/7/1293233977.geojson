@@ -1,0 +1,74 @@
+{
+  "id": 1293233977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.25,26.0,89.25,26.0",
+    "geom:latitude":26.0,
+    "geom:longitude":89.25,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5552",
+    "gn:admin3_code":"555239.0",
+    "gn:admin4_code":"55523935.0",
+    "gn:asciiname":"Kismat Dalgram",
+    "gn:country_code":"BD",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1197166,
+    "gn:latitude":26.0,
+    "gn:longitude":89.25,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Kismat Dalgr\u0101m",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kismat Dalagram",
+        "Kismat Dalgr\u0101m"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1197166
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"c3c1937cbc532d00f172ead69e629071",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694687,
+            "locality_id":1293233977,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1293233977,
+    "wof:lastmodified":1537585918,
+    "wof:name":"Kismat Dalgram",
+    "wof:parent_id":1108694687,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.25,
+    26.0,
+    89.25,
+    26.0
+],
+  "geometry": {"coordinates":[89.25,26.0],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1326867465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.29929,24.50537,90.29929,24.50537",
+    "geom:latitude":24.50537,
+    "geom:longitude":90.29929,
+    "gn:admin1_code":"H",
+    "gn:admin2_code":"3061",
+    "gn:admin3_code":"306120.0",
+    "gn:admin4_code":"30612029.0",
+    "gn:asciiname":"Kandania",
+    "gn:country_code":"BD",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1198688,
+    "gn:latitude":24.50537,
+    "gn:longitude":90.29929,
+    "gn:modification_date":"2016-11-17",
+    "gn:name":"K\u0101nd\u0101nia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        1108803101,
+        421185469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1198688
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"0f919ff8bf5202161d54d8dac7d7b80d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421185469,
+            "locality_id":1326867465,
+            "region_id":1108803101
+        }
+    ],
+    "wof:id":1326867465,
+    "wof:lastmodified":1536997133,
+    "wof:name":"Kandania",
+    "wof:parent_id":421185469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.29929,
+    24.50537000000001,
+    90.29929,
+    24.50537000000001
+],
+  "geometry": {"coordinates":[90.29929,24.50537000000001],"type":"Point"}
+}

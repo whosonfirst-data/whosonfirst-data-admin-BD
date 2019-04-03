@@ -1,0 +1,70 @@
+{
+  "id": 1276904723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.74306,25.74686,88.74306,25.74686",
+    "geom:latitude":25.74686,
+    "geom:longitude":88.74306,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5527",
+    "gn:admin3_code":"552730.0",
+    "gn:admin4_code":"55273094.0",
+    "gn:asciiname":"Singanagar",
+    "gn:country_code":"BD",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1187808,
+    "gn:latitude":25.74686,
+    "gn:longitude":88.74306,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Sing\u0101nagar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1187808
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"f0d8af4b3afc4d4191e704066f562fef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694671,
+            "locality_id":1276904723,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1276904723,
+    "wof:lastmodified":1537007327,
+    "wof:name":"Singanagar",
+    "wof:parent_id":1108694671,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.74306,
+    25.74686,
+    88.74306,
+    25.74686
+],
+  "geometry": {"coordinates":[88.74306,25.74686],"type":"Point"}
+}

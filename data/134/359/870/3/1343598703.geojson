@@ -1,0 +1,73 @@
+{
+  "id": 1343598703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.10909,25.94402,89.10909,25.94402",
+    "geom:latitude":25.94402,
+    "geom:longitude":89.10909,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5573",
+    "gn:admin3_code":"557345.0",
+    "gn:admin4_code":"55734577.0",
+    "gn:asciiname":"Paschim Kachua",
+    "gn:country_code":"BD",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7923945,
+    "gn:latitude":25.94402,
+    "gn:longitude":89.10909,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Paschim Kachua",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Paschim Kachua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7923945
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"096614277ceeeb9fb9de5a5ad99d71b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694695,
+            "locality_id":1343598703,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1343598703,
+    "wof:lastmodified":1537586813,
+    "wof:name":"Paschim Kachua",
+    "wof:parent_id":1108694695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.10909000000002,
+    25.94402,
+    89.10909000000002,
+    25.94402
+],
+  "geometry": {"coordinates":[89.10909000000002,25.94402],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1293717137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.8298,25.4987,88.8298,25.4987",
+    "geom:latitude":25.4987,
+    "geom:longitude":88.8298,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5527.0",
+    "gn:admin3_code":"552738.0",
+    "gn:admin4_code":"55273847.0",
+    "gn:asciiname":"Ushahar",
+    "gn:country_code":"BD",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7481169,
+    "gn:latitude":25.4987,
+    "gn:longitude":88.8298,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Ushah\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Ushah\u0101r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7481169
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"3115aa8781240fb900fa3b7a898909eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694671,
+            "locality_id":1293717137,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1293717137,
+    "wof:lastmodified":1537586471,
+    "wof:name":"Ushahar",
+    "wof:parent_id":1108694671,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.8298,
+    25.4987,
+    88.8298,
+    25.4987
+],
+  "geometry": {"coordinates":[88.82980000000001,25.4987],"type":"Point"}
+}

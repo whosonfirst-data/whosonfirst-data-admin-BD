@@ -1,0 +1,73 @@
+{
+  "id": 1327068239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"92.23129,22.17629,92.23129,22.17629",
+    "geom:latitude":22.17629,
+    "geom:longitude":92.23129,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2003.0",
+    "gn:admin3_code":"200389.0",
+    "gn:admin4_code":"20038976.0",
+    "gn:asciiname":"Nathaindipara",
+    "gn:country_code":"BD",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6416904,
+    "gn:latitude":22.17629,
+    "gn:longitude":92.23129,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Nathaindipara",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Nathaindipara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421169477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6416904
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"6e551ab9a8ea406c4908c4c8ba913438",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421169477,
+            "locality_id":1327068239,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1327068239,
+    "wof:lastmodified":1537586271,
+    "wof:name":"Nathaindipara",
+    "wof:parent_id":421169477,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    92.23129,
+    22.17629,
+    92.23129,
+    22.17629
+],
+  "geometry": {"coordinates":[92.23129,22.17629],"type":"Point"}
+}

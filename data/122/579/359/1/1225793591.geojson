@@ -1,0 +1,70 @@
+{
+  "id": 1225793591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.73251,23.51748,90.73251,23.51748",
+    "geom:latitude":23.51748,
+    "geom:longitude":90.73251,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2019",
+    "gn:admin3_code":"201936.0",
+    "gn:admin4_code":"20193625.0",
+    "gn:asciiname":"South Gazipur",
+    "gn:country_code":"BD",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1187423,
+    "gn:latitude":23.51748,
+    "gn:longitude":90.73251,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"South G\u0101zipur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421187801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1187423
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"5b919b3be29ba64ce987c4b5157a67e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421187801,
+            "locality_id":1225793591,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1225793591,
+    "wof:lastmodified":1537085858,
+    "wof:name":"South Gazipur",
+    "wof:parent_id":421187801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.73251,
+    23.51748,
+    90.73251,
+    23.51748
+],
+  "geometry": {"coordinates":[90.73251,23.51748],"type":"Point"}
+}

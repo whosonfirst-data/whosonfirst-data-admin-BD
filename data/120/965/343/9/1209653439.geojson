@@ -1,0 +1,64 @@
+{
+  "id": 1209653439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.96103,23.31127,90.96103,23.31127",
+    "geom:latitude":23.31127,
+    "geom:longitude":90.96103,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2013",
+    "gn:admin3_code":"201358.0",
+    "gn:admin4_code":"20135823.0",
+    "gn:asciiname":"Khila",
+    "gn:country_code":"BD",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1197390,
+    "gn:latitude":23.31127,
+    "gn:longitude":90.96103,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Khila",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1197390
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"92c6a7d3af4297d66ccae61322a2b06d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209653439
+        }
+    ],
+    "wof:id":1209653439,
+    "wof:lastmodified":1536280513,
+    "wof:name":"Khila",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.96103,
+    23.31127,
+    90.96103,
+    23.31127
+],
+  "geometry": {"coordinates":[90.96102999999999,23.31127],"type":"Point"}
+}

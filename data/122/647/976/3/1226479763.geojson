@@ -1,0 +1,67 @@
+{
+  "id": 1226479763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.2551,22.7127,90.2551,22.7127",
+    "geom:latitude":22.7127,
+    "geom:longitude":90.2551,
+    "gn:admin1_code":"82",
+    "gn:asciiname":"Somerdag",
+    "gn:country_code":"BD",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1187624,
+    "gn:latitude":22.7127,
+    "gn:longitude":90.2551,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Somerdag",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669019,
+        1108694677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1187624
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"c0036c3cad38bff1acc9b88c9465d460",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694677,
+            "locality_id":1226479763,
+            "region_id":85669019
+        }
+    ],
+    "wof:id":1226479763,
+    "wof:lastmodified":1537089776,
+    "wof:name":"Somerdag",
+    "wof:parent_id":1108694677,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.2551,
+    22.7127,
+    90.2551,
+    22.7127
+],
+  "geometry": {"coordinates":[90.2551,22.7127],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1293134235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.26287,23.23887,90.26287,23.23887",
+    "geom:latitude":23.23887,
+    "geom:longitude":90.26287,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3086.0",
+    "gn:admin3_code":"308669.0",
+    "gn:admin4_code":"30866919.0",
+    "gn:asciiname":"Habipur",
+    "gn:country_code":"BD",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1201793,
+    "gn:latitude":23.23887,
+    "gn:longitude":90.26287,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Habipur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421188359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1201793
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"528c36173dd04ec99406c8279cf7e898",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421188359,
+            "locality_id":1293134235,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1293134235,
+    "wof:lastmodified":1536799488,
+    "wof:name":"Habipur",
+    "wof:parent_id":421188359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.26287,
+    23.23887,
+    90.26287,
+    23.23887
+],
+  "geometry": {"coordinates":[90.26287000000001,23.23887],"type":"Point"}
+}

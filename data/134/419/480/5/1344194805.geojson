@@ -1,0 +1,70 @@
+{
+  "id": 1344194805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.63333,23.66667,90.63333,23.66667",
+    "geom:latitude":23.66667,
+    "geom:longitude":90.63333,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3067",
+    "gn:admin3_code":"306704.0",
+    "gn:admin4_code":"30670417.0",
+    "gn:asciiname":"Tengar Char",
+    "gn:country_code":"BD",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1186277,
+    "gn:latitude":23.66667,
+    "gn:longitude":90.63333,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Tengar Char",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421197045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1186277
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"35cb73ab48ec165412fd73c38ad288bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421197045,
+            "locality_id":1344194805,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1344194805,
+    "wof:lastmodified":1536681604,
+    "wof:name":"Tengar Char",
+    "wof:parent_id":421197045,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.63333,
+    23.66667,
+    90.63333,
+    23.66667
+],
+  "geometry": {"coordinates":[90.63333,23.66667],"type":"Point"}
+}

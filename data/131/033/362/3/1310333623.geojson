@@ -1,0 +1,74 @@
+{
+  "id": 1310333623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.55522,23.42006,89.55522,23.42006",
+    "geom:latitude":23.42006,
+    "geom:longitude":89.55522,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4055",
+    "gn:admin3_code":"405566.0",
+    "gn:admin4_code":"40556621.0",
+    "gn:asciiname":"Jashpur",
+    "gn:country_code":"BD",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1200184,
+    "gn:latitude":23.42006,
+    "gn:longitude":89.55522,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Jashpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jaspur",
+        "Jashpur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        1108694689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1200184
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"2eb5986f812ac8c9929bebb2971d8676",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694689,
+            "locality_id":1310333623,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1310333623,
+    "wof:lastmodified":1537585975,
+    "wof:name":"Jashpur",
+    "wof:parent_id":1108694689,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.55521999999998,
+    23.42006,
+    89.55521999999998,
+    23.42006
+],
+  "geometry": {"coordinates":[89.55521999999998,23.42006],"type":"Point"}
+}

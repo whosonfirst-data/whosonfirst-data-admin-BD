@@ -1,0 +1,70 @@
+{
+  "id": 1243487801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.39548,22.73785,89.39548,22.73785",
+    "geom:latitude":22.73785,
+    "geom:longitude":89.39548,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4047.0",
+    "gn:admin3_code":"404730.0",
+    "gn:admin4_code":"40473081.0",
+    "gn:asciiname":"Dighulia",
+    "gn:country_code":"BD",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1203980,
+    "gn:latitude":22.73785,
+    "gn:longitude":89.39548,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Dighulia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        421185473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1203980
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"221cd3086192513c69e319a61282ac5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421185473,
+            "locality_id":1243487801,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1243487801,
+    "wof:lastmodified":1536745663,
+    "wof:name":"Dighulia",
+    "wof:parent_id":421185473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.39548,
+    22.73785,
+    89.39548,
+    22.73785
+],
+  "geometry": {"coordinates":[89.39548000000001,22.73785],"type":"Point"}
+}

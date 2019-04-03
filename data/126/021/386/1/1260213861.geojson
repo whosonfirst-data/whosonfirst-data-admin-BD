@@ -1,0 +1,73 @@
+{
+  "id": 1260213861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.3387,23.39859,89.3387,23.39859",
+    "geom:latitude":23.39859,
+    "geom:longitude":89.3387,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4055.0",
+    "gn:admin3_code":"405585.0",
+    "gn:admin4_code":"40558583.0",
+    "gn:asciiname":"Seojati",
+    "gn:country_code":"BD",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7479275,
+    "gn:latitude":23.39859,
+    "gn:longitude":89.3387,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Seoj\u0101ti",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Seoj\u0101ti"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        1108694689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7479275
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"43c5e23767745ab5e3f13973a8826d67",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694689,
+            "locality_id":1260213861,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1260213861,
+    "wof:lastmodified":1537586415,
+    "wof:name":"Seojati",
+    "wof:parent_id":1108694689,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.3387,
+    23.39859,
+    89.3387,
+    23.39859
+],
+  "geometry": {"coordinates":[89.3387,23.39859],"type":"Point"}
+}

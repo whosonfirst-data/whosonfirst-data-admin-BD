@@ -1,0 +1,76 @@
+{
+  "id": 1193074959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.43333,22.85,91.43333,22.85",
+    "geom:latitude":22.85,
+    "geom:longitude":91.43333,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2030",
+    "gn:admin3_code":"203094.0",
+    "gn:admin4_code":"20309485.0",
+    "gn:asciiname":"Sahapur",
+    "gn:cc2":"BD",
+    "gn:country_code":"BD",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1189254,
+    "gn:latitude":22.85,
+    "gn:longitude":91.43333,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"S\u0101h\u0101pur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Char Sahapur",
+        "South Sahapur",
+        "S\u0101h\u0101pur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421181771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1189254
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"8f0009fa182254299547efc94170852b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421181771,
+            "locality_id":1193074959,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1193074959,
+    "wof:lastmodified":1537585776,
+    "wof:name":"Sahapur",
+    "wof:parent_id":421181771,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.43333,
+    22.85,
+    91.43333,
+    22.85
+],
+  "geometry": {"coordinates":[91.43333,22.85],"type":"Point"}
+}

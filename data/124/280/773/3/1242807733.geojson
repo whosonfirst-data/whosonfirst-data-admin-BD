@@ -1,0 +1,70 @@
+{
+  "id": 1242807733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.45146,23.75122,90.45146,23.75122",
+    "geom:latitude":23.75122,
+    "geom:longitude":90.45146,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3026",
+    "gn:admin3_code":"302640.0",
+    "gn:admin4_code":"30264008.0",
+    "gn:asciiname":"Nandipara",
+    "gn:country_code":"BD",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1193453,
+    "gn:latitude":23.75122,
+    "gn:longitude":90.45146,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Nandip\u0101ra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421187803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1193453
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"e144dc1d3eefd275d237dec35df653df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421187803,
+            "locality_id":1242807733,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1242807733,
+    "wof:lastmodified":1536732562,
+    "wof:name":"Nandipara",
+    "wof:parent_id":421187803,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.45146,
+    23.75122,
+    90.45146,
+    23.75122
+],
+  "geometry": {"coordinates":[90.45146,23.75122],"type":"Point"}
+}

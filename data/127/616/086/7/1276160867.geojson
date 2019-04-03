@@ -1,0 +1,74 @@
+{
+  "id": 1276160867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.49241,23.5584,90.49241,23.5584",
+    "geom:latitude":23.5584,
+    "geom:longitude":90.49241,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3059.0",
+    "gn:admin3_code":"305956.0",
+    "gn:admin4_code":"30595695.0",
+    "gn:asciiname":"Chandantala",
+    "gn:country_code":"BD",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1207475,
+    "gn:latitude":23.5584,
+    "gn:longitude":90.49241,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Ch\u0101ndantala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chandantola",
+        "Ch\u0101ndantala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421205059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1207475
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"75dfa0b78bc52f8bbd2eecbb3eb8b8c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421205059,
+            "locality_id":1276160867,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1276160867,
+    "wof:lastmodified":1537586110,
+    "wof:name":"Chandantala",
+    "wof:parent_id":421205059,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.49241,
+    23.5584,
+    90.49241,
+    23.5584
+],
+  "geometry": {"coordinates":[90.49241000000001,23.5584],"type":"Point"}
+}

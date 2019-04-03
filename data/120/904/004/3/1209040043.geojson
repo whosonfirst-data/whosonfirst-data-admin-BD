@@ -1,0 +1,67 @@
+{
+  "id": 1209040043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.5259,22.43173,90.5259,22.43173",
+    "geom:latitude":22.43173,
+    "geom:longitude":90.5259,
+    "gn:admin1_code":"85",
+    "gn:admin2_code":"1078.0",
+    "gn:admin3_code":"107838.0",
+    "gn:admin4_code":"10783877.0",
+    "gn:asciiname":"Machhpara",
+    "gn:country_code":"BD",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7478014,
+    "gn:latitude":22.43173,
+    "gn:longitude":90.5259,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"M\u0101chhpara",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "M\u0101chhpara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7478014
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"5c6e42526b20d546a5a6e674045261b8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209040043
+        }
+    ],
+    "wof:id":1209040043,
+    "wof:lastmodified":1537586380,
+    "wof:name":"Machhpara",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.5259,
+    22.43173,
+    90.5259,
+    22.43173
+],
+  "geometry": {"coordinates":[90.52589999999999,22.43173],"type":"Point"}
+}

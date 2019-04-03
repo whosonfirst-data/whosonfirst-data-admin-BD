@@ -1,0 +1,73 @@
+{
+  "id": 1360233317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"92.35077,23.0678,92.35077,23.0678",
+    "geom:latitude":23.0678,
+    "geom:longitude":92.35077,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2084.0",
+    "gn:admin3_code":"208421.0",
+    "gn:admin4_code":"20842131.0",
+    "gn:asciiname":"Dirbadhanpara",
+    "gn:country_code":"BD",
+    "gn:dem":55,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7477173,
+    "gn:latitude":23.0678,
+    "gn:longitude":92.35077,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Dirbadhanp\u0101ra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Dirbadhanp\u0101ra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421188983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7477173
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"a71a05b163af41667f4fad8a83473d0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421188983,
+            "locality_id":1360233317,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1360233317,
+    "wof:lastmodified":1537586362,
+    "wof:name":"Dirbadhanpara",
+    "wof:parent_id":421188983,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    92.35077,
+    23.0678,
+    92.35077,
+    23.0678
+],
+  "geometry": {"coordinates":[92.35077,23.0678],"type":"Point"}
+}

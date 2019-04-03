@@ -1,0 +1,73 @@
+{
+  "id": 1343594829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.61851,24.5626,90.61851,24.5626",
+    "geom:latitude":24.5626,
+    "geom:longitude":90.61851,
+    "gn:admin1_code":"H",
+    "gn:admin2_code":"3061",
+    "gn:admin3_code":"306172.0",
+    "gn:admin4_code":"30617255.0",
+    "gn:asciiname":"Moazzempur",
+    "gn:country_code":"BD",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1195596,
+    "gn:latitude":24.5626,
+    "gn:longitude":90.61851,
+    "gn:modification_date":"2016-11-17",
+    "gn:name":"Moazzempur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mahazampur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        1108803101,
+        421185469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1195596
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"25ffe1afca407be0a327f241c0dddf3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421185469,
+            "locality_id":1343594829,
+            "region_id":1108803101
+        }
+    ],
+    "wof:id":1343594829,
+    "wof:lastmodified":1537585892,
+    "wof:name":"Moazzempur",
+    "wof:parent_id":421185469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.61851,
+    24.5626,
+    90.61851,
+    24.5626
+],
+  "geometry": {"coordinates":[90.61851,24.5626],"type":"Point"}
+}

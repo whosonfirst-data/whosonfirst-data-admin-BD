@@ -1,0 +1,70 @@
+{
+  "id": 1226375789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.38219,23.98345,89.38219,23.98345",
+    "geom:latitude":23.98345,
+    "geom:longitude":89.38219,
+    "gn:admin1_code":"83",
+    "gn:admin2_code":"5076",
+    "gn:admin3_code":"507655.0",
+    "gn:admin4_code":"50765594.0",
+    "gn:asciiname":"Srikol",
+    "gn:country_code":"BD",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1187275,
+    "gn:latitude":23.98345,
+    "gn:longitude":89.38219,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Sr\u012bkol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669031,
+        421197541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1187275
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"bca72eeaec5b401145473aac03b79eab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421197541,
+            "locality_id":1226375789,
+            "region_id":85669031
+        }
+    ],
+    "wof:id":1226375789,
+    "wof:lastmodified":1536746063,
+    "wof:name":"Srikol",
+    "wof:parent_id":421197541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.38219000000002,
+    23.98345,
+    89.38219000000002,
+    23.98345
+],
+  "geometry": {"coordinates":[89.38219000000002,23.98345],"type":"Point"}
+}

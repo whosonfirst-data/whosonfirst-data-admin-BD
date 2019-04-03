@@ -1,0 +1,73 @@
+{
+  "id": 1344086645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.72481,22.97917,89.72481,22.97917",
+    "geom:latitude":22.97917,
+    "geom:longitude":89.72481,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4065.0",
+    "gn:admin3_code":"406528.0",
+    "gn:admin4_code":"40652815.0",
+    "gn:asciiname":"Dutkura",
+    "gn:country_code":"BD",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7486403,
+    "gn:latitude":22.97917,
+    "gn:longitude":89.72481,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Dutkura",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Dutkura"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        421205213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7486403
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"b2c71819203b8b0fab0a33c0554a4c34",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421205213,
+            "locality_id":1344086645,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1344086645,
+    "wof:lastmodified":1537586613,
+    "wof:name":"Dutkura",
+    "wof:parent_id":421205213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.72480999999998,
+    22.97917,
+    89.72480999999998,
+    22.97917
+],
+  "geometry": {"coordinates":[89.72480999999998,22.97917],"type":"Point"}
+}

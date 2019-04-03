@@ -1,0 +1,73 @@
+{
+  "id": 1225874561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.75258,26.29859,88.75258,26.29859",
+    "geom:latitude":26.29859,
+    "geom:longitude":88.75258,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5577.0",
+    "gn:admin3_code":"557734.0",
+    "gn:admin4_code":"55773419.0",
+    "gn:asciiname":"Chilahati",
+    "gn:country_code":"BD",
+    "gn:dem":70,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7104384,
+    "gn:latitude":26.29859,
+    "gn:longitude":88.75258,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Chilah\u0101ti",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Chilah\u0101ti"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7104384
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"9748648e3c431a22e45d8d96df004f30",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694697,
+            "locality_id":1225874561,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1225874561,
+    "wof:lastmodified":1537586274,
+    "wof:name":"Chilahati",
+    "wof:parent_id":1108694697,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.75258000000002,
+    26.29859,
+    88.75258000000002,
+    26.29859
+],
+  "geometry": {"coordinates":[88.75258000000002,26.29859],"type":"Point"}
+}

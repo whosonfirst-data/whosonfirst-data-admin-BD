@@ -1,0 +1,70 @@
+{
+  "id": 1243591321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.59323,24.09273,90.59323,24.09273",
+    "geom:latitude":24.09273,
+    "geom:longitude":90.59323,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3033",
+    "gn:admin3_code":"303336.0",
+    "gn:admin4_code":"30333625.0",
+    "gn:asciiname":"Raonat",
+    "gn:country_code":"BD",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1189792,
+    "gn:latitude":24.09273,
+    "gn:longitude":90.59323,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"R\u0101on\u0101t",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421203493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1189792
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"1842b602bcc0f087937d91704bbde278",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421203493,
+            "locality_id":1243591321,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1243591321,
+    "wof:lastmodified":1537090288,
+    "wof:name":"Raonat",
+    "wof:parent_id":421203493,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.59323,
+    24.09273,
+    90.59323,
+    24.09273
+],
+  "geometry": {"coordinates":[90.59323000000001,24.09273],"type":"Point"}
+}

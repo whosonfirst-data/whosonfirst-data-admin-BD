@@ -1,0 +1,70 @@
+{
+  "id": 1344086647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.16994,22.68234,90.16994,22.68234",
+    "geom:latitude":22.68234,
+    "geom:longitude":90.16994,
+    "gn:admin1_code":"85",
+    "gn:admin2_code":"1042",
+    "gn:admin3_code":"104240.0",
+    "gn:admin4_code":"10424066.0",
+    "gn:asciiname":"Kirtipasa",
+    "gn:country_code":"BD",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1197191,
+    "gn:latitude":22.68234,
+    "gn:longitude":90.16994,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"K\u012brtip\u0101sa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669019,
+        1108694677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1197191
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"d6fe0e11f671f9c84190c416848b8ac6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694677,
+            "locality_id":1344086647,
+            "region_id":85669019
+        }
+    ],
+    "wof:id":1344086647,
+    "wof:lastmodified":1536836928,
+    "wof:name":"Kirtipasa",
+    "wof:parent_id":1108694677,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.16994,
+    22.68234,
+    90.16994,
+    22.68234
+],
+  "geometry": {"coordinates":[90.16994,22.68234],"type":"Point"}
+}

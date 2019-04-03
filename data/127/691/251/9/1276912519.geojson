@@ -1,0 +1,73 @@
+{
+  "id": 1276912519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.93367,23.40496,88.93367,23.40496",
+    "geom:latitude":23.40496,
+    "geom:longitude":88.93367,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4044.0",
+    "gn:admin3_code":"404471.0",
+    "gn:admin4_code":"40447183.0",
+    "gn:asciiname":"Khurd Khalishpur",
+    "gn:country_code":"BD",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7485188,
+    "gn:latitude":23.40496,
+    "gn:longitude":88.93367,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Khurd Kh\u0101lishpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Khurd Kh\u0101lishpur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        1108694679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7485188
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"72dace7b0f690931184a6711e5d48470",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694679,
+            "locality_id":1276912519,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1276912519,
+    "wof:lastmodified":1537586584,
+    "wof:name":"Khurd Khalishpur",
+    "wof:parent_id":1108694679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.93366999999998,
+    23.40496,
+    88.93366999999998,
+    23.40496
+],
+  "geometry": {"coordinates":[88.93366999999998,23.40496],"type":"Point"}
+}

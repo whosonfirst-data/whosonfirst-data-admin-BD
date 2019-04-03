@@ -1,0 +1,70 @@
+{
+  "id": 1327167559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.44526,23.57752,89.44526,23.57752",
+    "geom:latitude":23.57752,
+    "geom:longitude":89.44526,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4055",
+    "gn:admin3_code":"405595.0",
+    "gn:admin4_code":"40559563.0",
+    "gn:asciiname":"Naohatta",
+    "gn:country_code":"BD",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1193360,
+    "gn:latitude":23.57752,
+    "gn:longitude":89.44526,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Naoh\u0101tta",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        1108694689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1193360
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"6e29a4f1877e1f5d267f812a3e81e72a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694689,
+            "locality_id":1327167559,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1327167559,
+    "wof:lastmodified":1537060621,
+    "wof:name":"Naohatta",
+    "wof:parent_id":1108694689,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.44526,
+    23.57752,
+    89.44526,
+    23.57752
+],
+  "geometry": {"coordinates":[89.44526,23.57752],"type":"Point"}
+}

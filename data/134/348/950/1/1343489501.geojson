@@ -1,0 +1,70 @@
+{
+  "id": 1343489501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.64316,23.52041,89.64316,23.52041",
+    "geom:latitude":23.52041,
+    "geom:longitude":89.64316,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3029",
+    "gn:admin3_code":"302956.0",
+    "gn:admin4_code":"30295652.0",
+    "gn:asciiname":"Nikharia",
+    "gn:country_code":"BD",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1192845,
+    "gn:latitude":23.52041,
+    "gn:longitude":89.64316,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Nikharia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421198063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1192845
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"8dc34475be6a127b09059f19492e652d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421198063,
+            "locality_id":1343489501,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1343489501,
+    "wof:lastmodified":1536704687,
+    "wof:name":"Nikharia",
+    "wof:parent_id":421198063,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.64316,
+    23.52041,
+    89.64316,
+    23.52041
+],
+  "geometry": {"coordinates":[89.64315999999999,23.52041],"type":"Point"}
+}

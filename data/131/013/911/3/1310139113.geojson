@@ -1,0 +1,73 @@
+{
+  "id": 1310139113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.18539,25.19996,89.18539,25.19996",
+    "geom:latitude":25.19996,
+    "geom:longitude":89.18539,
+    "gn:admin1_code":"83",
+    "gn:admin2_code":"5038.0",
+    "gn:admin3_code":"503874.0",
+    "gn:admin4_code":"50387410.0",
+    "gn:asciiname":"Piara",
+    "gn:country_code":"BD",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7888980,
+    "gn:latitude":25.19996,
+    "gn:longitude":89.18539,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Pi\u0101ra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Pi\u0101ra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669031,
+        1108694681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7888980
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"a65670ec40c77d793ea4cfcc63afeda8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694681,
+            "locality_id":1310139113,
+            "region_id":85669031
+        }
+    ],
+    "wof:id":1310139113,
+    "wof:lastmodified":1537586726,
+    "wof:name":"Piara",
+    "wof:parent_id":1108694681,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.18539,
+    25.19996,
+    89.18539,
+    25.19996
+],
+  "geometry": {"coordinates":[89.18539,25.19996],"type":"Point"}
+}

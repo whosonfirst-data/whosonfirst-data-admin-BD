@@ -1,0 +1,70 @@
+{
+  "id": 1242614843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.59044,23.73936,89.59044,23.73936",
+    "geom:latitude":23.73936,
+    "geom:longitude":89.59044,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3082.0",
+    "gn:admin3_code":"308276.0",
+    "gn:admin4_code":"30827632.0",
+    "gn:asciiname":"Ghorpalan",
+    "gn:country_code":"BD",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1202527,
+    "gn:latitude":23.73936,
+    "gn:longitude":89.59044,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Ghorp\u0101l\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        1108694699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1202527
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"4285bc38ca1d03e77aa30593668613a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694699,
+            "locality_id":1242614843,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1242614843,
+    "wof:lastmodified":1537009225,
+    "wof:name":"Ghorpalan",
+    "wof:parent_id":1108694699,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.59044,
+    23.73936,
+    89.59044,
+    23.73936
+],
+  "geometry": {"coordinates":[89.59044,23.73936],"type":"Point"}
+}

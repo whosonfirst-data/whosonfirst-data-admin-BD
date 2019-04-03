@@ -1,0 +1,70 @@
+{
+  "id": 1260221641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.38549,22.32084,90.38549,22.32084",
+    "geom:latitude":22.32084,
+    "geom:longitude":90.38549,
+    "gn:admin1_code":"82",
+    "gn:asciiname":"Kathuriat Taluk",
+    "gn:country_code":"BD",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7476790,
+    "gn:latitude":22.32084,
+    "gn:longitude":90.38549,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"Kathuri\u0101t T\u0101luk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Kathuri\u0101t T\u0101luk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669019,
+        421169845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7476790
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"1e1e697432a4b95aaaf609298b811a6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421169845,
+            "locality_id":1260221641,
+            "region_id":85669019
+        }
+    ],
+    "wof:id":1260221641,
+    "wof:lastmodified":1537586354,
+    "wof:name":"Kathuriat Taluk",
+    "wof:parent_id":421169845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.38549,
+    22.32084,
+    90.38549,
+    22.32084
+],
+  "geometry": {"coordinates":[90.38549,22.32084],"type":"Point"}
+}

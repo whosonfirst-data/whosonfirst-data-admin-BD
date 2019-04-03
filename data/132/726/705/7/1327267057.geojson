@@ -1,0 +1,73 @@
+{
+  "id": 1327267057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.53874,23.9594,89.53874,23.9594",
+    "geom:latitude":23.9594,
+    "geom:longitude":89.53874,
+    "gn:admin1_code":"83",
+    "gn:admin2_code":"5076.0",
+    "gn:admin3_code":"507683.0",
+    "gn:admin4_code":"50768309.0",
+    "gn:asciiname":"Aladipur",
+    "gn:country_code":"BD",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7479521,
+    "gn:latitude":23.9594,
+    "gn:longitude":89.53874,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Aladipur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Aladipur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669031,
+        421197541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7479521
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"a88d62bb6b8374c73e96e919ca7e5366",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421197541,
+            "locality_id":1327267057,
+            "region_id":85669031
+        }
+    ],
+    "wof:id":1327267057,
+    "wof:lastmodified":1537586422,
+    "wof:name":"Aladipur",
+    "wof:parent_id":421197541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.53874,
+    23.9594,
+    89.53874,
+    23.9594
+],
+  "geometry": {"coordinates":[89.53874,23.9594],"type":"Point"}
+}

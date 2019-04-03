@@ -1,0 +1,74 @@
+{
+  "id": 1343887987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.34303,24.34079,89.34303,24.34079",
+    "geom:latitude":24.34079,
+    "geom:longitude":89.34303,
+    "gn:admin1_code":"83",
+    "gn:admin2_code":"5076",
+    "gn:admin3_code":"507622.0",
+    "gn:admin4_code":"50762251.0",
+    "gn:asciiname":"Sathal",
+    "gn:country_code":"BD",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1188437,
+    "gn:latitude":24.34079,
+    "gn:longitude":89.34303,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Sathal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sthal",
+        "Sathal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669031,
+        421197541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1188437
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"2fb9fbc127965405292595f54b698ee7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421197541,
+            "locality_id":1343887987,
+            "region_id":85669031
+        }
+    ],
+    "wof:id":1343887987,
+    "wof:lastmodified":1537585762,
+    "wof:name":"Sathal",
+    "wof:parent_id":421197541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.34303,
+    24.34079,
+    89.34303,
+    24.34079
+],
+  "geometry": {"coordinates":[89.34303,24.34079],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1209548867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.90288,24.74182,88.90288,24.74182",
+    "geom:latitude":24.74182,
+    "geom:longitude":88.90288,
+    "gn:admin1_code":"83",
+    "gn:admin2_code":"5064",
+    "gn:admin3_code":"506460.0",
+    "gn:admin4_code":"50646036.0",
+    "gn:asciiname":"Sikarpur",
+    "gn:country_code":"BD",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1187942,
+    "gn:latitude":24.74182,
+    "gn:longitude":88.90288,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Sikarpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Sikarpur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1187942
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"820732b364af0f0a516096d546dda414",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209548867
+        }
+    ],
+    "wof:id":1209548867,
+    "wof:lastmodified":1537585748,
+    "wof:name":"Sikarpur",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.90288000000002,
+    24.74182,
+    88.90288000000002,
+    24.74182
+],
+  "geometry": {"coordinates":[88.90288000000002,24.74182],"type":"Point"}
+}

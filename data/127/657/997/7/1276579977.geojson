@@ -1,0 +1,76 @@
+{
+  "id": 1276579977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.17781,23.98002,89.17781,23.98002",
+    "geom:latitude":23.98002,
+    "geom:longitude":89.17781,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4050.0",
+    "gn:admin3_code":"405071.0",
+    "gn:admin4_code":"40507151.0",
+    "gn:asciiname":"Bagunda Bathanpara",
+    "gn:country_code":"BD",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1211846,
+    "gn:latitude":23.98002,
+    "gn:longitude":89.17781,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Bagunda Bathanpara",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Bagunda Bathanpara"
+    ],
+    "name:ben_x_variant":[
+        "B\u0101gunda B\u0101th\u0101p\u0101ra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669031,
+        421197541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1211846
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"f86d37c7ca86972f9d09cd12005b5aa8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421197541,
+            "locality_id":1276579977,
+            "region_id":85669031
+        }
+    ],
+    "wof:id":1276579977,
+    "wof:lastmodified":1537586185,
+    "wof:name":"Bagunda Bathanpara",
+    "wof:parent_id":421197541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.17781,
+    23.98002,
+    89.17781,
+    23.98002
+],
+  "geometry": {"coordinates":[89.17780999999999,23.98002],"type":"Point"}
+}

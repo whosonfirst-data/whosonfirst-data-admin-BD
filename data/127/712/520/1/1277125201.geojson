@@ -1,0 +1,70 @@
+{
+  "id": 1277125201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.73333,23.48333,90.73333,23.48333",
+    "geom:latitude":23.48333,
+    "geom:longitude":90.73333,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2019",
+    "gn:admin3_code":"201936.0",
+    "gn:admin4_code":"20193638.0",
+    "gn:asciiname":"Manthan",
+    "gn:country_code":"BD",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1194851,
+    "gn:latitude":23.48333,
+    "gn:longitude":90.73333,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Manthan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421187801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1194851
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"2bf5504a426fc18e1c6dc7acf6b2d582",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421187801,
+            "locality_id":1277125201,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1277125201,
+    "wof:lastmodified":1536706846,
+    "wof:name":"Manthan",
+    "wof:parent_id":421187801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.73333,
+    23.48333,
+    90.73333,
+    23.48333
+],
+  "geometry": {"coordinates":[90.73333,23.48333],"type":"Point"}
+}

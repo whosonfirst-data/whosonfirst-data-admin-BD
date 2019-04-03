@@ -1,0 +1,73 @@
+{
+  "id": 1225981947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.14855,23.56102,89.14855,23.56102",
+    "geom:latitude":23.56102,
+    "geom:longitude":89.14855,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4044.0",
+    "gn:admin3_code":"404419.0",
+    "gn:admin4_code":"40441900.0",
+    "gn:asciiname":"Gilabaria",
+    "gn:country_code":"BD",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7478904,
+    "gn:latitude":23.56102,
+    "gn:longitude":89.14855,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Gil\u0101b\u0101ria",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Gil\u0101b\u0101ria"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        1108694679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7478904
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"a25a856f14c4e6dd580ab5b5ed5f2ad9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694679,
+            "locality_id":1225981947,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1225981947,
+    "wof:lastmodified":1537586404,
+    "wof:name":"Gilabaria",
+    "wof:parent_id":1108694679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.14855,
+    23.56102000000001,
+    89.14855,
+    23.56102000000001
+],
+  "geometry": {"coordinates":[89.14855,23.56102000000001],"type":"Point"}
+}

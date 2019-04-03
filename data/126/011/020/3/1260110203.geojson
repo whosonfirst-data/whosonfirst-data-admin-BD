@@ -1,0 +1,70 @@
+{
+  "id": 1260110203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.43872,25.72634,89.43872,25.72634",
+    "geom:latitude":25.72634,
+    "geom:longitude":89.43872,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5585.0",
+    "gn:admin3_code":"558542.0",
+    "gn:admin4_code":"55854281.0",
+    "gn:asciiname":"Nabu Chalunia",
+    "gn:country_code":"BD",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7887885,
+    "gn:latitude":25.72634,
+    "gn:longitude":89.43872,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Nabu Ch\u0101lunia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7887885
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"aeac1872d5305456b46a023c460ae41c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694701,
+            "locality_id":1260110203,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1260110203,
+    "wof:lastmodified":1536949991,
+    "wof:name":"Nabu Chalunia",
+    "wof:parent_id":1108694701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.43871999999998,
+    25.72634,
+    89.43871999999998,
+    25.72634
+],
+  "geometry": {"coordinates":[89.43871999999998,25.72634],"type":"Point"}
+}

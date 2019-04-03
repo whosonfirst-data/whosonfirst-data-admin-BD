@@ -1,0 +1,79 @@
+{
+  "id": 1310135803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.87742,24.07783,88.87742,24.07783",
+    "geom:latitude":24.07783,
+    "geom:longitude":88.87742,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4050",
+    "gn:admin3_code":"405039.0",
+    "gn:admin4_code":"40503954.0",
+    "gn:asciiname":"Maijdiar",
+    "gn:country_code":"BD",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1195356,
+    "gn:latitude":24.07783,
+    "gn:longitude":88.87742,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"M\u0101ijdi\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "M\u0101ijdi\u0101r"
+    ],
+    "name:ben_x_variant":[
+        "M\u0101jdi\u0101r"
+    ],
+    "name:und_x_variant":[
+        "Majhdiar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        890438075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1195356
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"dcad4fb3cf1d43ad53641509399abe80",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":890438075,
+            "locality_id":1310135803,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1310135803,
+    "wof:lastmodified":1537585886,
+    "wof:name":"Maijdiar",
+    "wof:parent_id":890438075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.87742,
+    24.07783,
+    88.87742,
+    24.07783
+],
+  "geometry": {"coordinates":[88.87742,24.07783],"type":"Point"}
+}

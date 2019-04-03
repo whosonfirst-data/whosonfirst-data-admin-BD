@@ -1,0 +1,73 @@
+{
+  "id": 1259713559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.45557,23.48973,89.45557,23.48973",
+    "geom:latitude":23.48973,
+    "geom:longitude":89.45557,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4055.0",
+    "gn:admin3_code":"405557.0",
+    "gn:admin4_code":"40555720.0",
+    "gn:asciiname":"Barasia",
+    "gn:country_code":"BD",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1210236,
+    "gn:latitude":23.48973,
+    "gn:longitude":89.45557,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"B\u0101r\u0101sia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "B\u0101r\u0101sia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        1108694689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1210236
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"a9b6b4e922ec9f409a316b319dcb1407",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694689,
+            "locality_id":1259713559,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1259713559,
+    "wof:lastmodified":1537586158,
+    "wof:name":"Barasia",
+    "wof:parent_id":1108694689,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.45557,
+    23.48973,
+    89.45557,
+    23.48973
+],
+  "geometry": {"coordinates":[89.45556999999999,23.48973],"type":"Point"}
+}

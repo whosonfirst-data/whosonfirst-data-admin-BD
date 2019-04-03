@@ -1,0 +1,73 @@
+{
+  "id": 1293038219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.39333,25.64056,89.39333,25.64056",
+    "geom:latitude":25.64056,
+    "geom:longitude":89.39333,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5585.0",
+    "gn:admin3_code":"558573.0",
+    "gn:admin4_code":"55857376.0",
+    "gn:asciiname":"Majpara",
+    "gn:country_code":"BD",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7889408,
+    "gn:latitude":25.64056,
+    "gn:longitude":89.39333,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"M\u0101jp\u0101ra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "M\u0101jp\u0101ra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7889408
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"0dde1f64371a7bba1a2fe95f18b34f7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694701,
+            "locality_id":1293038219,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1293038219,
+    "wof:lastmodified":1537586733,
+    "wof:name":"Majpara",
+    "wof:parent_id":1108694701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.39333,
+    25.64056,
+    89.39333,
+    25.64056
+],
+  "geometry": {"coordinates":[89.39333000000001,25.64056],"type":"Point"}
+}

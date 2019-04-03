@@ -1,0 +1,74 @@
+{
+  "id": 1326767853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.7061,23.86205,90.7061,23.86205",
+    "geom:latitude":23.86205,
+    "geom:longitude":90.7061,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3068.0",
+    "gn:admin3_code":"306860.0",
+    "gn:admin4_code":"30686059.0",
+    "gn:asciiname":"Ghazirgaon",
+    "gn:country_code":"BD",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1202710,
+    "gn:latitude":23.86205,
+    "gn:longitude":90.7061,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Gh\u0101zirgaon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gh\u0101zirgaon",
+        "G\u0101zirgaon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421169707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1202710
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"1b0a2f42894643ae8fb9434a89b0aad0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421169707,
+            "locality_id":1326767853,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1326767853,
+    "wof:lastmodified":1537586021,
+    "wof:name":"Ghazirgaon",
+    "wof:parent_id":421169707,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.7061,
+    23.86205,
+    90.7061,
+    23.86205
+],
+  "geometry": {"coordinates":[90.70610000000001,23.86205],"type":"Point"}
+}

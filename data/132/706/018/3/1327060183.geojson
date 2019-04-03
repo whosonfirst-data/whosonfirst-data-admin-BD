@@ -1,0 +1,70 @@
+{
+  "id": 1327060183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.78333,24.18333,88.78333,24.18333",
+    "geom:latitude":24.18333,
+    "geom:longitude":88.78333,
+    "gn:admin1_code":"83",
+    "gn:admin2_code":"5081.0",
+    "gn:admin3_code":"508110.0",
+    "gn:admin4_code":"50811079.0",
+    "gn:asciiname":"Debottar Ismail",
+    "gn:country_code":"BD",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1204755,
+    "gn:latitude":24.18333,
+    "gn:longitude":88.78333,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Debott\u0101r Ismail",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669031,
+        421172439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1204755
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"452a974488d005d9a025dea5825ae7c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421172439,
+            "locality_id":1327060183,
+            "region_id":85669031
+        }
+    ],
+    "wof:id":1327060183,
+    "wof:lastmodified":1536720830,
+    "wof:name":"Debottar Ismail",
+    "wof:parent_id":421172439,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.78333,
+    24.18333,
+    88.78333,
+    24.18333
+],
+  "geometry": {"coordinates":[88.78333000000001,24.18333],"type":"Point"}
+}

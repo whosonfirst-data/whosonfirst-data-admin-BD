@@ -1,0 +1,74 @@
+{
+  "id": 1226272439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.7,25.55,89.7,25.55",
+    "geom:latitude":25.55,
+    "geom:longitude":89.7,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5549.0",
+    "gn:admin3_code":"554909.0",
+    "gn:admin4_code":"55490923.0",
+    "gn:asciiname":"Bailman Diarkhata",
+    "gn:country_code":"BD",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1211654,
+    "gn:latitude":25.55,
+    "gn:longitude":89.7,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Bailm\u0101n Di\u0101rkh\u0101ta",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Boail Mandiar Khata",
+        "Bailm\u0101n Di\u0101rkh\u0101ta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1211654
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"4cbf46b3b0064a4c4ea9c58873295040",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694685,
+            "locality_id":1226272439,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1226272439,
+    "wof:lastmodified":1537586182,
+    "wof:name":"Bailman Diarkhata",
+    "wof:parent_id":1108694685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.7,
+    25.55,
+    89.7,
+    25.55
+],
+  "geometry": {"coordinates":[89.7,25.55],"type":"Point"}
+}

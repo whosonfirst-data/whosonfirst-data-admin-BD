@@ -1,0 +1,73 @@
+{
+  "id": 1292939117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.7116,25.39473,89.7116,25.39473",
+    "geom:latitude":25.39473,
+    "geom:longitude":89.7116,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5532",
+    "gn:admin3_code":"553224.0",
+    "gn:admin4_code":"55322485.0",
+    "gn:asciiname":"Sitasuti",
+    "gn:country_code":"BD",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7905486,
+    "gn:latitude":25.39473,
+    "gn:longitude":89.7116,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Sitasuti",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Sitasuti"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7905486
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"c16043ecc18c28d6de571f4218f1b9d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694675,
+            "locality_id":1292939117,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1292939117,
+    "wof:lastmodified":1537586774,
+    "wof:name":"Sitasuti",
+    "wof:parent_id":1108694675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.7116,
+    25.39473,
+    89.7116,
+    25.39473
+],
+  "geometry": {"coordinates":[89.7116,25.39473],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1293517677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.5573,23.89525,90.5573,23.89525",
+    "geom:latitude":23.89525,
+    "geom:longitude":90.5573,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3067.0",
+    "gn:admin3_code":"306768.0",
+    "gn:admin4_code":"30676894.0",
+    "gn:asciiname":"Bartul",
+    "gn:country_code":"BD",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1210073,
+    "gn:latitude":23.89525,
+    "gn:longitude":90.5573,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Bartul",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bortul",
+        "Bartul"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421197045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1210073
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"2e9a392492ddd1d6869f5b7f392e7f19",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421197045,
+            "locality_id":1293517677,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1293517677,
+    "wof:lastmodified":1537586156,
+    "wof:name":"Bartul",
+    "wof:parent_id":421197045,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.5573,
+    23.89525,
+    90.5573,
+    23.89525
+],
+  "geometry": {"coordinates":[90.5573,23.89525],"type":"Point"}
+}

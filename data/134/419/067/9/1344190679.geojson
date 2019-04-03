@@ -1,0 +1,73 @@
+{
+  "id": 1344190679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.75705,25.10558,89.75705,25.10558",
+    "geom:latitude":25.10558,
+    "geom:longitude":89.75705,
+    "gn:admin1_code":"H",
+    "gn:admin2_code":"3039",
+    "gn:admin3_code":"303929.0",
+    "gn:admin4_code":"30392987.0",
+    "gn:asciiname":"Muksimia",
+    "gn:country_code":"BD",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7921978,
+    "gn:latitude":25.10558,
+    "gn:longitude":89.75705,
+    "gn:modification_date":"2016-11-17",
+    "gn:name":"Muksimia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Muksimia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        1108803101,
+        421191923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7921978
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"357628f55554348078c759d7952c907e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421191923,
+            "locality_id":1344190679,
+            "region_id":1108803101
+        }
+    ],
+    "wof:id":1344190679,
+    "wof:lastmodified":1537586784,
+    "wof:name":"Muksimia",
+    "wof:parent_id":421191923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.75705,
+    25.10558,
+    89.75705,
+    25.10558
+],
+  "geometry": {"coordinates":[89.75705000000001,25.10558],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1326478915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.73333,23.08333,90.73333,23.08333",
+    "geom:latitude":23.08333,
+    "geom:longitude":90.73333,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2013.0",
+    "gn:admin3_code":"201345.0",
+    "gn:admin4_code":"20134535.0",
+    "gn:asciiname":"Harni",
+    "gn:country_code":"BD",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1201352,
+    "gn:latitude":23.08333,
+    "gn:longitude":90.73333,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Harni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        1108694669
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1201352
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"32d239d870ecfbcc9b42b39dae76c708",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694669,
+            "locality_id":1326478915,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1326478915,
+    "wof:lastmodified":1537058423,
+    "wof:name":"Harni",
+    "wof:parent_id":1108694669,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.73333,
+    23.08333,
+    90.73333,
+    23.08333
+],
+  "geometry": {"coordinates":[90.73333,23.08333],"type":"Point"}
+}

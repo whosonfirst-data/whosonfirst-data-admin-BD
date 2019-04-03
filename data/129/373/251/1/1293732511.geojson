@@ -1,0 +1,73 @@
+{
+  "id": 1293732511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.76423,22.62911,91.76423,22.62911",
+    "geom:latitude":22.62911,
+    "geom:longitude":91.76423,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2015.0",
+    "gn:admin3_code":"201533.0",
+    "gn:admin4_code":"20153385.0",
+    "gn:asciiname":"Hazirkhil",
+    "gn:country_code":"BD",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6414401,
+    "gn:latitude":22.62911,
+    "gn:longitude":91.76423,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"H\u0101zirkhil",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "H\u0101zirkhil"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421201541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6414401
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"c14cb9bf7ecea12ee11bd055b1e96a8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421201541,
+            "locality_id":1293732511,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1293732511,
+    "wof:lastmodified":1537586226,
+    "wof:name":"Hazirkhil",
+    "wof:parent_id":421201541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.76423,
+    22.62911,
+    91.76423,
+    22.62911
+],
+  "geometry": {"coordinates":[91.76423,22.62911],"type":"Point"}
+}

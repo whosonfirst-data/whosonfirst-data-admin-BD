@@ -1,0 +1,76 @@
+{
+  "id": 1293813905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.19509,23.66178,89.19509,23.66178",
+    "geom:latitude":23.66178,
+    "geom:longitude":89.19509,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4044.0",
+    "gn:admin3_code":"404480.0",
+    "gn:admin4_code":"40448094.0",
+    "gn:asciiname":"Garakhali Praganj",
+    "gn:country_code":"BD",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1202889,
+    "gn:latitude":23.66178,
+    "gn:longitude":89.19509,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"G\u0101r\u0101khali Pr\u0101ganj",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "G\u0101r\u0101khali Pr\u0101ganj"
+    ],
+    "name:ben_x_variant":[
+        "G\u0101r\u0101khola"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        1108694679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1202889
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"b970b5daba209853a3123c984204334f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694679,
+            "locality_id":1293813905,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1293813905,
+    "wof:lastmodified":1537586026,
+    "wof:name":"Garakhali Praganj",
+    "wof:parent_id":1108694679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.19509000000002,
+    23.66178,
+    89.19509000000002,
+    23.66178
+],
+  "geometry": {"coordinates":[89.19509000000002,23.66178],"type":"Point"}
+}

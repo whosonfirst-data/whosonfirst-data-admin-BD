@@ -1,0 +1,70 @@
+{
+  "id": 1293717251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.81187,24.49539,89.81187,24.49539",
+    "geom:latitude":24.49539,
+    "geom:longitude":89.81187,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3093.0",
+    "gn:admin3_code":"309319.0",
+    "gn:admin4_code":"30931954.0",
+    "gn:asciiname":"Char Gabsara",
+    "gn:country_code":"BD",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1206936,
+    "gn:latitude":24.49539,
+    "gn:longitude":89.81187,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Char G\u0101bs\u0101ra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421185471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1206936
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"7919576f98cc59c376c2f3abade963e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421185471,
+            "locality_id":1293717251,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1293717251,
+    "wof:lastmodified":1536953459,
+    "wof:name":"Char Gabsara",
+    "wof:parent_id":421185471,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.81187,
+    24.49539,
+    89.81187,
+    24.49539
+],
+  "geometry": {"coordinates":[89.81187,24.49539],"type":"Point"}
+}

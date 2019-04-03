@@ -1,0 +1,67 @@
+{
+  "id": 1209242957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.59534,26.41656,88.59534,26.41656",
+    "geom:latitude":26.41656,
+    "geom:longitude":88.59534,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5577.0",
+    "gn:admin3_code":"557773.0",
+    "gn:admin4_code":"55777335.0",
+    "gn:asciiname":"Tokopara",
+    "gn:country_code":"BD",
+    "gn:dem":83,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7104767,
+    "gn:latitude":26.41656,
+    "gn:longitude":88.59534,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Tokop\u0101ra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Tokop\u0101ra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7104767
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"4a67cb62670b950648a8f0fd131a8cbd",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209242957
+        }
+    ],
+    "wof:id":1209242957,
+    "wof:lastmodified":1537586285,
+    "wof:name":"Tokopara",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.59534000000002,
+    26.41656,
+    88.59534000000002,
+    26.41656
+],
+  "geometry": {"coordinates":[88.59534000000002,26.41656],"type":"Point"}
+}

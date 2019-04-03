@@ -1,0 +1,70 @@
+{
+  "id": 1226073109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.57612,24.0869,90.57612,24.0869",
+    "geom:latitude":24.0869,
+    "geom:longitude":90.57612,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3033.0",
+    "gn:admin3_code":"303336.0",
+    "gn:admin4_code":"30333643.0",
+    "gn:asciiname":"Barajona",
+    "gn:country_code":"BD",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1210426,
+    "gn:latitude":24.0869,
+    "gn:longitude":90.57612,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Barajona",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421203493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1210426
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"f6b5bf65b1faa6d045fd7c09d76a305c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421203493,
+            "locality_id":1226073109,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1226073109,
+    "wof:lastmodified":1536685899,
+    "wof:name":"Barajona",
+    "wof:parent_id":421203493,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.57612,
+    24.0869,
+    90.57612,
+    24.0869
+],
+  "geometry": {"coordinates":[90.57612,24.0869],"type":"Point"}
+}

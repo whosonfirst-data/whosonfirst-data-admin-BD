@@ -1,0 +1,70 @@
+{
+  "id": 1209845829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.80085,24.43983,90.80085,24.43983",
+    "geom:latitude":24.43983,
+    "geom:longitude":90.80085,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3048",
+    "gn:admin3_code":"304849.0",
+    "gn:admin4_code":"30484900.0",
+    "gn:asciiname":"Solakia",
+    "gn:country_code":"BD",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1187650,
+    "gn:latitude":24.43983,
+    "gn:longitude":90.80085,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Sol\u0101kia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421170483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1187650
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"8aab929e95d2958066385d463f54f616",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421170483,
+            "locality_id":1209845829,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1209845829,
+    "wof:lastmodified":1536390710,
+    "wof:name":"Solakia",
+    "wof:parent_id":421170483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.80085,
+    24.43983,
+    90.80085,
+    24.43983
+],
+  "geometry": {"coordinates":[90.80085,24.43983],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1259725865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.84077,23.0549,90.84077,23.0549",
+    "geom:latitude":23.0549,
+    "geom:longitude":90.84077,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2051",
+    "gn:admin3_code":"205165.0",
+    "gn:admin4_code":"20516557.0",
+    "gn:asciiname":"Majupur",
+    "gn:country_code":"BD",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1195282,
+    "gn:latitude":23.0549,
+    "gn:longitude":90.84077,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Majupur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421166521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1195282
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"42f960ae11e9a566cafe0810b05e36be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421166521,
+            "locality_id":1259725865,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1259725865,
+    "wof:lastmodified":1537005364,
+    "wof:name":"Majupur",
+    "wof:parent_id":421166521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.84077,
+    23.0549,
+    90.84077,
+    23.0549
+],
+  "geometry": {"coordinates":[90.84077000000001,23.0549],"type":"Point"}
+}

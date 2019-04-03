@@ -1,0 +1,74 @@
+{
+  "id": 1243583951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.33785,23.10496,90.33785,23.10496",
+    "geom:latitude":23.10496,
+    "geom:longitude":90.33785,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3054",
+    "gn:admin3_code":"305440.0",
+    "gn:admin4_code":"30544018.0",
+    "gn:asciiname":"Kanargaon",
+    "gn:country_code":"BD",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1198730,
+    "gn:latitude":23.10496,
+    "gn:longitude":90.33785,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"K\u0101nargaon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kanurgaon",
+        "K\u0101nargaon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421183929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1198730
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"dc73de20975c2a0dff7515d1fc12d124",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421183929,
+            "locality_id":1243583951,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1243583951,
+    "wof:lastmodified":1537585949,
+    "wof:name":"Kanargaon",
+    "wof:parent_id":421183929,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.33785,
+    23.10496,
+    90.33785,
+    23.10496
+],
+  "geometry": {"coordinates":[90.33785,23.10496],"type":"Point"}
+}

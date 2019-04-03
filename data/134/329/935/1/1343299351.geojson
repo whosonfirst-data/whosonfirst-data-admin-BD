@@ -1,0 +1,70 @@
+{
+  "id": 1343299351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.36718,22.3454,90.36718,22.3454",
+    "geom:latitude":22.3454,
+    "geom:longitude":90.36718,
+    "gn:admin1_code":"82",
+    "gn:asciiname":"Spirtala",
+    "gn:country_code":"BD",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7476815,
+    "gn:latitude":22.3454,
+    "gn:longitude":90.36718,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"Spirtala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Spirtala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669019,
+        421169845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7476815
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"8e08f92345d3f462498f17175f87dcdc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421169845,
+            "locality_id":1343299351,
+            "region_id":85669019
+        }
+    ],
+    "wof:id":1343299351,
+    "wof:lastmodified":1537586354,
+    "wof:name":"Spirtala",
+    "wof:parent_id":421169845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.36718,
+    22.3454,
+    90.36718,
+    22.3454
+],
+  "geometry": {"coordinates":[90.36718,22.3454],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1293722653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.37402,23.09005,89.37402,23.09005",
+    "geom:latitude":23.09005,
+    "geom:longitude":89.37402,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4041.0",
+    "gn:admin3_code":"404104.0",
+    "gn:admin4_code":"40410421.0",
+    "gn:asciiname":"Sibanandapur",
+    "gn:country_code":"BD",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7479861,
+    "gn:latitude":23.09005,
+    "gn:longitude":89.37402,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Sibanandapur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Sibanandapur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        421176039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7479861
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"f3ddbb65756962c48c40079c27b47725",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421176039,
+            "locality_id":1293722653,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1293722653,
+    "wof:lastmodified":1537586433,
+    "wof:name":"Sibanandapur",
+    "wof:parent_id":421176039,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.37402,
+    23.09005,
+    89.37402,
+    23.09005
+],
+  "geometry": {"coordinates":[89.37402,23.09005],"type":"Point"}
+}

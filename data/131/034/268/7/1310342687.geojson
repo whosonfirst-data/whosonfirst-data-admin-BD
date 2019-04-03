@@ -1,0 +1,70 @@
+{
+  "id": 1310342687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.53143,24.19594,90.53143,24.19594",
+    "geom:latitude":24.19594,
+    "geom:longitude":90.53143,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3033",
+    "gn:admin3_code":"303386.0",
+    "gn:admin4_code":"30338628.0",
+    "gn:asciiname":"Nij Khozekhani",
+    "gn:country_code":"BD",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1192860,
+    "gn:latitude":24.19594,
+    "gn:longitude":90.53143,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Nij Khozekh\u0101ni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421203493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1192860
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"a5b79f74efc735f7270525cbaba840bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421203493,
+            "locality_id":1310342687,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1310342687,
+    "wof:lastmodified":1536654194,
+    "wof:name":"Nij Khozekhani",
+    "wof:parent_id":421203493,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.53143,
+    24.19594,
+    90.53143,
+    24.19594
+],
+  "geometry": {"coordinates":[90.53143,24.19594],"type":"Point"}
+}

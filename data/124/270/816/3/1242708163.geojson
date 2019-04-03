@@ -1,0 +1,81 @@
+{
+  "id": 1242708163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.51077,25.87217,89.51077,25.87217",
+    "geom:latitude":25.87217,
+    "geom:longitude":89.51077,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5552",
+    "gn:admin3_code":"555255.0",
+    "gn:admin4_code":"55525507.0",
+    "gn:asciiname":"Shibram",
+    "gn:country_code":"BD",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1188073,
+    "gn:latitude":25.87217,
+    "gn:longitude":89.51077,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Shibr\u0101m",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Shibr\u0101m"
+    ],
+    "name:ben_x_variant":[
+        "Sibram",
+        "Sibar\u0101m"
+    ],
+    "name:und_x_variant":[
+        "Sibram",
+        "Sibar\u0101m"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1188073
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"c4ef4bec63ff23cd45c86214ce985155",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694687,
+            "locality_id":1242708163,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1242708163,
+    "wof:lastmodified":1537585751,
+    "wof:name":"Shibram",
+    "wof:parent_id":1108694687,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.51077,
+    25.87217,
+    89.51077,
+    25.87217
+],
+  "geometry": {"coordinates":[89.51076999999999,25.87217],"type":"Point"}
+}

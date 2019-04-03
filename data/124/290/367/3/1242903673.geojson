@@ -1,0 +1,70 @@
+{
+  "id": 1242903673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.87795,23.94588,89.87795,23.94588",
+    "geom:latitude":23.94588,
+    "geom:longitude":89.87795,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3056.0",
+    "gn:admin3_code":"305610.0",
+    "gn:admin4_code":"30561076.0",
+    "gn:asciiname":"Gararia",
+    "gn:country_code":"BD",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1202875,
+    "gn:latitude":23.94588,
+    "gn:longitude":89.87795,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"G\u0101r\u0101ria",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421191745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1202875
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"6c72621221ae004308b84affd4ba9e63",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421191745,
+            "locality_id":1242903673,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1242903673,
+    "wof:lastmodified":1537087942,
+    "wof:name":"Gararia",
+    "wof:parent_id":421191745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.87795,
+    23.94588,
+    89.87795,
+    23.94588
+],
+  "geometry": {"coordinates":[89.87795,23.94588],"type":"Point"}
+}

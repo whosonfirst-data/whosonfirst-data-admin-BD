@@ -1,0 +1,70 @@
+{
+  "id": 1243202223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.48748,24.48577,90.48748,24.48577",
+    "geom:latitude":24.48577,
+    "geom:longitude":90.48748,
+    "gn:admin1_code":"H",
+    "gn:admin2_code":"3061.0",
+    "gn:admin3_code":"306122.0",
+    "gn:admin4_code":"30612206.0",
+    "gn:asciiname":"Chilakanda",
+    "gn:country_code":"BD",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1205801,
+    "gn:latitude":24.48577,
+    "gn:longitude":90.48748,
+    "gn:modification_date":"2016-11-17",
+    "gn:name":"Chil\u0101k\u0101nda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        1108803101,
+        421185469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1205801
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"d2b587bb560945f96161e8e543e68a87",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421185469,
+            "locality_id":1243202223,
+            "region_id":1108803101
+        }
+    ],
+    "wof:id":1243202223,
+    "wof:lastmodified":1536660870,
+    "wof:name":"Chilakanda",
+    "wof:parent_id":421185469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.48748,
+    24.48577,
+    90.48748,
+    24.48577
+],
+  "geometry": {"coordinates":[90.48748000000001,24.48577],"type":"Point"}
+}

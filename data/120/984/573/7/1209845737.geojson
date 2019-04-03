@@ -1,0 +1,70 @@
+{
+  "id": 1209845737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.52623,23.37757,89.52623,23.37757",
+    "geom:latitude":23.37757,
+    "geom:longitude":89.52623,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4055",
+    "gn:admin3_code":"405566.0",
+    "gn:admin4_code":"40556684.0",
+    "gn:asciiname":"Rajpat",
+    "gn:country_code":"BD",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1190224,
+    "gn:latitude":23.37757,
+    "gn:longitude":89.52623,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"R\u0101jp\u0101t",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        1108694689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1190224
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"62379aad6b92875b4e9c56e5e2160bcc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694689,
+            "locality_id":1209845737,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1209845737,
+    "wof:lastmodified":1536390749,
+    "wof:name":"Rajpat",
+    "wof:parent_id":1108694689,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.52623,
+    23.37757,
+    89.52623,
+    23.37757
+],
+  "geometry": {"coordinates":[89.52623,23.37757],"type":"Point"}
+}

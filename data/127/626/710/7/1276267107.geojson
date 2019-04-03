@@ -1,0 +1,70 @@
+{
+  "id": 1276267107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.60105,23.65072,89.60105,23.65072",
+    "geom:latitude":23.65072,
+    "geom:longitude":89.60105,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3082.0",
+    "gn:admin3_code":"308207.0",
+    "gn:admin4_code":"30820709.0",
+    "gn:asciiname":"Barugram",
+    "gn:country_code":"BD",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1210063,
+    "gn:latitude":23.65072,
+    "gn:longitude":89.60105,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"B\u0101rugr\u0101m",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        1108694699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1210063
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"192b059fa0513e353a92dc768d0f94fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694699,
+            "locality_id":1276267107,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1276267107,
+    "wof:lastmodified":1536866010,
+    "wof:name":"Barugram",
+    "wof:parent_id":1108694699,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.60105,
+    23.65072,
+    89.60105,
+    23.65072
+],
+  "geometry": {"coordinates":[89.60105,23.65072],"type":"Point"}
+}

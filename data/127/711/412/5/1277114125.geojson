@@ -1,0 +1,73 @@
+{
+  "id": 1277114125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.45294,23.44204,89.45294,23.44204",
+    "geom:latitude":23.44204,
+    "geom:longitude":89.45294,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4055.0",
+    "gn:admin3_code":"405557.0",
+    "gn:admin4_code":"40555727.0",
+    "gn:asciiname":"Baleswarpur",
+    "gn:country_code":"BD",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7479493,
+    "gn:latitude":23.44204,
+    "gn:longitude":89.45294,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Baleswarpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Baleswarpur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        1108694689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7479493
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"8bf6a79b7a5a553f23f86248a3c956f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694689,
+            "locality_id":1277114125,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1277114125,
+    "wof:lastmodified":1537586421,
+    "wof:name":"Baleswarpur",
+    "wof:parent_id":1108694689,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.45294,
+    23.44204,
+    89.45294,
+    23.44204
+],
+  "geometry": {"coordinates":[89.45294,23.44204],"type":"Point"}
+}

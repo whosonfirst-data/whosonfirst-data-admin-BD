@@ -1,0 +1,70 @@
+{
+  "id": 1209864435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.13917,23.84833,91.13917,23.84833",
+    "geom:latitude":23.84833,
+    "geom:longitude":91.13917,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2012.0",
+    "gn:admin3_code":"201202.0",
+    "gn:admin4_code":"20120257.0",
+    "gn:asciiname":"Mulagram",
+    "gn:country_code":"BD",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1462810,
+    "gn:latitude":23.84833,
+    "gn:longitude":91.13917,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Mulagram",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        1108694667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1462810
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"8b0cebf70eb6ed82823631153081eacc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694667,
+            "locality_id":1209864435,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1209864435,
+    "wof:lastmodified":1536380298,
+    "wof:name":"Mulagram",
+    "wof:parent_id":1108694667,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.13917,
+    23.84833,
+    91.13917,
+    23.84833
+],
+  "geometry": {"coordinates":[91.13916999999999,23.84833],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1209039977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.38653,25.22127,89.38653,25.22127",
+    "geom:latitude":25.22127,
+    "geom:longitude":89.38653,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5532",
+    "gn:admin3_code":"553230.0",
+    "gn:admin4_code":"55323094.0",
+    "gn:asciiname":"Dobpur",
+    "gn:country_code":"BD",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7890422,
+    "gn:latitude":25.22127,
+    "gn:longitude":89.38653,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Dobpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Dobpur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7890422
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"62f852db1facb7e3bb7ab5b7d538fa17",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209039977
+        }
+    ],
+    "wof:id":1209039977,
+    "wof:lastmodified":1537586745,
+    "wof:name":"Dobpur",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.38653000000002,
+    25.22127,
+    89.38653000000002,
+    25.22127
+],
+  "geometry": {"coordinates":[89.38653000000002,25.22127],"type":"Point"}
+}

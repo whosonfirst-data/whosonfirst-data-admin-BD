@@ -1,0 +1,69 @@
+{
+  "id": 1226781033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.0858,22.2314,90.0858,22.2314",
+    "geom:latitude":22.2314,
+    "geom:longitude":90.0858,
+    "gn:admin1_code":"85",
+    "gn:admin2_code":"1004.0",
+    "gn:admin3_code":"100447.0",
+    "gn:admin4_code":"10044783.0",
+    "gn:asciiname":"Gabtali",
+    "gn:country_code":"BD",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7476269,
+    "gn:latitude":22.2314,
+    "gn:longitude":90.0858,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Gabtali",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Gabtali"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7476269
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"a79ce267a782d3026b8b2096d7210c33",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":-1,
+            "locality_id":1226781033,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1226781033,
+    "wof:lastmodified":1537586340,
+    "wof:name":"Gabtali",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.0858,
+    22.2314,
+    90.0858,
+    22.2314
+],
+  "geometry": {"coordinates":[90.08580000000001,22.2314],"type":"Point"}
+}

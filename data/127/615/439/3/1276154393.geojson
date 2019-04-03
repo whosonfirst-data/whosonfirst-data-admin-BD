@@ -1,0 +1,73 @@
+{
+  "id": 1276154393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.73273,26.28885,88.73273,26.28885",
+    "geom:latitude":26.28885,
+    "geom:longitude":88.73273,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5577.0",
+    "gn:admin3_code":"557725.0",
+    "gn:admin4_code":"55772507.0",
+    "gn:asciiname":"Kazipara",
+    "gn:country_code":"BD",
+    "gn:dem":67,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7104841,
+    "gn:latitude":26.28885,
+    "gn:longitude":88.73273,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"K\u0101zip\u0101ra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "K\u0101zip\u0101ra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7104841
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"6805d669fddbcee7924ae91b066deeb4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694697,
+            "locality_id":1276154393,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1276154393,
+    "wof:lastmodified":1537586287,
+    "wof:name":"Kazipara",
+    "wof:parent_id":1108694697,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.73273,
+    26.28885,
+    88.73273,
+    26.28885
+],
+  "geometry": {"coordinates":[88.73273,26.28885],"type":"Point"}
+}

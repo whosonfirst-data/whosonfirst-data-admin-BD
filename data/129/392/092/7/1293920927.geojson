@@ -1,0 +1,73 @@
+{
+  "id": 1293920927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.99292,25.39749,88.99292,25.39749",
+    "geom:latitude":25.39749,
+    "geom:longitude":88.99292,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5527.0",
+    "gn:admin3_code":"552710.0",
+    "gn:admin4_code":"55271083.0",
+    "gn:asciiname":"Chanapur",
+    "gn:country_code":"BD",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7481377,
+    "gn:latitude":25.39749,
+    "gn:longitude":88.99292,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Chanapur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Chanapur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7481377
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"854c4c54c861ba77c67a12d7aba07c5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694671,
+            "locality_id":1293920927,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1293920927,
+    "wof:lastmodified":1537586477,
+    "wof:name":"Chanapur",
+    "wof:parent_id":1108694671,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.99292,
+    25.39749,
+    88.99292,
+    25.39749
+],
+  "geometry": {"coordinates":[88.99292,25.39749],"type":"Point"}
+}

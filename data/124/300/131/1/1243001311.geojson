@@ -1,0 +1,67 @@
+{
+  "id": 1243001311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.33231,23.7821,89.33231,23.7821",
+    "geom:latitude":23.7821,
+    "geom:longitude":89.33231,
+    "gn:admin1_code":"82",
+    "gn:asciiname":"Lahiri Raghunathpur",
+    "gn:country_code":"BD",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1196405,
+    "gn:latitude":23.7821,
+    "gn:longitude":89.33231,
+    "gn:modification_date":"2013-02-08",
+    "gn:name":"L\u0101hiri Raghun\u0101thpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        890438075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1196405
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"3dfc6e7c622b21a9d007d7b057ef8e44",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":890438075,
+            "locality_id":1243001311,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1243001311,
+    "wof:lastmodified":1536950696,
+    "wof:name":"Lahiri Raghunathpur",
+    "wof:parent_id":890438075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.33230999999998,
+    23.7821,
+    89.33230999999998,
+    23.7821
+],
+  "geometry": {"coordinates":[89.33230999999998,23.7821],"type":"Point"}
+}

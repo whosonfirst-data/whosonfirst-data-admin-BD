@@ -1,0 +1,75 @@
+{
+  "id": 1327060031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.07333,23.67611,90.07333,23.67611",
+    "geom:latitude":23.67611,
+    "geom:longitude":90.07333,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3026",
+    "gn:admin3_code":"302662.0",
+    "gn:admin4_code":"30266233.0",
+    "gn:asciiname":"Panjipahari",
+    "gn:cc2":"BD",
+    "gn:country_code":"BD",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1192560,
+    "gn:latitude":23.67611,
+    "gn:longitude":90.07333,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"P\u0101njipahari",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "P\u0101njipahri",
+        "P\u0101njipahari"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421187803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1192560
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"3ba35cd70c89000cc6bcb63fb531482d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421187803,
+            "locality_id":1327060031,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1327060031,
+    "wof:lastmodified":1537585837,
+    "wof:name":"Panjipahari",
+    "wof:parent_id":421187803,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.07333,
+    23.67611,
+    90.07333,
+    23.67611
+],
+  "geometry": {"coordinates":[90.07333,23.67611],"type":"Point"}
+}

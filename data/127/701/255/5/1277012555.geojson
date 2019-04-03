@@ -1,0 +1,74 @@
+{
+  "id": 1277012555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.7543,23.74368,89.7543,23.74368",
+    "geom:latitude":23.74368,
+    "geom:longitude":89.7543,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3082",
+    "gn:admin3_code":"308229.0",
+    "gn:admin4_code":"30822957.0",
+    "gn:asciiname":"South Char Pachuria",
+    "gn:country_code":"BD",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1187448,
+    "gn:latitude":23.74368,
+    "gn:longitude":89.7543,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"South Char P\u0101churia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dakshin Char Panchuria",
+        "South Char P\u0101churia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        1108694699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1187448
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"0a50d34414d71838595e3dc7eb593407",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694699,
+            "locality_id":1277012555,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1277012555,
+    "wof:lastmodified":1537585738,
+    "wof:name":"South Char Pachuria",
+    "wof:parent_id":1108694699,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.7543,
+    23.74368,
+    89.7543,
+    23.74368
+],
+  "geometry": {"coordinates":[89.7543,23.74368],"type":"Point"}
+}

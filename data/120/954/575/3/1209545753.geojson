@@ -1,0 +1,70 @@
+{
+  "id": 1209545753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.88068,24.88607,88.88068,24.88607",
+    "geom:latitude":24.88607,
+    "geom:longitude":88.88068,
+    "gn:admin1_code":"83",
+    "gn:admin2_code":"5064.0",
+    "gn:admin3_code":"506450.0",
+    "gn:admin4_code":"50645028.0",
+    "gn:asciiname":"Ananta Gobindapur",
+    "gn:country_code":"BD",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1212737,
+    "gn:latitude":24.88607,
+    "gn:longitude":88.88068,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Ananta Gobindapur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Ananta Gobindapur"
+    ],
+    "name:und_x_variant":[
+        "Anantagobindpur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1212737
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"f37a8cedee9643f4967d516cb7634979",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209545753
+        }
+    ],
+    "wof:id":1209545753,
+    "wof:lastmodified":1537586201,
+    "wof:name":"Ananta Gobindapur",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.88068,
+    24.88607,
+    88.88068,
+    24.88607
+],
+  "geometry": {"coordinates":[88.88068,24.88607],"type":"Point"}
+}

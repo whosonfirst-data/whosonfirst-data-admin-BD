@@ -1,0 +1,70 @@
+{
+  "id": 1310538793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.56723,24.59721,90.56723,24.59721",
+    "geom:latitude":24.59721,
+    "geom:longitude":90.56723,
+    "gn:admin1_code":"H",
+    "gn:admin2_code":"3061",
+    "gn:admin3_code":"306131.0",
+    "gn:admin4_code":"30613167.0",
+    "gn:asciiname":"Tarap Charpara",
+    "gn:country_code":"BD",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1186503,
+    "gn:latitude":24.59721,
+    "gn:longitude":90.56723,
+    "gn:modification_date":"2016-11-17",
+    "gn:name":"Tarap Charp\u0101ra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        1108803101,
+        421185469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1186503
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"748204ce4b4881c3dff1b1b4397a8607",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421185469,
+            "locality_id":1310538793,
+            "region_id":1108803101
+        }
+    ],
+    "wof:id":1310538793,
+    "wof:lastmodified":1536867566,
+    "wof:name":"Tarap Charpara",
+    "wof:parent_id":421185469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.56723,
+    24.59721,
+    90.56723,
+    24.59721
+],
+  "geometry": {"coordinates":[90.56723,24.59721],"type":"Point"}
+}

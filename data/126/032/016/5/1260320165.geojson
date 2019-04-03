@@ -1,0 +1,73 @@
+{
+  "id": 1260320165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.94965,24.56194,88.94965,24.56194",
+    "geom:latitude":24.56194,
+    "geom:longitude":88.94965,
+    "gn:admin1_code":"83",
+    "gn:admin2_code":"5081",
+    "gn:admin3_code":"508112.0",
+    "gn:admin4_code":"50811269.0",
+    "gn:asciiname":"Santipur",
+    "gn:country_code":"BD",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1188734,
+    "gn:latitude":24.56194,
+    "gn:longitude":88.94965,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"S\u0101ntipur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "S\u0101ntipur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669031,
+        421172439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1188734
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"5eb3adf2838e13f808e27b02c74a7856",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421172439,
+            "locality_id":1260320165,
+            "region_id":85669031
+        }
+    ],
+    "wof:id":1260320165,
+    "wof:lastmodified":1537585767,
+    "wof:name":"Santipur",
+    "wof:parent_id":421172439,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.94965,
+    24.56194,
+    88.94965,
+    24.56194
+],
+  "geometry": {"coordinates":[88.94965000000001,24.56194],"type":"Point"}
+}

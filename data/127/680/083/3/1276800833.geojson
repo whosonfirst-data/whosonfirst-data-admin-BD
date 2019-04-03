@@ -1,0 +1,74 @@
+{
+  "id": 1276800833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.0046,24.34083,90.0046,24.34083",
+    "geom:latitude":24.34083,
+    "geom:longitude":90.0046,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3093",
+    "gn:admin3_code":"309347.0",
+    "gn:admin4_code":"30934758.0",
+    "gn:asciiname":"Kakdahara",
+    "gn:country_code":"BD",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1197075,
+    "gn:latitude":24.34083,
+    "gn:longitude":90.0046,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"K\u0101kdahara",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "K\u0101kdahara",
+        "Kokdahara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421185471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1197075
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"aef34aa3a1f83ff81acef13874515f3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421185471,
+            "locality_id":1276800833,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1276800833,
+    "wof:lastmodified":1537585916,
+    "wof:name":"Kakdahara",
+    "wof:parent_id":421185471,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.0046,
+    24.34083,
+    90.0046,
+    24.34083
+],
+  "geometry": {"coordinates":[90.0046,24.34083],"type":"Point"}
+}

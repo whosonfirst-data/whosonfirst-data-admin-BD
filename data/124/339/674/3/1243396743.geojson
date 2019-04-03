@@ -1,0 +1,73 @@
+{
+  "id": 1243396743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.46856,26.17539,88.46856,26.17539",
+    "geom:latitude":26.17539,
+    "geom:longitude":88.46856,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5594.0",
+    "gn:admin3_code":"559494.0",
+    "gn:admin4_code":"55949479.0",
+    "gn:asciiname":"Rajarampur",
+    "gn:country_code":"BD",
+    "gn:dem":72,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7487324,
+    "gn:latitude":26.17539,
+    "gn:longitude":88.46856,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"R\u0101j\u0101r\u0101mpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "R\u0101j\u0101r\u0101mpur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7487324
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"6e0c81747d95dccc1087481eaf94372b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694703,
+            "locality_id":1243396743,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1243396743,
+    "wof:lastmodified":1537586636,
+    "wof:name":"Rajarampur",
+    "wof:parent_id":1108694703,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.46856,
+    26.17539,
+    88.46856,
+    26.17539
+],
+  "geometry": {"coordinates":[88.46856,26.17539],"type":"Point"}
+}

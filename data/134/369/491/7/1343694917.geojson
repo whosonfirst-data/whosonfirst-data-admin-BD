@@ -1,0 +1,74 @@
+{
+  "id": 1343694917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.32559,23.57494,90.32559,23.57494",
+    "geom:latitude":23.57494,
+    "geom:longitude":90.32559,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3059.0",
+    "gn:admin3_code":"305984.0",
+    "gn:admin4_code":"30598433.0",
+    "gn:asciiname":"Bhuinchhidri",
+    "gn:country_code":"BD",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1208789,
+    "gn:latitude":23.57494,
+    "gn:longitude":90.32559,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Bhuinchhidri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bhuichhidri",
+        "Bhuinchhidri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421205059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1208789
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"725c38c301e312c24231583f02917679",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421205059,
+            "locality_id":1343694917,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1343694917,
+    "wof:lastmodified":1537586136,
+    "wof:name":"Bhuinchhidri",
+    "wof:parent_id":421205059,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.32559,
+    23.57494,
+    90.32559,
+    23.57494
+],
+  "geometry": {"coordinates":[90.32559000000001,23.57494],"type":"Point"}
+}

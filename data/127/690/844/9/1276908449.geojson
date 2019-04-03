@@ -1,0 +1,73 @@
+{
+  "id": 1276908449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.27326,24.85864,88.27326,24.85864",
+    "geom:latitude":24.85864,
+    "geom:longitude":88.27326,
+    "gn:admin1_code":"83",
+    "gn:admin2_code":"5070.0",
+    "gn:admin3_code":"507037.0",
+    "gn:admin4_code":"50703721.0",
+    "gn:asciiname":"Brojonathpur",
+    "gn:country_code":"BD",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7489290,
+    "gn:latitude":24.85864,
+    "gn:longitude":88.27326,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Brojonathpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Brojonathpur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669031,
+        421191607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7489290
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"e917083bb337d65188bfc6820ea5c071",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421191607,
+            "locality_id":1276908449,
+            "region_id":85669031
+        }
+    ],
+    "wof:id":1276908449,
+    "wof:lastmodified":1537586693,
+    "wof:name":"Brojonathpur",
+    "wof:parent_id":421191607,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.27326,
+    24.85864,
+    88.27326,
+    24.85864
+],
+  "geometry": {"coordinates":[88.27325999999999,24.85864],"type":"Point"}
+}

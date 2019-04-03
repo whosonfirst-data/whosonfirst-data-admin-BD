@@ -1,0 +1,71 @@
+{
+  "id": 1209829879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.58872,25.19185,88.58872,25.19185",
+    "geom:latitude":25.19185,
+    "geom:longitude":88.58872,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Kasikuri",
+    "gn:country_code":"BD",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1198289,
+    "gn:latitude":25.19185,
+    "gn:longitude":88.58872,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"K\u0101sikuri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kaikuri",
+        "K\u0101sikuri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632469,
+        85672219,
+        1108696071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1198289
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"455ab7eb019a0dcd89ff2aaccefb850e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108696071,
+            "locality_id":1209829879,
+            "region_id":85672219
+        }
+    ],
+    "wof:id":1209829879,
+    "wof:lastmodified":1537585941,
+    "wof:name":"Kasikuri",
+    "wof:parent_id":1108696071,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.58872,
+    25.19185,
+    88.58872,
+    25.19185
+],
+  "geometry": {"coordinates":[88.58872,25.19185],"type":"Point"}
+}

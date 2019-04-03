@@ -1,0 +1,78 @@
+{
+  "id": 421184353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.13534,23.00727,89.13534,23.00727",
+    "geom:latitude":23.00727,
+    "geom:longitude":89.13534,
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"BD",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":1199796,
+    "qs:gn_pop":0,
+    "qs:name":"Joka",
+    "qs:name_adm0":"India",
+    "qs:name_adm1":"West Bengal",
+    "qs:photos":27,
+    "qs:photos_1k":5,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":27,
+    "qs:photos_sr":2,
+    "qs:placetype":"Suburb",
+    "qs:pop_sr":"0",
+    "qs:qs_id":995556,
+    "qs:woe_adm0":23424848,
+    "qs:woe_id":55926154,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":40,
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        421176039,
+        85669015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1199796,
+        "gp:id":55926154,
+        "qs:id":995556
+    },
+    "wof:country":"BD",
+    "wof:created":1459009408,
+    "wof:geomhash":"e43c4ef33a3b0a584192cf318bda98d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421176039,
+            "locality_id":-1,
+            "neighbourhood_id":421184353,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":421184353,
+    "wof:lastmodified":1531858529,
+    "wof:name":"Joka",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.13534,
+    23.00727,
+    89.13534,
+    23.00727
+],
+  "geometry": {"coordinates":[89.13534,23.00727],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209445003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.80704,24.51275,90.80704,24.51275",
+    "geom:latitude":24.51275,
+    "geom:longitude":90.80704,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3048",
+    "gn:admin3_code":"304849.0",
+    "gn:admin4_code":"30484977.0",
+    "gn:asciiname":"Kalaihati",
+    "gn:country_code":"BD",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1199254,
+    "gn:latitude":24.51275,
+    "gn:longitude":90.80704,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Kalaih\u0101ti",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1199254
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"01e107b6710ccab9b83f14715b5387e8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209445003
+        }
+    ],
+    "wof:id":1209445003,
+    "wof:lastmodified":1536286845,
+    "wof:name":"Kalaihati",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.80704,
+    24.51275,
+    90.80704,
+    24.51275
+],
+  "geometry": {"coordinates":[90.80704,24.51275],"type":"Point"}
+}

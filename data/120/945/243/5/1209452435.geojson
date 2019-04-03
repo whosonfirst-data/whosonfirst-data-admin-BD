@@ -1,0 +1,67 @@
+{
+  "id": 1209452435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.67334,24.63021,88.67334,24.63021",
+    "geom:latitude":24.63021,
+    "geom:longitude":88.67334,
+    "gn:admin1_code":"83",
+    "gn:admin2_code":"5081.0",
+    "gn:admin3_code":"508153.0",
+    "gn:admin4_code":"50815381.0",
+    "gn:asciiname":"Belgharia Hat",
+    "gn:country_code":"BD",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7483112,
+    "gn:latitude":24.63021,
+    "gn:longitude":88.67334,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Belgharia H\u0101t",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Belgharia H\u0101t"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7483112
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"d1a9c5b813ec9fdb42e156f2251aa08e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209452435
+        }
+    ],
+    "wof:id":1209452435,
+    "wof:lastmodified":1537586528,
+    "wof:name":"Belgharia Hat",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.67334,
+    24.63021,
+    88.67334,
+    24.63021
+],
+  "geometry": {"coordinates":[88.67334,24.63021],"type":"Point"}
+}

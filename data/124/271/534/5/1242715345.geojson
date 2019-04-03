@@ -1,0 +1,76 @@
+{
+  "id": 1242715345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.86644,22.44653,90.86644,22.44653",
+    "geom:latitude":22.44653,
+    "geom:longitude":90.86644,
+    "gn:admin1_code":"85",
+    "gn:asciiname":"Khosnad",
+    "gn:country_code":"BD",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1186410,
+    "gn:latitude":22.44653,
+    "gn:longitude":90.86644,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Khosnad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Khosnad"
+    ],
+    "name:und_x_variant":[
+        "Khosnodi",
+        "Khoshnadi",
+        "T\u0101zumuddin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669019,
+        421184491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1186410,
+        "wk:page":"Tazumuddin_Upazila"
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"3dc4e774353044baa05266c53fc6cd34",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421184491,
+            "locality_id":1242715345,
+            "region_id":85669019
+        }
+    ],
+    "wof:id":1242715345,
+    "wof:lastmodified":1537585718,
+    "wof:name":"Khosnad",
+    "wof:parent_id":421184491,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.86644,
+    22.44653,
+    90.86644,
+    22.44653
+],
+  "geometry": {"coordinates":[90.86644,22.44653],"type":"Point"}
+}

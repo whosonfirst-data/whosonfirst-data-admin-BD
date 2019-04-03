@@ -1,0 +1,73 @@
+{
+  "id": 1293921815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"92.23619,21.54783,92.23619,21.54783",
+    "geom:latitude":21.54783,
+    "geom:longitude":92.23619,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2003.0",
+    "gn:admin3_code":"200373.0",
+    "gn:admin4_code":"20037338.0",
+    "gn:asciiname":"Chakrapata",
+    "gn:country_code":"BD",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6414851,
+    "gn:latitude":21.54783,
+    "gn:longitude":92.23619,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Chakrap\u0101ta",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Chakrap\u0101ta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421169477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6414851
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"9d50ad839306c5027b7428703e957b60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421169477,
+            "locality_id":1293921815,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1293921815,
+    "wof:lastmodified":1537586233,
+    "wof:name":"Chakrapata",
+    "wof:parent_id":421169477,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    92.23619,
+    21.54783,
+    92.23619,
+    21.54783
+],
+  "geometry": {"coordinates":[92.23618999999999,21.54783],"type":"Point"}
+}

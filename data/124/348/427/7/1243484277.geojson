@@ -1,0 +1,73 @@
+{
+  "id": 1243484277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.29488,25.65888,89.29488,25.65888",
+    "geom:latitude":25.65888,
+    "geom:longitude":89.29488,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5585.0",
+    "gn:admin3_code":"558558.0",
+    "gn:admin4_code":"55855889.0",
+    "gn:asciiname":"Debipur",
+    "gn:country_code":"BD",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7889115,
+    "gn:latitude":25.65888,
+    "gn:longitude":89.29488,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Debipur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Debipur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7889115
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"f90811a5f7c7c31124d552f73c7d3217",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694701,
+            "locality_id":1243484277,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1243484277,
+    "wof:lastmodified":1537586728,
+    "wof:name":"Debipur",
+    "wof:parent_id":1108694701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.29488,
+    25.65888,
+    89.29488,
+    25.65888
+],
+  "geometry": {"coordinates":[89.29488000000001,25.65888],"type":"Point"}
+}

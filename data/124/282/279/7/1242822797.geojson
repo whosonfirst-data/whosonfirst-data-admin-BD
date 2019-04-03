@@ -1,0 +1,74 @@
+{
+  "id": 1242822797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.86592,23.67653,90.86592,23.67653",
+    "geom:latitude":23.67653,
+    "geom:longitude":90.86592,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2019",
+    "gn:admin3_code":"201981.0",
+    "gn:admin4_code":"20198190.0",
+    "gn:asciiname":"Kachharikandi",
+    "gn:country_code":"BD",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1199631,
+    "gn:latitude":23.67653,
+    "gn:longitude":90.86592,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"K\u0101chh\u0101rik\u0101ndi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kachherikandi",
+        "K\u0101chh\u0101rik\u0101ndi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421187801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1199631
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"b5cae29bb24f724a24b2d1f5b0203d10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421187801,
+            "locality_id":1242822797,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1242822797,
+    "wof:lastmodified":1537585963,
+    "wof:name":"Kachharikandi",
+    "wof:parent_id":421187801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.86592,
+    23.67653,
+    90.86592,
+    23.67653
+],
+  "geometry": {"coordinates":[90.86592,23.67653],"type":"Point"}
+}

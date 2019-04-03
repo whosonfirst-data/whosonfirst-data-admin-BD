@@ -1,0 +1,70 @@
+{
+  "id": 1259917187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.61105,24.62732,90.61105,24.62732",
+    "geom:latitude":24.62732,
+    "geom:longitude":90.61105,
+    "gn:admin1_code":"H",
+    "gn:admin2_code":"3061",
+    "gn:admin3_code":"306131.0",
+    "gn:admin4_code":"30613154.0",
+    "gn:asciiname":"Mujatia",
+    "gn:country_code":"BD",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1194031,
+    "gn:latitude":24.62732,
+    "gn:longitude":90.61105,
+    "gn:modification_date":"2016-11-17",
+    "gn:name":"Muj\u0101tia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        1108803101,
+        421185469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1194031
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"7718ff693cf94c34089742fcf03032f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421185469,
+            "locality_id":1259917187,
+            "region_id":1108803101
+        }
+    ],
+    "wof:id":1259917187,
+    "wof:lastmodified":1536730854,
+    "wof:name":"Mujatia",
+    "wof:parent_id":421185469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.61105,
+    24.62732,
+    90.61105,
+    24.62732
+],
+  "geometry": {"coordinates":[90.61105000000001,24.62732],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1277015951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.9878,25.27753,89.9878,25.27753",
+    "geom:latitude":25.27753,
+    "geom:longitude":89.9878,
+    "gn:admin1_code":"H",
+    "gn:admin2_code":"3089",
+    "gn:admin3_code":"308990.0",
+    "gn:admin4_code":"30899071.0",
+    "gn:asciiname":"Rangadhan",
+    "gn:country_code":"BD",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7925578,
+    "gn:latitude":25.27753,
+    "gn:longitude":89.9878,
+    "gn:modification_date":"2016-11-17",
+    "gn:name":"R\u0101ng\u0101dhan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "R\u0101ng\u0101dhan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        1108803101,
+        421190979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7925578
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"38a6585f8cf8f702495396f4c00e2a9a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421190979,
+            "locality_id":1277015951,
+            "region_id":1108803101
+        }
+    ],
+    "wof:id":1277015951,
+    "wof:lastmodified":1537586819,
+    "wof:name":"Rangadhan",
+    "wof:parent_id":421190979,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.9878,
+    25.27753,
+    89.9878,
+    25.27753
+],
+  "geometry": {"coordinates":[89.98779999999999,25.27753],"type":"Point"}
+}

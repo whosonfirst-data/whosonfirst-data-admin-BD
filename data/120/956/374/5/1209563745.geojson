@@ -1,0 +1,67 @@
+{
+  "id": 1209563745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"92.23626,21.9752,92.23626,21.9752",
+    "geom:latitude":21.9752,
+    "geom:longitude":92.23626,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2003.0",
+    "gn:admin3_code":"200351.0",
+    "gn:admin4_code":"20035179.0",
+    "gn:asciiname":"Chaiaungpara",
+    "gn:country_code":"BD",
+    "gn:dem":98,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6414585,
+    "gn:latitude":21.9752,
+    "gn:longitude":92.23626,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Chaiaungp\u0101ra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Chaiaungp\u0101ra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6414585
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"b6bc5fd3948b6c5d384f671d1cdb0fa0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209563745
+        }
+    ],
+    "wof:id":1209563745,
+    "wof:lastmodified":1537586230,
+    "wof:name":"Chaiaungpara",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    92.23626,
+    21.9752,
+    92.23626,
+    21.9752
+],
+  "geometry": {"coordinates":[92.23626,21.9752],"type":"Point"}
+}

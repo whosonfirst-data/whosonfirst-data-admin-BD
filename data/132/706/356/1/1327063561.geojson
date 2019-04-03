@@ -1,0 +1,73 @@
+{
+  "id": 1327063561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.14392,25.98104,88.14392,25.98104",
+    "geom:latitude":25.98104,
+    "geom:longitude":88.14392,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5594.0",
+    "gn:admin3_code":"559451.0",
+    "gn:admin4_code":"55945167.0",
+    "gn:asciiname":"Beldangi",
+    "gn:country_code":"BD",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7487359,
+    "gn:latitude":25.98104,
+    "gn:longitude":88.14392,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Beld\u0101ngi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Beld\u0101ngi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7487359
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"2b45e76c8153f79b51e2cc272f23ce64",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694703,
+            "locality_id":1327063561,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1327063561,
+    "wof:lastmodified":1537586636,
+    "wof:name":"Beldangi",
+    "wof:parent_id":1108694703,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.14392,
+    25.98104,
+    88.14392,
+    25.98104
+],
+  "geometry": {"coordinates":[88.14391999999999,25.98104],"type":"Point"}
+}

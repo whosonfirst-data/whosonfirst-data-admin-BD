@@ -1,0 +1,70 @@
+{
+  "id": 1360015681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.65,23.85,89.65,23.85",
+    "geom:latitude":23.85,
+    "geom:longitude":89.65,
+    "gn:admin1_code":"83",
+    "gn:admin2_code":"5076.0",
+    "gn:admin3_code":"507616.0",
+    "gn:admin4_code":"50761621.0",
+    "gn:asciiname":"Balindari",
+    "gn:country_code":"BD",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1211283,
+    "gn:latitude":23.85,
+    "gn:longitude":89.65,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"B\u0101lind\u0101ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669031,
+        421197541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1211283
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"33bba52caebf18fa2c653d9f5d6e30e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421197541,
+            "locality_id":1360015681,
+            "region_id":85669031
+        }
+    ],
+    "wof:id":1360015681,
+    "wof:lastmodified":1537044096,
+    "wof:name":"Balindari",
+    "wof:parent_id":421197541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.65,
+    23.85,
+    89.65,
+    23.85
+],
+  "geometry": {"coordinates":[89.65000000000001,23.85],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1293420009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.08212,25.39787,89.08212,25.39787",
+    "geom:latitude":25.39787,
+    "geom:longitude":89.08212,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5527",
+    "gn:admin3_code":"552769.0",
+    "gn:admin4_code":"55276925.0",
+    "gn:asciiname":"Harirpur",
+    "gn:country_code":"BD",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8064816,
+    "gn:latitude":25.39787,
+    "gn:longitude":89.08212,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Harirpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Harirpur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8064816
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"5d48cd6b25f76a4b726a01a89c9a4bd8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694671,
+            "locality_id":1293420009,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1293420009,
+    "wof:lastmodified":1537586850,
+    "wof:name":"Harirpur",
+    "wof:parent_id":1108694671,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.08211999999997,
+    25.39787,
+    89.08211999999997,
+    25.39787
+],
+  "geometry": {"coordinates":[89.08211999999997,25.39787],"type":"Point"}
+}

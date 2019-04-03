@@ -1,0 +1,74 @@
+{
+  "id": 1243311961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.94579,23.34479,90.94579,23.34479",
+    "geom:latitude":23.34479,
+    "geom:longitude":90.94579,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2019.0",
+    "gn:admin3_code":"201927.0",
+    "gn:admin4_code":"20192731.0",
+    "gn:asciiname":"Amlaki",
+    "gn:country_code":"BD",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1212815,
+    "gn:latitude":23.34479,
+    "gn:longitude":90.94579,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"\u0100mlaki",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0100mlaki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421187801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1212815,
+        "wk:page":"Amlaki%2C_Bangladesh"
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"7da9917145f56788591ec8034928211d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421187801,
+            "locality_id":1243311961,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1243311961,
+    "wof:lastmodified":1537586203,
+    "wof:name":"Amlaki",
+    "wof:parent_id":421187801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.94579,
+    23.34479,
+    90.94579,
+    23.34479
+],
+  "geometry": {"coordinates":[90.94579,23.34479],"type":"Point"}
+}

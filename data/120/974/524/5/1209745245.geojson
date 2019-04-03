@@ -1,0 +1,71 @@
+{
+  "id": 1209745245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.25638,22.71662,90.25638,22.71662",
+    "geom:latitude":22.71662,
+    "geom:longitude":90.25638,
+    "gn:admin1_code":"82",
+    "gn:asciiname":"Bibhishankati",
+    "gn:country_code":"BD",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1208698,
+    "gn:latitude":22.71662,
+    "gn:longitude":90.25638,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Bibhishank\u0101ti",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bibhisankati",
+        "Bibhishank\u0101ti"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669019,
+        1108694677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1208698
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"8a855af9f117bfc3cdbd34b2dcec14c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694677,
+            "locality_id":1209745245,
+            "region_id":85669019
+        }
+    ],
+    "wof:id":1209745245,
+    "wof:lastmodified":1537586134,
+    "wof:name":"Bibhishankati",
+    "wof:parent_id":1108694677,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.25638,
+    22.71662,
+    90.25638,
+    22.71662
+],
+  "geometry": {"coordinates":[90.25637999999999,22.71662],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1327282501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.0,23.3,91.0,23.3",
+    "geom:latitude":23.3,
+    "geom:longitude":91.0,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2019",
+    "gn:admin3_code":"201909.0",
+    "gn:admin4_code":"20190975.0",
+    "gn:asciiname":"Anailkota",
+    "gn:country_code":"BD",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9794291,
+    "gn:latitude":23.3,
+    "gn:longitude":91.0,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Anailkota",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Anailkota, Bangladesh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421187801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9794291,
+        "wk:page":"Anailkota,_Bangladesh"
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"e84f0193534001311b50b0f5ac10e19a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421187801,
+            "locality_id":1327282501,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1327282501,
+    "wof:lastmodified":1537586875,
+    "wof:name":"Anailkota",
+    "wof:parent_id":421187801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.0,
+    23.3,
+    91.0,
+    23.3
+],
+  "geometry": {"coordinates":[91.0,23.3],"type":"Point"}
+}

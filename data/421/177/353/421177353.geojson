@@ -1,0 +1,123 @@
+{
+  "id": 421177353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.77075,24.48888,91.77075,24.48888",
+    "geom:latitude":24.48888,
+    "geom:longitude":91.77075,
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ben_x_preferred":[
+        "\u09ae\u09cc\u09b2\u09ad\u09c0\u09ac\u09be\u099c\u09be\u09b0"
+    ],
+    "name:ceb_x_preferred":[
+        "Maulavi B\u0101z\u0101r"
+    ],
+    "name:dut_x_preferred":[
+        "Maulvi Bazar"
+    ],
+    "name:eng_x_preferred":[
+        "Maulvi Bazar"
+    ],
+    "name:fra_x_preferred":[
+        "Maulvi Bazar"
+    ],
+    "name:fre_x_preferred":[
+        "Maulvi Bazar"
+    ],
+    "name:nld_x_preferred":[
+        "Maulvi Bazar"
+    ],
+    "name:pol_x_preferred":[
+        "Moulbi Bad\u017aar"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u0443\u043b\u0432\u0438\u0431\u0430\u0437\u0430\u0440"
+    ],
+    "name:spa_x_preferred":[
+        "Maulvi Bazar"
+    ],
+    "name:swe_x_preferred":[
+        "Maulavi B\u0101z\u0101r"
+    ],
+    "name:unk_x_variant":[
+        "Moulvi Bazar"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u0648\u0644\u0648\u06cc \u0628\u0627\u0632\u0627\u0631"
+    ],
+    "name:war_x_preferred":[
+        "Maulvi Bazar"
+    ],
+    "qs:gn_country":"BD",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":1185166,
+    "qs:gn_pop":57441,
+    "qs:name":"Maulvi Bazar",
+    "qs:name_adm0":"Bangladesh",
+    "qs:name_adm1":"Sylhet",
+    "qs:photos":94,
+    "qs:photos_1k":19,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":94,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"8",
+    "qs:qs_id":1175330,
+    "qs:woe_adm0":23424759,
+    "qs:woe_id":1915147,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669025,
+        1108694693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1185166,
+        "gp:id":1915147,
+        "qs:id":1175330,
+        "wd:id":"Q1856323",
+        "wk:page":"Moulvibazar"
+    },
+    "wof:country":"BD",
+    "wof:created":1459009142,
+    "wof:geomhash":"5bb3adc95c074d374d8ede7e84a1700a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694693,
+            "locality_id":421177353,
+            "region_id":85669025
+        }
+    ],
+    "wof:id":421177353,
+    "wof:lastmodified":1513899073,
+    "wof:name":"Maulvi Bazar",
+    "wof:parent_id":1108694693,
+    "wof:placetype":"locality",
+    "wof:population":57441,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.77075,
+    24.48888,
+    91.77075,
+    24.48888
+],
+  "geometry": {"coordinates":[91.77075000000001,24.48888],"type":"Point"}
+}

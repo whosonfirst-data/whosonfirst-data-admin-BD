@@ -1,0 +1,75 @@
+{
+  "id": 1310242355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.16667,22.68333,89.16667,22.68333",
+    "geom:latitude":22.68333,
+    "geom:longitude":89.16667,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4087.0",
+    "gn:admin3_code":"408790.0",
+    "gn:admin4_code":"40879039.0",
+    "gn:asciiname":"Gacha",
+    "gn:cc2":"BD",
+    "gn:country_code":"BD",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1203177,
+    "gn:latitude":22.68333,
+    "gn:longitude":89.16667,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"G\u0101cha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gachha",
+        "G\u0101cha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        421201927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1203177
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"bca03028a9677878ee878cb79d1159b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421201927,
+            "locality_id":1310242355,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1310242355,
+    "wof:lastmodified":1537586031,
+    "wof:name":"Gacha",
+    "wof:parent_id":421201927,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.16667,
+    22.68333,
+    89.16667,
+    22.68333
+],
+  "geometry": {"coordinates":[89.16667,22.68333],"type":"Point"}
+}

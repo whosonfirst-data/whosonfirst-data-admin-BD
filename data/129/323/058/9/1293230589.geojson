@@ -1,0 +1,70 @@
+{
+  "id": 1293230589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.99671,22.51436,88.99671,22.51436",
+    "geom:latitude":22.51436,
+    "geom:longitude":88.99671,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4087.0",
+    "gn:admin3_code":"408747.0",
+    "gn:admin4_code":"40874779.0",
+    "gn:asciiname":"Durduria",
+    "gn:country_code":"BD",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1203701,
+    "gn:latitude":22.51436,
+    "gn:longitude":88.99671,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Durduria",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        421201927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1203701
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"c6bf7b7c149f971f41d778bcbd391454",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421201927,
+            "locality_id":1293230589,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1293230589,
+    "wof:lastmodified":1536660597,
+    "wof:name":"Durduria",
+    "wof:parent_id":421201927,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.99671,
+    22.51436,
+    88.99671,
+    22.51436
+],
+  "geometry": {"coordinates":[88.99670999999999,22.51436],"type":"Point"}
+}

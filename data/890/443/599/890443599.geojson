@@ -1,0 +1,69 @@
+{
+  "id": 890443599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.14251,23.59311,90.14251,23.59311",
+    "geom:latitude":23.59311,
+    "geom:longitude":90.14251,
+    "gn:country":"BD",
+    "gn:fcode":"PPL",
+    "gn:pop":45543,
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Sut\u0101rpara"
+    ],
+    "qs:name":"Doh\u0101r",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"7",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421187803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1185100,
+        "gp:id":1915035,
+        "qs:id":1030102
+    },
+    "wof:country":"BD",
+    "wof:created":1469052430,
+    "wof:geomhash":"3a59701c6cbfb440be4971f86806862c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421187803,
+            "locality_id":890443599,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":890443599,
+    "wof:lastmodified":1505343594,
+    "wof:name":"Doh\u0101r",
+    "wof:parent_id":421187803,
+    "wof:placetype":"locality",
+    "wof:population":45543,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.14251,
+    23.59311,
+    90.14251,
+    23.59311
+],
+  "geometry": {"coordinates":[90.14251,23.59311],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1260217369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.72644,25.90155,89.72644,25.90155",
+    "geom:latitude":25.90155,
+    "geom:longitude":89.72644,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5549",
+    "gn:admin3_code":"554961.0",
+    "gn:admin4_code":"55496125.0",
+    "gn:asciiname":"Digdari Nunkhawa",
+    "gn:country_code":"BD",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8537473,
+    "gn:latitude":25.90155,
+    "gn:longitude":89.72644,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Digd\u0101ri Nunkh\u0101wa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Digd\u0101ri Nunkh\u0101wa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8537473
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"9dd6782825d146127aff9de58217ccab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694685,
+            "locality_id":1260217369,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1260217369,
+    "wof:lastmodified":1537586872,
+    "wof:name":"Digdari Nunkhawa",
+    "wof:parent_id":1108694685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.72644,
+    25.90155,
+    89.72644,
+    25.90155
+],
+  "geometry": {"coordinates":[89.72644,25.90155],"type":"Point"}
+}

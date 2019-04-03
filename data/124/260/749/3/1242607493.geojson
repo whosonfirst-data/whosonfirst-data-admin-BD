@@ -1,0 +1,73 @@
+{
+  "id": 1242607493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.14953,22.33662,90.14953,22.33662",
+    "geom:latitude":22.33662,
+    "geom:longitude":90.14953,
+    "gn:admin1_code":"85",
+    "gn:admin2_code":"1004.0",
+    "gn:admin3_code":"100447.0",
+    "gn:admin4_code":"10044747.0",
+    "gn:asciiname":"South Chhopkhali",
+    "gn:country_code":"BD",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7476653,
+    "gn:latitude":22.33662,
+    "gn:longitude":90.14953,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"South Chhopkh\u0101li",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "South Chhopkh\u0101li"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669019,
+        421176043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7476653
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"128dc416cde499f74123151838e0ff68",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421176043,
+            "locality_id":1242607493,
+            "region_id":85669019
+        }
+    ],
+    "wof:id":1242607493,
+    "wof:lastmodified":1537586350,
+    "wof:name":"South Chhopkhali",
+    "wof:parent_id":421176043,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.14953,
+    22.33662,
+    90.14953,
+    22.33662
+],
+  "geometry": {"coordinates":[90.14953,22.33662],"type":"Point"}
+}

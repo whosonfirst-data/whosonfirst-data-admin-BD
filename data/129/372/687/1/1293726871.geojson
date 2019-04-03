@@ -1,0 +1,76 @@
+{
+  "id": 1293726871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.3382,23.19092,90.3382,23.19092",
+    "geom:latitude":23.19092,
+    "geom:longitude":90.3382,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3086",
+    "gn:admin3_code":"308669.0",
+    "gn:admin4_code":"30866900.0",
+    "gn:asciiname":"Dakhin Madyapara",
+    "gn:country_code":"BD",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1187385,
+    "gn:latitude":23.19092,
+    "gn:longitude":90.3382,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Dakhin Madyap\u0101ra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dakshin Madhayapara",
+        "South Madhapara",
+        "South Madhyap\u0101ra",
+        "Dakhin Madyap\u0101ra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421188359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1187385
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"662800ce81c7289507b7f38d84a4f5eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421188359,
+            "locality_id":1293726871,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1293726871,
+    "wof:lastmodified":1537585735,
+    "wof:name":"Dakhin Madyapara",
+    "wof:parent_id":421188359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.3382,
+    23.19092,
+    90.3382,
+    23.19092
+],
+  "geometry": {"coordinates":[90.3382,23.19092],"type":"Point"}
+}

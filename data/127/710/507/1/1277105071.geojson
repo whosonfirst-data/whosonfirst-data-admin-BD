@@ -1,0 +1,70 @@
+{
+  "id": 1277105071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.61123,22.03825,90.61123,22.03825",
+    "geom:latitude":22.03825,
+    "geom:longitude":90.61123,
+    "gn:admin1_code":"82",
+    "gn:asciiname":"Char Haris",
+    "gn:country_code":"BD",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7478335,
+    "gn:latitude":22.03825,
+    "gn:longitude":90.61123,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"Char Haris",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Char Haris"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669019,
+        421184491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7478335
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"8753d4e5789ae6126ca8faf9b6d83a57",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421184491,
+            "locality_id":1277105071,
+            "region_id":85669019
+        }
+    ],
+    "wof:id":1277105071,
+    "wof:lastmodified":1537586389,
+    "wof:name":"Char Haris",
+    "wof:parent_id":421184491,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.61123,
+    22.03825,
+    90.61123,
+    22.03825
+],
+  "geometry": {"coordinates":[90.61123000000001,22.03825],"type":"Point"}
+}

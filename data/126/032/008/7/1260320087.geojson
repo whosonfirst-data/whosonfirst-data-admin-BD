@@ -1,0 +1,75 @@
+{
+  "id": 1260320087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.25,23.86667,89.25,23.86667",
+    "geom:latitude":23.86667,
+    "geom:longitude":89.25,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4050",
+    "gn:admin3_code":"405071.0",
+    "gn:admin4_code":"40507100.0",
+    "gn:asciiname":"Khurd Tarapur",
+    "gn:cc2":"BD",
+    "gn:country_code":"BD",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1197216,
+    "gn:latitude":23.86667,
+    "gn:longitude":89.25,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Khurd T\u0101r\u0101pur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Khordda Tarapur",
+        "Khurd T\u0101r\u0101pur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        890438075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1197216
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"2f38afefed0111d57f2d33571e300675",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":890438075,
+            "locality_id":1260320087,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1260320087,
+    "wof:lastmodified":1537585920,
+    "wof:name":"Khurd Tarapur",
+    "wof:parent_id":890438075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.25,
+    23.86667000000001,
+    89.25,
+    23.86667000000001
+],
+  "geometry": {"coordinates":[89.25,23.86667000000001],"type":"Point"}
+}

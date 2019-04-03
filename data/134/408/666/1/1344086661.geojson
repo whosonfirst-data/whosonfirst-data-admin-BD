@@ -1,0 +1,70 @@
+{
+  "id": 1344086661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.63541,22.08494,90.63541,22.08494",
+    "geom:latitude":22.08494,
+    "geom:longitude":90.63541,
+    "gn:admin1_code":"82",
+    "gn:asciiname":"Dakshin Char Mangal",
+    "gn:country_code":"BD",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7478330,
+    "gn:latitude":22.08494,
+    "gn:longitude":90.63541,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"Dakshin Char Mangal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Dakshin Char Mangal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669019,
+        421184491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7478330
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"c7435860ec28e8dc4c673b307c26f71a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421184491,
+            "locality_id":1344086661,
+            "region_id":85669019
+        }
+    ],
+    "wof:id":1344086661,
+    "wof:lastmodified":1537586389,
+    "wof:name":"Dakshin Char Mangal",
+    "wof:parent_id":421184491,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.63541,
+    22.08494,
+    90.63541,
+    22.08494
+],
+  "geometry": {"coordinates":[90.63540999999999,22.08494],"type":"Point"}
+}

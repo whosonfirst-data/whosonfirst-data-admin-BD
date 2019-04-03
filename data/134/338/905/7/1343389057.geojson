@@ -1,0 +1,73 @@
+{
+  "id": 1343389057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.80241,25.50937,89.80241,25.50937",
+    "geom:latitude":25.50937,
+    "geom:longitude":89.80241,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5549",
+    "gn:admin3_code":"554979.0",
+    "gn:admin4_code":"55497935.0",
+    "gn:asciiname":"Dhanar Char Hat",
+    "gn:country_code":"BD",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7926314,
+    "gn:latitude":25.50937,
+    "gn:longitude":89.80241,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Dhan\u0101r Char H\u0101t",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Dhan\u0101r Char H\u0101t"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7926314
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"326b2746bf95b241166cf0210d73d9ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694685,
+            "locality_id":1343389057,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1343389057,
+    "wof:lastmodified":1537586821,
+    "wof:name":"Dhanar Char Hat",
+    "wof:parent_id":1108694685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.80241,
+    25.50937,
+    89.80241,
+    25.50937
+],
+  "geometry": {"coordinates":[89.80240999999999,25.50937],"type":"Point"}
+}

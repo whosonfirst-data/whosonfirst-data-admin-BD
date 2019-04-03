@@ -1,0 +1,64 @@
+{
+  "id": 1209347899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.0927,24.91772,89.0927,24.91772",
+    "geom:latitude":24.91772,
+    "geom:longitude":89.0927,
+    "gn:admin1_code":"83",
+    "gn:admin2_code":"5010",
+    "gn:admin3_code":"501033.0",
+    "gn:admin4_code":"50103381.0",
+    "gn:asciiname":"Polla",
+    "gn:country_code":"BD",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1191017,
+    "gn:latitude":24.91772,
+    "gn:longitude":89.0927,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Polla",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1191017
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"8201e2c1c82e66eb19366ebf9b74f418",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209347899
+        }
+    ],
+    "wof:id":1209347899,
+    "wof:lastmodified":1536289847,
+    "wof:name":"Polla",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.0927,
+    24.917720000000006,
+    89.0927,
+    24.917720000000006
+],
+  "geometry": {"coordinates":[89.09269999999999,24.91772000000001],"type":"Point"}
+}

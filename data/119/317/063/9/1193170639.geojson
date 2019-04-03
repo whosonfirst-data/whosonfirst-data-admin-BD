@@ -1,0 +1,70 @@
+{
+  "id": 1193170639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.2936,25.18256,89.2936,25.18256",
+    "geom:latitude":25.18256,
+    "geom:longitude":89.2936,
+    "gn:admin1_code":"83",
+    "gn:asciiname":"Dudia",
+    "gn:country_code":"BD",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7890055,
+    "gn:latitude":25.18256,
+    "gn:longitude":89.2936,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Dudia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Dudia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7890055
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"a414227e3ec85b30f1d68f2455f761b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694675,
+            "locality_id":1193170639,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1193170639,
+    "wof:lastmodified":1537586740,
+    "wof:name":"Dudia",
+    "wof:parent_id":1108694675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.2936,
+    25.18256,
+    89.2936,
+    25.18256
+],
+  "geometry": {"coordinates":[89.2936,25.18256],"type":"Point"}
+}

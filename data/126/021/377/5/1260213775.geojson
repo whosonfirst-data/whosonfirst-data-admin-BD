@@ -1,0 +1,75 @@
+{
+  "id": 1260213775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.31414,23.32292,90.31414,23.32292",
+    "geom:latitude":23.32292,
+    "geom:longitude":90.31414,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3086",
+    "gn:admin3_code":"308694.0",
+    "gn:admin4_code":"30869458.0",
+    "gn:asciiname":"South Baiksa",
+    "gn:country_code":"BD",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1187478,
+    "gn:latitude":23.32292,
+    "gn:longitude":90.31414,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"South B\u0101iksa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dakshin Baikasha",
+        "South Baiksha",
+        "South B\u0101iksa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421188359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1187478
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"68be28c7f0e00b21781ffe291a8cf409",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421188359,
+            "locality_id":1260213775,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1260213775,
+    "wof:lastmodified":1537585739,
+    "wof:name":"South Baiksa",
+    "wof:parent_id":421188359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.31414,
+    23.32292,
+    90.31414,
+    23.32292
+],
+  "geometry": {"coordinates":[90.31413999999999,23.32292],"type":"Point"}
+}

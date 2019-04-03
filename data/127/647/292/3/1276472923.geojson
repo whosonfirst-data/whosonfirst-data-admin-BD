@@ -1,0 +1,73 @@
+{
+  "id": 1276472923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.72627,25.87426,88.72627,25.87426",
+    "geom:latitude":25.87426,
+    "geom:longitude":88.72627,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5527.0",
+    "gn:admin3_code":"552760.0",
+    "gn:admin4_code":"55276094.0",
+    "gn:asciiname":"Neula",
+    "gn:country_code":"BD",
+    "gn:dem":48,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7106103,
+    "gn:latitude":25.87426,
+    "gn:longitude":88.72627,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Neula",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Neula"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7106103
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"ef3b9e732028a3e561377f855edefffb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694671,
+            "locality_id":1276472923,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1276472923,
+    "wof:lastmodified":1537586322,
+    "wof:name":"Neula",
+    "wof:parent_id":1108694671,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.72627,
+    25.87426,
+    88.72627,
+    25.87426
+],
+  "geometry": {"coordinates":[88.72627,25.87426],"type":"Point"}
+}

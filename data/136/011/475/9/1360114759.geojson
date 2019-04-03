@@ -1,0 +1,73 @@
+{
+  "id": 1360114759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.66626,23.77569,89.66626,23.77569",
+    "geom:latitude":23.77569,
+    "geom:longitude":89.66626,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3082.0",
+    "gn:admin3_code":"308276.0",
+    "gn:admin4_code":"30827651.0",
+    "gn:asciiname":"Sanakandar",
+    "gn:country_code":"BD",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7479436,
+    "gn:latitude":23.77569,
+    "gn:longitude":89.66626,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Sanak\u0101ndar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Sanak\u0101ndar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        1108694699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7479436
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"ea1dc92203986b7baf6a5cf6196fc3ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694699,
+            "locality_id":1360114759,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1360114759,
+    "wof:lastmodified":1537586420,
+    "wof:name":"Sanakandar",
+    "wof:parent_id":1108694699,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.66626,
+    23.77569,
+    89.66626,
+    23.77569
+],
+  "geometry": {"coordinates":[89.66625999999999,23.77569],"type":"Point"}
+}

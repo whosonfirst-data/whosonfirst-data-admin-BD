@@ -1,0 +1,73 @@
+{
+  "id": 1209752891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.38284,25.29474,89.38284,25.29474",
+    "geom:latitude":25.29474,
+    "geom:longitude":89.38284,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5532",
+    "gn:admin3_code":"553267.0",
+    "gn:admin4_code":"55326757.0",
+    "gn:asciiname":"Garanata",
+    "gn:country_code":"BD",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7895563,
+    "gn:latitude":25.29474,
+    "gn:longitude":89.38284,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Garanata",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Garanata"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7895563
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"9aa552c74763dd8d6bd3ad17fb56414f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694675,
+            "locality_id":1209752891,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1209752891,
+    "wof:lastmodified":1537586765,
+    "wof:name":"Garanata",
+    "wof:parent_id":1108694675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.38284,
+    25.29474,
+    89.38284,
+    25.29474
+],
+  "geometry": {"coordinates":[89.38284,25.29474],"type":"Point"}
+}

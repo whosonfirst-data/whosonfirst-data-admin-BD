@@ -1,0 +1,70 @@
+{
+  "id": 1210053799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.94344,23.8739,89.94344,23.8739",
+    "geom:latitude":23.8739,
+    "geom:longitude":89.94344,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3056",
+    "gn:admin3_code":"305622.0",
+    "gn:admin4_code":"30562223.0",
+    "gn:asciiname":"Kella",
+    "gn:country_code":"BD",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1197943,
+    "gn:latitude":23.8739,
+    "gn:longitude":89.94344,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Kella",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421191745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1197943
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"b6204a972970ba99fe3a23672ac0a439",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421191745,
+            "locality_id":1210053799,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1210053799,
+    "wof:lastmodified":1536370678,
+    "wof:name":"Kella",
+    "wof:parent_id":421191745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.94344,
+    23.8739,
+    89.94344,
+    23.8739
+],
+  "geometry": {"coordinates":[89.94344,23.8739],"type":"Point"}
+}

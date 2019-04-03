@@ -1,0 +1,73 @@
+{
+  "id": 1193170533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.54112,22.48172,89.54112,22.48172",
+    "geom:latitude":22.48172,
+    "geom:longitude":89.54112,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4047.0",
+    "gn:admin3_code":"404717.0",
+    "gn:admin4_code":"40471713.0",
+    "gn:asciiname":"Petikahata",
+    "gn:country_code":"BD",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7486469,
+    "gn:latitude":22.48172,
+    "gn:longitude":89.54112,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Petikahata",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Petikahata"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        421185473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7486469
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"fddbeef64a723404146df1d79a1971d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421185473,
+            "locality_id":1193170533,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1193170533,
+    "wof:lastmodified":1537586614,
+    "wof:name":"Petikahata",
+    "wof:parent_id":421185473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.54111999999998,
+    22.48172000000001,
+    89.54111999999998,
+    22.48172000000001
+],
+  "geometry": {"coordinates":[89.54111999999998,22.48172000000001],"type":"Point"}
+}

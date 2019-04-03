@@ -1,0 +1,70 @@
+{
+  "id": 1326568087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.52,22.43944,91.52,22.43944",
+    "geom:latitude":22.43944,
+    "geom:longitude":91.52,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2015.0",
+    "gn:admin3_code":"201578.0",
+    "gn:admin4_code":"20157865.0",
+    "gn:asciiname":"Nandir Hat",
+    "gn:country_code":"BD",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6413868,
+    "gn:latitude":22.43944,
+    "gn:longitude":91.52,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Nandir H\u0101t",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421201541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6413868
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"d3256ceeae0233a8048b295ab1f7b1eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421201541,
+            "locality_id":1326568087,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1326568087,
+    "wof:lastmodified":1536933040,
+    "wof:name":"Nandir Hat",
+    "wof:parent_id":421201541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.52,
+    22.43944,
+    91.52,
+    22.43944
+],
+  "geometry": {"coordinates":[91.52,22.43944],"type":"Point"}
+}

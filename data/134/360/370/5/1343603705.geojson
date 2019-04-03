@@ -1,0 +1,70 @@
+{
+  "id": 1343603705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.94357,23.07401,90.94357,23.07401",
+    "geom:latitude":23.07401,
+    "geom:longitude":90.94357,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2075",
+    "gn:admin3_code":"207510.0",
+    "gn:admin4_code":"20751066.0",
+    "gn:asciiname":"Jamirtali",
+    "gn:country_code":"BD",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1200301,
+    "gn:latitude":23.07401,
+    "gn:longitude":90.94357,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"J\u0101mirtali",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421177051
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1200301
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"613fddfaaee5ae3604cd9060cdbc303e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421177051,
+            "locality_id":1343603705,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1343603705,
+    "wof:lastmodified":1537035427,
+    "wof:name":"Jamirtali",
+    "wof:parent_id":421177051,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.94357,
+    23.07401,
+    90.94357,
+    23.07401
+],
+  "geometry": {"coordinates":[90.94356999999999,23.07401],"type":"Point"}
+}

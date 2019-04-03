@@ -1,0 +1,76 @@
+{
+  "id": 890455881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-09-21",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.25,25.6,89.25,25.6",
+    "geom:latitude":25.6,
+    "geom:longitude":89.25,
+    "gn:country":"BD",
+    "gn:fcode":"ADM2",
+    "gn:pop":2780661,
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Rangpur District"
+    ],
+    "name:eng_x_variant":[
+        "Rangpur"
+    ],
+    "name:unk_x_variant":[
+        "Rangpur Zila"
+    ],
+    "qs:name":"Rangpur District",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"12",
+    "src:population":"geonames",
+    "wd:wordcount":1447,
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1337159,
+        "qs:id":555771,
+        "wd:id":"Q2344570",
+        "wk:page":"Rangpur District"
+    },
+    "wof:country":"BD",
+    "wof:created":1469052978,
+    "wof:geomhash":"a9d40ebba303715010b1ad78c04258d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":890455881,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":890455881,
+    "wof:lastmodified":1527734192,
+    "wof:name":"Rangpur District",
+    "wof:parent_id":85669035,
+    "wof:placetype":"county",
+    "wof:population":2780661,
+    "wof:population_rank":12,
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.25,
+    25.6,
+    89.25,
+    25.6
+],
+  "geometry": {"coordinates":[89.25,25.6],"type":"Point"}
+}

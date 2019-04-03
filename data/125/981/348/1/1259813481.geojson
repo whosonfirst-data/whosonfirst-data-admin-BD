@@ -1,0 +1,76 @@
+{
+  "id": 1259813481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.87778,24.68373,88.87778,24.68373",
+    "geom:latitude":24.68373,
+    "geom:longitude":88.87778,
+    "gn:admin1_code":"83",
+    "gn:admin2_code":"5064",
+    "gn:admin3_code":"506403.0",
+    "gn:admin4_code":"50640342.0",
+    "gn:asciiname":"Nandalali",
+    "gn:country_code":"BD",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1193504,
+    "gn:latitude":24.68373,
+    "gn:longitude":88.87778,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Nandal\u0101li",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Nandal\u0101li"
+    ],
+    "name:und_x_variant":[
+        "Nandan\u0101li"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669031,
+        421191663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1193504
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"22afb6c786b1cc754e550d0a53453862",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421191663,
+            "locality_id":1259813481,
+            "region_id":85669031
+        }
+    ],
+    "wof:id":1259813481,
+    "wof:lastmodified":1537585853,
+    "wof:name":"Nandalali",
+    "wof:parent_id":421191663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.87778,
+    24.68373,
+    88.87778,
+    24.68373
+],
+  "geometry": {"coordinates":[88.87778,24.68373],"type":"Point"}
+}

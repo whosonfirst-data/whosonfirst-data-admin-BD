@@ -1,0 +1,70 @@
+{
+  "id": 1343988185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.01334,23.94166,90.01334,23.94166",
+    "geom:latitude":23.94166,
+    "geom:longitude":90.01334,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3056.0",
+    "gn:admin3_code":"305670.0",
+    "gn:admin4_code":"30567076.0",
+    "gn:asciiname":"Char Fukurhati",
+    "gn:country_code":"BD",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1206937,
+    "gn:latitude":23.94166,
+    "gn:longitude":90.01334,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Char Fukurh\u0101ti",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421191745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1206937
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"27808914a74765c6742f3980548d4a76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421191745,
+            "locality_id":1343988185,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1343988185,
+    "wof:lastmodified":1536979458,
+    "wof:name":"Char Fukurhati",
+    "wof:parent_id":421191745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.01334,
+    23.94166,
+    90.01334,
+    23.94166
+],
+  "geometry": {"coordinates":[90.01334,23.94166],"type":"Point"}
+}

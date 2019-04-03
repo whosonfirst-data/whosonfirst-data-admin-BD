@@ -1,0 +1,70 @@
+{
+  "id": 1293916895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.40661,25.13088,89.40661,25.13088",
+    "geom:latitude":25.13088,
+    "geom:longitude":89.40661,
+    "gn:admin1_code":"83",
+    "gn:asciiname":"Kunja Malancha",
+    "gn:country_code":"BD",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7891009,
+    "gn:latitude":25.13088,
+    "gn:longitude":89.40661,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Kunja M\u0101lancha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Kunja M\u0101lancha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7891009
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"48cdb8647d689cac4910f974d0bdfa99",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694675,
+            "locality_id":1293916895,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1293916895,
+    "wof:lastmodified":1537586750,
+    "wof:name":"Kunja Malancha",
+    "wof:parent_id":1108694675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.40661,
+    25.13088,
+    89.40661,
+    25.13088
+],
+  "geometry": {"coordinates":[89.40661,25.13088],"type":"Point"}
+}

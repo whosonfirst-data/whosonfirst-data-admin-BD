@@ -1,0 +1,70 @@
+{
+  "id": 1343806427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.86141,23.59298,90.86141,23.59298",
+    "geom:latitude":23.59298,
+    "geom:longitude":90.86141,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2019",
+    "gn:admin3_code":"201981.0",
+    "gn:admin4_code":"20198131.0",
+    "gn:asciiname":"Melan Char",
+    "gn:country_code":"BD",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1194473,
+    "gn:latitude":23.59298,
+    "gn:longitude":90.86141,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Mel\u0101n Char",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421187801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1194473
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"156e1b809654375cddef2aa9c452c496",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421187801,
+            "locality_id":1343806427,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1343806427,
+    "wof:lastmodified":1536744430,
+    "wof:name":"Melan Char",
+    "wof:parent_id":421187801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.86141,
+    23.59298,
+    90.86141,
+    23.59298
+],
+  "geometry": {"coordinates":[90.86141000000001,23.59298],"type":"Point"}
+}

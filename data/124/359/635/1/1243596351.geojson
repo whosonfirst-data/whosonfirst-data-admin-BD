@@ -1,0 +1,70 @@
+{
+  "id": 1243596351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.93583,23.2624,90.93583,23.2624",
+    "geom:latitude":23.2624,
+    "geom:longitude":90.93583,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2013.0",
+    "gn:admin3_code":"201395.0",
+    "gn:admin4_code":"20139595.0",
+    "gn:asciiname":"Balsid",
+    "gn:country_code":"BD",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1211247,
+    "gn:latitude":23.2624,
+    "gn:longitude":90.93583,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Balsid",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        1108694669
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1211247
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"53888ac89126ae869446401858aa18aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694669,
+            "locality_id":1243596351,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1243596351,
+    "wof:lastmodified":1537083273,
+    "wof:name":"Balsid",
+    "wof:parent_id":1108694669,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.93583,
+    23.2624,
+    90.93583,
+    23.2624
+],
+  "geometry": {"coordinates":[90.93583,23.2624],"type":"Point"}
+}

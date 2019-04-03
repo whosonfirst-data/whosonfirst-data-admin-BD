@@ -1,0 +1,70 @@
+{
+  "id": 1310534731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.3367,22.8102,90.3367,22.8102",
+    "geom:latitude":22.8102,
+    "geom:longitude":90.3367,
+    "gn:admin1_code":"85",
+    "gn:admin2_code":"1006",
+    "gn:admin3_code":"100603.0",
+    "gn:admin4_code":"10060381.0",
+    "gn:asciiname":"Sinherkati",
+    "gn:country_code":"BD",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1187752,
+    "gn:latitude":22.8102,
+    "gn:longitude":90.3367,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Sinherk\u0101ti",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669019,
+        421187745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1187752
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"427a25a05da66198d466072c939b41cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421187745,
+            "locality_id":1310534731,
+            "region_id":85669019
+        }
+    ],
+    "wof:id":1310534731,
+    "wof:lastmodified":1536873832,
+    "wof:name":"Sinherkati",
+    "wof:parent_id":421187745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.3367,
+    22.8102,
+    90.3367,
+    22.8102
+],
+  "geometry": {"coordinates":[90.33669999999999,22.8102],"type":"Point"}
+}

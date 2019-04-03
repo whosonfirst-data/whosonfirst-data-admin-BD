@@ -1,0 +1,73 @@
+{
+  "id": 1293137963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.66494,26.19159,89.66494,26.19159",
+    "geom:latitude":26.19159,
+    "geom:longitude":89.66494,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5549",
+    "gn:admin3_code":"554906.0",
+    "gn:admin4_code":"55490685.0",
+    "gn:asciiname":"Dakshin Dhaldanga",
+    "gn:country_code":"BD",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8038851,
+    "gn:latitude":26.19159,
+    "gn:longitude":89.66494,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Dakshin Dhaldanga",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Dakshin Dhaldanga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8038851
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"f2abfd9829d34ade85304c1a01029172",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694685,
+            "locality_id":1293137963,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1293137963,
+    "wof:lastmodified":1537586834,
+    "wof:name":"Dakshin Dhaldanga",
+    "wof:parent_id":1108694685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.66494,
+    26.19159,
+    89.66494,
+    26.19159
+],
+  "geometry": {"coordinates":[89.66494,26.19159],"type":"Point"}
+}

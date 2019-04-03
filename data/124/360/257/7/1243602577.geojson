@@ -1,0 +1,73 @@
+{
+  "id": 1243602577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.95984,22.52683,91.95984,22.52683",
+    "geom:latitude":22.52683,
+    "geom:longitude":91.95984,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2015.0",
+    "gn:admin3_code":"201574.0",
+    "gn:admin4_code":"20157475.0",
+    "gn:asciiname":"Purba Raojan",
+    "gn:country_code":"BD",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6414497,
+    "gn:latitude":22.52683,
+    "gn:longitude":91.95984,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Purba Raoj\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Purba Raoj\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421201541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6414497
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"ddf800ab76371e53b64f9e2449dfc16b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421201541,
+            "locality_id":1243602577,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1243602577,
+    "wof:lastmodified":1537586228,
+    "wof:name":"Purba Raojan",
+    "wof:parent_id":421201541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.95984,
+    22.52683,
+    91.95984,
+    22.52683
+],
+  "geometry": {"coordinates":[91.95984,22.52683],"type":"Point"}
+}

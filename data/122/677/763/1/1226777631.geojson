@@ -1,0 +1,73 @@
+{
+  "id": 1226777631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.15951,23.32197,89.15951,23.32197",
+    "geom:latitude":23.32197,
+    "geom:longitude":89.15951,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4044.0",
+    "gn:admin3_code":"404433.0",
+    "gn:admin4_code":"40443310.0",
+    "gn:asciiname":"Pirojpur",
+    "gn:country_code":"BD",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7634190,
+    "gn:latitude":23.32197,
+    "gn:longitude":89.15951,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Pirojpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Pirojpur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        1108694679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7634190
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"c3eecd5677cde84d4858fd6940bc9fa0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694679,
+            "locality_id":1226777631,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1226777631,
+    "wof:lastmodified":1537586705,
+    "wof:name":"Pirojpur",
+    "wof:parent_id":1108694679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.15951,
+    23.32197,
+    89.15951,
+    23.32197
+],
+  "geometry": {"coordinates":[89.15951,23.32197],"type":"Point"}
+}

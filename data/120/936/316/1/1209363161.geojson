@@ -1,0 +1,64 @@
+{
+  "id": 1209363161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.7404,23.122,90.7404,23.122",
+    "geom:latitude":23.122,
+    "geom:longitude":90.7404,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2013",
+    "gn:admin3_code":"201345.0",
+    "gn:admin4_code":"20134535.0",
+    "gn:asciiname":"Sapua",
+    "gn:country_code":"BD",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1188673,
+    "gn:latitude":23.122,
+    "gn:longitude":90.7404,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"S\u0101pua",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1188673
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"cb0eb8781d87c62deea395b0971b9a84",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209363161
+        }
+    ],
+    "wof:id":1209363161,
+    "wof:lastmodified":1536289361,
+    "wof:name":"Sapua",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.7404,
+    23.122,
+    90.7404,
+    23.122
+],
+  "geometry": {"coordinates":[90.74039999999999,23.122],"type":"Point"}
+}

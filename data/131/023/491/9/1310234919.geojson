@@ -1,0 +1,70 @@
+{
+  "id": 1310234919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.21202,23.95497,90.21202,23.95497",
+    "geom:latitude":23.95497,
+    "geom:longitude":90.21202,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3026.0",
+    "gn:admin3_code":"302614.0",
+    "gn:admin4_code":"30261423.0",
+    "gn:asciiname":"Chhota Paichhail",
+    "gn:country_code":"BD",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1205894,
+    "gn:latitude":23.95497,
+    "gn:longitude":90.21202,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Chhota P\u0101ichh\u0101il",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421187803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1205894
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"ac7cbe6e18c1ebc598ced08f02db232b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421187803,
+            "locality_id":1310234919,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1310234919,
+    "wof:lastmodified":1536809549,
+    "wof:name":"Chhota Paichhail",
+    "wof:parent_id":421187803,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.21202,
+    23.95497,
+    90.21202,
+    23.95497
+],
+  "geometry": {"coordinates":[90.21202,23.95497],"type":"Point"}
+}

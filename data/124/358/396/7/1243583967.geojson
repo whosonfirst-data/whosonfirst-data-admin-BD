@@ -1,0 +1,73 @@
+{
+  "id": 1243583967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.20941,23.38074,89.20941,23.38074",
+    "geom:latitude":23.38074,
+    "geom:longitude":89.20941,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4044.0",
+    "gn:admin3_code":"404433.0",
+    "gn:admin4_code":"40443347.0",
+    "gn:asciiname":"Mirkadanga",
+    "gn:country_code":"BD",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7634277,
+    "gn:latitude":23.38074,
+    "gn:longitude":89.20941,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Mirk\u0101d\u0101nga",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Mirk\u0101d\u0101nga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        1108694679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7634277
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"59656462f26e78c80c1a1579f4304eef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694679,
+            "locality_id":1243583967,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1243583967,
+    "wof:lastmodified":1537586708,
+    "wof:name":"Mirkadanga",
+    "wof:parent_id":1108694679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.20940999999998,
+    23.38074,
+    89.20940999999998,
+    23.38074
+],
+  "geometry": {"coordinates":[89.20940999999998,23.38074],"type":"Point"}
+}

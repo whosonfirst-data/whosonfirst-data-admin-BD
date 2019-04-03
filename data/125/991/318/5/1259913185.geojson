@@ -1,0 +1,73 @@
+{
+  "id": 1259913185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.31646,23.481,89.31646,23.481",
+    "geom:latitude":23.481,
+    "geom:longitude":89.31646,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4055.0",
+    "gn:admin3_code":"405557.0",
+    "gn:admin4_code":"40555747.0",
+    "gn:asciiname":"Bamanpur",
+    "gn:country_code":"BD",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7478415,
+    "gn:latitude":23.481,
+    "gn:longitude":89.31646,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Bamanpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Bamanpur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        1108694689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7478415
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"52f46808ff8428e92f4ffe899bbc489e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694689,
+            "locality_id":1259913185,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1259913185,
+    "wof:lastmodified":1537586391,
+    "wof:name":"Bamanpur",
+    "wof:parent_id":1108694689,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.31645999999998,
+    23.481,
+    89.31645999999998,
+    23.481
+],
+  "geometry": {"coordinates":[89.31645999999998,23.481],"type":"Point"}
+}

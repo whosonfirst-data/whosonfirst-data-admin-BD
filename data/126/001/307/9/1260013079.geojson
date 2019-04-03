@@ -1,0 +1,74 @@
+{
+  "id": 1260013079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"92.2392,24.8029,92.2392,24.8029",
+    "geom:latitude":24.8029,
+    "geom:longitude":92.2392,
+    "gn:admin1_code":"86",
+    "gn:admin2_code":"6058",
+    "gn:admin3_code":"605814.0",
+    "gn:admin4_code":"60581485.0",
+    "gn:asciiname":"Shahbazpur, Moulvibazar",
+    "gn:country_code":"BD",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9858369,
+    "gn:latitude":24.8029,
+    "gn:longitude":92.2392,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Shahbazpur, Moulvibazar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shahbazpur, Moulvi Bazar, Bangladesh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669025,
+        1108694693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9858369,
+        "wk:page":"Shahbazpur,_Moulvi_Bazar,_Bangladesh"
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"2400b1a2acc21065f59d7c38f7c91aee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694693,
+            "locality_id":1260013079,
+            "region_id":85669025
+        }
+    ],
+    "wof:id":1260013079,
+    "wof:lastmodified":1537586875,
+    "wof:name":"Shahbazpur, Moulvibazar",
+    "wof:parent_id":1108694693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    92.2392,
+    24.8029,
+    92.2392,
+    24.8029
+],
+  "geometry": {"coordinates":[92.2392,24.8029],"type":"Point"}
+}

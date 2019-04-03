@@ -1,0 +1,67 @@
+{
+  "id": 1226172599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.46072,23.63554,89.46072,23.63554",
+    "geom:latitude":23.63554,
+    "geom:longitude":89.46072,
+    "gn:admin1_code":"81",
+    "gn:asciiname":"Ghasial",
+    "gn:country_code":"BD",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1202640,
+    "gn:latitude":23.63554,
+    "gn:longitude":89.46072,
+    "gn:modification_date":"2013-02-08",
+    "gn:name":"Gh\u0101si\u0101l",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        1108694699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1202640
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"5cce2f11834500547c13192b5a81eb4b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694699,
+            "locality_id":1226172599,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1226172599,
+    "wof:lastmodified":1537037464,
+    "wof:name":"Ghasial",
+    "wof:parent_id":1108694699,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.46072,
+    23.63554,
+    89.46072,
+    23.63554
+],
+  "geometry": {"coordinates":[89.46071999999999,23.63554],"type":"Point"}
+}

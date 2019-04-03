@@ -1,0 +1,73 @@
+{
+  "id": 1360118035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.94276,24.00153,88.94276,24.00153",
+    "geom:latitude":24.00153,
+    "geom:longitude":88.94276,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4050.0",
+    "gn:admin3_code":"405039.0",
+    "gn:admin4_code":"40503967.0",
+    "gn:asciiname":"Maria",
+    "gn:country_code":"BD",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7483987,
+    "gn:latitude":24.00153,
+    "gn:longitude":88.94276,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"M\u0101ria",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "M\u0101ria"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        890438075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7483987
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"078e5ef470c93fc49bc4921e8d2d33f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":890438075,
+            "locality_id":1360118035,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1360118035,
+    "wof:lastmodified":1537586552,
+    "wof:name":"Maria",
+    "wof:parent_id":890438075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.94275999999998,
+    24.00153,
+    88.94275999999998,
+    24.00153
+],
+  "geometry": {"coordinates":[88.94275999999998,24.00153],"type":"Point"}
+}

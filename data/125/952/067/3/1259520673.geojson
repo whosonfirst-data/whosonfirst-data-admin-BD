@@ -1,0 +1,70 @@
+{
+  "id": 1259520673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.32082,22.49085,90.32082,22.49085",
+    "geom:latitude":22.49085,
+    "geom:longitude":90.32082,
+    "gn:admin1_code":"82",
+    "gn:asciiname":"Krishnakati",
+    "gn:country_code":"BD",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1196929,
+    "gn:latitude":22.49085,
+    "gn:longitude":90.32082,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Krishnak\u0101ti",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Krishnak\u0101ti"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669019,
+        421187745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1196929
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"1fef706588e0af311c46e65558f83a0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421187745,
+            "locality_id":1259520673,
+            "region_id":85669019
+        }
+    ],
+    "wof:id":1259520673,
+    "wof:lastmodified":1537585914,
+    "wof:name":"Krishnakati",
+    "wof:parent_id":421187745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.32082,
+    22.49085,
+    90.32082,
+    22.49085
+],
+  "geometry": {"coordinates":[90.32082,22.49085],"type":"Point"}
+}

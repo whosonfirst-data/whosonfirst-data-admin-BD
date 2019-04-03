@@ -1,0 +1,70 @@
+{
+  "id": 1310043139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.04117,24.86615,90.04117,24.86615",
+    "geom:latitude":24.86615,
+    "geom:longitude":90.04117,
+    "gn:admin1_code":"H",
+    "gn:admin2_code":"3039",
+    "gn:admin3_code":"303936.0",
+    "gn:admin4_code":"30393659.0",
+    "gn:asciiname":"Kharkharia",
+    "gn:country_code":"BD",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1197530,
+    "gn:latitude":24.86615,
+    "gn:longitude":90.04117,
+    "gn:modification_date":"2016-11-17",
+    "gn:name":"Kharkharia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        1108803101,
+        421191923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1197530
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"8e17e4460de2d45e0ff905846f3aff05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421191923,
+            "locality_id":1310043139,
+            "region_id":1108803101
+        }
+    ],
+    "wof:id":1310043139,
+    "wof:lastmodified":1537083113,
+    "wof:name":"Kharkharia",
+    "wof:parent_id":421191923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.04117,
+    24.86615,
+    90.04117,
+    24.86615
+],
+  "geometry": {"coordinates":[90.04116999999999,24.86615],"type":"Point"}
+}

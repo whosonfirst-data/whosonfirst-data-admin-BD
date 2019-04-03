@@ -1,0 +1,75 @@
+{
+  "id": 1326478925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.96667,23.5,90.96667,23.5",
+    "geom:latitude":23.5,
+    "geom:longitude":90.96667,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2019",
+    "gn:admin3_code":"201940.0",
+    "gn:admin4_code":"20194041.0",
+    "gn:asciiname":"Jafarabad",
+    "gn:cc2":"BD",
+    "gn:country_code":"BD",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1200606,
+    "gn:latitude":23.5,
+    "gn:longitude":90.96667,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"J\u0101far\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "J\u0101fr\u0101b\u0101d",
+        "J\u0101far\u0101b\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421187801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1200606
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"ed3163f034038919959cd2e949532e6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421187801,
+            "locality_id":1326478925,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1326478925,
+    "wof:lastmodified":1537585983,
+    "wof:name":"Jafarabad",
+    "wof:parent_id":421187801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.96667,
+    23.5,
+    90.96667,
+    23.5
+],
+  "geometry": {"coordinates":[90.96666999999999,23.5],"type":"Point"}
+}

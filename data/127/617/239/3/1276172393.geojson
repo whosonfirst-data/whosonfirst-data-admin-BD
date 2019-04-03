@@ -1,0 +1,74 @@
+{
+  "id": 1276172393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.96991,23.23313,90.96991,23.23313",
+    "geom:latitude":23.23313,
+    "geom:longitude":90.96991,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2013.0",
+    "gn:admin3_code":"201395.0",
+    "gn:admin4_code":"20139560.0",
+    "gn:asciiname":"Bholadighi",
+    "gn:country_code":"BD",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1208828,
+    "gn:latitude":23.23313,
+    "gn:longitude":90.96991,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Bhol\u0101dighi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bhol\u0101dighi",
+        "Bholdighi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        1108694669
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1208828
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"727819861a417e114ad1d38ff66e3d79",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694669,
+            "locality_id":1276172393,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1276172393,
+    "wof:lastmodified":1537586137,
+    "wof:name":"Bholadighi",
+    "wof:parent_id":1108694669,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.96991,
+    23.23313,
+    90.96991,
+    23.23313
+],
+  "geometry": {"coordinates":[90.96991,23.23313],"type":"Point"}
+}

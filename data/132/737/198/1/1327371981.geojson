@@ -1,0 +1,70 @@
+{
+  "id": 1327371981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.99707,23.16793,90.99707,23.16793",
+    "geom:latitude":23.16793,
+    "geom:longitude":90.99707,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2013.0",
+    "gn:admin3_code":"201395.0",
+    "gn:admin4_code":"20139515.0",
+    "gn:asciiname":"Gharimandal",
+    "gn:country_code":"BD",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1202653,
+    "gn:latitude":23.16793,
+    "gn:longitude":90.99707,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Gharimandal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        1108694669
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1202653
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"b771993d786e34713bb700c27e526544",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694669,
+            "locality_id":1327371981,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1327371981,
+    "wof:lastmodified":1536768475,
+    "wof:name":"Gharimandal",
+    "wof:parent_id":1108694669,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.99707,
+    23.16793,
+    90.99707,
+    23.16793
+],
+  "geometry": {"coordinates":[90.99706999999999,23.16793],"type":"Point"}
+}

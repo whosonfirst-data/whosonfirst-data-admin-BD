@@ -1,0 +1,73 @@
+{
+  "id": 1310043161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.17569,23.34211,89.17569,23.34211",
+    "geom:latitude":23.34211,
+    "geom:longitude":89.17569,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4044.0",
+    "gn:admin3_code":"404433.0",
+    "gn:admin4_code":"40443374.0",
+    "gn:asciiname":"Ektarpur",
+    "gn:country_code":"BD",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1203444,
+    "gn:latitude":23.34211,
+    "gn:longitude":89.17569,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Ekt\u0101rpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Ekt\u0101rpur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        1108694679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1203444
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"cee97972210ba1d444e1af7e0de072bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694679,
+            "locality_id":1310043161,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1310043161,
+    "wof:lastmodified":1537586037,
+    "wof:name":"Ektarpur",
+    "wof:parent_id":1108694679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.17569,
+    23.34211,
+    89.17569,
+    23.34211
+],
+  "geometry": {"coordinates":[89.17569,23.34211],"type":"Point"}
+}

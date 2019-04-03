@@ -1,0 +1,73 @@
+{
+  "id": 1276262961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.31918,25.28426,89.31918,25.28426",
+    "geom:latitude":25.28426,
+    "geom:longitude":89.31918,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5532",
+    "gn:admin3_code":"553267.0",
+    "gn:admin4_code":"55326747.0",
+    "gn:asciiname":"Baroipara Sultanpur",
+    "gn:country_code":"BD",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7895534,
+    "gn:latitude":25.28426,
+    "gn:longitude":89.31918,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Baroipara Sultanpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Baroipara Sultanpur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7895534
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"ce3d8d6db15d01c47593d8c81a3c7d02",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694675,
+            "locality_id":1276262961,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1276262961,
+    "wof:lastmodified":1537586764,
+    "wof:name":"Baroipara Sultanpur",
+    "wof:parent_id":1108694675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.31918,
+    25.28426,
+    89.31918,
+    25.28426
+],
+  "geometry": {"coordinates":[89.31918,25.28426],"type":"Point"}
+}

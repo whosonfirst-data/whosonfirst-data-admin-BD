@@ -1,0 +1,64 @@
+{
+  "id": 1209452383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.6881,23.29816,89.6881,23.29816",
+    "geom:latitude":23.29816,
+    "geom:longitude":89.6881,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3029.0",
+    "gn:admin3_code":"302903.0",
+    "gn:admin4_code":"30290331.0",
+    "gn:asciiname":"Buraich",
+    "gn:country_code":"BD",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1208029,
+    "gn:latitude":23.29816,
+    "gn:longitude":89.6881,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Buraich",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1208029
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"de6840ce8cd0651f99b18d61ece7e345",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209452383
+        }
+    ],
+    "wof:id":1209452383,
+    "wof:lastmodified":1536286633,
+    "wof:name":"Buraich",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.6881,
+    23.29816,
+    89.6881,
+    23.29816
+],
+  "geometry": {"coordinates":[89.68810000000001,23.29816],"type":"Point"}
+}

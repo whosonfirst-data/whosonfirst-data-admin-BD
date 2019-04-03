@@ -1,0 +1,79 @@
+{
+  "id": 1277104955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.85205,24.03011,88.85205,24.03011",
+    "geom:latitude":24.03011,
+    "geom:longitude":88.85205,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4050",
+    "gn:admin3_code":"405039.0",
+    "gn:admin4_code":"40503940.0",
+    "gn:asciiname":"Shashidhorpur",
+    "gn:country_code":"BD",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1188504,
+    "gn:latitude":24.03011,
+    "gn:longitude":88.85205,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Shashidhorpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Shashidhorpur"
+    ],
+    "name:ben_x_variant":[
+        "Sashidharpur"
+    ],
+    "name:und_x_variant":[
+        "Sasidharpur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        890438075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1188504
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"9f973fa3dbcb6924b7504ee28b0c3b05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":890438075,
+            "locality_id":1277104955,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1277104955,
+    "wof:lastmodified":1537585763,
+    "wof:name":"Shashidhorpur",
+    "wof:parent_id":890438075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.85205,
+    24.03011,
+    88.85205,
+    24.03011
+],
+  "geometry": {"coordinates":[88.85205000000001,24.03011],"type":"Point"}
+}

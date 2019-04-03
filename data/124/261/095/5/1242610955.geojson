@@ -1,0 +1,74 @@
+{
+  "id": 1242610955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.88076,23.87627,89.88076,23.87627",
+    "geom:latitude":23.87627,
+    "geom:longitude":89.88076,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3056.0",
+    "gn:admin3_code":"305622.0",
+    "gn:admin4_code":"30562247.0",
+    "gn:asciiname":"Dari Sibpur",
+    "gn:country_code":"BD",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1205031,
+    "gn:latitude":23.87627,
+    "gn:longitude":89.88076,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Dari Sibpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Darishibpur",
+        "Dari Sibpur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421191745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1205031
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"c966b673d01778d0f80669a872eee694",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421191745,
+            "locality_id":1242610955,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1242610955,
+    "wof:lastmodified":1537586066,
+    "wof:name":"Dari Sibpur",
+    "wof:parent_id":421191745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.88076,
+    23.87627,
+    89.88076,
+    23.87627
+],
+  "geometry": {"coordinates":[89.88076,23.87627],"type":"Point"}
+}

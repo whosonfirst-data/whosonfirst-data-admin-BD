@@ -1,0 +1,70 @@
+{
+  "id": 1360214661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.56413,23.50899,89.56413,23.50899",
+    "geom:latitude":23.50899,
+    "geom:longitude":89.56413,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3029",
+    "gn:admin3_code":"302956.0",
+    "gn:admin4_code":"30295610.0",
+    "gn:asciiname":"Mitain",
+    "gn:country_code":"BD",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1194280,
+    "gn:latitude":23.50899,
+    "gn:longitude":89.56413,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Mit\u0101in",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421198063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1194280
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"745910ae1b4c8fc0ff61570eb772d052",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421198063,
+            "locality_id":1360214661,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1360214661,
+    "wof:lastmodified":1536759028,
+    "wof:name":"Mitain",
+    "wof:parent_id":421198063,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.56413,
+    23.50899,
+    89.56413,
+    23.50899
+],
+  "geometry": {"coordinates":[89.56413000000001,23.50899],"type":"Point"}
+}

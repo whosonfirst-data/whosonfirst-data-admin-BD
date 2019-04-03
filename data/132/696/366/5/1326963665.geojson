@@ -1,0 +1,70 @@
+{
+  "id": 1326963665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.39929,24.8736,89.39929,24.8736",
+    "geom:latitude":24.8736,
+    "geom:longitude":89.39929,
+    "gn:admin1_code":"83",
+    "gn:admin2_code":"5010",
+    "gn:admin3_code":"501020.0",
+    "gn:admin4_code":"50102073.0",
+    "gn:asciiname":"Khamarkandi",
+    "gn:country_code":"BD",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1197648,
+    "gn:latitude":24.8736,
+    "gn:longitude":89.39929,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Kh\u0101m\u0101rk\u0101ndi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669031,
+        421187793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1197648
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"bf2a536a5ae3c99b1cffd69a1210d0d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421187793,
+            "locality_id":1326963665,
+            "region_id":85669031
+        }
+    ],
+    "wof:id":1326963665,
+    "wof:lastmodified":1536858297,
+    "wof:name":"Khamarkandi",
+    "wof:parent_id":421187793,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.39929000000002,
+    24.8736,
+    89.39929000000002,
+    24.8736
+],
+  "geometry": {"coordinates":[89.39929000000002,24.8736],"type":"Point"}
+}

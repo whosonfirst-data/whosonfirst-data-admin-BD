@@ -1,0 +1,74 @@
+{
+  "id": 1326760637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.10445,23.90113,90.10445,23.90113",
+    "geom:latitude":23.90113,
+    "geom:longitude":90.10445,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3026.0",
+    "gn:admin3_code":"302614.0",
+    "gn:admin4_code":"30261494.0",
+    "gn:asciiname":"Bil Keshti",
+    "gn:country_code":"BD",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1208558,
+    "gn:latitude":23.90113,
+    "gn:longitude":90.10445,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Bil Keshti",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bilkesti",
+        "Bil Keshti"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421191745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1208558
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"21cc5099cd4cffb4033c02729e0af2ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421191745,
+            "locality_id":1326760637,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1326760637,
+    "wof:lastmodified":1537586132,
+    "wof:name":"Bil Keshti",
+    "wof:parent_id":421191745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.10445,
+    23.90113,
+    90.10445,
+    23.90113
+],
+  "geometry": {"coordinates":[90.10445,23.90113],"type":"Point"}
+}

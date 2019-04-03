@@ -1,0 +1,74 @@
+{
+  "id": 1343394367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"92.25882,25.07003,92.25882,25.07003",
+    "geom:latitude":25.07003,
+    "geom:longitude":92.25882,
+    "gn:admin1_code":"86",
+    "gn:admin2_code":"6091.0",
+    "gn:admin3_code":"609159.0",
+    "gn:admin4_code":"60915966.0",
+    "gn:asciiname":"Baligaon",
+    "gn:country_code":"BD",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1211303,
+    "gn:latitude":25.07003,
+    "gn:longitude":92.25882,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"B\u0101ligaon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "B\u0101ligaon",
+        "K\u0101ligaon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669025,
+        421187795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1211303
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"41c58f50025181f787e78ca918c1146e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421187795,
+            "locality_id":1343394367,
+            "region_id":85669025
+        }
+    ],
+    "wof:id":1343394367,
+    "wof:lastmodified":1537586175,
+    "wof:name":"Baligaon",
+    "wof:parent_id":421187795,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    92.25882,
+    25.07003,
+    92.25882,
+    25.07003
+],
+  "geometry": {"coordinates":[92.25882,25.07003],"type":"Point"}
+}

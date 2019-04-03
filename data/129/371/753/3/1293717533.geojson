@@ -1,0 +1,70 @@
+{
+  "id": 1293717533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.0046,24.69655,91.0046,24.69655",
+    "geom:latitude":24.69655,
+    "geom:longitude":91.0046,
+    "gn:admin1_code":"H",
+    "gn:admin2_code":"3072",
+    "gn:admin3_code":"307256.0",
+    "gn:admin4_code":"30725621.0",
+    "gn:asciiname":"Manika",
+    "gn:country_code":"BD",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1194979,
+    "gn:latitude":24.69655,
+    "gn:longitude":91.0046,
+    "gn:modification_date":"2016-11-17",
+    "gn:name":"Manika",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        1108803101,
+        421200811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1194979
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"3b6df9a483675082f839c28d7c282e8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421200811,
+            "locality_id":1293717533,
+            "region_id":1108803101
+        }
+    ],
+    "wof:id":1293717533,
+    "wof:lastmodified":1536953061,
+    "wof:name":"Manika",
+    "wof:parent_id":421200811,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.0046,
+    24.69655,
+    91.0046,
+    24.69655
+],
+  "geometry": {"coordinates":[91.0046,24.69655],"type":"Point"}
+}

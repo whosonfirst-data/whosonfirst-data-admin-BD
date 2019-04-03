@@ -1,0 +1,70 @@
+{
+  "id": 1293722835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.66616,24.85228,90.66616,24.85228",
+    "geom:latitude":24.85228,
+    "geom:longitude":90.66616,
+    "gn:admin1_code":"H",
+    "gn:admin2_code":"3072",
+    "gn:admin3_code":"307274.0",
+    "gn:admin4_code":"30727415.0",
+    "gn:asciiname":"Mymensingh Jhausi",
+    "gn:country_code":"BD",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1193856,
+    "gn:latitude":24.85228,
+    "gn:longitude":90.66616,
+    "gn:modification_date":"2016-11-17",
+    "gn:name":"Mymensingh Jh\u0101usi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        1108803101,
+        421200811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1193856
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"19c63694206d96cfca818d5dd596999a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421200811,
+            "locality_id":1293722835,
+            "region_id":1108803101
+        }
+    ],
+    "wof:id":1293722835,
+    "wof:lastmodified":1536945633,
+    "wof:name":"Mymensingh Jhausi",
+    "wof:parent_id":421200811,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.66616,
+    24.85228,
+    90.66616,
+    24.85228
+],
+  "geometry": {"coordinates":[90.66616,24.85228],"type":"Point"}
+}

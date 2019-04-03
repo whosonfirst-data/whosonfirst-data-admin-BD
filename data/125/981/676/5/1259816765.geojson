@@ -1,0 +1,70 @@
+{
+  "id": 1259816765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.39604,24.66775,90.39604,24.66775",
+    "geom:latitude":24.66775,
+    "geom:longitude":90.39604,
+    "gn:admin1_code":"H",
+    "gn:admin2_code":"3061.0",
+    "gn:admin3_code":"306152.0",
+    "gn:admin4_code":"30615220.0",
+    "gn:asciiname":"Dulalbari",
+    "gn:country_code":"BD",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1203756,
+    "gn:latitude":24.66775,
+    "gn:longitude":90.39604,
+    "gn:modification_date":"2016-11-17",
+    "gn:name":"Dul\u0101lb\u0101ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        1108803101,
+        421185469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1203756
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"094f75e61c04246da9fa700b51fe0477",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421185469,
+            "locality_id":1259816765,
+            "region_id":1108803101
+        }
+    ],
+    "wof:id":1259816765,
+    "wof:lastmodified":1536874432,
+    "wof:name":"Dulalbari",
+    "wof:parent_id":421185469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.39604,
+    24.66775,
+    90.39604,
+    24.66775
+],
+  "geometry": {"coordinates":[90.39604,24.66775],"type":"Point"}
+}

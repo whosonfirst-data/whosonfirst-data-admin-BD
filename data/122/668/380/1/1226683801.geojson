@@ -1,0 +1,73 @@
+{
+  "id": 1226683801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.2152,22.31095,89.2152,22.31095",
+    "geom:latitude":22.31095,
+    "geom:longitude":89.2152,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4087.0",
+    "gn:admin3_code":"408786.0",
+    "gn:admin4_code":"40878607.0",
+    "gn:asciiname":"Bara Kupat",
+    "gn:country_code":"BD",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7485868,
+    "gn:latitude":22.31095,
+    "gn:longitude":89.2152,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Bara K\u016bpat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Bara K\u016bpat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        421201927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7485868
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"60aad5d810f82673133cd421ef92c9e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421201927,
+            "locality_id":1226683801,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1226683801,
+    "wof:lastmodified":1537586602,
+    "wof:name":"Bara Kupat",
+    "wof:parent_id":421201927,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.2152,
+    22.31095,
+    89.2152,
+    22.31095
+],
+  "geometry": {"coordinates":[89.2152,22.31095],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1226679559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.83495,23.85799,89.83495,23.85799",
+    "geom:latitude":23.85799,
+    "geom:longitude":89.83495,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3056",
+    "gn:admin3_code":"305622.0",
+    "gn:admin4_code":"30562235.0",
+    "gn:asciiname":"Sribari",
+    "gn:country_code":"BD",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1187315,
+    "gn:latitude":23.85799,
+    "gn:longitude":89.83495,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Srib\u0101ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421191745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1187315
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"5ba4599973bd8fcac559a448c0627172",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421191745,
+            "locality_id":1226679559,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1226679559,
+    "wof:lastmodified":1536810380,
+    "wof:name":"Sribari",
+    "wof:parent_id":421191745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.83495,
+    23.85799,
+    89.83495,
+    23.85799
+],
+  "geometry": {"coordinates":[89.83495000000001,23.85799],"type":"Point"}
+}

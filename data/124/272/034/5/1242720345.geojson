@@ -1,0 +1,73 @@
+{
+  "id": 1242720345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.96654,22.22808,91.96654,22.22808",
+    "geom:latitude":22.22808,
+    "geom:longitude":91.96654,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2015.0",
+    "gn:admin3_code":"201561.0",
+    "gn:admin4_code":"20156188.0",
+    "gn:asciiname":"Laoyerkhil",
+    "gn:country_code":"BD",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6415469,
+    "gn:latitude":22.22808,
+    "gn:longitude":91.96654,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"L\u0101oyerkhil",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "L\u0101oyerkhil"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421201541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6415469
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"d2755921720c4350cbc39a48f1a11575",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421201541,
+            "locality_id":1242720345,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1242720345,
+    "wof:lastmodified":1537586245,
+    "wof:name":"Laoyerkhil",
+    "wof:parent_id":421201541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.96654,
+    22.22808,
+    91.96654,
+    22.22808
+],
+  "geometry": {"coordinates":[91.96653999999999,22.22808],"type":"Point"}
+}

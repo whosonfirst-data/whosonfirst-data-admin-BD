@@ -1,0 +1,73 @@
+{
+  "id": 1260110425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.01105,23.58443,89.01105,23.58443",
+    "geom:latitude":23.58443,
+    "geom:longitude":89.01105,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4044.0",
+    "gn:admin3_code":"404414.0",
+    "gn:admin4_code":"40441431.0",
+    "gn:asciiname":"Hiskhali",
+    "gn:country_code":"BD",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7478748,
+    "gn:latitude":23.58443,
+    "gn:longitude":89.01105,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Hiskhali",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Hiskhali"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        1108694679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7478748
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"a10ca4b0347f090210168393ccec60b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694679,
+            "locality_id":1260110425,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1260110425,
+    "wof:lastmodified":1537586400,
+    "wof:name":"Hiskhali",
+    "wof:parent_id":1108694679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.01105,
+    23.58443,
+    89.01105,
+    23.58443
+],
+  "geometry": {"coordinates":[89.01105,23.58443],"type":"Point"}
+}

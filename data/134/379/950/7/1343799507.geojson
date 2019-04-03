@@ -1,0 +1,74 @@
+{
+  "id": 1343799507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.31114,23.77421,89.31114,23.77421",
+    "geom:latitude":23.77421,
+    "geom:longitude":89.31114,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4050",
+    "gn:admin3_code":"405063.0",
+    "gn:admin4_code":"40506323.0",
+    "gn:asciiname":"Jote Manikat",
+    "gn:country_code":"BD",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1199756,
+    "gn:latitude":23.77421,
+    "gn:longitude":89.31114,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Jote M\u0101nik\u0101t",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jotmanikat",
+        "Jote M\u0101nik\u0101t"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        890438075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1199756
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"8fc58f1b8f423f3d107eabf59e94ba11",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":890438075,
+            "locality_id":1343799507,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1343799507,
+    "wof:lastmodified":1537585966,
+    "wof:name":"Jote Manikat",
+    "wof:parent_id":890438075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.31114000000002,
+    23.77421,
+    89.31114000000002,
+    23.77421
+],
+  "geometry": {"coordinates":[89.31114000000002,23.77421],"type":"Point"}
+}

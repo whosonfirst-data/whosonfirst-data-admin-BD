@@ -1,0 +1,70 @@
+{
+  "id": 1243297015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.71066,22.65747,89.71066,22.65747",
+    "geom:latitude":22.65747,
+    "geom:longitude":89.71066,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4001",
+    "gn:admin3_code":"400108.0",
+    "gn:admin4_code":"40010894.0",
+    "gn:asciiname":"Saera",
+    "gn:country_code":"BD",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1189317,
+    "gn:latitude":22.65747,
+    "gn:longitude":89.71066,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"S\u0101era",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        421187747
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1189317
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"1356a06de365d9309210a4845154b0c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421187747,
+            "locality_id":1243297015,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1243297015,
+    "wof:lastmodified":1537020069,
+    "wof:name":"Saera",
+    "wof:parent_id":421187747,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.71066,
+    22.65747,
+    89.71066,
+    22.65747
+],
+  "geometry": {"coordinates":[89.71066,22.65747],"type":"Point"}
+}

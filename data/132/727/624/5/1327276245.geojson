@@ -1,0 +1,70 @@
+{
+  "id": 1327276245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.99443,23.14817,90.99443,23.14817",
+    "geom:latitude":23.14817,
+    "geom:longitude":90.99443,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2013",
+    "gn:admin3_code":"201395.0",
+    "gn:admin4_code":"20139515.0",
+    "gn:asciiname":"Naraho",
+    "gn:country_code":"BD",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1193303,
+    "gn:latitude":23.14817,
+    "gn:longitude":90.99443,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Naraho",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        1108694669
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1193303
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"07f8930558acebde5b45093f423a38e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694669,
+            "locality_id":1327276245,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1327276245,
+    "wof:lastmodified":1536906609,
+    "wof:name":"Naraho",
+    "wof:parent_id":1108694669,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.99443,
+    23.14817,
+    90.99443,
+    23.14817
+],
+  "geometry": {"coordinates":[90.99442999999999,23.14817],"type":"Point"}
+}

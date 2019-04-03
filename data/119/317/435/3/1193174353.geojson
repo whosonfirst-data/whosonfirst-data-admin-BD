@@ -1,0 +1,74 @@
+{
+  "id": 1193174353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.5413,24.21594,90.5413,24.21594",
+    "geom:latitude":24.21594,
+    "geom:longitude":90.5413,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3033",
+    "gn:admin3_code":"303386.0",
+    "gn:admin4_code":"30338628.0",
+    "gn:asciiname":"Peladi",
+    "gn:country_code":"BD",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1191248,
+    "gn:latitude":24.21594,
+    "gn:longitude":90.5413,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Pel\u0101di",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pelaid",
+        "Pel\u0101di"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421203493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1191248
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"942cfb5b445ca8eaaefd41a95133c60a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421203493,
+            "locality_id":1193174353,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1193174353,
+    "wof:lastmodified":1537585811,
+    "wof:name":"Peladi",
+    "wof:parent_id":421203493,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.5413,
+    24.21594,
+    90.5413,
+    24.21594
+],
+  "geometry": {"coordinates":[90.54130000000001,24.21594],"type":"Point"}
+}

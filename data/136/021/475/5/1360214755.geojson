@@ -1,0 +1,70 @@
+{
+  "id": 1360214755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.82366,22.21913,90.82366,22.21913",
+    "geom:latitude":22.21913,
+    "geom:longitude":90.82366,
+    "gn:admin1_code":"82",
+    "gn:asciiname":"Fatemabad",
+    "gn:country_code":"BD",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7477957,
+    "gn:latitude":22.21913,
+    "gn:longitude":90.82366,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"F\u0101tem\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "F\u0101tem\u0101b\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669019,
+        421184491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7477957
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"ecb6ea422f9435e7945e5b5d43fd9ca8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421184491,
+            "locality_id":1360214755,
+            "region_id":85669019
+        }
+    ],
+    "wof:id":1360214755,
+    "wof:lastmodified":1537586380,
+    "wof:name":"Fatemabad",
+    "wof:parent_id":421184491,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.82366,
+    22.21913,
+    90.82366,
+    22.21913
+],
+  "geometry": {"coordinates":[90.82366,22.21913],"type":"Point"}
+}

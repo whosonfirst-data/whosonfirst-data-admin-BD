@@ -1,0 +1,70 @@
+{
+  "id": 1277022261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.96243,22.95469,90.96243,22.95469",
+    "geom:latitude":22.95469,
+    "geom:longitude":90.96243,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2051.0",
+    "gn:admin3_code":"205143.0",
+    "gn:admin4_code":"20514350.0",
+    "gn:asciiname":"Daudpur",
+    "gn:country_code":"BD",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1204887,
+    "gn:latitude":22.95469,
+    "gn:longitude":90.96243,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Daudpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421166521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1204887
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"1e38021163c11426db7d84db1aaf2eb7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421166521,
+            "locality_id":1277022261,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1277022261,
+    "wof:lastmodified":1536849146,
+    "wof:name":"Daudpur",
+    "wof:parent_id":421166521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.96243,
+    22.95469,
+    90.96243,
+    22.95469
+],
+  "geometry": {"coordinates":[90.96243,22.95469],"type":"Point"}
+}

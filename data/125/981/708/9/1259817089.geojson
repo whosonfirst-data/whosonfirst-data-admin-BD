@@ -1,0 +1,70 @@
+{
+  "id": 1259817089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.25894,24.93767,89.25894,24.93767",
+    "geom:latitude":24.93767,
+    "geom:longitude":89.25894,
+    "gn:admin1_code":"83",
+    "gn:admin2_code":"5010.0",
+    "gn:admin3_code":"501094.0",
+    "gn:admin4_code":"50109455.0",
+    "gn:asciiname":"Chhatua",
+    "gn:country_code":"BD",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1206165,
+    "gn:latitude":24.93767,
+    "gn:longitude":89.25894,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Chh\u0101tua",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669031,
+        421187793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1206165
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"48bca8b699bacf7469187d8858efc6e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421187793,
+            "locality_id":1259817089,
+            "region_id":85669031
+        }
+    ],
+    "wof:id":1259817089,
+    "wof:lastmodified":1536873965,
+    "wof:name":"Chhatua",
+    "wof:parent_id":421187793,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.25894,
+    24.93767,
+    89.25894,
+    24.93767
+],
+  "geometry": {"coordinates":[89.25894,24.93767],"type":"Point"}
+}

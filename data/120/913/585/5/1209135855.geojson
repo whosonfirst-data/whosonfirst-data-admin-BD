@@ -1,0 +1,64 @@
+{
+  "id": 1209135855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.63364,24.26083,90.63364,24.26083",
+    "geom:latitude":24.26083,
+    "geom:longitude":90.63364,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3033",
+    "gn:admin3_code":"303336.0",
+    "gn:admin4_code":"30333694.0",
+    "gn:asciiname":"Nayan Bazar",
+    "gn:country_code":"BD",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1192997,
+    "gn:latitude":24.26083,
+    "gn:longitude":90.63364,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Nay\u0101n B\u0101z\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1192997
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"471f7e8aafc568dd29f40d13ce92b1ef",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209135855
+        }
+    ],
+    "wof:id":1209135855,
+    "wof:lastmodified":1536296663,
+    "wof:name":"Nayan Bazar",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.63364,
+    24.26083,
+    90.63364,
+    24.26083
+],
+  "geometry": {"coordinates":[90.63364,24.26083],"type":"Point"}
+}

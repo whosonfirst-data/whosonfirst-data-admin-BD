@@ -1,0 +1,70 @@
+{
+  "id": 1226073157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.45628,22.2576,90.45628,22.2576",
+    "geom:latitude":22.2576,
+    "geom:longitude":90.45628,
+    "gn:admin1_code":"82",
+    "gn:asciiname":"Kachua",
+    "gn:country_code":"BD",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7477021,
+    "gn:latitude":22.2576,
+    "gn:longitude":90.45628,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"K\u0101chua",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "K\u0101chua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669019,
+        421169845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7477021
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"3de6286036d792ac0bee22bbe5eb69a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421169845,
+            "locality_id":1226073157,
+            "region_id":85669019
+        }
+    ],
+    "wof:id":1226073157,
+    "wof:lastmodified":1537586360,
+    "wof:name":"Kachua",
+    "wof:parent_id":421169845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.45628,
+    22.2576,
+    90.45628,
+    22.2576
+],
+  "geometry": {"coordinates":[90.45628000000001,22.2576],"type":"Point"}
+}

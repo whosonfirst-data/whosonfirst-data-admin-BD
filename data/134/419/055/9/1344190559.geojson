@@ -1,0 +1,73 @@
+{
+  "id": 1344190559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.9211,25.35885,88.9211,25.35885",
+    "geom:latitude":25.35885,
+    "geom:longitude":88.9211,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5527.0",
+    "gn:admin3_code":"552710.0",
+    "gn:admin4_code":"55271047.0",
+    "gn:asciiname":"Lohagaria",
+    "gn:country_code":"BD",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7481429,
+    "gn:latitude":25.35885,
+    "gn:longitude":88.9211,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Loh\u0101garia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Loh\u0101garia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7481429
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"636865e9379e41f7355e0f2ba9597e43",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694671,
+            "locality_id":1344190559,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1344190559,
+    "wof:lastmodified":1537586478,
+    "wof:name":"Lohagaria",
+    "wof:parent_id":1108694671,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.9211,
+    25.35885,
+    88.9211,
+    25.35885
+],
+  "geometry": {"coordinates":[88.9211,25.35885],"type":"Point"}
+}

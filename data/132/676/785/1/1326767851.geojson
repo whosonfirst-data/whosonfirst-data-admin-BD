@@ -1,0 +1,70 @@
+{
+  "id": 1326767851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.76187,24.22062,90.76187,24.22062",
+    "geom:latitude":24.22062,
+    "geom:longitude":90.76187,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3068",
+    "gn:admin3_code":"306852.0",
+    "gn:admin4_code":"30685274.0",
+    "gn:asciiname":"Khidirpur",
+    "gn:country_code":"BD",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1197400,
+    "gn:latitude":24.22062,
+    "gn:longitude":90.76187,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Khidirpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421169707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1197400
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"bfd2142374a58b75884ed7a503b22ea6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421169707,
+            "locality_id":1326767851,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1326767851,
+    "wof:lastmodified":1536643555,
+    "wof:name":"Khidirpur",
+    "wof:parent_id":421169707,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.76187,
+    24.22062,
+    90.76187,
+    24.22062
+],
+  "geometry": {"coordinates":[90.76187,24.22062],"type":"Point"}
+}

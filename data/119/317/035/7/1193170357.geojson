@@ -1,0 +1,74 @@
+{
+  "id": 1193170357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.6755,23.41321,89.6755,23.41321",
+    "geom:latitude":23.41321,
+    "geom:longitude":89.6755,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3029",
+    "gn:admin3_code":"302918.0",
+    "gn:admin4_code":"30291815.0",
+    "gn:asciiname":"Sotasi",
+    "gn:country_code":"BD",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1187489,
+    "gn:latitude":23.41321,
+    "gn:longitude":89.6755,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Sot\u0101si",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shotoshi",
+        "Sot\u0101si"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421198063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1187489
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"7c5340640d2c97d4a09a03983daa2b73",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421198063,
+            "locality_id":1193170357,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1193170357,
+    "wof:lastmodified":1537585739,
+    "wof:name":"Sotasi",
+    "wof:parent_id":421198063,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.6755,
+    23.41321,
+    89.6755,
+    23.41321
+],
+  "geometry": {"coordinates":[89.6755,23.41321],"type":"Point"}
+}

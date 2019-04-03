@@ -1,0 +1,76 @@
+{
+  "id": 1310234963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.95287,25.78583,88.95287,25.78583",
+    "geom:latitude":25.78583,
+    "geom:longitude":88.95287,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5573",
+    "gn:admin3_code":"557385.0",
+    "gn:admin4_code":"55738540.0",
+    "gn:asciiname":"Kuzipukur",
+    "gn:country_code":"BD",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1196427,
+    "gn:latitude":25.78583,
+    "gn:longitude":88.95287,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Kuzipukur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Kuzipukur"
+    ],
+    "name:und_x_variant":[
+        "Koojeepookhur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1196427
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"90f362350e86b36146fa7871af0abf4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694695,
+            "locality_id":1310234963,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1310234963,
+    "wof:lastmodified":1537585906,
+    "wof:name":"Kuzipukur",
+    "wof:parent_id":1108694695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.95286999999998,
+    25.78583,
+    88.95286999999998,
+    25.78583
+],
+  "geometry": {"coordinates":[88.95286999999998,25.78583],"type":"Point"}
+}

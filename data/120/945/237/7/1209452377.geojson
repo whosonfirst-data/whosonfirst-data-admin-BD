@@ -1,0 +1,68 @@
+{
+  "id": 1209452377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.60434,23.32496,89.60434,23.32496",
+    "geom:latitude":23.32496,
+    "geom:longitude":89.60434,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4055.0",
+    "gn:admin3_code":"405566.0",
+    "gn:admin4_code":"40556673.0",
+    "gn:asciiname":"Char Kalisankarpur",
+    "gn:country_code":"BD",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1206804,
+    "gn:latitude":23.32496,
+    "gn:longitude":89.60434,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Char K\u0101lisankarpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kalisankarpur",
+        "Char K\u0101lisankarpur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1206804
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"33b7dc6c43ed470b8af370bb3499847c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209452377
+        }
+    ],
+    "wof:id":1209452377,
+    "wof:lastmodified":1537586100,
+    "wof:name":"Char Kalisankarpur",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.60434000000002,
+    23.32496,
+    89.60434000000002,
+    23.32496
+],
+  "geometry": {"coordinates":[89.60434000000002,23.32496],"type":"Point"}
+}

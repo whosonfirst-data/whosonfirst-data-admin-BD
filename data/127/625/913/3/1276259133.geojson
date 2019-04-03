@@ -1,0 +1,73 @@
+{
+  "id": 1276259133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.52045,25.15552,89.52045,25.15552",
+    "geom:latitude":25.15552,
+    "geom:longitude":89.52045,
+    "gn:admin1_code":"83",
+    "gn:asciiname":"Simultair",
+    "gn:country_code":"BD",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1187839,
+    "gn:latitude":25.15552,
+    "gn:longitude":89.52045,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Simultair",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Simultair"
+    ],
+    "name:ben_x_variant":[
+        "Simultari"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1187839
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"67cf6a0a78a7493609b1c3ac618a2ae9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694675,
+            "locality_id":1276259133,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1276259133,
+    "wof:lastmodified":1537585746,
+    "wof:name":"Simultair",
+    "wof:parent_id":1108694675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.52045,
+    25.15552000000001,
+    89.52045,
+    25.15552000000001
+],
+  "geometry": {"coordinates":[89.52045,25.15552000000001],"type":"Point"}
+}

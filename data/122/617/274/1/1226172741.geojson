@@ -1,0 +1,73 @@
+{
+  "id": 1226172741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.83335,25.09066,89.83335,25.09066",
+    "geom:latitude":25.09066,
+    "geom:longitude":89.83335,
+    "gn:admin1_code":"H",
+    "gn:admin2_code":"3039",
+    "gn:admin3_code":"303929.0",
+    "gn:admin4_code":"30392947.0",
+    "gn:asciiname":"Malmara",
+    "gn:country_code":"BD",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1195129,
+    "gn:latitude":25.09066,
+    "gn:longitude":89.83335,
+    "gn:modification_date":"2016-11-17",
+    "gn:name":"Malmara",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sedamari"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        1108803101,
+        421191923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1195129
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"7a88cf5163a8d42b3db69a6edb10a881",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421191923,
+            "locality_id":1226172741,
+            "region_id":1108803101
+        }
+    ],
+    "wof:id":1226172741,
+    "wof:lastmodified":1537585881,
+    "wof:name":"Malmara",
+    "wof:parent_id":421191923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.83335,
+    25.09066,
+    89.83335,
+    25.09066
+],
+  "geometry": {"coordinates":[89.83335,25.09066],"type":"Point"}
+}

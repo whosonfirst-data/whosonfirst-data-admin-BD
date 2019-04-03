@@ -1,0 +1,70 @@
+{
+  "id": 1243097353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.56856,22.24782,90.56856,22.24782",
+    "geom:latitude":22.24782,
+    "geom:longitude":90.56856,
+    "gn:admin1_code":"82",
+    "gn:asciiname":"Char Bhapendra",
+    "gn:country_code":"BD",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7478310,
+    "gn:latitude":22.24782,
+    "gn:longitude":90.56856,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"Char Bhapendra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Char Bhapendra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669019,
+        421169845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7478310
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"be95c07288ead807bd5fac88a1ce6292",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421169845,
+            "locality_id":1243097353,
+            "region_id":85669019
+        }
+    ],
+    "wof:id":1243097353,
+    "wof:lastmodified":1537586388,
+    "wof:name":"Char Bhapendra",
+    "wof:parent_id":421169845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.56856,
+    22.24782,
+    90.56856,
+    22.24782
+],
+  "geometry": {"coordinates":[90.56856000000001,22.24782],"type":"Point"}
+}

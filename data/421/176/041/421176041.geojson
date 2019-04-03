@@ -1,0 +1,87 @@
+{
+  "id": 421176041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-09-21",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"89.5438,25.3293,89.5438,25.3293",
+    "geom:latitude":25.3293,
+    "geom:longitude":89.5438,
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ben_x_preferred":[
+        "Gaibandha"
+    ],
+    "name:ben_x_variant":[
+        "Gaibanda"
+    ],
+    "name:fra_x_preferred":[
+        "Gaibanda"
+    ],
+    "qs:gn_country":"BD",
+    "qs:gn_fcode":"PPLA2",
+    "qs:gn_id":7921384,
+    "qs:gn_pop":0,
+    "qs:name":"Gaibandha",
+    "qs:name_adm0":"Bangladesh",
+    "qs:name_adm1":"Rajshahi",
+    "qs:photos":40,
+    "qs:photos_1k":8,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":40,
+    "qs:photos_sr":2,
+    "qs:placetype":"County",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1330376,
+    "qs:woe_adm0":23424759,
+    "qs:woe_id":23706424,
+    "src:geom":"quattroshapes",
+    "wd:latitude":25.328978,
+    "wd:longitude":89.541507,
+    "wd:wordcount":88,
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7921384,
+        "gp:id":23706424,
+        "qs:id":1330376,
+        "wd:id":"Q22914728"
+    },
+    "wof:country":"BD",
+    "wof:created":1459009088,
+    "wof:geomhash":"84728574429353103b130659407ea5d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421176041,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":421176041,
+    "wof:lastmodified":1527726469,
+    "wof:name":"Gaibandha",
+    "wof:parent_id":85669035,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.5438,
+    25.3293,
+    89.5438,
+    25.3293
+],
+  "geometry": {"coordinates":[89.5438,25.3293],"type":"Point"}
+}

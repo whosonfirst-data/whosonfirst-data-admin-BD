@@ -1,0 +1,73 @@
+{
+  "id": 1343991211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.2618,22.43425,89.2618,22.43425",
+    "geom:latitude":22.43425,
+    "geom:longitude":89.2618,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4047.0",
+    "gn:admin3_code":"404753.0",
+    "gn:admin4_code":"40475311.0",
+    "gn:asciiname":"Fakirpota",
+    "gn:country_code":"BD",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1203369,
+    "gn:latitude":22.43425,
+    "gn:longitude":89.2618,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Fakirpota",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Fakirpota"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        421185473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1203369
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"976938b3f3aeb84e4d522d101e490351",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421185473,
+            "locality_id":1343991211,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1343991211,
+    "wof:lastmodified":1537586035,
+    "wof:name":"Fakirpota",
+    "wof:parent_id":421185473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.2618,
+    22.43425,
+    89.2618,
+    22.43425
+],
+  "geometry": {"coordinates":[89.26179999999999,22.43425],"type":"Point"}
+}

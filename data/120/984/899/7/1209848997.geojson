@@ -1,0 +1,70 @@
+{
+  "id": 1209848997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.20088,24.99333,90.20088,24.99333",
+    "geom:latitude":24.99333,
+    "geom:longitude":90.20088,
+    "gn:admin1_code":"H",
+    "gn:admin2_code":"3089",
+    "gn:admin3_code":"308967.0",
+    "gn:admin4_code":"30896785.0",
+    "gn:asciiname":"Singua",
+    "gn:country_code":"BD",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1187764,
+    "gn:latitude":24.99333,
+    "gn:longitude":90.20088,
+    "gn:modification_date":"2016-11-17",
+    "gn:name":"Singua",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        1108803101,
+        421190979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1187764
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"81088c2a58ff28fc4eb2736f0f39abd0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421190979,
+            "locality_id":1209848997,
+            "region_id":1108803101
+        }
+    ],
+    "wof:id":1209848997,
+    "wof:lastmodified":1536389335,
+    "wof:name":"Singua",
+    "wof:parent_id":421190979,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.20088,
+    24.99333,
+    90.20088,
+    24.99333
+],
+  "geometry": {"coordinates":[90.20088,24.99333],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1209352835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.85328,23.51091,90.85328,23.51091",
+    "geom:latitude":23.51091,
+    "geom:longitude":90.85328,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2019",
+    "gn:admin3_code":"201936.0",
+    "gn:admin4_code":"20193634.0",
+    "gn:asciiname":"South Daulatpur",
+    "gn:country_code":"BD",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1187442,
+    "gn:latitude":23.51091,
+    "gn:longitude":90.85328,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"South Daulatpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "South-Doulatpur",
+        "South Daulatpur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1187442
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"581bdd0cdd5b57268c355f4ccf92a1c8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209352835
+        }
+    ],
+    "wof:id":1209352835,
+    "wof:lastmodified":1537585737,
+    "wof:name":"South Daulatpur",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.85328,
+    23.51091,
+    90.85328,
+    23.51091
+],
+  "geometry": {"coordinates":[90.85328,23.51091],"type":"Point"}
+}

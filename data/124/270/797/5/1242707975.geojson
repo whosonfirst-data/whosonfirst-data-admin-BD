@@ -1,0 +1,70 @@
+{
+  "id": 1242707975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.00485,24.64001,90.00485,24.64001",
+    "geom:latitude":24.64001,
+    "geom:longitude":90.00485,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3093",
+    "gn:admin3_code":"309357.0",
+    "gn:admin4_code":"30935776.0",
+    "gn:asciiname":"Kuribari",
+    "gn:country_code":"BD",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1196574,
+    "gn:latitude":24.64001,
+    "gn:longitude":90.00485,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Kurib\u0101ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421185471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1196574
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"60daf73a91389d2d0b93ec9c88b122ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421185471,
+            "locality_id":1242707975,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1242707975,
+    "wof:lastmodified":1536875181,
+    "wof:name":"Kuribari",
+    "wof:parent_id":421185471,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.00485,
+    24.64001,
+    90.00485,
+    24.64001
+],
+  "geometry": {"coordinates":[90.00485,24.64001],"type":"Point"}
+}

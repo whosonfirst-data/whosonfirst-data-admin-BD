@@ -1,0 +1,74 @@
+{
+  "id": 1242607597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.89587,24.14483,89.89587,24.14483",
+    "geom:latitude":24.14483,
+    "geom:longitude":89.89587,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3093",
+    "gn:admin3_code":"309323.0",
+    "gn:admin4_code":"30932347.0",
+    "gn:asciiname":"Panch Elasin",
+    "gn:country_code":"BD",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1191628,
+    "gn:latitude":24.14483,
+    "gn:longitude":89.89587,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"P\u0101nch El\u0101sin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "P\u0101nch El\u0101sin",
+        "P\u0101chh El\u0101sin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421185471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1191628
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"5d857ef1f6daab3ac45b466e6797f949",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421185471,
+            "locality_id":1242607597,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1242607597,
+    "wof:lastmodified":1537585817,
+    "wof:name":"Panch Elasin",
+    "wof:parent_id":421185471,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.89587,
+    24.14483,
+    89.89587,
+    24.14483
+],
+  "geometry": {"coordinates":[89.89587,24.14483],"type":"Point"}
+}

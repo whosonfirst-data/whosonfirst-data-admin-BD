@@ -1,0 +1,73 @@
+{
+  "id": 1209849097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.42039,25.36216,89.42039,25.36216",
+    "geom:latitude":25.36216,
+    "geom:longitude":89.42039,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5532",
+    "gn:admin3_code":"553282.0",
+    "gn:admin4_code":"55328217.0",
+    "gn:asciiname":"Bhagawanpur",
+    "gn:country_code":"BD",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7916151,
+    "gn:latitude":25.36216,
+    "gn:longitude":89.42039,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Bhagawanpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Bhagawanpur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7916151
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"2c0e47e24c88e5c6ffd982530cea5f2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694675,
+            "locality_id":1209849097,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1209849097,
+    "wof:lastmodified":1537586780,
+    "wof:name":"Bhagawanpur",
+    "wof:parent_id":1108694675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.42039,
+    25.36216,
+    89.42039,
+    25.36216
+],
+  "geometry": {"coordinates":[89.42039,25.36216],"type":"Point"}
+}

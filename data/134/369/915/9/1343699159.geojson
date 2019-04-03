@@ -1,0 +1,70 @@
+{
+  "id": 1343699159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.34837,23.96895,90.34837,23.96895",
+    "geom:latitude":23.96895,
+    "geom:longitude":90.34837,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3033.0",
+    "gn:admin3_code":"303330.0",
+    "gn:admin4_code":"30333013.0",
+    "gn:asciiname":"Basan",
+    "gn:country_code":"BD",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1210003,
+    "gn:latitude":23.96895,
+    "gn:longitude":90.34837,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"B\u0101san",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421203493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1210003
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"4bfca61171b73ac48857601cac5eedd7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421203493,
+            "locality_id":1343699159,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1343699159,
+    "wof:lastmodified":1536899155,
+    "wof:name":"Basan",
+    "wof:parent_id":421203493,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.34837,
+    23.96895,
+    90.34837,
+    23.96895
+],
+  "geometry": {"coordinates":[90.34837,23.96895],"type":"Point"}
+}

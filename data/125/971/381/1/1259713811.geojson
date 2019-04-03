@@ -1,0 +1,73 @@
+{
+  "id": 1259713811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.49392,25.88105,89.49392,25.88105",
+    "geom:latitude":25.88105,
+    "geom:longitude":89.49392,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5552",
+    "gn:admin3_code":"555255.0",
+    "gn:admin4_code":"55525573.0",
+    "gn:asciiname":"Batuatali",
+    "gn:country_code":"BD",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7923653,
+    "gn:latitude":25.88105,
+    "gn:longitude":89.49392,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Batuatali",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Batuatali"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7923653
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"02f82972b6b1347638a3a5a6afd16375",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694687,
+            "locality_id":1259713811,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1259713811,
+    "wof:lastmodified":1537586804,
+    "wof:name":"Batuatali",
+    "wof:parent_id":1108694687,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.49391999999997,
+    25.88105,
+    89.49391999999997,
+    25.88105
+],
+  "geometry": {"coordinates":[89.49391999999997,25.88105],"type":"Point"}
+}

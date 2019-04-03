@@ -1,0 +1,70 @@
+{
+  "id": 1343888209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.3543,25.57371,89.3543,25.57371",
+    "geom:latitude":25.57371,
+    "geom:longitude":89.3543,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5585",
+    "gn:admin3_code":"558558.0",
+    "gn:admin4_code":"55855822.0",
+    "gn:asciiname":"Syampur",
+    "gn:country_code":"BD",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7889741,
+    "gn:latitude":25.57371,
+    "gn:longitude":89.3543,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Sy\u0101mpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7889741
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"867bd31c28d773d46c80bff03edceb2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694701,
+            "locality_id":1343888209,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1343888209,
+    "wof:lastmodified":1536624753,
+    "wof:name":"Syampur",
+    "wof:parent_id":1108694701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.3543,
+    25.57371,
+    89.3543,
+    25.57371
+],
+  "geometry": {"coordinates":[89.35429999999999,25.57371],"type":"Point"}
+}

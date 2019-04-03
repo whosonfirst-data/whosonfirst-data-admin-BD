@@ -1,0 +1,83 @@
+{
+  "id": 1360214687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.88077,23.04338,88.88077,23.04338",
+    "geom:latitude":23.04338,
+    "geom:longitude":88.88077,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4041",
+    "gn:admin3_code":"404190.0",
+    "gn:admin4_code":"40419025.0",
+    "gn:asciiname":"Sadipur",
+    "gn:country_code":"BD",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1189347,
+    "gn:latitude":23.04338,
+    "gn:longitude":88.88077,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"S\u0101dipur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "S\u0101dipur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632469,
+        85672219,
+        1108696079,
+        85632475,
+        85669015,
+        421176039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1189347
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"e521af9d061356d3cc146ec68676b20c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108696079,
+            "locality_id":1360214687,
+            "region_id":85672219
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421176039,
+            "locality_id":1360214687,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1360214687,
+    "wof:lastmodified":1537585779,
+    "wof:name":"Sadipur",
+    "wof:parent_id":-4,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.88077,
+    23.04338,
+    88.88077,
+    23.04338
+],
+  "geometry": {"coordinates":[88.88077,23.04338],"type":"Point"}
+}

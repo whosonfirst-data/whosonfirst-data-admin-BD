@@ -1,0 +1,64 @@
+{
+  "id": 1209548809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.55588,23.32575,89.55588,23.32575",
+    "geom:latitude":23.32575,
+    "geom:longitude":89.55588,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4055.0",
+    "gn:admin3_code":"405566.0",
+    "gn:admin4_code":"40556663.0",
+    "gn:asciiname":"Bilwapara",
+    "gn:country_code":"BD",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1208494,
+    "gn:latitude":23.32575,
+    "gn:longitude":89.55588,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Bilwap\u0101ra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1208494
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"da5aef93facb336f660170e891e61d81",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209548809
+        }
+    ],
+    "wof:id":1209548809,
+    "wof:lastmodified":1536283759,
+    "wof:name":"Bilwapara",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.55588,
+    23.32575,
+    89.55588,
+    23.32575
+],
+  "geometry": {"coordinates":[89.55588,23.32575],"type":"Point"}
+}

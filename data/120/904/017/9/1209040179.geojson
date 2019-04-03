@@ -1,0 +1,67 @@
+{
+  "id": 1209040179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.49402,25.18357,88.49402,25.18357",
+    "geom:latitude":25.18357,
+    "geom:longitude":88.49402,
+    "gn:admin1_code":"83",
+    "gn:admin2_code":"5064.0",
+    "gn:admin3_code":"506486.0",
+    "gn:admin4_code":"50648607.0",
+    "gn:asciiname":"Sukrail",
+    "gn:country_code":"BD",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7488047,
+    "gn:latitude":25.18357,
+    "gn:longitude":88.49402,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Sukrail",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Sukrail"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7488047
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"69e2ee1b306a18044f84c626de1c4fd1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209040179
+        }
+    ],
+    "wof:id":1209040179,
+    "wof:lastmodified":1537586656,
+    "wof:name":"Sukrail",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.49401999999998,
+    25.18357,
+    88.49401999999998,
+    25.18357
+],
+  "geometry": {"coordinates":[88.49401999999998,25.18357],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1293826373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"92.06471,21.75786,92.06471,21.75786",
+    "geom:latitude":21.75786,
+    "geom:longitude":92.06471,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2022.0",
+    "gn:admin3_code":"202216.0",
+    "gn:admin4_code":"20221627.0",
+    "gn:asciiname":"Kahairaghona",
+    "gn:country_code":"BD",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6414958,
+    "gn:latitude":21.75786,
+    "gn:longitude":92.06471,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"K\u0101h\u0101ir\u0101ghona",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "K\u0101h\u0101ir\u0101ghona"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421205057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6414958
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"0e7aa5a224b636c8af5d7f7ecb3922a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421205057,
+            "locality_id":1293826373,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1293826373,
+    "wof:lastmodified":1537586236,
+    "wof:name":"Kahairaghona",
+    "wof:parent_id":421205057,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    92.06471,
+    21.75786,
+    92.06471,
+    21.75786
+],
+  "geometry": {"coordinates":[92.06471000000001,21.75786],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1293626467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.33333,23.9,89.33333,23.9",
+    "geom:latitude":23.9,
+    "geom:longitude":89.33333,
+    "gn:admin1_code":"83",
+    "gn:admin2_code":"5076.0",
+    "gn:admin3_code":"507655.0",
+    "gn:admin4_code":"50765517.0",
+    "gn:asciiname":"Gangadhar Diar",
+    "gn:country_code":"BD",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1203001,
+    "gn:latitude":23.9,
+    "gn:longitude":89.33333,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Gang\u0101dhar Di\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        890438075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1203001
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"14c183bd279fdc362e1922ed949e0dc1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":890438075,
+            "locality_id":1293626467,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1293626467,
+    "wof:lastmodified":1537080611,
+    "wof:name":"Gangadhar Diar",
+    "wof:parent_id":890438075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.33333,
+    23.9,
+    89.33333,
+    23.9
+],
+  "geometry": {"coordinates":[89.33333,23.9],"type":"Point"}
+}

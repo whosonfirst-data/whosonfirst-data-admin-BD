@@ -1,0 +1,70 @@
+{
+  "id": 1343691919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.33518,23.8798,90.33518,23.8798",
+    "geom:latitude":23.8798,
+    "geom:longitude":90.33518,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3026.0",
+    "gn:admin3_code":"302672.0",
+    "gn:admin4_code":"30267211.0",
+    "gn:asciiname":"Bara Paragaon",
+    "gn:country_code":"BD",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1210284,
+    "gn:latitude":23.8798,
+    "gn:longitude":90.33518,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Bara P\u0101r\u0101gaon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421187803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1210284
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"fa33d5261f9843fa90583c4f79e6ea39",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421187803,
+            "locality_id":1343691919,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1343691919,
+    "wof:lastmodified":1536910166,
+    "wof:name":"Bara Paragaon",
+    "wof:parent_id":421187803,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.33518,
+    23.8798,
+    90.33518,
+    23.8798
+],
+  "geometry": {"coordinates":[90.33517999999999,23.8798],"type":"Point"}
+}

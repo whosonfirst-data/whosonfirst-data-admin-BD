@@ -1,0 +1,73 @@
+{
+  "id": 1310531513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.44661,25.34997,89.44661,25.34997",
+    "geom:latitude":25.34997,
+    "geom:longitude":89.44661,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5532",
+    "gn:admin3_code":"553282.0",
+    "gn:admin4_code":"55328217.0",
+    "gn:asciiname":"Tabu Durgapur",
+    "gn:country_code":"BD",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7898538,
+    "gn:latitude":25.34997,
+    "gn:longitude":89.44661,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Tabu Durgapur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Tabu Durgapur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7898538
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"c2c643af87bc8ee728df262ea463e982",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694675,
+            "locality_id":1310531513,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1310531513,
+    "wof:lastmodified":1537586769,
+    "wof:name":"Tabu Durgapur",
+    "wof:parent_id":1108694675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.44660999999998,
+    25.34997000000001,
+    89.44660999999998,
+    25.34997000000001
+],
+  "geometry": {"coordinates":[89.44660999999998,25.34997000000001],"type":"Point"}
+}

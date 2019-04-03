@@ -1,0 +1,70 @@
+{
+  "id": 1310035785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.43925,22.54548,89.43925,22.54548",
+    "geom:latitude":22.54548,
+    "geom:longitude":89.43925,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4047.0",
+    "gn:admin3_code":"404717.0",
+    "gn:admin4_code":"40471784.0",
+    "gn:asciiname":"Chak Kaminibasi",
+    "gn:country_code":"BD",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1207767,
+    "gn:latitude":22.54548,
+    "gn:longitude":89.43925,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Chak K\u0101minib\u0101si",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        421185473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1207767
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"c6c02ea1de472dadf3ec84aed0c165ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421185473,
+            "locality_id":1310035785,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1310035785,
+    "wof:lastmodified":1537093949,
+    "wof:name":"Chak Kaminibasi",
+    "wof:parent_id":421185473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.43925,
+    22.54548,
+    89.43925,
+    22.54548
+],
+  "geometry": {"coordinates":[89.43925,22.54548],"type":"Point"}
+}

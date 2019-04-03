@@ -1,0 +1,73 @@
+{
+  "id": 1293717197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.74352,26.08152,89.74352,26.08152",
+    "geom:latitude":26.08152,
+    "geom:longitude":89.74352,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5549",
+    "gn:admin3_code":"554906.0",
+    "gn:admin4_code":"55490638.0",
+    "gn:asciiname":"Ganar Kuthi",
+    "gn:country_code":"BD",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8037900,
+    "gn:latitude":26.08152,
+    "gn:longitude":89.74352,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Ganar Kuthi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Ganar Kuthi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8037900
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"6ceee65264de9a615f82f1e008d788ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694685,
+            "locality_id":1293717197,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1293717197,
+    "wof:lastmodified":1537586832,
+    "wof:name":"Ganar Kuthi",
+    "wof:parent_id":1108694685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.74351999999998,
+    26.08152,
+    89.74351999999998,
+    26.08152
+],
+  "geometry": {"coordinates":[89.74351999999998,26.08152],"type":"Point"}
+}

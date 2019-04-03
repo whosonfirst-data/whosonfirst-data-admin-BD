@@ -1,0 +1,75 @@
+{
+  "id": 1344199777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.70641,23.15414,90.70641,23.15414",
+    "geom:latitude":23.15414,
+    "geom:longitude":90.70641,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2013.0",
+    "gn:admin3_code":"201345.0",
+    "gn:admin4_code":"20134541.0",
+    "gn:asciiname":"Chiraka Chandpur",
+    "gn:country_code":"BD",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1205767,
+    "gn:latitude":23.15414,
+    "gn:longitude":90.70641,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Chir\u0101ka Ch\u0101ndpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chirka",
+        "Chiraka",
+        "Chir\u0101ka Ch\u0101ndpur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        1108694669
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1205767
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"1fc5594815ec4efacf9867e0f9b0aba7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694669,
+            "locality_id":1344199777,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1344199777,
+    "wof:lastmodified":1537586080,
+    "wof:name":"Chiraka Chandpur",
+    "wof:parent_id":1108694669,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.70641,
+    23.15414,
+    90.70641,
+    23.15414
+],
+  "geometry": {"coordinates":[90.70641000000001,23.15414],"type":"Point"}
+}

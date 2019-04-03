@@ -1,0 +1,67 @@
+{
+  "id": 1209552895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.79439,24.26971,88.79439,24.26971",
+    "geom:latitude":24.26971,
+    "geom:longitude":88.79439,
+    "gn:admin1_code":"83",
+    "gn:admin2_code":"5081",
+    "gn:admin3_code":"508125.0",
+    "gn:admin4_code":"50812531.0",
+    "gn:asciiname":"Mangli",
+    "gn:country_code":"BD",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1194982,
+    "gn:latitude":24.26971,
+    "gn:longitude":88.79439,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Mangli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Mangli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1194982
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"1485adf6869e6a8b967cbd1b266a0227",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209552895
+        }
+    ],
+    "wof:id":1209552895,
+    "wof:lastmodified":1537585878,
+    "wof:name":"Mangli",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.79439,
+    24.26971,
+    88.79439,
+    24.26971
+],
+  "geometry": {"coordinates":[88.79439000000001,24.26971],"type":"Point"}
+}

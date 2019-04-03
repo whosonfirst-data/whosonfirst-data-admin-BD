@@ -1,0 +1,73 @@
+{
+  "id": 1326972369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.8795,22.82305,91.8795,22.82305",
+    "geom:latitude":22.82305,
+    "geom:longitude":91.8795,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2046.0",
+    "gn:admin3_code":"204661.0",
+    "gn:admin4_code":"20466171.0",
+    "gn:asciiname":"Kalapani",
+    "gn:country_code":"BD",
+    "gn:dem":49,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7477538,
+    "gn:latitude":22.82305,
+    "gn:longitude":91.8795,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"K\u0101l\u0101p\u0101ni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "K\u0101l\u0101p\u0101ni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        1108694683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7477538
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"c5247d9729b5dc233a92e2c13bc9bb7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694683,
+            "locality_id":1326972369,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1326972369,
+    "wof:lastmodified":1537586370,
+    "wof:name":"Kalapani",
+    "wof:parent_id":1108694683,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.8795,
+    22.82305,
+    91.8795,
+    22.82305
+],
+  "geometry": {"coordinates":[91.87949999999999,22.82305],"type":"Point"}
+}

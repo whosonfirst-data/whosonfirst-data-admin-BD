@@ -1,0 +1,73 @@
+{
+  "id": 1327059899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.78217,25.94381,89.78217,25.94381",
+    "geom:latitude":25.94381,
+    "geom:longitude":89.78217,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5549",
+    "gn:admin3_code":"554961.0",
+    "gn:admin4_code":"55496144.0",
+    "gn:asciiname":"Kumedpur",
+    "gn:country_code":"BD",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7923335,
+    "gn:latitude":25.94381,
+    "gn:longitude":89.78217,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Kumedpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Kumedpur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7923335
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"d6a9334a65d6429730f386a7cb26ffe1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694685,
+            "locality_id":1327059899,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1327059899,
+    "wof:lastmodified":1537586795,
+    "wof:name":"Kumedpur",
+    "wof:parent_id":1108694685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.78217,
+    25.94381,
+    89.78217,
+    25.94381
+],
+  "geometry": {"coordinates":[89.78216999999999,25.94381],"type":"Point"}
+}

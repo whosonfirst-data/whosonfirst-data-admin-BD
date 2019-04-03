@@ -1,0 +1,70 @@
+{
+  "id": 1242711619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.04943,25.04519,90.04943,25.04519",
+    "geom:latitude":25.04519,
+    "geom:longitude":90.04943,
+    "gn:admin1_code":"H",
+    "gn:admin2_code":"3089",
+    "gn:admin3_code":"308988.0",
+    "gn:admin4_code":"30898806.0",
+    "gn:asciiname":"Balia",
+    "gn:country_code":"BD",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7912892,
+    "gn:latitude":25.04519,
+    "gn:longitude":90.04943,
+    "gn:modification_date":"2016-11-17",
+    "gn:name":"Balia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        1108803101,
+        421190979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7912892
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"5223e79724b5893000676b47b37438ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421190979,
+            "locality_id":1242711619,
+            "region_id":1108803101
+        }
+    ],
+    "wof:id":1242711619,
+    "wof:lastmodified":1536869636,
+    "wof:name":"Balia",
+    "wof:parent_id":421190979,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.04943,
+    25.04519,
+    90.04943,
+    25.04519
+],
+  "geometry": {"coordinates":[90.04943,25.04519],"type":"Point"}
+}

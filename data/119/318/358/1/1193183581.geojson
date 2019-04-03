@@ -1,0 +1,76 @@
+{
+  "id": 1193183581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.95992,22.98019,90.95992,22.98019",
+    "geom:latitude":22.98019,
+    "geom:longitude":90.95992,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2051",
+    "gn:admin3_code":"205143.0",
+    "gn:admin4_code":"20514395.0",
+    "gn:asciiname":"Uttar Joypura",
+    "gn:country_code":"BD",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1191863,
+    "gn:latitude":22.98019,
+    "gn:longitude":90.95992,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Utt\u0101r Joypura",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "North Joypura",
+        "North Joypur",
+        "North Jaypura",
+        "Utt\u0101r Joypura"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421166521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1191863
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"857e54795f190e47a6785075b603b2e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421166521,
+            "locality_id":1193183581,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1193183581,
+    "wof:lastmodified":1537585824,
+    "wof:name":"Uttar Joypura",
+    "wof:parent_id":421166521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.95992,
+    22.98019,
+    90.95992,
+    22.98019
+],
+  "geometry": {"coordinates":[90.95992,22.98019],"type":"Point"}
+}

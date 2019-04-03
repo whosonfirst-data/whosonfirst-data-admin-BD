@@ -1,0 +1,73 @@
+{
+  "id": 1360318705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.70757,26.09975,89.70757,26.09975",
+    "geom:latitude":26.09975,
+    "geom:longitude":89.70757,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5549",
+    "gn:admin3_code":"554906.0",
+    "gn:admin4_code":"55490666.0",
+    "gn:asciiname":"Pateswari",
+    "gn:country_code":"BD",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8038827,
+    "gn:latitude":26.09975,
+    "gn:longitude":89.70757,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Pateswari",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Pateswari"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8038827
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"ee2633aecf9f5682a93b6c475526a426",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694685,
+            "locality_id":1360318705,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1360318705,
+    "wof:lastmodified":1537586833,
+    "wof:name":"Pateswari",
+    "wof:parent_id":1108694685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.70756999999998,
+    26.09975,
+    89.70756999999998,
+    26.09975
+],
+  "geometry": {"coordinates":[89.70756999999998,26.09975],"type":"Point"}
+}

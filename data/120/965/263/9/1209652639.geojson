@@ -1,0 +1,67 @@
+{
+  "id": 1209652639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.11226,23.35568,89.11226,23.35568",
+    "geom:latitude":23.35568,
+    "geom:longitude":89.11226,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4044.0",
+    "gn:admin3_code":"404433.0",
+    "gn:admin4_code":"40443381.0",
+    "gn:asciiname":"Mollakua",
+    "gn:country_code":"BD",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7634133,
+    "gn:latitude":23.35568,
+    "gn:longitude":89.11226,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Moll\u0101kua",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Moll\u0101kua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7634133
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"8c86984e14b2c34c8382452c0d209055",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209652639
+        }
+    ],
+    "wof:id":1209652639,
+    "wof:lastmodified":1537586704,
+    "wof:name":"Mollakua",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.11225999999998,
+    23.35568,
+    89.11225999999998,
+    23.35568
+],
+  "geometry": {"coordinates":[89.11225999999998,23.35568],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1327261789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.49133,23.94204,89.49133,23.94204",
+    "geom:latitude":23.94204,
+    "geom:longitude":89.49133,
+    "gn:admin1_code":"83",
+    "gn:admin2_code":"5076.0",
+    "gn:admin3_code":"507683.0",
+    "gn:admin4_code":"50768319.0",
+    "gn:asciiname":"Bagajani",
+    "gn:country_code":"BD",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1212037,
+    "gn:latitude":23.94204,
+    "gn:longitude":89.49133,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"B\u0101g\u0101j\u0101ni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669031,
+        421197541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1212037
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"e9c9baa6d6fa38b173bd2e84a51dabe7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421197541,
+            "locality_id":1327261789,
+            "region_id":85669031
+        }
+    ],
+    "wof:id":1327261789,
+    "wof:lastmodified":1536928001,
+    "wof:name":"Bagajani",
+    "wof:parent_id":421197541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.49133,
+    23.94204,
+    89.49133,
+    23.94204
+],
+  "geometry": {"coordinates":[89.49133,23.94204],"type":"Point"}
+}

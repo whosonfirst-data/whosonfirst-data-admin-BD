@@ -1,0 +1,73 @@
+{
+  "id": 1292939081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.07965,25.30207,89.07965,25.30207",
+    "geom:latitude":25.30207,
+    "geom:longitude":89.07965,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5527",
+    "gn:admin3_code":"552747.0",
+    "gn:admin4_code":"55274740.0",
+    "gn:asciiname":"Khatrachara",
+    "gn:country_code":"BD",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8065057,
+    "gn:latitude":25.30207,
+    "gn:longitude":89.07965,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Khatrachara",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Khatrachara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8065057
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"bfe9505b69c6314fec639975d8e660e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694671,
+            "locality_id":1292939081,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1292939081,
+    "wof:lastmodified":1537586859,
+    "wof:name":"Khatrachara",
+    "wof:parent_id":1108694671,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.07965,
+    25.30207,
+    89.07965,
+    25.30207
+],
+  "geometry": {"coordinates":[89.07965,25.30207],"type":"Point"}
+}

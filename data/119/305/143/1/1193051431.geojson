@@ -1,0 +1,76 @@
+{
+  "id": 1193051431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.78787,24.20294,88.78787,24.20294",
+    "geom:latitude":24.20294,
+    "geom:longitude":88.78787,
+    "gn:admin1_code":"83",
+    "gn:admin2_code":"5081.0",
+    "gn:admin3_code":"508110.0",
+    "gn:admin4_code":"50811063.0",
+    "gn:asciiname":"Atghoria",
+    "gn:country_code":"BD",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1212322,
+    "gn:latitude":24.20294,
+    "gn:longitude":88.78787,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Atghoria",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Atghoria"
+    ],
+    "name:ben_x_variant":[
+        "Atghari"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669031,
+        421172439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1212322
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"2abe564edeab290609d6ef998466c62a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421172439,
+            "locality_id":1193051431,
+            "region_id":85669031
+        }
+    ],
+    "wof:id":1193051431,
+    "wof:lastmodified":1537586193,
+    "wof:name":"Atghoria",
+    "wof:parent_id":421172439,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.78787,
+    24.20294,
+    88.78787,
+    24.20294
+],
+  "geometry": {"coordinates":[88.78787,24.20294],"type":"Point"}
+}

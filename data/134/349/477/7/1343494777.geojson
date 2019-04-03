@@ -1,0 +1,76 @@
+{
+  "id": 1343494777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.68746,24.95935,88.68746,24.95935",
+    "geom:latitude":24.95935,
+    "geom:longitude":88.68746,
+    "gn:admin1_code":"83",
+    "gn:admin2_code":"5064",
+    "gn:admin3_code":"506450.0",
+    "gn:admin4_code":"50645047.0",
+    "gn:asciiname":"Makhair",
+    "gn:country_code":"BD",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1194027,
+    "gn:latitude":24.95935,
+    "gn:longitude":88.68746,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Makhair",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Makhair"
+    ],
+    "name:ben_x_variant":[
+        "Mukhar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669031,
+        421191663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1194027
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"e99deb1a3d02e7224e3530da71418e72",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421191663,
+            "locality_id":1343494777,
+            "region_id":85669031
+        }
+    ],
+    "wof:id":1343494777,
+    "wof:lastmodified":1537585861,
+    "wof:name":"Makhair",
+    "wof:parent_id":421191663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.68746,
+    24.95935,
+    88.68746,
+    24.95935
+],
+  "geometry": {"coordinates":[88.68746,24.95935],"type":"Point"}
+}

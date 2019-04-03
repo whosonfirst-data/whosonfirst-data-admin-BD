@@ -1,0 +1,75 @@
+{
+  "id": 1343295321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.63333,23.61667,89.63333,23.61667",
+    "geom:latitude":23.61667,
+    "geom:longitude":89.63333,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3082.0",
+    "gn:admin3_code":"308207.0",
+    "gn:admin4_code":"30820757.0",
+    "gn:asciiname":"Gupta Lakshmandia",
+    "gn:cc2":"BD",
+    "gn:country_code":"BD",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1201853,
+    "gn:latitude":23.61667,
+    "gn:longitude":89.63333,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Gupta Lakshmandia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gupta Lakhandia",
+        "Gupta Lakshmandia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        1108694699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1201853
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"8735b015f35b7932d611266f6f27d53b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694699,
+            "locality_id":1343295321,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1343295321,
+    "wof:lastmodified":1537586006,
+    "wof:name":"Gupta Lakshmandia",
+    "wof:parent_id":1108694699,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.63333,
+    23.61667000000001,
+    89.63333,
+    23.61667000000001
+],
+  "geometry": {"coordinates":[89.63333,23.61667000000001],"type":"Point"}
+}

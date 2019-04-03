@@ -1,0 +1,70 @@
+{
+  "id": 1360114979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.30863,22.83953,89.30863,22.83953",
+    "geom:latitude":22.83953,
+    "geom:longitude":89.30863,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4047.0",
+    "gn:admin3_code":"404730.0",
+    "gn:admin4_code":"40473006.0",
+    "gn:asciiname":"Chuknagar",
+    "gn:country_code":"BD",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1205694,
+    "gn:latitude":22.83953,
+    "gn:longitude":89.30863,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Chuknagar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        421185473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1205694
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"d168dac9dd7147581d0c2130dcdd8643",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421185473,
+            "locality_id":1360114979,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1360114979,
+    "wof:lastmodified":1536902733,
+    "wof:name":"Chuknagar",
+    "wof:parent_id":421185473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.30863000000002,
+    22.83953,
+    89.30863000000002,
+    22.83953
+],
+  "geometry": {"coordinates":[89.30863000000002,22.83953],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1243010425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.58527,23.72594,90.58527,23.72594",
+    "geom:latitude":23.72594,
+    "geom:longitude":90.58527,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3067",
+    "gn:admin3_code":"306704.0",
+    "gn:admin4_code":"30670434.0",
+    "gn:asciiname":"Mahishtek",
+    "gn:country_code":"BD",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1195375,
+    "gn:latitude":23.72594,
+    "gn:longitude":90.58527,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Mahishtek",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Maishtek"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421197045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1195375
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"d13fb2545949ec18161fe1c58ec542b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421197045,
+            "locality_id":1243010425,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1243010425,
+    "wof:lastmodified":1537585886,
+    "wof:name":"Mahishtek",
+    "wof:parent_id":421197045,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.58527,
+    23.72594,
+    90.58527,
+    23.72594
+],
+  "geometry": {"coordinates":[90.58526999999999,23.72594],"type":"Point"}
+}

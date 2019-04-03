@@ -1,0 +1,70 @@
+{
+  "id": 1259411179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.36404,22.74884,89.36404,22.74884",
+    "geom:latitude":22.74884,
+    "geom:longitude":89.36404,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4047",
+    "gn:admin3_code":"404730.0",
+    "gn:admin4_code":"40473094.0",
+    "gn:asciiname":"Mandartala",
+    "gn:country_code":"BD",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1195018,
+    "gn:latitude":22.74884,
+    "gn:longitude":89.36404,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"M\u0101nd\u0101rtala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        421185473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1195018
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"df0e781abb93a57e9d30489ecce5689d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421185473,
+            "locality_id":1259411179,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1259411179,
+    "wof:lastmodified":1536962647,
+    "wof:name":"Mandartala",
+    "wof:parent_id":421185473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.36404,
+    22.74884,
+    89.36404,
+    22.74884
+],
+  "geometry": {"coordinates":[89.36404,22.74884],"type":"Point"}
+}

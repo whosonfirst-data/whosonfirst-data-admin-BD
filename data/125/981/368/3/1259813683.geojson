@@ -1,0 +1,70 @@
+{
+  "id": 1259813683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"92.06667,24.91667,92.06667,24.91667",
+    "geom:latitude":24.91667,
+    "geom:longitude":92.06667,
+    "gn:admin1_code":"86",
+    "gn:admin2_code":"6091",
+    "gn:admin3_code":"609159.0",
+    "gn:admin4_code":"60915985.0",
+    "gn:asciiname":"Rajaganj",
+    "gn:country_code":"BD",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1190369,
+    "gn:latitude":24.91667,
+    "gn:longitude":92.06667,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"R\u0101j\u0101ganj",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669025,
+        421187795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1190369
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"720815874ad01156ed6131dcdf8d3488",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421187795,
+            "locality_id":1259813683,
+            "region_id":85669025
+        }
+    ],
+    "wof:id":1259813683,
+    "wof:lastmodified":1536879129,
+    "wof:name":"Rajaganj",
+    "wof:parent_id":421187795,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    92.06667,
+    24.91667,
+    92.06667,
+    24.91667
+],
+  "geometry": {"coordinates":[92.06667,24.91667],"type":"Point"}
+}

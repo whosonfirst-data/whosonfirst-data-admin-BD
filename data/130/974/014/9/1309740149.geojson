@@ -1,0 +1,73 @@
+{
+  "id": 1309740149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.20691,24.73286,88.20691,24.73286",
+    "geom:latitude":24.73286,
+    "geom:longitude":88.20691,
+    "gn:admin1_code":"83",
+    "gn:admin2_code":"5070.0",
+    "gn:admin3_code":"507088.0",
+    "gn:admin4_code":"50708847.0",
+    "gn:asciiname":"Sankarmadia",
+    "gn:country_code":"BD",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7482297,
+    "gn:latitude":24.73286,
+    "gn:longitude":88.20691,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Sankarm\u0101dia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Sankarm\u0101dia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669031,
+        421191607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7482297
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"0a7723ff278e148ae8bb756e70484b1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421191607,
+            "locality_id":1309740149,
+            "region_id":85669031
+        }
+    ],
+    "wof:id":1309740149,
+    "wof:lastmodified":1537586503,
+    "wof:name":"Sankarmadia",
+    "wof:parent_id":421191607,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.20691,
+    24.73286,
+    88.20691,
+    24.73286
+],
+  "geometry": {"coordinates":[88.20690999999999,24.73286],"type":"Point"}
+}

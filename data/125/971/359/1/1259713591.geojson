@@ -1,0 +1,73 @@
+{
+  "id": 1259713591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.82201,26.12271,88.82201,26.12271",
+    "geom:latitude":26.12271,
+    "geom:longitude":88.82201,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5573.0",
+    "gn:admin3_code":"557315.0",
+    "gn:admin4_code":"55731528.0",
+    "gn:asciiname":"Paschimpara",
+    "gn:country_code":"BD",
+    "gn:dem":60,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7105346,
+    "gn:latitude":26.12271,
+    "gn:longitude":88.82201,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Paschimp\u0101ra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Paschimp\u0101ra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7105346
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"f9ea0c7ad33df71f86a9b8d8718d09d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694695,
+            "locality_id":1259713591,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1259713591,
+    "wof:lastmodified":1537586301,
+    "wof:name":"Paschimpara",
+    "wof:parent_id":1108694695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.82200999999998,
+    26.12271,
+    88.82200999999998,
+    26.12271
+],
+  "geometry": {"coordinates":[88.82200999999998,26.12271],"type":"Point"}
+}

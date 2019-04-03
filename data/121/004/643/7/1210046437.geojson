@@ -1,0 +1,73 @@
+{
+  "id": 1210046437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.61643,23.79672,88.61643,23.79672",
+    "geom:latitude":23.79672,
+    "geom:longitude":88.61643,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4057.0",
+    "gn:admin3_code":"405787.0",
+    "gn:admin4_code":"40578700.0",
+    "gn:asciiname":"Kalachandpur",
+    "gn:country_code":"BD",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7484084,
+    "gn:latitude":23.79672,
+    "gn:longitude":88.61643,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"K\u0101l\u0101ch\u0101ndpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "K\u0101l\u0101ch\u0101ndpur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        421191661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7484084
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"48f9a290513e75c484ea2323a3d92f3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421191661,
+            "locality_id":1210046437,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1210046437,
+    "wof:lastmodified":1537586555,
+    "wof:name":"Kalachandpur",
+    "wof:parent_id":421191661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.61643000000002,
+    23.79672,
+    88.61643000000002,
+    23.79672
+],
+  "geometry": {"coordinates":[88.61643000000002,23.79672],"type":"Point"}
+}

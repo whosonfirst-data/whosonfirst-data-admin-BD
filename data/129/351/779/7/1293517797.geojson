@@ -1,0 +1,73 @@
+{
+  "id": 1293517797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.99072,25.05604,88.99072,25.05604",
+    "geom:latitude":25.05604,
+    "geom:longitude":88.99072,
+    "gn:admin1_code":"83",
+    "gn:admin2_code":"5038.0",
+    "gn:admin3_code":"503847.0",
+    "gn:admin4_code":"50384728.0",
+    "gn:asciiname":"Bagamanpur",
+    "gn:country_code":"BD",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7480496,
+    "gn:latitude":25.05604,
+    "gn:longitude":88.99072,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Bagamanpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Bagamanpur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669031,
+        1108694681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7480496
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"5dd8aafe062a329585b25f24b7ef94cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694681,
+            "locality_id":1293517797,
+            "region_id":85669031
+        }
+    ],
+    "wof:id":1293517797,
+    "wof:lastmodified":1537586451,
+    "wof:name":"Bagamanpur",
+    "wof:parent_id":1108694681,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.99072,
+    25.05604,
+    88.99072,
+    25.05604
+],
+  "geometry": {"coordinates":[88.99072,25.05604],"type":"Point"}
+}

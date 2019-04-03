@@ -1,0 +1,74 @@
+{
+  "id": 1293030737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.94398,24.6878,89.94398,24.6878",
+    "geom:latitude":24.6878,
+    "geom:longitude":89.94398,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3093.0",
+    "gn:admin3_code":"309358.0",
+    "gn:admin4_code":"30935885.0",
+    "gn:asciiname":"Barni Chandbari",
+    "gn:country_code":"BD",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1210101,
+    "gn:latitude":24.6878,
+    "gn:longitude":89.94398,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Barni Chandb\u0101ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Barnichandabari",
+        "Barni Chandb\u0101ri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421185471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1210101
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"238f8bb93ee3ca7d2541218f279aa018",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421185471,
+            "locality_id":1293030737,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1293030737,
+    "wof:lastmodified":1537586156,
+    "wof:name":"Barni Chandbari",
+    "wof:parent_id":421185471,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.94398000000002,
+    24.6878,
+    89.94398000000002,
+    24.6878
+],
+  "geometry": {"coordinates":[89.94398000000002,24.6878],"type":"Point"}
+}

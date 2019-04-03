@@ -1,0 +1,73 @@
+{
+  "id": 1277104987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.64179,24.68813,88.64179,24.68813",
+    "geom:latitude":24.68813,
+    "geom:longitude":88.64179,
+    "gn:admin1_code":"83",
+    "gn:admin2_code":"5064.0",
+    "gn:admin3_code":"506447.0",
+    "gn:admin4_code":"50644794.0",
+    "gn:asciiname":"Saldaha",
+    "gn:country_code":"BD",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7482966,
+    "gn:latitude":24.68813,
+    "gn:longitude":88.64179,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"S\u0101ldaha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "S\u0101ldaha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669031,
+        421191663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7482966
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"47e719293ed15d3278a2e11b7db27f6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421191663,
+            "locality_id":1277104987,
+            "region_id":85669031
+        }
+    ],
+    "wof:id":1277104987,
+    "wof:lastmodified":1537586523,
+    "wof:name":"Saldaha",
+    "wof:parent_id":421191663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.64179,
+    24.68813,
+    88.64179,
+    24.68813
+],
+  "geometry": {"coordinates":[88.64179,24.68813],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1226272495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.95278,24.83752,90.95278,24.83752",
+    "geom:latitude":24.83752,
+    "geom:longitude":90.95278,
+    "gn:admin1_code":"H",
+    "gn:admin2_code":"3072",
+    "gn:admin3_code":"307263.0",
+    "gn:admin4_code":"30726310.0",
+    "gn:asciiname":"Pabaipara",
+    "gn:country_code":"BD",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1191671,
+    "gn:latitude":24.83752,
+    "gn:longitude":90.95278,
+    "gn:modification_date":"2016-11-17",
+    "gn:name":"P\u0101baip\u0101ra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        1108803101,
+        421200811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1191671
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"c9a46644277669cd6a7eb66d914191f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421200811,
+            "locality_id":1226272495,
+            "region_id":1108803101
+        }
+    ],
+    "wof:id":1226272495,
+    "wof:lastmodified":1536894941,
+    "wof:name":"Pabaipara",
+    "wof:parent_id":421200811,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.95278,
+    24.83752,
+    90.95278,
+    24.83752
+],
+  "geometry": {"coordinates":[90.95278,24.83752],"type":"Point"}
+}

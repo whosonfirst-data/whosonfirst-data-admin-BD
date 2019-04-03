@@ -1,0 +1,64 @@
+{
+  "id": 1209136047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.03416,24.4222,90.03416,24.4222",
+    "geom:latitude":24.4222,
+    "geom:longitude":90.03416,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3093",
+    "gn:admin3_code":"309328.0",
+    "gn:admin4_code":"30932825.0",
+    "gn:asciiname":"Kapasia",
+    "gn:country_code":"BD",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1198516,
+    "gn:latitude":24.4222,
+    "gn:longitude":90.03416,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"K\u0101p\u0101sia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1198516
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"fdb2873e20adb14cbbb3297110be900a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209136047
+        }
+    ],
+    "wof:id":1209136047,
+    "wof:lastmodified":1536296657,
+    "wof:name":"Kapasia",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.03416,
+    24.4222,
+    90.03416,
+    24.4222
+],
+  "geometry": {"coordinates":[90.03416,24.4222],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1209845779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.54979,25.65217,89.54979,25.65217",
+    "geom:latitude":25.65217,
+    "geom:longitude":89.54979,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5549",
+    "gn:admin3_code":"554994.0",
+    "gn:admin4_code":"55499483.0",
+    "gn:asciiname":"Hokadanga",
+    "gn:country_code":"BD",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1200981,
+    "gn:latitude":25.65217,
+    "gn:longitude":89.54979,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Hok\u0101d\u0101nga",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Hok\u0101d\u0101nga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1200981
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"fd2205011e71bdb19fd8f8200ca7234f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694685,
+            "locality_id":1209845779,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1209845779,
+    "wof:lastmodified":1537585991,
+    "wof:name":"Hokadanga",
+    "wof:parent_id":1108694685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.54979,
+    25.65217,
+    89.54979,
+    25.65217
+],
+  "geometry": {"coordinates":[89.54979,25.65217],"type":"Point"}
+}

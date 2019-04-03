@@ -1,0 +1,70 @@
+{
+  "id": 1310238265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.84721,24.30064,90.84721,24.30064",
+    "geom:latitude":24.30064,
+    "geom:longitude":90.84721,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3048",
+    "gn:admin3_code":"304845.0",
+    "gn:admin4_code":"30484528.0",
+    "gn:asciiname":"Manik Khali",
+    "gn:country_code":"BD",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8430370,
+    "gn:latitude":24.30064,
+    "gn:longitude":90.84721,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"M\u0101nik Kh\u0101li",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421170483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8430370
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"e1b880980c2b9a4528b2953a259e1e4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421170483,
+            "locality_id":1310238265,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1310238265,
+    "wof:lastmodified":1536804830,
+    "wof:name":"Manik Khali",
+    "wof:parent_id":421170483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.84721,
+    24.30064,
+    90.84721,
+    24.30064
+],
+  "geometry": {"coordinates":[90.84721,24.30064],"type":"Point"}
+}

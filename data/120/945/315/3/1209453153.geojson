@@ -1,0 +1,67 @@
+{
+  "id": 1209453153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"92.13165,21.44223,92.13165,21.44223",
+    "geom:latitude":21.44223,
+    "geom:longitude":92.13165,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2022.0",
+    "gn:admin3_code":"202266.0",
+    "gn:admin4_code":"20226666.0",
+    "gn:asciiname":"Ukhiarghona",
+    "gn:country_code":"BD",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6416719,
+    "gn:latitude":21.44223,
+    "gn:longitude":92.13165,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Ukhiarghona",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Ukhiarghona"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6416719
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"fe3249c6c31c11061c54c9c44c3bd064",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209453153
+        }
+    ],
+    "wof:id":1209453153,
+    "wof:lastmodified":1537586268,
+    "wof:name":"Ukhiarghona",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    92.13165,
+    21.44223,
+    92.13165,
+    21.44223
+],
+  "geometry": {"coordinates":[92.13164999999999,21.44223],"type":"Point"}
+}

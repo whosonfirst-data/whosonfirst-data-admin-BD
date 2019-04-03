@@ -1,0 +1,73 @@
+{
+  "id": 1310649175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.96653,21.651,91.96653,21.651",
+    "geom:latitude":21.651,
+    "geom:longitude":91.96653,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2022.0",
+    "gn:admin3_code":"202249.0",
+    "gn:admin4_code":"20224983.0",
+    "gn:asciiname":"Moulvikhata",
+    "gn:country_code":"BD",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6416233,
+    "gn:latitude":21.651,
+    "gn:longitude":91.96653,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Moulvikhata",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Moulvikhata"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421205057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6416233
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"f271e995686df4538c86f7a07f6f6794",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421205057,
+            "locality_id":1310649175,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1310649175,
+    "wof:lastmodified":1537586259,
+    "wof:name":"Moulvikhata",
+    "wof:parent_id":421205057,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.96653,
+    21.651,
+    91.96653,
+    21.651
+],
+  "geometry": {"coordinates":[91.96653000000001,21.651],"type":"Point"}
+}

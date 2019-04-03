@@ -1,0 +1,75 @@
+{
+  "id": 1293522887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.59081,24.15583,90.59081,24.15583",
+    "geom:latitude":24.15583,
+    "geom:longitude":90.59081,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3033",
+    "gn:admin3_code":"303336.0",
+    "gn:admin4_code":"30333686.0",
+    "gn:asciiname":"Saiyidpur",
+    "gn:country_code":"BD",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1189083,
+    "gn:latitude":24.15583,
+    "gn:longitude":90.59081,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Saiyidpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sayadpur",
+        "Saiyadpur",
+        "Saiyidpur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421203493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1189083
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"d8fbb784e513b97b008c516c86043ed1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421203493,
+            "locality_id":1293522887,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1293522887,
+    "wof:lastmodified":1537585773,
+    "wof:name":"Saiyidpur",
+    "wof:parent_id":421203493,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.59081,
+    24.15583,
+    90.59081,
+    24.15583
+],
+  "geometry": {"coordinates":[90.59081,24.15583],"type":"Point"}
+}

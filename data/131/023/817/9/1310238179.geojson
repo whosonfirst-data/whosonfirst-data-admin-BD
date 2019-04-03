@@ -1,0 +1,70 @@
+{
+  "id": 1310238179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.63019,25.16335,89.63019,25.16335",
+    "geom:latitude":25.16335,
+    "geom:longitude":89.63019,
+    "gn:admin1_code":"83",
+    "gn:asciiname":"Gabgachhi",
+    "gn:country_code":"BD",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1203201,
+    "gn:latitude":25.16335,
+    "gn:longitude":89.63019,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"G\u0101bg\u0101chhi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "G\u0101bg\u0101chhi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1203201
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"518ab41ff2c7ce0bf6e5e81daac55397",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694675,
+            "locality_id":1310238179,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1310238179,
+    "wof:lastmodified":1537586031,
+    "wof:name":"Gabgachhi",
+    "wof:parent_id":1108694675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.63019,
+    25.16335,
+    89.63019,
+    25.16335
+],
+  "geometry": {"coordinates":[89.63019,25.16335],"type":"Point"}
+}

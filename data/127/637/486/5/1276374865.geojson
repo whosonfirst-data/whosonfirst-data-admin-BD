@@ -1,0 +1,81 @@
+{
+  "id": 1276374865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.55588,25.6758,89.55588,25.6758",
+    "geom:latitude":25.6758,
+    "geom:longitude":89.55588,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5549",
+    "gn:admin3_code":"554994.0",
+    "gn:admin4_code":"55499483.0",
+    "gn:asciiname":"Dari Kishorpur",
+    "gn:country_code":"BD",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1197182,
+    "gn:latitude":25.6758,
+    "gn:longitude":89.55588,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Dari Kishorpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Dari Kishorpur"
+    ],
+    "name:ben_x_variant":[
+        "Kishorpur Dari",
+        "Dari Kisorpur"
+    ],
+    "name:und_x_variant":[
+        "Dari Kisorpur",
+        "Kishorpur Dari"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1197182
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"92e3039e6ae809be486fea73d42bd1a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694685,
+            "locality_id":1276374865,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1276374865,
+    "wof:lastmodified":1537585919,
+    "wof:name":"Dari Kishorpur",
+    "wof:parent_id":1108694685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.55588,
+    25.6758,
+    89.55588,
+    25.6758
+],
+  "geometry": {"coordinates":[89.55588,25.6758],"type":"Point"}
+}

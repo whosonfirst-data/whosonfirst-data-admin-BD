@@ -1,0 +1,70 @@
+{
+  "id": 1226475857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.62611,23.53657,89.62611,23.53657",
+    "geom:latitude":23.53657,
+    "geom:longitude":89.62611,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3029.0",
+    "gn:admin3_code":"302956.0",
+    "gn:admin4_code":"30295673.0",
+    "gn:asciiname":"Gondardia",
+    "gn:country_code":"BD",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1202138,
+    "gn:latitude":23.53657,
+    "gn:longitude":89.62611,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Gond\u0101rdia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421198063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1202138
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"ab2d0fa9a2b59ec66a5e5434c7f25772",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421198063,
+            "locality_id":1226475857,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1226475857,
+    "wof:lastmodified":1537095549,
+    "wof:name":"Gondardia",
+    "wof:parent_id":421198063,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.62611,
+    23.53657,
+    89.62611,
+    23.53657
+],
+  "geometry": {"coordinates":[89.62611,23.53657],"type":"Point"}
+}

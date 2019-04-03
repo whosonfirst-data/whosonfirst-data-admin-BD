@@ -1,0 +1,70 @@
+{
+  "id": 1193055529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.11923,22.54647,90.11923,22.54647",
+    "geom:latitude":22.54647,
+    "geom:longitude":90.11923,
+    "gn:admin1_code":"85",
+    "gn:admin2_code":"1042.0",
+    "gn:admin3_code":"104284.0",
+    "gn:admin4_code":"10428454.0",
+    "gn:asciiname":"Bara Kaibarttakhali",
+    "gn:country_code":"BD",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1210418,
+    "gn:latitude":22.54647,
+    "gn:longitude":90.11923,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Bara Kaibarttakh\u0101li",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669019,
+        1108694677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1210418
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"5f4cddff10c6b547051e7c71f40a3f2b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694677,
+            "locality_id":1193055529,
+            "region_id":85669019
+        }
+    ],
+    "wof:id":1193055529,
+    "wof:lastmodified":1536383241,
+    "wof:name":"Bara Kaibarttakhali",
+    "wof:parent_id":1108694677,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.11923,
+    22.54647000000001,
+    90.11923,
+    22.54647000000001
+],
+  "geometry": {"coordinates":[90.11923,22.54647000000001],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1277125187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.95705,23.22679,90.95705,23.22679",
+    "geom:latitude":23.22679,
+    "geom:longitude":90.95705,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2013",
+    "gn:admin3_code":"201395.0",
+    "gn:admin4_code":"20139565.0",
+    "gn:asciiname":"Kazirnagar",
+    "gn:country_code":"BD",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1197970,
+    "gn:latitude":23.22679,
+    "gn:longitude":90.95705,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"K\u0101zirnagar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Q\u0101zirnager",
+        "K\u0101zirnagar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        1108694669
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1197970
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"a75006e8a106c628a4a57e402e323a7b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694669,
+            "locality_id":1277125187,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1277125187,
+    "wof:lastmodified":1537585934,
+    "wof:name":"Kazirnagar",
+    "wof:parent_id":1108694669,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.95705,
+    23.22679,
+    90.95705,
+    23.22679
+],
+  "geometry": {"coordinates":[90.95705,23.22679],"type":"Point"}
+}

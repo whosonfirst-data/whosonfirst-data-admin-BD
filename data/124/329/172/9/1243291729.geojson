@@ -1,0 +1,76 @@
+{
+  "id": 1243291729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.2874,24.71923,88.2874,24.71923",
+    "geom:latitude":24.71923,
+    "geom:longitude":88.2874,
+    "gn:admin1_code":"83",
+    "gn:admin2_code":"5070.0",
+    "gn:admin3_code":"507056.0",
+    "gn:admin4_code":"50705619.0",
+    "gn:asciiname":"Bahir Mallikpur",
+    "gn:country_code":"BD",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1211713,
+    "gn:latitude":24.71923,
+    "gn:longitude":88.2874,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"B\u0101hir Mallikpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "B\u0101hir Mallikpur"
+    ],
+    "name:und_x_variant":[
+        "Bahir Mallickpur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669031,
+        421191607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1211713
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"c558c0a89ce55c332726bb0ee6e57137",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421191607,
+            "locality_id":1243291729,
+            "region_id":85669031
+        }
+    ],
+    "wof:id":1243291729,
+    "wof:lastmodified":1537586183,
+    "wof:name":"Bahir Mallikpur",
+    "wof:parent_id":421191607,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.2874,
+    24.71923,
+    88.2874,
+    24.71923
+],
+  "geometry": {"coordinates":[88.28740000000001,24.71923],"type":"Point"}
+}

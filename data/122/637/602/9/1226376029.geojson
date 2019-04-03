@@ -1,0 +1,74 @@
+{
+  "id": 1226376029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.67063,23.73822,89.67063,23.73822",
+    "geom:latitude":23.73822,
+    "geom:longitude":89.67063,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3082",
+    "gn:admin3_code":"308276.0",
+    "gn:admin4_code":"30827636.0",
+    "gn:asciiname":"Nijatpur",
+    "gn:country_code":"BD",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1192876,
+    "gn:latitude":23.73822,
+    "gn:longitude":89.67063,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Nij\u0101tpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nijaitpur",
+        "Nij\u0101tpur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        1108694699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1192876
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"898399fb8957b79d2106369f52e42790",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694699,
+            "locality_id":1226376029,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1226376029,
+    "wof:lastmodified":1537585842,
+    "wof:name":"Nijatpur",
+    "wof:parent_id":1108694699,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.67063,
+    23.73822,
+    89.67063,
+    23.73822
+],
+  "geometry": {"coordinates":[89.67063,23.73822],"type":"Point"}
+}

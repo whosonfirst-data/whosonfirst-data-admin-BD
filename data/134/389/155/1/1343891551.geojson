@@ -1,0 +1,70 @@
+{
+  "id": 1343891551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.41893,24.43269,90.41893,24.43269",
+    "geom:latitude":24.43269,
+    "geom:longitude":90.41893,
+    "gn:admin1_code":"H",
+    "gn:admin2_code":"3061.0",
+    "gn:admin3_code":"306113.0",
+    "gn:admin4_code":"30611317.0",
+    "gn:asciiname":"Bhatgaon",
+    "gn:country_code":"BD",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1209092,
+    "gn:latitude":24.43269,
+    "gn:longitude":90.41893,
+    "gn:modification_date":"2016-11-17",
+    "gn:name":"Bh\u0101tgaon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        1108803101,
+        421185469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1209092
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"af1fbbf104e8f44abc71e0ff96fe5747",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421185469,
+            "locality_id":1343891551,
+            "region_id":1108803101
+        }
+    ],
+    "wof:id":1343891551,
+    "wof:lastmodified":1536619656,
+    "wof:name":"Bhatgaon",
+    "wof:parent_id":421185469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.41893,
+    24.43269,
+    90.41893,
+    24.43269
+],
+  "geometry": {"coordinates":[90.41893,24.43269],"type":"Point"}
+}

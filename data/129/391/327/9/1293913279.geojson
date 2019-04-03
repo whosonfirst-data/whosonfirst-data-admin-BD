@@ -1,0 +1,79 @@
+{
+  "id": 1293913279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.11305,23.89301,89.11305,23.89301",
+    "geom:latitude":23.89301,
+    "geom:longitude":89.11305,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4050.0",
+    "gn:admin3_code":"405079.0",
+    "gn:admin4_code":"40507975.0",
+    "gn:asciiname":"Churhas",
+    "gn:country_code":"BD",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1205703,
+    "gn:latitude":23.89301,
+    "gn:longitude":89.11305,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Churhas",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Churhas"
+    ],
+    "name:ben_x_variant":[
+        "Chourh\u0101s"
+    ],
+    "name:und_x_variant":[
+        "Chaurhas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        890438075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1205703
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"bbabacbe74649c6803a313ee8f16215f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":890438075,
+            "locality_id":1293913279,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1293913279,
+    "wof:lastmodified":1537586079,
+    "wof:name":"Churhas",
+    "wof:parent_id":890438075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.11305,
+    23.89301,
+    89.11305,
+    23.89301
+],
+  "geometry": {"coordinates":[89.11305,23.89301],"type":"Point"}
+}

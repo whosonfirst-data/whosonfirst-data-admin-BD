@@ -1,0 +1,74 @@
+{
+  "id": 1209864469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"92.05954,23.2673,92.05954,23.2673",
+    "geom:latitude":23.2673,
+    "geom:longitude":92.05954,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2046",
+    "gn:admin3_code":"204643.0",
+    "gn:admin4_code":"20464347.0",
+    "gn:asciiname":"Pablakhali",
+    "gn:country_code":"BD",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1191660,
+    "gn:latitude":23.2673,
+    "gn:longitude":92.05954,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"P\u0101bl\u0101kh\u0101li",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Paplakhali",
+        "P\u0101bl\u0101kh\u0101li"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        1108694683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1191660
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"ab6971a04d11ec547b4d2aeccfd1dd6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694683,
+            "locality_id":1209864469,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1209864469,
+    "wof:lastmodified":1537585817,
+    "wof:name":"Pablakhali",
+    "wof:parent_id":1108694683,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    92.05954,
+    23.2673,
+    92.05954,
+    23.2673
+],
+  "geometry": {"coordinates":[92.05954,23.2673],"type":"Point"}
+}

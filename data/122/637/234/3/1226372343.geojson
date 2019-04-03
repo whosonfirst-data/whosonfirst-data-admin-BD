@@ -1,0 +1,70 @@
+{
+  "id": 1226372343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.41491,24.50459,90.41491,24.50459",
+    "geom:latitude":24.50459,
+    "geom:longitude":90.41491,
+    "gn:admin1_code":"H",
+    "gn:admin2_code":"3061.0",
+    "gn:admin3_code":"306194.0",
+    "gn:admin4_code":"30619438.0",
+    "gn:asciiname":"Golabhita",
+    "gn:country_code":"BD",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1202177,
+    "gn:latitude":24.50459,
+    "gn:longitude":90.41491,
+    "gn:modification_date":"2016-11-17",
+    "gn:name":"Gol\u0101bhita",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        1108803101,
+        421185469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1202177
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"f87e30ea971afa11f647a908a9f8e0cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421185469,
+            "locality_id":1226372343,
+            "region_id":1108803101
+        }
+    ],
+    "wof:id":1226372343,
+    "wof:lastmodified":1536751278,
+    "wof:name":"Golabhita",
+    "wof:parent_id":421185469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.41491,
+    24.50459,
+    90.41491,
+    24.50459
+],
+  "geometry": {"coordinates":[90.41491000000001,24.50459],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1276478359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.03611,22.29962,90.03611,22.29962",
+    "geom:latitude":22.29962,
+    "geom:longitude":90.03611,
+    "gn:admin1_code":"85",
+    "gn:admin2_code":"1004.0",
+    "gn:admin3_code":"100419.0",
+    "gn:admin4_code":"10041947.0",
+    "gn:asciiname":"Bara Taleswar",
+    "gn:country_code":"BD",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7476215,
+    "gn:latitude":22.29962,
+    "gn:longitude":90.03611,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Bara T\u0101leswar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Bara T\u0101leswar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669019,
+        421176043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7476215
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"822b98e491a2130a7116e75ec250d724",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421176043,
+            "locality_id":1276478359,
+            "region_id":85669019
+        }
+    ],
+    "wof:id":1276478359,
+    "wof:lastmodified":1537586339,
+    "wof:name":"Bara Taleswar",
+    "wof:parent_id":421176043,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.03611,
+    22.29962,
+    90.03611,
+    22.29962
+],
+  "geometry": {"coordinates":[90.03610999999999,22.29962],"type":"Point"}
+}

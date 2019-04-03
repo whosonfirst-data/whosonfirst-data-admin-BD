@@ -1,0 +1,67 @@
+{
+  "id": 1209252139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.95664,24.71308,88.95664,24.71308",
+    "geom:latitude":24.71308,
+    "geom:longitude":88.95664,
+    "gn:admin1_code":"83",
+    "gn:admin2_code":"5064.0",
+    "gn:admin3_code":"506485.0",
+    "gn:admin4_code":"50648531.0",
+    "gn:asciiname":"Chak Kojael",
+    "gn:country_code":"BD",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7483614,
+    "gn:latitude":24.71308,
+    "gn:longitude":88.95664,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Chak Kojael",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Chak Kojael"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7483614
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"c4dca1847c04ea089fd17496eadd7c15",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209252139
+        }
+    ],
+    "wof:id":1209252139,
+    "wof:lastmodified":1537586542,
+    "wof:name":"Chak Kojael",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.95664000000002,
+    24.71308,
+    88.95664000000002,
+    24.71308
+],
+  "geometry": {"coordinates":[88.95664000000002,24.71308],"type":"Point"}
+}

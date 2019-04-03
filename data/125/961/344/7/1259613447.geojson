@@ -1,0 +1,76 @@
+{
+  "id": 1259613447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.17163,25.45105,89.17163,25.45105",
+    "geom:latitude":25.45105,
+    "geom:longitude":89.17163,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5585.0",
+    "gn:admin3_code":"558576.0",
+    "gn:admin4_code":"55857625.0",
+    "gn:asciiname":"Chaittrakot",
+    "gn:country_code":"BD",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1207937,
+    "gn:latitude":25.45105,
+    "gn:longitude":89.17163,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Chaittrakot",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Chaittrakot"
+    ],
+    "name:ben_x_variant":[
+        "Chaitrakol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1207937
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"1b68bc6774170448924a3e852be83fa1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694701,
+            "locality_id":1259613447,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1259613447,
+    "wof:lastmodified":1537586121,
+    "wof:name":"Chaittrakot",
+    "wof:parent_id":1108694701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.17163000000002,
+    25.45105,
+    89.17163000000002,
+    25.45105
+],
+  "geometry": {"coordinates":[89.17163000000002,25.45105],"type":"Point"}
+}

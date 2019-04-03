@@ -1,0 +1,70 @@
+{
+  "id": 1326458429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.51746,23.42875,89.51746,23.42875",
+    "geom:latitude":23.42875,
+    "geom:longitude":89.51746,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4055.0",
+    "gn:admin3_code":"405566.0",
+    "gn:admin4_code":"40556631.0",
+    "gn:asciiname":"Baniabaha",
+    "gn:country_code":"BD",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1210984,
+    "gn:latitude":23.42875,
+    "gn:longitude":89.51746,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"B\u0101ni\u0101baha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        1108694689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1210984
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"bc1e1e55dd6fc5b7aff981eb8508d95c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694689,
+            "locality_id":1326458429,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1326458429,
+    "wof:lastmodified":1537087288,
+    "wof:name":"Baniabaha",
+    "wof:parent_id":1108694689,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.51746,
+    23.42875,
+    89.51746,
+    23.42875
+],
+  "geometry": {"coordinates":[89.51746,23.42875],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1226777523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.21918,23.91047,90.21918,23.91047",
+    "geom:latitude":23.91047,
+    "geom:longitude":90.21918,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3026.0",
+    "gn:admin3_code":"302614.0",
+    "gn:admin4_code":"30261435.0",
+    "gn:asciiname":"Dakshinpara",
+    "gn:country_code":"BD",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1205360,
+    "gn:latitude":23.91047,
+    "gn:longitude":90.21918,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Dakshinp\u0101ra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421187803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1205360
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"8155ea8b807f805304550bbef42a16a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421187803,
+            "locality_id":1226777523,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1226777523,
+    "wof:lastmodified":1536669892,
+    "wof:name":"Dakshinpara",
+    "wof:parent_id":421187803,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.21918,
+    23.91047,
+    90.21918,
+    23.91047
+],
+  "geometry": {"coordinates":[90.21917999999999,23.91047],"type":"Point"}
+}

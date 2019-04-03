@@ -1,0 +1,70 @@
+{
+  "id": 1225974739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.11667,23.86667,89.11667,23.86667",
+    "geom:latitude":23.86667,
+    "geom:longitude":89.11667,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4050.0",
+    "gn:admin3_code":"405079.0",
+    "gn:admin4_code":"40507950.0",
+    "gn:asciiname":"Harara",
+    "gn:country_code":"BD",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1201584,
+    "gn:latitude":23.86667,
+    "gn:longitude":89.11667,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Harara",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        890438075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1201584
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"816f63baead8579143579e3374194af6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":890438075,
+            "locality_id":1225974739,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1225974739,
+    "wof:lastmodified":1536826717,
+    "wof:name":"Harara",
+    "wof:parent_id":890438075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.11667,
+    23.86667000000001,
+    89.11667,
+    23.86667000000001
+],
+  "geometry": {"coordinates":[89.11667,23.86667000000001],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1343409875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.74247,23.05737,90.74247,23.05737",
+    "geom:latitude":23.05737,
+    "geom:longitude":90.74247,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2013.0",
+    "gn:admin3_code":"201345.0",
+    "gn:admin4_code":"20134517.0",
+    "gn:asciiname":"Ghazinagar",
+    "gn:country_code":"BD",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1202737,
+    "gn:latitude":23.05737,
+    "gn:longitude":90.74247,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Gh\u0101zinagar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gh\u0101zinagar",
+        "G\u0101zinagar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        1108694669
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1202737
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"12268b1a1e03bf90ef2e94ef1c5aa117",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694669,
+            "locality_id":1343409875,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1343409875,
+    "wof:lastmodified":1537586022,
+    "wof:name":"Ghazinagar",
+    "wof:parent_id":1108694669,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.74247,
+    23.05737,
+    90.74247,
+    23.05737
+],
+  "geometry": {"coordinates":[90.74247,23.05737],"type":"Point"}
+}

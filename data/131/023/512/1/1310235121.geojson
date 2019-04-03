@@ -1,0 +1,73 @@
+{
+  "id": 1310235121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.73046,23.24168,89.73046,23.24168",
+    "geom:latitude":23.24168,
+    "geom:longitude":89.73046,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3035.0",
+    "gn:admin3_code":"303543.0",
+    "gn:admin4_code":"30354327.0",
+    "gn:asciiname":"Khanerhat",
+    "gn:country_code":"BD",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7480210,
+    "gn:latitude":23.24168,
+    "gn:longitude":89.73046,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Kh\u0101nerh\u0101t",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Kh\u0101nerh\u0101t"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421198063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7480210
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"3c18f1575dabc0d1e102b7ae5bb81c3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421198063,
+            "locality_id":1310235121,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1310235121,
+    "wof:lastmodified":1537586443,
+    "wof:name":"Khanerhat",
+    "wof:parent_id":421198063,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.73046,
+    23.24168,
+    89.73046,
+    23.24168
+],
+  "geometry": {"coordinates":[89.73045999999999,23.24168],"type":"Point"}
+}

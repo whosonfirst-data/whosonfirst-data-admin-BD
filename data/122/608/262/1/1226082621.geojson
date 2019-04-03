@@ -1,0 +1,79 @@
+{
+  "id": 1226082621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.56814,25.64396,89.56814,25.64396",
+    "geom:latitude":25.64396,
+    "geom:longitude":89.56814,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5549",
+    "gn:admin3_code":"554994.0",
+    "gn:admin4_code":"55499455.0",
+    "gn:asciiname":"Nanda Nefra",
+    "gn:country_code":"BD",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1192933,
+    "gn:latitude":25.64396,
+    "gn:longitude":89.56814,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Nanda Nefra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Nanda Nefra"
+    ],
+    "name:ben_x_variant":[
+        "Nefra Nanda"
+    ],
+    "name:und_x_variant":[
+        "Nefra Nanda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1192933
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"66348302b183424022f40466a9f4d2d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694685,
+            "locality_id":1226082621,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1226082621,
+    "wof:lastmodified":1537585843,
+    "wof:name":"Nanda Nefra",
+    "wof:parent_id":1108694685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.56814,
+    25.64396,
+    89.56814,
+    25.64396
+],
+  "geometry": {"coordinates":[89.56814,25.64396],"type":"Point"}
+}

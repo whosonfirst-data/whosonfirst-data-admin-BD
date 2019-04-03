@@ -1,0 +1,73 @@
+{
+  "id": 1293631627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.99132,21.46948,91.99132,21.46948",
+    "geom:latitude":21.46948,
+    "geom:longitude":91.99132,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2022.0",
+    "gn:admin3_code":"202224.0",
+    "gn:admin4_code":"20222459.0",
+    "gn:asciiname":"Kopflyr",
+    "gn:country_code":"BD",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7477199,
+    "gn:latitude":21.46948,
+    "gn:longitude":91.99132,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Kopflyr",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Kopflyr"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421205057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7477199
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"272fae1eb33b41177a063c38c0575b1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421205057,
+            "locality_id":1293631627,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1293631627,
+    "wof:lastmodified":1537586362,
+    "wof:name":"Kopflyr",
+    "wof:parent_id":421205057,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.99132,
+    21.46948,
+    91.99132,
+    21.46948
+],
+  "geometry": {"coordinates":[91.99132,21.46948],"type":"Point"}
+}

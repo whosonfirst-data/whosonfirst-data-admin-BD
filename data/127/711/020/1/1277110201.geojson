@@ -1,0 +1,70 @@
+{
+  "id": 1277110201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.51639,23.6026,89.51639,23.6026",
+    "geom:latitude":23.6026,
+    "geom:longitude":89.51639,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3082",
+    "gn:admin3_code":"308207.0",
+    "gn:admin4_code":"30820766.0",
+    "gn:asciiname":"Sasapur",
+    "gn:country_code":"BD",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1188509,
+    "gn:latitude":23.6026,
+    "gn:longitude":89.51639,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Sas\u0101pur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        1108694699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1188509
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"a58143cb933717100f46c091d72ca8cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694699,
+            "locality_id":1277110201,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1277110201,
+    "wof:lastmodified":1536728478,
+    "wof:name":"Sasapur",
+    "wof:parent_id":1108694699,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.51639,
+    23.6026,
+    89.51639,
+    23.6026
+],
+  "geometry": {"coordinates":[89.51639,23.6026],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1259713671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.24895,22.14629,90.24895,22.14629",
+    "geom:latitude":22.14629,
+    "geom:longitude":90.24895,
+    "gn:admin1_code":"82",
+    "gn:asciiname":"Chandra",
+    "gn:country_code":"BD",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7478588,
+    "gn:latitude":22.14629,
+    "gn:longitude":90.24895,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"Chandra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Chandra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669019,
+        421176043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7478588
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"7d565a42a3ea1b772dbcd7899d1a36c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421176043,
+            "locality_id":1259713671,
+            "region_id":85669019
+        }
+    ],
+    "wof:id":1259713671,
+    "wof:lastmodified":1537586395,
+    "wof:name":"Chandra",
+    "wof:parent_id":421176043,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.24895,
+    22.14629,
+    90.24895,
+    22.14629
+],
+  "geometry": {"coordinates":[90.24894999999999,22.14629],"type":"Point"}
+}

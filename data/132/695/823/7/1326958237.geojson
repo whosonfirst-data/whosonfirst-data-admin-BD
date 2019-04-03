@@ -1,0 +1,73 @@
+{
+  "id": 1326958237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.79454,25.09785,88.79454,25.09785",
+    "geom:latitude":25.09785,
+    "geom:longitude":88.79454,
+    "gn:admin1_code":"83",
+    "gn:admin2_code":"5064.0",
+    "gn:admin3_code":"506475.0",
+    "gn:admin4_code":"50647577.0",
+    "gn:asciiname":"Raskanai",
+    "gn:country_code":"BD",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7480367,
+    "gn:latitude":25.09785,
+    "gn:longitude":88.79454,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Rask\u0101n\u0101i",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Rask\u0101n\u0101i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669031,
+        421191663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7480367
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"99542ca5071ab5239b6e05e3d2a1a79f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421191663,
+            "locality_id":1326958237,
+            "region_id":85669031
+        }
+    ],
+    "wof:id":1326958237,
+    "wof:lastmodified":1537586447,
+    "wof:name":"Raskanai",
+    "wof:parent_id":421191663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.79454,
+    25.09785,
+    88.79454,
+    25.09785
+],
+  "geometry": {"coordinates":[88.79454,25.09785],"type":"Point"}
+}

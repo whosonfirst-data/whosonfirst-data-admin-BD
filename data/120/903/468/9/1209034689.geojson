@@ -1,0 +1,64 @@
+{
+  "id": 1209034689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.60231,23.69843,89.60231,23.69843",
+    "geom:latitude":23.69843,
+    "geom:longitude":89.60231,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3082.0",
+    "gn:admin3_code":"308276.0",
+    "gn:admin4_code":"30827614.0",
+    "gn:asciiname":"Bri Chatra",
+    "gn:country_code":"BD",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1208075,
+    "gn:latitude":23.69843,
+    "gn:longitude":89.60231,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Bri Ch\u0101tra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1208075
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"7db681cca596a104fb663d911b06dba3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209034689
+        }
+    ],
+    "wof:id":1209034689,
+    "wof:lastmodified":1536299739,
+    "wof:name":"Bri Chatra",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.60231,
+    23.69843,
+    89.60231,
+    23.69843
+],
+  "geometry": {"coordinates":[89.60231,23.69843],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1260213833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.29829,25.78574,89.29829,25.78574",
+    "geom:latitude":25.78574,
+    "geom:longitude":89.29829,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5585",
+    "gn:admin3_code":"558549.0",
+    "gn:admin4_code":"55854987.0",
+    "gn:asciiname":"Badhu Kamala",
+    "gn:country_code":"BD",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7923760,
+    "gn:latitude":25.78574,
+    "gn:longitude":89.29829,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Badhu Kamala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Badhu Kamala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7923760
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"4eee8e45bdebf8857200c0ace677b1ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694701,
+            "locality_id":1260213833,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1260213833,
+    "wof:lastmodified":1537586807,
+    "wof:name":"Badhu Kamala",
+    "wof:parent_id":1108694701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.29829000000002,
+    25.78574,
+    89.29829000000002,
+    25.78574
+],
+  "geometry": {"coordinates":[89.29829000000002,25.78574],"type":"Point"}
+}

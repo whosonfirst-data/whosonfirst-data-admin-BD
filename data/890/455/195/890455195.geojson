@@ -1,0 +1,79 @@
+{
+  "id": 890455195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-09-21",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.58333,23.75,90.58333,23.75",
+    "geom:latitude":23.75,
+    "geom:longitude":90.58333,
+    "gn:country":"BD",
+    "gn:fcode":"ADM2",
+    "gn:pop":2392419,
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ben_x_preferred":[
+        "\u09a8\u09be\u09b0\u09be\u09af\u09bc\u09a3\u0997\u099e\u09cd\u099c \u099c\u09c7\u09b2\u09be"
+    ],
+    "name:eng_x_preferred":[
+        "Narayanganj District"
+    ],
+    "name:eng_x_variant":[
+        "Narayanganj"
+    ],
+    "name:unk_x_variant":[
+        "Naraeong\u00f4nj Jel"
+    ],
+    "qs:name":"N\u0101r\u0101yanganj District",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"12",
+    "src:population":"geonames",
+    "wd:wordcount":838,
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1337182,
+        "qs:id":84999,
+        "wd:id":"Q2208354",
+        "wk:page":"Narayanganj District"
+    },
+    "wof:country":"BD",
+    "wof:created":1469052937,
+    "wof:geomhash":"1bc6aa4c2a57f0cb120d246716f3cacd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":890455195,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":890455195,
+    "wof:lastmodified":1527734190,
+    "wof:name":"N\u0101r\u0101yanganj District",
+    "wof:parent_id":85669009,
+    "wof:placetype":"county",
+    "wof:population":2392419,
+    "wof:population_rank":12,
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.58333,
+    23.75,
+    90.58333,
+    23.75
+],
+  "geometry": {"coordinates":[90.58333,23.75],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1226390989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"92.22048,22.35376,92.22048,22.35376",
+    "geom:latitude":22.35376,
+    "geom:longitude":92.22048,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2084.0",
+    "gn:admin3_code":"208478.0",
+    "gn:admin4_code":"20847871.0",
+    "gn:asciiname":"Mrokhyong",
+    "gn:country_code":"BD",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":6416279,
+    "gn:latitude":22.35376,
+    "gn:longitude":92.22048,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Mrokhyong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Mrokhyong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421169477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6416279
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"911ba2b59cc2d1478d357608b9b30d2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421169477,
+            "locality_id":1226390989,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1226390989,
+    "wof:lastmodified":1537586260,
+    "wof:name":"Mrokhyong",
+    "wof:parent_id":421169477,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    92.22048,
+    22.35376,
+    92.22048,
+    22.35376
+],
+  "geometry": {"coordinates":[92.22047999999999,22.35376],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1343389263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.65129,22.97809,89.65129,22.97809",
+    "geom:latitude":22.97809,
+    "geom:longitude":89.65129,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4047.0",
+    "gn:admin3_code":"404794.0",
+    "gn:admin4_code":"40479427.0",
+    "gn:asciiname":"Bilduria",
+    "gn:country_code":"BD",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7486389,
+    "gn:latitude":22.97809,
+    "gn:longitude":89.65129,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"B\u012blduria",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "B\u012blduria"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        421205213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7486389
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"065bb6ed511d88d0933583ed477d5200",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421205213,
+            "locality_id":1343389263,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1343389263,
+    "wof:lastmodified":1537586612,
+    "wof:name":"Bilduria",
+    "wof:parent_id":421205213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.65129,
+    22.97809,
+    89.65129,
+    22.97809
+],
+  "geometry": {"coordinates":[89.65129,22.97809],"type":"Point"}
+}

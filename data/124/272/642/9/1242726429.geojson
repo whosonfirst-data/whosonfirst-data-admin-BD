@@ -1,0 +1,73 @@
+{
+  "id": 1242726429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"92.19559,21.31817,92.19559,21.31817",
+    "geom:latitude":21.31817,
+    "geom:longitude":92.19559,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2003.0",
+    "gn:admin3_code":"200373.0",
+    "gn:admin4_code":"20037357.0",
+    "gn:asciiname":"Maungziapara",
+    "gn:country_code":"BD",
+    "gn:dem":152,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7476503,
+    "gn:latitude":21.31817,
+    "gn:longitude":92.19559,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Maungziap\u0101ra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Maungziap\u0101ra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421169477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7476503
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"d12260c28a9fe4196d959512f7ccfdbd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421169477,
+            "locality_id":1242726429,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1242726429,
+    "wof:lastmodified":1537586346,
+    "wof:name":"Maungziapara",
+    "wof:parent_id":421169477,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    92.19559,
+    21.31817,
+    92.19559,
+    21.31817
+],
+  "geometry": {"coordinates":[92.19559,21.31817],"type":"Point"}
+}

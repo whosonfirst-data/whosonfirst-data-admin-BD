@@ -1,0 +1,70 @@
+{
+  "id": 1276472715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.64817,25.03084,90.64817,25.03084",
+    "geom:latitude":25.03084,
+    "geom:longitude":90.64817,
+    "gn:admin1_code":"H",
+    "gn:admin2_code":"3072",
+    "gn:admin3_code":"307218.0",
+    "gn:admin4_code":"30721877.0",
+    "gn:asciiname":"Iaria",
+    "gn:country_code":"BD",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8430337,
+    "gn:latitude":25.03084,
+    "gn:longitude":90.64817,
+    "gn:modification_date":"2016-11-17",
+    "gn:name":"I\u0101ria",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        1108803101,
+        421200811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8430337
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"d89f8df326ae3066c828556857ae9b32",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421200811,
+            "locality_id":1276472715,
+            "region_id":1108803101
+        }
+    ],
+    "wof:id":1276472715,
+    "wof:lastmodified":1537086197,
+    "wof:name":"Iaria",
+    "wof:parent_id":421200811,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.64817,
+    25.03084,
+    90.64817,
+    25.03084
+],
+  "geometry": {"coordinates":[90.64816999999999,25.03084],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1226372707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.12204,25.13494,90.12204,25.13494",
+    "geom:latitude":25.13494,
+    "geom:longitude":90.12204,
+    "gn:admin1_code":"H",
+    "gn:admin2_code":"3089",
+    "gn:admin3_code":"308970.0",
+    "gn:admin4_code":"30897077.0",
+    "gn:asciiname":"Mandirtala",
+    "gn:country_code":"BD",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7922841,
+    "gn:latitude":25.13494,
+    "gn:longitude":90.12204,
+    "gn:modification_date":"2016-11-17",
+    "gn:name":"Mandirtala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Mandirtala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        1108803101,
+        421190979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7922841
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"28d6484b1033824c13c3a811ace5a4d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421190979,
+            "locality_id":1226372707,
+            "region_id":1108803101
+        }
+    ],
+    "wof:id":1226372707,
+    "wof:lastmodified":1537586790,
+    "wof:name":"Mandirtala",
+    "wof:parent_id":421190979,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.12204,
+    25.13494,
+    90.12204,
+    25.13494
+],
+  "geometry": {"coordinates":[90.12204,25.13494],"type":"Point"}
+}

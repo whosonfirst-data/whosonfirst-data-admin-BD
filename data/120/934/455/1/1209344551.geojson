@@ -1,0 +1,64 @@
+{
+  "id": 1209344551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.30541,22.04524,90.30541,22.04524",
+    "geom:latitude":22.04524,
+    "geom:longitude":90.30541,
+    "gn:admin1_code":"82",
+    "gn:asciiname":"Chhailabunia",
+    "gn:country_code":"BD",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7478608,
+    "gn:latitude":22.04524,
+    "gn:longitude":90.30541,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"Chh\u0101il\u0101bunia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Chh\u0101il\u0101bunia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7478608
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"a526f6b1802fc2003b381aafbdbaa130",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209344551
+        }
+    ],
+    "wof:id":1209344551,
+    "wof:lastmodified":1537586396,
+    "wof:name":"Chhailabunia",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.30541,
+    22.04524,
+    90.30541,
+    22.04524
+],
+  "geometry": {"coordinates":[90.30540999999999,22.04524],"type":"Point"}
+}

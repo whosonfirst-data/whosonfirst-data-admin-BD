@@ -1,0 +1,67 @@
+{
+  "id": 1209445279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.30715,23.37444,89.30715,23.37444",
+    "geom:latitude":23.37444,
+    "geom:longitude":89.30715,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4055.0",
+    "gn:admin3_code":"405585.0",
+    "gn:admin4_code":"40558583.0",
+    "gn:asciiname":"Naghosa",
+    "gn:country_code":"BD",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7479265,
+    "gn:latitude":23.37444,
+    "gn:longitude":89.30715,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"N\u0101ghosa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "N\u0101ghosa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7479265
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"14ace1d038477a4b98ce4169b4d6bf9e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209445279
+        }
+    ],
+    "wof:id":1209445279,
+    "wof:lastmodified":1537586414,
+    "wof:name":"Naghosa",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.30715,
+    23.37444,
+    89.30715,
+    23.37444
+],
+  "geometry": {"coordinates":[89.30714999999999,23.37444],"type":"Point"}
+}

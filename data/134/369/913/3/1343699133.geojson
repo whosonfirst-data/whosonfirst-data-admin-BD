@@ -1,0 +1,73 @@
+{
+  "id": 1343699133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.53807,22.4856,90.53807,22.4856",
+    "geom:latitude":22.4856,
+    "geom:longitude":90.53807,
+    "gn:admin1_code":"85",
+    "gn:admin2_code":"1078.0",
+    "gn:admin3_code":"107838.0",
+    "gn:admin4_code":"10783895.0",
+    "gn:asciiname":"Kahkapur",
+    "gn:country_code":"BD",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7478007,
+    "gn:latitude":22.4856,
+    "gn:longitude":90.53807,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"K\u0101hk\u0101pur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "K\u0101hk\u0101pur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669019,
+        421169845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7478007
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"6fb6caa0900ecdbbd6830c2b1e5ba366",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421169845,
+            "locality_id":1343699133,
+            "region_id":85669019
+        }
+    ],
+    "wof:id":1343699133,
+    "wof:lastmodified":1537586380,
+    "wof:name":"Kahkapur",
+    "wof:parent_id":421169845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.53807,
+    22.4856,
+    90.53807,
+    22.4856
+],
+  "geometry": {"coordinates":[90.53807,22.4856],"type":"Point"}
+}

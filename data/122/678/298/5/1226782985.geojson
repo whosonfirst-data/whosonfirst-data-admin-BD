@@ -1,0 +1,73 @@
+{
+  "id": 1226782985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.01543,25.27472,89.01543,25.27472",
+    "geom:latitude":25.27472,
+    "geom:longitude":89.01543,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5527",
+    "gn:admin3_code":"552747.0",
+    "gn:admin4_code":"55274754.0",
+    "gn:asciiname":"Dakshin Basudebpur",
+    "gn:country_code":"BD",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8065023,
+    "gn:latitude":25.27472,
+    "gn:longitude":89.01543,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Dakshin Basudebpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Dakshin Basudebpur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8065023
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"8a62d691ca9aa5c9854745a5b5c18b4c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694671,
+            "locality_id":1226782985,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1226782985,
+    "wof:lastmodified":1537586858,
+    "wof:name":"Dakshin Basudebpur",
+    "wof:parent_id":1108694671,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.01543000000002,
+    25.27472,
+    89.01543000000002,
+    25.27472
+],
+  "geometry": {"coordinates":[89.01543000000002,25.27472],"type":"Point"}
+}

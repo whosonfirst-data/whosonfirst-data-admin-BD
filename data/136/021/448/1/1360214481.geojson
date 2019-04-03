@@ -1,0 +1,73 @@
+{
+  "id": 1360214481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.9242,26.111,88.9242,26.111",
+    "geom:latitude":26.111,
+    "geom:longitude":88.9242,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5573.0",
+    "gn:admin3_code":"557312.0",
+    "gn:admin4_code":"55731219.0",
+    "gn:asciiname":"Kutir",
+    "gn:country_code":"BD",
+    "gn:dem":55,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7105641,
+    "gn:latitude":26.111,
+    "gn:longitude":88.9242,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Kutir",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Kutir"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7105641
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"17412240190a0b4866b7408ece9a450c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694695,
+            "locality_id":1360214481,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1360214481,
+    "wof:lastmodified":1537586309,
+    "wof:name":"Kutir",
+    "wof:parent_id":1108694695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.9242,
+    26.111,
+    88.9242,
+    26.111
+],
+  "geometry": {"coordinates":[88.9242,26.111],"type":"Point"}
+}

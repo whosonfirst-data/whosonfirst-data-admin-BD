@@ -1,0 +1,69 @@
+{
+  "id": 1209645295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.28512,22.92163,90.28512,22.92163",
+    "geom:latitude":22.92163,
+    "geom:longitude":90.28512,
+    "gn:admin1_code":"85",
+    "gn:admin2_code":"1006.0",
+    "gn:admin3_code":"100632.0",
+    "gn:admin4_code":"10063294.0",
+    "gn:asciiname":"Betgarbila",
+    "gn:country_code":"BD",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1209480,
+    "gn:latitude":22.92163,
+    "gn:longitude":90.28512,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Betgarbila",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Betgarbha",
+        "Betgarbila"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1209480,
+        "wk:page":"Betgarbha"
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"da6258f03478dcf75efef979e4b7cf0f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209645295
+        }
+    ],
+    "wof:id":1209645295,
+    "wof:lastmodified":1537586146,
+    "wof:name":"Betgarbila",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.28512,
+    22.92163,
+    90.28512,
+    22.92163
+],
+  "geometry": {"coordinates":[90.28512000000001,22.92163],"type":"Point"}
+}

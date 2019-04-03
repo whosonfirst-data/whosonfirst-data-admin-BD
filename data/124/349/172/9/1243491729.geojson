@@ -1,0 +1,73 @@
+{
+  "id": 1243491729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.03905,23.94788,89.03905,23.94788",
+    "geom:latitude":23.94788,
+    "geom:longitude":89.03905,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4050.0",
+    "gn:admin3_code":"405094.0",
+    "gn:admin4_code":"40509429.0",
+    "gn:asciiname":"Amkathalia",
+    "gn:country_code":"BD",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1212825,
+    "gn:latitude":23.94788,
+    "gn:longitude":89.03905,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"\u0100mk\u0101thalia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "\u0100mk\u0101thalia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        890438075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1212825
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"4d6ecaa130b53240280e419235e1531a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":890438075,
+            "locality_id":1243491729,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1243491729,
+    "wof:lastmodified":1537586203,
+    "wof:name":"Amkathalia",
+    "wof:parent_id":890438075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.03905,
+    23.94788,
+    89.03905,
+    23.94788
+],
+  "geometry": {"coordinates":[89.03905,23.94788],"type":"Point"}
+}

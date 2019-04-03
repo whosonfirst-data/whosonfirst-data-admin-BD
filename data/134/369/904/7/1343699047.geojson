@@ -1,0 +1,74 @@
+{
+  "id": 1343699047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.1,23.96667,89.1,23.96667",
+    "geom:latitude":23.96667,
+    "geom:longitude":89.1,
+    "gn:admin1_code":"83",
+    "gn:admin2_code":"5076.0",
+    "gn:admin3_code":"507639.0",
+    "gn:admin4_code":"50763931.0",
+    "gn:asciiname":"Char Talbaria",
+    "gn:cc2":"BD",
+    "gn:country_code":"BD",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1206429,
+    "gn:latitude":23.96667,
+    "gn:longitude":89.1,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Char T\u0101lb\u0101ria",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Digrir Char Talbaria"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669031,
+        421197541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1206429
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"19815d93caa8669ddfa293b7a1d3059f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421197541,
+            "locality_id":1343699047,
+            "region_id":85669031
+        }
+    ],
+    "wof:id":1343699047,
+    "wof:lastmodified":1537586093,
+    "wof:name":"Char Talbaria",
+    "wof:parent_id":421197541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.1,
+    23.96667,
+    89.1,
+    23.96667
+],
+  "geometry": {"coordinates":[89.09999999999999,23.96667],"type":"Point"}
+}

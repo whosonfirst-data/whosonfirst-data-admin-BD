@@ -1,0 +1,73 @@
+{
+  "id": 1343594677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.32371,25.28944,89.32371,25.28944",
+    "geom:latitude":25.28944,
+    "geom:longitude":89.32371,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5532",
+    "gn:admin3_code":"553267.0",
+    "gn:admin4_code":"55326747.0",
+    "gn:asciiname":"Luqmanpur",
+    "gn:country_code":"BD",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7895535,
+    "gn:latitude":25.28944,
+    "gn:longitude":89.32371,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Luqmanpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Luqmanpur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7895535
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"1e7fe5d53f1727db466cfbcd03fd2114",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694675,
+            "locality_id":1343594677,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1343594677,
+    "wof:lastmodified":1537586764,
+    "wof:name":"Luqmanpur",
+    "wof:parent_id":1108694675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.32370999999998,
+    25.28944,
+    89.32370999999998,
+    25.28944
+],
+  "geometry": {"coordinates":[89.32370999999998,25.28944],"type":"Point"}
+}

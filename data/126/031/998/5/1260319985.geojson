@@ -1,0 +1,74 @@
+{
+  "id": 1260319985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.67669,24.74274,90.67669,24.74274",
+    "geom:latitude":24.74274,
+    "geom:longitude":90.67669,
+    "gn:admin1_code":"H",
+    "gn:admin2_code":"3061",
+    "gn:admin3_code":"306123.0",
+    "gn:admin4_code":"30612381.0",
+    "gn:asciiname":"Souampur",
+    "gn:country_code":"BD",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1187564,
+    "gn:latitude":24.74274,
+    "gn:longitude":90.67669,
+    "gn:modification_date":"2016-11-17",
+    "gn:name":"Sou\u0101mpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sou\u0101mpur",
+        "Son\u0101mpur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        1108803101,
+        421185469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1187564
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"8e9746ef9473e3f8c7e91c500dc422bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421185469,
+            "locality_id":1260319985,
+            "region_id":1108803101
+        }
+    ],
+    "wof:id":1260319985,
+    "wof:lastmodified":1537585741,
+    "wof:name":"Souampur",
+    "wof:parent_id":421185469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.67669,
+    24.74274,
+    90.67669,
+    24.74274
+],
+  "geometry": {"coordinates":[90.67668999999999,24.74274],"type":"Point"}
+}

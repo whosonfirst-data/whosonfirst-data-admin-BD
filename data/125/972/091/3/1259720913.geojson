@@ -1,0 +1,67 @@
+{
+  "id": 1259720913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.17148,25.23434,89.17148,25.23434",
+    "geom:latitude":25.23434,
+    "geom:longitude":89.17148,
+    "gn:admin1_code":"87",
+    "gn:asciiname":"Bingalu",
+    "gn:country_code":"BD",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7888622,
+    "gn:latitude":25.23434,
+    "gn:longitude":89.17148,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Bingalu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669031,
+        1108694681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7888622
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"82325345a6d73b707fd62b8dec6106b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694681,
+            "locality_id":1259720913,
+            "region_id":85669031
+        }
+    ],
+    "wof:id":1259720913,
+    "wof:lastmodified":1537012312,
+    "wof:name":"Bingalu",
+    "wof:parent_id":1108694681,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.17148,
+    25.23434,
+    89.17148,
+    25.23434
+],
+  "geometry": {"coordinates":[89.17148,25.23434],"type":"Point"}
+}

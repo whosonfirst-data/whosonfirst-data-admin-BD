@@ -1,0 +1,70 @@
+{
+  "id": 1293913527,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.22216,23.94687,90.22216,23.94687",
+    "geom:latitude":23.94687,
+    "geom:longitude":90.22216,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3026.0",
+    "gn:admin3_code":"302614.0",
+    "gn:admin4_code":"30261423.0",
+    "gn:asciiname":"Hijalatia",
+    "gn:country_code":"BD",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1201074,
+    "gn:latitude":23.94687,
+    "gn:longitude":90.22216,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Hijal\u0101tia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421187803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1201074
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"44c1b72671f503378004e26320d525a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421187803,
+            "locality_id":1293913527,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1293913527,
+    "wof:lastmodified":1536670134,
+    "wof:name":"Hijalatia",
+    "wof:parent_id":421187803,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.22216,
+    23.94687,
+    90.22216,
+    23.94687
+],
+  "geometry": {"coordinates":[90.22216,23.94687],"type":"Point"}
+}

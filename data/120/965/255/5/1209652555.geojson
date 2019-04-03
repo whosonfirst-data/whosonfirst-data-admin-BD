@@ -1,0 +1,64 @@
+{
+  "id": 1209652555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.503,23.2127,89.503,23.2127",
+    "geom:latitude":23.2127,
+    "geom:longitude":89.503,
+    "gn:admin1_code":"81",
+    "gn:asciiname":"Tujardanga",
+    "gn:country_code":"BD",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7480280,
+    "gn:latitude":23.2127,
+    "gn:longitude":89.503,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Tuj\u0101rd\u0101nga",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Tuj\u0101rd\u0101nga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7480280
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"62e930cec634e769f0f7dcb496dc00b2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209652555
+        }
+    ],
+    "wof:id":1209652555,
+    "wof:lastmodified":1537586445,
+    "wof:name":"Tujardanga",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.50299999999999,
+    23.2127,
+    89.50299999999999,
+    23.2127
+],
+  "geometry": {"coordinates":[89.50299999999999,23.2127],"type":"Point"}
+}

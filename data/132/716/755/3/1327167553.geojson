@@ -1,0 +1,73 @@
+{
+  "id": 1327167553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.18959,21.88757,90.18959,21.88757",
+    "geom:latitude":21.88757,
+    "geom:longitude":90.18959,
+    "gn:admin1_code":"85",
+    "gn:admin2_code":"1078.0",
+    "gn:admin3_code":"107866.0",
+    "gn:admin4_code":"10786623.0",
+    "gn:asciiname":"Kechhaupara",
+    "gn:country_code":"BD",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7477890,
+    "gn:latitude":21.88757,
+    "gn:longitude":90.18959,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Kechhaup\u0101ra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Kechhaup\u0101ra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669019,
+        421169845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7477890
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"492366947b7b707cdfa9f07bf9ef3873",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421169845,
+            "locality_id":1327167553,
+            "region_id":85669019
+        }
+    ],
+    "wof:id":1327167553,
+    "wof:lastmodified":1537586378,
+    "wof:name":"Kechhaupara",
+    "wof:parent_id":421169845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.18959,
+    21.88757,
+    90.18959,
+    21.88757
+],
+  "geometry": {"coordinates":[90.18959,21.88757],"type":"Point"}
+}

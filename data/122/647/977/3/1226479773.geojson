@@ -1,0 +1,76 @@
+{
+  "id": 1226479773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.02228,23.74195,89.02228,23.74195",
+    "geom:latitude":23.74195,
+    "geom:longitude":89.02228,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4050",
+    "gn:admin3_code":"405079.0",
+    "gn:admin4_code":"40507931.0",
+    "gn:asciiname":"Shankardia",
+    "gn:country_code":"BD",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1188178,
+    "gn:latitude":23.74195,
+    "gn:longitude":89.02228,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Shankardia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Shankardia"
+    ],
+    "name:und_x_variant":[
+        "Sankardia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        890438075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1188178
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"5f23d4e107e7375ac26cb9018daae28c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":890438075,
+            "locality_id":1226479773,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1226479773,
+    "wof:lastmodified":1537585755,
+    "wof:name":"Shankardia",
+    "wof:parent_id":890438075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.02228000000002,
+    23.74195,
+    89.02228000000002,
+    23.74195
+],
+  "geometry": {"coordinates":[89.02228000000002,23.74195],"type":"Point"}
+}

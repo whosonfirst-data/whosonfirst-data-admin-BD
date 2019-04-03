@@ -1,0 +1,73 @@
+{
+  "id": 1225881923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.67391,26.00428,89.67391,26.00428",
+    "geom:latitude":26.00428,
+    "geom:longitude":89.67391,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5549",
+    "gn:admin3_code":"554961.0",
+    "gn:admin4_code":"55496194.0",
+    "gn:asciiname":"Nilur Khamar",
+    "gn:country_code":"BD",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8537896,
+    "gn:latitude":26.00428,
+    "gn:longitude":89.67391,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Nilur Khamar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Nilur Khamar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8537896
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"cd85cea5e2265e93bbd0f1db1013c13f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694685,
+            "locality_id":1225881923,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1225881923,
+    "wof:lastmodified":1537586873,
+    "wof:name":"Nilur Khamar",
+    "wof:parent_id":1108694685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.67390999999998,
+    26.00428,
+    89.67390999999998,
+    26.00428
+],
+  "geometry": {"coordinates":[89.67390999999998,26.00428],"type":"Point"}
+}

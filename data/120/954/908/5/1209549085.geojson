@@ -1,0 +1,67 @@
+{
+  "id": 1209549085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.84541,23.30169,88.84541,23.30169",
+    "geom:latitude":23.30169,
+    "geom:longitude":88.84541,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4044.0",
+    "gn:admin3_code":"404471.0",
+    "gn:admin4_code":"40447111.0",
+    "gn:asciiname":"Dumurtala",
+    "gn:country_code":"BD",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1203713,
+    "gn:latitude":23.30169,
+    "gn:longitude":88.84541,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Dumurtala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Dumurtala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1203713
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"300f4471cf6dc221632308c22625272d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209549085
+        }
+    ],
+    "wof:id":1209549085,
+    "wof:lastmodified":1537586046,
+    "wof:name":"Dumurtala",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.84541,
+    23.30169,
+    88.84541,
+    23.30169
+],
+  "geometry": {"coordinates":[88.84541,23.30169],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1226073553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.0038,23.90903,89.0038,23.90903",
+    "geom:latitude":23.90903,
+    "geom:longitude":89.0038,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4050",
+    "gn:admin3_code":"405094.0",
+    "gn:admin4_code":"40509473.0",
+    "gn:asciiname":"Kamirhat",
+    "gn:country_code":"BD",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1198780,
+    "gn:latitude":23.90903,
+    "gn:longitude":89.0038,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"K\u0101mirh\u0101t",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        890438075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1198780
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"2bce93b9d7c6f20a5a9efa529e00b382",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":890438075,
+            "locality_id":1226073553,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1226073553,
+    "wof:lastmodified":1536685241,
+    "wof:name":"Kamirhat",
+    "wof:parent_id":890438075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.0038,
+    23.90903,
+    89.0038,
+    23.90903
+],
+  "geometry": {"coordinates":[89.0038,23.90903],"type":"Point"}
+}

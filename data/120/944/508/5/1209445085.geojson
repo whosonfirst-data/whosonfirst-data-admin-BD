@@ -1,0 +1,68 @@
+{
+  "id": 1209445085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.34336,22.7442,90.34336,22.7442",
+    "geom:latitude":22.7442,
+    "geom:longitude":90.34336,
+    "gn:admin1_code":"85",
+    "gn:admin2_code":"1006.0",
+    "gn:admin3_code":"100651.0",
+    "gn:admin4_code":"10065169.0",
+    "gn:asciiname":"Billabari",
+    "gn:country_code":"BD",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1208554,
+    "gn:latitude":22.7442,
+    "gn:longitude":90.34336,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Billab\u0101ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Billab\u0101ri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1208554,
+        "wk:page":"Billabari"
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"63d7327e1a6d45ee5bce9b983e9080d6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209445085
+        }
+    ],
+    "wof:id":1209445085,
+    "wof:lastmodified":1537586131,
+    "wof:name":"Billabari",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.34336,
+    22.7442,
+    90.34336,
+    22.7442
+],
+  "geometry": {"coordinates":[90.34336,22.7442],"type":"Point"}
+}

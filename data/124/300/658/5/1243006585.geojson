@@ -1,0 +1,74 @@
+{
+  "id": 1243006585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.97763,24.35602,90.97763,24.35602",
+    "geom:latitude":24.35602,
+    "geom:longitude":90.97763,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3048.0",
+    "gn:admin3_code":"304876.0",
+    "gn:admin4_code":"30487609.0",
+    "gn:asciiname":"Bhabuira Gazipur",
+    "gn:country_code":"BD",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1212194,
+    "gn:latitude":24.35602,
+    "gn:longitude":90.97763,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Bhabuira G\u0101zipur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bhabuira G\u0101zipur",
+        "B\u0101baria G\u0101zipur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421170483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1212194
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"1737adeab9dc1bd5121ccaa6ab1e683c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421170483,
+            "locality_id":1243006585,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1243006585,
+    "wof:lastmodified":1537586191,
+    "wof:name":"Bhabuira Gazipur",
+    "wof:parent_id":421170483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.97763,
+    24.35602,
+    90.97763,
+    24.35602
+],
+  "geometry": {"coordinates":[90.97763,24.35602],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1276904919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.71144,23.46725,89.71144,23.46725",
+    "geom:latitude":23.46725,
+    "geom:longitude":89.71144,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3029",
+    "gn:admin3_code":"302918.0",
+    "gn:admin4_code":"30291830.0",
+    "gn:asciiname":"West Bhatdi",
+    "gn:country_code":"BD",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1185411,
+    "gn:latitude":23.46725,
+    "gn:longitude":89.71144,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"West Bh\u0101tdi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Paschim Bhatdi",
+        "Pashim Bhatdi",
+        "West Bh\u0101tdi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421198063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1185411
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"1f52a853779db5fb997979531196b899",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421198063,
+            "locality_id":1276904919,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1276904919,
+    "wof:lastmodified":1537585700,
+    "wof:name":"West Bhatdi",
+    "wof:parent_id":421198063,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.71144,
+    23.46725,
+    89.71144,
+    23.46725
+],
+  "geometry": {"coordinates":[89.71144,23.46725],"type":"Point"}
+}

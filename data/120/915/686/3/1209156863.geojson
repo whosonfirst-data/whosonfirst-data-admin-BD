@@ -1,0 +1,67 @@
+{
+  "id": 1209156863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.93621,21.5423,91.93621,21.5423",
+    "geom:latitude":21.5423,
+    "geom:longitude":91.93621,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2022.0",
+    "gn:admin3_code":"202249.0",
+    "gn:admin4_code":"20224911.0",
+    "gn:asciiname":"Murapara",
+    "gn:country_code":"BD",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6416158,
+    "gn:latitude":21.5423,
+    "gn:longitude":91.93621,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Mur\u0101p\u0101ra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Mur\u0101p\u0101ra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6416158
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"bb5aa1d39d0310f5d2a59a94957dee15",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209156863
+        }
+    ],
+    "wof:id":1209156863,
+    "wof:lastmodified":1537586258,
+    "wof:name":"Murapara",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.93621,
+    21.5423,
+    91.93621,
+    21.5423
+],
+  "geometry": {"coordinates":[91.93621,21.5423],"type":"Point"}
+}

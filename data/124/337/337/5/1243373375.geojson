@@ -1,0 +1,72 @@
+{
+  "id": 1243373375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"92.26667,24.9,92.26667,24.9",
+    "geom:latitude":24.9,
+    "geom:longitude":92.26667,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Panjipuri",
+    "gn:cc2":"BD",
+    "gn:country_code":"BD",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1192559,
+    "gn:latitude":24.9,
+    "gn:longitude":92.26667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"P\u0101njipuri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Punjipuri",
+        "P\u0101njipuri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632469,
+        85672181,
+        1108696053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1192559
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"bbe08817f73001474e39bb24f4a7c13e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108696053,
+            "locality_id":1243373375,
+            "region_id":85672181
+        }
+    ],
+    "wof:id":1243373375,
+    "wof:lastmodified":1537585837,
+    "wof:name":"Panjipuri",
+    "wof:parent_id":1108696053,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    92.26667,
+    24.9,
+    92.26667,
+    24.9
+],
+  "geometry": {"coordinates":[92.26667,24.9],"type":"Point"}
+}

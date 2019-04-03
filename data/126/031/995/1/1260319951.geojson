@@ -1,0 +1,73 @@
+{
+  "id": 1260319951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.1166,25.46954,89.1166,25.46954",
+    "geom:latitude":25.46954,
+    "geom:longitude":89.1166,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5585",
+    "gn:admin3_code":"558558.0",
+    "gn:admin4_code":"55855872.0",
+    "gn:asciiname":"Khalibari",
+    "gn:country_code":"BD",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8064645,
+    "gn:latitude":25.46954,
+    "gn:longitude":89.1166,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Khalibari",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Khalibari"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8064645
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"33b0cb66e2aa22648cacbc5f8f7c7dd5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694701,
+            "locality_id":1260319951,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1260319951,
+    "wof:lastmodified":1537586843,
+    "wof:name":"Khalibari",
+    "wof:parent_id":1108694701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.1166,
+    25.46954,
+    89.1166,
+    25.46954
+],
+  "geometry": {"coordinates":[89.11660000000001,25.46954],"type":"Point"}
+}

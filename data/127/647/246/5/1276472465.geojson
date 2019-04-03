@@ -1,0 +1,70 @@
+{
+  "id": 1276472465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.4539,22.44276,90.4539,22.44276",
+    "geom:latitude":22.44276,
+    "geom:longitude":90.4539,
+    "gn:admin1_code":"82",
+    "gn:asciiname":"Pangaria",
+    "gn:country_code":"BD",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7476961,
+    "gn:latitude":22.44276,
+    "gn:longitude":90.4539,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"P\u0101ng\u0101ria",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "P\u0101ng\u0101ria"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669019,
+        421169845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7476961
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"65685f0be796169dca8e2823ca068fe7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421169845,
+            "locality_id":1276472465,
+            "region_id":85669019
+        }
+    ],
+    "wof:id":1276472465,
+    "wof:lastmodified":1537586358,
+    "wof:name":"Pangaria",
+    "wof:parent_id":421169845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.4539,
+    22.44276,
+    90.4539,
+    22.44276
+],
+  "geometry": {"coordinates":[90.4539,22.44276],"type":"Point"}
+}

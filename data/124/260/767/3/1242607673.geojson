@@ -1,0 +1,70 @@
+{
+  "id": 1242607673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.80808,24.87573,90.80808,24.87573",
+    "geom:latitude":24.87573,
+    "geom:longitude":90.80808,
+    "gn:admin1_code":"H",
+    "gn:admin2_code":"3072.0",
+    "gn:admin3_code":"307274.0",
+    "gn:admin4_code":"30727407.0",
+    "gn:asciiname":"Amtala",
+    "gn:country_code":"BD",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1212783,
+    "gn:latitude":24.87573,
+    "gn:longitude":90.80808,
+    "gn:modification_date":"2016-11-17",
+    "gn:name":"\u0100mtala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        1108803101,
+        421200811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1212783
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"143750b77487b3b9caf2b3a742701401",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421200811,
+            "locality_id":1242607673,
+            "region_id":1108803101
+        }
+    ],
+    "wof:id":1242607673,
+    "wof:lastmodified":1537019588,
+    "wof:name":"Amtala",
+    "wof:parent_id":421200811,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.80808,
+    24.87573,
+    90.80808,
+    24.87573
+],
+  "geometry": {"coordinates":[90.80808,24.87573],"type":"Point"}
+}

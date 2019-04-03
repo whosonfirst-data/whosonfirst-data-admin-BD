@@ -1,0 +1,74 @@
+{
+  "id": 1260222627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.92297,22.95367,90.92297,22.95367",
+    "geom:latitude":22.95367,
+    "geom:longitude":90.92297,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2051",
+    "gn:admin3_code":"205143.0",
+    "gn:admin4_code":"20514340.0",
+    "gn:asciiname":"Paschim Aladadpur",
+    "gn:country_code":"BD",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1185434,
+    "gn:latitude":22.95367,
+    "gn:longitude":90.92297,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Paschim Al\u0101d\u0101dpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Paschim Al\u0101d\u0101dpur",
+        "West \u0100l\u0101d\u0101dpur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421166521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1185434
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"7bd449692b0d0a2c5c08e497883e216d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421166521,
+            "locality_id":1260222627,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1260222627,
+    "wof:lastmodified":1537585701,
+    "wof:name":"Paschim Aladadpur",
+    "wof:parent_id":421166521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.92297,
+    22.95367,
+    90.92297,
+    22.95367
+],
+  "geometry": {"coordinates":[90.92297000000001,22.95367],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1193051471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.39933,25.14599,89.39933,25.14599",
+    "geom:latitude":25.14599,
+    "geom:longitude":89.39933,
+    "gn:admin1_code":"83",
+    "gn:asciiname":"Bara Satail Batail",
+    "gn:country_code":"BD",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7891050,
+    "gn:latitude":25.14599,
+    "gn:longitude":89.39933,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Bara S\u0101tail B\u0101tail",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Bara S\u0101tail B\u0101tail"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7891050
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"7b12f5ab5329646398bcd4968bdef026",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694675,
+            "locality_id":1193051471,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1193051471,
+    "wof:lastmodified":1537586750,
+    "wof:name":"Bara Satail Batail",
+    "wof:parent_id":1108694675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.39933,
+    25.14599,
+    89.39933,
+    25.14599
+],
+  "geometry": {"coordinates":[89.39933000000001,25.14599],"type":"Point"}
+}

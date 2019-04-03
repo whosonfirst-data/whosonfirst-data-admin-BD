@@ -1,0 +1,76 @@
+{
+  "id": 1309745465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.96457,24.47471,88.96457,24.47471",
+    "geom:latitude":24.47471,
+    "geom:longitude":88.96457,
+    "gn:admin1_code":"83",
+    "gn:admin2_code":"5069.0",
+    "gn:admin3_code":"506963.0",
+    "gn:admin4_code":"50696314.0",
+    "gn:asciiname":"Basudebpur",
+    "gn:country_code":"BD",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1209917,
+    "gn:latitude":24.47471,
+    "gn:longitude":88.96457,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"B\u0101sudebpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "B\u0101sudebpur"
+    ],
+    "name:und_x_variant":[
+        "Basudepur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669031,
+        421182115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1209917
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"f27ba88b971f630696bfd7c443ef3585",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421182115,
+            "locality_id":1309745465,
+            "region_id":85669031
+        }
+    ],
+    "wof:id":1309745465,
+    "wof:lastmodified":1537586154,
+    "wof:name":"Basudebpur",
+    "wof:parent_id":421182115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.96457,
+    24.47471,
+    88.96457,
+    24.47471
+],
+  "geometry": {"coordinates":[88.96456999999999,24.47471],"type":"Point"}
+}

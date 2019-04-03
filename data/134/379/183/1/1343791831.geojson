@@ -1,0 +1,70 @@
+{
+  "id": 1343791831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.56019,22.24256,90.56019,22.24256",
+    "geom:latitude":22.24256,
+    "geom:longitude":90.56019,
+    "gn:admin1_code":"82",
+    "gn:asciiname":"Lakshmipur Arazi",
+    "gn:country_code":"BD",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7478312,
+    "gn:latitude":22.24256,
+    "gn:longitude":90.56019,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"Lakshmipur Ar\u0101zi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Lakshmipur Ar\u0101zi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669019,
+        421169845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7478312
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"279133058c659a1cbc4f69a8f5d7869c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421169845,
+            "locality_id":1343791831,
+            "region_id":85669019
+        }
+    ],
+    "wof:id":1343791831,
+    "wof:lastmodified":1537586388,
+    "wof:name":"Lakshmipur Arazi",
+    "wof:parent_id":421169845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.56019,
+    22.24256,
+    90.56019,
+    22.24256
+],
+  "geometry": {"coordinates":[90.56019000000001,22.24256],"type":"Point"}
+}

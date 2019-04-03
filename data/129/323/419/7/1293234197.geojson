@@ -1,0 +1,73 @@
+{
+  "id": 1293234197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.97204,22.28495,90.97204,22.28495",
+    "geom:latitude":22.28495,
+    "geom:longitude":90.97204,
+    "gn:admin1_code":"85",
+    "gn:admin2_code":"1009.0",
+    "gn:admin3_code":"100965.0",
+    "gn:admin4_code":"10096523.0",
+    "gn:asciiname":"Sonar Char",
+    "gn:country_code":"BD",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7478541,
+    "gn:latitude":22.28495,
+    "gn:longitude":90.97204,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Son\u0101r Char",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Son\u0101r Char"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669019,
+        421184491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7478541
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"c9ec032a3e9e118bd9a7a267e7225fc2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421184491,
+            "locality_id":1293234197,
+            "region_id":85669019
+        }
+    ],
+    "wof:id":1293234197,
+    "wof:lastmodified":1537586394,
+    "wof:name":"Sonar Char",
+    "wof:parent_id":421184491,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.97204,
+    22.28495,
+    90.97204,
+    22.28495
+],
+  "geometry": {"coordinates":[90.97204000000001,22.28495],"type":"Point"}
+}

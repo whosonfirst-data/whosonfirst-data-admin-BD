@@ -1,0 +1,76 @@
+{
+  "id": 1293526765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.53986,24.38798,88.53986,24.38798",
+    "geom:latitude":24.38798,
+    "geom:longitude":88.53986,
+    "gn:admin1_code":"83",
+    "gn:admin2_code":"5081",
+    "gn:admin3_code":"508172.0",
+    "gn:admin4_code":"50817231.0",
+    "gn:asciiname":"Kashiadanga",
+    "gn:country_code":"BD",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1198300,
+    "gn:latitude":24.38798,
+    "gn:longitude":88.53986,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"K\u0101shiad\u0101nga",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "K\u0101shiad\u0101nga"
+    ],
+    "name:ben_x_variant":[
+        "K\u0101siad\u0101nga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669031,
+        421172439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1198300
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"177cdf3326dc42dcabf6c7a5bb9b5a07",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421172439,
+            "locality_id":1293526765,
+            "region_id":85669031
+        }
+    ],
+    "wof:id":1293526765,
+    "wof:lastmodified":1537585942,
+    "wof:name":"Kashiadanga",
+    "wof:parent_id":421172439,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.53986,
+    24.38798,
+    88.53986,
+    24.38798
+],
+  "geometry": {"coordinates":[88.53986,24.38798],"type":"Point"}
+}

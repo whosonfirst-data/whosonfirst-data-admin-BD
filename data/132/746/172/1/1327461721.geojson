@@ -1,0 +1,70 @@
+{
+  "id": 1327461721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.52993,24.32929,90.52993,24.32929",
+    "geom:latitude":24.32929,
+    "geom:longitude":90.52993,
+    "gn:admin1_code":"H",
+    "gn:admin2_code":"3061.0",
+    "gn:admin3_code":"306122.0",
+    "gn:admin4_code":"30612256.0",
+    "gn:asciiname":"Deilpara",
+    "gn:country_code":"BD",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1204725,
+    "gn:latitude":24.32929,
+    "gn:longitude":90.52993,
+    "gn:modification_date":"2016-11-17",
+    "gn:name":"Deilp\u0101ra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        1108803101,
+        421185469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1204725
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"3aee2f596e8267b1535cc84a6ccc0d24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421185469,
+            "locality_id":1327461721,
+            "region_id":1108803101
+        }
+    ],
+    "wof:id":1327461721,
+    "wof:lastmodified":1536637443,
+    "wof:name":"Deilpara",
+    "wof:parent_id":421185469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.52993,
+    24.32929,
+    90.52993,
+    24.32929
+],
+  "geometry": {"coordinates":[90.52992999999999,24.32929],"type":"Point"}
+}

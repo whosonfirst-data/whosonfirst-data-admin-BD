@@ -1,0 +1,74 @@
+{
+  "id": 1260320055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.52732,24.16772,91.52732,24.16772",
+    "geom:latitude":24.16772,
+    "geom:longitude":91.52732,
+    "gn:admin1_code":"86",
+    "gn:admin2_code":"6036",
+    "gn:admin3_code":"603626.0",
+    "gn:admin4_code":"60362628.0",
+    "gn:asciiname":"Mainabad",
+    "gn:country_code":"BD",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1195401,
+    "gn:latitude":24.16772,
+    "gn:longitude":91.52732,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Main\u0101bad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Maynab\u0101d",
+        "Main\u0101bad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669025,
+        421176045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1195401
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"a9b645b84f27b8e09b23e21650af3b1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421176045,
+            "locality_id":1260320055,
+            "region_id":85669025
+        }
+    ],
+    "wof:id":1260320055,
+    "wof:lastmodified":1537585886,
+    "wof:name":"Mainabad",
+    "wof:parent_id":421176045,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.52732,
+    24.16772000000001,
+    91.52732,
+    24.16772000000001
+],
+  "geometry": {"coordinates":[91.52732,24.16772000000001],"type":"Point"}
+}

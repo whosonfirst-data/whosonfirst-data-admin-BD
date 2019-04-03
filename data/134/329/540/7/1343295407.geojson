@@ -1,0 +1,70 @@
+{
+  "id": 1343295407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.18483,23.98571,90.18483,23.98571",
+    "geom:latitude":23.98571,
+    "geom:longitude":90.18483,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3026",
+    "gn:admin3_code":"302614.0",
+    "gn:admin4_code":"30261423.0",
+    "gn:asciiname":"Maramdali",
+    "gn:country_code":"BD",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1194834,
+    "gn:latitude":23.98571,
+    "gn:longitude":90.18483,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"M\u0101ramd\u0101li",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421187803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1194834
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"960eed44c7f46dda211ea7b38e9606b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421187803,
+            "locality_id":1343295407,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1343295407,
+    "wof:lastmodified":1536983736,
+    "wof:name":"Maramdali",
+    "wof:parent_id":421187803,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.18483,
+    23.98571,
+    90.18483,
+    23.98571
+],
+  "geometry": {"coordinates":[90.18483000000001,23.98571],"type":"Point"}
+}

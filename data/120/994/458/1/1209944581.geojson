@@ -1,0 +1,75 @@
+{
+  "id": 1209944581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.76746,24.65247,90.76746,24.65247",
+    "geom:latitude":24.65247,
+    "geom:longitude":90.76746,
+    "gn:admin1_code":"H",
+    "gn:admin2_code":"3072",
+    "gn:admin3_code":"307247.0",
+    "gn:admin4_code":"30724794.0",
+    "gn:asciiname":"Peri Saidpur",
+    "gn:country_code":"BD",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1191231,
+    "gn:latitude":24.65247,
+    "gn:longitude":90.76746,
+    "gn:modification_date":"2016-11-17",
+    "gn:name":"Peri S\u0101idpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Peri Syedpur",
+        "Peri S\u0101idpur",
+        "Peri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        1108803101,
+        421200811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1191231
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"36f9393412c9adbd05d40640e029ea3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421200811,
+            "locality_id":1209944581,
+            "region_id":1108803101
+        }
+    ],
+    "wof:id":1209944581,
+    "wof:lastmodified":1537585811,
+    "wof:name":"Peri Saidpur",
+    "wof:parent_id":421200811,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.76746,
+    24.65247,
+    90.76746,
+    24.65247
+],
+  "geometry": {"coordinates":[90.76746,24.65247],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 421194137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.97521,22.57965,89.97521,22.57965",
+    "geom:latitude":22.57965,
+    "geom:longitude":89.97521,
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "Perijpur"
+    ],
+    "qs:gn_country":"BD",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":1185138,
+    "qs:gn_pop":54418,
+    "qs:name":"Pirojpur",
+    "qs:name_adm0":"Bangladesh",
+    "qs:name_adm1":"Barisal",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":22,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"8",
+    "qs:qs_id":970068,
+    "qs:woe_adm0":23424759,
+    "qs:woe_id":1915200,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669019,
+        421172031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1185138,
+        "gp:id":1915200,
+        "qs:id":970068
+    },
+    "wof:country":"BD",
+    "wof:created":1459009795,
+    "wof:geomhash":"b2bf4683e638ec696081f4012231fdec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421172031,
+            "locality_id":421194137,
+            "region_id":85669019
+        }
+    ],
+    "wof:id":421194137,
+    "wof:lastmodified":1505340739,
+    "wof:name":"Pirojpur",
+    "wof:parent_id":421172031,
+    "wof:placetype":"locality",
+    "wof:population":54418,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.97521,
+    22.57965,
+    89.97521,
+    22.57965
+],
+  "geometry": {"coordinates":[89.97521,22.57965],"type":"Point"}
+}

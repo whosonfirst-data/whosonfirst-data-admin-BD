@@ -1,0 +1,79 @@
+{
+  "id": 1327164323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.95286,24.56895,88.95286,24.56895",
+    "geom:latitude":24.56895,
+    "geom:longitude":88.95286,
+    "gn:admin1_code":"83",
+    "gn:admin2_code":"5081.0",
+    "gn:admin3_code":"508112.0",
+    "gn:admin4_code":"50811269.0",
+    "gn:asciiname":"Bongaon",
+    "gn:country_code":"BD",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1211010,
+    "gn:latitude":24.56895,
+    "gn:longitude":88.95286,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Bong\u0101on",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Bong\u0101on"
+    ],
+    "name:ben_x_variant":[
+        "Bangaon"
+    ],
+    "name:und_x_variant":[
+        "Bangan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669031,
+        421172439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1211010
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"ebb0d20d1d0fc719217636e5b8f34943",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421172439,
+            "locality_id":1327164323,
+            "region_id":85669031
+        }
+    ],
+    "wof:id":1327164323,
+    "wof:lastmodified":1537586171,
+    "wof:name":"Bongaon",
+    "wof:parent_id":421172439,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.95286,
+    24.56895,
+    88.95286,
+    24.56895
+],
+  "geometry": {"coordinates":[88.95286,24.56895],"type":"Point"}
+}

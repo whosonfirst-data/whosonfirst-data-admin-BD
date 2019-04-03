@@ -1,0 +1,74 @@
+{
+  "id": 1276268027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.70845,23.13743,90.70845,23.13743",
+    "geom:latitude":23.13743,
+    "geom:longitude":90.70845,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2013.0",
+    "gn:admin3_code":"201345.0",
+    "gn:admin4_code":"20134547.0",
+    "gn:asciiname":"Hasa",
+    "gn:country_code":"BD",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1201328,
+    "gn:latitude":23.13743,
+    "gn:longitude":90.70845,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"H\u0101sa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hasha",
+        "H\u0101sa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        1108694669
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1201328
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"13d525e39dd9d8bb9c89c44508d04f11",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694669,
+            "locality_id":1276268027,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1276268027,
+    "wof:lastmodified":1537585997,
+    "wof:name":"Hasa",
+    "wof:parent_id":1108694669,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.70845,
+    23.13743,
+    90.70845,
+    23.13743
+],
+  "geometry": {"coordinates":[90.70845,23.13743],"type":"Point"}
+}

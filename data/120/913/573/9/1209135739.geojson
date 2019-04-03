@@ -1,0 +1,68 @@
+{
+  "id": 1209135739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.84123,23.8191,89.84123,23.8191",
+    "geom:latitude":23.8191,
+    "geom:longitude":89.84123,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3056",
+    "gn:admin3_code":"305678.0",
+    "gn:admin4_code":"30567871.0",
+    "gn:asciiname":"Kashta Sagara",
+    "gn:country_code":"BD",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1198310,
+    "gn:latitude":23.8191,
+    "gn:longitude":89.84123,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"K\u0101shta S\u0101gara",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kasta Sagara",
+        "K\u0101shta S\u0101gara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1198310
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"aed0be3b708ea3c034516890c2e3fe74",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209135739
+        }
+    ],
+    "wof:id":1209135739,
+    "wof:lastmodified":1537585942,
+    "wof:name":"Kashta Sagara",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.84123000000002,
+    23.8191,
+    89.84123000000002,
+    23.8191
+],
+  "geometry": {"coordinates":[89.84123000000002,23.8191],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209557681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.5025,22.41806,91.5025,22.41806",
+    "geom:latitude":22.41806,
+    "geom:longitude":91.5025,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2015.0",
+    "gn:admin3_code":"201578.0",
+    "gn:admin4_code":"20157895.0",
+    "gn:asciiname":"Sarikait",
+    "gn:country_code":"BD",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6413885,
+    "gn:latitude":22.41806,
+    "gn:longitude":91.5025,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Sarikait",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6413885
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"97afe17b91d5a30b214071525ffa789e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209557681
+        }
+    ],
+    "wof:id":1209557681,
+    "wof:lastmodified":1536283498,
+    "wof:name":"Sarikait",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.5025,
+    22.41806,
+    91.5025,
+    22.41806
+],
+  "geometry": {"coordinates":[91.5025,22.41806],"type":"Point"}
+}

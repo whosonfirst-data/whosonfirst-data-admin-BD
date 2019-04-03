@@ -1,0 +1,73 @@
+{
+  "id": 1310338673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.31701,25.4747,89.31701,25.4747",
+    "geom:latitude":25.4747,
+    "geom:longitude":89.31701,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5585",
+    "gn:admin3_code":"558576.0",
+    "gn:admin4_code":"55857688.0",
+    "gn:asciiname":"Rayati Sadulanpur",
+    "gn:country_code":"BD",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7890822,
+    "gn:latitude":25.4747,
+    "gn:longitude":89.31701,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Rayati Sadulanpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Rayati Sadulanpur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7890822
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"a4a4918cee81c15c34708df23c6aed27",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694701,
+            "locality_id":1310338673,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1310338673,
+    "wof:lastmodified":1537586748,
+    "wof:name":"Rayati Sadulanpur",
+    "wof:parent_id":1108694701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.31701,
+    25.4747,
+    89.31701,
+    25.4747
+],
+  "geometry": {"coordinates":[89.31701,25.4747],"type":"Point"}
+}

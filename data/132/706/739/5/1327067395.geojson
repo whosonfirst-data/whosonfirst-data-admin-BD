@@ -1,0 +1,70 @@
+{
+  "id": 1327067395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.09341,22.55147,89.09341,22.55147",
+    "geom:latitude":22.55147,
+    "geom:longitude":89.09341,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4087",
+    "gn:admin3_code":"408704.0",
+    "gn:admin4_code":"40870486.0",
+    "gn:asciiname":"Kamalkati",
+    "gn:country_code":"BD",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1198906,
+    "gn:latitude":22.55147,
+    "gn:longitude":89.09341,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"K\u0101m\u0101lk\u0101ti",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        421201927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1198906
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"40b78aa32c5ea67201dfea2a00ad2bec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421201927,
+            "locality_id":1327067395,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1327067395,
+    "wof:lastmodified":1536710119,
+    "wof:name":"Kamalkati",
+    "wof:parent_id":421201927,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.09340999999998,
+    22.55147,
+    89.09340999999998,
+    22.55147
+],
+  "geometry": {"coordinates":[89.09340999999998,22.55147],"type":"Point"}
+}

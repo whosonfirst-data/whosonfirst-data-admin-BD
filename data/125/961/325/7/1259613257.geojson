@@ -1,0 +1,73 @@
+{
+  "id": 1259613257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.69198,23.79485,89.69198,23.79485",
+    "geom:latitude":23.79485,
+    "geom:longitude":89.69198,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3082.0",
+    "gn:admin3_code":"308276.0",
+    "gn:admin4_code":"30827651.0",
+    "gn:asciiname":"Ambaria",
+    "gn:country_code":"BD",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7480068,
+    "gn:latitude":23.79485,
+    "gn:longitude":89.69198,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"\u0100mb\u0101ria",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "\u0100mb\u0101ria"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        1108694699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7480068
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"a1308f0179f4681e219bd75a5f31b833",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694699,
+            "locality_id":1259613257,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1259613257,
+    "wof:lastmodified":1537586439,
+    "wof:name":"Ambaria",
+    "wof:parent_id":1108694699,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.69198,
+    23.79485,
+    89.69198,
+    23.79485
+],
+  "geometry": {"coordinates":[89.69198,23.79485],"type":"Point"}
+}

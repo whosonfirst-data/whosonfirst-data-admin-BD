@@ -1,0 +1,70 @@
+{
+  "id": 1259713797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.04896,23.68396,90.04896,23.68396",
+    "geom:latitude":23.68396,
+    "geom:longitude":90.04896,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3026",
+    "gn:admin3_code":"302662.0",
+    "gn:admin4_code":"30266261.0",
+    "gn:asciiname":"Panikaur",
+    "gn:country_code":"BD",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1192579,
+    "gn:latitude":23.68396,
+    "gn:longitude":90.04896,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"P\u0101nik\u0101ur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421187803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1192579
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"d990377459778f9788b28286aa743922",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421187803,
+            "locality_id":1259713797,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1259713797,
+    "wof:lastmodified":1537022530,
+    "wof:name":"Panikaur",
+    "wof:parent_id":421187803,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.04896,
+    23.68396,
+    90.04896,
+    23.68396
+],
+  "geometry": {"coordinates":[90.04895999999999,23.68396],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1209545423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.96746,24.88643,88.96746,24.88643",
+    "geom:latitude":24.88643,
+    "geom:longitude":88.96746,
+    "gn:admin1_code":"83",
+    "gn:admin2_code":"5064.0",
+    "gn:admin3_code":"506460.0",
+    "gn:admin4_code":"50646094.0",
+    "gn:asciiname":"Chak Abir",
+    "gn:country_code":"BD",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1207935,
+    "gn:latitude":24.88643,
+    "gn:longitude":88.96746,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Chak Abir",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Chak Abir"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1207935
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"2f60a8c977edbbc25c4a6f146b64aa53",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209545423
+        }
+    ],
+    "wof:id":1209545423,
+    "wof:lastmodified":1537586121,
+    "wof:name":"Chak Abir",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.96746,
+    24.88643,
+    88.96746,
+    24.88643
+],
+  "geometry": {"coordinates":[88.96746,24.88643],"type":"Point"}
+}

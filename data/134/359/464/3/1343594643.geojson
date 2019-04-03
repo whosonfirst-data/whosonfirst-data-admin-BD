@@ -1,0 +1,76 @@
+{
+  "id": 1343594643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.70285,24.91128,88.70285,24.91128",
+    "geom:latitude":24.91128,
+    "geom:longitude":88.70285,
+    "gn:admin1_code":"83",
+    "gn:admin2_code":"5064.0",
+    "gn:admin3_code":"506450.0",
+    "gn:admin4_code":"50645019.0",
+    "gn:asciiname":"Gourharia",
+    "gn:country_code":"BD",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1201840,
+    "gn:latitude":24.91128,
+    "gn:longitude":88.70285,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Gourharia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Gourharia"
+    ],
+    "name:ben_x_variant":[
+        "Gurh\u0101ria"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669031,
+        421191663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1201840
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"1be49dfb18e3ae3b0139eb88c4608e1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421191663,
+            "locality_id":1343594643,
+            "region_id":85669031
+        }
+    ],
+    "wof:id":1343594643,
+    "wof:lastmodified":1537586006,
+    "wof:name":"Gourharia",
+    "wof:parent_id":421191663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.70285,
+    24.91128,
+    88.70285,
+    24.91128
+],
+  "geometry": {"coordinates":[88.70285,24.91128],"type":"Point"}
+}

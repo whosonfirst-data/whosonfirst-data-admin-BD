@@ -1,0 +1,79 @@
+{
+  "id": 1343591107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.8886,25.58325,88.8886,25.58325",
+    "geom:latitude":25.58325,
+    "geom:longitude":88.8886,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5527.0",
+    "gn:admin3_code":"552777.0",
+    "gn:admin4_code":"55277725.0",
+    "gn:asciiname":"Ganeshyampur",
+    "gn:country_code":"BD",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1202665,
+    "gn:latitude":25.58325,
+    "gn:longitude":88.8886,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Ganeshyampur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Ganeshyampur"
+    ],
+    "name:ben_x_variant":[
+        "Ghanesy\u0101mpur"
+    ],
+    "name:und_x_variant":[
+        "Ganesyampur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1202665
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"776b2a82bdca40dec024d861031a44c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694671,
+            "locality_id":1343591107,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1343591107,
+    "wof:lastmodified":1537586020,
+    "wof:name":"Ganeshyampur",
+    "wof:parent_id":1108694671,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.8886,
+    25.58325,
+    88.8886,
+    25.58325
+],
+  "geometry": {"coordinates":[88.8886,25.58325],"type":"Point"}
+}

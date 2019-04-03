@@ -1,0 +1,76 @@
+{
+  "id": 1209949901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.20357,22.47383,89.20357,22.47383",
+    "geom:latitude":22.47383,
+    "geom:longitude":89.20357,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4087",
+    "gn:admin3_code":"408704.0",
+    "gn:admin4_code":"40870460.0",
+    "gn:asciiname":"Kapsanta",
+    "gn:country_code":"BD",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1198504,
+    "gn:latitude":22.47383,
+    "gn:longitude":89.20357,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"K\u0101psanta",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "K\u0101psanta"
+    ],
+    "name:und_x_variant":[
+        "K\u0101psanda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        421201927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1198504
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"72f681d77ee91d968c8f7b12f3419776",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421201927,
+            "locality_id":1209949901,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1209949901,
+    "wof:lastmodified":1537585946,
+    "wof:name":"Kapsanta",
+    "wof:parent_id":421201927,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.20357,
+    22.47383,
+    89.20357,
+    22.47383
+],
+  "geometry": {"coordinates":[89.20357,22.47383],"type":"Point"}
+}

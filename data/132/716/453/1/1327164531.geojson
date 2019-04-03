@@ -1,0 +1,76 @@
+{
+  "id": 1327164531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.93582,24.8077,88.93582,24.8077",
+    "geom:latitude":24.8077,
+    "geom:longitude":88.93582,
+    "gn:admin1_code":"83",
+    "gn:admin2_code":"5064.0",
+    "gn:admin3_code":"506460.0",
+    "gn:admin4_code":"50646000.0",
+    "gn:asciiname":"Chak Deb",
+    "gn:country_code":"BD",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1207842,
+    "gn:latitude":24.8077,
+    "gn:longitude":88.93582,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Chak Deb",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Chak Deb"
+    ],
+    "name:und_x_variant":[
+        "Chak Dev"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669031,
+        421191663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1207842
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"9c89dcb76ff4d30a98c890c4acf14e5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421191663,
+            "locality_id":1327164531,
+            "region_id":85669031
+        }
+    ],
+    "wof:id":1327164531,
+    "wof:lastmodified":1537586118,
+    "wof:name":"Chak Deb",
+    "wof:parent_id":421191663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.93581999999998,
+    24.8077,
+    88.93581999999998,
+    24.8077
+],
+  "geometry": {"coordinates":[88.93581999999998,24.8077],"type":"Point"}
+}

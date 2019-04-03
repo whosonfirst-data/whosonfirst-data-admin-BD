@@ -1,0 +1,73 @@
+{
+  "id": 1343394339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.20838,25.50691,89.20838,25.50691",
+    "geom:latitude":25.50691,
+    "geom:longitude":89.20838,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5585",
+    "gn:admin3_code":"558576.0",
+    "gn:admin4_code":"55857618.0",
+    "gn:asciiname":"Panthapukur",
+    "gn:country_code":"BD",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8064516,
+    "gn:latitude":25.50691,
+    "gn:longitude":89.20838,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Panthapukur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Panthapukur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8064516
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"1189d2ece79cf8d86c7d94df89f1c12c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694701,
+            "locality_id":1343394339,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1343394339,
+    "wof:lastmodified":1537586839,
+    "wof:name":"Panthapukur",
+    "wof:parent_id":1108694701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.20838,
+    25.50691,
+    89.20838,
+    25.50691
+],
+  "geometry": {"coordinates":[89.20838000000001,25.50691],"type":"Point"}
+}

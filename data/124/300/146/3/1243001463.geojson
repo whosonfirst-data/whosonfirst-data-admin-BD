@@ -1,0 +1,70 @@
+{
+  "id": 1243001463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.52533,22.56584,90.52533,22.56584",
+    "geom:latitude":22.56584,
+    "geom:longitude":90.52533,
+    "gn:admin1_code":"85",
+    "gn:admin2_code":"1006.0",
+    "gn:admin3_code":"100607.0",
+    "gn:admin4_code":"10060740.0",
+    "gn:asciiname":"Gobindapur",
+    "gn:country_code":"BD",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1202325,
+    "gn:latitude":22.56584,
+    "gn:longitude":90.52533,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Gobindapur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669019,
+        421187745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1202325
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"7486911cb43e0d8c12ceed60f4fa0e41",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421187745,
+            "locality_id":1243001463,
+            "region_id":85669019
+        }
+    ],
+    "wof:id":1243001463,
+    "wof:lastmodified":1536950492,
+    "wof:name":"Gobindapur",
+    "wof:parent_id":421187745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.52533,
+    22.56584,
+    90.52533,
+    22.56584
+],
+  "geometry": {"coordinates":[90.52533,22.56584],"type":"Point"}
+}

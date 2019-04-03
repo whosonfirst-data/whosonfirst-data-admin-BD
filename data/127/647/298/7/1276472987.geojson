@@ -1,0 +1,70 @@
+{
+  "id": 1276472987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.26322,22.70455,89.26322,22.70455",
+    "geom:latitude":22.70455,
+    "geom:longitude":89.26322,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4047",
+    "gn:admin3_code":"404764.0",
+    "gn:admin4_code":"40476444.0",
+    "gn:asciiname":"Uttar Deara",
+    "gn:country_code":"BD",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1185632,
+    "gn:latitude":22.70455,
+    "gn:longitude":89.26322,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Uttar De\u0101ra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        421201927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1185632
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"92835a6b7727c82546d35639d3746f26",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421201927,
+            "locality_id":1276472987,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1276472987,
+    "wof:lastmodified":1537085856,
+    "wof:name":"Uttar Deara",
+    "wof:parent_id":421201927,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.26321999999998,
+    22.70455,
+    89.26321999999998,
+    22.70455
+],
+  "geometry": {"coordinates":[89.26321999999998,22.70455],"type":"Point"}
+}

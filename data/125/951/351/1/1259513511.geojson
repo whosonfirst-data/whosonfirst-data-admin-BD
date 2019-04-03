@@ -1,0 +1,70 @@
+{
+  "id": 1259513511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.39208,24.84032,89.39208,24.84032",
+    "geom:latitude":24.84032,
+    "geom:longitude":89.39208,
+    "gn:admin1_code":"83",
+    "gn:admin2_code":"5010",
+    "gn:admin3_code":"501020.0",
+    "gn:admin4_code":"50102077.0",
+    "gn:asciiname":"Rabibaria",
+    "gn:country_code":"BD",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1190602,
+    "gn:latitude":24.84032,
+    "gn:longitude":89.39208,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Rabib\u0101ria",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669031,
+        421187793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1190602
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"f3dd8f83e15fab4f9d9d9a3f84b65a68",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421187793,
+            "locality_id":1259513511,
+            "region_id":85669031
+        }
+    ],
+    "wof:id":1259513511,
+    "wof:lastmodified":1536815063,
+    "wof:name":"Rabibaria",
+    "wof:parent_id":421187793,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.39208,
+    24.84032,
+    89.39208,
+    24.84032
+],
+  "geometry": {"coordinates":[89.39208000000001,24.84032],"type":"Point"}
+}

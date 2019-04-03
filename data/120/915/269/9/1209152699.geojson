@@ -1,0 +1,67 @@
+{
+  "id": 1209152699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"92.05601,22.74078,92.05601,22.74078",
+    "geom:latitude":22.74078,
+    "geom:longitude":92.05601,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2084.0",
+    "gn:admin3_code":"208475.0",
+    "gn:admin4_code":"20847538.0",
+    "gn:asciiname":"Takhachariduar",
+    "gn:country_code":"BD",
+    "gn:dem":50,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6415753,
+    "gn:latitude":22.74078,
+    "gn:longitude":92.05601,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Takhachar\u012bdu\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Takhachar\u012bdu\u0101r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6415753
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"b9919e1f43bd16d9f22f13b459e43de0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209152699
+        }
+    ],
+    "wof:id":1209152699,
+    "wof:lastmodified":1537586252,
+    "wof:name":"Takhachariduar",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    92.05601,
+    22.74078,
+    92.05601,
+    22.74078
+],
+  "geometry": {"coordinates":[92.05601,22.74078],"type":"Point"}
+}

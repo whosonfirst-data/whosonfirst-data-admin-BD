@@ -1,0 +1,64 @@
+{
+  "id": 1209135907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.35524,25.15255,89.35524,25.15255",
+    "geom:latitude":25.15255,
+    "geom:longitude":89.35524,
+    "gn:admin1_code":"83",
+    "gn:asciiname":"Rahimapur",
+    "gn:country_code":"BD",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7890375,
+    "gn:latitude":25.15255,
+    "gn:longitude":89.35524,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Rahim\u0101pur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Rahim\u0101pur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7890375
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"c645b69341878903d511d6e270967661",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209135907
+        }
+    ],
+    "wof:id":1209135907,
+    "wof:lastmodified":1537586744,
+    "wof:name":"Rahimapur",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.35524000000002,
+    25.15255,
+    89.35524000000002,
+    25.15255
+],
+  "geometry": {"coordinates":[89.35524000000002,25.15255],"type":"Point"}
+}

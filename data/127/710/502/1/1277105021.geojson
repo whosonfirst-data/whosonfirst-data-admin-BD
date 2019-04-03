@@ -1,0 +1,73 @@
+{
+  "id": 1277105021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.12452,25.55767,89.12452,25.55767",
+    "geom:latitude":25.55767,
+    "geom:longitude":89.12452,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5585",
+    "gn:admin3_code":"558558.0",
+    "gn:admin4_code":"55855811.0",
+    "gn:asciiname":"Gutibari",
+    "gn:country_code":"BD",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8064481,
+    "gn:latitude":25.55767,
+    "gn:longitude":89.12452,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Gutibari",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Gutibari"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8064481
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"bb5043f3972ce91aa77e3090ce4a3d82",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694701,
+            "locality_id":1277105021,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1277105021,
+    "wof:lastmodified":1537586838,
+    "wof:name":"Gutibari",
+    "wof:parent_id":1108694701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.12451999999998,
+    25.55767,
+    89.12451999999998,
+    25.55767
+],
+  "geometry": {"coordinates":[89.12451999999998,25.55767],"type":"Point"}
+}

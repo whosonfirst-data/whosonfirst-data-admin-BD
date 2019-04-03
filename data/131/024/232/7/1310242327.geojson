@@ -1,0 +1,73 @@
+{
+  "id": 1310242327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.17022,24.20168,90.17022,24.20168",
+    "geom:latitude":24.20168,
+    "geom:longitude":90.17022,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3093",
+    "gn:admin3_code":"309366.0",
+    "gn:admin4_code":"30936634.0",
+    "gn:asciiname":"Uttar Pekua",
+    "gn:country_code":"BD",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1191250,
+    "gn:latitude":24.20168,
+    "gn:longitude":90.17022,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Uttar Pekua",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pekua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421185471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1191250
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"37a100ea7318a07f199444f749752a94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421185471,
+            "locality_id":1310242327,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1310242327,
+    "wof:lastmodified":1537585811,
+    "wof:name":"Uttar Pekua",
+    "wof:parent_id":421185471,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.17022,
+    24.20168,
+    90.17022,
+    24.20168
+],
+  "geometry": {"coordinates":[90.17022,24.20168],"type":"Point"}
+}

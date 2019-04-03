@@ -1,0 +1,70 @@
+{
+  "id": 1193220417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.71667,23.43333,90.71667,23.43333",
+    "geom:latitude":23.43333,
+    "geom:longitude":90.71667,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2019",
+    "gn:admin3_code":"201936.0",
+    "gn:admin4_code":"20193686.0",
+    "gn:asciiname":"Thetalia",
+    "gn:country_code":"BD",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1186124,
+    "gn:latitude":23.43333,
+    "gn:longitude":90.71667,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Thet\u0101lia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421187801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1186124
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"4e2de94c51994237c7a1a0d27d91458d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421187801,
+            "locality_id":1193220417,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1193220417,
+    "wof:lastmodified":1536376105,
+    "wof:name":"Thetalia",
+    "wof:parent_id":421187801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.71667,
+    23.43333,
+    90.71667,
+    23.43333
+],
+  "geometry": {"coordinates":[90.71666999999999,23.43333],"type":"Point"}
+}

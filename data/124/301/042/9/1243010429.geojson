@@ -1,0 +1,67 @@
+{
+  "id": 1243010429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.25015,22.59894,90.25015,22.59894",
+    "geom:latitude":22.59894,
+    "geom:longitude":90.25015,
+    "gn:admin1_code":"82",
+    "gn:asciiname":"Taukati",
+    "gn:country_code":"BD",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1186416,
+    "gn:latitude":22.59894,
+    "gn:longitude":90.25015,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Taukati",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669019,
+        1108694677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1186416
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"304120f5b074b12ff608c46fcd2c2165",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694677,
+            "locality_id":1243010429,
+            "region_id":85669019
+        }
+    ],
+    "wof:id":1243010429,
+    "wof:lastmodified":1536937831,
+    "wof:name":"Taukati",
+    "wof:parent_id":1108694677,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.25015,
+    22.59894,
+    90.25015,
+    22.59894
+],
+  "geometry": {"coordinates":[90.25015,22.59894],"type":"Point"}
+}

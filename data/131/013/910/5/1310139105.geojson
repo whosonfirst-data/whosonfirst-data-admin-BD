@@ -1,0 +1,73 @@
+{
+  "id": 1310139105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.01262,23.13486,89.01262,23.13486",
+    "geom:latitude":23.13486,
+    "geom:longitude":89.01262,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4041",
+    "gn:admin3_code":"404123.0",
+    "gn:admin4_code":"40412389.0",
+    "gn:asciiname":"Radhanagar",
+    "gn:country_code":"BD",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1190581,
+    "gn:latitude":23.13486,
+    "gn:longitude":89.01262,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Radhanagar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Radhanagar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        421176039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1190581
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"624d3a024b6165d54128001b539f4bc6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421176039,
+            "locality_id":1310139105,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1310139105,
+    "wof:lastmodified":1537585798,
+    "wof:name":"Radhanagar",
+    "wof:parent_id":421176039,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.01262,
+    23.13486,
+    89.01262,
+    23.13486
+],
+  "geometry": {"coordinates":[89.01262,23.13486],"type":"Point"}
+}

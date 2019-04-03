@@ -1,0 +1,73 @@
+{
+  "id": 1259713889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.09259,23.3195,89.09259,23.3195",
+    "geom:latitude":23.3195,
+    "geom:longitude":89.09259,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4044.0",
+    "gn:admin3_code":"404433.0",
+    "gn:admin4_code":"40443340.0",
+    "gn:asciiname":"Rokanpur",
+    "gn:country_code":"BD",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7634029,
+    "gn:latitude":23.3195,
+    "gn:longitude":89.09259,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Rokanpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Rokanpur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        1108694679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7634029
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"761cc6668c7e733eeade37fbea17c424",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694679,
+            "locality_id":1259713889,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1259713889,
+    "wof:lastmodified":1537586701,
+    "wof:name":"Rokanpur",
+    "wof:parent_id":1108694679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.09259,
+    23.3195,
+    89.09259,
+    23.3195
+],
+  "geometry": {"coordinates":[89.09259,23.3195],"type":"Point"}
+}

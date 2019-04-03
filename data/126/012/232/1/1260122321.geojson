@@ -1,0 +1,70 @@
+{
+  "id": 1260122321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.79155,23.44477,90.79155,23.44477",
+    "geom:latitude":23.44477,
+    "geom:longitude":90.79155,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2019.0",
+    "gn:admin3_code":"201936.0",
+    "gn:admin4_code":"20193664.0",
+    "gn:asciiname":"Chasai",
+    "gn:country_code":"BD",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1206403,
+    "gn:latitude":23.44477,
+    "gn:longitude":90.79155,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Chasai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421187801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1206403
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"9a99a911c194cc22abb5526244760b71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421187801,
+            "locality_id":1260122321,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1260122321,
+    "wof:lastmodified":1536932983,
+    "wof:name":"Chasai",
+    "wof:parent_id":421187801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.79155,
+    23.44477,
+    90.79155,
+    23.44477
+],
+  "geometry": {"coordinates":[90.79155,23.44477],"type":"Point"}
+}

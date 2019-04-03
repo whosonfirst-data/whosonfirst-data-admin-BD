@@ -1,0 +1,73 @@
+{
+  "id": 1310342767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.98295,25.80625,88.98295,25.80625",
+    "geom:latitude":25.80625,
+    "geom:longitude":88.98295,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5585.0",
+    "gn:admin3_code":"558592.0",
+    "gn:admin4_code":"55859215.0",
+    "gn:asciiname":"Sermasta",
+    "gn:country_code":"BD",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7489154,
+    "gn:latitude":25.80625,
+    "gn:longitude":88.98295,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Sermasta",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Sermasta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7489154
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"28e9d56bfb9a0bf842a58619992dadcd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694701,
+            "locality_id":1310342767,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1310342767,
+    "wof:lastmodified":1537586689,
+    "wof:name":"Sermasta",
+    "wof:parent_id":1108694701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.98295,
+    25.80625,
+    88.98295,
+    25.80625
+],
+  "geometry": {"coordinates":[88.98295,25.80625],"type":"Point"}
+}

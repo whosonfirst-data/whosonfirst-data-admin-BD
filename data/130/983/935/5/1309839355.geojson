@@ -1,0 +1,70 @@
+{
+  "id": 1309839355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.2336,23.93532,90.2336,23.93532",
+    "geom:latitude":23.93532,
+    "geom:longitude":90.2336,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3026",
+    "gn:admin3_code":"302672.0",
+    "gn:admin4_code":"30267239.0",
+    "gn:asciiname":"Nalam",
+    "gn:country_code":"BD",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1193617,
+    "gn:latitude":23.93532,
+    "gn:longitude":90.2336,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Nal\u0101m",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421187803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1193617
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"4ceac44d81ac0233c6a37c3df3615411",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421187803,
+            "locality_id":1309839355,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1309839355,
+    "wof:lastmodified":1536882134,
+    "wof:name":"Nalam",
+    "wof:parent_id":421187803,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.2336,
+    23.93532,
+    90.2336,
+    23.93532
+],
+  "geometry": {"coordinates":[90.2336,23.93532],"type":"Point"}
+}

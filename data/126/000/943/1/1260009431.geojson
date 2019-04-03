@@ -1,0 +1,73 @@
+{
+  "id": 1260009431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.77447,22.40517,90.77447,22.40517",
+    "geom:latitude":22.40517,
+    "geom:longitude":90.77447,
+    "gn:admin1_code":"85",
+    "gn:admin2_code":"1009",
+    "gn:admin3_code":"100991.0",
+    "gn:admin4_code":"10099185.0",
+    "gn:asciiname":"Padma Manasa",
+    "gn:country_code":"BD",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1191601,
+    "gn:latitude":22.40517,
+    "gn:longitude":90.77447,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Padma Manasa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Padma Manasa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669019,
+        421184491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1191601
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"6c9794ef183dd0b55544a5c9ba966d77",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421184491,
+            "locality_id":1260009431,
+            "region_id":85669019
+        }
+    ],
+    "wof:id":1260009431,
+    "wof:lastmodified":1537585816,
+    "wof:name":"Padma Manasa",
+    "wof:parent_id":421184491,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.77447,
+    22.40517,
+    90.77447,
+    22.40517
+],
+  "geometry": {"coordinates":[90.77446999999999,22.40517],"type":"Point"}
+}

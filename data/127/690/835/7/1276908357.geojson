@@ -1,0 +1,70 @@
+{
+  "id": 1276908357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.26496,22.86927,90.26496,22.86927",
+    "geom:latitude":22.86927,
+    "geom:longitude":90.26496,
+    "gn:admin1_code":"85",
+    "gn:admin2_code":"1006.0",
+    "gn:admin3_code":"100694.0",
+    "gn:admin4_code":"10069484.0",
+    "gn:asciiname":"Barta",
+    "gn:country_code":"BD",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1210084,
+    "gn:latitude":22.86927,
+    "gn:longitude":90.26496,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Barta",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669019,
+        421187745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1210084
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"146d64f8cb211d88fd3c220a5a475872",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421187745,
+            "locality_id":1276908357,
+            "region_id":85669019
+        }
+    ],
+    "wof:id":1276908357,
+    "wof:lastmodified":1537002372,
+    "wof:name":"Barta",
+    "wof:parent_id":421187745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.26496,
+    22.86927,
+    90.26496,
+    22.86927
+],
+  "geometry": {"coordinates":[90.26496,22.86927],"type":"Point"}
+}

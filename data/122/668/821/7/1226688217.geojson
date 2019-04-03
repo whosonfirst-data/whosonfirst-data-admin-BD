@@ -1,0 +1,76 @@
+{
+  "id": 1226688217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.7587,22.75941,91.7587,22.75941",
+    "geom:latitude":22.75941,
+    "geom:longitude":91.7587,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2015.0",
+    "gn:admin3_code":"201533.0",
+    "gn:admin4_code":"20153319.0",
+    "gn:asciiname":"Kaiyapara TB",
+    "gn:country_code":"BD",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7477152,
+    "gn:latitude":22.75941,
+    "gn:longitude":91.7587,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"K\u0101iy\u0101p\u0101ra TB",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "K\u0101jy\u0101p\u0101ra TB"
+    ],
+    "name:und_x_variant":[
+        "K\u0101iy\u0101p\u0101ra TB"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421201541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7477152
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"2c027463ccdde06dc8795ccc14f96286",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421201541,
+            "locality_id":1226688217,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1226688217,
+    "wof:lastmodified":1537586362,
+    "wof:name":"Kaiyapara TB",
+    "wof:parent_id":421201541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.7587,
+    22.75941,
+    91.7587,
+    22.75941
+],
+  "geometry": {"coordinates":[91.7587,22.75941],"type":"Point"}
+}

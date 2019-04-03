@@ -1,0 +1,64 @@
+{
+  "id": 1209648639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.17943,22.6773,90.17943,22.6773",
+    "geom:latitude":22.6773,
+    "geom:longitude":90.17943,
+    "gn:admin1_code":"85",
+    "gn:admin2_code":"1042.0",
+    "gn:admin3_code":"104240.0",
+    "gn:admin4_code":"10424066.0",
+    "gn:asciiname":"Gobindadhabal",
+    "gn:country_code":"BD",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1202344,
+    "gn:latitude":22.6773,
+    "gn:longitude":90.17943,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Gobindadhabal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1202344
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"5f805d03a3ac95ebb23b825fce107eb2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209648639
+        }
+    ],
+    "wof:id":1209648639,
+    "wof:lastmodified":1536280652,
+    "wof:name":"Gobindadhabal",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.17943,
+    22.6773,
+    90.17943,
+    22.6773
+],
+  "geometry": {"coordinates":[90.17943,22.6773],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1260110051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.35194,25.77843,88.35194,25.77843",
+    "geom:latitude":25.77843,
+    "geom:longitude":88.35194,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5594.0",
+    "gn:admin3_code":"559482.0",
+    "gn:admin4_code":"55948251.0",
+    "gn:asciiname":"Boldiara",
+    "gn:country_code":"BD",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1208183,
+    "gn:latitude":25.77843,
+    "gn:longitude":88.35194,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Boldi\u0101ra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Boldi\u0101ra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1208183
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"15ca6707c54bc9fae79046340bf1fd7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694703,
+            "locality_id":1260110051,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1260110051,
+    "wof:lastmodified":1537586125,
+    "wof:name":"Boldiara",
+    "wof:parent_id":1108694703,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.35194,
+    25.77843,
+    88.35194,
+    25.77843
+],
+  "geometry": {"coordinates":[88.35194,25.77843],"type":"Point"}
+}

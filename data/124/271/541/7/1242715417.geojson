@@ -1,0 +1,70 @@
+{
+  "id": 1242715417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.69685,23.77288,90.69685,23.77288",
+    "geom:latitude":23.77288,
+    "geom:longitude":90.69685,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3067",
+    "gn:admin3_code":"306702.0",
+    "gn:admin4_code":"30670271.0",
+    "gn:asciiname":"Salamdi",
+    "gn:country_code":"BD",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1189019,
+    "gn:latitude":23.77288,
+    "gn:longitude":90.69685,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"S\u0101lamdi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421197045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1189019
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"ea1d6cbe8ff921627df3dfb7108639db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421197045,
+            "locality_id":1242715417,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1242715417,
+    "wof:lastmodified":1536863829,
+    "wof:name":"Salamdi",
+    "wof:parent_id":421197045,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.69685,
+    23.77288,
+    90.69685,
+    23.77288
+],
+  "geometry": {"coordinates":[90.69685,23.77288],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1309936007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.32071,24.12249,91.32071,24.12249",
+    "geom:latitude":24.12249,
+    "geom:longitude":91.32071,
+    "gn:admin1_code":"86",
+    "gn:admin2_code":"6036.0",
+    "gn:admin3_code":"603671.0",
+    "gn:admin4_code":"60367177.0",
+    "gn:asciiname":"Bagsair",
+    "gn:country_code":"BD",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1211864,
+    "gn:latitude":24.12249,
+    "gn:longitude":91.32071,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Bags\u0101ir",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Baksair",
+        "Bags\u0101ir"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669025,
+        421176045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1211864
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"b9ca0cb4443cec1bba37954a99c51b71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421176045,
+            "locality_id":1309936007,
+            "region_id":85669025
+        }
+    ],
+    "wof:id":1309936007,
+    "wof:lastmodified":1537586185,
+    "wof:name":"Bagsair",
+    "wof:parent_id":421176045,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.32071,
+    24.12249,
+    91.32071,
+    24.12249
+],
+  "geometry": {"coordinates":[91.32071000000001,24.12249],"type":"Point"}
+}

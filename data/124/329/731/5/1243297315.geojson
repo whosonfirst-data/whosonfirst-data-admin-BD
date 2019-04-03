@@ -1,0 +1,73 @@
+{
+  "id": 1243297315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.04368,25.2721,89.04368,25.2721",
+    "geom:latitude":25.2721,
+    "geom:longitude":89.04368,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5527",
+    "gn:admin3_code":"552747.0",
+    "gn:admin4_code":"55274754.0",
+    "gn:asciiname":"Gohara",
+    "gn:country_code":"BD",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8065018,
+    "gn:latitude":25.2721,
+    "gn:longitude":89.04368,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Gohara",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Gohara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8065018
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"71f5d2b67903302c1c16d430ef7a2411",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694671,
+            "locality_id":1243297315,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1243297315,
+    "wof:lastmodified":1537586858,
+    "wof:name":"Gohara",
+    "wof:parent_id":1108694671,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.04368000000002,
+    25.2721,
+    89.04368000000002,
+    25.2721
+],
+  "geometry": {"coordinates":[89.04368000000002,25.2721],"type":"Point"}
+}

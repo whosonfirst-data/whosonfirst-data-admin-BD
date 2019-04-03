@@ -1,0 +1,74 @@
+{
+  "id": 1293526641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.79774,23.62066,89.79774,23.62066",
+    "geom:latitude":23.62066,
+    "geom:longitude":89.79774,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3029",
+    "gn:admin3_code":"302947.0",
+    "gn:admin4_code":"30294779.0",
+    "gn:asciiname":"Jnandia",
+    "gn:country_code":"BD",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1199844,
+    "gn:latitude":23.62066,
+    "gn:longitude":89.79774,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Jn\u0101ndia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Janandia",
+        "Jn\u0101ndia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421198063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1199844
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"55371c1464ba12dbf3584c50ffa471c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421198063,
+            "locality_id":1293526641,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1293526641,
+    "wof:lastmodified":1537585967,
+    "wof:name":"Jnandia",
+    "wof:parent_id":421198063,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.79774,
+    23.62066,
+    89.79774,
+    23.62066
+],
+  "geometry": {"coordinates":[89.79774,23.62066],"type":"Point"}
+}

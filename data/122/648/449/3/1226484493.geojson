@@ -1,0 +1,73 @@
+{
+  "id": 1226484493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"92.00447,22.29344,92.00447,22.29344",
+    "geom:latitude":22.29344,
+    "geom:longitude":92.00447,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2015.0",
+    "gn:admin3_code":"201561.0",
+    "gn:admin4_code":"20156142.0",
+    "gn:asciiname":"Haidgaon",
+    "gn:country_code":"BD",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1201766,
+    "gn:latitude":22.29344,
+    "gn:longitude":92.00447,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Haidgaon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Haidgaon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421201541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1201766
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"396a65d7fd3fa7ddc4cb0b96d54d02f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421201541,
+            "locality_id":1226484493,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1226484493,
+    "wof:lastmodified":1537586005,
+    "wof:name":"Haidgaon",
+    "wof:parent_id":421201541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    92.00447,
+    22.29344,
+    92.00447,
+    22.29344
+],
+  "geometry": {"coordinates":[92.00447,22.29344],"type":"Point"}
+}

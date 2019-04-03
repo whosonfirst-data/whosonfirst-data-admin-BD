@@ -1,0 +1,74 @@
+{
+  "id": 1209848883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.14434,22.96792,90.14434,22.96792",
+    "geom:latitude":22.96792,
+    "geom:longitude":90.14434,
+    "gn:admin1_code":"85",
+    "gn:admin2_code":"1006.0",
+    "gn:admin3_code":"100602.0",
+    "gn:admin4_code":"10060247.0",
+    "gn:asciiname":"Budhar",
+    "gn:country_code":"BD",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1208048,
+    "gn:latitude":22.96792,
+    "gn:longitude":90.14434,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Budh\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Budh\u0101r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669019,
+        421187745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1208048,
+        "wk:page":"Budhar"
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"1d4e5b039ce3b5f42084ecd5c6f18f1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421187745,
+            "locality_id":1209848883,
+            "region_id":85669019
+        }
+    ],
+    "wof:id":1209848883,
+    "wof:lastmodified":1537586123,
+    "wof:name":"Budhar",
+    "wof:parent_id":421187745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.14434,
+    22.96792,
+    90.14434,
+    22.96792
+],
+  "geometry": {"coordinates":[90.14434,22.96792],"type":"Point"}
+}

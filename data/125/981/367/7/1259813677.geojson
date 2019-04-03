@@ -1,0 +1,73 @@
+{
+  "id": 1259813677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.50431,25.2482,89.50431,25.2482",
+    "geom:latitude":25.2482,
+    "geom:longitude":89.50431,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5532",
+    "gn:admin3_code":"553267.0",
+    "gn:admin4_code":"55326728.0",
+    "gn:asciiname":"Ramnathpur",
+    "gn:country_code":"BD",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7905508,
+    "gn:latitude":25.2482,
+    "gn:longitude":89.50431,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Ramn\u0101thpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Ramn\u0101thpur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7905508
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"17d3ca69282dc76df6260dd90328c56a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694675,
+            "locality_id":1259813677,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1259813677,
+    "wof:lastmodified":1537586774,
+    "wof:name":"Ramnathpur",
+    "wof:parent_id":1108694675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.50431,
+    25.2482,
+    89.50431,
+    25.2482
+],
+  "geometry": {"coordinates":[89.50431,25.2482],"type":"Point"}
+}

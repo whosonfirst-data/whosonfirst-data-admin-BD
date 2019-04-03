@@ -1,0 +1,75 @@
+{
+  "id": 1225992991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.71667,23.28333,90.71667,23.28333",
+    "geom:latitude":23.28333,
+    "geom:longitude":90.71667,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2013",
+    "gn:admin3_code":"201376.0",
+    "gn:admin4_code":"20137686.0",
+    "gn:asciiname":"Paikasta",
+    "gn:cc2":"BD",
+    "gn:country_code":"BD",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1191519,
+    "gn:latitude":23.28333,
+    "gn:longitude":90.71667,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"P\u0101ik\u0101sta",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Raikasta",
+        "P\u0101ik\u0101sta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        1108694669
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1191519
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"0653fd089e22f174095588c1b4b4df47",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694669,
+            "locality_id":1225992991,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1225992991,
+    "wof:lastmodified":1537585815,
+    "wof:name":"Paikasta",
+    "wof:parent_id":1108694669,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.71667,
+    23.28333,
+    90.71667,
+    23.28333
+],
+  "geometry": {"coordinates":[90.71666999999999,23.28333],"type":"Point"}
+}

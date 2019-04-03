@@ -1,0 +1,79 @@
+{
+  "id": 421168629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.1261,25.8498,88.1261,25.8498",
+    "geom:latitude":25.8498,
+    "geom:longitude":88.1261,
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ben_x_preferred":[
+        "Rahmatpur"
+    ],
+    "qs:gn_country":"BD",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":7487415,
+    "qs:gn_pop":0,
+    "qs:name":"Azmatpur",
+    "qs:name_adm0":"India",
+    "qs:name_adm1":"Bihar",
+    "qs:photos":6,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":6,
+    "qs:photos_sr":1,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1198176,
+    "qs:woe_adm0":23424848,
+    "qs:woe_id":29158896,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7487415,
+        "gp:id":29158896,
+        "qs:id":1198176
+    },
+    "wof:country":"BD",
+    "wof:created":1459008771,
+    "wof:geomhash":"4eec58ecc947622a6d8283584168a576",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694703,
+            "locality_id":421168629,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":421168629,
+    "wof:lastmodified":1501273219,
+    "wof:name":"Azmatpur",
+    "wof:parent_id":1108694703,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.1261,
+    25.8498,
+    88.1261,
+    25.8498
+],
+  "geometry": {"coordinates":[88.12609999999999,25.8498],"type":"Point"}
+}

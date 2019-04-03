@@ -1,0 +1,73 @@
+{
+  "id": 1343591039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.20824,24.95018,88.20824,24.95018",
+    "geom:latitude":24.95018,
+    "geom:longitude":88.20824,
+    "gn:admin1_code":"83",
+    "gn:admin2_code":"5070.0",
+    "gn:admin3_code":"507018.0",
+    "gn:admin4_code":"50701818.0",
+    "gn:asciiname":"Bahadurganj",
+    "gn:country_code":"BD",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7482022,
+    "gn:latitude":24.95018,
+    "gn:longitude":88.20824,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Bah\u0101durganj",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Bah\u0101durganj"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669031,
+        421191607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7482022
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"d07aa66a0da0867e841f97136ccad648",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421191607,
+            "locality_id":1343591039,
+            "region_id":85669031
+        }
+    ],
+    "wof:id":1343591039,
+    "wof:lastmodified":1537586496,
+    "wof:name":"Bahadurganj",
+    "wof:parent_id":421191607,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.20824,
+    24.95018,
+    88.20824,
+    24.95018
+],
+  "geometry": {"coordinates":[88.20824,24.95018],"type":"Point"}
+}

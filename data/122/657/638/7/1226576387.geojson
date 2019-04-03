@@ -1,0 +1,70 @@
+{
+  "id": 1226576387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.51478,24.52044,90.51478,24.52044",
+    "geom:latitude":24.52044,
+    "geom:longitude":90.51478,
+    "gn:admin1_code":"H",
+    "gn:admin2_code":"3061",
+    "gn:admin3_code":"306122.0",
+    "gn:admin4_code":"30612206.0",
+    "gn:asciiname":"Parabhum",
+    "gn:country_code":"BD",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1192513,
+    "gn:latitude":24.52044,
+    "gn:longitude":90.51478,
+    "gn:modification_date":"2016-11-17",
+    "gn:name":"P\u0101r\u0101bhum",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        1108803101,
+        421185469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1192513
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"9d9d8289bd7d0b2c89c967657833d287",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421185469,
+            "locality_id":1226576387,
+            "region_id":1108803101
+        }
+    ],
+    "wof:id":1226576387,
+    "wof:lastmodified":1536955393,
+    "wof:name":"Parabhum",
+    "wof:parent_id":421185469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.51478,
+    24.52044,
+    90.51478,
+    24.52044
+],
+  "geometry": {"coordinates":[90.51478,24.52044],"type":"Point"}
+}

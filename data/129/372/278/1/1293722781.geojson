@@ -1,0 +1,70 @@
+{
+  "id": 1293722781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.5452,23.32343,89.5452,23.32343",
+    "geom:latitude":23.32343,
+    "geom:longitude":89.5452,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4055",
+    "gn:admin3_code":"405566.0",
+    "gn:admin4_code":"40556663.0",
+    "gn:asciiname":"Saldha",
+    "gn:country_code":"BD",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1188998,
+    "gn:latitude":23.32343,
+    "gn:longitude":89.5452,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"S\u0101ldha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        1108694689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1188998
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"fde76d6d18a52598e4682f6d4a6bd2bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694689,
+            "locality_id":1293722781,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1293722781,
+    "wof:lastmodified":1536945705,
+    "wof:name":"Saldha",
+    "wof:parent_id":1108694689,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.5452,
+    23.32343,
+    89.5452,
+    23.32343
+],
+  "geometry": {"coordinates":[89.54519999999999,23.32343],"type":"Point"}
+}

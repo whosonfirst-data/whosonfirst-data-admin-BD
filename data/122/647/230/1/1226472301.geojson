@@ -1,0 +1,70 @@
+{
+  "id": 1226472301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.67564,22.55158,89.67564,22.55158",
+    "geom:latitude":22.55158,
+    "geom:longitude":89.67564,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4001",
+    "gn:admin3_code":"400173.0",
+    "gn:admin4_code":"40017371.0",
+    "gn:asciiname":"Kumarkhali",
+    "gn:country_code":"BD",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1196698,
+    "gn:latitude":22.55158,
+    "gn:longitude":89.67564,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Kum\u0101rkh\u0101li",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        421187747
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1196698
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"ff32b92c5c23dda5cfb8b4d545159de9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421187747,
+            "locality_id":1226472301,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1226472301,
+    "wof:lastmodified":1536604292,
+    "wof:name":"Kumarkhali",
+    "wof:parent_id":421187747,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.67564,
+    22.55158,
+    89.67564,
+    22.55158
+],
+  "geometry": {"coordinates":[89.67564,22.55158],"type":"Point"}
+}

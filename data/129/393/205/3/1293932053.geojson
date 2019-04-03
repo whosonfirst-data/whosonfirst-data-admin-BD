@@ -1,0 +1,70 @@
+{
+  "id": 1293932053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.66465,23.02003,90.66465,23.02003",
+    "geom:latitude":23.02003,
+    "geom:longitude":90.66465,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2051",
+    "gn:admin3_code":"205158.0",
+    "gn:admin4_code":"20515823.0",
+    "gn:asciiname":"Jaliar Char",
+    "gn:country_code":"BD",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1200387,
+    "gn:latitude":23.02003,
+    "gn:longitude":90.66465,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"J\u0101li\u0101r Char",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        1108694669
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1200387
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"98778b4ad20c9514d07254b612c8f5f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694669,
+            "locality_id":1293932053,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1293932053,
+    "wof:lastmodified":1536642740,
+    "wof:name":"Jaliar Char",
+    "wof:parent_id":1108694669,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.66465,
+    23.02003,
+    90.66465,
+    23.02003
+],
+  "geometry": {"coordinates":[90.66464999999999,23.02003],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1293526775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.20217,26.04986,88.20217,26.04986",
+    "geom:latitude":26.04986,
+    "geom:longitude":88.20217,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5594.0",
+    "gn:admin3_code":"559408.0",
+    "gn:admin4_code":"55940831.0",
+    "gn:asciiname":"Beltola",
+    "gn:country_code":"BD",
+    "gn:dem":52,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7486664,
+    "gn:latitude":26.04986,
+    "gn:longitude":88.20217,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Beltola",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Beltola"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7486664
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"79d33d714ab1f82cd733307097fa5e3e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694703,
+            "locality_id":1293526775,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1293526775,
+    "wof:lastmodified":1537586618,
+    "wof:name":"Beltola",
+    "wof:parent_id":1108694703,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.20217,
+    26.04986,
+    88.20217,
+    26.04986
+],
+  "geometry": {"coordinates":[88.20217,26.04986],"type":"Point"}
+}

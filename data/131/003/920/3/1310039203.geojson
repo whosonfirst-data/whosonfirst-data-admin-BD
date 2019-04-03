@@ -1,0 +1,70 @@
+{
+  "id": 1310039203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.27011,23.72531,89.27011,23.72531",
+    "geom:latitude":23.72531,
+    "geom:longitude":89.27011,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4044.0",
+    "gn:admin3_code":"404480.0",
+    "gn:admin4_code":"40448075.0",
+    "gn:asciiname":"Bhulundia",
+    "gn:country_code":"BD",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1208776,
+    "gn:latitude":23.72531,
+    "gn:longitude":89.27011,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Bhulundia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        1108694679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1208776
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"3169057cb40912b3556e190e39159b36",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694679,
+            "locality_id":1310039203,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1310039203,
+    "wof:lastmodified":1537088931,
+    "wof:name":"Bhulundia",
+    "wof:parent_id":1108694679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.27011,
+    23.72531,
+    89.27011,
+    23.72531
+],
+  "geometry": {"coordinates":[89.27011,23.72531],"type":"Point"}
+}

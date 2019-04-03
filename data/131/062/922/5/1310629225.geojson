@@ -1,0 +1,70 @@
+{
+  "id": 1310629225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.37205,24.72675,91.37205,24.72675",
+    "geom:latitude":24.72675,
+    "geom:longitude":91.37205,
+    "gn:admin1_code":"86",
+    "gn:admin2_code":"6090.0",
+    "gn:admin3_code":"609029.0",
+    "gn:admin4_code":"60902985.0",
+    "gn:asciiname":"Bhatidhal",
+    "gn:country_code":"BD",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1209067,
+    "gn:latitude":24.72675,
+    "gn:longitude":91.37205,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Bh\u0101tidh\u0101l",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669025,
+        421201931
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1209067
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"65914fd7faaf6f2a1e33589a62457830",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421201931,
+            "locality_id":1310629225,
+            "region_id":85669025
+        }
+    ],
+    "wof:id":1310629225,
+    "wof:lastmodified":1536738510,
+    "wof:name":"Bhatidhal",
+    "wof:parent_id":421201931,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.37205,
+    24.72675,
+    91.37205,
+    24.72675
+],
+  "geometry": {"coordinates":[91.37205,24.72675],"type":"Point"}
+}

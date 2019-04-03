@@ -1,0 +1,70 @@
+{
+  "id": 1225977807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.64653,24.31363,90.64653,24.31363",
+    "geom:latitude":24.31363,
+    "geom:longitude":90.64653,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3048.0",
+    "gn:admin3_code":"304879.0",
+    "gn:admin4_code":"30487928.0",
+    "gn:asciiname":"Charal Banda",
+    "gn:country_code":"BD",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1207159,
+    "gn:latitude":24.31363,
+    "gn:longitude":90.64653,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Ch\u0101r\u0101l Banda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421170483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1207159
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"7be808cbc17c93eb4e7058b00607e831",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421170483,
+            "locality_id":1225977807,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1225977807,
+    "wof:lastmodified":1536822225,
+    "wof:name":"Charal Banda",
+    "wof:parent_id":421170483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.64653,
+    24.31363,
+    90.64653,
+    24.31363
+],
+  "geometry": {"coordinates":[90.64653,24.31363],"type":"Point"}
+}

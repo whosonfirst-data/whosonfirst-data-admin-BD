@@ -1,0 +1,74 @@
+{
+  "id": 1226679735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.57513,23.74674,89.57513,23.74674",
+    "geom:latitude":23.74674,
+    "geom:longitude":89.57513,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3082.0",
+    "gn:admin3_code":"308273.0",
+    "gn:admin4_code":"30827360.0",
+    "gn:asciiname":"Belgachhi Bhabanipur",
+    "gn:country_code":"BD",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1209633,
+    "gn:latitude":23.74674,
+    "gn:longitude":89.57513,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Belg\u0101chhi Bhab\u0101nipur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Belgachi Bhabanipur",
+        "Belg\u0101chhi Bhab\u0101nipur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        1108694699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1209633
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"1e3741232ef2c3343b3b0c9771894931",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694699,
+            "locality_id":1226679735,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1226679735,
+    "wof:lastmodified":1537586149,
+    "wof:name":"Belgachhi Bhabanipur",
+    "wof:parent_id":1108694699,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.57513,
+    23.74674,
+    89.57513,
+    23.74674
+],
+  "geometry": {"coordinates":[89.57513,23.74674],"type":"Point"}
+}

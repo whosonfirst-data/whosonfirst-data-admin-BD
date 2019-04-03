@@ -1,0 +1,70 @@
+{
+  "id": 1293717551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.40797,23.25415,90.40797,23.25415",
+    "geom:latitude":23.25415,
+    "geom:longitude":90.40797,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3086",
+    "gn:admin3_code":"308665.0",
+    "gn:admin4_code":"30866544.0",
+    "gn:asciiname":"Koarag",
+    "gn:country_code":"BD",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1197115,
+    "gn:latitude":23.25415,
+    "gn:longitude":90.40797,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Ko\u0101r\u0101g",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421188359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1197115
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"9ac4b6bb0d99bef84a2e836248b9faf0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421188359,
+            "locality_id":1293717551,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1293717551,
+    "wof:lastmodified":1536953038,
+    "wof:name":"Koarag",
+    "wof:parent_id":421188359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.40797,
+    23.25415,
+    90.40797,
+    23.25415
+],
+  "geometry": {"coordinates":[90.40797000000001,23.25415],"type":"Point"}
+}

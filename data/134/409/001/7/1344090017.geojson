@@ -1,0 +1,76 @@
+{
+  "id": 1344090017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.84666,24.20127,88.84666,24.20127",
+    "geom:latitude":24.20127,
+    "geom:longitude":88.84666,
+    "gn:admin1_code":"83",
+    "gn:admin2_code":"5081",
+    "gn:admin3_code":"508110.0",
+    "gn:admin4_code":"50811015.0",
+    "gn:asciiname":"Milik Bagha",
+    "gn:country_code":"BD",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1194417,
+    "gn:latitude":24.20127,
+    "gn:longitude":88.84666,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Milik B\u0101gha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Milik B\u0101gha"
+    ],
+    "name:und_x_variant":[
+        "Malik Bagha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669031,
+        421172439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1194417
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"e3014721caba0c46fb186d2b085caeda",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421172439,
+            "locality_id":1344090017,
+            "region_id":85669031
+        }
+    ],
+    "wof:id":1344090017,
+    "wof:lastmodified":1537585869,
+    "wof:name":"Milik Bagha",
+    "wof:parent_id":421172439,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.84666,
+    24.20127,
+    88.84666,
+    24.20127
+],
+  "geometry": {"coordinates":[88.84666,24.20127],"type":"Point"}
+}

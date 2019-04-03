@@ -1,0 +1,70 @@
+{
+  "id": 1327467323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.60267,23.56639,89.60267,23.56639",
+    "geom:latitude":23.56639,
+    "geom:longitude":89.60267,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3029.0",
+    "gn:admin3_code":"302956.0",
+    "gn:admin4_code":"30295631.0",
+    "gn:asciiname":"Bamandi Baliakandi",
+    "gn:country_code":"BD",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1211198,
+    "gn:latitude":23.56639,
+    "gn:longitude":89.60267,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"B\u0101mandi B\u0101li\u0101k\u0101ndi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421198063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1211198
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"b586cd5edb6f70d7d9d2eaf1b7013717",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421198063,
+            "locality_id":1327467323,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1327467323,
+    "wof:lastmodified":1536628697,
+    "wof:name":"Bamandi Baliakandi",
+    "wof:parent_id":421198063,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.60266999999997,
+    23.56639,
+    89.60266999999997,
+    23.56639
+],
+  "geometry": {"coordinates":[89.60266999999997,23.56639],"type":"Point"}
+}

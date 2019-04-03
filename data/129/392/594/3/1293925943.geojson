@@ -1,0 +1,75 @@
+{
+  "id": 1293925943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.96992,23.77376,90.96992,23.77376",
+    "geom:latitude":23.77376,
+    "geom:longitude":90.96992,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2019",
+    "gn:admin3_code":"201981.0",
+    "gn:admin4_code":"20198194.0",
+    "gn:asciiname":"Saiyidagope",
+    "gn:country_code":"BD",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1188357,
+    "gn:latitude":23.77376,
+    "gn:longitude":90.96992,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Saiyid\u0101gope",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sahedagopa",
+        "S\u0101yed\u0101gope",
+        "Saiyid\u0101gope"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421187801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1188357
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"240de8241eb40a91f1d3f5e4c0747e74",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421187801,
+            "locality_id":1293925943,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1293925943,
+    "wof:lastmodified":1537585760,
+    "wof:name":"Saiyidagope",
+    "wof:parent_id":421187801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.96992,
+    23.77376,
+    90.96992,
+    23.77376
+],
+  "geometry": {"coordinates":[90.96992,23.77376],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1225974715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.31667,22.35,89.31667,22.35",
+    "geom:latitude":22.35,
+    "geom:longitude":89.31667,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4047",
+    "gn:admin3_code":"404753.0",
+    "gn:admin4_code":"40475355.0",
+    "gn:asciiname":"Kasiabad Forest Office",
+    "gn:cc2":"BD",
+    "gn:country_code":"BD",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1198304,
+    "gn:latitude":22.35,
+    "gn:longitude":89.31667,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"K\u0101si\u0101b\u0101d Forest Office",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kashi Abad",
+        "K\u0101si\u0101b\u0101d Forest Office"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        421185473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1198304
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"c44a6833b1a6dfa687e1dec92266c8ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421185473,
+            "locality_id":1225974715,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1225974715,
+    "wof:lastmodified":1537585942,
+    "wof:name":"Kasiabad Forest Office",
+    "wof:parent_id":421185473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.31667,
+    22.35,
+    89.31667,
+    22.35
+],
+  "geometry": {"coordinates":[89.31667,22.35],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1277125185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.89696,23.35517,90.89696,23.35517",
+    "geom:latitude":23.35517,
+    "geom:longitude":90.89696,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2013.0",
+    "gn:admin3_code":"201358.0",
+    "gn:admin4_code":"20135847.0",
+    "gn:asciiname":"Dhamalia",
+    "gn:country_code":"BD",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1204487,
+    "gn:latitude":23.35517,
+    "gn:longitude":90.89696,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Dh\u0101m\u0101lia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Damalia",
+        "Dh\u0101m\u0101lia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        1108694669
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1204487
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"c53c9e5b15224ec18d8f90a47f2cc3a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694669,
+            "locality_id":1277125185,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1277125185,
+    "wof:lastmodified":1537586058,
+    "wof:name":"Dhamalia",
+    "wof:parent_id":1108694669,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.89696,
+    23.35517,
+    90.89696,
+    23.35517
+],
+  "geometry": {"coordinates":[90.89696000000001,23.35517],"type":"Point"}
+}

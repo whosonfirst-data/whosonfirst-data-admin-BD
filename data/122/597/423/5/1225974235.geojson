@@ -1,0 +1,70 @@
+{
+  "id": 1225974235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.09898,23.97139,90.09898,23.97139",
+    "geom:latitude":23.97139,
+    "geom:longitude":90.09898,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3026.0",
+    "gn:admin3_code":"302614.0",
+    "gn:admin4_code":"30261459.0",
+    "gn:asciiname":"Dakshin Paragaon",
+    "gn:country_code":"BD",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1205356,
+    "gn:latitude":23.97139,
+    "gn:longitude":90.09898,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Dakshin P\u0101r\u0101gaon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421187803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1205356
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"eab89e66194fa897033d86178ceb5bb8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421187803,
+            "locality_id":1225974235,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1225974235,
+    "wof:lastmodified":1536827414,
+    "wof:name":"Dakshin Paragaon",
+    "wof:parent_id":421187803,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.09898,
+    23.97139,
+    90.09898,
+    23.97139
+],
+  "geometry": {"coordinates":[90.09898,23.97139],"type":"Point"}
+}

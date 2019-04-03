@@ -1,0 +1,73 @@
+{
+  "id": 1260117481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.81491,25.90782,88.81491,25.90782",
+    "geom:latitude":25.90782,
+    "geom:longitude":88.81491,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5573",
+    "gn:admin3_code":"557364.0",
+    "gn:admin4_code":"55736450.0",
+    "gn:asciiname":"Kundapukur",
+    "gn:country_code":"BD",
+    "gn:dem":48,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1196633,
+    "gn:latitude":25.90782,
+    "gn:longitude":88.81491,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Kundapukur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Kundapukur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1196633
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"add72f076498bde5c8e3c838ef65ed6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694695,
+            "locality_id":1260117481,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1260117481,
+    "wof:lastmodified":1537585909,
+    "wof:name":"Kundapukur",
+    "wof:parent_id":1108694695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.81491,
+    25.90782,
+    88.81491,
+    25.90782
+],
+  "geometry": {"coordinates":[88.81491,25.90782],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1260117587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.61914,23.29633,89.61914,23.29633",
+    "geom:latitude":23.29633,
+    "geom:longitude":89.61914,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4065.0",
+    "gn:admin3_code":"406552.0",
+    "gn:admin4_code":"40655294.0",
+    "gn:asciiname":"Char Makrail",
+    "gn:country_code":"BD",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1206654,
+    "gn:latitude":23.29633,
+    "gn:longitude":89.61914,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Char M\u0101kr\u0101il",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        1108694689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1206654
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"05c43195390d95c68160a6a1f4be8370",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694689,
+            "locality_id":1260117587,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1260117587,
+    "wof:lastmodified":1536939606,
+    "wof:name":"Char Makrail",
+    "wof:parent_id":1108694689,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.61914,
+    23.29633,
+    89.61914,
+    23.29633
+],
+  "geometry": {"coordinates":[89.61914,23.29633],"type":"Point"}
+}

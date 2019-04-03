@@ -1,0 +1,71 @@
+{
+  "id": 1343876313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.47137,22.85565,90.47137,22.85565",
+    "geom:latitude":22.85565,
+    "geom:longitude":90.47137,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Char Haria",
+    "gn:country_code":"BD",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1206887,
+    "gn:latitude":22.85565,
+    "gn:longitude":90.47137,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Char H\u0101ria",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Char H\u0101ria"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669019,
+        421187745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1206887,
+        "wk:page":"Char_Haria"
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"09a1174f659321a663c1d1ab3c1428bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421187745,
+            "locality_id":1343876313,
+            "region_id":85669019
+        }
+    ],
+    "wof:id":1343876313,
+    "wof:lastmodified":1537586102,
+    "wof:name":"Char Haria",
+    "wof:parent_id":421187745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.47137,
+    22.85565,
+    90.47137,
+    22.85565
+],
+  "geometry": {"coordinates":[90.47136999999999,22.85565],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1293618997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.98079,23.96719,89.98079,23.96719",
+    "geom:latitude":23.96719,
+    "geom:longitude":89.98079,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3056",
+    "gn:admin3_code":"305670.0",
+    "gn:admin4_code":"30567038.0",
+    "gn:asciiname":"Uttar Kaziail",
+    "gn:country_code":"BD",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1185572,
+    "gn:latitude":23.96719,
+    "gn:longitude":89.98079,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Uttar K\u0101zi\u0101il",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421191745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1185572
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"a2e9bfbbaef3db706a9b9fd71f08f7eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421191745,
+            "locality_id":1293618997,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1293618997,
+    "wof:lastmodified":1537091545,
+    "wof:name":"Uttar Kaziail",
+    "wof:parent_id":421191745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.98079,
+    23.96719,
+    89.98079,
+    23.96719
+],
+  "geometry": {"coordinates":[89.98079,23.96719],"type":"Point"}
+}

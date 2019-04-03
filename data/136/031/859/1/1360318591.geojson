@@ -1,0 +1,70 @@
+{
+  "id": 1360318591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.32635,23.85514,89.32635,23.85514",
+    "geom:latitude":23.85514,
+    "geom:longitude":89.32635,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4050",
+    "gn:admin3_code":"405063.0",
+    "gn:admin4_code":"40506371.0",
+    "gn:asciiname":"Jayanti Hajra",
+    "gn:country_code":"BD",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1200129,
+    "gn:latitude":23.85514,
+    "gn:longitude":89.32635,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Jayanti Hajra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        890438075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1200129
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"c0667d58cb156b198c1840ea69d18a97",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":890438075,
+            "locality_id":1360318591,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1360318591,
+    "wof:lastmodified":1536605848,
+    "wof:name":"Jayanti Hajra",
+    "wof:parent_id":890438075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.32635,
+    23.85514,
+    89.32635,
+    23.85514
+],
+  "geometry": {"coordinates":[89.32635000000001,23.85514],"type":"Point"}
+}

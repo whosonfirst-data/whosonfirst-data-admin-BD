@@ -1,0 +1,70 @@
+{
+  "id": 1293920907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.69471,24.41087,90.69471,24.41087",
+    "geom:latitude":24.41087,
+    "geom:longitude":90.69471,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3048",
+    "gn:admin3_code":"304827.0",
+    "gn:admin4_code":"30482767.0",
+    "gn:asciiname":"Sahedal",
+    "gn:country_code":"BD",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1189198,
+    "gn:latitude":24.41087,
+    "gn:longitude":90.69471,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"S\u0101hedal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421170483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1189198
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"55ec162466c7d176513cd59cac9fa42a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421170483,
+            "locality_id":1293920907,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1293920907,
+    "wof:lastmodified":1536659369,
+    "wof:name":"Sahedal",
+    "wof:parent_id":421170483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.69471,
+    24.41087000000001,
+    90.69471,
+    24.41087000000001
+],
+  "geometry": {"coordinates":[90.69471,24.41087000000001],"type":"Point"}
+}

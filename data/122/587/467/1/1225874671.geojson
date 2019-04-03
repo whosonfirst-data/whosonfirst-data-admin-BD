@@ -1,0 +1,76 @@
+{
+  "id": 1225874671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.04166,22.38949,90.04166,22.38949",
+    "geom:latitude":22.38949,
+    "geom:longitude":90.04166,
+    "gn:admin1_code":"85",
+    "gn:admin2_code":"1042.0",
+    "gn:admin3_code":"104243.0",
+    "gn:admin4_code":"10424379.0",
+    "gn:asciiname":"Datter Pashurbunia",
+    "gn:country_code":"BD",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1204894,
+    "gn:latitude":22.38949,
+    "gn:longitude":90.04166,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Datter Pashurbunia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Datter Pashurbunia"
+    ],
+    "name:ben_x_variant":[
+        "Datter Pasuribania"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669019,
+        1108694677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1204894
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"39ce2f5415f8b59144b8cfac401e2abc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694677,
+            "locality_id":1225874671,
+            "region_id":85669019
+        }
+    ],
+    "wof:id":1225874671,
+    "wof:lastmodified":1537586064,
+    "wof:name":"Datter Pashurbunia",
+    "wof:parent_id":1108694677,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.04166,
+    22.38949,
+    90.04166,
+    22.38949
+],
+  "geometry": {"coordinates":[90.04165999999999,22.38949],"type":"Point"}
+}

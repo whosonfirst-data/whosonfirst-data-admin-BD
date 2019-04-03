@@ -1,0 +1,73 @@
+{
+  "id": 1309740405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.36127,25.45764,89.36127,25.45764",
+    "geom:latitude":25.45764,
+    "geom:longitude":89.36127,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5585",
+    "gn:admin3_code":"558576.0",
+    "gn:admin4_code":"55857663.0",
+    "gn:asciiname":"Sahebpur",
+    "gn:country_code":"BD",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7891258,
+    "gn:latitude":25.45764,
+    "gn:longitude":89.36127,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Sahebpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Sahebpur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7891258
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"c69700346a66eb6afea27e58b3320f57",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694701,
+            "locality_id":1309740405,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1309740405,
+    "wof:lastmodified":1537586751,
+    "wof:name":"Sahebpur",
+    "wof:parent_id":1108694701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.36126999999998,
+    25.45764,
+    89.36126999999998,
+    25.45764
+],
+  "geometry": {"coordinates":[89.36126999999998,25.45764],"type":"Point"}
+}

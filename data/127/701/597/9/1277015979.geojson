@@ -1,0 +1,70 @@
+{
+  "id": 1277015979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.83771,24.49781,91.83771,24.49781",
+    "geom:latitude":24.49781,
+    "geom:longitude":91.83771,
+    "gn:admin1_code":"86",
+    "gn:admin2_code":"6058",
+    "gn:admin3_code":"605880.0",
+    "gn:admin4_code":"60588031.0",
+    "gn:asciiname":"Dewan Bazar",
+    "gn:country_code":"BD",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9256732,
+    "gn:latitude":24.49781,
+    "gn:longitude":91.83771,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Dewan Bazar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669025,
+        1108694693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9256732
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"5e504437b85c91583b4117d50b909fd3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694693,
+            "locality_id":1277015979,
+            "region_id":85669025
+        }
+    ],
+    "wof:id":1277015979,
+    "wof:lastmodified":1536857477,
+    "wof:name":"Dewan Bazar",
+    "wof:parent_id":1108694693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.83771,
+    24.49781,
+    91.83771,
+    24.49781
+],
+  "geometry": {"coordinates":[91.83771,24.49781],"type":"Point"}
+}

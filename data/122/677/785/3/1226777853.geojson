@@ -1,0 +1,73 @@
+{
+  "id": 1226777853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.74054,22.87522,89.74054,22.87522",
+    "geom:latitude":22.87522,
+    "geom:longitude":89.74054,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4001.0",
+    "gn:admin3_code":"400156.0",
+    "gn:admin4_code":"40015685.0",
+    "gn:asciiname":"Mandartali",
+    "gn:country_code":"BD",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7486428,
+    "gn:latitude":22.87522,
+    "gn:longitude":89.74054,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"M\u0101nd\u0101rtali",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "M\u0101nd\u0101rtali"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        421187747
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7486428
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"fa41b494c9b902dccb0e98190fd2cda6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421187747,
+            "locality_id":1226777853,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1226777853,
+    "wof:lastmodified":1537586613,
+    "wof:name":"Mandartali",
+    "wof:parent_id":421187747,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.74054,
+    22.87522,
+    89.74054,
+    22.87522
+],
+  "geometry": {"coordinates":[89.74054,22.87522],"type":"Point"}
+}

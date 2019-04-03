@@ -1,0 +1,70 @@
+{
+  "id": 1259513547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.99417,25.87699,88.99417,25.87699",
+    "geom:latitude":25.87699,
+    "geom:longitude":88.99417,
+    "gn:admin1_code":"83",
+    "gn:asciiname":"Uttar Durakuti",
+    "gn:country_code":"BD",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7489127,
+    "gn:latitude":25.87699,
+    "gn:longitude":88.99417,
+    "gn:modification_date":"2011-07-11",
+    "gn:name":"Uttar Durakuti",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Uttar Durakuti"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7489127
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"c4985d234a5f91408f05d1f6b3415687",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694695,
+            "locality_id":1259513547,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1259513547,
+    "wof:lastmodified":1537586688,
+    "wof:name":"Uttar Durakuti",
+    "wof:parent_id":1108694695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.99417,
+    25.87699,
+    88.99417,
+    25.87699
+],
+  "geometry": {"coordinates":[88.99417,25.87699],"type":"Point"}
+}

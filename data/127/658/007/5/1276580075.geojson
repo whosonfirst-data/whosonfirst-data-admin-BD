@@ -1,0 +1,70 @@
+{
+  "id": 1276580075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.59077,22.15858,90.59077,22.15858",
+    "geom:latitude":22.15858,
+    "geom:longitude":90.59077,
+    "gn:admin1_code":"82",
+    "gn:asciiname":"Patuakhalir Char",
+    "gn:country_code":"BD",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7478303,
+    "gn:latitude":22.15858,
+    "gn:longitude":90.59077,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"Patu\u0101kh\u0101lir Char",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Patu\u0101kh\u0101lir Char"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669019,
+        421184491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7478303
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"bae35ea7d7da7ea975d89390ebd4f766",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421184491,
+            "locality_id":1276580075,
+            "region_id":85669019
+        }
+    ],
+    "wof:id":1276580075,
+    "wof:lastmodified":1537586388,
+    "wof:name":"Patuakhalir Char",
+    "wof:parent_id":421184491,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.59077,
+    22.15858,
+    90.59077,
+    22.15858
+],
+  "geometry": {"coordinates":[90.59077000000001,22.15858],"type":"Point"}
+}

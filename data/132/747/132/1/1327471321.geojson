@@ -1,0 +1,70 @@
+{
+  "id": 1327471321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.83237,24.30858,90.83237,24.30858",
+    "geom:latitude":24.30858,
+    "geom:longitude":90.83237,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3048.0",
+    "gn:admin3_code":"304845.0",
+    "gn:admin4_code":"30484585.0",
+    "gn:asciiname":"Baghata",
+    "gn:country_code":"BD",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1211953,
+    "gn:latitude":24.30858,
+    "gn:longitude":90.83237,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"B\u0101gh\u0101ta",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421170483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1211953
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"1871f80af517f7d79bf613aeb841468b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421170483,
+            "locality_id":1327471321,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1327471321,
+    "wof:lastmodified":1536622431,
+    "wof:name":"Baghata",
+    "wof:parent_id":421170483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.83237,
+    24.30858,
+    90.83237,
+    24.30858
+],
+  "geometry": {"coordinates":[90.83237,24.30858],"type":"Point"}
+}

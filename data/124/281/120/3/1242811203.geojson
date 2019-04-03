@@ -1,0 +1,75 @@
+{
+  "id": 1242811203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.22173,23.09135,90.22173,23.09135",
+    "geom:latitude":23.09135,
+    "geom:longitude":90.22173,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3054.0",
+    "gn:admin3_code":"305440.0",
+    "gn:admin4_code":"30544050.0",
+    "gn:asciiname":"Purba Minajdi",
+    "gn:country_code":"BD",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1203515,
+    "gn:latitude":23.09135,
+    "gn:longitude":90.22173,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Purba Min\u0101jdi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "East Mirajdi",
+        "East Min\u0101jdi",
+        "Purba Min\u0101jdi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421183929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1203515
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"47521cb5cd86c9c9bb034eba501b92b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421183929,
+            "locality_id":1242811203,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1242811203,
+    "wof:lastmodified":1537586040,
+    "wof:name":"Purba Minajdi",
+    "wof:parent_id":421183929,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.22173,
+    23.09135,
+    90.22173,
+    23.09135
+],
+  "geometry": {"coordinates":[90.22172999999999,23.09135],"type":"Point"}
+}

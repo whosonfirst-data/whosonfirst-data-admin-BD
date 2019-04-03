@@ -1,0 +1,83 @@
+{
+  "id": 421205207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.12099,22.40224,89.12099,22.40224",
+    "geom:latitude":22.40224,
+    "geom:longitude":89.12099,
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ben_x_preferred":[
+        "Krishnanagar"
+    ],
+    "name:deu_x_preferred":[
+        "Krishnanagar"
+    ],
+    "qs:gn_country":"BD",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":1196922,
+    "qs:gn_pop":0,
+    "qs:name":"Krishnanagar",
+    "qs:name_adm0":"India",
+    "qs:name_adm1":"West Bengal",
+    "qs:photos":12,
+    "qs:photos_1k":2,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":12,
+    "qs:photos_sr":1,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1198124,
+    "qs:woe_adm0":23424848,
+    "qs:woe_id":29015404,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":81,
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        421201927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1196922,
+        "gp:id":29015404,
+        "qs:id":1198124
+    },
+    "wof:country":"BD",
+    "wof:created":1459010215,
+    "wof:geomhash":"731696694ad4463ca8b2bd95e5602244",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421201927,
+            "locality_id":421205207,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":421205207,
+    "wof:lastmodified":1527716220,
+    "wof:name":"Krishnanagar",
+    "wof:parent_id":421201927,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.12099,
+    22.40224,
+    89.12099,
+    22.40224
+],
+  "geometry": {"coordinates":[89.12099000000001,22.40224],"type":"Point"}
+}

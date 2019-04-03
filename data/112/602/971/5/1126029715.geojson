@@ -1,0 +1,81 @@
+{
+  "id": 1126029715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.78123,22.68768,91.78123,22.68768",
+    "geom:latitude":22.68768,
+    "geom:longitude":91.78123,
+    "gn:gn_country":"BD",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":33200,
+    "gn:population":33200,
+    "iso:country":"BD",
+    "lbl:latitude":22.68768,
+    "lbl:longitude":91.78123,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ben_x_preferred":[
+        "Fatikchari"
+    ],
+    "qs_pg:aaroncc":"BD",
+    "qs_pg:gn_country":"BD",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":6414184,
+    "qs_pg:gn_pop":33200,
+    "qs_pg:name":"Fatikchari",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":7,
+    "qs_pg:qs_id":625222,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421201541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6414184,
+        "qs_pg:id":625222
+    },
+    "wof:country":"BD",
+    "wof:created":1497301384,
+    "wof:geomhash":"4f054245361ba1a9b4965684511761c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421201541,
+            "locality_id":1126029715,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1126029715,
+    "wof:lastmodified":1509407828,
+    "wof:name":"Fatikchari",
+    "wof:parent_id":421201541,
+    "wof:placetype":"locality",
+    "wof:population":33200,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.78123,
+    22.68768,
+    91.78123,
+    22.68768
+],
+  "geometry": {"coordinates":[91.78122999999999,22.68768],"type":"Point"}
+}

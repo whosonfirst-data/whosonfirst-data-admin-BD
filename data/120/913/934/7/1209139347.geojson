@@ -1,0 +1,70 @@
+{
+  "id": 1209139347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.71251,23.86505,88.71251,23.86505",
+    "geom:latitude":23.86505,
+    "geom:longitude":88.71251,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4057",
+    "gn:admin3_code":"405747.0",
+    "gn:admin4_code":"40574742.0",
+    "gn:asciiname":"Mailmari",
+    "gn:country_code":"BD",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1195128,
+    "gn:latitude":23.86505,
+    "gn:longitude":88.71251,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Mailm\u0101ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Mailm\u0101ri"
+    ],
+    "name:ben_x_variant":[
+        "M\u0101lm\u0101ri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1195128
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"c9935116e0c63abb00ebcaebfd0bca68",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209139347
+        }
+    ],
+    "wof:id":1209139347,
+    "wof:lastmodified":1537585881,
+    "wof:name":"Mailmari",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.71251,
+    23.86505,
+    88.71251,
+    23.86505
+],
+  "geometry": {"coordinates":[88.71250999999999,23.86505],"type":"Point"}
+}

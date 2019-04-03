@@ -1,0 +1,73 @@
+{
+  "id": 1293720747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.30313,22.4727,89.30313,22.4727",
+    "geom:latitude":22.4727,
+    "geom:longitude":89.30313,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4047.0",
+    "gn:admin3_code":"404753.0",
+    "gn:admin4_code":"40475305.0",
+    "gn:asciiname":"Bamandanga",
+    "gn:country_code":"BD",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1211206,
+    "gn:latitude":22.4727,
+    "gn:longitude":89.30313,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"B\u0101mand\u0101nga",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "B\u0101mand\u0101nga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        421185473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1211206
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"b6684eb20d1d3a729a92fd2aa2577cda",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421185473,
+            "locality_id":1293720747,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1293720747,
+    "wof:lastmodified":1537586174,
+    "wof:name":"Bamandanga",
+    "wof:parent_id":421185473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.30313000000002,
+    22.4727,
+    89.30313000000002,
+    22.4727
+],
+  "geometry": {"coordinates":[89.30313000000002,22.4727],"type":"Point"}
+}

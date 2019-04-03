@@ -1,0 +1,73 @@
+{
+  "id": 1242815219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.60119,22.75164,89.60119,22.75164",
+    "geom:latitude":22.75164,
+    "geom:longitude":89.60119,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4047.0",
+    "gn:admin3_code":"404712.0",
+    "gn:admin4_code":"40471211.0",
+    "gn:asciiname":"Masidghata",
+    "gn:country_code":"BD",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7486235,
+    "gn:latitude":22.75164,
+    "gn:longitude":89.60119,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Masidgh\u0101ta",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Masidgh\u0101ta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        421185473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7486235
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"e52229639460c48933fd9b41826bfae8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421185473,
+            "locality_id":1242815219,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1242815219,
+    "wof:lastmodified":1537586608,
+    "wof:name":"Masidghata",
+    "wof:parent_id":421185473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.60119,
+    22.75164,
+    89.60119,
+    22.75164
+],
+  "geometry": {"coordinates":[89.60119,22.75164],"type":"Point"}
+}

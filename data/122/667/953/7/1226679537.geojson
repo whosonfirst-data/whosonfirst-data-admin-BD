@@ -1,0 +1,70 @@
+{
+  "id": 1226679537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.34362,22.20491,90.34362,22.20491",
+    "geom:latitude":22.20491,
+    "geom:longitude":90.34362,
+    "gn:admin1_code":"82",
+    "gn:asciiname":"Godanga",
+    "gn:country_code":"BD",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7478636,
+    "gn:latitude":22.20491,
+    "gn:longitude":90.34362,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"God\u0101nga",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "God\u0101nga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669019,
+        421176043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7478636
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"294564b5a8f4da12ed20bf87a67e04bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421176043,
+            "locality_id":1226679537,
+            "region_id":85669019
+        }
+    ],
+    "wof:id":1226679537,
+    "wof:lastmodified":1537586397,
+    "wof:name":"Godanga",
+    "wof:parent_id":421176043,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.34362,
+    22.20491,
+    90.34362,
+    22.20491
+],
+  "geometry": {"coordinates":[90.34362,22.20491],"type":"Point"}
+}

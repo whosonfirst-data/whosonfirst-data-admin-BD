@@ -1,0 +1,74 @@
+{
+  "id": 1259613247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.71105,24.96122,91.71105,24.96122",
+    "geom:latitude":24.96122,
+    "geom:longitude":91.71105,
+    "gn:admin1_code":"86",
+    "gn:admin2_code":"6091.0",
+    "gn:admin3_code":"609162.0",
+    "gn:admin4_code":"60916226.0",
+    "gn:asciiname":"Alinagar",
+    "gn:country_code":"BD",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1212971,
+    "gn:latitude":24.96122,
+    "gn:longitude":91.71105,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Alinagar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Palpur-Alinagar",
+        "Alinagar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669025,
+        421201931
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1212971
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"78f3e90fb443a4ada42b45d5b8b94ce0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421201931,
+            "locality_id":1259613247,
+            "region_id":85669025
+        }
+    ],
+    "wof:id":1259613247,
+    "wof:lastmodified":1537586205,
+    "wof:name":"Alinagar",
+    "wof:parent_id":421201931,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.71105,
+    24.96122,
+    91.71105,
+    24.96122
+],
+  "geometry": {"coordinates":[91.71105,24.96122],"type":"Point"}
+}

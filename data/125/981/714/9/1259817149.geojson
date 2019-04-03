@@ -1,0 +1,73 @@
+{
+  "id": 1259817149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.88549,23.63415,88.88549,23.63415",
+    "geom:latitude":23.63415,
+    "geom:longitude":88.88549,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4018.0",
+    "gn:admin3_code":"401823.0",
+    "gn:admin4_code":"40182359.0",
+    "gn:asciiname":"Gopalnagar",
+    "gn:country_code":"BD",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7484773,
+    "gn:latitude":23.63415,
+    "gn:longitude":88.88549,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Gop\u0101lnagar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Gop\u0101lnagar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        421194153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7484773
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"9b8dea58bc5955c573ff228a71146ec1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421194153,
+            "locality_id":1259817149,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1259817149,
+    "wof:lastmodified":1537586574,
+    "wof:name":"Gopalnagar",
+    "wof:parent_id":421194153,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.88549,
+    23.63415,
+    88.88549,
+    23.63415
+],
+  "geometry": {"coordinates":[88.88549,23.63415],"type":"Point"}
+}

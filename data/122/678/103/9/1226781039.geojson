@@ -1,0 +1,73 @@
+{
+  "id": 1226781039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.22335,23.99609,89.22335,23.99609",
+    "geom:latitude":23.99609,
+    "geom:longitude":89.22335,
+    "gn:admin1_code":"83",
+    "gn:admin2_code":"5076",
+    "gn:admin3_code":"507655.0",
+    "gn:admin4_code":"50765543.0",
+    "gn:asciiname":"Lakshmikol",
+    "gn:country_code":"BD",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1196328,
+    "gn:latitude":23.99609,
+    "gn:longitude":89.22335,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Lakshmikol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Lakshmikol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669031,
+        421197541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1196328
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"9c11bbda7b0ddc454df00e0e1582a6c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421197541,
+            "locality_id":1226781039,
+            "region_id":85669031
+        }
+    ],
+    "wof:id":1226781039,
+    "wof:lastmodified":1537585904,
+    "wof:name":"Lakshmikol",
+    "wof:parent_id":421197541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.22335,
+    23.99609,
+    89.22335,
+    23.99609
+],
+  "geometry": {"coordinates":[89.22335,23.99609],"type":"Point"}
+}

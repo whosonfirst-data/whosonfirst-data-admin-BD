@@ -1,0 +1,70 @@
+{
+  "id": 1327471161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.0469,24.94931,90.0469,24.94931",
+    "geom:latitude":24.94931,
+    "geom:longitude":90.0469,
+    "gn:admin1_code":"H",
+    "gn:admin2_code":"3089",
+    "gn:admin3_code":"308988.0",
+    "gn:admin4_code":"30898813.0",
+    "gn:asciiname":"Jangaldi",
+    "gn:country_code":"BD",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1200244,
+    "gn:latitude":24.94931,
+    "gn:longitude":90.0469,
+    "gn:modification_date":"2016-11-17",
+    "gn:name":"Jangaldi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        1108803101,
+        421190979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1200244
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"a8a1cd345a4d0201f0df2dc3a2b1b056",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421190979,
+            "locality_id":1327471161,
+            "region_id":1108803101
+        }
+    ],
+    "wof:id":1327471161,
+    "wof:lastmodified":1536622669,
+    "wof:name":"Jangaldi",
+    "wof:parent_id":421190979,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.0469,
+    24.94931,
+    90.0469,
+    24.94931
+],
+  "geometry": {"coordinates":[90.04689999999999,24.94931],"type":"Point"}
+}

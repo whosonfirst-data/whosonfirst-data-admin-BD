@@ -1,0 +1,73 @@
+{
+  "id": 1327060111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.0091,23.83802,89.0091,23.83802",
+    "geom:latitude":23.83802,
+    "geom:longitude":89.0091,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4050.0",
+    "gn:admin3_code":"405094.0",
+    "gn:admin4_code":"40509480.0",
+    "gn:asciiname":"Bolur Char",
+    "gn:country_code":"BD",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7485633,
+    "gn:latitude":23.83802,
+    "gn:longitude":89.0091,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Bolur Char",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Bolur Char"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        890438075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7485633
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"ce29b57095f4a08d03ad9481e5d2b4be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":890438075,
+            "locality_id":1327060111,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1327060111,
+    "wof:lastmodified":1537586596,
+    "wof:name":"Bolur Char",
+    "wof:parent_id":890438075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.0091,
+    23.83802,
+    89.0091,
+    23.83802
+],
+  "geometry": {"coordinates":[89.0091,23.83802],"type":"Point"}
+}

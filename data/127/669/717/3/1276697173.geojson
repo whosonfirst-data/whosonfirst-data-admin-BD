@@ -1,0 +1,73 @@
+{
+  "id": 1276697173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.24317,26.0327,89.24317,26.0327",
+    "geom:latitude":26.0327,
+    "geom:longitude":89.24317,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5552",
+    "gn:admin3_code":"555233.0",
+    "gn:admin4_code":"55523319.0",
+    "gn:asciiname":"Bhalaguri",
+    "gn:country_code":"BD",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8207420,
+    "gn:latitude":26.0327,
+    "gn:longitude":89.24317,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Bhalaguri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Bhalaguri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8207420
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"8dae16a4dacfb8bdeed40c7bfe0b409d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694687,
+            "locality_id":1276697173,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1276697173,
+    "wof:lastmodified":1537586863,
+    "wof:name":"Bhalaguri",
+    "wof:parent_id":1108694687,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.24316999999998,
+    26.0327,
+    89.24316999999998,
+    26.0327
+],
+  "geometry": {"coordinates":[89.24316999999998,26.0327],"type":"Point"}
+}

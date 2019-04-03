@@ -1,0 +1,70 @@
+{
+  "id": 1276267997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.95623,23.61863,91.95623,23.61863",
+    "geom:latitude":23.61863,
+    "geom:longitude":91.95623,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2046",
+    "gn:admin3_code":"204643.0",
+    "gn:admin4_code":"20464315.0",
+    "gn:asciiname":"Silchari Bazar",
+    "gn:country_code":"BD",
+    "gn:dem":120,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1187923,
+    "gn:latitude":23.61863,
+    "gn:longitude":91.95623,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Silchari B\u0101z\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        1108694683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1187923
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"64ff41c769f8ba0b194154eaaac7402c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694683,
+            "locality_id":1276267997,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1276267997,
+    "wof:lastmodified":1536864861,
+    "wof:name":"Silchari Bazar",
+    "wof:parent_id":1108694683,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.95623,
+    23.61863,
+    91.95623,
+    23.61863
+],
+  "geometry": {"coordinates":[91.95623000000001,23.61863],"type":"Point"}
+}

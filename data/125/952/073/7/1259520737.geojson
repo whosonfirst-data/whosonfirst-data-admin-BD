@@ -1,0 +1,74 @@
+{
+  "id": 1259520737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.01444,24.4557,90.01444,24.4557",
+    "geom:latitude":24.4557,
+    "geom:longitude":90.01444,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3093",
+    "gn:admin3_code":"309328.0",
+    "gn:admin4_code":"30932894.0",
+    "gn:asciiname":"Sahdbanpur",
+    "gn:country_code":"BD",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1188834,
+    "gn:latitude":24.4557,
+    "gn:longitude":90.01444,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Sahdb\u0101npur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sahdb\u0101npur",
+        "Sandh\u0101npur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421185471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1188834
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"95d3cf23e7959634a8dd07937f4872e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421185471,
+            "locality_id":1259520737,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1259520737,
+    "wof:lastmodified":1537585768,
+    "wof:name":"Sahdbanpur",
+    "wof:parent_id":421185471,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.01444000000002,
+    24.4557,
+    90.01444000000002,
+    24.4557
+],
+  "geometry": {"coordinates":[90.01444000000002,24.4557],"type":"Point"}
+}

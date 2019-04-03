@@ -1,0 +1,74 @@
+{
+  "id": 1193167471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.1,24.95,89.1,24.95",
+    "geom:latitude":24.95,
+    "geom:longitude":89.1,
+    "gn:admin1_code":"83",
+    "gn:admin2_code":"5010",
+    "gn:admin3_code":"501033.0",
+    "gn:admin4_code":"50103381.0",
+    "gn:asciiname":"Murtazapur",
+    "gn:country_code":"BD",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1193887,
+    "gn:latitude":24.95,
+    "gn:longitude":89.1,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Murtaz\u0101pur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Murtajapur",
+        "Murtaz\u0101pur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669031,
+        421187793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1193887
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"26dfcc1e005f391a50e3e1a2014a541c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421187793,
+            "locality_id":1193167471,
+            "region_id":85669031
+        }
+    ],
+    "wof:id":1193167471,
+    "wof:lastmodified":1537585859,
+    "wof:name":"Murtazapur",
+    "wof:parent_id":421187793,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.1,
+    24.95,
+    89.1,
+    24.95
+],
+  "geometry": {"coordinates":[89.09999999999999,24.95],"type":"Point"}
+}

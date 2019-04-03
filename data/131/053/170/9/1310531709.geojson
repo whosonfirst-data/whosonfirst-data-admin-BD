@@ -1,0 +1,70 @@
+{
+  "id": 1310531709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.01605,24.58953,90.01605,24.58953",
+    "geom:latitude":24.58953,
+    "geom:longitude":90.01605,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3093.0",
+    "gn:admin3_code":"309357.0",
+    "gn:admin4_code":"30935709.0",
+    "gn:asciiname":"Habibpur",
+    "gn:country_code":"BD",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1201800,
+    "gn:latitude":24.58953,
+    "gn:longitude":90.01605,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Habibpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421185471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1201800
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"0551a810a57f2bba976dc7d69d992542",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421185471,
+            "locality_id":1310531709,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1310531709,
+    "wof:lastmodified":1536878420,
+    "wof:name":"Habibpur",
+    "wof:parent_id":421185471,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.01605,
+    24.58953,
+    90.01605,
+    24.58953
+],
+  "geometry": {"coordinates":[90.01605000000001,24.58953],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1343389291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.75689,24.78925,90.75689,24.78925",
+    "geom:latitude":24.78925,
+    "geom:longitude":90.75689,
+    "gn:admin1_code":"H",
+    "gn:admin2_code":"3072",
+    "gn:admin3_code":"307274.0",
+    "gn:admin4_code":"30727454.0",
+    "gn:asciiname":"Narendranagar",
+    "gn:country_code":"BD",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1193207,
+    "gn:latitude":24.78925,
+    "gn:longitude":90.75689,
+    "gn:modification_date":"2016-11-17",
+    "gn:name":"Narendranagar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        1108803101,
+        421200811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1193207
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"5d29c5030eb481af37296e6b327dcb30",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421200811,
+            "locality_id":1343389291,
+            "region_id":1108803101
+        }
+    ],
+    "wof:id":1343389291,
+    "wof:lastmodified":1536847976,
+    "wof:name":"Narendranagar",
+    "wof:parent_id":421200811,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.75689,
+    24.78925,
+    90.75689,
+    24.78925
+],
+  "geometry": {"coordinates":[90.75689,24.78925],"type":"Point"}
+}

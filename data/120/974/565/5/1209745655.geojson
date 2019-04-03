@@ -1,0 +1,76 @@
+{
+  "id": 1209745655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.95224,23.83609,88.95224,23.83609",
+    "geom:latitude":23.83609,
+    "geom:longitude":88.95224,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4050",
+    "gn:admin3_code":"405094.0",
+    "gn:admin4_code":"40509458.0",
+    "gn:asciiname":"Kursha",
+    "gn:country_code":"BD",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1196536,
+    "gn:latitude":23.83609,
+    "gn:longitude":88.95224,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Kursha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Kursha"
+    ],
+    "name:und_x_variant":[
+        "Kursa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        890438075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1196536
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"8fb2c0a65833bc9f487a17a5f938ee5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":890438075,
+            "locality_id":1209745655,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1209745655,
+    "wof:lastmodified":1537585908,
+    "wof:name":"Kursha",
+    "wof:parent_id":890438075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.95224,
+    23.83609,
+    88.95224,
+    23.83609
+],
+  "geometry": {"coordinates":[88.95224,23.83609],"type":"Point"}
+}

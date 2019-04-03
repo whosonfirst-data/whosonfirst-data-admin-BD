@@ -1,0 +1,70 @@
+{
+  "id": 1209745639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.95898,24.6504,89.95898,24.6504",
+    "geom:latitude":24.6504,
+    "geom:longitude":89.95898,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3093.0",
+    "gn:admin3_code":"309358.0",
+    "gn:admin4_code":"30935857.0",
+    "gn:asciiname":"Dayarambari",
+    "gn:country_code":"BD",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1204808,
+    "gn:latitude":24.6504,
+    "gn:longitude":89.95898,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Day\u0101r\u0101mb\u0101ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421185471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1204808
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"5f55d88b5ff797e8028c121b3bf6ba03",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421185471,
+            "locality_id":1209745639,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1209745639,
+    "wof:lastmodified":1536395134,
+    "wof:name":"Dayarambari",
+    "wof:parent_id":421185471,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.95898000000003,
+    24.6504,
+    89.95898000000003,
+    24.6504
+],
+  "geometry": {"coordinates":[89.95898000000003,24.6504],"type":"Point"}
+}

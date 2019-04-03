@@ -1,0 +1,73 @@
+{
+  "id": 1327082719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"92.23693,22.17359,92.23693,22.17359",
+    "geom:latitude":22.17359,
+    "geom:longitude":92.23693,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2003.0",
+    "gn:admin3_code":"200389.0",
+    "gn:admin4_code":"20038976.0",
+    "gn:asciiname":"Khamrutanropara",
+    "gn:country_code":"BD",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6416905,
+    "gn:latitude":22.17359,
+    "gn:longitude":92.23693,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Khamrut\u0101nrop\u0101ra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Khamrut\u0101nrop\u0101ra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421169477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6416905
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"0bf558504e3887b38edcb648627b1783",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421169477,
+            "locality_id":1327082719,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1327082719,
+    "wof:lastmodified":1537586271,
+    "wof:name":"Khamrutanropara",
+    "wof:parent_id":421169477,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    92.23693,
+    22.17359,
+    92.23693,
+    22.17359
+],
+  "geometry": {"coordinates":[92.23693,22.17359],"type":"Point"}
+}

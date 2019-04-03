@@ -1,0 +1,83 @@
+{
+  "id": 1293330135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.98673,24.41112,88.98673,24.41112",
+    "geom:latitude":24.41112,
+    "geom:longitude":88.98673,
+    "gn:admin1_code":"83",
+    "gn:admin2_code":"5069.0",
+    "gn:admin3_code":"506963.0",
+    "gn:admin4_code":"50696300.0",
+    "gn:asciiname":"Natore",
+    "gn:country_code":"BD",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7483813,
+    "gn:latitude":24.41112,
+    "gn:longitude":88.98673,
+    "gn:modification_date":"2017-06-26",
+    "gn:name":"Natore",
+    "gn:population":369138,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "N\u0101tor"
+    ],
+    "name:eng_x_preferred":[
+        "Natore"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u0430\u0442\u043e\u0440"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669031,
+        421182115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7483813,
+        "wk:page":"Natore_District"
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"ed75dd1f128039ce49860f8750d84d09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421182115,
+            "locality_id":1293330135,
+            "region_id":85669031
+        }
+    ],
+    "wof:id":1293330135,
+    "wof:lastmodified":1537586547,
+    "wof:name":"Natore",
+    "wof:parent_id":421182115,
+    "wof:placetype":"locality",
+    "wof:population":369138,
+    "wof:population_rank":10,
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.98673000000002,
+    24.41112,
+    88.98673000000002,
+    24.41112
+],
+  "geometry": {"coordinates":[88.98673000000002,24.41112],"type":"Point"}
+}

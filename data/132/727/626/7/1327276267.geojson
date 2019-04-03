@@ -1,0 +1,74 @@
+{
+  "id": 1327276267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.77089,23.58497,90.77089,23.58497",
+    "geom:latitude":23.58497,
+    "geom:longitude":90.77089,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2019",
+    "gn:admin3_code":"201937.0",
+    "gn:admin4_code":"20193769.0",
+    "gn:asciiname":"Shahabarddi",
+    "gn:country_code":"BD",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1188224,
+    "gn:latitude":23.58497,
+    "gn:longitude":90.77089,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Sh\u0101h\u0101barddi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sahabardi",
+        "Sh\u0101h\u0101barddi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421187801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1188224
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"5e7d154c27a926ac538d37911d7c9936",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421187801,
+            "locality_id":1327276267,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1327276267,
+    "wof:lastmodified":1537585757,
+    "wof:name":"Shahabarddi",
+    "wof:parent_id":421187801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.77089,
+    23.58497,
+    90.77089,
+    23.58497
+],
+  "geometry": {"coordinates":[90.77088999999999,23.58497],"type":"Point"}
+}

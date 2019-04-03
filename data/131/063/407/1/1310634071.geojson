@@ -1,0 +1,73 @@
+{
+  "id": 1310634071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.52241,23.75819,89.52241,23.75819",
+    "geom:latitude":23.75819,
+    "geom:longitude":89.52241,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3082.0",
+    "gn:admin3_code":"308273.0",
+    "gn:admin4_code":"30827360.0",
+    "gn:asciiname":"Shibanahdapar",
+    "gn:country_code":"BD",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7479574,
+    "gn:latitude":23.75819,
+    "gn:longitude":89.52241,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Shib\u0101nahdapar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Shib\u0101nahdapar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        1108694699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7479574
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"d2924a67933d84965c4ba842b3ac23eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694699,
+            "locality_id":1310634071,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1310634071,
+    "wof:lastmodified":1537586424,
+    "wof:name":"Shibanahdapar",
+    "wof:parent_id":1108694699,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.52241,
+    23.75819,
+    89.52241,
+    23.75819
+],
+  "geometry": {"coordinates":[89.52240999999999,23.75819],"type":"Point"}
+}

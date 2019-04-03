@@ -1,0 +1,73 @@
+{
+  "id": 1259909801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.15053,24.5781,88.15053,24.5781",
+    "geom:latitude":24.5781,
+    "geom:longitude":88.15053,
+    "gn:admin1_code":"83",
+    "gn:admin2_code":"5070.0",
+    "gn:admin3_code":"507066.0",
+    "gn:admin4_code":"50706667.0",
+    "gn:asciiname":"Sarja Narayanpur",
+    "gn:country_code":"BD",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7482185,
+    "gn:latitude":24.5781,
+    "gn:longitude":88.15053,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Sarja N\u0101r\u0101yanpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Sarja N\u0101r\u0101yanpur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669031,
+        421191607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7482185
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"a675c6aeae3e93a552fe1287d9a521e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421191607,
+            "locality_id":1259909801,
+            "region_id":85669031
+        }
+    ],
+    "wof:id":1259909801,
+    "wof:lastmodified":1537586500,
+    "wof:name":"Sarja Narayanpur",
+    "wof:parent_id":421191607,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.15053,
+    24.5781,
+    88.15053,
+    24.5781
+],
+  "geometry": {"coordinates":[88.15053,24.5781],"type":"Point"}
+}

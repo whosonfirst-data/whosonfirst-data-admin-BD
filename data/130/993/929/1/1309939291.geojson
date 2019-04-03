@@ -1,0 +1,70 @@
+{
+  "id": 1309939291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.84855,25.15707,89.84855,25.15707",
+    "geom:latitude":25.15707,
+    "geom:longitude":89.84855,
+    "gn:admin1_code":"H",
+    "gn:admin2_code":"3039",
+    "gn:admin3_code":"303907.0",
+    "gn:admin4_code":"30390759.0",
+    "gn:asciiname":"Jaqirpara",
+    "gn:country_code":"BD",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7914186,
+    "gn:latitude":25.15707,
+    "gn:longitude":89.84855,
+    "gn:modification_date":"2016-11-17",
+    "gn:name":"Jaqirpara",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        1108803101,
+        421191923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7914186
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"ad1c6c51a30859f2fad8da282f558672",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421191923,
+            "locality_id":1309939291,
+            "region_id":1108803101
+        }
+    ],
+    "wof:id":1309939291,
+    "wof:lastmodified":1536738730,
+    "wof:name":"Jaqirpara",
+    "wof:parent_id":421191923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.84855,
+    25.15707,
+    89.84855,
+    25.15707
+],
+  "geometry": {"coordinates":[89.84855,25.15707],"type":"Point"}
+}

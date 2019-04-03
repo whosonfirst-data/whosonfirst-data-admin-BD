@@ -1,0 +1,73 @@
+{
+  "id": 1259631841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"92.02651,22.18514,92.02651,22.18514",
+    "geom:latitude":22.18514,
+    "geom:longitude":92.02651,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2015.0",
+    "gn:admin3_code":"201518.0",
+    "gn:admin4_code":"20151895.0",
+    "gn:asciiname":"Beoparipara",
+    "gn:country_code":"BD",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6416402,
+    "gn:latitude":22.18514,
+    "gn:longitude":92.02651,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Beop\u0101r\u012bp\u0101ra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Beop\u0101r\u012bp\u0101ra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421201541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6416402
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"14d2a30dd4e7be8cb01d01107e6dfcd2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421201541,
+            "locality_id":1259631841,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1259631841,
+    "wof:lastmodified":1537586262,
+    "wof:name":"Beoparipara",
+    "wof:parent_id":421201541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    92.02651,
+    22.18514,
+    92.02651,
+    22.18514
+],
+  "geometry": {"coordinates":[92.02651,22.18514],"type":"Point"}
+}

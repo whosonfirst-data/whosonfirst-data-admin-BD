@@ -1,0 +1,70 @@
+{
+  "id": 1343988089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.56748,24.63464,90.56748,24.63464",
+    "geom:latitude":24.63464,
+    "geom:longitude":90.56748,
+    "gn:admin1_code":"H",
+    "gn:admin2_code":"3061.0",
+    "gn:admin3_code":"306131.0",
+    "gn:admin4_code":"30613113.0",
+    "gn:asciiname":"Buniadpur",
+    "gn:country_code":"BD",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1208032,
+    "gn:latitude":24.63464,
+    "gn:longitude":90.56748,
+    "gn:modification_date":"2016-11-17",
+    "gn:name":"Buni\u0101dpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        1108803101,
+        421185469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1208032
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"ac2ef88f72ac4885109b2c6b23df8dba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421185469,
+            "locality_id":1343988089,
+            "region_id":1108803101
+        }
+    ],
+    "wof:id":1343988089,
+    "wof:lastmodified":1536979596,
+    "wof:name":"Buniadpur",
+    "wof:parent_id":421185469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.56748,
+    24.63464,
+    90.56748,
+    24.63464
+],
+  "geometry": {"coordinates":[90.56748,24.63464],"type":"Point"}
+}

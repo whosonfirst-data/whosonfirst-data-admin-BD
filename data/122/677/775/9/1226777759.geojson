@@ -1,0 +1,70 @@
+{
+  "id": 1226777759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.01371,25.26271,89.01371,25.26271",
+    "geom:latitude":25.26271,
+    "geom:longitude":89.01371,
+    "gn:admin1_code":"87",
+    "gn:asciiname":"Bhimpur",
+    "gn:country_code":"BD",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8065024,
+    "gn:latitude":25.26271,
+    "gn:longitude":89.01371,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Bhimpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Bhimpur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669031,
+        1108694681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8065024
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"98a061ccd02afb1566bc15764b84ad0b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694681,
+            "locality_id":1226777759,
+            "region_id":85669031
+        }
+    ],
+    "wof:id":1226777759,
+    "wof:lastmodified":1537586858,
+    "wof:name":"Bhimpur",
+    "wof:parent_id":1108694681,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.01371,
+    25.26271,
+    89.01371,
+    25.26271
+],
+  "geometry": {"coordinates":[89.01371,25.26271],"type":"Point"}
+}

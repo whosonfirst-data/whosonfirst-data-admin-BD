@@ -1,0 +1,73 @@
+{
+  "id": 1259909969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.08782,26.04939,89.08782,26.04939",
+    "geom:latitude":26.04939,
+    "geom:longitude":89.08782,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5573",
+    "gn:admin3_code":"557336.0",
+    "gn:admin4_code":"55733614.0",
+    "gn:asciiname":"Paschim Haldibari",
+    "gn:country_code":"BD",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8207247,
+    "gn:latitude":26.04939,
+    "gn:longitude":89.08782,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Paschim Haldibari",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Paschim Haldibari"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8207247
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"c93a68c5b7f490aee74b0a590555fe87",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694695,
+            "locality_id":1259909969,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1259909969,
+    "wof:lastmodified":1537586862,
+    "wof:name":"Paschim Haldibari",
+    "wof:parent_id":1108694695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.08782,
+    26.04939,
+    89.08782,
+    26.04939
+],
+  "geometry": {"coordinates":[89.08781999999999,26.04939],"type":"Point"}
+}

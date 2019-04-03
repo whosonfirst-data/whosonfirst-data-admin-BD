@@ -1,0 +1,74 @@
+{
+  "id": 1276580263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.15188,22.69563,90.15188,22.69563",
+    "geom:latitude":22.69563,
+    "geom:longitude":90.15188,
+    "gn:admin1_code":"85",
+    "gn:admin2_code":"1042.0",
+    "gn:admin3_code":"104240.0",
+    "gn:admin4_code":"10424066.0",
+    "gn:asciiname":"Bisainkhan",
+    "gn:country_code":"BD",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1208351,
+    "gn:latitude":22.69563,
+    "gn:longitude":90.15188,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Bis\u0101inkhan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bis\u0101inkhan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669019,
+        1108694677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1208351,
+        "wk:page":"Bisainkhan"
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"fe2b7a1b12770031dcd4a90423209f59",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694677,
+            "locality_id":1276580263,
+            "region_id":85669019
+        }
+    ],
+    "wof:id":1276580263,
+    "wof:lastmodified":1537586128,
+    "wof:name":"Bisainkhan",
+    "wof:parent_id":1108694677,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.15188,
+    22.69563,
+    90.15188,
+    22.69563
+],
+  "geometry": {"coordinates":[90.15188000000001,22.69563],"type":"Point"}
+}

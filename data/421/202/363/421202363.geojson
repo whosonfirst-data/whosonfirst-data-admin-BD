@@ -1,0 +1,86 @@
+{
+  "id": 421202363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.73708,22.33774,90.73708,22.33774",
+    "geom:latitude":22.33774,
+    "geom:longitude":90.73708,
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ben_x_preferred":[
+        "L\u0101lmohan"
+    ],
+    "name:unk_x_variant":[
+        "Char L\u0101lmohan"
+    ],
+    "qs:gn_country":"BD",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":1185251,
+    "qs:gn_pop":42220,
+    "qs:name":"Lalmohan",
+    "qs:name_adm0":"Bangladesh",
+    "qs:name_adm1":"Barisal",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":184,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":221502,
+    "qs:woe_adm0":23424759,
+    "qs:woe_id":1904436,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":54,
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669019,
+        421184491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1185251,
+        "gp:id":1904436,
+        "qs:id":221502
+    },
+    "wof:country":"BD",
+    "wof:created":1459010115,
+    "wof:geomhash":"a9f833201950693b8930f2baf84246ee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421184491,
+            "locality_id":421202363,
+            "region_id":85669019
+        }
+    ],
+    "wof:id":421202363,
+    "wof:lastmodified":1527716204,
+    "wof:name":"Lalmohan",
+    "wof:parent_id":421184491,
+    "wof:placetype":"locality",
+    "wof:population":42220,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.73708,
+    22.33774,
+    90.73708,
+    22.33774
+],
+  "geometry": {"coordinates":[90.73708000000001,22.33774],"type":"Point"}
+}

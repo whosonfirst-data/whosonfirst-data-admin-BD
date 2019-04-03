@@ -1,0 +1,74 @@
+{
+  "id": 1226581871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.90968,23.32653,90.90968,23.32653",
+    "geom:latitude":23.32653,
+    "geom:longitude":90.90968,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2013",
+    "gn:admin3_code":"201358.0",
+    "gn:admin4_code":"20135863.0",
+    "gn:asciiname":"Manoharpur",
+    "gn:country_code":"BD",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1194895,
+    "gn:latitude":23.32653,
+    "gn:longitude":90.90968,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Manoharpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Monoharpur",
+        "Manoharpur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        1108694669
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1194895
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"cda47e1016706f5f97199f3270f086ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694669,
+            "locality_id":1226581871,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1226581871,
+    "wof:lastmodified":1537585877,
+    "wof:name":"Manoharpur",
+    "wof:parent_id":1108694669,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.90968,
+    23.32653,
+    90.90968,
+    23.32653
+],
+  "geometry": {"coordinates":[90.90967999999999,23.32653],"type":"Point"}
+}

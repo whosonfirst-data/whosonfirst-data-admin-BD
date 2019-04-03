@@ -1,0 +1,74 @@
+{
+  "id": 1193066099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.73843,23.17919,90.73843,23.17919",
+    "geom:latitude":23.17919,
+    "geom:longitude":90.73843,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2013",
+    "gn:admin3_code":"201345.0",
+    "gn:admin4_code":"20134505.0",
+    "gn:asciiname":"Maniktaz",
+    "gn:country_code":"BD",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1194932,
+    "gn:latitude":23.17919,
+    "gn:longitude":90.73843,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"M\u0101nikt\u0101z",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "M\u0101nikt\u0101z",
+        "M\u0101nikr\u0101j"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        1108694669
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1194932
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"3374f3c1b525ff9e8e99496090568d41",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694669,
+            "locality_id":1193066099,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1193066099,
+    "wof:lastmodified":1537585877,
+    "wof:name":"Maniktaz",
+    "wof:parent_id":1108694669,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.73843,
+    23.17919,
+    90.73843,
+    23.17919
+],
+  "geometry": {"coordinates":[90.73842999999999,23.17919],"type":"Point"}
+}

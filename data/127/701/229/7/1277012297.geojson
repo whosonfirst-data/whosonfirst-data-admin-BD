@@ -1,0 +1,73 @@
+{
+  "id": 1277012297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.64248,23.22796,89.64248,23.22796",
+    "geom:latitude":23.22796,
+    "geom:longitude":89.64248,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4065.0",
+    "gn:admin3_code":"406552.0",
+    "gn:admin4_code":"40655223.0",
+    "gn:asciiname":"Chachai",
+    "gn:country_code":"BD",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1207972,
+    "gn:latitude":23.22796,
+    "gn:longitude":89.64248,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Ch\u0101chai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Ch\u0101chai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        421205213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1207972
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"ba54ae59fdd79833a9c08481c04819aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421205213,
+            "locality_id":1277012297,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1277012297,
+    "wof:lastmodified":1537586121,
+    "wof:name":"Chachai",
+    "wof:parent_id":421205213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.64248,
+    23.22796,
+    89.64248,
+    23.22796
+],
+  "geometry": {"coordinates":[89.64248000000001,23.22796],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1242715463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.3815,22.91743,90.3815,22.91743",
+    "geom:latitude":22.91743,
+    "geom:longitude":90.3815,
+    "gn:admin1_code":"85",
+    "gn:admin2_code":"1006.0",
+    "gn:admin3_code":"100669.0",
+    "gn:admin4_code":"10066959.0",
+    "gn:asciiname":"Bhangar Mona",
+    "gn:country_code":"BD",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1209218,
+    "gn:latitude":22.91743,
+    "gn:longitude":90.3815,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Bh\u0101ng\u0101r Mona",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bh\u0101ng\u0101r Mona"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669019,
+        421187745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1209218,
+        "wk:page":"Bhangar_Mona"
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"94eb05b97d7908acaf4b98493ea82bff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421187745,
+            "locality_id":1242715463,
+            "region_id":85669019
+        }
+    ],
+    "wof:id":1242715463,
+    "wof:lastmodified":1537586143,
+    "wof:name":"Bhangar Mona",
+    "wof:parent_id":421187745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.3815,
+    22.91743,
+    90.3815,
+    22.91743
+],
+  "geometry": {"coordinates":[90.3815,22.91743],"type":"Point"}
+}

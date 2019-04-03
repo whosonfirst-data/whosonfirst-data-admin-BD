@@ -1,0 +1,70 @@
+{
+  "id": 1242903883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.58422,23.70181,90.58422,23.70181",
+    "geom:latitude":23.70181,
+    "geom:longitude":90.58422,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3067",
+    "gn:admin3_code":"306704.0",
+    "gn:admin4_code":"30670477.0",
+    "gn:asciiname":"Kumar Char",
+    "gn:country_code":"BD",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1196722,
+    "gn:latitude":23.70181,
+    "gn:longitude":90.58422,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Kum\u0101r Char",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421197045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1196722
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"4e6ea9899f13b1ceb3238112143724cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421197045,
+            "locality_id":1242903883,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1242903883,
+    "wof:lastmodified":1537087651,
+    "wof:name":"Kumar Char",
+    "wof:parent_id":421197045,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.58422,
+    23.70181,
+    90.58422,
+    23.70181
+],
+  "geometry": {"coordinates":[90.58422,23.70181],"type":"Point"}
+}

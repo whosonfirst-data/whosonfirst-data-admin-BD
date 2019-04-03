@@ -1,0 +1,70 @@
+{
+  "id": 1343699971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.94589,21.52936,91.94589,21.52936",
+    "geom:latitude":21.52936,
+    "geom:longitude":91.94589,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2022.0",
+    "gn:admin3_code":"202249.0",
+    "gn:admin4_code":"20224911.0",
+    "gn:asciiname":"Jagiraghona",
+    "gn:country_code":"BD",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6416205,
+    "gn:latitude":21.52936,
+    "gn:longitude":91.94589,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"J\u0101g\u012braghona",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421205057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6416205
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"c70e3dd204c78aec9af2b26e10291d58",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421205057,
+            "locality_id":1343699971,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1343699971,
+    "wof:lastmodified":1536898018,
+    "wof:name":"Jagiraghona",
+    "wof:parent_id":421205057,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.94589,
+    21.52936,
+    91.94589,
+    21.52936
+],
+  "geometry": {"coordinates":[91.94589000000001,21.52936],"type":"Point"}
+}

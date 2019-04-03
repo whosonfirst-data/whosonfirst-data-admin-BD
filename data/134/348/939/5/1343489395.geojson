@@ -1,0 +1,73 @@
+{
+  "id": 1343489395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.421,25.3003,89.421,25.3003",
+    "geom:latitude":25.3003,
+    "geom:longitude":89.421,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5532",
+    "gn:admin3_code":"553282.0",
+    "gn:admin4_code":"55328269.0",
+    "gn:asciiname":"Dholbanga",
+    "gn:country_code":"BD",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7895619,
+    "gn:latitude":25.3003,
+    "gn:longitude":89.421,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Dholbanga",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Dholbanga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7895619
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"4d1906df7aeaf480acfff7c710cdb3ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694675,
+            "locality_id":1343489395,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1343489395,
+    "wof:lastmodified":1537586765,
+    "wof:name":"Dholbanga",
+    "wof:parent_id":1108694675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.421,
+    25.3003,
+    89.421,
+    25.3003
+],
+  "geometry": {"coordinates":[89.42100000000001,25.3003],"type":"Point"}
+}

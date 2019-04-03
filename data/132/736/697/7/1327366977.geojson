@@ -1,0 +1,74 @@
+{
+  "id": 1327366977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.45592,23.69328,89.45592,23.69328",
+    "geom:latitude":23.69328,
+    "geom:longitude":89.45592,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3082",
+    "gn:admin3_code":"308273.0",
+    "gn:admin4_code":"30827370.0",
+    "gn:asciiname":"Nyamatpur",
+    "gn:country_code":"BD",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1191708,
+    "gn:latitude":23.69328,
+    "gn:longitude":89.45592,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Ny\u0101matpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Niamatpur",
+        "Ny\u0101matpur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        1108694699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1191708
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"2a83722ac3ea1cdfefa5409f89ddb36e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694699,
+            "locality_id":1327366977,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1327366977,
+    "wof:lastmodified":1537585818,
+    "wof:name":"Nyamatpur",
+    "wof:parent_id":1108694699,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.45591999999998,
+    23.69328,
+    89.45591999999998,
+    23.69328
+],
+  "geometry": {"coordinates":[89.45591999999998,23.69328],"type":"Point"}
+}

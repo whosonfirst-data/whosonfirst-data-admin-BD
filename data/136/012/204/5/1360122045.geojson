@@ -1,0 +1,73 @@
+{
+  "id": 1360122045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.68658,26.02389,88.68658,26.02389",
+    "geom:latitude":26.02389,
+    "geom:longitude":88.68658,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5577.0",
+    "gn:admin3_code":"557734.0",
+    "gn:admin4_code":"55773485.0",
+    "gn:asciiname":"Shikarpur",
+    "gn:country_code":"BD",
+    "gn:dem":57,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7105229,
+    "gn:latitude":26.02389,
+    "gn:longitude":88.68658,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Shik\u0101rpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Shik\u0101rpur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7105229
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"c57040caf07c90562b342a70aefb3593",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694697,
+            "locality_id":1360122045,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1360122045,
+    "wof:lastmodified":1537586297,
+    "wof:name":"Shikarpur",
+    "wof:parent_id":1108694697,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.68658,
+    26.02389,
+    88.68658,
+    26.02389
+],
+  "geometry": {"coordinates":[88.68658000000001,26.02389],"type":"Point"}
+}

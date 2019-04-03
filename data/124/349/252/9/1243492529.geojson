@@ -1,0 +1,74 @@
+{
+  "id": 1243492529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.80613,23.174,90.80613,23.174",
+    "geom:latitude":23.174,
+    "geom:longitude":90.80613,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2013",
+    "gn:admin3_code":"201345.0",
+    "gn:admin4_code":"20134595.0",
+    "gn:asciiname":"Tamrasasan",
+    "gn:country_code":"BD",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1186589,
+    "gn:latitude":23.174,
+    "gn:longitude":90.80613,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"T\u0101mras\u0101san",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tamrasashan",
+        "T\u0101mras\u0101san"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        1108694669
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1186589
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"4740d00135a18112f1f648e308c4dbbf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694669,
+            "locality_id":1243492529,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1243492529,
+    "wof:lastmodified":1537585721,
+    "wof:name":"Tamrasasan",
+    "wof:parent_id":1108694669,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.80613,
+    23.174,
+    90.80613,
+    23.174
+],
+  "geometry": {"coordinates":[90.80613,23.174],"type":"Point"}
+}

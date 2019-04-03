@@ -1,0 +1,73 @@
+{
+  "id": 1343987975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.23763,24.75812,88.23763,24.75812",
+    "geom:latitude":24.75812,
+    "geom:longitude":88.23763,
+    "gn:admin1_code":"83",
+    "gn:admin2_code":"5070.0",
+    "gn:admin3_code":"507088.0",
+    "gn:admin4_code":"50708811.0",
+    "gn:asciiname":"Saknagar",
+    "gn:country_code":"BD",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7481954,
+    "gn:latitude":24.75812,
+    "gn:longitude":88.23763,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Saknagar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Saknagar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669031,
+        421191607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7481954
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"41e67c0a52331c95098f2f52229329d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421191607,
+            "locality_id":1343987975,
+            "region_id":85669031
+        }
+    ],
+    "wof:id":1343987975,
+    "wof:lastmodified":1537586494,
+    "wof:name":"Saknagar",
+    "wof:parent_id":421191607,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.23763000000002,
+    24.75812,
+    88.23763000000002,
+    24.75812
+],
+  "geometry": {"coordinates":[88.23763000000002,24.75812],"type":"Point"}
+}

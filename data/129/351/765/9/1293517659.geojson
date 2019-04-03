@@ -1,0 +1,74 @@
+{
+  "id": 1293517659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.54493,24.43611,90.54493,24.43611",
+    "geom:latitude":24.43611,
+    "geom:longitude":90.54493,
+    "gn:admin1_code":"H",
+    "gn:admin2_code":"3061.0",
+    "gn:admin3_code":"306122.0",
+    "gn:admin4_code":"30612282.0",
+    "gn:asciiname":"Dhamail Jaleswari",
+    "gn:country_code":"BD",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1204489,
+    "gn:latitude":24.43611,
+    "gn:longitude":90.54493,
+    "gn:modification_date":"2016-11-17",
+    "gn:name":"Dhamail J\u0101leswari",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dhamail J\u0101leswari",
+        "Dh\u0101m\u0101il J\u0101leswar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        1108803101,
+        421185469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1204489
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"c7c78066bda3f5b4e15fb75b06b205c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421185469,
+            "locality_id":1293517659,
+            "region_id":1108803101
+        }
+    ],
+    "wof:id":1293517659,
+    "wof:lastmodified":1537586058,
+    "wof:name":"Dhamail Jaleswari",
+    "wof:parent_id":421185469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.54493,
+    24.43611,
+    90.54493,
+    24.43611
+],
+  "geometry": {"coordinates":[90.54492999999999,24.43611],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1260021999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.70291,23.38311,90.70291,23.38311",
+    "geom:latitude":23.38311,
+    "geom:longitude":90.70291,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2013.0",
+    "gn:admin3_code":"201379.0",
+    "gn:admin4_code":"20137917.0",
+    "gn:asciiname":"Bara Lakshmipur",
+    "gn:country_code":"BD",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1210369,
+    "gn:latitude":23.38311,
+    "gn:longitude":90.70291,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Bara Lakshm\u012bpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        1108694669
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1210369
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"193479149bd5ff612ad036207f54cc42",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694669,
+            "locality_id":1260021999,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1260021999,
+    "wof:lastmodified":1537073533,
+    "wof:name":"Bara Lakshmipur",
+    "wof:parent_id":1108694669,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.70291,
+    23.38311,
+    90.70291,
+    23.38311
+],
+  "geometry": {"coordinates":[90.70291,23.38311],"type":"Point"}
+}

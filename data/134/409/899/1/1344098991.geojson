@@ -1,0 +1,73 @@
+{
+  "id": 1344098991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.95619,22.59761,91.95619,22.59761",
+    "geom:latitude":22.59761,
+    "geom:longitude":91.95619,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2084.0",
+    "gn:admin3_code":"208425.0",
+    "gn:admin4_code":"20842538.0",
+    "gn:asciiname":"Karnupara",
+    "gn:country_code":"BD",
+    "gn:dem":41,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6414357,
+    "gn:latitude":22.59761,
+    "gn:longitude":91.95619,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Karnupara",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Karnupara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421188983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6414357
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"032d13e6288569898ff7082ec51c108a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421188983,
+            "locality_id":1344098991,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1344098991,
+    "wof:lastmodified":1537586225,
+    "wof:name":"Karnupara",
+    "wof:parent_id":421188983,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.95619,
+    22.59761,
+    91.95619,
+    22.59761
+],
+  "geometry": {"coordinates":[91.95619000000001,22.59761],"type":"Point"}
+}

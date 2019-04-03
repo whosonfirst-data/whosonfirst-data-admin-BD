@@ -1,0 +1,70 @@
+{
+  "id": 1192960585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.97022,23.51528,90.97022,23.51528",
+    "geom:latitude":23.51528,
+    "geom:longitude":90.97022,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2019.0",
+    "gn:admin3_code":"201940.0",
+    "gn:admin4_code":"20194041.0",
+    "gn:asciiname":"Bakrikandi",
+    "gn:country_code":"BD",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1211488,
+    "gn:latitude":23.51528,
+    "gn:longitude":90.97022,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Bakrik\u0101ndi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421187801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1211488
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"3f728e3673be9eb0147cd304f9dfdd7b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421187801,
+            "locality_id":1192960585,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1192960585,
+    "wof:lastmodified":1536366225,
+    "wof:name":"Bakrikandi",
+    "wof:parent_id":421187801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.97022,
+    23.51528,
+    90.97022,
+    23.51528
+],
+  "geometry": {"coordinates":[90.97022,23.51528],"type":"Point"}
+}

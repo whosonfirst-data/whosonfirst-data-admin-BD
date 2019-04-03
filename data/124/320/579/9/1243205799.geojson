@@ -1,0 +1,73 @@
+{
+  "id": 1243205799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.24188,22.26798,90.24188,22.26798",
+    "geom:latitude":22.26798,
+    "geom:longitude":90.24188,
+    "gn:admin1_code":"85",
+    "gn:admin2_code":"1078.0",
+    "gn:admin3_code":"107895.0",
+    "gn:admin4_code":"10789531.0",
+    "gn:asciiname":"Kewabunia",
+    "gn:country_code":"BD",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7476956,
+    "gn:latitude":22.26798,
+    "gn:longitude":90.24188,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Kew\u0101bunia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Kew\u0101bunia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669019,
+        421176043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7476956
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"bcc1bc4728a2726426f607826cf11a6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421176043,
+            "locality_id":1243205799,
+            "region_id":85669019
+        }
+    ],
+    "wof:id":1243205799,
+    "wof:lastmodified":1537586358,
+    "wof:name":"Kewabunia",
+    "wof:parent_id":421176043,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.24188,
+    22.26798,
+    90.24188,
+    22.26798
+],
+  "geometry": {"coordinates":[90.24187999999999,22.26798],"type":"Point"}
+}

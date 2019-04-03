@@ -1,0 +1,73 @@
+{
+  "id": 1225881795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.75723,25.49393,89.75723,25.49393",
+    "geom:latitude":25.49393,
+    "geom:longitude":89.75723,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5549",
+    "gn:admin3_code":"554908.0",
+    "gn:admin4_code":"55490857.0",
+    "gn:asciiname":"Kodailkati",
+    "gn:country_code":"BD",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7925094,
+    "gn:latitude":25.49393,
+    "gn:longitude":89.75723,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Kod\u0101ilk\u0101ti",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Kod\u0101ilk\u0101ti"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7925094
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"477b13896f9df51d07bc8970a26e9261",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694685,
+            "locality_id":1225881795,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1225881795,
+    "wof:lastmodified":1537586818,
+    "wof:name":"Kodailkati",
+    "wof:parent_id":1108694685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.75723,
+    25.49393,
+    89.75723,
+    25.49393
+],
+  "geometry": {"coordinates":[89.75723000000001,25.49393],"type":"Point"}
+}

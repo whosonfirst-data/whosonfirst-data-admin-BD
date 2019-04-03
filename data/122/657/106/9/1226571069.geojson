@@ -1,0 +1,73 @@
+{
+  "id": 1226571069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.31979,25.43258,89.31979,25.43258",
+    "geom:latitude":25.43258,
+    "geom:longitude":89.31979,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5585",
+    "gn:admin3_code":"558576.0",
+    "gn:admin4_code":"55857669.0",
+    "gn:asciiname":"Nandoram",
+    "gn:country_code":"BD",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7892063,
+    "gn:latitude":25.43258,
+    "gn:longitude":89.31979,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Nandoram",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Nandoram"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7892063
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"a70c1f8e5719c30dd87dddc6e42f8b06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694701,
+            "locality_id":1226571069,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1226571069,
+    "wof:lastmodified":1537586755,
+    "wof:name":"Nandoram",
+    "wof:parent_id":1108694701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.31979,
+    25.43258,
+    89.31979,
+    25.43258
+],
+  "geometry": {"coordinates":[89.31979,25.43258],"type":"Point"}
+}

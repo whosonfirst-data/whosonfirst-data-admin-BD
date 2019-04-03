@@ -1,0 +1,70 @@
+{
+  "id": 1259411173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.43378,23.95789,90.43378,23.95789",
+    "geom:latitude":23.95789,
+    "geom:longitude":90.43378,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3033",
+    "gn:admin3_code":"303330.0",
+    "gn:admin4_code":"30333000.0",
+    "gn:asciiname":"Telinagar",
+    "gn:country_code":"BD",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1186304,
+    "gn:latitude":23.95789,
+    "gn:longitude":90.43378,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Telinagar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421203493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1186304
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"957bf95a3f6b298c7fc5cf5c6c27a87c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421203493,
+            "locality_id":1259411173,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1259411173,
+    "wof:lastmodified":1536962653,
+    "wof:name":"Telinagar",
+    "wof:parent_id":421203493,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.43378,
+    23.95789,
+    90.43378,
+    23.95789
+],
+  "geometry": {"coordinates":[90.43378,23.95789],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1343291767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.98002,24.99394,88.98002,24.99394",
+    "geom:latitude":24.99394,
+    "geom:longitude":88.98002,
+    "gn:admin1_code":"83",
+    "gn:admin2_code":"5064.0",
+    "gn:admin3_code":"506406.0",
+    "gn:admin4_code":"50640684.0",
+    "gn:asciiname":"Hajipur",
+    "gn:country_code":"BD",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1201126,
+    "gn:latitude":24.99394,
+    "gn:longitude":88.98002,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"H\u0101jipur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "H\u0101jipur"
+    ],
+    "name:ben_x_variant":[
+        "H\u0101zipur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669031,
+        421191663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1201126
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"4f73e4981befb36e53a8512e5d0b69c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421191663,
+            "locality_id":1343291767,
+            "region_id":85669031
+        }
+    ],
+    "wof:id":1343291767,
+    "wof:lastmodified":1537585993,
+    "wof:name":"Hajipur",
+    "wof:parent_id":421191663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.98002,
+    24.99394,
+    88.98002,
+    24.99394
+],
+  "geometry": {"coordinates":[88.98002,24.99394],"type":"Point"}
+}

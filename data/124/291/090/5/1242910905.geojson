@@ -1,0 +1,70 @@
+{
+  "id": 1242910905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.50043,22.60113,90.50043,22.60113",
+    "geom:latitude":22.60113,
+    "geom:longitude":90.50043,
+    "gn:admin1_code":"85",
+    "gn:admin2_code":"1006.0",
+    "gn:admin3_code":"100607.0",
+    "gn:admin4_code":"10060727.0",
+    "gn:asciiname":"Andharmanik",
+    "gn:country_code":"BD",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1212708,
+    "gn:latitude":22.60113,
+    "gn:longitude":90.50043,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Andh\u0101rm\u0101nik",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669019,
+        421187745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1212708
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"fdc60630b0b6fd9a63389fffd4a6a5e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421187745,
+            "locality_id":1242910905,
+            "region_id":85669019
+        }
+    ],
+    "wof:id":1242910905,
+    "wof:lastmodified":1537077402,
+    "wof:name":"Andharmanik",
+    "wof:parent_id":421187745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.50043,
+    22.60113,
+    90.50043,
+    22.60113
+],
+  "geometry": {"coordinates":[90.50042999999999,22.60113],"type":"Point"}
+}

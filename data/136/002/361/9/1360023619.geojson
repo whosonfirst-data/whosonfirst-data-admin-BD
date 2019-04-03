@@ -1,0 +1,73 @@
+{
+  "id": 1360023619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.87144,22.32118,91.87144,22.32118",
+    "geom:latitude":22.32118,
+    "geom:longitude":91.87144,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2015.0",
+    "gn:admin3_code":"201561.0",
+    "gn:admin4_code":"20156173.0",
+    "gn:asciiname":"Juldha",
+    "gn:country_code":"BD",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6414034,
+    "gn:latitude":22.32118,
+    "gn:longitude":91.87144,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Juldha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Juldha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421201541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6414034
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"4962ac5e38a3673c8d441702b1ffad3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421201541,
+            "locality_id":1360023619,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1360023619,
+    "wof:lastmodified":1537586218,
+    "wof:name":"Juldha",
+    "wof:parent_id":421201541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.87144,
+    22.32118,
+    91.87144,
+    22.32118
+],
+  "geometry": {"coordinates":[91.87144000000001,22.32118],"type":"Point"}
+}

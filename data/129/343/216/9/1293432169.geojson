@@ -1,0 +1,73 @@
+{
+  "id": 1293432169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"92.14414,22.50748,92.14414,22.50748",
+    "geom:latitude":22.50748,
+    "geom:longitude":92.14414,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2084.0",
+    "gn:admin3_code":"208436.0",
+    "gn:admin4_code":"20843619.0",
+    "gn:asciiname":"Baraichari",
+    "gn:country_code":"BD",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6414831,
+    "gn:latitude":22.50748,
+    "gn:longitude":92.14414,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Baraichari",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Baraichari"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421188983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6414831
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"995b4c0914482e1deab1b91c66481d82",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421188983,
+            "locality_id":1293432169,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1293432169,
+    "wof:lastmodified":1537586233,
+    "wof:name":"Baraichari",
+    "wof:parent_id":421188983,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    92.14414,
+    22.50748,
+    92.14414,
+    22.50748
+],
+  "geometry": {"coordinates":[92.14413999999999,22.50748],"type":"Point"}
+}

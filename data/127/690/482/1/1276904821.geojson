@@ -1,0 +1,70 @@
+{
+  "id": 1276904821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.32977,23.85548,90.32977,23.85548",
+    "geom:latitude":23.85548,
+    "geom:longitude":90.32977,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3026.0",
+    "gn:admin3_code":"302672.0",
+    "gn:admin4_code":"30267233.0",
+    "gn:asciiname":"Bara Kakar",
+    "gn:country_code":"BD",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1210413,
+    "gn:latitude":23.85548,
+    "gn:longitude":90.32977,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Bara K\u0101kar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421187803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1210413
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"2c9eb12e25bf3ff4d13620b215399eb5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421187803,
+            "locality_id":1276904821,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1276904821,
+    "wof:lastmodified":1537007203,
+    "wof:name":"Bara Kakar",
+    "wof:parent_id":421187803,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.32977,
+    23.85548,
+    90.32977,
+    23.85548
+],
+  "geometry": {"coordinates":[90.32977,23.85548],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1243301947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.88135,22.93744,90.88135,22.93744",
+    "geom:latitude":22.93744,
+    "geom:longitude":90.88135,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2051",
+    "gn:admin3_code":"205143.0",
+    "gn:admin4_code":"20514370.0",
+    "gn:asciiname":"Jadia",
+    "gn:country_code":"BD",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1200623,
+    "gn:latitude":22.93744,
+    "gn:longitude":90.88135,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"J\u0101dia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421166521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1200623
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"6cfd490c503a9ac60a139ba89ffed43f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421166521,
+            "locality_id":1243301947,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1243301947,
+    "wof:lastmodified":1537013115,
+    "wof:name":"Jadia",
+    "wof:parent_id":421166521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.88135,
+    22.93744,
+    90.88135,
+    22.93744
+],
+  "geometry": {"coordinates":[90.88135,22.93744],"type":"Point"}
+}

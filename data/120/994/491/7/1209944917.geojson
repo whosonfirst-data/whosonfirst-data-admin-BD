@@ -1,0 +1,70 @@
+{
+  "id": 1209944917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.41445,23.8073,89.41445,23.8073",
+    "geom:latitude":23.8073,
+    "geom:longitude":89.41445,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3082.0",
+    "gn:admin3_code":"308273.0",
+    "gn:admin4_code":"30827300.0",
+    "gn:asciiname":"Char Durllabhdia",
+    "gn:country_code":"BD",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1206949,
+    "gn:latitude":23.8073,
+    "gn:longitude":89.41445,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Char Durllabhdia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        1108694699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1206949
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"03c8292b64005bc311048bf5bb62c1b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694699,
+            "locality_id":1209944917,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1209944917,
+    "wof:lastmodified":1536386839,
+    "wof:name":"Char Durllabhdia",
+    "wof:parent_id":1108694699,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.41445,
+    23.8073,
+    89.41445,
+    23.8073
+],
+  "geometry": {"coordinates":[89.41445,23.8073],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1344006719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"92.20677,21.6759,92.20677,21.6759",
+    "geom:latitude":21.6759,
+    "geom:longitude":92.20677,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2003.0",
+    "gn:admin3_code":"200351.0",
+    "gn:admin4_code":"20035131.0",
+    "gn:asciiname":"Lukhapara",
+    "gn:country_code":"BD",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6415095,
+    "gn:latitude":21.6759,
+    "gn:longitude":92.20677,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"L\u016bkh\u0101p\u0101ra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "L\u016bkh\u0101p\u0101ra"
+    ],
+    "name:ben_x_variant":[
+        "L\u016bk\u0101p\u0101ra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421169477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6415095
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"561553cd26a49a02dc3f6caa2f6b717c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421169477,
+            "locality_id":1344006719,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1344006719,
+    "wof:lastmodified":1537586238,
+    "wof:name":"Lukhapara",
+    "wof:parent_id":421169477,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    92.20677,
+    21.6759,
+    92.20677,
+    21.6759
+],
+  "geometry": {"coordinates":[92.20677000000001,21.6759],"type":"Point"}
+}

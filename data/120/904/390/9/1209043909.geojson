@@ -1,0 +1,64 @@
+{
+  "id": 1209043909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.70538,24.50952,90.70538,24.50952",
+    "geom:latitude":24.50952,
+    "geom:longitude":90.70538,
+    "gn:admin1_code":"H",
+    "gn:admin2_code":"3061",
+    "gn:admin3_code":"306172.0",
+    "gn:admin4_code":"30617294.0",
+    "gn:asciiname":"Isabpur",
+    "gn:country_code":"BD",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1200730,
+    "gn:latitude":24.50952,
+    "gn:longitude":90.70538,
+    "gn:modification_date":"2016-11-17",
+    "gn:name":"Isabpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1200730
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"098cfbfaae1c2bed8dd4e51864687a1c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209043909
+        }
+    ],
+    "wof:id":1209043909,
+    "wof:lastmodified":1536299457,
+    "wof:name":"Isabpur",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.70538,
+    24.50952,
+    90.70538,
+    24.50952
+],
+  "geometry": {"coordinates":[90.70538000000001,24.50952],"type":"Point"}
+}

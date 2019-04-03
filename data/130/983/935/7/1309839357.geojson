@@ -1,0 +1,70 @@
+{
+  "id": 1309839357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.13171,23.21425,90.13171,23.21425",
+    "geom:latitude":23.21425,
+    "geom:longitude":90.13171,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3054.0",
+    "gn:admin3_code":"305454.0",
+    "gn:admin4_code":"30545459.0",
+    "gn:asciiname":"Asapat",
+    "gn:country_code":"BD",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1212440,
+    "gn:latitude":23.21425,
+    "gn:longitude":90.13171,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"\u0100s\u0101pat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421183929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1212440
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"ec0f7da93e45a670e1b6330bc60b0435",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421183929,
+            "locality_id":1309839357,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1309839357,
+    "wof:lastmodified":1536882131,
+    "wof:name":"Asapat",
+    "wof:parent_id":421183929,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.13171,
+    23.21425,
+    90.13171,
+    23.21425
+],
+  "geometry": {"coordinates":[90.13171,23.21425],"type":"Point"}
+}

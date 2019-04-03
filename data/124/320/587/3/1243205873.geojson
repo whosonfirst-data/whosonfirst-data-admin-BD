@@ -1,0 +1,70 @@
+{
+  "id": 1243205873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.38329,23.2794,90.38329,23.2794",
+    "geom:latitude":23.2794,
+    "geom:longitude":90.38329,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3086",
+    "gn:admin3_code":"308665.0",
+    "gn:admin4_code":"30866556.0",
+    "gn:asciiname":"Japsa",
+    "gn:country_code":"BD",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1200206,
+    "gn:latitude":23.2794,
+    "gn:longitude":90.38329,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Japsa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421188359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1200206
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"00164da55c07c6931f3880dbd9541507",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421188359,
+            "locality_id":1243205873,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1243205873,
+    "wof:lastmodified":1536655527,
+    "wof:name":"Japsa",
+    "wof:parent_id":421188359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.38329,
+    23.2794,
+    90.38329,
+    23.2794
+],
+  "geometry": {"coordinates":[90.38329,23.2794],"type":"Point"}
+}

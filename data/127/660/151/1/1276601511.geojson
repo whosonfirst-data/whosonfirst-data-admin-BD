@@ -1,0 +1,73 @@
+{
+  "id": 1276601511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.97062,22.37181,91.97062,22.37181",
+    "geom:latitude":22.37181,
+    "geom:longitude":91.97062,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2015.0",
+    "gn:admin3_code":"201512.0",
+    "gn:admin4_code":"20151219.0",
+    "gn:asciiname":"Purba Sarbatali",
+    "gn:country_code":"BD",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6414173,
+    "gn:latitude":22.37181,
+    "gn:longitude":91.97062,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Purba Sarbatali",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Purba Sarbatali"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421201541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6414173
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"ddcfc3a49ee40cf5e9f3f8281fe1f889",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421201541,
+            "locality_id":1276601511,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1276601511,
+    "wof:lastmodified":1537586222,
+    "wof:name":"Purba Sarbatali",
+    "wof:parent_id":421201541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.97062,
+    22.37181,
+    91.97062,
+    22.37181
+],
+  "geometry": {"coordinates":[91.97062,22.37181],"type":"Point"}
+}

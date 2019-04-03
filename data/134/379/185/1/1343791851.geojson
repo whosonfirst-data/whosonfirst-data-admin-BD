@@ -1,0 +1,70 @@
+{
+  "id": 1343791851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.0704,23.81812,90.0704,23.81812",
+    "geom:latitude":23.81812,
+    "geom:longitude":90.0704,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3056.0",
+    "gn:admin3_code":"305682.0",
+    "gn:admin4_code":"30568208.0",
+    "gn:asciiname":"Dakshin Hat Bariail",
+    "gn:country_code":"BD",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1205437,
+    "gn:latitude":23.81812,
+    "gn:longitude":90.0704,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Dakshin H\u0101t Bari\u0101il",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421191745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1205437
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"694ad39e72596171cabad5f1d1087c65",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421191745,
+            "locality_id":1343791851,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1343791851,
+    "wof:lastmodified":1536766181,
+    "wof:name":"Dakshin Hat Bariail",
+    "wof:parent_id":421191745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.0704,
+    23.81812,
+    90.0704,
+    23.81812
+],
+  "geometry": {"coordinates":[90.07040000000001,23.81812],"type":"Point"}
+}

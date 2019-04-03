@@ -1,0 +1,73 @@
+{
+  "id": 1243006393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.79054,25.62187,89.79054,25.62187",
+    "geom:latitude":25.62187,
+    "geom:longitude":89.79054,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5549",
+    "gn:admin3_code":"554979.0",
+    "gn:admin4_code":"55497911.0",
+    "gn:asciiname":"Char Budahkat",
+    "gn:country_code":"BD",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7926571,
+    "gn:latitude":25.62187,
+    "gn:longitude":89.79054,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Char Budahkat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Char Budahkat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7926571
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"63c96a0e9d08ac3c0654a0b99b2ccad8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694685,
+            "locality_id":1243006393,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1243006393,
+    "wof:lastmodified":1537586829,
+    "wof:name":"Char Budahkat",
+    "wof:parent_id":1108694685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.79054000000002,
+    25.62187,
+    89.79054000000002,
+    25.62187
+],
+  "geometry": {"coordinates":[89.79054000000002,25.62187],"type":"Point"}
+}

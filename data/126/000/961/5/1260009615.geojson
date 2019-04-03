@@ -1,0 +1,73 @@
+{
+  "id": 1260009615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.32954,26.00879,89.32954,26.00879",
+    "geom:latitude":26.00879,
+    "geom:longitude":89.32954,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5552",
+    "gn:admin3_code":"555239.0",
+    "gn:admin4_code":"55523947.0",
+    "gn:asciiname":"Sibram",
+    "gn:country_code":"BD",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8207402,
+    "gn:latitude":26.00879,
+    "gn:longitude":89.32954,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Sibram",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Sibram"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8207402
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"baa7bfdf960ddb486d21eb0e5ed3e786",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694687,
+            "locality_id":1260009615,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1260009615,
+    "wof:lastmodified":1537586863,
+    "wof:name":"Sibram",
+    "wof:parent_id":1108694687,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.32954000000002,
+    26.00879,
+    89.32954000000002,
+    26.00879
+],
+  "geometry": {"coordinates":[89.32954000000002,26.00879],"type":"Point"}
+}

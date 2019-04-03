@@ -1,0 +1,70 @@
+{
+  "id": 1225974367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.96677,23.26182,89.96677,23.26182",
+    "geom:latitude":23.26182,
+    "geom:longitude":89.96677,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3035",
+    "gn:admin3_code":"303558.0",
+    "gn:admin4_code":"30355839.0",
+    "gn:asciiname":"Prasannapur",
+    "gn:country_code":"BD",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1190927,
+    "gn:latitude":23.26182,
+    "gn:longitude":89.96677,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Prasannapur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421194867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1190927
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"2b2cb73a0eaa04344bcb33f287df428f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421194867,
+            "locality_id":1225974367,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1225974367,
+    "wof:lastmodified":1536827229,
+    "wof:name":"Prasannapur",
+    "wof:parent_id":421194867,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.96677,
+    23.26182,
+    89.96677,
+    23.26182
+],
+  "geometry": {"coordinates":[89.96677,23.26182],"type":"Point"}
+}

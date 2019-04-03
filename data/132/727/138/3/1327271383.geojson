@@ -1,0 +1,73 @@
+{
+  "id": 1327271383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.02324,22.44502,89.02324,22.44502",
+    "geom:latitude":22.44502,
+    "geom:longitude":89.02324,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4087.0",
+    "gn:admin3_code":"408747.0",
+    "gn:admin4_code":"40874763.0",
+    "gn:asciiname":"Chhanka",
+    "gn:country_code":"BD",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1206220,
+    "gn:latitude":22.44502,
+    "gn:longitude":89.02324,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Chhanka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Chhanka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        421201927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1206220
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"cb3c4900ac5351560617659b0c540bc2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421201927,
+            "locality_id":1327271383,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1327271383,
+    "wof:lastmodified":1537586089,
+    "wof:name":"Chhanka",
+    "wof:parent_id":421201927,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.02324,
+    22.44502,
+    89.02324,
+    22.44502
+],
+  "geometry": {"coordinates":[89.02324,22.44502],"type":"Point"}
+}

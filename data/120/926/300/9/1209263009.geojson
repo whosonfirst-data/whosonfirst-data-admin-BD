@@ -1,0 +1,68 @@
+{
+  "id": 1209263009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.74536,23.62562,90.74536,23.62562",
+    "geom:latitude":23.62562,
+    "geom:longitude":90.74536,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2019",
+    "gn:admin3_code":"201937.0",
+    "gn:admin4_code":"20193756.0",
+    "gn:asciiname":"Mazamerkandi",
+    "gn:country_code":"BD",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1194527,
+    "gn:latitude":23.62562,
+    "gn:longitude":90.74536,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Mazamerk\u0101ndi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mazamarkandi",
+        "Mazamerk\u0101ndi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1194527
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"609bd205db3ef0582eff0b3877eeab89",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209263009
+        }
+    ],
+    "wof:id":1209263009,
+    "wof:lastmodified":1537585871,
+    "wof:name":"Mazamerkandi",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.74536,
+    23.62562,
+    90.74536,
+    23.62562
+],
+  "geometry": {"coordinates":[90.74536000000001,23.62562],"type":"Point"}
+}

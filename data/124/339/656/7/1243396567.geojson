@@ -1,0 +1,70 @@
+{
+  "id": 1243396567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.34539,23.62166,90.34539,23.62166",
+    "geom:latitude":23.62166,
+    "geom:longitude":90.34539,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3059",
+    "gn:admin3_code":"305974.0",
+    "gn:admin4_code":"30597447.0",
+    "gn:asciiname":"Keain",
+    "gn:country_code":"BD",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1197964,
+    "gn:latitude":23.62166,
+    "gn:longitude":90.34539,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Ke\u0101in",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421205059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1197964
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"908c7983460b4aadefa46dc59e08fa85",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421205059,
+            "locality_id":1243396567,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1243396567,
+    "wof:lastmodified":1536876713,
+    "wof:name":"Keain",
+    "wof:parent_id":421205059,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.34539,
+    23.62166,
+    90.34539,
+    23.62166
+],
+  "geometry": {"coordinates":[90.34538999999999,23.62166],"type":"Point"}
+}

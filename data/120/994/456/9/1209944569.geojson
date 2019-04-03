@@ -1,0 +1,70 @@
+{
+  "id": 1209944569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.31868,23.84532,89.31868,23.84532",
+    "geom:latitude":23.84532,
+    "geom:longitude":89.31868,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4050",
+    "gn:admin3_code":"405063.0",
+    "gn:admin4_code":"40506371.0",
+    "gn:asciiname":"Masilia",
+    "gn:country_code":"BD",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1194734,
+    "gn:latitude":23.84532,
+    "gn:longitude":89.31868,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Masilia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        890438075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1194734
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"22383e12aa5d3b60624e2bdd79c06de1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":890438075,
+            "locality_id":1209944569,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1209944569,
+    "wof:lastmodified":1536386986,
+    "wof:name":"Masilia",
+    "wof:parent_id":890438075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.31868,
+    23.84532,
+    89.31868,
+    23.84532
+],
+  "geometry": {"coordinates":[89.31868,23.84532],"type":"Point"}
+}

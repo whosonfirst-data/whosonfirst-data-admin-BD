@@ -1,0 +1,86 @@
+{
+  "id": 421183767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.78665,23.8178,89.78665,23.8178",
+    "geom:latitude":23.8178,
+    "geom:longitude":89.78665,
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0639\u0631\u064a\u0634\u0629"
+    ],
+    "name:fra_x_preferred":[
+        "El Aricha"
+    ],
+    "name:ron_x_preferred":[
+        "El Aricha"
+    ],
+    "qs:gn_country":"BD",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":1212531,
+    "qs:gn_pop":0,
+    "qs:name":"Aricha",
+    "qs:name_adm0":"Bangladesh",
+    "qs:name_adm1":"Dhaka",
+    "qs:photos":51,
+    "qs:photos_1k":10,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":51,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":983996,
+    "qs:woe_adm0":23424759,
+    "qs:woe_id":1915275,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":822,
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421191745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1212531,
+        "gp:id":1915275,
+        "qs:id":983996
+    },
+    "wof:country":"BD",
+    "wof:created":1459009381,
+    "wof:geomhash":"4b12b90dc2394e8e358e9d06cc1569b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421191745,
+            "locality_id":421183767,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":421183767,
+    "wof:lastmodified":1527716492,
+    "wof:name":"Aricha",
+    "wof:parent_id":421191745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.78665,
+    23.8178,
+    89.78665,
+    23.8178
+],
+  "geometry": {"coordinates":[89.78664999999999,23.8178],"type":"Point"}
+}

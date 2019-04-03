@@ -1,0 +1,73 @@
+{
+  "id": 1276267199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.00235,25.37828,89.00235,25.37828",
+    "geom:latitude":25.37828,
+    "geom:longitude":89.00235,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5527",
+    "gn:admin3_code":"552710.0",
+    "gn:admin4_code":"55271035.0",
+    "gn:asciiname":"Dochhra Palashha",
+    "gn:country_code":"BD",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8064894,
+    "gn:latitude":25.37828,
+    "gn:longitude":89.00235,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Dochhra Palashha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Dochhra Palashha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8064894
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"dc6aef82a299f26591e7f0f315c647fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694671,
+            "locality_id":1276267199,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1276267199,
+    "wof:lastmodified":1537586853,
+    "wof:name":"Dochhra Palashha",
+    "wof:parent_id":1108694671,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.00235,
+    25.37828,
+    89.00235,
+    25.37828
+],
+  "geometry": {"coordinates":[89.00235000000001,25.37828],"type":"Point"}
+}

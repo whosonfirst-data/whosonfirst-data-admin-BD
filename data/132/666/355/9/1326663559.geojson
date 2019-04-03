@@ -1,0 +1,73 @@
+{
+  "id": 1326663559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.96088,25.07228,89.96088,25.07228",
+    "geom:latitude":25.07228,
+    "geom:longitude":89.96088,
+    "gn:admin1_code":"H",
+    "gn:admin2_code":"3089",
+    "gn:admin3_code":"308990.0",
+    "gn:admin4_code":"30899055.0",
+    "gn:asciiname":"Kadamala",
+    "gn:country_code":"BD",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7922122,
+    "gn:latitude":25.07228,
+    "gn:longitude":89.96088,
+    "gn:modification_date":"2016-11-17",
+    "gn:name":"Kadamala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Kadamala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        1108803101,
+        421190979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7922122
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"352f09123cb6916e1050de33a1ee9b74",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421190979,
+            "locality_id":1326663559,
+            "region_id":1108803101
+        }
+    ],
+    "wof:id":1326663559,
+    "wof:lastmodified":1537586785,
+    "wof:name":"Kadamala",
+    "wof:parent_id":421190979,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.96088,
+    25.07228,
+    89.96088,
+    25.07228
+],
+  "geometry": {"coordinates":[89.96088,25.07228],"type":"Point"}
+}

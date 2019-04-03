@@ -1,0 +1,73 @@
+{
+  "id": 1293326159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.58851,26.30949,88.58851,26.30949",
+    "geom:latitude":26.30949,
+    "geom:longitude":88.58851,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5577.0",
+    "gn:admin3_code":"557725.0",
+    "gn:admin4_code":"55772514.0",
+    "gn:asciiname":"Velartal",
+    "gn:country_code":"BD",
+    "gn:dem":73,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7104863,
+    "gn:latitude":26.30949,
+    "gn:longitude":88.58851,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Vel\u0101rtal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Vel\u0101rtal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7104863
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"91e81f807242b680d5fe258526e19bd8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694697,
+            "locality_id":1293326159,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1293326159,
+    "wof:lastmodified":1537586287,
+    "wof:name":"Velartal",
+    "wof:parent_id":1108694697,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.58851,
+    26.30949,
+    88.58851,
+    26.30949
+],
+  "geometry": {"coordinates":[88.58851,26.30949],"type":"Point"}
+}

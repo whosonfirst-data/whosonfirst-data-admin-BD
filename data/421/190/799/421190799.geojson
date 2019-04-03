@@ -1,0 +1,104 @@
+{
+  "id": 421190799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-09-21",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"88.634948,25.751816,88.634948,25.751816",
+    "geom:latitude":25.751816,
+    "geom:longitude":88.634948,
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ben_x_preferred":[
+        "\u09a6\u09bf\u09a8\u09be\u099c\u09aa\u09c1\u09b0"
+    ],
+    "name:cat_x_preferred":[
+        "Dinajpur"
+    ],
+    "name:ceb_x_preferred":[
+        "Din\u0101jpur"
+    ],
+    "name:lit_x_preferred":[
+        "Dinad\u017epuras"
+    ],
+    "name:pol_x_preferred":[
+        "Dinad\u017apur"
+    ],
+    "name:por_x_preferred":[
+        "Dinajpur"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0438\u043d\u0430\u0434\u0436\u043f\u0443\u0440"
+    ],
+    "name:spa_x_preferred":[
+        "Dinajpur"
+    ],
+    "name:swe_x_preferred":[
+        "Dinajpur"
+    ],
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Dinajpur",
+    "qs:name_adm0":"Bangladesh",
+    "qs:name_adm1":"Rajshahi",
+    "qs:photos":73,
+    "qs:photos_1k":15,
+    "qs:photos_9k":2,
+    "qs:photos_9r":5,
+    "qs:photos_all":450,
+    "qs:photos_sr":2,
+    "qs:placetype":"County",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1121740,
+    "qs:woe_adm0":23424759,
+    "qs:woe_id":23706428,
+    "src:geom":"quattroshapes",
+    "wd:latitude":25.63,
+    "wd:longitude":88.65,
+    "wd:wordcount":356,
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":23706428,
+        "qs:id":1121740,
+        "wd:id":"Q4161769"
+    },
+    "wof:country":"BD",
+    "wof:created":1459009669,
+    "wof:geomhash":"52d568ba3f84f8d0e6491f9af047e527",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421190799,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":421190799,
+    "wof:lastmodified":1527716388,
+    "wof:name":"Dinajpur",
+    "wof:parent_id":85669035,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.634948,
+    25.751816,
+    88.634948,
+    25.751816
+],
+  "geometry": {"coordinates":[88.63494799999999,25.751816],"type":"Point"}
+}

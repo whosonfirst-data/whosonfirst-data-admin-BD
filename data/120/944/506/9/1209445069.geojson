@@ -1,0 +1,67 @@
+{
+  "id": 1209445069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.9153,23.01515,88.9153,23.01515",
+    "geom:latitude":23.01515,
+    "geom:longitude":88.9153,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4041.0",
+    "gn:admin3_code":"404190.0",
+    "gn:admin4_code":"40419077.0",
+    "gn:asciiname":"Britti Achra",
+    "gn:country_code":"BD",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7485333,
+    "gn:latitude":23.01515,
+    "gn:longitude":88.9153,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Britti \u0100chra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Britti \u0100chra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7485333
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"4ac5d5be9be0c7e8866a06143168dd23",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209445069
+        }
+    ],
+    "wof:id":1209445069,
+    "wof:lastmodified":1537586588,
+    "wof:name":"Britti Achra",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.9153,
+    23.01515,
+    88.9153,
+    23.01515
+],
+  "geometry": {"coordinates":[88.9153,23.01515],"type":"Point"}
+}

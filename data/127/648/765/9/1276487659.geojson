@@ -1,0 +1,70 @@
+{
+  "id": 1276487659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.76184,23.25233,90.76184,23.25233",
+    "geom:latitude":23.25233,
+    "geom:longitude":90.76184,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2013.0",
+    "gn:admin3_code":"201322.0",
+    "gn:admin4_code":"20132285.0",
+    "gn:asciiname":"Char Bakila",
+    "gn:country_code":"BD",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1207101,
+    "gn:latitude":23.25233,
+    "gn:longitude":90.76184,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Char B\u0101kila",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        1108694669
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1207101
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"49291118cccb2e5736530a892a72a9ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694669,
+            "locality_id":1276487659,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1276487659,
+    "wof:lastmodified":1537066315,
+    "wof:name":"Char Bakila",
+    "wof:parent_id":1108694669,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.76184,
+    23.25233,
+    90.76184,
+    23.25233
+],
+  "geometry": {"coordinates":[90.76184000000001,23.25233],"type":"Point"}
+}

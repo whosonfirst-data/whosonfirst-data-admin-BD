@@ -1,0 +1,75 @@
+{
+  "id": 1242921935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.71667,23.13333,90.71667,23.13333",
+    "geom:latitude":23.13333,
+    "geom:longitude":90.71667,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2013.0",
+    "gn:admin3_code":"201345.0",
+    "gn:admin4_code":"20134541.0",
+    "gn:asciiname":"Char Sapua",
+    "gn:cc2":"BD",
+    "gn:country_code":"BD",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1206474,
+    "gn:latitude":23.13333,
+    "gn:longitude":90.71667,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Char S\u0101pua",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Char Supua",
+        "Char S\u0101pua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        1108694669
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1206474
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"63feb84091de98d93fc23a3fcadc8756",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694669,
+            "locality_id":1242921935,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1242921935,
+    "wof:lastmodified":1537586094,
+    "wof:name":"Char Sapua",
+    "wof:parent_id":1108694669,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.71667,
+    23.13333,
+    90.71667,
+    23.13333
+],
+  "geometry": {"coordinates":[90.71666999999999,23.13333],"type":"Point"}
+}

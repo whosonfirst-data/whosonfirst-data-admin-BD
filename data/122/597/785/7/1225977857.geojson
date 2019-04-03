@@ -1,0 +1,73 @@
+{
+  "id": 1225977857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.56866,23.55364,90.56866,23.55364",
+    "geom:latitude":23.55364,
+    "geom:longitude":90.56866,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3067.0",
+    "gn:admin3_code":"306704.0",
+    "gn:admin4_code":"30670486.0",
+    "gn:asciiname":"Char Kisurganj",
+    "gn:country_code":"BD",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1206748,
+    "gn:latitude":23.55364,
+    "gn:longitude":90.56866,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Char Kisurganj",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Char Kishoriganj"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421197045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1206748
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"6afba3d5475a42e1e206ebb8bab27555",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421197045,
+            "locality_id":1225977857,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1225977857,
+    "wof:lastmodified":1537586099,
+    "wof:name":"Char Kisurganj",
+    "wof:parent_id":421197045,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.56866,
+    23.55364,
+    90.56866,
+    23.55364
+],
+  "geometry": {"coordinates":[90.56865999999999,23.55364],"type":"Point"}
+}

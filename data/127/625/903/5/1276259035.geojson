@@ -1,0 +1,73 @@
+{
+  "id": 1276259035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.48064,25.70718,89.48064,25.70718",
+    "geom:latitude":25.70718,
+    "geom:longitude":89.48064,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5585.0",
+    "gn:admin3_code":"558573.0",
+    "gn:admin4_code":"55857319.0",
+    "gn:asciiname":"Joan Khan",
+    "gn:country_code":"BD",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7887931,
+    "gn:latitude":25.70718,
+    "gn:longitude":89.48064,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Jo\u0101n Kh\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Jo\u0101n Kh\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7887931
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"9a378e267d411e203e1d80b35533cd39",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694701,
+            "locality_id":1276259035,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1276259035,
+    "wof:lastmodified":1537586717,
+    "wof:name":"Joan Khan",
+    "wof:parent_id":1108694701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.48064000000002,
+    25.70718,
+    89.48064000000002,
+    25.70718
+],
+  "geometry": {"coordinates":[89.48064000000002,25.70718],"type":"Point"}
+}

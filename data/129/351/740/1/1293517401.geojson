@@ -1,0 +1,73 @@
+{
+  "id": 1293517401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.98863,22.87148,88.98863,22.87148",
+    "geom:latitude":22.87148,
+    "geom:longitude":88.98863,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4087.0",
+    "gn:admin3_code":"408743.0",
+    "gn:admin4_code":"40874394.0",
+    "gn:asciiname":"Danpaghat",
+    "gn:country_code":"BD",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7485501,
+    "gn:latitude":22.87148,
+    "gn:longitude":88.98863,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Danpaghat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Danpaghat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        421201927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7485501
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"de4af0a2195613c4056e70459f9823c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421201927,
+            "locality_id":1293517401,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1293517401,
+    "wof:lastmodified":1537586592,
+    "wof:name":"Danpaghat",
+    "wof:parent_id":421201927,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.98863,
+    22.87148,
+    88.98863,
+    22.87148
+],
+  "geometry": {"coordinates":[88.98863,22.87148],"type":"Point"}
+}

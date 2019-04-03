@@ -1,0 +1,76 @@
+{
+  "id": 1293034207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.86084,24.61813,88.86084,24.61813",
+    "geom:latitude":24.61813,
+    "geom:longitude":88.86084,
+    "gn:admin1_code":"83",
+    "gn:admin2_code":"5081",
+    "gn:admin3_code":"508112.0",
+    "gn:admin4_code":"50811212.0",
+    "gn:asciiname":"Muadail",
+    "gn:country_code":"BD",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1193956,
+    "gn:latitude":24.61813,
+    "gn:longitude":88.86084,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Muad\u0101il",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Muad\u0101il"
+    ],
+    "name:ben_x_variant":[
+        "Mundi\u0101l"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669031,
+        421172439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1193956
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"34a47c044f1b4f21ccbfdb2f0b959947",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421172439,
+            "locality_id":1293034207,
+            "region_id":85669031
+        }
+    ],
+    "wof:id":1293034207,
+    "wof:lastmodified":1537585860,
+    "wof:name":"Muadail",
+    "wof:parent_id":421172439,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.86084,
+    24.61813,
+    88.86084,
+    24.61813
+],
+  "geometry": {"coordinates":[88.86084,24.61813],"type":"Point"}
+}

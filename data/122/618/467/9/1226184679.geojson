@@ -1,0 +1,75 @@
+{
+  "id": 1226184679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"92.33721,22.16694,92.33721,22.16694",
+    "geom:latitude":22.16694,
+    "geom:longitude":92.33721,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2003",
+    "gn:admin3_code":"200389.0",
+    "gn:admin4_code":"20038957.0",
+    "gn:asciiname":"Roangchari",
+    "gn:country_code":"BD",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1185125,
+    "gn:latitude":22.16694,
+    "gn:longitude":92.33721,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Roangchari",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rowangchhari",
+        "Roangchari"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421169477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1185125,
+        "wk:page":"Roangchari"
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"1df07be6b16927890f2d51a69f0b5f92",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421169477,
+            "locality_id":1226184679,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1226184679,
+    "wof:lastmodified":1537585687,
+    "wof:name":"Roangchari",
+    "wof:parent_id":421169477,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    92.33721,
+    22.16694,
+    92.33721,
+    22.16694
+],
+  "geometry": {"coordinates":[92.33721,22.16694],"type":"Point"}
+}

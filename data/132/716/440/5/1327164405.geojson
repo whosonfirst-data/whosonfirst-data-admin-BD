@@ -1,0 +1,70 @@
+{
+  "id": 1327164405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.86732,24.41121,90.86732,24.41121",
+    "geom:latitude":24.41121,
+    "geom:longitude":90.86732,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3048",
+    "gn:admin3_code":"304842.0",
+    "gn:admin4_code":"30484251.0",
+    "gn:asciiname":"Kandail",
+    "gn:country_code":"BD",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1198695,
+    "gn:latitude":24.41121,
+    "gn:longitude":90.86732,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"K\u0101nd\u0101il",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421170483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1198695
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"6b24dae775a28f7eac7ca942602f3c45",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421170483,
+            "locality_id":1327164405,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1327164405,
+    "wof:lastmodified":1537065013,
+    "wof:name":"Kandail",
+    "wof:parent_id":421170483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.86732,
+    24.41121,
+    90.86732,
+    24.41121
+],
+  "geometry": {"coordinates":[90.86732000000001,24.41121],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1243396853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.46533,23.42717,90.46533,23.42717",
+    "geom:latitude":23.42717,
+    "geom:longitude":90.46533,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3059.0",
+    "gn:admin3_code":"305994.0",
+    "gn:admin4_code":"30599471.0",
+    "gn:asciiname":"Bhatpara",
+    "gn:country_code":"BD",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1209029,
+    "gn:latitude":23.42717,
+    "gn:longitude":90.46533,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Bh\u0101tp\u0101ra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421205059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1209029
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"7802fa89a08b9bf41f501ec558bee8cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421205059,
+            "locality_id":1243396853,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1243396853,
+    "wof:lastmodified":1536876293,
+    "wof:name":"Bhatpara",
+    "wof:parent_id":421205059,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.46533,
+    23.42717,
+    90.46533,
+    23.42717
+],
+  "geometry": {"coordinates":[90.46532999999999,23.42717],"type":"Point"}
+}

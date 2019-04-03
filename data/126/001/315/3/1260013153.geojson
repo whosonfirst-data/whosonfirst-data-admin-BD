@@ -1,0 +1,73 @@
+{
+  "id": 1260013153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.37993,25.40623,89.37993,25.40623",
+    "geom:latitude":25.40623,
+    "geom:longitude":89.37993,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5532",
+    "gn:admin3_code":"553282.0",
+    "gn:admin4_code":"55328243.0",
+    "gn:asciiname":"Jamalpur",
+    "gn:country_code":"BD",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7893417,
+    "gn:latitude":25.40623,
+    "gn:longitude":89.37993,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Jamalpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Jamalpur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7893417
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"d135763c3c0c6275a7fa489d0e244dbc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694675,
+            "locality_id":1260013153,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1260013153,
+    "wof:lastmodified":1537586758,
+    "wof:name":"Jamalpur",
+    "wof:parent_id":1108694675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.37993,
+    25.40623,
+    89.37993,
+    25.40623
+],
+  "geometry": {"coordinates":[89.37993,25.40623],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1210054663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"92.14833,22.11475,92.14833,22.11475",
+    "geom:latitude":22.11475,
+    "geom:longitude":92.14833,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2015.0",
+    "gn:admin3_code":"201582.0",
+    "gn:admin4_code":"20158221.0",
+    "gn:asciiname":"Sitamura",
+    "gn:country_code":"BD",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6416987,
+    "gn:latitude":22.11475,
+    "gn:longitude":92.14833,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"S\u012bt\u0101mura",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "S\u012bt\u0101mura"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421169477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6416987
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"840f7340a4579434c11246547ff61eee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421169477,
+            "locality_id":1210054663,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1210054663,
+    "wof:lastmodified":1537586272,
+    "wof:name":"Sitamura",
+    "wof:parent_id":421169477,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    92.14833,
+    22.11475,
+    92.14833,
+    22.11475
+],
+  "geometry": {"coordinates":[92.14833,22.11475],"type":"Point"}
+}

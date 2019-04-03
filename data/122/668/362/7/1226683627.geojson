@@ -1,0 +1,73 @@
+{
+  "id": 1226683627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.70489,24.39591,88.70489,24.39591",
+    "geom:latitude":24.39591,
+    "geom:longitude":88.70489,
+    "gn:admin1_code":"83",
+    "gn:admin2_code":"5081",
+    "gn:admin3_code":"508172.0",
+    "gn:admin4_code":"50817239.0",
+    "gn:asciiname":"Jagir",
+    "gn:country_code":"BD",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1200505,
+    "gn:latitude":24.39591,
+    "gn:longitude":88.70489,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"J\u0101gir",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "J\u0101gir"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669031,
+        421172439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1200505
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"42990d9c1582ed50b5f8320fd4e5911d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421172439,
+            "locality_id":1226683627,
+            "region_id":85669031
+        }
+    ],
+    "wof:id":1226683627,
+    "wof:lastmodified":1537585980,
+    "wof:name":"Jagir",
+    "wof:parent_id":421172439,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.70489,
+    24.39591,
+    88.70489,
+    24.39591
+],
+  "geometry": {"coordinates":[88.70489000000001,24.39591],"type":"Point"}
+}

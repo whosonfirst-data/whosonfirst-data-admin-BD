@@ -1,0 +1,67 @@
+{
+  "id": 1209034703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.76407,23.4932,88.76407,23.4932",
+    "geom:latitude":23.4932,
+    "geom:longitude":88.76407,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4018.0",
+    "gn:admin3_code":"401831.0",
+    "gn:admin4_code":"40183123.0",
+    "gn:asciiname":"Nastapur",
+    "gn:country_code":"BD",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7484921,
+    "gn:latitude":23.4932,
+    "gn:longitude":88.76407,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"N\u0101stapur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "N\u0101stapur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7484921
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"3f4086ced8b5cbd8b077f19d1c2d8d42",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209034703
+        }
+    ],
+    "wof:id":1209034703,
+    "wof:lastmodified":1537586578,
+    "wof:name":"Nastapur",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.76406999999998,
+    23.4932,
+    88.76406999999998,
+    23.4932
+],
+  "geometry": {"coordinates":[88.76406999999998,23.4932],"type":"Point"}
+}

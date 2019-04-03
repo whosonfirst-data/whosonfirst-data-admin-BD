@@ -1,0 +1,70 @@
+{
+  "id": 1276912561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.78333,23.86667,89.78333,23.86667",
+    "geom:latitude":23.86667,
+    "geom:longitude":89.78333,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3056",
+    "gn:admin3_code":"305678.0",
+    "gn:admin4_code":"30567859.0",
+    "gn:asciiname":"Uttar Radhakantapur",
+    "gn:country_code":"BD",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1185504,
+    "gn:latitude":23.86667,
+    "gn:longitude":89.78333,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Uttar R\u0101dh\u0101k\u0101ntapur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421191745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1185504
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"b7c50e68dbec4b216cf6099a7a5b8410",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421191745,
+            "locality_id":1276912561,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1276912561,
+    "wof:lastmodified":1536996483,
+    "wof:name":"Uttar Radhakantapur",
+    "wof:parent_id":421191745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.78333,
+    23.86667000000001,
+    89.78333,
+    23.86667000000001
+],
+  "geometry": {"coordinates":[89.78333000000001,23.86667000000001],"type":"Point"}
+}

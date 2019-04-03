@@ -1,0 +1,74 @@
+{
+  "id": 1276580199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.44585,22.69692,89.44585,22.69692",
+    "geom:latitude":22.69692,
+    "geom:longitude":89.44585,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4047",
+    "gn:admin3_code":"404730.0",
+    "gn:admin4_code":"40473088.0",
+    "gn:asciiname":"Taiabpur",
+    "gn:country_code":"BD",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1186712,
+    "gn:latitude":22.69692,
+    "gn:longitude":89.44585,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Taiabpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Taibpur",
+        "Taiabpur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        421185473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1186712
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"e8c28d377e5af67994939732a6574739",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421185473,
+            "locality_id":1276580199,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1276580199,
+    "wof:lastmodified":1537585723,
+    "wof:name":"Taiabpur",
+    "wof:parent_id":421185473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.44585,
+    22.69692,
+    89.44585,
+    22.69692
+],
+  "geometry": {"coordinates":[89.44584999999999,22.69692],"type":"Point"}
+}

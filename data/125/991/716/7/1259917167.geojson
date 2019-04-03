@@ -1,0 +1,73 @@
+{
+  "id": 1259917167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.88462,25.77962,88.88462,25.77962",
+    "geom:latitude":25.77962,
+    "geom:longitude":88.88462,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5573.0",
+    "gn:admin3_code":"557385.0",
+    "gn:admin4_code":"55738500.0",
+    "gn:asciiname":"Kundai",
+    "gn:country_code":"BD",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7489172,
+    "gn:latitude":25.77962,
+    "gn:longitude":88.88462,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Kundai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Kundai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7489172
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"537b4857f5dcacd1c4850d0e2c9edf20",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694695,
+            "locality_id":1259917167,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1259917167,
+    "wof:lastmodified":1537586690,
+    "wof:name":"Kundai",
+    "wof:parent_id":1108694695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.88462,
+    25.77962,
+    88.88462,
+    25.77962
+],
+  "geometry": {"coordinates":[88.88462,25.77962],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1259909871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.77706,24.34618,90.77706,24.34618",
+    "geom:latitude":24.34618,
+    "geom:longitude":90.77706,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3048",
+    "gn:admin3_code":"304845.0",
+    "gn:admin4_code":"30484519.0",
+    "gn:asciiname":"Simuha Dighirpar",
+    "gn:country_code":"BD",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1187882,
+    "gn:latitude":24.34618,
+    "gn:longitude":90.77706,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Simuha Dighirpar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Simuha Digirpara",
+        "Simuha Digh\u012brp\u0101ra",
+        "Simuha Dighirpar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421170483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1187882
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"8b4242069653018afe52f696de07273a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421170483,
+            "locality_id":1259909871,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1259909871,
+    "wof:lastmodified":1537585747,
+    "wof:name":"Simuha Dighirpar",
+    "wof:parent_id":421170483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.77706,
+    24.34618,
+    90.77706,
+    24.34618
+],
+  "geometry": {"coordinates":[90.77706000000001,24.34618],"type":"Point"}
+}

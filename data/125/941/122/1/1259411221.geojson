@@ -1,0 +1,73 @@
+{
+  "id": 1259411221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.9818,25.86517,88.9818,25.86517",
+    "geom:latitude":25.86517,
+    "geom:longitude":88.9818,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5573.0",
+    "gn:admin3_code":"557345.0",
+    "gn:admin4_code":"55734517.0",
+    "gn:asciiname":"Nayankhal",
+    "gn:country_code":"BD",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7489129,
+    "gn:latitude":25.86517,
+    "gn:longitude":88.9818,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Nayankh\u0101l",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Nayankh\u0101l"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7489129
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"f54b89b356f2e78c646901943e405641",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694695,
+            "locality_id":1259411221,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1259411221,
+    "wof:lastmodified":1537586688,
+    "wof:name":"Nayankhal",
+    "wof:parent_id":1108694695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.9818,
+    25.86517000000001,
+    88.9818,
+    25.86517000000001
+],
+  "geometry": {"coordinates":[88.98180000000001,25.86517000000001],"type":"Point"}
+}

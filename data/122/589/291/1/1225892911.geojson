@@ -1,0 +1,76 @@
+{
+  "id": 1225892911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.89233,22.18029,91.89233,22.18029",
+    "geom:latitude":22.18029,
+    "geom:longitude":91.89233,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2015.0",
+    "gn:admin3_code":"201504.0",
+    "gn:admin4_code":"20150447.0",
+    "gn:asciiname":"Burumchara",
+    "gn:country_code":"BD",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1208007,
+    "gn:latitude":22.18029,
+    "gn:longitude":91.89233,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Burumchara",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Burumchhara"
+    ],
+    "name:ben_x_variant":[
+        "Burumchara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421201541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1208007
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"cd4f35895f4160f753c243cd83475ebe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421201541,
+            "locality_id":1225892911,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1225892911,
+    "wof:lastmodified":1537586122,
+    "wof:name":"Burumchara",
+    "wof:parent_id":421201541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.89233,
+    22.18029,
+    91.89233,
+    22.18029
+],
+  "geometry": {"coordinates":[91.89233,22.18029],"type":"Point"}
+}

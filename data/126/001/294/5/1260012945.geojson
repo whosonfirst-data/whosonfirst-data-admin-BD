@@ -1,0 +1,73 @@
+{
+  "id": 1260012945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.68231,24.15873,90.68231,24.15873",
+    "geom:latitude":24.15873,
+    "geom:longitude":90.68231,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3033.0",
+    "gn:admin3_code":"303336.0",
+    "gn:admin4_code":"30333634.0",
+    "gn:asciiname":"Char Aicha",
+    "gn:country_code":"BD",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1213164,
+    "gn:latitude":24.15873,
+    "gn:longitude":90.68231,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Char Aicha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Aich\u0101r Char"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421203493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1213164
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"55332f69cbc37749c68ff13c542b8506",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421203493,
+            "locality_id":1260012945,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1260012945,
+    "wof:lastmodified":1537586209,
+    "wof:name":"Char Aicha",
+    "wof:parent_id":421203493,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.68231,
+    24.15873,
+    90.68231,
+    24.15873
+],
+  "geometry": {"coordinates":[90.68231,24.15873],"type":"Point"}
+}

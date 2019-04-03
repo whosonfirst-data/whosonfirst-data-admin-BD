@@ -1,0 +1,69 @@
+{
+  "id": 1209252907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.06667,23.43333,91.06667,23.43333",
+    "geom:latitude":23.43333,
+    "geom:longitude":91.06667,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2019",
+    "gn:admin3_code":"201909.0",
+    "gn:admin4_code":"20190918.0",
+    "gn:asciiname":"Jagdasar",
+    "gn:cc2":"BD",
+    "gn:country_code":"BD",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1200511,
+    "gn:latitude":23.43333,
+    "gn:longitude":91.06667,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Jagd\u0101s\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jagadasar",
+        "Jagd\u0101s\u0101r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1200511
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"ebfb33fea7515922b3c1b21d10985577",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209252907
+        }
+    ],
+    "wof:id":1209252907,
+    "wof:lastmodified":1537585980,
+    "wof:name":"Jagdasar",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.06667,
+    23.43333,
+    91.06667,
+    23.43333
+],
+  "geometry": {"coordinates":[91.06667,23.43333],"type":"Point"}
+}

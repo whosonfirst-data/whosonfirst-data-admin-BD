@@ -1,0 +1,74 @@
+{
+  "id": 1277109885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.78388,24.81171,90.78388,24.81171",
+    "geom:latitude":24.81171,
+    "geom:longitude":90.78388,
+    "gn:admin1_code":"H",
+    "gn:admin2_code":"3072.0",
+    "gn:admin3_code":"307274.0",
+    "gn:admin4_code":"30727447.0",
+    "gn:asciiname":"Darun Hasanpur",
+    "gn:country_code":"BD",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1205010,
+    "gn:latitude":24.81171,
+    "gn:longitude":90.78388,
+    "gn:modification_date":"2016-11-17",
+    "gn:name":"Darun Has\u0101npur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Darun Has\u0101npur",
+        "Darun H\u0101s\u0101mpur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        1108803101,
+        421200811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1205010
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"c42fa55231c1dbff92e0554cd92a1100",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421200811,
+            "locality_id":1277109885,
+            "region_id":1108803101
+        }
+    ],
+    "wof:id":1277109885,
+    "wof:lastmodified":1537586065,
+    "wof:name":"Darun Hasanpur",
+    "wof:parent_id":421200811,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.78388,
+    24.81171,
+    90.78388,
+    24.81171
+],
+  "geometry": {"coordinates":[90.78388,24.81171],"type":"Point"}
+}

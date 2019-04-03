@@ -1,0 +1,70 @@
+{
+  "id": 1242907051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.89855,23.95954,89.89855,23.95954",
+    "geom:latitude":23.95954,
+    "geom:longitude":89.89855,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3056",
+    "gn:admin3_code":"305610.0",
+    "gn:admin4_code":"30561076.0",
+    "gn:asciiname":"Tutiam",
+    "gn:country_code":"BD",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1185901,
+    "gn:latitude":23.95954,
+    "gn:longitude":89.89855,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Tuti\u0101m",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421191745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1185901
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"0f250f458cf84057bbf9d2f36eac5eed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421191745,
+            "locality_id":1242907051,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1242907051,
+    "wof:lastmodified":1537083051,
+    "wof:name":"Tutiam",
+    "wof:parent_id":421191745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.89855,
+    23.95954,
+    89.89855,
+    23.95954
+],
+  "geometry": {"coordinates":[89.89855,23.95954],"type":"Point"}
+}

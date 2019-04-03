@@ -1,0 +1,73 @@
+{
+  "id": 1293134221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.64722,23.18105,89.64722,23.18105",
+    "geom:latitude":23.18105,
+    "geom:longitude":89.64722,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4065.0",
+    "gn:admin3_code":"406552.0",
+    "gn:admin4_code":"40655255.0",
+    "gn:asciiname":"Lohagara",
+    "gn:country_code":"BD",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7480453,
+    "gn:latitude":23.18105,
+    "gn:longitude":89.64722,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Loh\u0101gara",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Loh\u0101gara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        421205213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7480453
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"85a7c5ffa40dc914d1d950a39517345d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421205213,
+            "locality_id":1293134221,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1293134221,
+    "wof:lastmodified":1537586450,
+    "wof:name":"Lohagara",
+    "wof:parent_id":421205213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.64721999999998,
+    23.18105,
+    89.64721999999998,
+    23.18105
+],
+  "geometry": {"coordinates":[89.64721999999998,23.18105],"type":"Point"}
+}

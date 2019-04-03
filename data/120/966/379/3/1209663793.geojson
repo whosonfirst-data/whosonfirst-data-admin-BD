@@ -1,0 +1,67 @@
+{
+  "id": 1209663793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.8785,22.4979,91.8785,22.4979",
+    "geom:latitude":22.4979,
+    "geom:longitude":91.8785,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2015.0",
+    "gn:admin3_code":"201574.0",
+    "gn:admin4_code":"20157412.0",
+    "gn:asciiname":"Khagatia Ghat",
+    "gn:country_code":"BD",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6413513,
+    "gn:latitude":22.4979,
+    "gn:longitude":91.8785,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Khagatia Gh\u0101t",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Khagatia Gh\u0101t"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6413513
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"c5dfc7c73730004f0b8e2cac9ef47f08",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209663793
+        }
+    ],
+    "wof:id":1209663793,
+    "wof:lastmodified":1537586215,
+    "wof:name":"Khagatia Ghat",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.8785,
+    22.4979,
+    91.8785,
+    22.4979
+],
+  "geometry": {"coordinates":[91.8785,22.4979],"type":"Point"}
+}

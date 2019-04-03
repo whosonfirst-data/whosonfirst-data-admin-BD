@@ -1,0 +1,73 @@
+{
+  "id": 1309844147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.75266,22.9963,91.75266,22.9963",
+    "geom:latitude":22.9963,
+    "geom:longitude":91.75266,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2046.0",
+    "gn:admin3_code":"204680.0",
+    "gn:admin4_code":"20468076.0",
+    "gn:asciiname":"Godiapara",
+    "gn:country_code":"BD",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7477116,
+    "gn:latitude":22.9963,
+    "gn:longitude":91.75266,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Godiapara",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Godiapara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        1108694683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7477116
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"2ca46b89903fe8c2efab9dd8aaad4596",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694683,
+            "locality_id":1309844147,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1309844147,
+    "wof:lastmodified":1537586361,
+    "wof:name":"Godiapara",
+    "wof:parent_id":1108694683,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.75266,
+    22.9963,
+    91.75266,
+    22.9963
+],
+  "geometry": {"coordinates":[91.75266000000001,22.9963],"type":"Point"}
+}

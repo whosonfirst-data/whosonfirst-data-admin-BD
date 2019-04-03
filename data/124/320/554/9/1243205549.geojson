@@ -1,0 +1,70 @@
+{
+  "id": 1243205549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.15358,24.70125,90.15358,24.70125",
+    "geom:latitude":24.70125,
+    "geom:longitude":90.15358,
+    "gn:admin1_code":"H",
+    "gn:admin2_code":"3061.0",
+    "gn:admin3_code":"306165.0",
+    "gn:admin4_code":"30616543.0",
+    "gn:asciiname":"Basuri",
+    "gn:country_code":"BD",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1209885,
+    "gn:latitude":24.70125,
+    "gn:longitude":90.15358,
+    "gn:modification_date":"2016-11-17",
+    "gn:name":"B\u0101suri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        1108803101,
+        421185469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1209885
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"138da31424f0a8745a4eae6817069ba0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421185469,
+            "locality_id":1243205549,
+            "region_id":1108803101
+        }
+    ],
+    "wof:id":1243205549,
+    "wof:lastmodified":1536656008,
+    "wof:name":"Basuri",
+    "wof:parent_id":421185469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.15358,
+    24.70125,
+    90.15358,
+    24.70125
+],
+  "geometry": {"coordinates":[90.15358000000001,24.70125],"type":"Point"}
+}

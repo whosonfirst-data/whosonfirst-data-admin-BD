@@ -1,0 +1,67 @@
+{
+  "id": 1293218531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.4,22.76667,90.4,22.76667",
+    "geom:latitude":22.76667,
+    "geom:longitude":90.4,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Ramkati",
+    "gn:country_code":"BD",
+    "gn:dem":0,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1190052,
+    "gn:latitude":22.76667,
+    "gn:longitude":90.4,
+    "gn:modification_date":"1994-01-27",
+    "gn:name":"R\u0101mk\u0101ti",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669019,
+        421187745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1190052
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"48be9147e60645f92a839947378cef14",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421187745,
+            "locality_id":1293218531,
+            "region_id":85669019
+        }
+    ],
+    "wof:id":1293218531,
+    "wof:lastmodified":1536677769,
+    "wof:name":"Ramkati",
+    "wof:parent_id":421187745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.4,
+    22.76667,
+    90.4,
+    22.76667
+],
+  "geometry": {"coordinates":[90.40000000000001,22.76667],"type":"Point"}
+}

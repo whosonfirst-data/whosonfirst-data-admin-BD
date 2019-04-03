@@ -1,0 +1,70 @@
+{
+  "id": 1293732483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.53833,22.44861,91.53833,22.44861",
+    "geom:latitude":22.44861,
+    "geom:longitude":91.53833,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2015.0",
+    "gn:admin3_code":"201578.0",
+    "gn:admin4_code":"20157865.0",
+    "gn:asciiname":"Maghdhara Khal",
+    "gn:country_code":"BD",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6413883,
+    "gn:latitude":22.44861,
+    "gn:longitude":91.53833,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Maghdh\u0101ra Kh\u0101l",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421201541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6413883
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"2c411b8e423a568b4413d75862caa55f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421201541,
+            "locality_id":1293732483,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1293732483,
+    "wof:lastmodified":1536931870,
+    "wof:name":"Maghdhara Khal",
+    "wof:parent_id":421201541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.53833,
+    22.44861,
+    91.53833,
+    22.44861
+],
+  "geometry": {"coordinates":[91.53833,22.44861],"type":"Point"}
+}

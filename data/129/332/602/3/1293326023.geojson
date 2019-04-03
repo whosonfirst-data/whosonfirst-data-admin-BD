@@ -1,0 +1,73 @@
+{
+  "id": 1293326023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.66491,23.79312,89.66491,23.79312",
+    "geom:latitude":23.79312,
+    "geom:longitude":89.66491,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3082.0",
+    "gn:admin3_code":"308276.0",
+    "gn:admin4_code":"30827651.0",
+    "gn:asciiname":"Maukuri",
+    "gn:country_code":"BD",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7479441,
+    "gn:latitude":23.79312,
+    "gn:longitude":89.66491,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Maukuri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Maukuri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        1108694699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7479441
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"c9d698819c5d844d25ca05915cc04f9a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694699,
+            "locality_id":1293326023,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1293326023,
+    "wof:lastmodified":1537586420,
+    "wof:name":"Maukuri",
+    "wof:parent_id":1108694699,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.66490999999998,
+    23.79312,
+    89.66490999999998,
+    23.79312
+],
+  "geometry": {"coordinates":[89.66490999999998,23.79312],"type":"Point"}
+}

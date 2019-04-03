@@ -1,0 +1,75 @@
+{
+  "id": 1243010531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.59534,24.08404,91.59534,24.08404",
+    "geom:latitude":24.08404,
+    "geom:longitude":91.59534,
+    "gn:admin1_code":"86",
+    "gn:admin2_code":"6036.0",
+    "gn:admin3_code":"603626.0",
+    "gn:admin4_code":"60362638.0",
+    "gn:asciiname":"Balla",
+    "gn:cc2":"BD",
+    "gn:country_code":"BD",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1211270,
+    "gn:latitude":24.08404,
+    "gn:longitude":91.59534,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Balla",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ballabazar",
+        "Balla"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669025,
+        421176045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1211270
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"221bc0a319e96ce2a0ab2dc5b3227477",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421176045,
+            "locality_id":1243010531,
+            "region_id":85669025
+        }
+    ],
+    "wof:id":1243010531,
+    "wof:lastmodified":1537586175,
+    "wof:name":"Balla",
+    "wof:parent_id":421176045,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.59534,
+    24.08404,
+    91.59534,
+    24.08404
+],
+  "geometry": {"coordinates":[91.59533999999999,24.08404],"type":"Point"}
+}

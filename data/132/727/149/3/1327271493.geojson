@@ -1,0 +1,73 @@
+{
+  "id": 1327271493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.41829,25.3486,89.41829,25.3486",
+    "geom:latitude":25.3486,
+    "geom:longitude":89.41829,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5532",
+    "gn:admin3_code":"553282.0",
+    "gn:admin4_code":"55328217.0",
+    "gn:asciiname":"Birahimpur",
+    "gn:country_code":"BD",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7898535,
+    "gn:latitude":25.3486,
+    "gn:longitude":89.41829,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Birahimpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Birahimpur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7898535
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"0a4524d0bb9b5fe4b5a4294155938d9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694675,
+            "locality_id":1327271493,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1327271493,
+    "wof:lastmodified":1537586769,
+    "wof:name":"Birahimpur",
+    "wof:parent_id":1108694675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.41829,
+    25.3486,
+    89.41829,
+    25.3486
+],
+  "geometry": {"coordinates":[89.41829,25.3486],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1193170465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.50629,24.55047,89.50629,24.55047",
+    "geom:latitude":24.55047,
+    "geom:longitude":89.50629,
+    "gn:admin1_code":"83",
+    "gn:admin2_code":"5088.0",
+    "gn:admin3_code":"508861.0",
+    "gn:admin4_code":"50886119.0",
+    "gn:asciiname":"Chandaikona",
+    "gn:country_code":"BD",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1207510,
+    "gn:latitude":24.55047,
+    "gn:longitude":89.50629,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Ch\u0101nd\u0101ikona",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669031,
+        421201929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1207510
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"32b6336a6c59a1b89577a046b8b6c06a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421201929,
+            "locality_id":1193170465,
+            "region_id":85669031
+        }
+    ],
+    "wof:id":1193170465,
+    "wof:lastmodified":1536381066,
+    "wof:name":"Chandaikona",
+    "wof:parent_id":421201929,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.50629,
+    24.55047,
+    89.50629,
+    24.55047
+],
+  "geometry": {"coordinates":[89.50629000000001,24.55047],"type":"Point"}
+}

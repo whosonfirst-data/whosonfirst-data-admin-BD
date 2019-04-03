@@ -1,0 +1,70 @@
+{
+  "id": 1226676239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.8612,23.78053,89.8612,23.78053",
+    "geom:latitude":23.78053,
+    "geom:longitude":89.8612,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3056",
+    "gn:admin3_code":"305628.0",
+    "gn:admin4_code":"30562814.0",
+    "gn:asciiname":"Kalapara",
+    "gn:country_code":"BD",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1199216,
+    "gn:latitude":23.78053,
+    "gn:longitude":89.8612,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Kal\u0101p\u0101ra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421191745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1199216
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"da1ccfacad38a3b6b5871b8beb760ae4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421191745,
+            "locality_id":1226676239,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1226676239,
+    "wof:lastmodified":1536814948,
+    "wof:name":"Kalapara",
+    "wof:parent_id":421191745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.8612,
+    23.78053,
+    89.8612,
+    23.78053
+],
+  "geometry": {"coordinates":[89.8612,23.78053],"type":"Point"}
+}

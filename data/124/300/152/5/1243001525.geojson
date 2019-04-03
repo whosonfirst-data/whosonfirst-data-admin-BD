@@ -1,0 +1,73 @@
+{
+  "id": 1243001525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.07783,25.34306,89.07783,25.34306",
+    "geom:latitude":25.34306,
+    "geom:longitude":89.07783,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5527",
+    "gn:admin3_code":"552769.0",
+    "gn:admin4_code":"55276994.0",
+    "gn:asciiname":"Bera Malia",
+    "gn:country_code":"BD",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8064919,
+    "gn:latitude":25.34306,
+    "gn:longitude":89.07783,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Bera Malia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Bera Malia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8064919
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"a1f3e8da12a0c18f688a58e2c9bf10e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694671,
+            "locality_id":1243001525,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1243001525,
+    "wof:lastmodified":1537586854,
+    "wof:name":"Bera Malia",
+    "wof:parent_id":1108694671,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.07783,
+    25.34306,
+    89.07783,
+    25.34306
+],
+  "geometry": {"coordinates":[89.07783000000001,25.34306],"type":"Point"}
+}

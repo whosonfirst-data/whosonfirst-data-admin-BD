@@ -1,0 +1,67 @@
+{
+  "id": 1209135747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.27714,25.36066,89.27714,25.36066",
+    "geom:latitude":25.36066,
+    "geom:longitude":89.27714,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5585",
+    "gn:admin3_code":"558576.0",
+    "gn:admin4_code":"55857631.0",
+    "gn:asciiname":"Gana Chatra",
+    "gn:country_code":"BD",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8537333,
+    "gn:latitude":25.36066,
+    "gn:longitude":89.27714,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Gana Chatra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Gana Chatra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8537333
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"309868ec8be74b790adb3d5f77cde83a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209135747
+        }
+    ],
+    "wof:id":1209135747,
+    "wof:lastmodified":1537586871,
+    "wof:name":"Gana Chatra",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.27714,
+    25.36066,
+    89.27714,
+    25.36066
+],
+  "geometry": {"coordinates":[89.27714,25.36066],"type":"Point"}
+}

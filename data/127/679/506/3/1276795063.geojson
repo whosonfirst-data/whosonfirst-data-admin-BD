@@ -1,0 +1,70 @@
+{
+  "id": 1276795063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.48942,23.86873,89.48942,23.86873",
+    "geom:latitude":23.86873,
+    "geom:longitude":89.48942,
+    "gn:admin1_code":"83",
+    "gn:admin2_code":"5076.0",
+    "gn:admin3_code":"507683.0",
+    "gn:admin4_code":"50768338.0",
+    "gn:asciiname":"Bhitbila",
+    "gn:country_code":"BD",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1208881,
+    "gn:latitude":23.86873,
+    "gn:longitude":89.48942,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Bhitbila",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669031,
+        421197541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1208881
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"51ab732f2bbc07ab84f34d411b33dbd2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421197541,
+            "locality_id":1276795063,
+            "region_id":85669031
+        }
+    ],
+    "wof:id":1276795063,
+    "wof:lastmodified":1536657496,
+    "wof:name":"Bhitbila",
+    "wof:parent_id":421197541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.48942,
+    23.86873,
+    89.48942,
+    23.86873
+],
+  "geometry": {"coordinates":[89.48942,23.86873],"type":"Point"}
+}

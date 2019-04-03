@@ -1,0 +1,73 @@
+{
+  "id": 1243396841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.79824,25.13557,88.79824,25.13557",
+    "geom:latitude":25.13557,
+    "geom:longitude":88.79824,
+    "gn:admin1_code":"83",
+    "gn:admin2_code":"5064.0",
+    "gn:admin3_code":"506428.0",
+    "gn:admin4_code":"50642821.0",
+    "gn:asciiname":"Ghultiapara",
+    "gn:country_code":"BD",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7481521,
+    "gn:latitude":25.13557,
+    "gn:longitude":88.79824,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Ghultiap\u0101ra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Ghultiap\u0101ra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669031,
+        421191663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7481521
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"259dcc63223d0ac0983d2efbf967c389",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421191663,
+            "locality_id":1243396841,
+            "region_id":85669031
+        }
+    ],
+    "wof:id":1243396841,
+    "wof:lastmodified":1537586481,
+    "wof:name":"Ghultiapara",
+    "wof:parent_id":421191663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.79824,
+    25.13557,
+    88.79824,
+    25.13557
+],
+  "geometry": {"coordinates":[88.79824000000001,25.13557],"type":"Point"}
+}

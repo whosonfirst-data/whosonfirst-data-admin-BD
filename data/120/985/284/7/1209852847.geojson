@@ -1,0 +1,73 @@
+{
+  "id": 1209852847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.93741,24.5271,88.93741,24.5271",
+    "geom:latitude":24.5271,
+    "geom:longitude":88.93741,
+    "gn:admin1_code":"83",
+    "gn:admin2_code":"5069.0",
+    "gn:admin3_code":"506963.0",
+    "gn:admin4_code":"50696321.0",
+    "gn:asciiname":"Cheukhali",
+    "gn:country_code":"BD",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1206250,
+    "gn:latitude":24.5271,
+    "gn:longitude":88.93741,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Cheukh\u0101li",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Cheukh\u0101li"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669031,
+        421182115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1206250
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"9c49cf764a1b54dfd523b063000343b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421182115,
+            "locality_id":1209852847,
+            "region_id":85669031
+        }
+    ],
+    "wof:id":1209852847,
+    "wof:lastmodified":1537586089,
+    "wof:name":"Cheukhali",
+    "wof:parent_id":421182115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.93741,
+    24.5271,
+    88.93741,
+    24.5271
+],
+  "geometry": {"coordinates":[88.93741,24.5271],"type":"Point"}
+}

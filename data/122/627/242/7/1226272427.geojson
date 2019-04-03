@@ -1,0 +1,70 @@
+{
+  "id": 1226272427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.01761,23.21009,90.01761,23.21009",
+    "geom:latitude":23.21009,
+    "geom:longitude":90.01761,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3054.0",
+    "gn:admin3_code":"305480.0",
+    "gn:admin4_code":"30548076.0",
+    "gn:asciiname":"Baulgram",
+    "gn:country_code":"BD",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1209813,
+    "gn:latitude":23.21009,
+    "gn:longitude":90.01761,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Baulgr\u0101m",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421183929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1209813
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"cea0df9c31cd6115b4445132571ea464",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421183929,
+            "locality_id":1226272427,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1226272427,
+    "wof:lastmodified":1536895043,
+    "wof:name":"Baulgram",
+    "wof:parent_id":421183929,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.01760999999998,
+    23.21009,
+    90.01760999999998,
+    23.21009
+],
+  "geometry": {"coordinates":[90.01760999999998,23.21009],"type":"Point"}
+}

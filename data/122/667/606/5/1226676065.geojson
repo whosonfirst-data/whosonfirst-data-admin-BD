@@ -1,0 +1,76 @@
+{
+  "id": 1226676065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.47867,25.89239,88.47867,25.89239",
+    "geom:latitude":25.89239,
+    "geom:longitude":88.47867,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5594",
+    "gn:admin3_code":"559482.0",
+    "gn:admin4_code":"55948286.0",
+    "gn:asciiname":"Madhabpur",
+    "gn:country_code":"BD",
+    "gn:dem":51,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1185554,
+    "gn:latitude":25.89239,
+    "gn:longitude":88.47867,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"M\u0101dhabpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "M\u0101dhabpur"
+    ],
+    "name:ben_x_variant":[
+        "Uttar M\u0101dhabpur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1185554
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"b6e7cef1220681a43c0b4c50d096c9ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694703,
+            "locality_id":1226676065,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1226676065,
+    "wof:lastmodified":1537585704,
+    "wof:name":"Madhabpur",
+    "wof:parent_id":1108694703,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.47867,
+    25.89239,
+    88.47867,
+    25.89239
+],
+  "geometry": {"coordinates":[88.47866999999999,25.89239],"type":"Point"}
+}

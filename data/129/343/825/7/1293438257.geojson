@@ -1,0 +1,76 @@
+{
+  "id": 1293438257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"92.21676,21.92591,92.21676,21.92591",
+    "geom:latitude":21.92591,
+    "geom:longitude":92.21676,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2003.0",
+    "gn:admin3_code":"200351.0",
+    "gn:admin4_code":"20035179.0",
+    "gn:asciiname":"Dawaipara",
+    "gn:country_code":"BD",
+    "gn:dem":58,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6414592,
+    "gn:latitude":21.92591,
+    "gn:longitude":92.21676,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Daw\u0101ip\u0101ra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Daw\u0101ip\u0101ra"
+    ],
+    "name:ben_x_variant":[
+        "Dew\u0101ip\u0101ra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421169477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6414592
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"4bf4b8ad4c2e2b828e5c7214dc02167e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421169477,
+            "locality_id":1293438257,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1293438257,
+    "wof:lastmodified":1537586230,
+    "wof:name":"Dawaipara",
+    "wof:parent_id":421169477,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    92.21676,
+    21.92591,
+    92.21676,
+    21.92591
+],
+  "geometry": {"coordinates":[92.21675999999999,21.92591],"type":"Point"}
+}

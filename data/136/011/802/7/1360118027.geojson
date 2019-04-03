@@ -1,0 +1,73 @@
+{
+  "id": 1360118027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.19724,26.04736,89.19724,26.04736",
+    "geom:latitude":26.04736,
+    "geom:longitude":89.19724,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5552",
+    "gn:admin3_code":"555239.0",
+    "gn:admin4_code":"55523965.0",
+    "gn:asciiname":"Kaitari",
+    "gn:country_code":"BD",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8207254,
+    "gn:latitude":26.04736,
+    "gn:longitude":89.19724,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Kaitari",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Kaitari"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8207254
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"b5465a3384c1f0e4f929a9b34c92a6c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694687,
+            "locality_id":1360118027,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1360118027,
+    "wof:lastmodified":1537586862,
+    "wof:name":"Kaitari",
+    "wof:parent_id":1108694687,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.19724000000002,
+    26.04736,
+    89.19724000000002,
+    26.04736
+],
+  "geometry": {"coordinates":[89.19724000000002,26.04736],"type":"Point"}
+}

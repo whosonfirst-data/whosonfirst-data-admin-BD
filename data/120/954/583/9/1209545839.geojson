@@ -1,0 +1,67 @@
+{
+  "id": 1209545839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.6244,25.77999,88.6244,25.77999",
+    "geom:latitude":25.77999,
+    "geom:longitude":88.6244,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5527.0",
+    "gn:admin3_code":"552756.0",
+    "gn:admin4_code":"55275647.0",
+    "gn:asciiname":"Satpur",
+    "gn:country_code":"BD",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7105899,
+    "gn:latitude":25.77999,
+    "gn:longitude":88.6244,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"S\u0101tpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "S\u0101tpur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7105899
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"28b086d2b496f053ea2f4782a889b698",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209545839
+        }
+    ],
+    "wof:id":1209545839,
+    "wof:lastmodified":1537586316,
+    "wof:name":"Satpur",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.6244,
+    25.77999,
+    88.6244,
+    25.77999
+],
+  "geometry": {"coordinates":[88.62439999999999,25.77999],"type":"Point"}
+}

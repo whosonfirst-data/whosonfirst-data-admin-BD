@@ -1,0 +1,67 @@
+{
+  "id": 1209645375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.41162,25.17249,89.41162,25.17249",
+    "geom:latitude":25.17249,
+    "geom:longitude":89.41162,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5532",
+    "gn:admin3_code":"553230.0",
+    "gn:admin4_code":"55323011.0",
+    "gn:asciiname":"Raghumathpur",
+    "gn:country_code":"BD",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7891344,
+    "gn:latitude":25.17249,
+    "gn:longitude":89.41162,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Raghum\u0101thpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Raghum\u0101thpur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7891344
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"43d29ff25929ad9a8e2ea0393d3ae34d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209645375
+        }
+    ],
+    "wof:id":1209645375,
+    "wof:lastmodified":1537586751,
+    "wof:name":"Raghumathpur",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.41162,
+    25.17249,
+    89.41162,
+    25.17249
+],
+  "geometry": {"coordinates":[89.41162,25.17249],"type":"Point"}
+}

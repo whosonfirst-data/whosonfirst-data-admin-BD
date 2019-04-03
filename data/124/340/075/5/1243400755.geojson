@@ -1,0 +1,73 @@
+{
+  "id": 1243400755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.364,26.27267,88.364,26.27267",
+    "geom:latitude":26.27267,
+    "geom:longitude":88.364,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5577.0",
+    "gn:admin3_code":"557704.0",
+    "gn:admin4_code":"55770481.0",
+    "gn:asciiname":"Sarkarpara",
+    "gn:country_code":"BD",
+    "gn:dem":73,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7486884,
+    "gn:latitude":26.27267,
+    "gn:longitude":88.364,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Sarkarp\u0101ra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Sarkarp\u0101ra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7486884
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"58cae14e44eebb2b8d6f0bd2d2f43d0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694697,
+            "locality_id":1243400755,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1243400755,
+    "wof:lastmodified":1537586624,
+    "wof:name":"Sarkarpara",
+    "wof:parent_id":1108694697,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.36399999999998,
+    26.27267,
+    88.36399999999998,
+    26.27267
+],
+  "geometry": {"coordinates":[88.36399999999998,26.27267],"type":"Point"}
+}

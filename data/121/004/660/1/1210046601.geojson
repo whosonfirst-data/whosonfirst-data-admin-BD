@@ -1,0 +1,76 @@
+{
+  "id": 1210046601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.52783,25.72206,89.52783,25.72206",
+    "geom:latitude":25.72206,
+    "geom:longitude":89.52783,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5549.0",
+    "gn:admin3_code":"554994.0",
+    "gn:admin4_code":"55499433.0",
+    "gn:asciiname":"Biddhananda",
+    "gn:country_code":"BD",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7887924,
+    "gn:latitude":25.72206,
+    "gn:longitude":89.52783,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Biddh\u0101n\u0101nda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Bidyananda"
+    ],
+    "name:ben_x_variant":[
+        "Biddh\u0101n\u0101nda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7887924
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"205553421019d0c9dd3bd98cf93336e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694685,
+            "locality_id":1210046601,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1210046601,
+    "wof:lastmodified":1537586717,
+    "wof:name":"Biddhananda",
+    "wof:parent_id":1108694685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.52783000000002,
+    25.72206,
+    89.52783000000002,
+    25.72206
+],
+  "geometry": {"coordinates":[89.52783000000002,25.72206],"type":"Point"}
+}

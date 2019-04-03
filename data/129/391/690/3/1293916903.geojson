@@ -1,0 +1,70 @@
+{
+  "id": 1293916903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.51146,24.24943,90.51146,24.24943",
+    "geom:latitude":24.24943,
+    "geom:longitude":90.51146,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3033.0",
+    "gn:admin3_code":"303386.0",
+    "gn:admin4_code":"30338609.0",
+    "gn:asciiname":"Baranal",
+    "gn:country_code":"BD",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1210317,
+    "gn:latitude":24.24943,
+    "gn:longitude":90.51146,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Baran\u0101l",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421203493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1210317
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"0c846e7f9783118f0f66e29b15a87eca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421203493,
+            "locality_id":1293916903,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1293916903,
+    "wof:lastmodified":1536665258,
+    "wof:name":"Baranal",
+    "wof:parent_id":421203493,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.51146,
+    24.24943,
+    90.51146,
+    24.24943
+],
+  "geometry": {"coordinates":[90.51146,24.24943],"type":"Point"}
+}

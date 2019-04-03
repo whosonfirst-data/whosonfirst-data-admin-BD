@@ -1,0 +1,79 @@
+{
+  "id": 421169449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.42914,26.24459,88.42914,26.24459",
+    "geom:latitude":26.24459,
+    "geom:longitude":88.42914,
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ben_x_preferred":[
+        "Nalpokhri"
+    ],
+    "qs:gn_country":"BD",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":7487245,
+    "qs:gn_pop":0,
+    "qs:name":"Kalpokhri",
+    "qs:name_adm0":"India",
+    "qs:name_adm1":"West Bengal",
+    "qs:photos":69,
+    "qs:photos_1k":14,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":69,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1198222,
+    "qs:woe_adm0":23424848,
+    "qs:woe_id":29214451,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7487245,
+        "gp:id":29214451,
+        "qs:id":1198222
+    },
+    "wof:country":"BD",
+    "wof:created":1459008810,
+    "wof:geomhash":"36d7ea96b2d897827c67d8236f32b5cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694697,
+            "locality_id":421169449,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":421169449,
+    "wof:lastmodified":1501273219,
+    "wof:name":"Kalpokhri",
+    "wof:parent_id":1108694697,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.42914,
+    26.24459,
+    88.42914,
+    26.24459
+],
+  "geometry": {"coordinates":[88.42914,26.24459],"type":"Point"}
+}

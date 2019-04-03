@@ -1,0 +1,73 @@
+{
+  "id": 1293619207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.9167,24.44086,88.9167,24.44086",
+    "geom:latitude":24.44086,
+    "geom:longitude":88.9167,
+    "gn:admin1_code":"83",
+    "gn:admin2_code":"5069",
+    "gn:admin3_code":"506963.0",
+    "gn:admin4_code":"50696329.0",
+    "gn:asciiname":"Majh Digha",
+    "gn:country_code":"BD",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1195347,
+    "gn:latitude":24.44086,
+    "gn:longitude":88.9167,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"M\u0101jh Digha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "M\u0101jh Digha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669031,
+        421182115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1195347
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"1f08df1b540ca5b812606b22ad8e7919",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421182115,
+            "locality_id":1293619207,
+            "region_id":85669031
+        }
+    ],
+    "wof:id":1293619207,
+    "wof:lastmodified":1537585885,
+    "wof:name":"Majh Digha",
+    "wof:parent_id":421182115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.9167,
+    24.44086,
+    88.9167,
+    24.44086
+],
+  "geometry": {"coordinates":[88.91670000000001,24.44086],"type":"Point"}
+}

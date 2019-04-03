@@ -1,0 +1,74 @@
+{
+  "id": 1343494709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.95241,24.99503,91.95241,24.99503",
+    "geom:latitude":24.99503,
+    "geom:longitude":91.95241,
+    "gn:admin1_code":"86",
+    "gn:admin2_code":"6091",
+    "gn:admin3_code":"609141.0",
+    "gn:admin4_code":"60914121.0",
+    "gn:asciiname":"Mahishkher",
+    "gn:country_code":"BD",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1195491,
+    "gn:latitude":24.99503,
+    "gn:longitude":91.95241,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Mahishkher",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mahiskher",
+        "Mahishkher"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669025,
+        421187795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1195491
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"8afcaf16362495361aa6cbb780da5c66",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421187795,
+            "locality_id":1343494709,
+            "region_id":85669025
+        }
+    ],
+    "wof:id":1343494709,
+    "wof:lastmodified":1537585889,
+    "wof:name":"Mahishkher",
+    "wof:parent_id":421187795,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.95241,
+    24.99503,
+    91.95241,
+    24.99503
+],
+  "geometry": {"coordinates":[91.95241,24.99503],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1344090187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.38289,23.84191,89.38289,23.84191",
+    "geom:latitude":23.84191,
+    "geom:longitude":89.38289,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3082.0",
+    "gn:admin3_code":"308273.0",
+    "gn:admin4_code":"30827325.0",
+    "gn:asciiname":"Guruchandi",
+    "gn:country_code":"BD",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1201832,
+    "gn:latitude":23.84191,
+    "gn:longitude":89.38289,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Guruch\u0101ndi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        1108694699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1201832
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"7c00fc6c1ff2518f0941f79024f0febe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694699,
+            "locality_id":1344090187,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1344090187,
+    "wof:lastmodified":1536831813,
+    "wof:name":"Guruchandi",
+    "wof:parent_id":1108694699,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.38289,
+    23.84191,
+    89.38289,
+    23.84191
+],
+  "geometry": {"coordinates":[89.38289,23.84191],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1209845911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.33613,25.58425,89.33613,25.58425",
+    "geom:latitude":25.58425,
+    "geom:longitude":89.33613,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5585",
+    "gn:admin3_code":"558558.0",
+    "gn:admin4_code":"55855822.0",
+    "gn:asciiname":"Paharpur",
+    "gn:country_code":"BD",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7889736,
+    "gn:latitude":25.58425,
+    "gn:longitude":89.33613,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"P\u0101h\u0101rpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7889736
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"f1df78e86581b21f34dd423fd223ef6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694701,
+            "locality_id":1209845911,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1209845911,
+    "wof:lastmodified":1536390676,
+    "wof:name":"Paharpur",
+    "wof:parent_id":1108694701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.33613000000003,
+    25.58425,
+    89.33613000000003,
+    25.58425
+],
+  "geometry": {"coordinates":[89.33613000000003,25.58425],"type":"Point"}
+}

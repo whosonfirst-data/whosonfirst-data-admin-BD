@@ -1,0 +1,73 @@
+{
+  "id": 1292939051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.52904,25.23739,89.52904,25.23739",
+    "geom:latitude":25.23739,
+    "geom:longitude":89.52904,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5532",
+    "gn:admin3_code":"553224.0",
+    "gn:admin4_code":"55322407.0",
+    "gn:asciiname":"Chak Barul",
+    "gn:country_code":"BD",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7905511,
+    "gn:latitude":25.23739,
+    "gn:longitude":89.52904,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Chak Barul",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Chak Barul"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7905511
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"efa16b546e55da2ef744fcb66578a679",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694675,
+            "locality_id":1292939051,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1292939051,
+    "wof:lastmodified":1537586774,
+    "wof:name":"Chak Barul",
+    "wof:parent_id":1108694675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.52904000000002,
+    25.23739,
+    89.52904000000002,
+    25.23739
+],
+  "geometry": {"coordinates":[89.52904000000002,25.23739],"type":"Point"}
+}

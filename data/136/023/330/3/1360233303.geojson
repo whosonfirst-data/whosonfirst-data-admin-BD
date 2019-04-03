@@ -1,0 +1,73 @@
+{
+  "id": 1360233303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"92.09387,22.37896,92.09387,22.37896",
+    "geom:latitude":22.37896,
+    "geom:longitude":92.09387,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2015",
+    "gn:admin3_code":"201570.0",
+    "gn:admin4_code":"20157043.0",
+    "gn:asciiname":"Padua",
+    "gn:country_code":"BD",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1191590,
+    "gn:latitude":22.37896,
+    "gn:longitude":92.09387,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Padua",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Padua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421201541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1191590
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"c8f0dd6f6b5dba257968fe0504746ffa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421201541,
+            "locality_id":1360233303,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1360233303,
+    "wof:lastmodified":1537585816,
+    "wof:name":"Padua",
+    "wof:parent_id":421201541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    92.09387,
+    22.37896,
+    92.09387,
+    22.37896
+],
+  "geometry": {"coordinates":[92.09387,22.37896],"type":"Point"}
+}

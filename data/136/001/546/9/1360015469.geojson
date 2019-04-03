@@ -1,0 +1,70 @@
+{
+  "id": 1360015469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.50723,25.05381,89.50723,25.05381",
+    "geom:latitude":25.05381,
+    "geom:longitude":89.50723,
+    "gn:admin1_code":"83",
+    "gn:asciiname":"Qismater Beguni",
+    "gn:country_code":"BD",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7905571,
+    "gn:latitude":25.05381,
+    "gn:longitude":89.50723,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Qismater Beguni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Qismater Beguni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7905571
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"27278185d07b36809273682c3960afda",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694675,
+            "locality_id":1360015469,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1360015469,
+    "wof:lastmodified":1537586775,
+    "wof:name":"Qismater Beguni",
+    "wof:parent_id":1108694675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.50723,
+    25.05381,
+    89.50723,
+    25.05381
+],
+  "geometry": {"coordinates":[89.50723000000001,25.05381],"type":"Point"}
+}

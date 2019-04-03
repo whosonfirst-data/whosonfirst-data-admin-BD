@@ -1,0 +1,73 @@
+{
+  "id": 1276904839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.79212,23.20859,89.79212,23.20859",
+    "geom:latitude":23.20859,
+    "geom:longitude":89.79212,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3035.0",
+    "gn:admin3_code":"303543.0",
+    "gn:admin4_code":"30354361.0",
+    "gn:asciiname":"Binnabari",
+    "gn:country_code":"BD",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7480540,
+    "gn:latitude":23.20859,
+    "gn:longitude":89.79212,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Binnab\u0101ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Binnab\u0101ri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421194867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7480540
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"2cd9693d1d7ce8c54032e01a268fa696",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421194867,
+            "locality_id":1276904839,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1276904839,
+    "wof:lastmodified":1537586453,
+    "wof:name":"Binnabari",
+    "wof:parent_id":421194867,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.79212,
+    23.20859,
+    89.79212,
+    23.20859
+],
+  "geometry": {"coordinates":[89.79212,23.20859],"type":"Point"}
+}

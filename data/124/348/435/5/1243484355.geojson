@@ -1,0 +1,73 @@
+{
+  "id": 1243484355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.92936,25.96808,88.92936,25.96808",
+    "geom:latitude":25.96808,
+    "geom:longitude":88.92936,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5573.0",
+    "gn:admin3_code":"557364.0",
+    "gn:admin4_code":"55736437.0",
+    "gn:asciiname":"Dondari",
+    "gn:country_code":"BD",
+    "gn:dem":50,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7489098,
+    "gn:latitude":25.96808,
+    "gn:longitude":88.92936,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Dondari",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Dondari"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7489098
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"90be6b1bb81d8ef7f423b837e52627c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694695,
+            "locality_id":1243484355,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1243484355,
+    "wof:lastmodified":1537586687,
+    "wof:name":"Dondari",
+    "wof:parent_id":1108694695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.92936,
+    25.96808,
+    88.92936,
+    25.96808
+],
+  "geometry": {"coordinates":[88.92936,25.96808],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1259616707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.54596,23.62192,89.54596,23.62192",
+    "geom:latitude":23.62192,
+    "geom:longitude":89.54596,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3082.0",
+    "gn:admin3_code":"308207.0",
+    "gn:admin4_code":"30820719.0",
+    "gn:asciiname":"East Maukuri",
+    "gn:country_code":"BD",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1203516,
+    "gn:latitude":23.62192,
+    "gn:longitude":89.54596,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"East Maukuri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Purba Monkari",
+        "East Maukuri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        1108694699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1203516
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"dfa3f9aa397f6a9a7c209588236f68f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694699,
+            "locality_id":1259616707,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1259616707,
+    "wof:lastmodified":1537586040,
+    "wof:name":"East Maukuri",
+    "wof:parent_id":1108694699,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.54596,
+    23.62192000000001,
+    89.54596,
+    23.62192000000001
+],
+  "geometry": {"coordinates":[89.54595999999999,23.62192000000001],"type":"Point"}
+}

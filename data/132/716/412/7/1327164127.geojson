@@ -1,0 +1,74 @@
+{
+  "id": 1327164127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.12308,24.22943,89.12308,24.22943",
+    "geom:latitude":24.22943,
+    "geom:longitude":89.12308,
+    "gn:admin1_code":"83",
+    "gn:admin2_code":"5069.0",
+    "gn:admin3_code":"506915.0",
+    "gn:admin4_code":"50691583.0",
+    "gn:asciiname":"Dhanaldaha",
+    "gn:country_code":"BD",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1204448,
+    "gn:latitude":24.22943,
+    "gn:longitude":89.12308,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Dhan\u0101ldaha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dhanaidaha",
+        "Dhan\u0101ldaha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669031,
+        421182115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1204448
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"c612a074ebeb96572719756126f95338",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421182115,
+            "locality_id":1327164127,
+            "region_id":85669031
+        }
+    ],
+    "wof:id":1327164127,
+    "wof:lastmodified":1537586057,
+    "wof:name":"Dhanaldaha",
+    "wof:parent_id":421182115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.12308,
+    24.22943,
+    89.12308,
+    24.22943
+],
+  "geometry": {"coordinates":[89.12308,24.22943],"type":"Point"}
+}

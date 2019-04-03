@@ -1,0 +1,79 @@
+{
+  "id": 890455197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-09-21",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.91667,23.16667,89.91667,23.16667",
+    "geom:latitude":23.16667,
+    "geom:longitude":89.91667,
+    "gn:country":"BD",
+    "gn:fcode":"ADM2",
+    "gn:pop":1206327,
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ben_x_preferred":[
+        "\u0997\u09cb\u09aa\u09be\u09b2\u0997\u099e\u09cd\u099c \u099c\u09c7\u09b2\u09be"
+    ],
+    "name:eng_x_preferred":[
+        "Gopalganj District"
+    ],
+    "name:eng_x_variant":[
+        "Gopalganj"
+    ],
+    "name:unk_x_variant":[
+        "Gopalganj Zila"
+    ],
+    "qs:name":"Gop\u0101lganj District",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"12",
+    "src:population":"geonames",
+    "wd:wordcount":40,
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1337184,
+        "qs:id":85000,
+        "wd:id":"Q351412",
+        "wk:page":"Gopalganj"
+    },
+    "wof:country":"BD",
+    "wof:created":1469052937,
+    "wof:geomhash":"c20ee8cffb8d2cbb3b86b53430df7a28",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":890455197,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":890455197,
+    "wof:lastmodified":1527734194,
+    "wof:name":"Gop\u0101lganj District",
+    "wof:parent_id":85669009,
+    "wof:placetype":"county",
+    "wof:population":1206327,
+    "wof:population_rank":12,
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.91667,
+    23.16667,
+    89.91667,
+    23.16667
+],
+  "geometry": {"coordinates":[89.91667,23.16667],"type":"Point"}
+}

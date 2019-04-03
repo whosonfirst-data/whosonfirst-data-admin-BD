@@ -1,0 +1,74 @@
+{
+  "id": 1343295337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.33276,24.89317,90.33276,24.89317",
+    "geom:latitude":24.89317,
+    "geom:longitude":90.33276,
+    "gn:admin1_code":"H",
+    "gn:admin2_code":"3061.0",
+    "gn:admin3_code":"306181.0",
+    "gn:admin4_code":"30618163.0",
+    "gn:asciiname":"Dhitpur Goda",
+    "gn:country_code":"BD",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1204239,
+    "gn:latitude":24.89317,
+    "gn:longitude":90.33276,
+    "gn:modification_date":"2016-11-17",
+    "gn:name":"Dhitpur Goda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dhitpur Sol\u0101kh\u0101li",
+        "Dhitpur Goda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        1108803101,
+        421185469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1204239
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"19b5d2bb066dcc1e31ce357fe4ecbcb1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421185469,
+            "locality_id":1343295337,
+            "region_id":1108803101
+        }
+    ],
+    "wof:id":1343295337,
+    "wof:lastmodified":1537586053,
+    "wof:name":"Dhitpur Goda",
+    "wof:parent_id":421185469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.33276,
+    24.89317,
+    90.33276,
+    24.89317
+],
+  "geometry": {"coordinates":[90.33275999999999,24.89317],"type":"Point"}
+}

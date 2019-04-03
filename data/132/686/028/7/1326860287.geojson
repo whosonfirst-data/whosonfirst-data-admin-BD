@@ -1,0 +1,70 @@
+{
+  "id": 1326860287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.17222,23.8155,90.17222,23.8155",
+    "geom:latitude":23.8155,
+    "geom:longitude":90.17222,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3056.0",
+    "gn:admin3_code":"305682.0",
+    "gn:admin4_code":"30568251.0",
+    "gn:asciiname":"Char Bhakum",
+    "gn:country_code":"BD",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1207042,
+    "gn:latitude":23.8155,
+    "gn:longitude":90.17222,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Char Bh\u0101kum",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421191745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1207042
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"2edcf828f5fc84e1b5529ca62d9d9a53",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421191745,
+            "locality_id":1326860287,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1326860287,
+    "wof:lastmodified":1537007716,
+    "wof:name":"Char Bhakum",
+    "wof:parent_id":421191745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.17222,
+    23.8155,
+    90.17222,
+    23.8155
+],
+  "geometry": {"coordinates":[90.17222,23.8155],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1277110051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.27719,25.97256,89.27719,25.97256",
+    "geom:latitude":25.97256,
+    "geom:longitude":89.27719,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5552.0",
+    "gn:admin3_code":"555239.0",
+    "gn:admin4_code":"55523923.0",
+    "gn:asciiname":"Dakshin Dalgram",
+    "gn:country_code":"BD",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1205474,
+    "gn:latitude":25.97256,
+    "gn:longitude":89.27719,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Dakshin Dalgr\u0101m",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Dakshin Dalgr\u0101m"
+    ],
+    "name:ben_x_variant":[
+        "Dakshin Dalagram"
+    ],
+    "name:und_x_variant":[
+        "Dakshin Dalagram",
+        "Dakshin Dalgr\u0101m"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1205474
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"912bb8b34ef6025b58436a51acb86c6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694687,
+            "locality_id":1277110051,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1277110051,
+    "wof:lastmodified":1537586074,
+    "wof:name":"Dakshin Dalgram",
+    "wof:parent_id":1108694687,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.27719,
+    25.97256,
+    89.27719,
+    25.97256
+],
+  "geometry": {"coordinates":[89.27719,25.97256],"type":"Point"}
+}

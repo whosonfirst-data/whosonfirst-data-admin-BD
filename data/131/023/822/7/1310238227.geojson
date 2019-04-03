@@ -1,0 +1,70 @@
+{
+  "id": 1310238227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.27728,25.16141,89.27728,25.16141",
+    "geom:latitude":25.16141,
+    "geom:longitude":89.27728,
+    "gn:admin1_code":"83",
+    "gn:asciiname":"Battala",
+    "gn:country_code":"BD",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7889659,
+    "gn:latitude":25.16141,
+    "gn:longitude":89.27728,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Battala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Battala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7889659
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"20b75ecd87e21177175dcf8241f0a94e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694675,
+            "locality_id":1310238227,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1310238227,
+    "wof:lastmodified":1537586736,
+    "wof:name":"Battala",
+    "wof:parent_id":1108694675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.27728,
+    25.16141,
+    89.27728,
+    25.16141
+],
+  "geometry": {"coordinates":[89.27728,25.16141],"type":"Point"}
+}

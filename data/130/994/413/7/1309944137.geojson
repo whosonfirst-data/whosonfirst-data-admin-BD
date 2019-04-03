@@ -1,0 +1,70 @@
+{
+  "id": 1309944137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.23972,23.48083,91.23972,23.48083",
+    "geom:latitude":23.48083,
+    "geom:longitude":91.23972,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2019.0",
+    "gn:admin3_code":"201967.0",
+    "gn:admin4_code":"20196790.0",
+    "gn:asciiname":"Uttar Durgapur",
+    "gn:country_code":"BD",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1462786,
+    "gn:latitude":23.48083,
+    "gn:longitude":91.23972,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Uttar Durgapur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421187801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1462786
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"e7f87a8ec6fc8d2c1ab1cb34c80db7fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421187801,
+            "locality_id":1309944137,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1309944137,
+    "wof:lastmodified":1536732007,
+    "wof:name":"Uttar Durgapur",
+    "wof:parent_id":421187801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.23972,
+    23.48083,
+    91.23972,
+    23.48083
+],
+  "geometry": {"coordinates":[91.23972000000001,23.48083],"type":"Point"}
+}

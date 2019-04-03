@@ -1,0 +1,70 @@
+{
+  "id": 1226472259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.87579,24.55851,90.87579,24.55851",
+    "geom:latitude":24.55851,
+    "geom:longitude":90.87579,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3048.0",
+    "gn:admin3_code":"304892.0",
+    "gn:admin4_code":"30489294.0",
+    "gn:asciiname":"Bherantala",
+    "gn:country_code":"BD",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1208921,
+    "gn:latitude":24.55851,
+    "gn:longitude":90.87579,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Bherantala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421170483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1208921
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"eb2cdef2af00504c1f8ac05da9d303aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421170483,
+            "locality_id":1226472259,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1226472259,
+    "wof:lastmodified":1536604361,
+    "wof:name":"Bherantala",
+    "wof:parent_id":421170483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.87579,
+    24.55851,
+    90.87579,
+    24.55851
+],
+  "geometry": {"coordinates":[90.87578999999999,24.55851],"type":"Point"}
+}

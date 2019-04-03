@@ -1,0 +1,70 @@
+{
+  "id": 1226570965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.13061,24.96713,91.13061,24.96713",
+    "geom:latitude":24.96713,
+    "geom:longitude":91.13061,
+    "gn:admin1_code":"86",
+    "gn:admin2_code":"6090",
+    "gn:admin3_code":"609032.0",
+    "gn:admin4_code":"60903285.0",
+    "gn:asciiname":"Sukhair",
+    "gn:country_code":"BD",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1187021,
+    "gn:latitude":24.96713,
+    "gn:longitude":91.13061,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Sukh\u0101ir",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669025,
+        421201931
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1187021
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"226dffa90bdf84eba4fb9ab8cf7a1ed8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421201931,
+            "locality_id":1226570965,
+            "region_id":85669025
+        }
+    ],
+    "wof:id":1226570965,
+    "wof:lastmodified":1536962646,
+    "wof:name":"Sukhair",
+    "wof:parent_id":421201931,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.13061,
+    24.96713,
+    91.13061,
+    24.96713
+],
+  "geometry": {"coordinates":[91.13061,24.96713],"type":"Point"}
+}

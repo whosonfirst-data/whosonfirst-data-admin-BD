@@ -1,0 +1,73 @@
+{
+  "id": 1293538109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.96356,21.75905,91.96356,21.75905",
+    "geom:latitude":21.75905,
+    "geom:longitude":91.96356,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2022.0",
+    "gn:admin3_code":"202216.0",
+    "gn:admin4_code":"20221694.0",
+    "gn:asciiname":"Demusia",
+    "gn:country_code":"BD",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6415639,
+    "gn:latitude":21.75905,
+    "gn:longitude":91.96356,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Demusia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Demusia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421205057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6415639
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"511e9a2e30c04ef78b2a8380daf6682c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421205057,
+            "locality_id":1293538109,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1293538109,
+    "wof:lastmodified":1537586249,
+    "wof:name":"Demusia",
+    "wof:parent_id":421205057,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.96356,
+    21.75905,
+    91.96356,
+    21.75905
+],
+  "geometry": {"coordinates":[91.96356,21.75905],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 1310333493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.80383,25.52595,89.80383,25.52595",
+    "geom:latitude":25.52595,
+    "geom:longitude":89.80383,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5549.0",
+    "gn:admin3_code":"554979.0",
+    "gn:admin4_code":"55497935.0",
+    "gn:asciiname":"Char Jadu",
+    "gn:country_code":"BD",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1206839,
+    "gn:latitude":25.52595,
+    "gn:longitude":89.80383,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Char Jadu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Char Jadu"
+    ],
+    "name:ben_x_variant":[
+        "J\u0101dur Char",
+        "Jadurchar"
+    ],
+    "name:und_x_variant":[
+        "Jadurchar",
+        "Char Jadu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1206839
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"d6c4a1032508b3e8ec6ad3ee9c773706",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694685,
+            "locality_id":1310333493,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1310333493,
+    "wof:lastmodified":1537586101,
+    "wof:name":"Char Jadu",
+    "wof:parent_id":1108694685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.80383,
+    25.52595,
+    89.80383,
+    25.52595
+],
+  "geometry": {"coordinates":[89.80383,25.52595],"type":"Point"}
+}

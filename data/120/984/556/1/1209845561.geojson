@@ -1,0 +1,70 @@
+{
+  "id": 1209845561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.7494,22.56165,89.7494,22.56165",
+    "geom:latitude":22.56165,
+    "geom:longitude":89.7494,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4001",
+    "gn:admin3_code":"400173.0",
+    "gn:admin4_code":"40017353.0",
+    "gn:asciiname":"Sannyasi",
+    "gn:country_code":"BD",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1188751,
+    "gn:latitude":22.56165,
+    "gn:longitude":89.7494,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Sanny\u0101si",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        421187747
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1188751
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"0bd3ab3b8de4c31f9b517cc953412477",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421187747,
+            "locality_id":1209845561,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1209845561,
+    "wof:lastmodified":1536390822,
+    "wof:name":"Sannyasi",
+    "wof:parent_id":421187747,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.7494,
+    22.56165,
+    89.7494,
+    22.56165
+],
+  "geometry": {"coordinates":[89.74939999999999,22.56165],"type":"Point"}
+}

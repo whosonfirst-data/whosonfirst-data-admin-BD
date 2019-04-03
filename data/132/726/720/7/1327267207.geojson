@@ -1,0 +1,73 @@
+{
+  "id": 1327267207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.19497,23.32939,89.19497,23.32939",
+    "geom:latitude":23.32939,
+    "geom:longitude":89.19497,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4044",
+    "gn:admin3_code":"404433.0",
+    "gn:admin4_code":"40443310.0",
+    "gn:asciiname":"Mangalpaita",
+    "gn:country_code":"BD",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1194992,
+    "gn:latitude":23.32939,
+    "gn:longitude":89.19497,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Mangalpaita",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Mangalpaita"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        1108694679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1194992
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"d31018f9b8ea5b50c16c2988dd048ed0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694679,
+            "locality_id":1327267207,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1327267207,
+    "wof:lastmodified":1537585878,
+    "wof:name":"Mangalpaita",
+    "wof:parent_id":1108694679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.19497,
+    23.32939,
+    89.19497,
+    23.32939
+],
+  "geometry": {"coordinates":[89.19497,23.32939],"type":"Point"}
+}

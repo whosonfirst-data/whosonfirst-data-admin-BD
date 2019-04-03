@@ -1,0 +1,79 @@
+{
+  "id": 1343991283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.82886,24.32703,88.82886,24.32703",
+    "geom:latitude":24.32703,
+    "geom:longitude":88.82886,
+    "gn:admin1_code":"83",
+    "gn:admin2_code":"5081",
+    "gn:admin3_code":"508125.0",
+    "gn:admin4_code":"50812571.0",
+    "gn:asciiname":"Khayererbari",
+    "gn:country_code":"BD",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1197562,
+    "gn:latitude":24.32703,
+    "gn:longitude":88.82886,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Khayererb\u0101ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Khayererb\u0101ri"
+    ],
+    "name:ben_x_variant":[
+        "Kharerb\u0101ir"
+    ],
+    "name:und_x_variant":[
+        "Kharer Bari"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669031,
+        421172439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1197562
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"b4b641337f18c9c85154dc2ed99d80f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421172439,
+            "locality_id":1343991283,
+            "region_id":85669031
+        }
+    ],
+    "wof:id":1343991283,
+    "wof:lastmodified":1537585927,
+    "wof:name":"Khayererbari",
+    "wof:parent_id":421172439,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.82885999999998,
+    24.32703,
+    88.82885999999998,
+    24.32703
+],
+  "geometry": {"coordinates":[88.82885999999998,24.32703],"type":"Point"}
+}

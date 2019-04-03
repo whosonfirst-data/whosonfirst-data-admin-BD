@@ -1,0 +1,73 @@
+{
+  "id": 1343695249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.76037,23.16412,89.76037,23.16412",
+    "geom:latitude":23.16412,
+    "geom:longitude":89.76037,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3035",
+    "gn:admin3_code":"303543.0",
+    "gn:admin4_code":"30354313.0",
+    "gn:asciiname":"Tarail",
+    "gn:country_code":"BD",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1186531,
+    "gn:latitude":23.16412,
+    "gn:longitude":89.76037,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"T\u0101r\u0101il",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "T\u0101r\u0101il"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421194867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1186531
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"2e170304d0496125c84848f6694a6e8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421194867,
+            "locality_id":1343695249,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1343695249,
+    "wof:lastmodified":1537585720,
+    "wof:name":"Tarail",
+    "wof:parent_id":421194867,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.76037,
+    23.16412,
+    89.76037,
+    23.16412
+],
+  "geometry": {"coordinates":[89.76036999999999,23.16412],"type":"Point"}
+}

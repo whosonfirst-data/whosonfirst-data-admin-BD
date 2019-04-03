@@ -1,0 +1,74 @@
+{
+  "id": 1225881767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.85385,24.99701,90.85385,24.99701",
+    "geom:latitude":24.99701,
+    "geom:longitude":90.85385,
+    "gn:admin1_code":"H",
+    "gn:admin2_code":"3072",
+    "gn:admin3_code":"307240.0",
+    "gn:admin4_code":"30724083.0",
+    "gn:asciiname":"Paikpara",
+    "gn:country_code":"BD",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1191478,
+    "gn:latitude":24.99701,
+    "gn:longitude":90.85385,
+    "gn:modification_date":"2016-11-17",
+    "gn:name":"P\u0101ikp\u0101ra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hirakanda Paikpara",
+        "P\u0101ikp\u0101ra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        1108803101,
+        421200811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1191478
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"093876420a6f4e6bc96ce4a6f2c6e26d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421200811,
+            "locality_id":1225881767,
+            "region_id":1108803101
+        }
+    ],
+    "wof:id":1225881767,
+    "wof:lastmodified":1537585814,
+    "wof:name":"Paikpara",
+    "wof:parent_id":421200811,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.85385,
+    24.99701,
+    90.85385,
+    24.99701
+],
+  "geometry": {"coordinates":[90.85384999999999,24.99701],"type":"Point"}
+}

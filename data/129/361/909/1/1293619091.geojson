@@ -1,0 +1,70 @@
+{
+  "id": 1293619091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.49606,23.64408,89.49606,23.64408",
+    "geom:latitude":23.64408,
+    "geom:longitude":89.49606,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3082",
+    "gn:admin3_code":"308207.0",
+    "gn:admin4_code":"30820785.0",
+    "gn:asciiname":"Khalia",
+    "gn:country_code":"BD",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1197737,
+    "gn:latitude":23.64408,
+    "gn:longitude":89.49606,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Kh\u0101lia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        1108694699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1197737
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"ce9a686cebc7524ce077caa6f9ef0fe7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694699,
+            "locality_id":1293619091,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1293619091,
+    "wof:lastmodified":1537091414,
+    "wof:name":"Khalia",
+    "wof:parent_id":1108694699,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.49606,
+    23.64408,
+    89.49606,
+    23.64408
+],
+  "geometry": {"coordinates":[89.49606,23.64408],"type":"Point"}
+}

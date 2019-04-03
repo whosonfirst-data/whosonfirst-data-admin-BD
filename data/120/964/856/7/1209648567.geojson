@@ -1,0 +1,67 @@
+{
+  "id": 1209648567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.42817,24.80938,88.42817,24.80938",
+    "geom:latitude":24.80938,
+    "geom:longitude":88.42817,
+    "gn:admin1_code":"83",
+    "gn:admin2_code":"5070.0",
+    "gn:admin3_code":"507056.0",
+    "gn:admin4_code":"50705638.0",
+    "gn:asciiname":"Sdbdalpur",
+    "gn:country_code":"BD",
+    "gn:dem":49,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7489423,
+    "gn:latitude":24.80938,
+    "gn:longitude":88.42817,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Sdbdalpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Sdbdalpur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7489423
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"4bc757c0e7f57103540f56ac8a7f45e0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209648567
+        }
+    ],
+    "wof:id":1209648567,
+    "wof:lastmodified":1537586696,
+    "wof:name":"Sdbdalpur",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.42817,
+    24.80938,
+    88.42817,
+    24.80938
+],
+  "geometry": {"coordinates":[88.42816999999999,24.80938],"type":"Point"}
+}

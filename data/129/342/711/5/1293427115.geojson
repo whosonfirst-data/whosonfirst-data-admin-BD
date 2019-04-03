@@ -1,0 +1,73 @@
+{
+  "id": 1293427115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.41343,25.70455,88.41343,25.70455",
+    "geom:latitude":25.70455,
+    "geom:longitude":88.41343,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5594",
+    "gn:admin3_code":"559482.0",
+    "gn:admin4_code":"55948208.0",
+    "gn:asciiname":"Jagannathpur",
+    "gn:country_code":"BD",
+    "gn:dem":44,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1200540,
+    "gn:latitude":25.70455,
+    "gn:longitude":88.41343,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Jagann\u0101thpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Jagann\u0101thpur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1200540
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"fc579a067143efe0127cf03d7fa1a22e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694703,
+            "locality_id":1293427115,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1293427115,
+    "wof:lastmodified":1537585981,
+    "wof:name":"Jagannathpur",
+    "wof:parent_id":1108694703,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.41343,
+    25.70455,
+    88.41343,
+    25.70455
+],
+  "geometry": {"coordinates":[88.41343000000001,25.70455],"type":"Point"}
+}

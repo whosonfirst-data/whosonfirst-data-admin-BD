@@ -1,0 +1,81 @@
+{
+  "id": 1293322523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.17459,25.63413,89.17459,25.63413",
+    "geom:latitude":25.63413,
+    "geom:longitude":89.17459,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5585",
+    "gn:admin3_code":"558558.0",
+    "gn:admin4_code":"55855861.0",
+    "gn:asciiname":"Jarulyapur",
+    "gn:country_code":"BD",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1200194,
+    "gn:latitude":25.63413,
+    "gn:longitude":89.17459,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"J\u0101ruly\u0101pur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "J\u0101ruly\u0101pur"
+    ],
+    "name:ben_x_variant":[
+        "Jaroolapoor",
+        "Jarullapur"
+    ],
+    "name:und_x_variant":[
+        "Jaroolapoor",
+        "J\u0101ruly\u0101pur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1200194
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"73938e3067efc7c3dfcc4e5dfdf66677",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694701,
+            "locality_id":1293322523,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1293322523,
+    "wof:lastmodified":1537585975,
+    "wof:name":"Jarulyapur",
+    "wof:parent_id":1108694701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.17459000000002,
+    25.63413,
+    89.17459000000002,
+    25.63413
+],
+  "geometry": {"coordinates":[89.17459000000002,25.63413],"type":"Point"}
+}

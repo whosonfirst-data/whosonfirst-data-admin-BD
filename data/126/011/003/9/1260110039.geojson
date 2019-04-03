@@ -1,0 +1,70 @@
+{
+  "id": 1260110039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.92178,23.30525,89.92178,23.30525",
+    "geom:latitude":23.30525,
+    "geom:longitude":89.92178,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3035.0",
+    "gn:admin3_code":"303558.0",
+    "gn:admin4_code":"30355861.0",
+    "gn:asciiname":"Chhota Banagram",
+    "gn:country_code":"BD",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1206079,
+    "gn:latitude":23.30525,
+    "gn:longitude":89.92178,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Chhota Banagr\u0101m",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421194867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1206079
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"f67c16a337990bb97f66f02fb94a3634",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421194867,
+            "locality_id":1260110039,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1260110039,
+    "wof:lastmodified":1536950220,
+    "wof:name":"Chhota Banagram",
+    "wof:parent_id":421194867,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.92178,
+    23.30525,
+    89.92178,
+    23.30525
+],
+  "geometry": {"coordinates":[89.92178,23.30525],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1209448425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.60257,23.66414,88.60257,23.66414",
+    "geom:latitude":23.66414,
+    "geom:longitude":88.60257,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4057.0",
+    "gn:admin3_code":"405760.0",
+    "gn:admin4_code":"40576028.0",
+    "gn:asciiname":"Kedarganj",
+    "gn:country_code":"BD",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7484171,
+    "gn:latitude":23.66414,
+    "gn:longitude":88.60257,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Ked\u0101rganj",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Ked\u0101rganj"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7484171
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"4605f0d615ec33ea82f40f0542655b51",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209448425
+        }
+    ],
+    "wof:id":1209448425,
+    "wof:lastmodified":1537586557,
+    "wof:name":"Kedarganj",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.60257,
+    23.66414,
+    88.60257,
+    23.66414
+],
+  "geometry": {"coordinates":[88.60257,23.66414],"type":"Point"}
+}

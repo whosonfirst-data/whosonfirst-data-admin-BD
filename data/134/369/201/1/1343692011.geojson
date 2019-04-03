@@ -1,0 +1,70 @@
+{
+  "id": 1343692011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.61185,24.09651,90.61185,24.09651",
+    "geom:latitude":24.09651,
+    "geom:longitude":90.61185,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3033.0",
+    "gn:admin3_code":"303336.0",
+    "gn:admin4_code":"30333625.0",
+    "gn:asciiname":"Chaphad",
+    "gn:country_code":"BD",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1207198,
+    "gn:latitude":24.09651,
+    "gn:longitude":90.61185,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Ch\u0101ph\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421203493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1207198
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"5f5a09a502213ac82f5b38b4abd7ee9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421203493,
+            "locality_id":1343692011,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1343692011,
+    "wof:lastmodified":1536910036,
+    "wof:name":"Chaphad",
+    "wof:parent_id":421203493,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.61185,
+    24.09651,
+    90.61185,
+    24.09651
+],
+  "geometry": {"coordinates":[90.61185,24.09651],"type":"Point"}
+}

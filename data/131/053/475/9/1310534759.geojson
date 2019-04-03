@@ -1,0 +1,73 @@
+{
+  "id": 1310534759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.72913,22.47078,90.72913,22.47078",
+    "geom:latitude":22.47078,
+    "geom:longitude":90.72913,
+    "gn:admin1_code":"85",
+    "gn:admin2_code":"1009.0",
+    "gn:admin3_code":"100921.0",
+    "gn:admin4_code":"10092147.0",
+    "gn:asciiname":"Chhagla",
+    "gn:country_code":"BD",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7478195,
+    "gn:latitude":22.47078,
+    "gn:longitude":90.72913,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Chh\u0101gla",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Chh\u0101gla"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669019,
+        421184491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7478195
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"a404796398f8f4d0b5a2b2ed2c822a71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421184491,
+            "locality_id":1310534759,
+            "region_id":85669019
+        }
+    ],
+    "wof:id":1310534759,
+    "wof:lastmodified":1537586385,
+    "wof:name":"Chhagla",
+    "wof:parent_id":421184491,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.72913,
+    22.47078,
+    90.72913,
+    22.47078
+],
+  "geometry": {"coordinates":[90.72913,22.47078],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1293129129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.26292,23.86258,90.26292,23.86258",
+    "geom:latitude":23.86258,
+    "geom:longitude":90.26292,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3026",
+    "gn:admin3_code":"302672.0",
+    "gn:admin4_code":"30267200.0",
+    "gn:asciiname":"Madanpur",
+    "gn:country_code":"BD",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1195929,
+    "gn:latitude":23.86258,
+    "gn:longitude":90.26292,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Madanpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421187803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1195929
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"3694250d702fb294819b8674564a70b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421187803,
+            "locality_id":1293129129,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1293129129,
+    "wof:lastmodified":1536806631,
+    "wof:name":"Madanpur",
+    "wof:parent_id":421187803,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.26292,
+    23.86258,
+    90.26292,
+    23.86258
+],
+  "geometry": {"coordinates":[90.26291999999999,23.86258],"type":"Point"}
+}

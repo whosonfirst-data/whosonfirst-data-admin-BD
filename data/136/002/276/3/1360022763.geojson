@@ -1,0 +1,74 @@
+{
+  "id": 1360022763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.45365,22.73335,90.45365,22.73335",
+    "geom:latitude":22.73335,
+    "geom:longitude":90.45365,
+    "gn:admin1_code":"85",
+    "gn:admin2_code":"1006.0",
+    "gn:admin3_code":"100651.0",
+    "gn:admin4_code":"10065151.0",
+    "gn:asciiname":"Dingamanik",
+    "gn:country_code":"BD",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1203966,
+    "gn:latitude":22.73335,
+    "gn:longitude":90.45365,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Ding\u0101m\u0101nik",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ding\u0101m\u0101nik"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669019,
+        421187745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1203966,
+        "wk:page":"Dingamanik"
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"8cd9c026e467ba69c718e4c007845f6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421187745,
+            "locality_id":1360022763,
+            "region_id":85669019
+        }
+    ],
+    "wof:id":1360022763,
+    "wof:lastmodified":1537586050,
+    "wof:name":"Dingamanik",
+    "wof:parent_id":421187745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.45365,
+    22.73335,
+    90.45365,
+    22.73335
+],
+  "geometry": {"coordinates":[90.45365,22.73335],"type":"Point"}
+}

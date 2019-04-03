@@ -1,0 +1,73 @@
+{
+  "id": 1343494421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.77569,24.91152,90.77569,24.91152",
+    "geom:latitude":24.91152,
+    "geom:longitude":90.77569,
+    "gn:admin1_code":"H",
+    "gn:admin2_code":"3072.0",
+    "gn:admin3_code":"307274.0",
+    "gn:admin4_code":"30727487.0",
+    "gn:asciiname":"Bijoypur",
+    "gn:country_code":"BD",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1208669,
+    "gn:latitude":24.91152,
+    "gn:longitude":90.77569,
+    "gn:modification_date":"2016-11-17",
+    "gn:name":"Bijoypur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bijaypur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        1108803101,
+        421200811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1208669
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"32b507418a1f213d5e57e438d9393062",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421200811,
+            "locality_id":1343494421,
+            "region_id":1108803101
+        }
+    ],
+    "wof:id":1343494421,
+    "wof:lastmodified":1537586134,
+    "wof:name":"Bijoypur",
+    "wof:parent_id":421200811,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.77569,
+    24.91152,
+    90.77569,
+    24.91152
+],
+  "geometry": {"coordinates":[90.77569,24.91152],"type":"Point"}
+}

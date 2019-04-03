@@ -1,0 +1,73 @@
+{
+  "id": 1242911569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.84848,21.84322,91.84848,21.84322",
+    "geom:latitude":21.84322,
+    "geom:longitude":91.84848,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2022",
+    "gn:admin3_code":"202245.0",
+    "gn:admin4_code":"20224554.0",
+    "gn:asciiname":"Kayar Bil",
+    "gn:country_code":"BD",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1198042,
+    "gn:latitude":21.84322,
+    "gn:longitude":91.84848,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Kay\u0101r Bil",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Kay\u0101r Bil"
+    ],
+    "name:und_x_variant":[
+        "Kaiyarbil",
+        "Kayar bil"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1198042
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"790fbac643dad01fac10ca6d09412034",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":-1,
+            "locality_id":1242911569,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1242911569,
+    "wof:lastmodified":1537585936,
+    "wof:name":"Kayar Bil",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.84848,
+    21.84322,
+    91.84848,
+    21.84322
+],
+  "geometry": {"coordinates":[91.84848,21.84322],"type":"Point"}
+}

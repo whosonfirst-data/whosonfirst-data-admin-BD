@@ -1,0 +1,70 @@
+{
+  "id": 1193202265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.65699,23.23637,90.65699,23.23637",
+    "geom:latitude":23.23637,
+    "geom:longitude":90.65699,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2013",
+    "gn:admin3_code":"201322.0",
+    "gn:admin4_code":"20132294.0",
+    "gn:asciiname":"Koralia",
+    "gn:country_code":"BD",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1196982,
+    "gn:latitude":23.23637,
+    "gn:longitude":90.65699,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Kor\u0101lia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        1108694669
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1196982
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"11e81b8a27f355e21c06ae949843a608",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694669,
+            "locality_id":1193202265,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1193202265,
+    "wof:lastmodified":1536371567,
+    "wof:name":"Koralia",
+    "wof:parent_id":1108694669,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.65699,
+    23.23637,
+    90.65699,
+    23.23637
+],
+  "geometry": {"coordinates":[90.65698999999999,23.23637],"type":"Point"}
+}

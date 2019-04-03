@@ -1,0 +1,73 @@
+{
+  "id": 1259425023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"92.53807,21.60592,92.53807,21.60592",
+    "geom:latitude":21.60592,
+    "geom:longitude":92.53807,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2003.0",
+    "gn:admin3_code":"200395.0",
+    "gn:admin4_code":"20039538.0",
+    "gn:asciiname":"Sapeonroa",
+    "gn:country_code":"BD",
+    "gn:dem":96,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7476195,
+    "gn:latitude":21.60592,
+    "gn:longitude":92.53807,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Sapeonroa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Sapeonroa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421169477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7476195
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"5ae3ab90cfcd292d3bcbdac6f6605613",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421169477,
+            "locality_id":1259425023,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1259425023,
+    "wof:lastmodified":1537586338,
+    "wof:name":"Sapeonroa",
+    "wof:parent_id":421169477,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    92.53807,
+    21.60592,
+    92.53807,
+    21.60592
+],
+  "geometry": {"coordinates":[92.53807,21.60592],"type":"Point"}
+}

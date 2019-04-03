@@ -1,0 +1,70 @@
+{
+  "id": 1310638109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.26667,22.5,89.26667,22.5",
+    "geom:latitude":22.5,
+    "geom:longitude":89.26667,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4047.0",
+    "gn:admin3_code":"404764.0",
+    "gn:admin4_code":"40476416.0",
+    "gn:asciiname":"Chak Narikeltala",
+    "gn:country_code":"BD",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1207704,
+    "gn:latitude":22.5,
+    "gn:longitude":89.26667,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Chak N\u0101rikeltala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        421185473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1207704
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"89cc111653fbecdf27cd56a216d7cdd7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421185473,
+            "locality_id":1310638109,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1310638109,
+    "wof:lastmodified":1536725902,
+    "wof:name":"Chak Narikeltala",
+    "wof:parent_id":421185473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.26666999999998,
+    22.5,
+    89.26666999999998,
+    22.5
+],
+  "geometry": {"coordinates":[89.26666999999998,22.5],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1344190399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.75981,24.03997,88.75981,24.03997",
+    "geom:latitude":24.03997,
+    "geom:longitude":88.75981,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4050.0",
+    "gn:admin3_code":"405039.0",
+    "gn:admin4_code":"40503981.0",
+    "gn:asciiname":"Chak Bil Gathura",
+    "gn:country_code":"BD",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1207882,
+    "gn:latitude":24.03997,
+    "gn:longitude":88.75981,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Chak B\u012bl Gathura",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Chak B\u012bl Gathura"
+    ],
+    "name:ben_x_variant":[
+        "Chak B\u012bl Gatua"
+    ],
+    "name:und_x_variant":[
+        "Bil Gathua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        890438075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1207882
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"3072d38bb07ded7b281b3b2afadf8bbc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":890438075,
+            "locality_id":1344190399,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1344190399,
+    "wof:lastmodified":1537586119,
+    "wof:name":"Chak Bil Gathura",
+    "wof:parent_id":890438075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.75981,
+    24.03997,
+    88.75981,
+    24.03997
+],
+  "geometry": {"coordinates":[88.75981,24.03997],"type":"Point"}
+}

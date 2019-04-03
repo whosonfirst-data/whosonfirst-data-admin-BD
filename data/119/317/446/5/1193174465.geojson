@@ -1,0 +1,73 @@
+{
+  "id": 1193174465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.16354,22.98976,90.16354,22.98976",
+    "geom:latitude":22.98976,
+    "geom:longitude":90.16354,
+    "gn:admin1_code":"85",
+    "gn:admin2_code":"1006.0",
+    "gn:admin3_code":"100602.0",
+    "gn:admin4_code":"10060279.0",
+    "gn:asciiname":"Purba Basunda",
+    "gn:country_code":"BD",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1203571,
+    "gn:latitude":22.98976,
+    "gn:longitude":90.16354,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Purba Basunda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "East Basunda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669019,
+        421187745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1203571
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"d60b8973590be2f28b33e5cb7a85322c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421187745,
+            "locality_id":1193174465,
+            "region_id":85669019
+        }
+    ],
+    "wof:id":1193174465,
+    "wof:lastmodified":1537586042,
+    "wof:name":"Purba Basunda",
+    "wof:parent_id":421187745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.16354,
+    22.98976,
+    90.16354,
+    22.98976
+],
+  "geometry": {"coordinates":[90.16354,22.98976],"type":"Point"}
+}

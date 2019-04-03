@@ -1,0 +1,70 @@
+{
+  "id": 1209745231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.97314,23.78543,89.97314,23.78543",
+    "geom:latitude":23.78543,
+    "geom:longitude":89.97314,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3056",
+    "gn:admin3_code":"305628.0",
+    "gn:admin4_code":"30562836.0",
+    "gn:asciiname":"Kalyanpur",
+    "gn:country_code":"BD",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1198950,
+    "gn:latitude":23.78543,
+    "gn:longitude":89.97314,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Kaly\u0101npur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421191745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1198950
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"ca9c0e8303b2c2e84742348ad8cb499a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421191745,
+            "locality_id":1209745231,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1209745231,
+    "wof:lastmodified":1536395305,
+    "wof:name":"Kalyanpur",
+    "wof:parent_id":421191745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.97314,
+    23.78543,
+    89.97314,
+    23.78543
+],
+  "geometry": {"coordinates":[89.97314,23.78543],"type":"Point"}
+}

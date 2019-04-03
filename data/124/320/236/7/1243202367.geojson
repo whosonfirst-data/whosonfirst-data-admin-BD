@@ -1,0 +1,74 @@
+{
+  "id": 1243202367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.19715,23.10281,90.19715,23.10281",
+    "geom:latitude":23.10281,
+    "geom:longitude":90.19715,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3054",
+    "gn:admin3_code":"305440.0",
+    "gn:admin4_code":"30544012.0",
+    "gn:asciiname":"Pathuriapar",
+    "gn:country_code":"BD",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1192134,
+    "gn:latitude":23.10281,
+    "gn:longitude":90.19715,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"P\u0101thuriap\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pathurairpara",
+        "P\u0101thuriap\u0101r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421183929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1192134
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"09613071b43cac3a11a497657a2fae3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421183929,
+            "locality_id":1243202367,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1243202367,
+    "wof:lastmodified":1537585831,
+    "wof:name":"Pathuriapar",
+    "wof:parent_id":421183929,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.19715,
+    23.10281,
+    90.19715,
+    23.10281
+],
+  "geometry": {"coordinates":[90.19714999999999,23.10281],"type":"Point"}
+}

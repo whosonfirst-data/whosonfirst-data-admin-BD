@@ -1,0 +1,74 @@
+{
+  "id": 1242906857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.13182,22.30034,90.13182,22.30034",
+    "geom:latitude":22.30034,
+    "geom:longitude":90.13182,
+    "gn:admin1_code":"85",
+    "gn:admin2_code":"1004.0",
+    "gn:admin3_code":"100447.0",
+    "gn:admin4_code":"10044735.0",
+    "gn:asciiname":"Bura Mazumdar",
+    "gn:country_code":"BD",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1208024,
+    "gn:latitude":22.30034,
+    "gn:longitude":90.13182,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Bura Mazumd\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Bura Mazumd\u0101r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669019,
+        421176043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1208024,
+        "wk:page":"Bura_Mazumdar"
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"0eabe171baf8229fde4910376e6f7754",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421176043,
+            "locality_id":1242906857,
+            "region_id":85669019
+        }
+    ],
+    "wof:id":1242906857,
+    "wof:lastmodified":1537586123,
+    "wof:name":"Bura Mazumdar",
+    "wof:parent_id":421176043,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.13182,
+    22.30034,
+    90.13182,
+    22.30034
+],
+  "geometry": {"coordinates":[90.13182,22.30034],"type":"Point"}
+}

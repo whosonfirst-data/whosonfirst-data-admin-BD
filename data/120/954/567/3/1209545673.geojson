@@ -1,0 +1,67 @@
+{
+  "id": 1209545673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.0309,23.36819,89.0309,23.36819",
+    "geom:latitude":23.36819,
+    "geom:longitude":89.0309,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4041.0",
+    "gn:admin3_code":"404111.0",
+    "gn:admin4_code":"40411125.0",
+    "gn:asciiname":"Chakla",
+    "gn:country_code":"BD",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7633974,
+    "gn:latitude":23.36819,
+    "gn:longitude":89.0309,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Chakla",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Chakla"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7633974
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"f14ac050f31ec552dd56627265e29c01",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209545673
+        }
+    ],
+    "wof:id":1209545673,
+    "wof:lastmodified":1537586699,
+    "wof:name":"Chakla",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.0309,
+    23.36819,
+    89.0309,
+    23.36819
+],
+  "geometry": {"coordinates":[89.0309,23.36819],"type":"Point"}
+}

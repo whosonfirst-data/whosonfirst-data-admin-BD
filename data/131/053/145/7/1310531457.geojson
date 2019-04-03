@@ -1,0 +1,83 @@
+{
+  "id": 1310531457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.7513,23.35466,88.7513,23.35466",
+    "geom:latitude":23.35466,
+    "geom:longitude":88.7513,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4044.0",
+    "gn:admin3_code":"404471.0",
+    "gn:admin4_code":"40447177.0",
+    "gn:asciiname":"Srinathpur",
+    "gn:country_code":"BD",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7484971,
+    "gn:latitude":23.35466,
+    "gn:longitude":88.7513,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Srinathpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Srinathpur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632469,
+        85672219,
+        1108696075,
+        85632475,
+        85669015,
+        1108694679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7484971
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"168ea054f35332ae2b9494aa8e18ca9d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108696075,
+            "locality_id":1310531457,
+            "region_id":85672219
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694679,
+            "locality_id":1310531457,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1310531457,
+    "wof:lastmodified":1537586579,
+    "wof:name":"Srinathpur",
+    "wof:parent_id":-4,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.7513,
+    23.35466,
+    88.7513,
+    23.35466
+],
+  "geometry": {"coordinates":[88.7513,23.35466],"type":"Point"}
+}

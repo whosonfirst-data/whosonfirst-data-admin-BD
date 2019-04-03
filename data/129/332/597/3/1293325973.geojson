@@ -1,0 +1,77 @@
+{
+  "id": 1293325973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.51653,22.73495,89.51653,22.73495",
+    "geom:latitude":22.73495,
+    "geom:longitude":89.51653,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4047",
+    "gn:admin3_code":"404712.0",
+    "gn:admin4_code":"40471235.0",
+    "gn:asciiname":"Baitaghata",
+    "gn:country_code":"BD",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1185277,
+    "gn:latitude":22.73495,
+    "gn:longitude":89.51653,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Bait\u0101gh\u0101ta",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Batiaghata",
+        "Baitag\u0101ta",
+        "Bait\u0101gh\u0101ta",
+        "H\u0101nt\u0101lbunia",
+        "Hantalbunia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        421185473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1185277
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"694eb2ffc15d286782051f2b814c5995",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421185473,
+            "locality_id":1293325973,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1293325973,
+    "wof:lastmodified":1537585694,
+    "wof:name":"Baitaghata",
+    "wof:parent_id":421185473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.51653,
+    22.73495,
+    89.51653,
+    22.73495
+],
+  "geometry": {"coordinates":[89.51653,22.73495],"type":"Point"}
+}

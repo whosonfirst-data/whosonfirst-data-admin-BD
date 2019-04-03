@@ -1,0 +1,70 @@
+{
+  "id": 1225974697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.88896,23.88892,89.88896,23.88892",
+    "geom:latitude":23.88892,
+    "geom:longitude":89.88896,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3056",
+    "gn:admin3_code":"305622.0",
+    "gn:admin4_code":"30562247.0",
+    "gn:asciiname":"Mailaghi",
+    "gn:country_code":"BD",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1195410,
+    "gn:latitude":23.88892,
+    "gn:longitude":89.88896,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"M\u0101il\u0101ghi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421191745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1195410
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"2b133d6106ac5f39cc86d9424a7a021d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421191745,
+            "locality_id":1225974697,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1225974697,
+    "wof:lastmodified":1536826774,
+    "wof:name":"Mailaghi",
+    "wof:parent_id":421191745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.88896,
+    23.88892,
+    89.88896,
+    23.88892
+],
+  "geometry": {"coordinates":[89.88896,23.88892],"type":"Point"}
+}

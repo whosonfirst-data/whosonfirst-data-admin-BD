@@ -1,0 +1,70 @@
+{
+  "id": 1343498461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.15843,24.27123,91.15843,24.27123",
+    "geom:latitude":24.27123,
+    "geom:longitude":91.15843,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3048",
+    "gn:admin3_code":"304802.0",
+    "gn:admin4_code":"30480223.0",
+    "gn:asciiname":"Ikardia",
+    "gn:country_code":"BD",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1200805,
+    "gn:latitude":24.27123,
+    "gn:longitude":91.15843,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Ikardia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421170483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1200805
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"d9e85a191fc08f6ce2f6b3fdabdd74ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421170483,
+            "locality_id":1343498461,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1343498461,
+    "wof:lastmodified":1536691377,
+    "wof:name":"Ikardia",
+    "wof:parent_id":421170483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.15843,
+    24.27123,
+    91.15843,
+    24.27123
+],
+  "geometry": {"coordinates":[91.15843,24.27123],"type":"Point"}
+}

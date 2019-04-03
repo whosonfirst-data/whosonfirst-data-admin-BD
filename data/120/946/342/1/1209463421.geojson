@@ -1,0 +1,64 @@
+{
+  "id": 1209463421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.71983,22.81293,91.71983,22.81293",
+    "geom:latitude":22.81293,
+    "geom:longitude":91.71983,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2015",
+    "gn:admin3_code":"201533.0",
+    "gn:admin4_code":"20153366.0",
+    "gn:asciiname":"Narayan Hat",
+    "gn:country_code":"BD",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1193266,
+    "gn:latitude":22.81293,
+    "gn:longitude":91.71983,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"N\u0101r\u0101yan H\u0101t",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1193266
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"346836edbca084fb9783f8ff30e3fd97",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209463421
+        }
+    ],
+    "wof:id":1209463421,
+    "wof:lastmodified":1536286312,
+    "wof:name":"Narayan Hat",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.71983,
+    22.81293,
+    91.71983,
+    22.81293
+],
+  "geometry": {"coordinates":[91.71983,22.81293],"type":"Point"}
+}

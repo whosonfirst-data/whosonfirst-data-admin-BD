@@ -1,0 +1,75 @@
+{
+  "id": 1293238085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.82536,24.05542,90.82536,24.05542",
+    "geom:latitude":24.05542,
+    "geom:longitude":90.82536,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3068",
+    "gn:admin3_code":"306876.0",
+    "gn:admin4_code":"30687663.0",
+    "gn:asciiname":"Maishertek",
+    "gn:country_code":"BD",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1195377,
+    "gn:latitude":24.05542,
+    "gn:longitude":90.82536,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Maishertek",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Maisartek",
+        "Maish\u0101rtek",
+        "Maishertek"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421169707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1195377
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"add4997dfad05dc81eadbee5caff4c18",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421169707,
+            "locality_id":1293238085,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1293238085,
+    "wof:lastmodified":1537585886,
+    "wof:name":"Maishertek",
+    "wof:parent_id":421169707,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.82536,
+    24.05542,
+    90.82536,
+    24.05542
+],
+  "geometry": {"coordinates":[90.82536,24.05542],"type":"Point"}
+}

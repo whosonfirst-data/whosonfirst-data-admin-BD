@@ -1,0 +1,70 @@
+{
+  "id": 1193061849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.82059,23.2808,90.82059,23.2808",
+    "geom:latitude":23.2808,
+    "geom:longitude":90.82059,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2013",
+    "gn:admin3_code":"201349.0",
+    "gn:admin4_code":"20134955.0",
+    "gn:asciiname":"Maramura",
+    "gn:country_code":"BD",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1194833,
+    "gn:latitude":23.2808,
+    "gn:longitude":90.82059,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"M\u0101r\u0101mura",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        1108694669
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1194833
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"1a970fe79db35f20fd5fe9255cee85d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694669,
+            "locality_id":1193061849,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1193061849,
+    "wof:lastmodified":1536377040,
+    "wof:name":"Maramura",
+    "wof:parent_id":1108694669,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.82059,
+    23.2808,
+    90.82059,
+    23.2808
+],
+  "geometry": {"coordinates":[90.82059,23.2808],"type":"Point"}
+}

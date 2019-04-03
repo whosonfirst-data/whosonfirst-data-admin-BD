@@ -1,0 +1,73 @@
+{
+  "id": 1344093989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.33946,22.22673,90.33946,22.22673",
+    "geom:latitude":22.22673,
+    "geom:longitude":90.33946,
+    "gn:admin1_code":"82",
+    "gn:asciiname":"Atharagachhia",
+    "gn:country_code":"BD",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1212312,
+    "gn:latitude":22.22673,
+    "gn:longitude":90.33946,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"\u0100th\u0101rag\u0101chhia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "\u0100th\u0101rag\u0101chhia"
+    ],
+    "name:und_x_variant":[
+        "Atharagachia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669019,
+        421176043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1212312
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"abeaba2d02c44f7476b581fe16c3be78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421176043,
+            "locality_id":1344093989,
+            "region_id":85669019
+        }
+    ],
+    "wof:id":1344093989,
+    "wof:lastmodified":1537586193,
+    "wof:name":"Atharagachhia",
+    "wof:parent_id":421176043,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.33946,
+    22.22673,
+    90.33946,
+    22.22673
+],
+  "geometry": {"coordinates":[90.33946,22.22673],"type":"Point"}
+}

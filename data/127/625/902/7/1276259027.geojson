@@ -1,0 +1,70 @@
+{
+  "id": 1276259027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.44323,23.92372,90.44323,23.92372",
+    "geom:latitude":23.92372,
+    "geom:longitude":90.44323,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3033",
+    "gn:admin3_code":"303330.0",
+    "gn:admin4_code":"30333081.0",
+    "gn:asciiname":"Satpoa",
+    "gn:country_code":"BD",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1188406,
+    "gn:latitude":23.92372,
+    "gn:longitude":90.44323,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"S\u0101tpoa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421203493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1188406
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"dc8de0a449cad89ded662c629954e1bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421203493,
+            "locality_id":1276259027,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1276259027,
+    "wof:lastmodified":1536877423,
+    "wof:name":"Satpoa",
+    "wof:parent_id":421203493,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.44323,
+    23.92372,
+    90.44323,
+    23.92372
+],
+  "geometry": {"coordinates":[90.44323,23.92372],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1327471309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.28835,24.81674,89.28835,24.81674",
+    "geom:latitude":24.81674,
+    "geom:longitude":89.28835,
+    "gn:admin1_code":"83",
+    "gn:admin2_code":"5010.0",
+    "gn:admin3_code":"501054.0",
+    "gn:admin4_code":"50105466.0",
+    "gn:asciiname":"Agarsal",
+    "gn:country_code":"BD",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1213220,
+    "gn:latitude":24.81674,
+    "gn:longitude":89.28835,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"\u0100gars\u0101l",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669031,
+        421187793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1213220
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"f2ea5d90a1e9360a6ce7d5c595112c1e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421187793,
+            "locality_id":1327471309,
+            "region_id":85669031
+        }
+    ],
+    "wof:id":1327471309,
+    "wof:lastmodified":1536622449,
+    "wof:name":"Agarsal",
+    "wof:parent_id":421187793,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.28835,
+    24.81674,
+    89.28835,
+    24.81674
+],
+  "geometry": {"coordinates":[89.28834999999999,24.81674],"type":"Point"}
+}

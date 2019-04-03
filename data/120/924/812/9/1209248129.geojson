@@ -1,0 +1,67 @@
+{
+  "id": 1209248129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.23143,22.37783,90.23143,22.37783",
+    "geom:latitude":22.37783,
+    "geom:longitude":90.23143,
+    "gn:admin1_code":"85",
+    "gn:admin2_code":"1078.0",
+    "gn:admin3_code":"107876.0",
+    "gn:admin4_code":"10787681.0",
+    "gn:asciiname":"South Ghataker Andua",
+    "gn:country_code":"BD",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7476922,
+    "gn:latitude":22.37783,
+    "gn:longitude":90.23143,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"South Ghataker \u0100ndua",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "South Ghataker \u0100ndua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7476922
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"0cc1b1190429c1003397e1a8176805e7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209248129
+        }
+    ],
+    "wof:id":1209248129,
+    "wof:lastmodified":1537586357,
+    "wof:name":"South Ghataker Andua",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.23143,
+    22.37783,
+    90.23143,
+    22.37783
+],
+  "geometry": {"coordinates":[90.23143,22.37783],"type":"Point"}
+}

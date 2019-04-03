@@ -1,0 +1,73 @@
+{
+  "id": 1276172405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"92.06167,22.03112,92.06167,22.03112",
+    "geom:latitude":22.03112,
+    "geom:longitude":92.06167,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2015.0",
+    "gn:admin3_code":"201582.0",
+    "gn:admin4_code":"20158291.0",
+    "gn:asciiname":"Garangiya",
+    "gn:country_code":"BD",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6416388,
+    "gn:latitude":22.03112,
+    "gn:longitude":92.06167,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"G\u0101r\u0101ngiya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "G\u0101r\u0101ngiya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421201541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6416388
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"b5db78bd1d7a784c498e6a5d5ebca17e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421201541,
+            "locality_id":1276172405,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1276172405,
+    "wof:lastmodified":1537586262,
+    "wof:name":"Garangiya",
+    "wof:parent_id":421201541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    92.06167,
+    22.03112,
+    92.06167,
+    22.03112
+],
+  "geometry": {"coordinates":[92.06167000000001,22.03112],"type":"Point"}
+}

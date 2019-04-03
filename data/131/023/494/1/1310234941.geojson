@@ -1,0 +1,70 @@
+{
+  "id": 1310234941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.85,24.08333,88.85,24.08333",
+    "geom:latitude":24.08333,
+    "geom:longitude":88.85,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4050",
+    "gn:admin3_code":"405039.0",
+    "gn:admin4_code":"40503974.0",
+    "gn:asciiname":"Thotarpara",
+    "gn:country_code":"BD",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1186119,
+    "gn:latitude":24.08333,
+    "gn:longitude":88.85,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Thot\u0101rp\u0101ra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        890438075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1186119
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"6b93c446f673985b26410762c252de34",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":890438075,
+            "locality_id":1310234941,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1310234941,
+    "wof:lastmodified":1536809518,
+    "wof:name":"Thotarpara",
+    "wof:parent_id":890438075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.85,
+    24.08333,
+    88.85,
+    24.08333
+],
+  "geometry": {"coordinates":[88.84999999999999,24.08333],"type":"Point"}
+}

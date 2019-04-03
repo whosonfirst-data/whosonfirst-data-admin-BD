@@ -1,0 +1,75 @@
+{
+  "id": 1276580389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.37033,23.34355,90.37033,23.34355",
+    "geom:latitude":23.34355,
+    "geom:longitude":90.37033,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3086.0",
+    "gn:admin3_code":"308694.0",
+    "gn:admin4_code":"30869429.0",
+    "gn:asciiname":"Achhanulla Munsir Kandi",
+    "gn:country_code":"BD",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1213290,
+    "gn:latitude":23.34355,
+    "gn:longitude":90.37033,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Achh\u0101nulla Munsir K\u0101ndi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Achhanulla Munshir Kandi",
+        "Ashanulla Munsir Kandi",
+        "Achh\u0101nulla Munsir K\u0101ndi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421188359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1213290
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"86557ac11aa0641d7446e021a13d41be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421188359,
+            "locality_id":1276580389,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1276580389,
+    "wof:lastmodified":1537586211,
+    "wof:name":"Achhanulla Munsir Kandi",
+    "wof:parent_id":421188359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.37033,
+    23.34355,
+    90.37033,
+    23.34355
+],
+  "geometry": {"coordinates":[90.37033,23.34355],"type":"Point"}
+}

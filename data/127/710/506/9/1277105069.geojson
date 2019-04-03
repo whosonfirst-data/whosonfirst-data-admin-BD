@@ -1,0 +1,70 @@
+{
+  "id": 1277105069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.44181,25.07133,89.44181,25.07133",
+    "geom:latitude":25.07133,
+    "geom:longitude":89.44181,
+    "gn:admin1_code":"83",
+    "gn:asciiname":"Gopi Ballabhpur",
+    "gn:country_code":"BD",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7890803,
+    "gn:latitude":25.07133,
+    "gn:longitude":89.44181,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Gopi Ballabhpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Gopi Ballabhpur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669031,
+        421187793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7890803
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"6159d80e1d9360afa9e1b7a49ec5401c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421187793,
+            "locality_id":1277105069,
+            "region_id":85669031
+        }
+    ],
+    "wof:id":1277105069,
+    "wof:lastmodified":1537586747,
+    "wof:name":"Gopi Ballabhpur",
+    "wof:parent_id":421187793,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.44181,
+    25.07133,
+    89.44181,
+    25.07133
+],
+  "geometry": {"coordinates":[89.44181,25.07133],"type":"Point"}
+}

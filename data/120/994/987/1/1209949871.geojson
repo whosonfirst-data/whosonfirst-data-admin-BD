@@ -1,0 +1,73 @@
+{
+  "id": 1209949871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.19833,23.79218,89.19833,23.79218",
+    "geom:latitude":23.79218,
+    "geom:longitude":89.19833,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4050",
+    "gn:admin3_code":"405071.0",
+    "gn:admin4_code":"40507177.0",
+    "gn:asciiname":"Jadabpur Sripur",
+    "gn:country_code":"BD",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1200624,
+    "gn:latitude":23.79218,
+    "gn:longitude":89.19833,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Jadabpur Sripur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Jadabpur Sripur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        890438075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1200624
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"3c904ef09f7f9512fd9a222c1b3c2374",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":890438075,
+            "locality_id":1209949871,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1209949871,
+    "wof:lastmodified":1537585983,
+    "wof:name":"Jadabpur Sripur",
+    "wof:parent_id":890438075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.19833,
+    23.79218,
+    89.19833,
+    23.79218
+],
+  "geometry": {"coordinates":[89.19833,23.79218],"type":"Point"}
+}

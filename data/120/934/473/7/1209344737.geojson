@@ -1,0 +1,64 @@
+{
+  "id": 1209344737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.64356,24.83226,90.64356,24.83226",
+    "geom:latitude":24.83226,
+    "geom:longitude":90.64356,
+    "gn:admin1_code":"H",
+    "gn:admin2_code":"3072",
+    "gn:admin3_code":"307283.0",
+    "gn:admin4_code":"30728315.0",
+    "gn:asciiname":"Tenua",
+    "gn:country_code":"BD",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1186240,
+    "gn:latitude":24.83226,
+    "gn:longitude":90.64356,
+    "gn:modification_date":"2016-11-17",
+    "gn:name":"Tenua",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1186240
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"c6d3cf87ece23627cbce0a648919fa36",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209344737
+        }
+    ],
+    "wof:id":1209344737,
+    "wof:lastmodified":1536289949,
+    "wof:name":"Tenua",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.64356,
+    24.83226,
+    90.64356,
+    24.83226
+],
+  "geometry": {"coordinates":[90.64355999999999,24.83226],"type":"Point"}
+}

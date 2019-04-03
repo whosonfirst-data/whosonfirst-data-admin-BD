@@ -1,0 +1,73 @@
+{
+  "id": 1343695075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.95961,23.01485,89.95961,23.01485",
+    "geom:latitude":23.01485,
+    "geom:longitude":89.95961,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3035.0",
+    "gn:admin3_code":"303551.0",
+    "gn:admin4_code":"30355155.0",
+    "gn:asciiname":"Uparia",
+    "gn:country_code":"BD",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7480776,
+    "gn:latitude":23.01485,
+    "gn:longitude":89.95961,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Up\u0101ria",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Up\u0101ria"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421194867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7480776
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"815c110eb8750cabd2527bf3e3c813d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421194867,
+            "locality_id":1343695075,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1343695075,
+    "wof:lastmodified":1537586460,
+    "wof:name":"Uparia",
+    "wof:parent_id":421194867,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.95961,
+    23.01485,
+    89.95961,
+    23.01485
+],
+  "geometry": {"coordinates":[89.95961,23.01485],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1292939255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.75053,24.82298,88.75053,24.82298",
+    "geom:latitude":24.82298,
+    "geom:longitude":88.75053,
+    "gn:admin1_code":"83",
+    "gn:admin2_code":"5064",
+    "gn:admin3_code":"506450.0",
+    "gn:admin4_code":"50645085.0",
+    "gn:asciiname":"Krishna Gopalpur",
+    "gn:country_code":"BD",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1196933,
+    "gn:latitude":24.82298,
+    "gn:longitude":88.75053,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Krishna Gop\u0101lpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669031,
+        421191663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1196933
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"2b38fcdd54fbd1a6a479c2c694ee7133",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421191663,
+            "locality_id":1292939255,
+            "region_id":85669031
+        }
+    ],
+    "wof:id":1292939255,
+    "wof:lastmodified":1537077399,
+    "wof:name":"Krishna Gopalpur",
+    "wof:parent_id":421191663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.75053,
+    24.82298,
+    88.75053,
+    24.82298
+],
+  "geometry": {"coordinates":[88.75053,24.82298],"type":"Point"}
+}

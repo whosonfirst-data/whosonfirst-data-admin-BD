@@ -1,0 +1,79 @@
+{
+  "id": 1327261771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.13371,23.84858,89.13371,23.84858",
+    "geom:latitude":23.84858,
+    "geom:longitude":89.13371,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4050",
+    "gn:admin3_code":"405079.0",
+    "gn:admin4_code":"40507956.0",
+    "gn:asciiname":"Mathpara",
+    "gn:country_code":"BD",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1194615,
+    "gn:latitude":23.84858,
+    "gn:longitude":89.13371,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Mathp\u0101ra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Mathp\u0101ra"
+    ],
+    "name:ben_x_variant":[
+        "M\u0101ti\u0101p\u0101ra"
+    ],
+    "name:und_x_variant":[
+        "Matpara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        890438075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1194615
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"ec6803d92d9c6132dba92d328a070ea9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":890438075,
+            "locality_id":1327261771,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1327261771,
+    "wof:lastmodified":1537585872,
+    "wof:name":"Mathpara",
+    "wof:parent_id":890438075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.13371,
+    23.84858,
+    89.13371,
+    23.84858
+],
+  "geometry": {"coordinates":[89.13370999999999,23.84858],"type":"Point"}
+}

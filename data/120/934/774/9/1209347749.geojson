@@ -1,0 +1,70 @@
+{
+  "id": 1209347749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.41059,24.81271,88.41059,24.81271",
+    "geom:latitude":24.81271,
+    "geom:longitude":88.41059,
+    "gn:admin1_code":"83",
+    "gn:admin2_code":"5070",
+    "gn:admin3_code":"507056.0",
+    "gn:admin4_code":"50705638.0",
+    "gn:asciiname":"Sona Masna",
+    "gn:country_code":"BD",
+    "gn:dem":49,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1187566,
+    "gn:latitude":24.81271,
+    "gn:longitude":88.41059,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Sona Masn\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Sona Masn\u0101"
+    ],
+    "name:und_x_variant":[
+        "Sona-Mosna"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1187566
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"3c34aa9ddadf3463eb6a5caafbee04a2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209347749
+        }
+    ],
+    "wof:id":1209347749,
+    "wof:lastmodified":1537585741,
+    "wof:name":"Sona Masna",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.41059,
+    24.81271,
+    88.41059,
+    24.81271
+],
+  "geometry": {"coordinates":[88.41059,24.81271],"type":"Point"}
+}

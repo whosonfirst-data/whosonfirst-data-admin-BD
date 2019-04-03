@@ -1,0 +1,73 @@
+{
+  "id": 1243202253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.99202,23.00088,89.99202,23.00088",
+    "geom:latitude":23.00088,
+    "geom:longitude":89.99202,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3035.0",
+    "gn:admin3_code":"303551.0",
+    "gn:admin4_code":"30355155.0",
+    "gn:asciiname":"Jaila",
+    "gn:country_code":"BD",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7480779,
+    "gn:latitude":23.00088,
+    "gn:longitude":89.99202,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"J\u0101ila",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "J\u0101ila"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421194867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7480779
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"4ef847c8d91e38fe76c6d938eb0ebb9a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421194867,
+            "locality_id":1243202253,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1243202253,
+    "wof:lastmodified":1537586460,
+    "wof:name":"Jaila",
+    "wof:parent_id":421194867,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.99202,
+    23.00088,
+    89.99202,
+    23.00088
+],
+  "geometry": {"coordinates":[89.99202,23.00088],"type":"Point"}
+}

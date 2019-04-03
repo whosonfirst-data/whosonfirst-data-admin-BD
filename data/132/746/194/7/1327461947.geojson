@@ -1,0 +1,74 @@
+{
+  "id": 1327461947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.38859,23.52779,89.38859,23.52779",
+    "geom:latitude":23.52779,
+    "geom:longitude":89.38859,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4055",
+    "gn:admin3_code":"405557.0",
+    "gn:admin4_code":"40555706.0",
+    "gn:asciiname":"Naldaha",
+    "gn:country_code":"BD",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1193597,
+    "gn:latitude":23.52779,
+    "gn:longitude":89.38859,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Naldaha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nanldaha",
+        "Naldaha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        1108694689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1193597
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"5057dbd3cc2d5b2fbe28aac35b675a08",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694689,
+            "locality_id":1327461947,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1327461947,
+    "wof:lastmodified":1537585854,
+    "wof:name":"Naldaha",
+    "wof:parent_id":1108694689,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.38859000000002,
+    23.52779,
+    89.38859000000002,
+    23.52779
+],
+  "geometry": {"coordinates":[89.38859000000002,23.52779],"type":"Point"}
+}

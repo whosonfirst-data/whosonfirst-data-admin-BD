@@ -1,0 +1,73 @@
+{
+  "id": 1243205791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.18613,23.71092,89.18613,23.71092",
+    "geom:latitude":23.71092,
+    "geom:longitude":89.18613,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4044.0",
+    "gn:admin3_code":"404480.0",
+    "gn:admin4_code":"40448088.0",
+    "gn:asciiname":"Basantapur",
+    "gn:country_code":"BD",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7479017,
+    "gn:latitude":23.71092,
+    "gn:longitude":89.18613,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Basantapur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Basantapur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        1108694679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7479017
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"3e018c8e73c7ec94ca3d9341803020db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694679,
+            "locality_id":1243205791,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1243205791,
+    "wof:lastmodified":1537586407,
+    "wof:name":"Basantapur",
+    "wof:parent_id":1108694679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.18613,
+    23.71092,
+    89.18613,
+    23.71092
+],
+  "geometry": {"coordinates":[89.18613000000001,23.71092],"type":"Point"}
+}

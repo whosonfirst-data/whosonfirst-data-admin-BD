@@ -1,0 +1,73 @@
+{
+  "id": 1276585703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.01941,25.22085,89.01941,25.22085",
+    "geom:latitude":25.22085,
+    "geom:longitude":89.01941,
+    "gn:admin1_code":"83",
+    "gn:admin2_code":"5038.0",
+    "gn:admin3_code":"503874.0",
+    "gn:admin4_code":"50387452.0",
+    "gn:asciiname":"Koktara",
+    "gn:country_code":"BD",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7887760,
+    "gn:latitude":25.22085,
+    "gn:longitude":89.01941,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Kokt\u0101ra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Kokt\u0101ra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669031,
+        1108694681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7887760
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"1d87624f42db5265cf992c4f09bc252e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694681,
+            "locality_id":1276585703,
+            "region_id":85669031
+        }
+    ],
+    "wof:id":1276585703,
+    "wof:lastmodified":1537586714,
+    "wof:name":"Koktara",
+    "wof:parent_id":1108694681,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.01941,
+    25.22085,
+    89.01941,
+    25.22085
+],
+  "geometry": {"coordinates":[89.01940999999999,25.22085],"type":"Point"}
+}

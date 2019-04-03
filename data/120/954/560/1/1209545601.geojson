@@ -1,0 +1,64 @@
+{
+  "id": 1209545601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.38333,25.9,89.38333,25.9",
+    "geom:latitude":25.9,
+    "geom:longitude":89.38333,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5552",
+    "gn:admin3_code":"555202.0",
+    "gn:admin4_code":"55520289.0",
+    "gn:asciiname":"Sarpukur",
+    "gn:country_code":"BD",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1188540,
+    "gn:latitude":25.9,
+    "gn:longitude":89.38333,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Sarpukur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1188540
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"184ea1912ba5ba30c13dfd680f508ab4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209545601
+        }
+    ],
+    "wof:id":1209545601,
+    "wof:lastmodified":1536283852,
+    "wof:name":"Sarpukur",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.38333,
+    25.9,
+    89.38333,
+    25.9
+],
+  "geometry": {"coordinates":[89.38333,25.9],"type":"Point"}
+}

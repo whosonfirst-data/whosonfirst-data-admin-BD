@@ -1,0 +1,64 @@
+{
+  "id": 1209549005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.77071,24.37279,90.77071,24.37279",
+    "geom:latitude":24.37279,
+    "geom:longitude":90.77071,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3048",
+    "gn:admin3_code":"304849.0",
+    "gn:admin4_code":"30484925.0",
+    "gn:asciiname":"Nohar",
+    "gn:country_code":"BD",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1191964,
+    "gn:latitude":24.37279,
+    "gn:longitude":90.77071,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Noh\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1191964
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"885d1395306eb13737c34241029abcde",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209549005
+        }
+    ],
+    "wof:id":1209549005,
+    "wof:lastmodified":1536283753,
+    "wof:name":"Nohar",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.77071,
+    24.37279,
+    90.77071,
+    24.37279
+],
+  "geometry": {"coordinates":[90.77070999999999,24.37279],"type":"Point"}
+}

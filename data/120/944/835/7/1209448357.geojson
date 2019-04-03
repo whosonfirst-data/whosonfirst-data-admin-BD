@@ -1,0 +1,67 @@
+{
+  "id": 1209448357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.1217,21.91121,90.1217,21.91121",
+    "geom:latitude":21.91121,
+    "geom:longitude":90.1217,
+    "gn:admin1_code":"85",
+    "gn:admin2_code":"1078.0",
+    "gn:admin3_code":"107866.0",
+    "gn:admin4_code":"10786671.0",
+    "gn:asciiname":"Majidbaria",
+    "gn:country_code":"BD",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7477688,
+    "gn:latitude":21.91121,
+    "gn:longitude":90.1217,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Majidb\u0101ria",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Majidb\u0101ria"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7477688
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"4535d03f0698d97660ef42e02f928da4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209448357
+        }
+    ],
+    "wof:id":1209448357,
+    "wof:lastmodified":1537586373,
+    "wof:name":"Majidbaria",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.1217,
+    21.91121,
+    90.1217,
+    21.91121
+],
+  "geometry": {"coordinates":[90.1217,21.91121],"type":"Point"}
+}

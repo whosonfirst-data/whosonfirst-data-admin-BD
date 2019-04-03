@@ -1,0 +1,64 @@
+{
+  "id": 1209248041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.04571,25.25746,89.04571,25.25746",
+    "geom:latitude":25.25746,
+    "geom:longitude":89.04571,
+    "gn:admin1_code":"87",
+    "gn:asciiname":"Amail",
+    "gn:country_code":"BD",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7887776,
+    "gn:latitude":25.25746,
+    "gn:longitude":89.04571,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Am\u0101il",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Am\u0101il"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7887776
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"4842097a6d25e21bb4a67cef5ed5f2f8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209248041
+        }
+    ],
+    "wof:id":1209248041,
+    "wof:lastmodified":1537586714,
+    "wof:name":"Amail",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.04571,
+    25.25746,
+    89.04571,
+    25.25746
+],
+  "geometry": {"coordinates":[89.04571,25.25746],"type":"Point"}
+}

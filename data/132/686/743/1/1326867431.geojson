@@ -1,0 +1,70 @@
+{
+  "id": 1326867431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.49291,23.97039,89.49291,23.97039",
+    "geom:latitude":23.97039,
+    "geom:longitude":89.49291,
+    "gn:admin1_code":"83",
+    "gn:admin2_code":"5076.0",
+    "gn:admin3_code":"507672.0",
+    "gn:admin4_code":"50767269.0",
+    "gn:asciiname":"Bethuria",
+    "gn:country_code":"BD",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1209467,
+    "gn:latitude":23.97039,
+    "gn:longitude":89.49291,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Bethuria",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669031,
+        421197541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1209467
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"80ce62416057b84efebebb471a82a994",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421197541,
+            "locality_id":1326867431,
+            "region_id":85669031
+        }
+    ],
+    "wof:id":1326867431,
+    "wof:lastmodified":1536997179,
+    "wof:name":"Bethuria",
+    "wof:parent_id":421197541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.49291,
+    23.97039,
+    89.49291,
+    23.97039
+],
+  "geometry": {"coordinates":[89.49290999999999,23.97039],"type":"Point"}
+}

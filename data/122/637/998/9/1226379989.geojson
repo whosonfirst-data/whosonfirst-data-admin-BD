@@ -1,0 +1,101 @@
+{
+  "id": 1226379989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.41592,23.48702,89.41592,23.48702",
+    "geom:latitude":23.48702,
+    "geom:longitude":89.41592,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4055.0",
+    "gn:admin3_code":"405557.0",
+    "gn:admin4_code":"40555700.0",
+    "gn:asciiname":"Magura",
+    "gn:country_code":"BD",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":7649230,
+    "gn:latitude":23.48702,
+    "gn:longitude":89.41592,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Magura",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Magura"
+    ],
+    "name:ben_x_variant":[
+        "\u09ae\u09be\u0997\u09c1\u09b0\u09be \u099c\u09c7\u09b2\u09be"
+    ],
+    "name:bpy_x_preferred":[
+        "\u09ae\u09be\u0997\u09c1\u09b0\u09be \u099c\u09bf\u09b2\u09be"
+    ],
+    "name:eng_x_preferred":[
+        "Magura District"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0636\u0644\u0639 \u0645\u0627\u06af\u0648\u0631\u0627"
+    ],
+    "name:ron_x_preferred":[
+        "Districtul Magura"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u0433\u0443\u0440\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u0627\u06af\u0648\u0631\u0627 \u0636\u0644\u0639"
+    ],
+    "name:vie_x_preferred":[
+        "Huy\u1ec7n Magura"
+    ],
+    "name:zho_x_preferred":[
+        "\u9a6c\u53e4\u62c9\u53bf"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        1108694689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7649230,
+        "wk:page":"Magura_District"
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"d8dfa8df6da1e52e8ee9dc60cde54fef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694689,
+            "locality_id":1226379989,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1226379989,
+    "wof:lastmodified":1537586713,
+    "wof:name":"Magura",
+    "wof:parent_id":1108694689,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.41592,
+    23.48702,
+    89.41592,
+    23.48702
+],
+  "geometry": {"coordinates":[89.41592,23.48702],"type":"Point"}
+}

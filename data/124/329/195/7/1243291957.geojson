@@ -1,0 +1,73 @@
+{
+  "id": 1243291957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.52983,23.83495,89.52983,23.83495",
+    "geom:latitude":23.83495,
+    "geom:longitude":89.52983,
+    "gn:admin1_code":"83",
+    "gn:admin2_code":"5076.0",
+    "gn:admin3_code":"507683.0",
+    "gn:admin4_code":"50768347.0",
+    "gn:asciiname":"Nazirganj",
+    "gn:country_code":"BD",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7480134,
+    "gn:latitude":23.83495,
+    "gn:longitude":89.52983,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"N\u0101zirganj",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "N\u0101zirganj"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669031,
+        421197541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7480134
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"5a03b3b802b659f5e32c0b42308cf505",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421197541,
+            "locality_id":1243291957,
+            "region_id":85669031
+        }
+    ],
+    "wof:id":1243291957,
+    "wof:lastmodified":1537586441,
+    "wof:name":"Nazirganj",
+    "wof:parent_id":421197541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.52983,
+    23.83495,
+    89.52983,
+    23.83495
+],
+  "geometry": {"coordinates":[89.52983,23.83495],"type":"Point"}
+}

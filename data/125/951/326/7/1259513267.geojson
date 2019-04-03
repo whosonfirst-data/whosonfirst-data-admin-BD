@@ -1,0 +1,70 @@
+{
+  "id": 1259513267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.25302,22.11673,90.25302,22.11673",
+    "geom:latitude":22.11673,
+    "geom:longitude":90.25302,
+    "gn:admin1_code":"82",
+    "gn:asciiname":"Nachnabara",
+    "gn:country_code":"BD",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7478593,
+    "gn:latitude":22.11673,
+    "gn:longitude":90.25302,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"N\u0101chn\u0101b\u0101r\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "N\u0101chn\u0101b\u0101r\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669019,
+        421176043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7478593
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"fc5184c1ea99d98bd6653f7371213578",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421176043,
+            "locality_id":1259513267,
+            "region_id":85669019
+        }
+    ],
+    "wof:id":1259513267,
+    "wof:lastmodified":1537586396,
+    "wof:name":"Nachnabara",
+    "wof:parent_id":421176043,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.25302,
+    22.11673,
+    90.25302,
+    22.11673
+],
+  "geometry": {"coordinates":[90.25302000000001,22.11673],"type":"Point"}
+}

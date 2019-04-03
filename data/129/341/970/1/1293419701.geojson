@@ -1,0 +1,73 @@
+{
+  "id": 1293419701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.77841,25.69317,88.77841,25.69317",
+    "geom:latitude":25.69317,
+    "geom:longitude":88.77841,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5527",
+    "gn:admin3_code":"552730.0",
+    "gn:admin4_code":"55273079.0",
+    "gn:asciiname":"Jagannathpur",
+    "gn:country_code":"BD",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1200541,
+    "gn:latitude":25.69317,
+    "gn:longitude":88.77841,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Jagannathpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Jagannathpur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1200541
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"bb86bdab8b89dcd2a1a8002b7b532bb0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694671,
+            "locality_id":1293419701,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1293419701,
+    "wof:lastmodified":1537585981,
+    "wof:name":"Jagannathpur",
+    "wof:parent_id":1108694671,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.77841,
+    25.69317,
+    88.77841,
+    25.69317
+],
+  "geometry": {"coordinates":[88.77840999999999,25.69317],"type":"Point"}
+}

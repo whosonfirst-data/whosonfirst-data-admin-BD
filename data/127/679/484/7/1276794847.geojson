@@ -1,0 +1,70 @@
+{
+  "id": 1276794847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.9024,24.827,89.9024,24.827",
+    "geom:latitude":24.827,
+    "geom:longitude":89.9024,
+    "gn:admin1_code":"H",
+    "gn:admin2_code":"3039.0",
+    "gn:admin3_code":"303936.0",
+    "gn:admin4_code":"30393689.0",
+    "gn:asciiname":"Daherpar",
+    "gn:country_code":"BD",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1205593,
+    "gn:latitude":24.827,
+    "gn:longitude":89.9024,
+    "gn:modification_date":"2016-11-17",
+    "gn:name":"Daherp\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        1108803101,
+        421191923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1205593
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"3dd4d87d065d317aa312d4d34a6b9742",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421191923,
+            "locality_id":1276794847,
+            "region_id":1108803101
+        }
+    ],
+    "wof:id":1276794847,
+    "wof:lastmodified":1536657781,
+    "wof:name":"Daherpar",
+    "wof:parent_id":421191923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.9024,
+    24.827,
+    89.9024,
+    24.827
+],
+  "geometry": {"coordinates":[89.9024,24.827],"type":"Point"}
+}

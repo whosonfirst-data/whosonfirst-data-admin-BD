@@ -1,0 +1,73 @@
+{
+  "id": 1276472497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.93482,25.1572,88.93482,25.1572",
+    "geom:latitude":25.1572,
+    "geom:longitude":88.93482,
+    "gn:admin1_code":"83",
+    "gn:admin2_code":"5038.0",
+    "gn:admin3_code":"503847.0",
+    "gn:admin4_code":"50384738.0",
+    "gn:asciiname":"Namuja",
+    "gn:country_code":"BD",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7481756,
+    "gn:latitude":25.1572,
+    "gn:longitude":88.93482,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"N\u0101muja",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "N\u0101muja"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669031,
+        1108694681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7481756
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"bf34b83150ebc8c5490d4a01c4dce430",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694681,
+            "locality_id":1276472497,
+            "region_id":85669031
+        }
+    ],
+    "wof:id":1276472497,
+    "wof:lastmodified":1537586488,
+    "wof:name":"Namuja",
+    "wof:parent_id":1108694681,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.93482,
+    25.1572,
+    88.93482,
+    25.1572
+],
+  "geometry": {"coordinates":[88.93482,25.1572],"type":"Point"}
+}

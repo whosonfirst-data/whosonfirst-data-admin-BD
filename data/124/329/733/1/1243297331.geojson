@@ -1,0 +1,70 @@
+{
+  "id": 1243297331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.1543,25.07615,90.1543,25.07615",
+    "geom:latitude":25.07615,
+    "geom:longitude":90.1543,
+    "gn:admin1_code":"H",
+    "gn:admin2_code":"3089",
+    "gn:admin3_code":"308970.0",
+    "gn:admin4_code":"30897008.0",
+    "gn:asciiname":"Holar Kanda",
+    "gn:country_code":"BD",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7912880,
+    "gn:latitude":25.07615,
+    "gn:longitude":90.1543,
+    "gn:modification_date":"2016-11-17",
+    "gn:name":"Hol\u0101r K\u0101nda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        1108803101,
+        421190979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7912880
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"9fdc6307a6400e57ac93e091b77b7f8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421190979,
+            "locality_id":1243297331,
+            "region_id":1108803101
+        }
+    ],
+    "wof:id":1243297331,
+    "wof:lastmodified":1537019643,
+    "wof:name":"Holar Kanda",
+    "wof:parent_id":421190979,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.1543,
+    25.07615,
+    90.1543,
+    25.07615
+],
+  "geometry": {"coordinates":[90.15430000000001,25.07615],"type":"Point"}
+}

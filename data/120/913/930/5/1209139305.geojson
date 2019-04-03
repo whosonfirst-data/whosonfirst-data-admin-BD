@@ -1,0 +1,64 @@
+{
+  "id": 1209139305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.10268,25.57685,89.10268,25.57685",
+    "geom:latitude":25.57685,
+    "geom:longitude":89.10268,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5585",
+    "gn:admin3_code":"558503.0",
+    "gn:admin4_code":"55850369.0",
+    "gn:asciiname":"Lohanipara",
+    "gn:country_code":"BD",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1196014,
+    "gn:latitude":25.57685,
+    "gn:longitude":89.10268,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Loh\u0101n\u012bp\u0101ra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1196014
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"103946847ee156406b01b903a4ce8d30",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209139305
+        }
+    ],
+    "wof:id":1209139305,
+    "wof:lastmodified":1536296557,
+    "wof:name":"Lohanipara",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.10268,
+    25.57685,
+    89.10268,
+    25.57685
+],
+  "geometry": {"coordinates":[89.10268000000001,25.57685],"type":"Point"}
+}

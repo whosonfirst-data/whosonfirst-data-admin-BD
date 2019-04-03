@@ -1,0 +1,70 @@
+{
+  "id": 1327271351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"92.06667,24.76667,92.06667,24.76667",
+    "geom:latitude":24.76667,
+    "geom:longitude":92.06667,
+    "gn:admin1_code":"86",
+    "gn:admin2_code":"6091.0",
+    "gn:admin3_code":"609138.0",
+    "gn:admin4_code":"60913877.0",
+    "gn:asciiname":"Bagla",
+    "gn:country_code":"BD",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1211885,
+    "gn:latitude":24.76667,
+    "gn:longitude":92.06667,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"B\u0101gla",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669025,
+        421187795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1211885
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"f861372034e198556c8736905c14bda6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421187795,
+            "locality_id":1327271351,
+            "region_id":85669025
+        }
+    ],
+    "wof:id":1327271351,
+    "wof:lastmodified":1536913706,
+    "wof:name":"Bagla",
+    "wof:parent_id":421187795,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    92.06667,
+    24.76667,
+    92.06667,
+    24.76667
+],
+  "geometry": {"coordinates":[92.06667,24.76667],"type":"Point"}
+}

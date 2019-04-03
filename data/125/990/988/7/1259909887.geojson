@@ -1,0 +1,73 @@
+{
+  "id": 1259909887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.47655,25.95736,89.47655,25.95736",
+    "geom:latitude":25.95736,
+    "geom:longitude":89.47655,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"5552",
+    "gn:admin3_code":"555255.0",
+    "gn:admin4_code":"55525565.0",
+    "gn:asciiname":"Mapata",
+    "gn:country_code":"BD",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7923644,
+    "gn:latitude":25.95736,
+    "gn:longitude":89.47655,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Mapata",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Mapata"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7923644
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"c279039929b19bdc66017efa7e9ed577",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694687,
+            "locality_id":1259909887,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1259909887,
+    "wof:lastmodified":1537586804,
+    "wof:name":"Mapata",
+    "wof:parent_id":1108694687,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.47655,
+    25.95736,
+    89.47655,
+    25.95736
+],
+  "geometry": {"coordinates":[89.47655,25.95736],"type":"Point"}
+}

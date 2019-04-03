@@ -1,0 +1,74 @@
+{
+  "id": 1327060137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.24651,24.59186,90.24651,24.59186",
+    "geom:latitude":24.59186,
+    "geom:longitude":90.24651,
+    "gn:admin1_code":"H",
+    "gn:admin2_code":"3061",
+    "gn:admin3_code":"306120.0",
+    "gn:admin4_code":"30612017.0",
+    "gn:asciiname":"Kainajani",
+    "gn:country_code":"BD",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1199024,
+    "gn:latitude":24.59186,
+    "gn:longitude":90.24651,
+    "gn:modification_date":"2016-11-17",
+    "gn:name":"Kainaj\u0101ni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kainaj\u0101ni",
+        "K\u0101ln\u0101j\u0101ni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        1108803101,
+        421185469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1199024
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"110c83afc9d3da5544954f7450824b4e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421185469,
+            "locality_id":1327060137,
+            "region_id":1108803101
+        }
+    ],
+    "wof:id":1327060137,
+    "wof:lastmodified":1537585953,
+    "wof:name":"Kainajani",
+    "wof:parent_id":421185469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.24651,
+    24.59186,
+    90.24651,
+    24.59186
+],
+  "geometry": {"coordinates":[90.24651,24.59186],"type":"Point"}
+}

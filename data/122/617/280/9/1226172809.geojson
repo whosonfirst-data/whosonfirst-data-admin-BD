@@ -1,0 +1,76 @@
+{
+  "id": 1226172809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.77715,25.0243,88.77715,25.0243",
+    "geom:latitude":25.0243,
+    "geom:longitude":88.77715,
+    "gn:admin1_code":"83",
+    "gn:admin2_code":"5064.0",
+    "gn:admin3_code":"506475.0",
+    "gn:admin4_code":"50647560.0",
+    "gn:asciiname":"Bengdom",
+    "gn:country_code":"BD",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1209576,
+    "gn:latitude":25.0243,
+    "gn:longitude":88.77715,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Bengdom",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Bengdom"
+    ],
+    "name:und_x_variant":[
+        "Bengadom"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669031,
+        421191663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1209576
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"b17f18948cef640cfdb3757dead3222a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421191663,
+            "locality_id":1226172809,
+            "region_id":85669031
+        }
+    ],
+    "wof:id":1226172809,
+    "wof:lastmodified":1537586148,
+    "wof:name":"Bengdom",
+    "wof:parent_id":421191663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.77715,
+    25.0243,
+    88.77715,
+    25.0243
+],
+  "geometry": {"coordinates":[88.77715000000001,25.0243],"type":"Point"}
+}

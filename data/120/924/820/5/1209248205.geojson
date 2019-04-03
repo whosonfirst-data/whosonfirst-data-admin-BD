@@ -1,0 +1,67 @@
+{
+  "id": 1209248205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.14885,23.70799,89.14885,23.70799",
+    "geom:latitude":23.70799,
+    "geom:longitude":89.14885,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4044.0",
+    "gn:admin3_code":"404480.0",
+    "gn:admin4_code":"40448088.0",
+    "gn:asciiname":"Padamdi",
+    "gn:country_code":"BD",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7478979,
+    "gn:latitude":23.70799,
+    "gn:longitude":89.14885,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Padamdi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Padamdi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7478979
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"c0fa7fb05e83abcfc9462341326e1172",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "locality_id":1209248205
+        }
+    ],
+    "wof:id":1209248205,
+    "wof:lastmodified":1537586406,
+    "wof:name":"Padamdi",
+    "wof:parent_id":85632475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.14885,
+    23.70799,
+    89.14885,
+    23.70799
+],
+  "geometry": {"coordinates":[89.14885,23.70799],"type":"Point"}
+}

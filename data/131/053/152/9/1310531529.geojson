@@ -1,0 +1,73 @@
+{
+  "id": 1310531529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.76323,23.92559,88.76323,23.92559",
+    "geom:latitude":23.92559,
+    "geom:longitude":88.76323,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4057.0",
+    "gn:admin3_code":"405747.0",
+    "gn:admin4_code":"40574752.0",
+    "gn:asciiname":"Hanrabhanga",
+    "gn:country_code":"BD",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7484314,
+    "gn:latitude":23.92559,
+    "gn:longitude":88.76323,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"H\u0101nr\u0101bhanga",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "H\u0101nr\u0101bhanga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        421191661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7484314
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"d86be48029cdffbd61204b211b7bdd17",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421191661,
+            "locality_id":1310531529,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1310531529,
+    "wof:lastmodified":1537586561,
+    "wof:name":"Hanrabhanga",
+    "wof:parent_id":421191661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.76323000000002,
+    23.92559,
+    88.76323000000002,
+    23.92559
+],
+  "geometry": {"coordinates":[88.76323000000002,23.92559],"type":"Point"}
+}

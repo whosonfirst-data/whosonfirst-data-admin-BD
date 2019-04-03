@@ -1,0 +1,70 @@
+{
+  "id": 1343389421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.63205,24.0249,90.63205,24.0249",
+    "geom:latitude":24.0249,
+    "geom:longitude":90.63205,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3033.0",
+    "gn:admin3_code":"303334.0",
+    "gn:admin4_code":"30333494.0",
+    "gn:asciiname":"Dhanpur",
+    "gn:country_code":"BD",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1204387,
+    "gn:latitude":24.0249,
+    "gn:longitude":90.63205,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Dh\u0101npur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421203493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1204387
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"36d06283bdd1e5451a5d961be91cb476",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421203493,
+            "locality_id":1343389421,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1343389421,
+    "wof:lastmodified":1536847793,
+    "wof:name":"Dhanpur",
+    "wof:parent_id":421203493,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.63205,
+    24.0249,
+    90.63205,
+    24.0249
+],
+  "geometry": {"coordinates":[90.63205000000001,24.0249],"type":"Point"}
+}

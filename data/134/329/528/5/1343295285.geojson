@@ -1,0 +1,70 @@
+{
+  "id": 1343295285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.52925,25.16037,89.52925,25.16037",
+    "geom:latitude":25.16037,
+    "geom:longitude":89.52925,
+    "gn:admin1_code":"83",
+    "gn:asciiname":"Talian",
+    "gn:country_code":"BD",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7905592,
+    "gn:latitude":25.16037,
+    "gn:longitude":89.52925,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Tali\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Tali\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669035,
+        1108694675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7905592
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"720ec795e1ca0fb1f3b9c29125f7ab2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694675,
+            "locality_id":1343295285,
+            "region_id":85669035
+        }
+    ],
+    "wof:id":1343295285,
+    "wof:lastmodified":1537586776,
+    "wof:name":"Talian",
+    "wof:parent_id":1108694675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.52925,
+    25.16037,
+    89.52925,
+    25.16037
+],
+  "geometry": {"coordinates":[89.52925,25.16037],"type":"Point"}
+}

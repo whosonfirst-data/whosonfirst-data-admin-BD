@@ -1,0 +1,73 @@
+{
+  "id": 1310139137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.93745,24.73649,88.93745,24.73649",
+    "geom:latitude":24.73649,
+    "geom:longitude":88.93745,
+    "gn:admin1_code":"83",
+    "gn:admin2_code":"5064",
+    "gn:admin3_code":"506460.0",
+    "gn:admin4_code":"50646036.0",
+    "gn:asciiname":"Par Bankapur",
+    "gn:country_code":"BD",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1192429,
+    "gn:latitude":24.73649,
+    "gn:longitude":88.93745,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"P\u0101r B\u0101nkapur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "P\u0101r B\u0101nkapur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669031,
+        421191663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1192429
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"1196a0452881e5e55e690dd03b9e1c42",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421191663,
+            "locality_id":1310139137,
+            "region_id":85669031
+        }
+    ],
+    "wof:id":1310139137,
+    "wof:lastmodified":1537585835,
+    "wof:name":"Par Bankapur",
+    "wof:parent_id":421191663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.93745,
+    24.73649,
+    88.93745,
+    24.73649
+],
+  "geometry": {"coordinates":[88.93745,24.73649],"type":"Point"}
+}

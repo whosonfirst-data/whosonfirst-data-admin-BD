@@ -1,0 +1,73 @@
+{
+  "id": 1309943327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.243,23.3007,89.243,23.3007",
+    "geom:latitude":23.3007,
+    "geom:longitude":89.243,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"4041.0",
+    "gn:admin3_code":"404147.0",
+    "gn:admin4_code":"40414777.0",
+    "gn:asciiname":"Gobra",
+    "gn:country_code":"BD",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7634307,
+    "gn:latitude":23.3007,
+    "gn:longitude":89.243,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Gobra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "Gobra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669015,
+        421176039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7634307
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"1ed90fc375e22ce47546a4cc02204bc7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421176039,
+            "locality_id":1309943327,
+            "region_id":85669015
+        }
+    ],
+    "wof:id":1309943327,
+    "wof:lastmodified":1537586709,
+    "wof:name":"Gobra",
+    "wof:parent_id":421176039,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.243,
+    23.3007,
+    89.243,
+    23.3007
+],
+  "geometry": {"coordinates":[89.24299999999999,23.3007],"type":"Point"}
+}

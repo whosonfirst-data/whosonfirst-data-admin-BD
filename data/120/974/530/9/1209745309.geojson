@@ -1,0 +1,76 @@
+{
+  "id": 1209745309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.12907,23.06357,90.12907,23.06357",
+    "geom:latitude":23.06357,
+    "geom:longitude":90.12907,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"3054",
+    "gn:admin3_code":"305440.0",
+    "gn:admin4_code":"30544075.0",
+    "gn:asciiname":"Uttar Nabagram",
+    "gn:country_code":"BD",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1191828,
+    "gn:latitude":23.06357,
+    "gn:longitude":90.12907,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Uttar Nabagr\u0101m",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "North Navagram",
+        "Purba Maizpur",
+        "North Nabagr\u0101m",
+        "Uttar Nabagr\u0101m"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669009,
+        421183929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1191828
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"04580baca9de58bbb88ae7a83141186c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421183929,
+            "locality_id":1209745309,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":1209745309,
+    "wof:lastmodified":1537585822,
+    "wof:name":"Uttar Nabagram",
+    "wof:parent_id":421183929,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.12907,
+    23.06357,
+    90.12907,
+    23.06357
+],
+  "geometry": {"coordinates":[90.12907,23.06357],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1293326115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.41667,23.91667,89.41667,23.91667",
+    "geom:latitude":23.91667,
+    "geom:longitude":89.41667,
+    "gn:admin1_code":"83",
+    "gn:admin2_code":"5076",
+    "gn:admin3_code":"507683.0",
+    "gn:admin4_code":"50768385.0",
+    "gn:asciiname":"Manikdi",
+    "gn:country_code":"BD",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1194967,
+    "gn:latitude":23.91667,
+    "gn:longitude":89.41667,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"M\u0101nikdi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669031,
+        421197541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1194967
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"06ef44bbc803a4b4102b98bb9da11586",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421197541,
+            "locality_id":1293326115,
+            "region_id":85669031
+        }
+    ],
+    "wof:id":1293326115,
+    "wof:lastmodified":1537018930,
+    "wof:name":"Manikdi",
+    "wof:parent_id":421197541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.41667,
+    23.91667,
+    89.41667,
+    23.91667
+],
+  "geometry": {"coordinates":[89.41667,23.91667],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1276161643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.92601,23.04641,90.92601,23.04641",
+    "geom:latitude":23.04641,
+    "geom:longitude":90.92601,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2075",
+    "gn:admin3_code":"207510.0",
+    "gn:admin4_code":"20751085.0",
+    "gn:asciiname":"Sahapur",
+    "gn:country_code":"BD",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1189251,
+    "gn:latitude":23.04641,
+    "gn:longitude":90.92601,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"S\u0101h\u0101pur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421177051
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1189251
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"476506157e3baffcae12162a42100c3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421177051,
+            "locality_id":1276161643,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1276161643,
+    "wof:lastmodified":1537008127,
+    "wof:name":"Sahapur",
+    "wof:parent_id":421177051,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.92601,
+    23.04641,
+    90.92601,
+    23.04641
+],
+  "geometry": {"coordinates":[90.92601000000001,23.04641],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1310642987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.99625,23.1557,90.99625,23.1557",
+    "geom:latitude":23.1557,
+    "geom:longitude":90.99625,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2013",
+    "gn:admin3_code":"201395.0",
+    "gn:admin4_code":"20139515.0",
+    "gn:asciiname":"Mohalla",
+    "gn:country_code":"BD",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1195638,
+    "gn:latitude":23.1557,
+    "gn:longitude":90.99625,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Mohalla",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mahalla"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        1108694669
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1195638
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"189fcf918aa5c5e12051d539eaa549d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":1108694669,
+            "locality_id":1310642987,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1310642987,
+    "wof:lastmodified":1537585893,
+    "wof:name":"Mohalla",
+    "wof:parent_id":1108694669,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.99625,
+    23.1557,
+    90.99625,
+    23.1557
+],
+  "geometry": {"coordinates":[90.99625,23.1557],"type":"Point"}
+}

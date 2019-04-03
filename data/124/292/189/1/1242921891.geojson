@@ -1,0 +1,73 @@
+{
+  "id": 1242921891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.96751,23.0194,90.96751,23.0194",
+    "geom:latitude":23.0194,
+    "geom:longitude":90.96751,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"2075",
+    "gn:admin3_code":"207510.0",
+    "gn:admin4_code":"20751028.0",
+    "gn:asciiname":"Mariadpura",
+    "gn:country_code":"BD",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1194786,
+    "gn:latitude":23.0194,
+    "gn:longitude":90.96751,
+    "gn:modification_date":"2016-11-09",
+    "gn:name":"Mariadpura",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dhaka",
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Marjy\u0101dp\u0101ra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421177051
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1194786
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"72a55cebde14dc2fb0347a07f11e9ea1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421177051,
+            "locality_id":1242921891,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1242921891,
+    "wof:lastmodified":1537585875,
+    "wof:name":"Mariadpura",
+    "wof:parent_id":421177051,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.96751,
+    23.0194,
+    90.96751,
+    23.0194
+],
+  "geometry": {"coordinates":[90.96751,23.0194],"type":"Point"}
+}
