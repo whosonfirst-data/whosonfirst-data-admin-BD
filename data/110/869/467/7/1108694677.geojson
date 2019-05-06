@@ -10,6 +10,12 @@
     "geom:latitude":22.574676,
     "geom:longitude":90.186137,
     "iso:country":"BD",
+    "label:eng_x_preferred_longname":[
+        "Jhalokati District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":22.559352,
     "lbl:longitude":90.139273,
     "meso:admin_1":"BARISAL",
@@ -121,7 +127,7 @@
         }
     ],
     "wof:id":1108694677,
-    "wof:lastmodified":1544032793,
+    "wof:lastmodified":1553718271,
     "wof:name":"Jhalokati",
     "wof:parent_id":85669019,
     "wof:placetype":"county",

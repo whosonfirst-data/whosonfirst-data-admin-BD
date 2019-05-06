@@ -10,6 +10,12 @@
     "geom:latitude":22.540117,
     "geom:longitude":90.001074,
     "iso:country":"BD",
+    "label:eng_x_preferred_longname":[
+        "Pirojpur District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":22.322182,
     "lbl:longitude":89.970315,
     "meso:admin_1":"BARISAL",
@@ -158,7 +164,7 @@
         }
     ],
     "wof:id":421172031,
-    "wof:lastmodified":1543954355,
+    "wof:lastmodified":1553717336,
     "wof:name":"Pirojpur",
     "wof:parent_id":85669019,
     "wof:placetype":"county",

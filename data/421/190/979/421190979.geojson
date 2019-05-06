@@ -10,6 +10,12 @@
     "geom:latitude":25.084321,
     "geom:longitude":90.078093,
     "iso:country":"BD",
+    "label:eng_x_preferred_longname":[
+        "Sherpur District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":25.078668,
     "lbl:longitude":90.078157,
     "meso:admin_1":"DHAKA",
@@ -102,7 +108,7 @@
         }
     ],
     "wof:id":421190979,
-    "wof:lastmodified":1543954358,
+    "wof:lastmodified":1553717495,
     "wof:name":"Sherpur",
     "wof:parent_id":1108803101,
     "wof:placetype":"county",

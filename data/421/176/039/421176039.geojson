@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.224027,
-    "geom:area_square_m":2548257631.385984,
+    "geom:area_square_m":2548257631.385668,
     "geom:bbox":"88.8479685923,22.792540882,89.5695803406,23.3753556768",
     "geom:latitude":23.087554,
     "geom:longitude":89.176665,
     "iso:country":"BD",
+    "label:eng_x_preferred_longname":[
+        "Jessore District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":23.099705,
     "lbl:longitude":89.201218,
     "meso:admin_1":"KHULNA",
@@ -163,7 +169,7 @@
         }
     ],
     "wof:id":421176039,
-    "wof:lastmodified":1553816365,
+    "wof:lastmodified":1555037135,
     "wof:name":"Jessore",
     "wof:parent_id":85669015,
     "wof:placetype":"county",

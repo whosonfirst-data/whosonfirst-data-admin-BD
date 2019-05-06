@@ -10,6 +10,12 @@
     "geom:latitude":22.184875,
     "geom:longitude":90.405824,
     "iso:country":"BD",
+    "label:eng_x_preferred_longname":[
+        "Patuakhali District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":22.319417,
     "lbl:longitude":90.305637,
     "meso:admin_1":"BARISAL",
@@ -151,7 +157,7 @@
         }
     ],
     "wof:id":421169845,
-    "wof:lastmodified":1544032796,
+    "wof:lastmodified":1553717307,
     "wof:name":"Patuakhali",
     "wof:parent_id":85669019,
     "wof:placetype":"county",

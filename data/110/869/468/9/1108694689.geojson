@@ -10,6 +10,12 @@
     "geom:latitude":23.438128,
     "geom:longitude":89.435223,
     "iso:country":"BD",
+    "label:eng_x_preferred_longname":[
+        "Magura District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":23.405385,
     "lbl:longitude":89.416036,
     "meso:admin_1":"KHULNA",
@@ -132,7 +138,7 @@
         }
     ],
     "wof:id":1108694689,
-    "wof:lastmodified":1544032794,
+    "wof:lastmodified":1553718271,
     "wof:name":"Magura",
     "wof:parent_id":85669015,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":23.485594,
     "geom:longitude":89.089155,
     "iso:country":"BD",
+    "label:eng_x_preferred_longname":[
+        "Jhenaidah District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":23.502088,
     "lbl:longitude":89.122619,
     "meso:admin_1":"KHULNA",
@@ -123,7 +129,7 @@
         }
     ],
     "wof:id":1108694679,
-    "wof:lastmodified":1544032794,
+    "wof:lastmodified":1553718271,
     "wof:name":"Jhenaidah",
     "wof:parent_id":85669015,
     "wof:placetype":"county",

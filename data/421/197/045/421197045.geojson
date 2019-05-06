@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.069087,
-    "geom:area_square_m":781985488.851699,
+    "geom:area_square_m":781985488.851735,
     "geom:bbox":"90.4317312686,23.5424051033,90.7578753321,23.9583159611",
     "geom:latitude":23.740226,
     "geom:longitude":90.575194,
     "iso:country":"BD",
+    "label:eng_x_preferred_longname":[
+        "Narayanganj District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":23.740956,
     "lbl:longitude":90.591329,
     "meso:admin_1":"DHAKA",
@@ -142,7 +148,7 @@
         }
     ],
     "wof:id":421197045,
-    "wof:lastmodified":1553816384,
+    "wof:lastmodified":1555037064,
     "wof:name":"Narayanganj",
     "wof:parent_id":85669009,
     "wof:placetype":"county",

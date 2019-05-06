@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.085095,
-    "geom:area_square_m":967662591.494847,
+    "geom:area_square_m":967662591.494867,
     "geom:bbox":"89.3769965977,22.9540203524,89.792496514,23.3144796434",
     "geom:latitude":23.126122,
     "geom:longitude":89.575191,
     "iso:country":"BD",
+    "label:eng_x_preferred_longname":[
+        "Narail District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":23.135178,
     "lbl:longitude":89.554773,
     "meso:admin_1":"KHULNA",
@@ -158,7 +164,7 @@
         }
     ],
     "wof:id":421205213,
-    "wof:lastmodified":1553816391,
+    "wof:lastmodified":1555037044,
     "wof:name":"Narail",
     "wof:parent_id":85669015,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":23.72497,
     "geom:longitude":89.56204,
     "iso:country":"BD",
+    "label:eng_x_preferred_longname":[
+        "Rajbari District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":23.708013,
     "lbl:longitude":89.557705,
     "meso:admin_1":"DHAKA",
@@ -126,7 +132,7 @@
         }
     ],
     "wof:id":1108694699,
-    "wof:lastmodified":1544032795,
+    "wof:lastmodified":1553718271,
     "wof:name":"Rajbari",
     "wof:parent_id":85669009,
     "wof:placetype":"county",

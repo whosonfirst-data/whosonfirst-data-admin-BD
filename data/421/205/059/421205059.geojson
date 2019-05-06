@@ -10,6 +10,12 @@
     "geom:latitude":23.527374,
     "geom:longitude":90.422476,
     "iso:country":"BD",
+    "label:eng_x_preferred_longname":[
+        "Munshiganj District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":23.539816,
     "lbl:longitude":90.337788,
     "meso:admin_1":"DHAKA",
@@ -156,7 +162,7 @@
         }
     ],
     "wof:id":421205059,
-    "wof:lastmodified":1543954361,
+    "wof:lastmodified":1553717584,
     "wof:name":"Munshiganj",
     "wof:parent_id":85669009,
     "wof:placetype":"county",

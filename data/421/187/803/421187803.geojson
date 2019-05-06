@@ -10,6 +10,12 @@
     "geom:latitude":23.797116,
     "geom:longitude":90.25571,
     "iso:country":"BD",
+    "label:eng_x_preferred_longname":[
+        "Dhaka District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":23.776703,
     "lbl:longitude":90.355745,
     "meso:admin_1":"DHAKA",
@@ -164,7 +170,7 @@
         }
     ],
     "wof:id":421187803,
-    "wof:lastmodified":1543954357,
+    "wof:lastmodified":1553717452,
     "wof:name":"Dhaka",
     "wof:parent_id":85669009,
     "wof:placetype":"county",

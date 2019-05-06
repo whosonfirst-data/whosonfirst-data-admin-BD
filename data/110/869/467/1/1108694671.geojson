@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.309938,
-    "geom:area_square_m":3455321240.102886,
+    "geom:area_square_m":3455321240.105085,
     "geom:bbox":"88.3823139034,25.2259670018,89.3045661825,26.0596574893",
     "geom:latitude":25.630539,
     "geom:longitude":88.787803,
     "iso:country":"BD",
+    "label:eng_x_preferred_longname":[
+        "Dinajpur District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":25.704775,
     "lbl:longitude":88.665902,
     "meso:admin_1":"RAJSHAHI",
@@ -132,7 +138,7 @@
         }
     ],
     "wof:id":1108694671,
-    "wof:lastmodified":1553816463,
+    "wof:lastmodified":1555037547,
     "wof:name":"Dinajpur",
     "wof:parent_id":85669035,
     "wof:placetype":"county",

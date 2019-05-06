@@ -10,6 +10,12 @@
     "geom:latitude":24.937672,
     "geom:longitude":91.347357,
     "iso:country":"BD",
+    "label:eng_x_preferred_longname":[
+        "Sunamganj District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":24.931003,
     "lbl:longitude":91.380189,
     "meso:admin_1":"SYLHET",
@@ -154,7 +160,7 @@
         }
     ],
     "wof:id":421201931,
-    "wof:lastmodified":1544032799,
+    "wof:lastmodified":1553717557,
     "wof:name":"Sunamganj",
     "wof:parent_id":85669025,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":24.37242,
     "geom:longitude":90.944409,
     "iso:country":"BD",
+    "label:eng_x_preferred_longname":[
+        "Kishoreganj District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":24.380134,
     "lbl:longitude":90.949524,
     "meso:admin_1":"DHAKA",
@@ -150,7 +156,7 @@
         }
     ],
     "wof:id":421170483,
-    "wof:lastmodified":1544032796,
+    "wof:lastmodified":1553717315,
     "wof:name":"Kishoreganj",
     "wof:parent_id":85669009,
     "wof:placetype":"county",

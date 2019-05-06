@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.20137,
-    "geom:area_square_m":2295177776.212173,
+    "geom:area_square_m":2295177776.212229,
     "geom:bbox":"90.0176828139,22.4543365328,90.6913942381,23.1004074051",
     "geom:latitude":22.813886,
     "geom:longitude":90.354914,
     "iso:country":"BD",
+    "label:eng_x_preferred_longname":[
+        "Barisal District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":22.875825,
     "lbl:longitude":90.217406,
     "meso:admin_1":"BARISAL",
@@ -216,7 +222,7 @@
         }
     ],
     "wof:id":421187745,
-    "wof:lastmodified":1553816376,
+    "wof:lastmodified":1555037096,
     "wof:name":"Barisal",
     "wof:parent_id":85669019,
     "wof:placetype":"county",

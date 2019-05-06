@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.170155,
-    "geom:area_square_m":1922818486.350594,
+    "geom:area_square_m":1922818486.350508,
     "geom:bbox":"90.7226827109,23.6456874023,91.3296280814,24.2692496916",
     "geom:latitude":23.95148,
     "geom:longitude":91.08545,
     "iso:country":"BD",
+    "label:eng_x_preferred_longname":[
+        "Brahamanbaria District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":23.944546,
     "lbl:longitude":91.106189,
     "meso:admin_1":"CHITTAGONG",
@@ -130,7 +136,7 @@
         }
     ],
     "wof:id":1108694667,
-    "wof:lastmodified":1553816463,
+    "wof:lastmodified":1555037548,
     "wof:name":"Brahamanbaria",
     "wof:parent_id":85669023,
     "wof:placetype":"county",

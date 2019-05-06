@@ -10,6 +10,12 @@
     "geom:latitude":24.973281,
     "geom:longitude":89.852393,
     "iso:country":"BD",
+    "label:eng_x_preferred_longname":[
+        "Jamalpur District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":24.901033,
     "lbl:longitude":89.808673,
     "meso:admin_1":"DHAKA",
@@ -166,7 +172,7 @@
         }
     ],
     "wof:id":421191923,
-    "wof:lastmodified":1544032798,
+    "wof:lastmodified":1553717510,
     "wof:name":"Jamalpur",
     "wof:parent_id":1108803101,
     "wof:placetype":"county",

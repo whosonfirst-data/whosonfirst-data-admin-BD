@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.307013,
-    "geom:area_square_m":3458397791.736623,
+    "geom:area_square_m":3458397791.737265,
     "geom:bbox":"89.7211235835,23.9608484916,90.3011766667,24.7912175422",
     "geom:latitude":24.355739,
     "geom:longitude":89.997683,
     "iso:country":"BD",
+    "label:eng_x_preferred_longname":[
+        "Tangail District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":24.352042,
     "lbl:longitude":90.003178,
     "meso:admin_1":"DHAKA",
@@ -141,7 +147,7 @@
         }
     ],
     "wof:id":421185471,
-    "wof:lastmodified":1553816375,
+    "wof:lastmodified":1555220346,
     "wof:name":"Tangail",
     "wof:parent_id":85669009,
     "wof:placetype":"county",

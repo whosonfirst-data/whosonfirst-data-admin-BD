@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.150271,
-    "geom:area_square_m":1698533954.740391,
+    "geom:area_square_m":1698533954.740834,
     "geom:bbox":"88.6975709474,23.6904541263,89.3703594737,24.2077340534",
     "geom:latitude":23.920633,
     "geom:longitude":89.035384,
@@ -13,6 +13,12 @@
     "gn:fcode":"ADM2",
     "gn:pop":1867660,
     "iso:country":"BD",
+    "label:eng_x_preferred_longname":[
+        "Kushtia District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":23.889446,
     "lbl:longitude":89.007253,
     "meso:admin_1":"KHULNA",
@@ -156,7 +162,7 @@
         }
     ],
     "wof:id":890438075,
-    "wof:lastmodified":1553816397,
+    "wof:lastmodified":1555037028,
     "wof:name":"Kushtia",
     "wof:parent_id":85669015,
     "wof:placetype":"county",

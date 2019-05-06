@@ -10,6 +10,12 @@
     "geom:latitude":25.099278,
     "geom:longitude":89.079656,
     "iso:country":"BD",
+    "label:eng_x_preferred_longname":[
+        "Joypurhat District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":25.126748,
     "lbl:longitude":89.093079,
     "meso:admin_1":"RAJSHAHI",
@@ -124,7 +130,7 @@
         }
     ],
     "wof:id":1108694681,
-    "wof:lastmodified":1544032794,
+    "wof:lastmodified":1553718271,
     "wof:name":"Joypurhat",
     "wof:parent_id":85669031,
     "wof:placetype":"county",

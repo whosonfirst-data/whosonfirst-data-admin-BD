@@ -10,6 +10,12 @@
     "geom:latitude":22.365789,
     "geom:longitude":89.741924,
     "iso:country":"BD",
+    "label:eng_x_preferred_longname":[
+        "Bagerhat District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":22.570643,
     "lbl:longitude":89.749147,
     "meso:admin_1":"KHULNA",
@@ -150,7 +156,7 @@
         }
     ],
     "wof:id":421187747,
-    "wof:lastmodified":1544032798,
+    "wof:lastmodified":1553717453,
     "wof:name":"Bagerhat",
     "wof:parent_id":85669015,
     "wof:placetype":"county",

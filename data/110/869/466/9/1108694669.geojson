@@ -10,6 +10,12 @@
     "geom:latitude":23.259668,
     "geom:longitude":90.753528,
     "iso:country":"BD",
+    "label:eng_x_preferred_longname":[
+        "Chandpur District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":23.265305,
     "lbl:longitude":90.753564,
     "meso:admin_1":"CHITTAGONG",
@@ -132,7 +138,7 @@
         }
     ],
     "wof:id":1108694669,
-    "wof:lastmodified":1544032793,
+    "wof:lastmodified":1553718270,
     "wof:name":"Chandpur",
     "wof:parent_id":85669023,
     "wof:placetype":"county",

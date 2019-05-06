@@ -10,6 +10,12 @@
     "geom:latitude":23.4354,
     "geom:longitude":91.036546,
     "iso:country":"BD",
+    "label:eng_x_preferred_longname":[
+        "Comilla District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":23.491632,
     "lbl:longitude":91.042175,
     "meso:admin_1":"CHITTAGONG",
@@ -170,7 +176,7 @@
         }
     ],
     "wof:id":421187801,
-    "wof:lastmodified":1543954357,
+    "wof:lastmodified":1553717452,
     "wof:name":"Comilla",
     "wof:parent_id":85669023,
     "wof:placetype":"county",

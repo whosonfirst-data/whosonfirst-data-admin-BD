@@ -10,6 +10,12 @@
     "geom:latitude":23.84059,
     "geom:longitude":89.954506,
     "iso:country":"BD",
+    "label:eng_x_preferred_longname":[
+        "Manikganj District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":23.836173,
     "lbl:longitude":89.958686,
     "meso:admin_1":"DHAKA",
@@ -151,7 +157,7 @@
         }
     ],
     "wof:id":421191745,
-    "wof:lastmodified":1544032798,
+    "wof:lastmodified":1553717510,
     "wof:name":"Manikganj",
     "wof:parent_id":85669009,
     "wof:placetype":"county",

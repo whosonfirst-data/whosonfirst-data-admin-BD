@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.116151,
-    "geom:area_square_m":1330328926.272932,
+    "geom:area_square_m":1330328926.273252,
     "geom:bbox":"89.9041354706,21.8593530227,90.3757090883,22.4833082228",
     "geom:latitude":22.139353,
     "geom:longitude":90.125978,
     "iso:country":"BD",
+    "label:eng_x_preferred_longname":[
+        "Barguna District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":22.185542,
     "lbl:longitude":90.136217,
     "meso:admin_1":"BARISAL",
@@ -174,7 +180,7 @@
         }
     ],
     "wof:id":421176043,
-    "wof:lastmodified":1553816365,
+    "wof:lastmodified":1555037135,
     "wof:name":"Barguna",
     "wof:parent_id":85669019,
     "wof:placetype":"county",

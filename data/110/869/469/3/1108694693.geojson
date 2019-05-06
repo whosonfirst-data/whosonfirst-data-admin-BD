@@ -10,6 +10,12 @@
     "geom:latitude":24.478355,
     "geom:longitude":91.916004,
     "iso:country":"BD",
+    "label:eng_x_preferred_longname":[
+        "Maulvibazar District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":24.481265,
     "lbl:longitude":91.858094,
     "meso:admin_1":"SYLHET",
@@ -136,7 +142,7 @@
         }
     ],
     "wof:id":1108694693,
-    "wof:lastmodified":1544032794,
+    "wof:lastmodified":1553718272,
     "wof:name":"Maulvibazar",
     "wof:parent_id":85669025,
     "wof:placetype":"county",

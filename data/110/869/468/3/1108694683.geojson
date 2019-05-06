@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.232994,
-    "geom:area_square_m":2648789704.578307,
+    "geom:area_square_m":2648789704.578032,
     "geom:bbox":"91.7127220978,22.6927329836,92.155284785,23.7340639899",
     "geom:latitude":23.161206,
     "geom:longitude":91.940585,
     "iso:country":"BD",
+    "label:eng_x_preferred_longname":[
+        "Khagrachhari District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":23.177845,
     "lbl:longitude":91.962337,
     "meso:admin_1":"CHITTAGONG",
@@ -136,7 +142,7 @@
         }
     ],
     "wof:id":1108694683,
-    "wof:lastmodified":1553816463,
+    "wof:lastmodified":1555037546,
     "wof:name":"Khagrachhari",
     "wof:parent_id":85669023,
     "wof:placetype":"county",

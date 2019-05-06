@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.125421,
-    "geom:area_square_m":1390488307.188669,
+    "geom:area_square_m":1390488307.18879,
     "geom:bbox":"88.3218084112,26.0061394393,88.7978956506,26.6341485697",
     "geom:latitude":26.285846,
     "geom:longitude":88.581092,
     "iso:country":"BD",
+    "label:eng_x_preferred_longname":[
+        "Panchagarh District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":26.283094,
     "lbl:longitude":88.604623,
     "meso:admin_1":"RAJSHAHI",
@@ -123,7 +129,7 @@
         }
     ],
     "wof:id":1108694697,
-    "wof:lastmodified":1553816463,
+    "wof:lastmodified":1555037545,
     "wof:name":"Panchagarh",
     "wof:parent_id":85669035,
     "wof:placetype":"county",

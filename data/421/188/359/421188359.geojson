@@ -10,6 +10,12 @@
     "geom:latitude":23.25659,
     "geom:longitude":90.411637,
     "iso:country":"BD",
+    "label:eng_x_preferred_longname":[
+        "Shariatpur District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":23.267008,
     "lbl:longitude":90.414774,
     "meso:admin_1":"DHAKA",
@@ -144,7 +150,7 @@
         }
     ],
     "wof:id":421188359,
-    "wof:lastmodified":1544032798,
+    "wof:lastmodified":1553717465,
     "wof:name":"Shariatpur",
     "wof:parent_id":85669009,
     "wof:placetype":"county",

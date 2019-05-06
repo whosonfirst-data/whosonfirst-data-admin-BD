@@ -10,6 +10,12 @@
     "geom:latitude":25.644848,
     "geom:longitude":89.240952,
     "iso:country":"BD",
+    "label:eng_x_preferred_longname":[
+        "Rangpur District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":25.683206,
     "lbl:longitude":89.245598,
     "meso:admin_1":"RAJSHAHI",
@@ -190,7 +196,7 @@
         }
     ],
     "wof:id":1108694701,
-    "wof:lastmodified":1544032795,
+    "wof:lastmodified":1553718272,
     "wof:name":"Rangpur",
     "wof:parent_id":85669035,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":22.699434,
     "geom:longitude":91.127201,
     "iso:country":"BD",
+    "label:eng_x_preferred_longname":[
+        "Noakhali District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":22.816467,
     "lbl:longitude":91.121505,
     "meso:admin_1":"CHITTAGONG",
@@ -165,7 +171,7 @@
         }
     ],
     "wof:id":421177051,
-    "wof:lastmodified":1544032797,
+    "wof:lastmodified":1553717366,
     "wof:name":"Noakhali",
     "wof:parent_id":85669023,
     "wof:placetype":"county",

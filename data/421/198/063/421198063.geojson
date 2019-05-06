@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.18279,
-    "geom:area_square_m":2073139268.319021,
+    "geom:area_square_m":2073139268.319088,
     "geom:bbox":"89.4893476081,23.2009252116,90.1877258097,23.7213016749",
     "geom:latitude":23.476046,
     "geom:longitude":89.837466,
     "iso:country":"BD",
+    "label:eng_x_preferred_longname":[
+        "Faridpur District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":23.493286,
     "lbl:longitude":89.866563,
     "meso:admin_1":"DHAKA",
@@ -160,7 +166,7 @@
         }
     ],
     "wof:id":421198063,
-    "wof:lastmodified":1553816385,
+    "wof:lastmodified":1555037063,
     "wof:name":"Faridpur",
     "wof:parent_id":85669009,
     "wof:placetype":"county",

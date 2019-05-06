@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.098665,
-    "geom:area_square_m":1121243110.552569,
+    "geom:area_square_m":1121243110.552334,
     "geom:bbox":"89.938014306,22.9631741547,90.3565692202,23.5069286881",
     "geom:latitude":23.213052,
     "geom:longitude":90.166401,
     "iso:country":"BD",
+    "label:eng_x_preferred_longname":[
+        "Madaripur District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":23.210765,
     "lbl:longitude":90.145943,
     "meso:admin_1":"DHAKA",
@@ -153,7 +159,7 @@
         }
     ],
     "wof:id":421183929,
-    "wof:lastmodified":1553816373,
+    "wof:lastmodified":1555037117,
     "wof:name":"Madaripur",
     "wof:parent_id":85669009,
     "wof:placetype":"county",

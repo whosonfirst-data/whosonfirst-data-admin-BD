@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.433646,
-    "geom:area_square_m":4978534461.426139,
+    "geom:area_square_m":4978534461.425696,
     "geom:bbox":"92.0367425309,21.1775276322,92.6834475685,22.3811967323",
     "geom:latitude":21.801541,
     "geom:longitude":92.347581,
     "iso:country":"BD",
+    "label:eng_x_preferred_longname":[
+        "Bandarban District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":21.724993,
     "lbl:longitude":92.379426,
     "meso:admin_1":"CHITTAGONG",
@@ -166,7 +172,7 @@
         }
     ],
     "wof:id":421169477,
-    "wof:lastmodified":1553816357,
+    "wof:lastmodified":1555037168,
     "wof:name":"Bandarban",
     "wof:parent_id":85669023,
     "wof:placetype":"county",

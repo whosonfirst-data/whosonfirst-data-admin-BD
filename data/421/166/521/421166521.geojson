@@ -10,6 +10,12 @@
     "geom:latitude":22.898848,
     "geom:longitude":90.853516,
     "iso:country":"BD",
+    "label:eng_x_preferred_longname":[
+        "Lakshmipur District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":22.913556,
     "lbl:longitude":90.854854,
     "meso:admin_1":"CHITTAGONG",
@@ -164,7 +170,7 @@
         }
     ],
     "wof:id":421166521,
-    "wof:lastmodified":1543954354,
+    "wof:lastmodified":1553717297,
     "wof:name":"Lakshmipur",
     "wof:parent_id":85669023,
     "wof:placetype":"county",

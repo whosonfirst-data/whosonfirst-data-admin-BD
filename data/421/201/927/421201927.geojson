@@ -10,6 +10,12 @@
     "geom:latitude":22.379203,
     "geom:longitude":89.139833,
     "iso:country":"BD",
+    "label:eng_x_preferred_longname":[
+        "Satkhira District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":22.588245,
     "lbl:longitude":89.102206,
     "meso:admin_1":"KHULNA",
@@ -157,7 +163,7 @@
         }
     ],
     "wof:id":421201927,
-    "wof:lastmodified":1544032799,
+    "wof:lastmodified":1553717558,
     "wof:name":"Satkhira",
     "wof:parent_id":85669015,
     "wof:placetype":"county",

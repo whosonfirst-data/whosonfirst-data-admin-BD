@@ -10,6 +10,12 @@
     "geom:latitude":25.298413,
     "geom:longitude":89.509023,
     "iso:country":"BD",
+    "label:eng_x_preferred_longname":[
+        "Gaibandha District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":25.297978,
     "lbl:longitude":89.528427,
     "meso:admin_1":"RAJSHAHI",
@@ -130,7 +136,7 @@
         }
     ],
     "wof:id":1108694675,
-    "wof:lastmodified":1544032793,
+    "wof:lastmodified":1553718271,
     "wof:name":"Gaibandha",
     "wof:parent_id":85669035,
     "wof:placetype":"county",

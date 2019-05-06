@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.16335,
-    "geom:area_square_m":1815569651.817222,
+    "geom:area_square_m":1815569651.816185,
     "geom:bbox":"88.0889990614,25.6673604444,88.6419329297,26.2141956023",
     "geom:latitude":25.990865,
     "geom:longitude":88.34777,
     "iso:country":"BD",
+    "label:eng_x_preferred_longname":[
+        "Thakurgaon District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":26.023484,
     "lbl:longitude":88.351909,
     "meso:admin_1":"RAJSHAHI",
@@ -120,7 +126,7 @@
         }
     ],
     "wof:id":1108694703,
-    "wof:lastmodified":1553816464,
+    "wof:lastmodified":1555037544,
     "wof:name":"Thakurgaon",
     "wof:parent_id":85669035,
     "wof:placetype":"county",

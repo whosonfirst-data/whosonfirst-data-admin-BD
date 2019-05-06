@@ -10,6 +10,12 @@
     "geom:latitude":21.481001,
     "geom:longitude":92.059699,
     "iso:country":"BD",
+    "label:eng_x_preferred_longname":[
+        "Cox's Bazar District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":21.771675,
     "lbl:longitude":91.995934,
     "meso:admin_1":"CHITTAGONG",
@@ -213,7 +219,7 @@
         }
     ],
     "wof:id":421205057,
-    "wof:lastmodified":1543954361,
+    "wof:lastmodified":1553717585,
     "wof:name":"Cox's Bazar",
     "wof:parent_id":85669023,
     "wof:placetype":"county",

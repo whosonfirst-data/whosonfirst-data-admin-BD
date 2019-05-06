@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.149008,
-    "geom:area_square_m":1681761657.770731,
+    "geom:area_square_m":1681761657.770659,
     "geom:bbox":"90.1515009463,23.8825443876,90.7004871817,24.3393089669",
     "geom:latitude":24.111209,
     "geom:longitude":90.449893,
     "iso:country":"BD",
+    "label:eng_x_preferred_longname":[
+        "Gazipur District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":24.126097,
     "lbl:longitude":90.472114,
     "meso:admin_1":"DHAKA",
@@ -147,7 +153,7 @@
         }
     ],
     "wof:id":421203493,
-    "wof:lastmodified":1553816389,
+    "wof:lastmodified":1555037050,
     "wof:name":"Gazipur",
     "wof:parent_id":85669009,
     "wof:placetype":"county",

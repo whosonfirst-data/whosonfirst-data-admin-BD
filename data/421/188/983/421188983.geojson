@@ -10,6 +10,12 @@
     "geom:latitude":22.84183,
     "geom:longitude":92.27501,
     "iso:country":"BD",
+    "label:eng_x_preferred_longname":[
+        "Rangamati District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":22.758512,
     "lbl:longitude":92.240249,
     "meso:admin_1":"CHITTAGONG",
@@ -179,7 +185,7 @@
         }
     ],
     "wof:id":421188983,
-    "wof:lastmodified":1544032798,
+    "wof:lastmodified":1553717482,
     "wof:name":"Rangamati",
     "wof:parent_id":85669023,
     "wof:placetype":"county",

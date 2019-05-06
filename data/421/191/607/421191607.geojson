@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.153333,
-    "geom:area_square_m":1722409025.474072,
+    "geom:area_square_m":1722409025.474108,
     "geom:bbox":"88.0114297575,24.3715730417,88.5115551149,24.9672400549",
     "geom:latitude":24.707833,
     "geom:longitude":88.268302,
     "iso:country":"BD",
+    "label:eng_x_preferred_longname":[
+        "Nawabganj District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":24.718373,
     "lbl:longitude":88.264515,
     "meso:admin_1":"RAJSHAHI",
@@ -160,7 +166,7 @@
         }
     ],
     "wof:id":421191607,
-    "wof:lastmodified":1553816379,
+    "wof:lastmodified":1555037079,
     "wof:name":"Nawabganj",
     "wof:parent_id":85669031,
     "wof:placetype":"county",

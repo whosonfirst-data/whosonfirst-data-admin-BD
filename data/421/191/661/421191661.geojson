@@ -10,6 +10,12 @@
     "geom:latitude":23.795527,
     "geom:longitude":88.711144,
     "iso:country":"BD",
+    "label:eng_x_preferred_longname":[
+        "Meherpur District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":23.781586,
     "lbl:longitude":88.699931,
     "meso:admin_1":"KHULNA",
@@ -161,7 +167,7 @@
         }
     ],
     "wof:id":421191661,
-    "wof:lastmodified":1543954358,
+    "wof:lastmodified":1553717507,
     "wof:name":"Meherpur",
     "wof:parent_id":85669015,
     "wof:placetype":"county",

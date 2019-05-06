@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.080291,
-    "geom:area_square_m":913899622.654531,
+    "geom:area_square_m":913899622.654347,
     "geom:bbox":"91.249575664,22.7507614037,91.5812339781,23.2844219711",
     "geom:latitude":22.997609,
     "geom:longitude":91.415453,
     "iso:country":"BD",
+    "label:eng_x_preferred_longname":[
+        "Feni District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":22.967411,
     "lbl:longitude":91.417968,
     "meso:admin_1":"CHITTAGONG",
@@ -167,7 +173,7 @@
         }
     ],
     "wof:id":421181771,
-    "wof:lastmodified":1553816371,
+    "wof:lastmodified":1555037127,
     "wof:name":"Feni",
     "wof:parent_id":85669023,
     "wof:placetype":"county",

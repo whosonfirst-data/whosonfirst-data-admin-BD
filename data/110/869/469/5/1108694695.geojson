@@ -10,6 +10,12 @@
     "geom:latitude":26.023697,
     "geom:longitude":88.940098,
     "iso:country":"BD",
+    "label:eng_x_preferred_longname":[
+        "Nilphamari District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":26.023883,
     "lbl:longitude":88.940117,
     "meso:admin_1":"RAJSHAHI",
@@ -123,7 +129,7 @@
         }
     ],
     "wof:id":1108694695,
-    "wof:lastmodified":1544032794,
+    "wof:lastmodified":1553718272,
     "wof:name":"Nilphamari",
     "wof:parent_id":85669035,
     "wof:placetype":"county",

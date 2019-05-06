@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.211908,
-    "geom:area_square_m":2384945618.956487,
+    "geom:area_square_m":2384945618.957357,
     "geom:bbox":"88.3038654247,24.119158812,88.9640682715,24.717188784",
     "geom:latitude":24.468378,
     "geom:longitude":88.656343,
     "iso:country":"BD",
+    "label:eng_x_preferred_longname":[
+        "Rajshahi District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":24.467282,
     "lbl:longitude":88.656286,
     "meso:admin_1":"RAJSHAHI",
@@ -210,7 +216,7 @@
         }
     ],
     "wof:id":421172439,
-    "wof:lastmodified":1553816363,
+    "wof:lastmodified":1555037143,
     "wof:name":"Rajshahi",
     "wof:parent_id":85669031,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":25.790748,
     "geom:longitude":89.698552,
     "iso:country":"BD",
+    "label:eng_x_preferred_longname":[
+        "Kurigram District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":25.760116,
     "lbl:longitude":89.677476,
     "meso:admin_1":"RAJSHAHI",
@@ -126,7 +132,7 @@
         }
     ],
     "wof:id":1108694685,
-    "wof:lastmodified":1544032794,
+    "wof:lastmodified":1553718272,
     "wof:name":"Kurigram",
     "wof:parent_id":85669035,
     "wof:placetype":"county",

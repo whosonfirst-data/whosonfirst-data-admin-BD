@@ -10,6 +10,12 @@
     "geom:latitude":22.465025,
     "geom:longitude":89.449582,
     "iso:country":"BD",
+    "label:eng_x_preferred_longname":[
+        "Khulna District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":22.609377,
     "lbl:longitude":89.41129,
     "meso:admin_1":"KHULNA",
@@ -155,7 +161,7 @@
         }
     ],
     "wof:id":421185473,
-    "wof:lastmodified":1543954357,
+    "wof:lastmodified":1553717438,
     "wof:name":"Khulna",
     "wof:parent_id":85669015,
     "wof:placetype":"county",

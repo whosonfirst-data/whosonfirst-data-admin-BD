@@ -10,6 +10,12 @@
     "geom:latitude":23.608071,
     "geom:longitude":88.849911,
     "iso:country":"BD",
+    "label:eng_x_preferred_longname":[
+        "Chuadanga District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":23.605977,
     "lbl:longitude":88.846985,
     "meso:admin_1":"KHULNA",
@@ -151,7 +157,7 @@
         }
     ],
     "wof:id":421194153,
-    "wof:lastmodified":1544032799,
+    "wof:lastmodified":1553717528,
     "wof:name":"Chuadanga",
     "wof:parent_id":85669015,
     "wof:placetype":"county",

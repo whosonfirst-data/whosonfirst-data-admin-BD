@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.110388,
-    "geom:area_square_m":1226164996.366886,
+    "geom:area_square_m":1226164996.366975,
     "geom:bbox":"88.9084583079,25.7901581838,89.5631061456,26.4575249855",
     "geom:latitude":26.063034,
     "geom:longitude":89.240018,
     "iso:country":"BD",
+    "label:eng_x_preferred_longname":[
+        "Lalmonirhat District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":26.041703,
     "lbl:longitude":89.184828,
     "meso:admin_1":"RAJSHAHI",
@@ -123,7 +129,7 @@
         }
     ],
     "wof:id":1108694687,
-    "wof:lastmodified":1553816463,
+    "wof:lastmodified":1555037546,
     "wof:name":"Lalmonirhat",
     "wof:parent_id":85669035,
     "wof:placetype":"county",
