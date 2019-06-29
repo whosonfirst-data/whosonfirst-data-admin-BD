@@ -38,12 +38,6 @@
     "name:bpy_x_preferred":[
         "\u09ae\u09be\u09a8\u09bf\u0995\u0997\u099e\u09cd\u099c \u099c\u09bf\u09b2\u09be"
     ],
-    "name:chi_x_preferred":[
-        "\u9a6c\u5c3c\u683c\u7518\u6770\u53bf"
-    ],
-    "name:dut_x_preferred":[
-        "Manikganj"
-    ],
     "name:eng_x_preferred":[
         "Manikganj"
     ],
@@ -53,7 +47,10 @@
         "Manikganj District",
         "MANIKGANJ"
     ],
-    "name:fre_x_preferred":[
+    "name:fas_x_preferred":[
+        "\u0646\u0627\u062d\u06cc\u0647 \u0645\u0646\u06cc\u06a9\u200c\u06af\u0646\u062c"
+    ],
+    "name:fra_x_preferred":[
         "Manikganj"
     ],
     "name:hin_x_preferred":[
@@ -68,8 +65,8 @@
     "name:kor_x_preferred":[
         "\ub9c8\ub2c8\uac00\ub2c8 \uc9c0\uad6c"
     ],
-    "name:per_x_preferred":[
-        "\u0646\u0627\u062d\u06cc\u0647 \u0645\u0646\u06cc\u06a9\u200c\u06af\u0646\u062c"
+    "name:nld_x_preferred":[
+        "Manikganj"
     ],
     "name:pnb_x_preferred":[
         "\u0636\u0644\u0639 \u0645\u0646\u06cc\u06a9\u06af\u0646\u062c"
@@ -97,6 +94,9 @@
     ],
     "name:war_x_preferred":[
         "Manikganj"
+    ],
+    "name:zho_x_preferred":[
+        "\u9a6c\u5c3c\u683c\u7518\u6770\u53bf"
     ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -157,7 +157,7 @@
         }
     ],
     "wof:id":421191745,
-    "wof:lastmodified":1553717510,
+    "wof:lastmodified":1561831135,
     "wof:name":"Manikganj",
     "wof:parent_id":85669009,
     "wof:placetype":"county",

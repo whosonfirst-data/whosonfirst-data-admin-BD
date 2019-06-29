@@ -37,11 +37,8 @@
     "name:bpy_x_preferred":[
         "\u099a\u09be\u0981\u09a6\u09aa\u09c1\u09b0 \u099c\u09bf\u09b2\u09be"
     ],
-    "name:chi_x_preferred":[
-        "\u5805\u5fb7\u5e03\u723e\u7e23"
-    ],
-    "name:dut_x_preferred":[
-        "Chanpur"
+    "name:deu_x_preferred":[
+        "Chandpur"
     ],
     "name:eng_x_preferred":[
         "Chandpur"
@@ -51,10 +48,10 @@
         "Chandpur District",
         "CHANDPUR"
     ],
-    "name:fre_x_preferred":[
-        "Chandpur"
+    "name:fas_x_preferred":[
+        "\u0646\u0627\u062d\u06cc\u0647 \u0686\u0627\u0646\u062f\u067e\u0648\u0631"
     ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Chandpur"
     ],
     "name:hin_x_preferred":[
@@ -69,8 +66,8 @@
     "name:mwl_x_preferred":[
         "Chandpur"
     ],
-    "name:per_x_preferred":[
-        "\u0646\u0627\u062d\u06cc\u0647 \u0686\u0627\u0646\u062f\u067e\u0648\u0631"
+    "name:nld_x_preferred":[
+        "Chanpur"
     ],
     "name:pnb_x_preferred":[
         "\u0636\u0644\u0639 \u0686\u0627\u0646\u062f\u067e\u0648\u0631"
@@ -101,6 +98,9 @@
     ],
     "name:war_x_preferred":[
         "Chandpur"
+    ],
+    "name:zho_x_preferred":[
+        "\u5805\u5fb7\u5e03\u723e\u7e23"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -138,7 +138,7 @@
         }
     ],
     "wof:id":1108694669,
-    "wof:lastmodified":1553718270,
+    "wof:lastmodified":1561831104,
     "wof:name":"Chandpur",
     "wof:parent_id":85669023,
     "wof:placetype":"county",

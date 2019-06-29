@@ -37,12 +37,6 @@
     "name:bpy_x_preferred":[
         "\u0995\u09c1\u09a1\u09bc\u09bf\u0997\u09cd\u09b0\u09be\u09ae \u099c\u09bf\u09b2\u09be"
     ],
-    "name:chi_x_preferred":[
-        "\u53e4\u91cc\u683c\u62c9\u59c6\u53bf"
-    ],
-    "name:dut_x_preferred":[
-        "Kurigram"
-    ],
     "name:eng_x_preferred":[
         "Kurigram"
     ],
@@ -51,7 +45,10 @@
         "Kurigram District",
         "KURIGRAM"
     ],
-    "name:fre_x_preferred":[
+    "name:fas_x_preferred":[
+        "\u0646\u0627\u062d\u06cc\u0647 \u06a9\u0648\u0631\u06cc\u06af\u0631\u0627\u0645"
+    ],
+    "name:fra_x_preferred":[
         "Kurigram"
     ],
     "name:hin_x_preferred":[
@@ -63,13 +60,13 @@
     "name:jpn_x_preferred":[
         "\u30af\u30ea\u30b0\u30e9\u30e0\u770c"
     ],
-    "name:per_x_preferred":[
-        "\u0646\u0627\u062d\u06cc\u0647 \u06a9\u0648\u0631\u06cc\u06af\u0631\u0627\u0645"
+    "name:nld_x_preferred":[
+        "Kurigram"
     ],
     "name:pnb_x_preferred":[
         "\u0636\u0644\u0639 \u06a9\u0691\u06cc\u06af\u0631\u0627\u0645"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Kurigram"
     ],
     "name:rus_x_preferred":[
@@ -95,6 +92,9 @@
     ],
     "name:war_x_preferred":[
         "Kurigram"
+    ],
+    "name:zho_x_preferred":[
+        "\u53e4\u91cc\u683c\u62c9\u59c6\u53bf"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -132,7 +132,7 @@
         }
     ],
     "wof:id":1108694685,
-    "wof:lastmodified":1553718272,
+    "wof:lastmodified":1561831104,
     "wof:name":"Kurigram",
     "wof:parent_id":85669035,
     "wof:placetype":"county",

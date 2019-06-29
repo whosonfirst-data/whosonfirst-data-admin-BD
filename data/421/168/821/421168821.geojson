@@ -14,14 +14,8 @@
     "mz:is_current":1,
     "mz:min_zoom":5.6,
     "mz:note":"quattroshapes points import (201603)",
-    "name:alb_x_preferred":[
-        "Rajshahi"
-    ],
     "name:ara_x_preferred":[
         "\u0631\u0627\u062c\u0634\u0627\u0647\u064a"
-    ],
-    "name:baq_x_preferred":[
-        "Rajshahi"
     ],
     "name:ben_x_preferred":[
         "\u09b0\u09be\u099c\u09b6\u09be\u09b9\u09c0"
@@ -33,35 +27,29 @@
     "name:cat_x_preferred":[
         "Rajshahi"
     ],
-    "name:chi_x_preferred":[
-        "\u62c9\u6770\u6c99\u5e0c\u5e02"
-    ],
     "name:dan_x_preferred":[
         "Rajshahi"
     ],
     "name:deu_x_preferred":[
         "Rajshahi"
     ],
-    "name:dut_x_preferred":[
-        "Rajshahi"
+    "name:ell_x_preferred":[
+        "\u03a1\u03b1\u03b6\u03c3\u03ac\u03c7\u03b9"
     ],
     "name:eng_x_preferred":[
         "Rajshahi"
     ],
+    "name:eus_x_preferred":[
+        "Rajshahi"
+    ],
+    "name:fas_x_preferred":[
+        "\u0631\u0627\u062c\u200c\u0634\u0627\u0647\u06cc"
+    ],
     "name:fin_x_preferred":[
         "Rajshahi"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "R\u00e2jsh\u00e2h\u00ee"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e0\u10d0\u10ef\u10e8\u10d0\u10f0\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Rajshahi"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a1\u03b1\u03b6\u03c3\u03ac\u03c7\u03b9"
     ],
     "name:guj_x_preferred":[
         "\u0ab0\u0abe\u0a9c\u0ab6\u0abe\u0ab9\u0ac0"
@@ -87,6 +75,9 @@
     "name:kan_x_preferred":[
         "\u0cb0\u0cbe\u0c9c\u0ccd\u0cb6\u0cbe\u0cb9\u0cbf"
     ],
+    "name:kat_x_preferred":[
+        "\u10e0\u10d0\u10ef\u10e8\u10d0\u10f0\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\ub77c\uc9c0\uc0e4\ud788"
     ],
@@ -99,13 +90,13 @@
     "name:mal_x_preferred":[
         "\u0d30\u0d3e\u0d1c\u0d4d\u0d37\u0d3e\u0d39\u0d3f"
     ],
-    "name:mao_x_preferred":[
-        "Rajshahi"
-    ],
     "name:mar_x_preferred":[
         "\u0930\u093e\u091c\u0936\u093e\u0939\u0940"
     ],
-    "name:may_x_preferred":[
+    "name:mri_x_preferred":[
+        "Rajshahi"
+    ],
+    "name:msa_x_preferred":[
         "Rajshahi"
     ],
     "name:nld_x_preferred":[
@@ -113,9 +104,6 @@
     ],
     "name:nob_x_preferred":[
         "Rajshahi"
-    ],
-    "name:per_x_preferred":[
-        "\u0631\u0627\u062c\u200c\u0634\u0627\u0647\u06cc"
     ],
     "name:pnb_x_preferred":[
         "\u0631\u0627\u062c\u0634\u0627\u06c1\u06cc"
@@ -126,7 +114,7 @@
     "name:por_x_preferred":[
         "Rajshahi"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Rajshahi"
     ],
     "name:rus_x_preferred":[
@@ -136,6 +124,9 @@
         "\u0dbb\u0da2\u0dca\u0dc1\u0dcf\u0dc4\u0dd2"
     ],
     "name:spa_x_preferred":[
+        "Rajshahi"
+    ],
+    "name:sqi_x_preferred":[
         "Rajshahi"
     ],
     "name:sun_x_preferred":[
@@ -170,6 +161,9 @@
     ],
     "name:war_x_preferred":[
         "Rajshahi"
+    ],
+    "name:zho_x_preferred":[
+        "\u62c9\u6770\u6c99\u5e0c\u5e02"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Bangladesh",
@@ -316,7 +310,7 @@
         }
     ],
     "wof:id":421168821,
-    "wof:lastmodified":1527716092,
+    "wof:lastmodified":1561831130,
     "wof:name":"Rajshahi",
     "wof:parent_id":421172439,
     "wof:placetype":"locality",

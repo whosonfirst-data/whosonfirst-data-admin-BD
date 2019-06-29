@@ -40,12 +40,6 @@
     "name:cat_x_preferred":[
         "Districte de Dinajpur"
     ],
-    "name:chi_x_preferred":[
-        "\u8fea\u7eb3\u6770\u5e03\u5c14\u53bf"
-    ],
-    "name:dut_x_preferred":[
-        "Dinajpur"
-    ],
     "name:eng_x_preferred":[
         "Dinajpur"
     ],
@@ -54,7 +48,10 @@
         "Dinajpur District",
         "DINAJPUR"
     ],
-    "name:fre_x_preferred":[
+    "name:fas_x_preferred":[
+        "\u0646\u0627\u062d\u06cc\u0647 \u062f\u06cc\u0646\u0627\u062c\u200c\u067e\u0648\u0631"
+    ],
+    "name:fra_x_preferred":[
         "Dinajpur"
     ],
     "name:hin_x_preferred":[
@@ -69,8 +66,8 @@
     "name:lit_x_preferred":[
         "Dinad\u017epuras"
     ],
-    "name:per_x_preferred":[
-        "\u0646\u0627\u062d\u06cc\u0647 \u062f\u06cc\u0646\u0627\u062c\u200c\u067e\u0648\u0631"
+    "name:nld_x_preferred":[
+        "Dinajpur"
     ],
     "name:pnb_x_preferred":[
         "\u062f\u06cc\u0646\u0627\u062c \u067e\u0648\u0631"
@@ -101,6 +98,9 @@
     ],
     "name:war_x_preferred":[
         "Dinajpur"
+    ],
+    "name:zho_x_preferred":[
+        "\u8fea\u7eb3\u6770\u5e03\u5c14\u53bf"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -138,7 +138,7 @@
         }
     ],
     "wof:id":1108694671,
-    "wof:lastmodified":1555037547,
+    "wof:lastmodified":1561831102,
     "wof:name":"Dinajpur",
     "wof:parent_id":85669035,
     "wof:placetype":"county",

@@ -40,11 +40,8 @@
     "name:cat_x_preferred":[
         "Divisi\u00f3 de Barisal"
     ],
-    "name:chi_x_preferred":[
-        "\u5df4\u91cc\u85a9\u723e\u5c08\u5340"
-    ],
-    "name:dut_x_preferred":[
-        "Barisal"
+    "name:deu_x_preferred":[
+        "Barishal"
     ],
     "name:eng_x_preferred":[
         "Barisal"
@@ -52,17 +49,17 @@
     "name:epo_x_preferred":[
         "Barizalo"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u0628\u0627\u0631\u06cc\u0633\u0627\u0644"
+    ],
     "name:fin_x_preferred":[
         "Barisalin alue"
     ],
     "name:fra_x_preferred":[
         "Baris\u00e2l"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "Barisal"
-    ],
-    "name:ger_x_preferred":[
-        "Barishal"
     ],
     "name:hin_x_preferred":[
         "\u092c\u093e\u0930\u0940\u0938\u093e\u0932 \u0909\u092a\u0915\u094d\u0937\u0947\u0924\u094d\u0930"
@@ -88,11 +85,11 @@
     "name:new_x_preferred":[
         "\u092c\u0930\u093f\u0936\u093e\u0932 \u0935\u093f\u092d\u093e\u0917"
     ],
-    "name:nob_x_preferred":[
+    "name:nld_x_preferred":[
         "Barisal"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u062a\u0627\u0646 \u0628\u0627\u0631\u06cc\u0633\u0627\u0644"
+    "name:nob_x_preferred":[
+        "Barisal"
     ],
     "name:pol_x_preferred":[
         "Barisal"
@@ -135,6 +132,9 @@
     ],
     "name:vie_x_preferred":[
         "Barisal"
+    ],
+    "name:zho_x_preferred":[
+        "\u5df4\u91cc\u85a9\u723e\u5c08\u5340"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"BGD",
@@ -259,7 +259,7 @@
     "wof:lang_x_spoken":[
         "ben"
     ],
-    "wof:lastmodified":1553550324,
+    "wof:lastmodified":1561831025,
     "wof:name":"Barisal",
     "wof:parent_id":85632475,
     "wof:placetype":"region",

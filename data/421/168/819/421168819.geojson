@@ -29,10 +29,7 @@
     "name:ceb_x_preferred":[
         "Sylhet"
     ],
-    "name:chi_x_preferred":[
-        "\u932b\u723e\u8d6b\u7279\u5e02"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Sylhet"
     ],
     "name:dan_x_preferred":[
@@ -41,8 +38,8 @@
     "name:deu_x_preferred":[
         "Sylhet"
     ],
-    "name:dut_x_preferred":[
-        "Sylhet"
+    "name:ell_x_preferred":[
+        "\u03a3\u03b9\u03bb\u03ad\u03c4"
     ],
     "name:eng_x_preferred":[
         "Sylhet"
@@ -61,15 +58,6 @@
     ],
     "name:fra_x_preferred":[
         "Sylhet"
-    ],
-    "name:fre_x_preferred":[
-        "Sylhet"
-    ],
-    "name:ger_x_preferred":[
-        "Sylhet"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a3\u03b9\u03bb\u03ad\u03c4"
     ],
     "name:guj_x_preferred":[
         "\u0ab8\u0abf\u0ab2\u0ab9\u0ac7\u0a9f"
@@ -110,22 +98,19 @@
     "name:lit_x_preferred":[
         "Silhatas"
     ],
-    "name:mac_x_preferred":[
-        "\u0421\u0438\u043b\u0445\u0435\u0442"
-    ],
     "name:mal_x_preferred":[
         "\u0d38\u0d3f\u0d7d\u0d39\u0d46\u0d31\u0d4d\u0d31\u0d4d"
-    ],
-    "name:mao_x_preferred":[
-        "Sylhet"
     ],
     "name:mar_x_preferred":[
         "\u0938\u093f\u0932\u0939\u091f"
     ],
-    "name:may_x_preferred":[
-        "Sylhet"
+    "name:mkd_x_preferred":[
+        "\u0421\u0438\u043b\u0445\u0435\u0442"
     ],
     "name:mri_x_preferred":[
+        "Sylhet"
+    ],
+    "name:msa_x_preferred":[
         "Sylhet"
     ],
     "name:nld_x_preferred":[
@@ -137,9 +122,6 @@
     "name:nor_x_preferred":[
         "Sylhet"
     ],
-    "name:per_x_preferred":[
-        "\u0633\u06cc\u0644\u062a"
-    ],
     "name:pnb_x_preferred":[
         "\u0633\u0644\u06c1\u0679"
     ],
@@ -150,9 +132,6 @@
         "Sylhet"
     ],
     "name:ron_x_preferred":[
-        "Sylhet"
-    ],
-    "name:rum_x_preferred":[
         "Sylhet"
     ],
     "name:rus_x_preferred":[
@@ -349,7 +328,7 @@
         }
     ],
     "wof:id":421168819,
-    "wof:lastmodified":1553816356,
+    "wof:lastmodified":1561831130,
     "wof:name":"Sylhet",
     "wof:parent_id":421187795,
     "wof:placetype":"locality",

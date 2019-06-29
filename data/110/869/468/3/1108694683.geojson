@@ -40,11 +40,8 @@
     "name:cat_x_preferred":[
         "Districte de Khagrachari"
     ],
-    "name:chi_x_preferred":[
-        "\u79d1\u683c\u62c9\u7126\u91cc\u7e23"
-    ],
-    "name:dut_x_preferred":[
-        "Khagrachari"
+    "name:deu_x_preferred":[
+        "Khagrachhari"
     ],
     "name:eng_x_preferred":[
         "Khagrachhari"
@@ -55,11 +52,11 @@
         "Khagrachari District",
         "KHAGRACHHARI"
     ],
-    "name:fre_x_preferred":[
-        "Khagrachari"
+    "name:fas_x_preferred":[
+        "\u0646\u0627\u062d\u06cc\u0647 \u06a9\u0627\u06af\u0631\u0627\u0686\u0627\u0631\u06cc"
     ],
-    "name:ger_x_preferred":[
-        "Khagrachhari"
+    "name:fra_x_preferred":[
+        "Khagrachari"
     ],
     "name:hin_x_preferred":[
         "\u0916\u0917\u094d\u0930\u091a\u093e\u0930\u0940 \u091c\u093f\u0932\u093e"
@@ -67,8 +64,8 @@
     "name:jpn_x_preferred":[
         "\u30ab\u30b0\u30e9\u30c1\u30e5\u30ea\u770c"
     ],
-    "name:per_x_preferred":[
-        "\u0646\u0627\u062d\u06cc\u0647 \u06a9\u0627\u06af\u0631\u0627\u0686\u0627\u0631\u06cc"
+    "name:nld_x_preferred":[
+        "Khagrachari"
     ],
     "name:pnb_x_preferred":[
         "\u0636\u0644\u0639 \u062e\u0627\u06af\u0631\u0627\u0686\u0627\u0631\u06cc"
@@ -79,7 +76,7 @@
     "name:por_x_preferred":[
         "Khagrachari"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Khagrachhari"
     ],
     "name:rus_x_preferred":[
@@ -105,6 +102,9 @@
     ],
     "name:vie_x_preferred":[
         "Huy\u1ec7n Khagrachari"
+    ],
+    "name:zho_x_preferred":[
+        "\u79d1\u683c\u62c9\u7126\u91cc\u7e23"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -142,7 +142,7 @@
         }
     ],
     "wof:id":1108694683,
-    "wof:lastmodified":1555037546,
+    "wof:lastmodified":1561831104,
     "wof:name":"Khagrachhari",
     "wof:parent_id":85669023,
     "wof:placetype":"county",

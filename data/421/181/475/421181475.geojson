@@ -26,22 +26,16 @@
     "name:che_x_preferred":[
         "\u041d\u0430\u0440\u0430\u044f\u043d\u0433\u0430\u043d\u0434\u0436"
     ],
-    "name:chi_x_preferred":[
-        "\u7eb3\u62c9\u626c\u7518\u6770\u5e02"
-    ],
     "name:dan_x_preferred":[
         "Narayanganj"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Narayanganj"
     ],
     "name:eng_x_preferred":[
         "Narayanganj"
     ],
-    "name:fre_x_preferred":[
-        "Narayanganj"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Narayanganj"
     ],
     "name:ind_x_preferred":[
@@ -65,13 +59,16 @@
     "name:mon_x_preferred":[
         "\u041d\u0430\u0440\u0430\u044f\u043d\u0433\u0430\u043d\u0436"
     ],
+    "name:nld_x_preferred":[
+        "Narayanganj"
+    ],
     "name:pol_x_preferred":[
         "Narajangond\u017ao"
     ],
     "name:por_x_preferred":[
         "Narayanganj"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Narayanganj"
     ],
     "name:rus_x_preferred":[
@@ -103,6 +100,9 @@
     ],
     "name:war_x_preferred":[
         "Narayanganj"
+    ],
+    "name:zho_x_preferred":[
+        "\u7eb3\u62c9\u626c\u7518\u6770\u5e02"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Bangladesh",
@@ -246,7 +246,7 @@
         }
     ],
     "wof:id":421181475,
-    "wof:lastmodified":1527716328,
+    "wof:lastmodified":1561831134,
     "wof:name":"Narayanganj",
     "wof:parent_id":421197045,
     "wof:placetype":"locality",

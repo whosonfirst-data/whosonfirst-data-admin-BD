@@ -23,7 +23,7 @@
     "name:cat_x_preferred":[
         "Jessore"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Jessore"
     ],
     "name:eng_x_preferred":[
@@ -32,10 +32,7 @@
     "name:fin_x_preferred":[
         "Jessore"
     ],
-    "name:fre_x_preferred":[
-        "Jessore"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Jessore"
     ],
     "name:ita_x_preferred":[
@@ -46,6 +43,9 @@
     ],
     "name:lit_x_preferred":[
         "D\u017eesoras"
+    ],
+    "name:nld_x_preferred":[
+        "Jessore"
     ],
     "name:nob_x_preferred":[
         "Jessore"
@@ -59,7 +59,7 @@
     "name:por_x_preferred":[
         "Jessore"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Jessore"
     ],
     "name:rus_x_preferred":[
@@ -210,7 +210,7 @@
         }
     ],
     "wof:id":421168849,
-    "wof:lastmodified":1553816356,
+    "wof:lastmodified":1561831130,
     "wof:name":"Jessore",
     "wof:parent_id":421176039,
     "wof:placetype":"locality",

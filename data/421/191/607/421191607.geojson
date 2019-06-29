@@ -41,8 +41,8 @@
     "name:cat_x_preferred":[
         "Nawabganj"
     ],
-    "name:chi_x_preferred":[
-        "\u8bfa\u74e6\u5e03\u7518\u6770\u53bf"
+    "name:deu_x_preferred":[
+        "Nawabganj"
     ],
     "name:eng_x_preferred":[
         "Nawabganj"
@@ -52,10 +52,10 @@
         "Chapai Nawabganj District",
         "NAWABGANJ"
     ],
-    "name:fre_x_preferred":[
-        "Nawabganj"
+    "name:fas_x_preferred":[
+        "\u0646\u0627\u062d\u06cc\u0647 \u0646\u0648\u0627\u0628\u200c\u06af\u0646\u062c"
     ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Nawabganj"
     ],
     "name:hin_x_preferred":[
@@ -75,9 +75,6 @@
     ],
     "name:nld_x_preferred":[
         "Nawabganj"
-    ],
-    "name:per_x_preferred":[
-        "\u0646\u0627\u062d\u06cc\u0647 \u0646\u0648\u0627\u0628\u200c\u06af\u0646\u062c"
     ],
     "name:pnb_x_preferred":[
         "\u0636\u0644\u0639 \u0646\u0648\u0627\u0628\u06af\u0646\u062c"
@@ -105,6 +102,9 @@
     ],
     "name:vie_x_preferred":[
         "Huy\u1ec7n Nawabganj"
+    ],
+    "name:zho_x_preferred":[
+        "\u8bfa\u74e6\u5e03\u7518\u6770\u53bf"
     ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -166,7 +166,7 @@
         }
     ],
     "wof:id":421191607,
-    "wof:lastmodified":1555037079,
+    "wof:lastmodified":1561831135,
     "wof:name":"Nawabganj",
     "wof:parent_id":85669031,
     "wof:placetype":"county",
