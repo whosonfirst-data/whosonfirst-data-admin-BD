@@ -22,8 +22,11 @@
     "name:dan_x_preferred":[
         "Brahmanbaria"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Brahmanbaria"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03c1\u03b1\u03c7\u03bc\u03b1\u03bd\u03bc\u03b1\u03c1\u03af\u03b1"
     ],
     "name:eng_x_preferred":[
         "Brahmanbaria"
@@ -31,14 +34,8 @@
     "name:fin_x_preferred":[
         "Brahmanbaria"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Brahmanbaria"
-    ],
-    "name:ger_x_preferred":[
-        "Brahmanbaria"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03c0\u03c1\u03b1\u03c7\u03bc\u03b1\u03bd\u03bc\u03b1\u03c1\u03af\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0aac\u0acd\u0ab0\u0ab9\u0acd\u0aae\u0aa8\u0aac\u0ab0\u0abf\u0aaf\u0abe"
@@ -70,7 +67,10 @@
     "name:mar_x_preferred":[
         "\u092c\u094d\u0930\u093e\u0939\u094d\u092e\u0923\u092c\u093e\u0930\u0940\u092f\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Brahmanbaria"
+    ],
+    "name:nld_x_preferred":[
         "Brahmanbaria"
     ],
     "name:nob_x_preferred":[
@@ -79,7 +79,7 @@
     "name:pol_x_preferred":[
         "Brahmanbaria"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Brahmanbaria"
     ],
     "name:rus_x_preferred":[
@@ -161,7 +161,7 @@
         }
     ],
     "wof:id":421177765,
-    "wof:lastmodified":1513898960,
+    "wof:lastmodified":1561831136,
     "wof:name":"Brahmanbaria",
     "wof:parent_id":1108694667,
     "wof:placetype":"locality",

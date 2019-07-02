@@ -38,12 +38,6 @@
     "name:bpy_x_preferred":[
         "\u0995\u09bf\u09b6\u09cb\u09b0\u0997\u099e\u09cd\u099c \u099c\u09bf\u09b2\u09be"
     ],
-    "name:chi_x_preferred":[
-        "\u5409\u7ecd\u5c14\u7518\u6770\u53bf"
-    ],
-    "name:dut_x_preferred":[
-        "Kishoreganj"
-    ],
     "name:eng_x_preferred":[
         "Kishoreganj"
     ],
@@ -52,7 +46,10 @@
         "Kishoreganj District",
         "KISHOREGANJ"
     ],
-    "name:fre_x_preferred":[
+    "name:fas_x_preferred":[
+        "\u0646\u0627\u062d\u06cc\u0647 \u06a9\u06cc\u0634\u0648\u0631\u06af\u0646\u062c"
+    ],
+    "name:fra_x_preferred":[
         "Kishoreganj"
     ],
     "name:hin_x_preferred":[
@@ -64,10 +61,10 @@
     "name:jpn_x_preferred":[
         "\u30ad\u30b7\u30e7\u30ec\u30ac\u30f3\u30b8\u30e5\u770c"
     ],
-    "name:per_x_preferred":[
-        "\u0646\u0627\u062d\u06cc\u0647 \u06a9\u06cc\u0634\u0648\u0631\u06af\u0646\u062c"
+    "name:nld_x_preferred":[
+        "Kishoreganj"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Kishoreganj"
     ],
     "name:rus_x_preferred":[
@@ -96,6 +93,9 @@
     ],
     "name:war_x_preferred":[
         "Kishorganj"
+    ],
+    "name:zho_x_preferred":[
+        "\u5409\u7ecd\u5c14\u7518\u6770\u53bf"
     ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -156,7 +156,7 @@
         }
     ],
     "wof:id":421170483,
-    "wof:lastmodified":1553717315,
+    "wof:lastmodified":1561831136,
     "wof:name":"Kishoreganj",
     "wof:parent_id":85669009,
     "wof:placetype":"county",

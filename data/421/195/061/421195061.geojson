@@ -22,10 +22,10 @@
     "name:cat_x_preferred":[
         "Ciutat mesquita de Bagerhat"
     ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Bagerhat"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Bagerhat"
     ],
     "name:eng_x_preferred":[
@@ -34,14 +34,8 @@
     "name:fin_x_preferred":[
         "Bagerhat"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Ville-mosqu\u00e9e historique de Bagerhat"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d1\u10d0\u10d2\u10d4\u10e0\u10f0\u10d0\u10d7\u10d8\u10e1 \u10db\u10d4\u10e9\u10d4\u10d7\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Bagerhat"
     ],
     "name:heb_x_preferred":[
         "\u05e2\u05d9\u05e8 \u05d4\u05de\u05e1\u05d2\u05d3\u05d9\u05dd \u05d1\u05d2\u05e8\u05d4\u05d0\u05d8"
@@ -58,17 +52,23 @@
     "name:jpn_x_preferred":[
         "\u30d0\u30b2\u30eb\u30cf\u30c3\u30c8\u306e\u30e2\u30b9\u30af\u90fd\u5e02"
     ],
+    "name:kat_x_preferred":[
+        "\u10d1\u10d0\u10d2\u10d4\u10e0\u10f0\u10d0\u10d7\u10d8\u10e1 \u10db\u10d4\u10e9\u10d4\u10d7\u10d8"
+    ],
     "name:mai_x_preferred":[
         "\u092c\u0917\u0947\u0930\u0939\u093e\u091f\u0915 \u0910\u0924\u093f\u0939\u093e\u0938\u093f\u0915 \u092e\u0938\u094d\u091c\u093f\u0926 \u0938\u0939\u0930"
-    ],
-    "name:may_x_preferred":[
-        "Masjid Kota Bagerhat"
     ],
     "name:mon_x_preferred":[
         "\u0411\u0430\u0433\u0435\u0440\u0430\u0442\u044b\u043d \u043b\u0430\u043b\u044b\u043d \u0441\u04af\u043c \u0445\u043e\u0442"
     ],
+    "name:msa_x_preferred":[
+        "Masjid Kota Bagerhat"
+    ],
     "name:nep_x_preferred":[
         "\u092c\u0917\u0947\u0930\u0939\u093e\u091f \u091c\u093f\u0932\u094d\u0932\u093e\u0915\u094b \u0910\u0924\u093f\u0939\u093e\u0938\u093f\u0915 \u092e\u0938\u094d\u091c\u093f\u0926 \u0938\u0939\u0930"
+    ],
+    "name:nld_x_preferred":[
+        "Bagerhat"
     ],
     "name:nob_x_preferred":[
         "Mosk\u00e9byen Bagerhat"
@@ -76,13 +76,13 @@
     "name:por_x_preferred":[
         "Cidade-mesquita hist\u00f3rica de Bagerhat"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Bagerhat"
     ],
     "name:rus_x_preferred":[
         "\u0411\u0430\u0433\u0435\u0440\u0445\u0430\u0442"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "B\u00e1gerh\u00e1t"
     ],
     "name:spa_x_preferred":[
@@ -154,7 +154,7 @@
         }
     ],
     "wof:id":421195061,
-    "wof:lastmodified":1513898939,
+    "wof:lastmodified":1561831131,
     "wof:name":"Bagerhat",
     "wof:parent_id":421187747,
     "wof:placetype":"locality",

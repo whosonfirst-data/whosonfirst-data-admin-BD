@@ -38,12 +38,6 @@
     "name:bpy_x_preferred":[
         "\u099a\u09c1\u09af\u09bc\u09be\u09a1\u09be\u0999\u09cd\u0997\u09be \u099c\u09bf\u09b2\u09be"
     ],
-    "name:chi_x_preferred":[
-        "\u6731\u74e6\u5f53\u52a0\u53bf"
-    ],
-    "name:dut_x_preferred":[
-        "Chuadanga"
-    ],
     "name:eng_x_preferred":[
         "Chuadanga"
     ],
@@ -53,7 +47,10 @@
         "Chuadanga District",
         "CHUADANGA"
     ],
-    "name:fre_x_preferred":[
+    "name:fas_x_preferred":[
+        "\u0646\u0627\u062d\u06cc\u0647 \u0686\u0648\u0627\u062f\u0646\u06af\u0647"
+    ],
+    "name:fra_x_preferred":[
         "Chuadanga"
     ],
     "name:hin_x_preferred":[
@@ -65,8 +62,8 @@
     "name:jpn_x_preferred":[
         "\u30c1\u30e5\u30a2\u30c0\u30f3\u30ac\u770c"
     ],
-    "name:per_x_preferred":[
-        "\u0646\u0627\u062d\u06cc\u0647 \u0686\u0648\u0627\u062f\u0646\u06af\u0647"
+    "name:nld_x_preferred":[
+        "Chuadanga"
     ],
     "name:pnb_x_preferred":[
         "\u0636\u0644\u0639 \u0686\u0648\u0627\u062f\u0627\u0646\u06af\u0627"
@@ -74,7 +71,7 @@
     "name:por_x_preferred":[
         "Chuadanga"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Chuadanga"
     ],
     "name:rus_x_preferred":[
@@ -97,6 +94,9 @@
     ],
     "name:war_x_preferred":[
         "Chuadanga"
+    ],
+    "name:zho_x_preferred":[
+        "\u6731\u74e6\u5f53\u52a0\u53bf"
     ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -157,7 +157,7 @@
         }
     ],
     "wof:id":421194153,
-    "wof:lastmodified":1553717528,
+    "wof:lastmodified":1561831131,
     "wof:name":"Chuadanga",
     "wof:parent_id":85669015,
     "wof:placetype":"county",

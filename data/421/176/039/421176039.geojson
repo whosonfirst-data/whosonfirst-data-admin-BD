@@ -44,10 +44,7 @@
     "name:cat_x_preferred":[
         "Districte de Jessore"
     ],
-    "name:chi_x_preferred":[
-        "\u6770\u7d22\u5c14\u53bf"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Jessore"
     ],
     "name:eng_x_preferred":[
@@ -58,10 +55,10 @@
         "JESSORE",
         "Jessore District"
     ],
-    "name:fre_x_preferred":[
-        "Jessore"
+    "name:fas_x_preferred":[
+        "\u0646\u0627\u062d\u06cc\u0647 \u062c\u0633\u0648\u0631"
     ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Jessore"
     ],
     "name:hin_x_preferred":[
@@ -73,8 +70,8 @@
     "name:jpn_x_preferred":[
         "\u30b8\u30e7\u30bd\u30fc\u30eb\u770c"
     ],
-    "name:per_x_preferred":[
-        "\u0646\u0627\u062d\u06cc\u0647 \u062c\u0633\u0648\u0631"
+    "name:nld_x_preferred":[
+        "Jessore"
     ],
     "name:pnb_x_preferred":[
         "\u062c\u06cc\u0633\u0648\u0631"
@@ -169,7 +166,7 @@
         }
     ],
     "wof:id":421176039,
-    "wof:lastmodified":1555037135,
+    "wof:lastmodified":1561831137,
     "wof:name":"Jessore",
     "wof:parent_id":85669015,
     "wof:placetype":"county",

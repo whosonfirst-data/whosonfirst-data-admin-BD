@@ -47,14 +47,14 @@
     "name:cat_x_preferred":[
         "Districte de Barisal"
     ],
-    "name:chi_x_preferred":[
-        "\u5df4\u91cc\u85a9\u723e\u7e23"
-    ],
     "name:dan_x_preferred":[
         "Barisal District"
     ],
-    "name:dut_x_preferred":[
-        "district Barisal"
+    "name:deu_x_preferred":[
+        "Barishal"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03ac\u03c1\u03b9\u03c3\u03b1\u03bb"
     ],
     "name:eng_x_preferred":[
         "Barisal"
@@ -64,17 +64,14 @@
         "Barisal District",
         "BARISAL"
     ],
+    "name:fas_x_preferred":[
+        "\u0646\u0627\u062d\u06cc\u0647 \u0628\u0627\u0631\u06cc\u0633\u0627\u0644"
+    ],
     "name:fin_x_preferred":[
         "Barisalin kaupunginosa"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Barisal"
-    ],
-    "name:ger_x_preferred":[
-        "Barishal"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03c0\u03ac\u03c1\u03b9\u03c3\u03b1\u03bb"
     ],
     "name:guj_x_preferred":[
         "\u0aac\u0abe\u0ab0\u0ac0\u0ab8\u0abe\u0ab2 \u0a9c\u0abf\u0ab2\u0acd\u0ab2\u0acb"
@@ -106,17 +103,17 @@
     "name:mar_x_preferred":[
         "\u092c\u0930\u0940\u0938\u0932 \u091c\u093f\u0932\u094d\u0939\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Daerah Barisal"
     ],
     "name:new_x_preferred":[
         "\u092c\u0930\u093f\u0936\u093e\u0932 \u091c\u093f\u0932\u094d\u0932\u093e"
     ],
+    "name:nld_x_preferred":[
+        "district Barisal"
+    ],
     "name:nob_x_preferred":[
         "Barisal distrikt"
-    ],
-    "name:per_x_preferred":[
-        "\u0646\u0627\u062d\u06cc\u0647 \u0628\u0627\u0631\u06cc\u0633\u0627\u0644"
     ],
     "name:pnb_x_preferred":[
         "\u0636\u0644\u0639 \u0628\u0627\u0631\u06cc\u0633\u0627\u0644"
@@ -162,6 +159,9 @@
     ],
     "name:vie_x_preferred":[
         "Huy\u1ec7n Barisal"
+    ],
+    "name:zho_x_preferred":[
+        "\u5df4\u91cc\u85a9\u723e\u7e23"
     ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -222,7 +222,7 @@
         }
     ],
     "wof:id":421187745,
-    "wof:lastmodified":1555037096,
+    "wof:lastmodified":1561831133,
     "wof:name":"Barisal",
     "wof:parent_id":85669019,
     "wof:placetype":"county",

@@ -43,17 +43,17 @@
     "name:cat_x_preferred":[
         "Divisi\u00f3 de Khulna"
     ],
-    "name:chi_x_preferred":[
-        "\u5eab\u723e\u7d0d\u5c08\u5340"
-    ],
     "name:dan_x_preferred":[
         "Khulna Division"
+    ],
+    "name:deu_x_preferred":[
+        "Khulna"
     ],
     "name:diq_x_preferred":[
         "Khulna"
     ],
-    "name:dut_x_preferred":[
-        "Khulna"
+    "name:ell_x_preferred":[
+        "\u039a\u03bf\u03cd\u03bb\u03bd\u03b1"
     ],
     "name:eng_x_preferred":[
         "Khulna"
@@ -61,20 +61,17 @@
     "name:epo_x_preferred":[
         "\u0124ulno"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u06a9\u0648\u0644\u0646\u0627"
+    ],
     "name:fin_x_preferred":[
         "Khulnan alue"
     ],
     "name:fra_x_preferred":[
         "Khuln\u00e2"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "Khulna"
-    ],
-    "name:ger_x_preferred":[
-        "Khulna"
-    ],
-    "name:gre_x_preferred":[
-        "\u039a\u03bf\u03cd\u03bb\u03bd\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0a96\u0ac1\u0ab2\u0acd\u0aa8\u0abe \u0aa1\u0ac0\u0aaa\u0abe\u0ab0\u0acd\u0a9f\u0aae\u0ac7\u0aa8\u0acd\u0a9f"
@@ -106,20 +103,20 @@
     "name:mar_x_preferred":[
         "\u0916\u0941\u0932\u094d\u0928\u093e \u0921\u093f\u0935\u0940\u091c\u0928"
     ],
-    "name:may_x_preferred":[
-        "Khulna Division"
-    ],
     "name:mon_x_preferred":[
         "\u041a\u0445\u0443\u043b\u043d\u0430 \u043c\u0443\u0436"
+    ],
+    "name:msa_x_preferred":[
+        "Khulna Division"
     ],
     "name:new_x_preferred":[
         "\u0916\u0941\u0932\u0928\u093e \u0935\u093f\u092d\u093e\u0917"
     ],
-    "name:nob_x_preferred":[
+    "name:nld_x_preferred":[
         "Khulna"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u062a\u0627\u0646 \u06a9\u0648\u0644\u0646\u0627"
+    "name:nob_x_preferred":[
+        "Khulna"
     ],
     "name:pol_x_preferred":[
         "Khulna"
@@ -174,6 +171,9 @@
     ],
     "name:vie_x_preferred":[
         "Khulna"
+    ],
+    "name:zho_x_preferred":[
+        "\u5eab\u723e\u7d0d\u5c08\u5340"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"BGD",
@@ -298,7 +298,7 @@
     "wof:lang_x_spoken":[
         "ben"
     ],
-    "wof:lastmodified":1553550360,
+    "wof:lastmodified":1561831027,
     "wof:name":"Khulna",
     "wof:parent_id":85632475,
     "wof:placetype":"region",

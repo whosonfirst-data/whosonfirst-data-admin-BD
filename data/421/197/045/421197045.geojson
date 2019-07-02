@@ -38,12 +38,6 @@
     "name:bpy_x_preferred":[
         "\u09a8\u09be\u09b0\u09be\u09af\u09bc\u09a8\u0997\u099e\u09cd\u099c \u099c\u09bf\u09b2\u09be"
     ],
-    "name:chi_x_preferred":[
-        "\u7eb3\u62c9\u626c\u7518\u6770\u53bf"
-    ],
-    "name:dut_x_preferred":[
-        "Narayanganj"
-    ],
     "name:eng_x_preferred":[
         "Narayanganj"
     ],
@@ -53,7 +47,10 @@
         "Narayanganj District",
         "NARAYANGANJ"
     ],
-    "name:fre_x_preferred":[
+    "name:fas_x_preferred":[
+        "\u0646\u0627\u062d\u06cc\u0647 \u0646\u0627\u0631\u0627\u06cc\u0646\u200c\u06af\u0646\u062c"
+    ],
+    "name:fra_x_preferred":[
         "Narayanganj"
     ],
     "name:hin_x_preferred":[
@@ -65,8 +62,8 @@
     "name:jpn_x_preferred":[
         "\u30ca\u30e9\u30e4\u30f3\u30ac\u30f3\u30b8\u30e5\u770c"
     ],
-    "name:per_x_preferred":[
-        "\u0646\u0627\u062d\u06cc\u0647 \u0646\u0627\u0631\u0627\u06cc\u0646\u200c\u06af\u0646\u062c"
+    "name:nld_x_preferred":[
+        "Narayanganj"
     ],
     "name:pnb_x_preferred":[
         "\u0636\u0644\u0639 \u0646\u0631\u06cc\u0627\u0646\u06af\u0646\u062c"
@@ -88,6 +85,9 @@
     ],
     "name:vie_x_preferred":[
         "Huy\u1ec7n Narayanganj"
+    ],
+    "name:zho_x_preferred":[
+        "\u7eb3\u62c9\u626c\u7518\u6770\u53bf"
     ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -148,7 +148,7 @@
         }
     ],
     "wof:id":421197045,
-    "wof:lastmodified":1555037064,
+    "wof:lastmodified":1561831135,
     "wof:name":"Narayanganj",
     "wof:parent_id":85669009,
     "wof:placetype":"county",

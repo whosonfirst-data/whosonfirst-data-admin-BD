@@ -38,10 +38,7 @@
     "name:bpy_x_preferred":[
         "\u09b9\u09ac\u09bf\u0997\u099e\u09cd\u099c \u099c\u09bf\u09b2\u09be"
     ],
-    "name:chi_x_preferred":[
-        "\u970d\u6bd4\u7518\u5091\u7e23"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Habiganj"
     ],
     "name:eng_x_preferred":[
@@ -56,13 +53,13 @@
     "name:epo_x_preferred":[
         "Distrikto Habiganj"
     ],
+    "name:fas_x_preferred":[
+        "\u0646\u0627\u062d\u06cc\u0647 \u0647\u0628\u06cc\u200c\u06af\u0646\u062c"
+    ],
     "name:fin_x_preferred":[
         "Habiganjin piirikunta"
     ],
-    "name:fre_x_preferred":[
-        "Habiganj"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Habiganj"
     ],
     "name:hin_x_preferred":[
@@ -74,8 +71,8 @@
     "name:jpn_x_preferred":[
         "\u30cf\u30d3\u30ac\u30f3\u30b8\u770c"
     ],
-    "name:per_x_preferred":[
-        "\u0646\u0627\u062d\u06cc\u0647 \u0647\u0628\u06cc\u200c\u06af\u0646\u062c"
+    "name:nld_x_preferred":[
+        "Habiganj"
     ],
     "name:pnb_x_preferred":[
         "\u0636\u0644\u0639 \u06c1\u0627\u0628\u06cc\u06af\u0646\u062c"
@@ -174,7 +171,7 @@
         }
     ],
     "wof:id":421176045,
-    "wof:lastmodified":1553717365,
+    "wof:lastmodified":1561831137,
     "wof:name":"Habiganj",
     "wof:parent_id":85669025,
     "wof:placetype":"county",

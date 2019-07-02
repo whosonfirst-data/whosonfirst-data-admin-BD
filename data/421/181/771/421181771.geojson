@@ -38,10 +38,7 @@
     "name:bpy_x_preferred":[
         "\u09ab\u09c7\u09a8\u09c0 \u099c\u09bf\u09b2\u09be"
     ],
-    "name:chi_x_preferred":[
-        "\u8cbb\u5c3c\u7e23"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Feni"
     ],
     "name:eng_x_preferred":[
@@ -52,10 +49,10 @@
         "FENI",
         "Feni District"
     ],
-    "name:fre_x_preferred":[
-        "Feni"
+    "name:fas_x_preferred":[
+        "\u0646\u0627\u062d\u06cc\u0647 \u0641\u0646\u06cc"
     ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Feni"
     ],
     "name:hin_x_preferred":[
@@ -70,8 +67,8 @@
     "name:new_x_preferred":[
         "\u092b\u0947\u0928\u0940 \u091c\u093f\u0932\u094d\u0932\u093e"
     ],
-    "name:per_x_preferred":[
-        "\u0646\u0627\u062d\u06cc\u0647 \u0641\u0646\u06cc"
+    "name:nld_x_preferred":[
+        "Feni"
     ],
     "name:pnb_x_preferred":[
         "\u0636\u0644\u0639 \u0641\u06cc\u0646\u06cc"
@@ -173,7 +170,7 @@
         }
     ],
     "wof:id":421181771,
-    "wof:lastmodified":1555037127,
+    "wof:lastmodified":1561831134,
     "wof:name":"Feni",
     "wof:parent_id":85669023,
     "wof:placetype":"county",

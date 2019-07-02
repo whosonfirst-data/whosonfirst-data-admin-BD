@@ -38,10 +38,7 @@
     "name:bpy_x_preferred":[
         "\u09a8\u09a1\u09bc\u09be\u0987\u09b2 \u099c\u09bf\u09b2\u09be"
     ],
-    "name:chi_x_preferred":[
-        "\u8bfa\u62c9\u5c14\u53bf"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Narail"
     ],
     "name:eng_x_preferred":[
@@ -52,10 +49,10 @@
         "NARAIL",
         "Narail District"
     ],
-    "name:fre_x_preferred":[
-        "Narail"
+    "name:fas_x_preferred":[
+        "\u0646\u0627\u062d\u06cc\u0647 \u0646\u0627\u0631\u06cc\u0644"
     ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Narail"
     ],
     "name:hin_x_preferred":[
@@ -67,8 +64,8 @@
     "name:jpn_x_preferred":[
         "\u30ca\u30e9\u30a4\u30eb\u770c"
     ],
-    "name:per_x_preferred":[
-        "\u0646\u0627\u062d\u06cc\u0647 \u0646\u0627\u0631\u06cc\u0644"
+    "name:nld_x_preferred":[
+        "Narail"
     ],
     "name:pnb_x_preferred":[
         "\u0636\u0644\u0639 \u0646\u0627\u0631\u0627\u0626\u0644"
@@ -76,7 +73,7 @@
     "name:por_x_preferred":[
         "Narail"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Narail"
     ],
     "name:rus_x_preferred":[
@@ -102,6 +99,9 @@
     ],
     "name:vie_x_preferred":[
         "Huy\u1ec7n Narail"
+    ],
+    "name:zho_x_preferred":[
+        "\u8bfa\u62c9\u5c14\u53bf"
     ],
     "qs:gn_country":"BD",
     "qs:gn_fcode":"ADM2",
@@ -164,7 +164,7 @@
         }
     ],
     "wof:id":421205213,
-    "wof:lastmodified":1555037044,
+    "wof:lastmodified":1561831132,
     "wof:name":"Narail",
     "wof:parent_id":85669015,
     "wof:placetype":"county",

@@ -38,12 +38,6 @@
     "name:bpy_x_preferred":[
         "\u09a8\u09c7\u09a4\u09cd\u09b0\u0995\u09cb\u09a8\u09be \u099c\u09bf\u09b2\u09be"
     ],
-    "name:chi_x_preferred":[
-        "\u5185\u5fb7\u7f57\u6208\u7eb3\u53bf"
-    ],
-    "name:dut_x_preferred":[
-        "Netrakona"
-    ],
     "name:eng_x_preferred":[
         "Netrakona"
     ],
@@ -53,7 +47,10 @@
         "NETRAKONA",
         "Netrakona District"
     ],
-    "name:fre_x_preferred":[
+    "name:fas_x_preferred":[
+        "\u0646\u0627\u062d\u06cc\u0647 \u0646\u062a\u0631\u0648\u06a9\u0648\u0646\u0647"
+    ],
+    "name:fra_x_preferred":[
         "Netrokona"
     ],
     "name:hin_x_preferred":[
@@ -65,8 +62,8 @@
     "name:jpn_x_preferred":[
         "\u30cd\u30c8\u30e9\u30b3\u30bf\u770c"
     ],
-    "name:per_x_preferred":[
-        "\u0646\u0627\u062d\u06cc\u0647 \u0646\u062a\u0631\u0648\u06a9\u0648\u0646\u0647"
+    "name:nld_x_preferred":[
+        "Netrakona"
     ],
     "name:pnb_x_preferred":[
         "\u0636\u0644\u0639 \u0646\u06cc\u0679\u0631\u0648\u06a9\u0648\u0646\u0627"
@@ -74,7 +71,7 @@
     "name:pol_x_preferred":[
         "dystrykt Netrokona"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Netrokona"
     ],
     "name:rus_x_preferred":[
@@ -103,6 +100,9 @@
     ],
     "name:vie_x_preferred":[
         "Huy\u1ec7n Netrakona"
+    ],
+    "name:zho_x_preferred":[
+        "\u5185\u5fb7\u7f57\u6208\u7eb3\u53bf"
     ],
     "qs:gn_country":"BD",
     "qs:gn_fcode":"ADM2",
@@ -165,7 +165,7 @@
         }
     ],
     "wof:id":421200811,
-    "wof:lastmodified":1553717552,
+    "wof:lastmodified":1561831135,
     "wof:name":"Netrakona",
     "wof:parent_id":1108803101,
     "wof:placetype":"county",

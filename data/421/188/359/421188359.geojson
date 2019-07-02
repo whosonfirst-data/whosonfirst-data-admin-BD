@@ -38,12 +38,6 @@
     "name:bpy_x_preferred":[
         "\u09b6\u09b0\u09bf\u09af\u09bc\u09a4\u09aa\u09c1\u09b0 \u099c\u09bf\u09b2\u09be"
     ],
-    "name:chi_x_preferred":[
-        "\u6c99\u91cc\u4e9a\u5fb7\u5e03\u5c14\u53bf"
-    ],
-    "name:dut_x_preferred":[
-        "Shariatpur"
-    ],
     "name:eng_x_preferred":[
         "Shariatpur"
     ],
@@ -52,7 +46,10 @@
         "Shariatpur District",
         "SHARIATPUR"
     ],
-    "name:fre_x_preferred":[
+    "name:fas_x_preferred":[
+        "\u0646\u0627\u062d\u06cc\u0647 \u0634\u0631\u06cc\u0639\u062a\u200c\u067e\u0648\u0631"
+    ],
+    "name:fra_x_preferred":[
         "Shariatpur"
     ],
     "name:hin_x_preferred":[
@@ -61,13 +58,13 @@
     "name:jpn_x_preferred":[
         "\u30b7\u30e3\u30ea\u30a2\u30c8\u30d7\u30eb\u770c"
     ],
-    "name:per_x_preferred":[
-        "\u0646\u0627\u062d\u06cc\u0647 \u0634\u0631\u06cc\u0639\u062a\u200c\u067e\u0648\u0631"
+    "name:nld_x_preferred":[
+        "Shariatpur"
     ],
     "name:pnb_x_preferred":[
         "\u0636\u0644\u0639 \u0634\u0631\u0627\u06cc\u062a\u067e\u0648\u0631"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Shariatpur"
     ],
     "name:rus_x_preferred":[
@@ -90,6 +87,9 @@
     ],
     "name:vie_x_preferred":[
         "Huy\u1ec7n Shariatpur"
+    ],
+    "name:zho_x_preferred":[
+        "\u6c99\u91cc\u4e9a\u5fb7\u5e03\u5c14\u53bf"
     ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -150,7 +150,7 @@
         }
     ],
     "wof:id":421188359,
-    "wof:lastmodified":1553717465,
+    "wof:lastmodified":1561831133,
     "wof:name":"Shariatpur",
     "wof:parent_id":85669009,
     "wof:placetype":"county",

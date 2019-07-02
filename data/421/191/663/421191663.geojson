@@ -42,9 +42,6 @@
     "name:bpy_x_preferred":[
         "\u09a8\u0993\u0997\u09be\u0981 \u099c\u09bf\u09b2\u09be"
     ],
-    "name:chi_x_preferred":[
-        "\u7459\u5188\u53bf"
-    ],
     "name:eng_x_preferred":[
         "Naogaon"
     ],
@@ -53,7 +50,10 @@
         "NAOGAON",
         "Naogaon District"
     ],
-    "name:fre_x_preferred":[
+    "name:fas_x_preferred":[
+        "\u0646\u0627\u062d\u06cc\u0647 \u0646\u0648\u06af\u0627\u0646"
+    ],
+    "name:fra_x_preferred":[
         "Naogaon"
     ],
     "name:ita_x_preferred":[
@@ -61,9 +61,6 @@
     ],
     "name:jpn_x_preferred":[
         "\u30ca\u30aa\u30ac\u30aa\u30f3\u770c"
-    ],
-    "name:per_x_preferred":[
-        "\u0646\u0627\u062d\u06cc\u0647 \u0646\u0648\u06af\u0627\u0646"
     ],
     "name:pnb_x_preferred":[
         "\u0636\u0644\u0639 \u0646\u0627\u0648\u06af\u0627\u0648\u0646"
@@ -74,7 +71,7 @@
     "name:por_x_preferred":[
         "Naogaon"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Naogaon"
     ],
     "name:rus_x_preferred":[
@@ -97,6 +94,9 @@
     ],
     "name:vie_x_preferred":[
         "Huy\u1ec7n Naogaon"
+    ],
+    "name:zho_x_preferred":[
+        "\u7459\u5188\u53bf"
     ],
     "qs:gn_country":"BD",
     "qs:gn_fcode":"ADM2",
@@ -159,7 +159,7 @@
         }
     ],
     "wof:id":421191663,
-    "wof:lastmodified":1553717505,
+    "wof:lastmodified":1561831134,
     "wof:name":"Naogaon",
     "wof:parent_id":85669031,
     "wof:placetype":"county",

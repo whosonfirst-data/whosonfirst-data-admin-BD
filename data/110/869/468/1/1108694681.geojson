@@ -37,9 +37,6 @@
     "name:bpy_x_preferred":[
         "\u099c\u09af\u09bc\u09aa\u09c1\u09b0\u09b9\u09be\u099f \u099c\u09bf\u09b2\u09be"
     ],
-    "name:chi_x_preferred":[
-        "\u7126\u4f0a\u5e03\u5c14\u54c8\u5fb7\u53bf"
-    ],
     "name:eng_x_preferred":[
         "Joypurhat"
     ],
@@ -49,7 +46,10 @@
         "Joypurhat District",
         "JOYPURHAT"
     ],
-    "name:fre_x_preferred":[
+    "name:fas_x_preferred":[
+        "\u0646\u0627\u062d\u06cc\u0647 \u062c\u0627\u06cc\u067e\u0648\u0631\u0647\u0627\u062a"
+    ],
+    "name:fra_x_preferred":[
         "Jaipurhat"
     ],
     "name:hin_x_preferred":[
@@ -61,13 +61,10 @@
     "name:jpn_x_preferred":[
         "\u30b8\u30e7\u30a4\u30d7\u30fc\u30eb\u30cf\u30c3\u30c8\u770c"
     ],
-    "name:per_x_preferred":[
-        "\u0646\u0627\u062d\u06cc\u0647 \u062c\u0627\u06cc\u067e\u0648\u0631\u0647\u0627\u062a"
-    ],
     "name:pnb_x_preferred":[
         "\u0636\u0644\u0639 \u062c\u06cc\u067e\u0648\u0631\u06c1\u0679"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Joypurhat"
     ],
     "name:rus_x_preferred":[
@@ -93,6 +90,9 @@
     ],
     "name:war_x_preferred":[
         "Joypurhat"
+    ],
+    "name:zho_x_preferred":[
+        "\u7126\u4f0a\u5e03\u5c14\u54c8\u5fb7\u53bf"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -130,7 +130,7 @@
         }
     ],
     "wof:id":1108694681,
-    "wof:lastmodified":1553718271,
+    "wof:lastmodified":1561831104,
     "wof:name":"Joypurhat",
     "wof:parent_id":85669031,
     "wof:placetype":"county",
