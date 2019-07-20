@@ -37,6 +37,9 @@
     "name:bpy_x_preferred":[
         "\u09ae\u09cc\u09b2\u09ad\u09c0\u09ac\u09be\u099c\u09be\u09b0 \u099c\u09bf\u09b2\u09be"
     ],
+    "name:ceb_x_preferred":[
+        "Maulvibazar"
+    ],
     "name:deu_x_preferred":[
         "Moulvibazar"
     ],
@@ -44,10 +47,10 @@
         "Maulvibazar"
     ],
     "name:eng_x_variant":[
-        "Maulvibazar",
         "Moulvibazar",
         "Maulvi Bazar District",
-        "MAULVIBAZAR"
+        "MAULVIBAZAR",
+        "Moulvibazar District"
     ],
     "name:fas_x_preferred":[
         "\u0646\u0627\u062d\u06cc\u0647 \u0645\u0648\u0644\u0648\u06cc\u200c\u0628\u0627\u0632\u0627\u0631"
@@ -66,6 +69,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30de\u30a6\u30eb\u30d3\u30d0\u30b6\u30fc\u30eb\u770c"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d2e\u0d57\u0d7d\u0d35\u0d3f\u0d2c\u0d3e\u0d38\u0d7c \u0d1c\u0d3f\u0d32\u0d4d\u0d32"
     ],
     "name:nld_x_preferred":[
         "Maulvi Bazar"
@@ -93,6 +99,9 @@
     ],
     "name:tam_x_preferred":[
         "\u0bae\u0bcc\u0bb2\u0bbf\u0baa\u0b9c\u0bbe\u0bb0\u0bcd \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0bae\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c2e\u0c4c\u0c32\u0c4d\u0c35\u0c3f\u0c2c\u0c3e\u0c1c\u0c30\u0c4d \u0c1c\u0c3f\u0c32\u0c4d\u0c32\u0c3e"
     ],
     "name:ukr_x_preferred":[
         "\u041c\u0430\u0443\u043b\u0432\u0456\u0431\u0430\u0437\u0430\u0440"
@@ -142,7 +151,7 @@
         }
     ],
     "wof:id":1108694693,
-    "wof:lastmodified":1561831103,
+    "wof:lastmodified":1563583266,
     "wof:name":"Maulvibazar",
     "wof:parent_id":85669025,
     "wof:placetype":"county",

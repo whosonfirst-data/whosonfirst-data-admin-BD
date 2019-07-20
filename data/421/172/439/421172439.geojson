@@ -44,6 +44,9 @@
     "name:cat_x_preferred":[
         "Districte de Rajshahi"
     ],
+    "name:ceb_x_preferred":[
+        "Rajshahi"
+    ],
     "name:dan_x_preferred":[
         "Rajshahi District"
     ],
@@ -57,7 +60,6 @@
         "Rajshahi"
     ],
     "name:eng_x_variant":[
-        "Rajshahi",
         "Rajshahi District",
         "RAJSHAHI"
     ],
@@ -97,6 +99,9 @@
     "name:lit_x_preferred":[
         "Rad\u017e\u0161achio apskritis"
     ],
+    "name:mal_x_preferred":[
+        "\u0d30\u0d3e\u0d1c\u0d4d\u0d37\u0d3e\u0d39\u0d3f \u0d1c\u0d3f\u0d32\u0d4d\u0d32"
+    ],
     "name:mar_x_preferred":[
         "\u0930\u093e\u091c\u0936\u093e\u0939\u0940 \u091c\u093f\u0932\u094d\u0939\u093e"
     ],
@@ -108,6 +113,9 @@
     ],
     "name:nob_x_preferred":[
         "Rajshahi distrikt"
+    ],
+    "name:ori_x_preferred":[
+        "\u0b30\u0b3e\u0b1c\u0b38\u0b3e\u0b39\u0b40 \u0b1c\u0b3f\u0b32\u0b4d\u0b32\u0b3e"
     ],
     "name:pnb_x_preferred":[
         "\u0636\u0644\u0639 \u0631\u0627\u062c\u0634\u0627\u06c1\u06cc"
@@ -216,7 +224,7 @@
         }
     ],
     "wof:id":421172439,
-    "wof:lastmodified":1561831133,
+    "wof:lastmodified":1563584374,
     "wof:name":"Rajshahi",
     "wof:parent_id":85669031,
     "wof:placetype":"county",

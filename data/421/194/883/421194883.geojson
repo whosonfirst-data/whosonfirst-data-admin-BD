@@ -25,6 +25,12 @@
     "name:cym_x_preferred":[
         "Naya Bazaar"
     ],
+    "name:eng_x_preferred":[
+        "Nayabazar"
+    ],
+    "name:fra_x_preferred":[
+        "Nayabazar"
+    ],
     "name:ita_x_preferred":[
         "Nayabazar"
     ],
@@ -33,6 +39,12 @@
     ],
     "name:new_x_preferred":[
         "\u0928\u092f\u093e\u092c\u091c\u093e\u0930"
+    ],
+    "name:nld_x_preferred":[
+        "Nayabazar"
+    ],
+    "name:ori_x_preferred":[
+        "\u0b28\u0b5f\u0b3e\u0b2c\u0b1c\u0b3e\u0b30"
     ],
     "name:por_x_preferred":[
         "Nayabazar"
@@ -102,7 +114,7 @@
         }
     ],
     "wof:id":421194883,
-    "wof:lastmodified":1527716134,
+    "wof:lastmodified":1563584350,
     "wof:name":"Nayabazar",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

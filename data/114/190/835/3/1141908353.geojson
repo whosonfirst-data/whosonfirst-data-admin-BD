@@ -17,11 +17,17 @@
     "name:ben_x_preferred":[
         "\u09b8\u09c8\u09af\u09bc\u09a6\u09aa\u09c1\u09b0"
     ],
+    "name:ceb_x_preferred":[
+        "Saidpur"
+    ],
     "name:eng_x_preferred":[
         "Saidpur"
     ],
     "name:fra_x_preferred":[
         "Saiyadpur"
+    ],
+    "name:hin_x_preferred":[
+        "\u0938\u0948\u0926\u092a\u0941\u0930"
     ],
     "name:ita_x_preferred":[
         "Saidpur"
@@ -49,6 +55,9 @@
     ],
     "name:war_x_preferred":[
         "Saidpur"
+    ],
+    "name:zho_x_preferred":[
+        "\u8d5b\u4e49\u5fb7\u5e03\u5c14\u5e02"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Bangladesh",
@@ -169,7 +178,7 @@
         }
     ],
     "wof:id":1141908353,
-    "wof:lastmodified":1561831206,
+    "wof:lastmodified":1563586607,
     "wof:name":"Saidpur",
     "wof:parent_id":1108694701,
     "wof:placetype":"locality",

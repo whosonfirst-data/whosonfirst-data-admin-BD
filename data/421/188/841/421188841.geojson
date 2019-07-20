@@ -16,6 +16,12 @@
     "name:ben_x_preferred":[
         "Naktara"
     ],
+    "name:eng_x_preferred":[
+        "Naktala"
+    ],
+    "name:nld_x_preferred":[
+        "Naktala"
+    ],
     "qs:gn_country":"BD",
     "qs:gn_fcode":"PPL",
     "qs:gn_id":7485842,
@@ -37,10 +43,10 @@
     "src:geom":"quattroshapes",
     "wd:wordcount":467,
     "wof:belongsto":[
+        85669015,
         102191569,
         85632475,
-        421201927,
-        85669015
+        421201927
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":421188841,
-    "wof:lastmodified":1531858637,
+    "wof:lastmodified":1563584372,
     "wof:name":"Naktala",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

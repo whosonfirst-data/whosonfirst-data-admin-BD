@@ -35,17 +35,22 @@
     "name:ben_x_preferred":[
         "\u09b8\u09bf\u09b0\u09be\u099c\u0997\u099e\u09cd\u099c"
     ],
+    "name:ben_x_variant":[
+        "\u09b8\u09bf\u09b0\u09be\u099c\u0997\u099e\u09cd\u099c \u099c\u09c7\u09b2\u09be"
+    ],
     "name:bpy_x_preferred":[
         "\u09b8\u09bf\u09b0\u09be\u099c\u0997\u099e\u09cd\u099c \u099c\u09bf\u09b2\u09be"
     ],
     "name:ceb_x_preferred":[
         "Sir\u0101jganj"
     ],
+    "name:ceb_x_variant":[
+        "Sirajganj"
+    ],
     "name:eng_x_preferred":[
         "Sirajganj"
     ],
     "name:eng_x_variant":[
-        "Sirajganj",
         "Sirajgonj",
         "Sirajganj District",
         "SIRAJGANJ"
@@ -71,6 +76,9 @@
     "name:lit_x_preferred":[
         "Sirad\u017egand\u017eas"
     ],
+    "name:mal_x_preferred":[
+        "\u0d38\u0d3f\u0d31\u0d3e\u0d1c\u0d4d\u0d17\u0d1e\u0d4d\u0d1a\u0d4d \u0d1c\u0d3f\u0d32\u0d4d\u0d32"
+    ],
     "name:pnb_x_preferred":[
         "\u0636\u0644\u0639 \u0633\u06cc\u0631\u0627\u062c\u06af\u0646\u062c"
     ],
@@ -95,11 +103,17 @@
     "name:tam_x_preferred":[
         "\u0b9a\u0bbf\u0bb0\u0bbe\u0b9c\u0bcd\u0b95\u0b9e\u0bcd\u0b9a\u0bcd \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0bae\u0bcd"
     ],
+    "name:tel_x_preferred":[
+        "\u0c38\u0c3f\u0c30\u0c3e\u0c1c\u0c4d\u0c17\u0c02\u0c1c\u0c4d \u0c1c\u0c3f\u0c32\u0c4d\u0c32\u0c3e"
+    ],
     "name:urd_x_preferred":[
         "\u0633\u0631\u0627\u062c \u06af\u0646\u062c"
     ],
     "name:vie_x_preferred":[
         "Huy\u1ec7n Sirajganj"
+    ],
+    "name:wuu_x_preferred":[
+        "\u9521\u62c9\u6770\u7518\u6770\u53bf"
     ],
     "name:zho_x_preferred":[
         "\u9521\u62c9\u6770\u7518\u6770\u53bf"
@@ -164,7 +178,7 @@
         }
     ],
     "wof:id":421201929,
-    "wof:lastmodified":1561831135,
+    "wof:lastmodified":1563584396,
     "wof:name":"Sirajganj",
     "wof:parent_id":85669031,
     "wof:placetype":"county",

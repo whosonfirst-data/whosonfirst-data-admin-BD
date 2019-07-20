@@ -19,6 +19,9 @@
     "name:ben_x_preferred":[
         "\u09ac\u09cd\u09b0\u09be\u09b9\u09cd\u09ae\u09a3\u09ac\u09be\u09a1\u09bc\u09c0\u09af\u09bc\u09be"
     ],
+    "name:ceb_x_preferred":[
+        "Brahmanbaria"
+    ],
     "name:dan_x_preferred":[
         "Brahmanbaria"
     ],
@@ -28,7 +31,13 @@
     "name:ell_x_preferred":[
         "\u039c\u03c0\u03c1\u03b1\u03c7\u03bc\u03b1\u03bd\u03bc\u03b1\u03c1\u03af\u03b1"
     ],
+    "name:ell_x_variant":[
+        "\u039c\u03c0\u03c1\u03b1\u03c7\u03bc\u03b1\u03bd\u03bc\u03c0\u03ac\u03c1\u03b9\u03b1"
+    ],
     "name:eng_x_preferred":[
+        "Brahmanbaria"
+    ],
+    "name:epo_x_preferred":[
         "Brahmanbaria"
     ],
     "name:fin_x_preferred":[
@@ -115,6 +124,9 @@
     "name:vie_x_preferred":[
         "Brahmanbaria"
     ],
+    "name:zho_x_preferred":[
+        "\u5a46\u7f57\u95e8\u5df4\u91cc\u4e9a\u5e02"
+    ],
     "qs:gn_country":"BD",
     "qs:gn_fcode":"PPL",
     "qs:gn_id":1336142,
@@ -161,7 +173,7 @@
         }
     ],
     "wof:id":421177765,
-    "wof:lastmodified":1561831136,
+    "wof:lastmodified":1563584401,
     "wof:name":"Brahmanbaria",
     "wof:parent_id":1108694667,
     "wof:placetype":"locality",

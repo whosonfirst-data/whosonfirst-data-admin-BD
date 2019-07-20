@@ -19,6 +19,9 @@
     "name:ceb_x_preferred":[
         "Maulavi B\u0101z\u0101r"
     ],
+    "name:ell_x_preferred":[
+        "\u039c\u03bf\u03c5\u03bb\u03b2\u03b9\u03bc\u03c0\u03b1\u03b6\u03ac\u03c1"
+    ],
     "name:eng_x_preferred":[
         "Maulvi Bazar"
     ],
@@ -28,8 +31,14 @@
     "name:nld_x_preferred":[
         "Maulvi Bazar"
     ],
+    "name:ori_x_preferred":[
+        "\u0b2e\u0b4c\u0b32\u0b2c\u0b40 \u0b2c\u0b1c\u0b3e\u0b30"
+    ],
     "name:pol_x_preferred":[
         "Moulbi Bad\u017aar"
+    ],
+    "name:pol_x_variant":[
+        "Maulvi Bazar"
     ],
     "name:rus_x_preferred":[
         "\u041c\u0430\u0443\u043b\u0432\u0438\u0431\u0430\u0437\u0430\u0440"
@@ -48,6 +57,12 @@
     ],
     "name:war_x_preferred":[
         "Maulvi Bazar"
+    ],
+    "name:zho_x_preferred":[
+        "\u70cf\u4ee3\u6d66"
+    ],
+    "name:zho_x_variant":[
+        "\u6bdb\u5c14\u7ef4\u5df4\u624e\u5c14\u5e02"
     ],
     "qs:gn_country":"BD",
     "qs:gn_fcode":"PPL",
@@ -96,7 +111,7 @@
         }
     ],
     "wof:id":421177353,
-    "wof:lastmodified":1561831136,
+    "wof:lastmodified":1563584401,
     "wof:name":"Maulvi Bazar",
     "wof:parent_id":1108694693,
     "wof:placetype":"locality",

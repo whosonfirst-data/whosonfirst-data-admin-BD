@@ -37,11 +37,16 @@
     "name:bpy_x_preferred":[
         "\u09aa\u099e\u09cd\u099a\u0997\u09a1\u09bc \u099c\u09bf\u09b2\u09be"
     ],
+    "name:ceb_x_preferred":[
+        "Panchagarh"
+    ],
+    "name:ell_x_preferred":[
+        "\u0395\u03c0\u03b1\u03c1\u03c7\u03af\u03b1 \u03a0\u03b1\u03bd\u03c4\u03c3\u03b1\u03b3\u03ba\u03ac\u03c1"
+    ],
     "name:eng_x_preferred":[
         "Panchagarh"
     ],
     "name:eng_x_variant":[
-        "Panchagarh",
         "Panchagarh District",
         "PANCHAGARH"
     ],
@@ -59,6 +64,15 @@
     ],
     "name:jpn_x_preferred":[
         "\u30dd\u30f3\u30c6\u30e7\u30b4\u30eb\u770c"
+    ],
+    "name:mai_x_preferred":[
+        "\u092a\u091e\u094d\u091a\u0917\u0922 \u091c\u093f\u0932\u093e"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d2a\u0d1e\u0d4d\u0d1a\u0d17\u0d7c\u0d39\u0d4d \u0d1c\u0d3f\u0d32\u0d4d\u0d32"
+    ],
+    "name:nep_x_preferred":[
+        "\u092a\u091e\u094d\u091a\u0917\u0922 \u091c\u093f\u0932\u094d\u0932\u093e"
     ],
     "name:nld_x_preferred":[
         "Panchagarh"
@@ -83,6 +97,9 @@
     ],
     "name:tam_x_preferred":[
         "\u0baa\u0b9e\u0bcd\u0b9a\u0b95\u0bb0\u0bcd \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0bae\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c2a\u0c02\u0c1a\u0c17\u0c30\u0c4d \u0c1c\u0c3f\u0c32\u0c4d\u0c32\u0c3e"
     ],
     "name:urd_x_preferred":[
         "\u067e\u0646\u0686\u06be\u0627\u06af\u0691\u06be \u0636\u0644\u0639"
@@ -129,7 +146,7 @@
         }
     ],
     "wof:id":1108694697,
-    "wof:lastmodified":1561831103,
+    "wof:lastmodified":1563583265,
     "wof:name":"Panchagarh",
     "wof:parent_id":85669035,
     "wof:placetype":"county",

@@ -18,14 +18,32 @@
     "name:ben_x_preferred":[
         "Din\u0101jpur"
     ],
+    "name:ben_x_variant":[
+        "\u09a6\u09bf\u09a8\u09be\u099c\u09aa\u09c1\u09b0"
+    ],
     "name:cat_x_preferred":[
         "Dinajpur"
+    ],
+    "name:ceb_x_preferred":[
+        "Din\u0101jpur"
+    ],
+    "name:dan_x_preferred":[
+        "Dinajpur"
+    ],
+    "name:ell_x_preferred":[
+        "\u039d\u03c4\u03b9\u03bd\u03b1\u03c4\u03b6\u03c0\u03bf\u03cd\u03c1"
     ],
     "name:eng_x_preferred":[
         "Dinajpur"
     ],
+    "name:epo_x_preferred":[
+        "Dina\u011dpur"
+    ],
     "name:fra_x_preferred":[
         "Dinajpur"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d3\u05d9\u05e0\u05d2'\u05d0\u05e4\u05d5\u05e8"
     ],
     "name:ita_x_preferred":[
         "Dinajpur"
@@ -53,6 +71,9 @@
     ],
     "name:swe_x_preferred":[
         "Dinajpur"
+    ],
+    "name:swe_x_variant":[
+        "Mathba"
     ],
     "qs:name":"Din\u0101jpur",
     "qs:photos_9r":0,
@@ -87,7 +108,7 @@
         }
     ],
     "wof:id":890415479,
-    "wof:lastmodified":1561831138,
+    "wof:lastmodified":1563584414,
     "wof:name":"Din\u0101jpur",
     "wof:parent_id":1108694671,
     "wof:placetype":"locality",

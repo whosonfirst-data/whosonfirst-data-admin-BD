@@ -17,6 +17,9 @@
     "name:ara_x_preferred":[
         "\u0633\u064a\u0644\u0647\u062a"
     ],
+    "name:ara_x_variant":[
+        "\u0633\u064a\u0644\u0647\u064a\u062a"
+    ],
     "name:ben_x_preferred":[
         "\u09b8\u09bf\u09b2\u09c7\u099f"
     ],
@@ -47,6 +50,9 @@
     "name:epo_x_preferred":[
         "Silheto"
     ],
+    "name:eus_x_preferred":[
+        "Sylhet"
+    ],
     "name:fas_x_preferred":[
         "\u0633\u06cc\u0644\u0647\u062a"
     ],
@@ -57,6 +63,9 @@
         "Sylhet"
     ],
     "name:fra_x_preferred":[
+        "Sylhet"
+    ],
+    "name:frr_x_preferred":[
         "Sylhet"
     ],
     "name:guj_x_preferred":[
@@ -70,6 +79,9 @@
     ],
     "name:hun_x_preferred":[
         "Szilhet"
+    ],
+    "name:hun_x_variant":[
+        "Sylhet"
     ],
     "name:ind_x_preferred":[
         "Sylhet"
@@ -86,6 +98,9 @@
     "name:kan_x_preferred":[
         "\u0cb8\u0cbf\u0cb2\u0ccd\u0cb9\u0cc6\u0c9f\u0ccd"
     ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10d8\u10da\u10f0\u10d4\u10e2\u10d8"
+    ],
     "name:kaz_x_preferred":[
         "\u0421\u0438\u043b\u0445\u0435\u0442"
     ],
@@ -97,6 +112,9 @@
     ],
     "name:lit_x_preferred":[
         "Silhatas"
+    ],
+    "name:mai_x_preferred":[
+        "\u0938\u093f\u0932\u0947\u091f \u0938\u0939\u0930"
     ],
     "name:mal_x_preferred":[
         "\u0d38\u0d3f\u0d7d\u0d39\u0d46\u0d31\u0d4d\u0d31\u0d4d"
@@ -112,6 +130,9 @@
     ],
     "name:msa_x_preferred":[
         "Sylhet"
+    ],
+    "name:nep_x_preferred":[
+        "\u0938\u093f\u0932\u0947\u091f \u0938\u0939\u0930"
     ],
     "name:nld_x_preferred":[
         "Sylhet"
@@ -149,6 +170,9 @@
     "name:spa_x_preferred":[
         "Sylhet"
     ],
+    "name:sqi_x_preferred":[
+        "Sylhet"
+    ],
     "name:sun_x_preferred":[
         "Sylhet"
     ],
@@ -184,6 +208,9 @@
     ],
     "name:war_x_preferred":[
         "Sylhet"
+    ],
+    "name:wuu_x_preferred":[
+        "\u9521\u5c14\u8d6b\u7279\u5e02"
     ],
     "name:zho_x_preferred":[
         "\u932b\u723e\u8d6b\u7279\u5e02"
@@ -328,7 +355,7 @@
         }
     ],
     "wof:id":421168819,
-    "wof:lastmodified":1561831130,
+    "wof:lastmodified":1563584342,
     "wof:name":"Sylhet",
     "wof:parent_id":421187795,
     "wof:placetype":"locality",

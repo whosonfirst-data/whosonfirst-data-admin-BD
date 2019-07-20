@@ -28,7 +28,13 @@
     "name:deu_x_preferred":[
         "Tongi"
     ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03cc\u03bd\u03b3\u03ba\u03b9"
+    ],
     "name:eng_x_preferred":[
+        "Tongi"
+    ],
+    "name:epo_x_preferred":[
         "Tongi"
     ],
     "name:fin_x_preferred":[
@@ -66,6 +72,9 @@
     ],
     "name:war_x_preferred":[
         "Tongi"
+    ],
+    "name:zho_x_preferred":[
+        "\u7eb3\u8036\u5df4\u624e\u5c14"
     ],
     "qs:gn_country":"BD",
     "qs:gn_fcode":"PPL",
@@ -115,7 +124,7 @@
         }
     ],
     "wof:id":421194043,
-    "wof:lastmodified":1561831131,
+    "wof:lastmodified":1563584351,
     "wof:name":"Tongi",
     "wof:parent_id":421203493,
     "wof:placetype":"locality",

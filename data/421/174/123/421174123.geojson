@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u062e\u0648\u0644\u0646\u0627"
     ],
+    "name:bel_x_preferred":[
+        "\u0413\u043e\u0440\u0430\u0434 \u041a\u0445\u0443\u043b\u043d\u0430"
+    ],
     "name:ben_x_preferred":[
         "\u0996\u09c1\u09b2\u09a8\u09be"
     ],
@@ -32,6 +35,9 @@
     "name:ceb_x_preferred":[
         "Khulna"
     ],
+    "name:ces_x_preferred":[
+        "Khulan\u00e1"
+    ],
     "name:che_x_preferred":[
         "\u041a\u0445\u0443\u043b\u043d\u0430"
     ],
@@ -40,6 +46,9 @@
     ],
     "name:deu_x_preferred":[
         "Khulna"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03bf\u03cd\u03bb\u03bd\u03b1"
     ],
     "name:eng_x_preferred":[
         "Khulna"
@@ -56,6 +65,21 @@
     "name:fra_x_preferred":[
         "Khuln\u00e2"
     ],
+    "name:frr_x_preferred":[
+        "Khulna"
+    ],
+    "name:gan_x_preferred":[
+        "\u5e93\u5c14\u7eb3"
+    ],
+    "name:guj_x_preferred":[
+        "\u0a96\u0ac1\u0ab2\u0acd\u0aa8\u0abe"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05d4\u05d5\u05dc\u05e0\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u0916\u0941\u0932\u0928\u093e"
+    ],
     "name:hun_x_preferred":[
         "Khulna"
     ],
@@ -71,17 +95,35 @@
     "name:kal_x_preferred":[
         "Khulna"
     ],
+    "name:kan_x_preferred":[
+        "\u0c96\u0cc1\u0cb2\u0ccd\u0ca8\u0cbe"
+    ],
+    "name:kat_x_preferred":[
+        "\u10ee\u10e3\u10da\u10dc\u10d0"
+    ],
     "name:kir_x_preferred":[
         "\u041a\u0445\u0435\u043b\u043d\u0430"
     ],
     "name:kor_x_preferred":[
         "\ucfe8\ub098"
     ],
+    "name:lav_x_preferred":[
+        "Khulna"
+    ],
     "name:lit_x_preferred":[
         "Khulna"
     ],
+    "name:mai_x_preferred":[
+        "\u0916\u0941\u0932\u094d\u0928\u093e"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d16\u0d41\u0d7d\u0d28"
+    ],
     "name:mar_x_preferred":[
         "\u0916\u0941\u0932\u0928\u093e"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041a\u0443\u043b\u043d\u0430"
     ],
     "name:mon_x_preferred":[
         "\u041a\u0445\u0443\u043b\u043d\u0430"
@@ -89,10 +131,19 @@
     "name:mri_x_preferred":[
         "Khulna"
     ],
+    "name:msa_x_preferred":[
+        "Khulna"
+    ],
+    "name:nep_x_preferred":[
+        "\u0916\u0941\u0932\u0928\u093e"
+    ],
     "name:nld_x_preferred":[
         "Khulna"
     ],
     "name:nno_x_preferred":[
+        "Khulna"
+    ],
+    "name:nob_x_preferred":[
         "Khulna"
     ],
     "name:nor_x_preferred":[
@@ -110,6 +161,12 @@
     "name:rus_x_preferred":[
         "\u041a\u0445\u0443\u043b\u043d\u0430"
     ],
+    "name:sco_x_preferred":[
+        "Khulna"
+    ],
+    "name:sin_x_preferred":[
+        "\u0d9b\u0dd4\u0dbd\u0dca\u0db1\u0dcf"
+    ],
     "name:spa_x_preferred":[
         "Khulna"
     ],
@@ -125,6 +182,12 @@
     "name:tam_x_preferred":[
         "\u0b95\u0bc1\u0bb2\u0bcd\u0ba9\u0bbe"
     ],
+    "name:tel_x_preferred":[
+        "\u0c16\u0c41\u0c32\u0c4d\u0c28\u0c3e"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e04\u0e39\u0e25\u0e19\u0e32"
+    ],
     "name:tur_x_preferred":[
         "Khulna"
     ],
@@ -139,6 +202,9 @@
     ],
     "name:war_x_preferred":[
         "Khulna"
+    ],
+    "name:wuu_x_preferred":[
+        "\u5e93\u5c14\u7eb3\u5e02"
     ],
     "name:zho_x_preferred":[
         "\u5e93\u5c14\u7eb3\u5e02"
@@ -286,7 +352,7 @@
         }
     ],
     "wof:id":421174123,
-    "wof:lastmodified":1527716231,
+    "wof:lastmodified":1563584363,
     "wof:name":"Khulna",
     "wof:parent_id":421185473,
     "wof:placetype":"locality",

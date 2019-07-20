@@ -25,6 +25,9 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":7.7,
+    "name:ara_x_preferred":[
+        "\u0625\u0642\u0644\u064a\u0645 \u0631\u0627\u062c\u0634\u0627\u0647\u064a"
+    ],
     "name:ben_x_preferred":[
         "R\u0101jsh\u0101hi Bibhag"
     ],
@@ -41,8 +44,14 @@
     "name:cat_x_preferred":[
         "Divisi\u00f3 de Rajshahi"
     ],
+    "name:ceb_x_preferred":[
+        "R\u0101jsh\u0101hi Division"
+    ],
     "name:deu_x_preferred":[
         "Rajshahi"
+    ],
+    "name:ell_x_preferred":[
+        "\u0394\u03b9\u03b1\u03af\u03c1\u03b5\u03c3\u03b7 \u03a1\u03b1\u03c4\u03b6\u03c3\u03ac\u03c7\u03b9"
     ],
     "name:eng_x_preferred":[
         "Rajshahi"
@@ -52,6 +61,9 @@
     ],
     "name:epo_x_preferred":[
         "Ra\u0135\u015daho"
+    ],
+    "name:eus_x_preferred":[
+        "Rajshahi dibisioa"
     ],
     "name:fas_x_preferred":[
         "\u0627\u0633\u062a\u0627\u0646 \u0631\u0627\u062c\u200c\u0634\u0627\u0647\u06cc"
@@ -63,6 +75,9 @@
         "R\u00e2jsh\u00e2h\u00ee"
     ],
     "name:fra_x_variant":[
+        "Rajshahi"
+    ],
+    "name:frr_x_preferred":[
         "Rajshahi"
     ],
     "name:hin_x_preferred":[
@@ -133,6 +148,9 @@
     ],
     "name:vie_x_preferred":[
         "Rajshahi"
+    ],
+    "name:wuu_x_preferred":[
+        "\u62c9\u6770\u6c99\u5e0c\u4e13\u533a"
     ],
     "name:zho_x_preferred":[
         "\u62c9\u5091\u6c99\u5e0c\u5c08\u5340"
@@ -258,7 +276,7 @@
     "wof:lang_x_spoken":[
         "ben"
     ],
-    "wof:lastmodified":1561831026,
+    "wof:lastmodified":1563580228,
     "wof:name":"Rajshahi",
     "wof:parent_id":85632475,
     "wof:placetype":"region",

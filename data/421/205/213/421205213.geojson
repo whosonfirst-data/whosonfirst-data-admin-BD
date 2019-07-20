@@ -35,8 +35,14 @@
     "name:ben_x_preferred":[
         "\u09a8\u09a1\u09bc\u09be\u0987\u09b2"
     ],
+    "name:ben_x_variant":[
+        "\u09a8\u09a1\u09bc\u09be\u0987\u09b2 \u099c\u09c7\u09b2\u09be"
+    ],
     "name:bpy_x_preferred":[
         "\u09a8\u09a1\u09bc\u09be\u0987\u09b2 \u099c\u09bf\u09b2\u09be"
+    ],
+    "name:ceb_x_preferred":[
+        "Narail"
     ],
     "name:deu_x_preferred":[
         "Narail"
@@ -45,7 +51,6 @@
         "Narail"
     ],
     "name:eng_x_variant":[
-        "Narail",
         "NARAIL",
         "Narail District"
     ],
@@ -63,6 +68,15 @@
     ],
     "name:jpn_x_preferred":[
         "\u30ca\u30e9\u30a4\u30eb\u770c"
+    ],
+    "name:mai_x_preferred":[
+        "\u0928\u0921\u093e\u0907\u0932 \u091c\u093f\u0932\u093e"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d28\u0d3e\u0d31\u0d46\u0d2f\u0d3f\u0d7d \u0d1c\u0d3f\u0d32\u0d4d\u0d32"
+    ],
+    "name:nep_x_preferred":[
+        "\u0928\u0921\u093e\u0907\u0932 \u091c\u093f\u0932\u094d\u0932\u093e"
     ],
     "name:nld_x_preferred":[
         "Narail"
@@ -90,6 +104,9 @@
     ],
     "name:tam_x_preferred":[
         "\u0ba8\u0bb0\u0bbe\u0baf\u0bcd\u0bb2\u0bcd \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0bae\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c28\u0c3e\u0c30\u0c3e\u0c2f\u0c3f\u0c32\u0c4d \u0c21\u0c3f\u0c38\u0c4d\u0c1f\u0c4d\u0c30\u0c3f\u0c15\u0c4d\u0c1f\u0c4d"
     ],
     "name:unk_x_variant":[
         "Noraayil"
@@ -164,7 +181,7 @@
         }
     ],
     "wof:id":421205213,
-    "wof:lastmodified":1561831132,
+    "wof:lastmodified":1563584359,
     "wof:name":"Narail",
     "wof:parent_id":85669015,
     "wof:placetype":"county",
