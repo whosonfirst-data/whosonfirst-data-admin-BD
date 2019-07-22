@@ -23,6 +23,9 @@
     "name:eng_x_preferred":[
         "Tangail"
     ],
+    "name:epo_x_preferred":[
+        "Tangail"
+    ],
     "name:fra_x_preferred":[
         "Tangail"
     ],
@@ -64,6 +67,9 @@
     ],
     "name:war_x_preferred":[
         "Tangail"
+    ],
+    "name:zho_x_preferred":[
+        "\u5766\u76d6\u5c14\u5e02"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Bangladesh",
@@ -205,7 +211,7 @@
         }
     ],
     "wof:id":421169689,
-    "wof:lastmodified":1561831131,
+    "wof:lastmodified":1563584356,
     "wof:name":"Tangail",
     "wof:parent_id":421185471,
     "wof:placetype":"locality",

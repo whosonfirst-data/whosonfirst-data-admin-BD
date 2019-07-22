@@ -25,6 +25,9 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":7.7,
+    "name:ara_x_preferred":[
+        "\u0625\u0642\u0644\u064a\u0645 \u0633\u064a\u0644\u0647\u064a\u062a"
+    ],
     "name:ben_x_preferred":[
         "Sylhet Bibhag"
     ],
@@ -41,17 +44,29 @@
     "name:cat_x_preferred":[
         "Divisi\u00f3 de Sylhet"
     ],
+    "name:ceb_x_preferred":[
+        "Sylhet Division"
+    ],
     "name:deu_x_preferred":[
         "Sylhet"
     ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03b9\u03bb\u03ad\u03c4"
+    ],
     "name:eng_x_preferred":[
         "Sylhet"
+    ],
+    "name:eng_x_variant":[
+        "Sylhet Division"
     ],
     "name:epo_x_preferred":[
         "Silheto"
     ],
     "name:est_x_preferred":[
         "Sylheti jaotis"
+    ],
+    "name:eus_x_preferred":[
+        "Sylhet dibisioa"
     ],
     "name:fas_x_preferred":[
         "\u0627\u0633\u062a\u0627\u0646 \u0633\u06cc\u0644\u0647\u062a"
@@ -60,6 +75,9 @@
         "Sylhetin alue"
     ],
     "name:fra_x_preferred":[
+        "Sylhet"
+    ],
+    "name:frr_x_preferred":[
         "Sylhet"
     ],
     "name:hin_x_preferred":[
@@ -89,6 +107,9 @@
     "name:nob_x_preferred":[
         "Sylhet"
     ],
+    "name:pnb_x_preferred":[
+        "\u0633\u0644\u06c1\u0679 \u0688\u0648\u06cc\u0698\u0646"
+    ],
     "name:pol_x_preferred":[
         "Srihotto"
     ],
@@ -100,6 +121,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0421\u0438\u043b\u0445\u0435\u0442"
+    ],
+    "name:sat_x_preferred":[
+        "\u1c65\u1c64\u1c5e\u1c6e\u1c74 \u1c6f\u1c5a\u1c71\u1c5a\u1c5b"
     ],
     "name:sco_x_preferred":[
         "Sylhet Diveesion"
@@ -130,6 +154,9 @@
     ],
     "name:vie_x_preferred":[
         "Sylhet"
+    ],
+    "name:wuu_x_preferred":[
+        "\u9521\u5c14\u8d6b\u7279\u4e13\u533a"
     ],
     "name:zho_x_preferred":[
         "\u932b\u723e\u8d6b\u7279\u5c08\u5340"
@@ -257,7 +284,7 @@
     "wof:lang_x_spoken":[
         "ben"
     ],
-    "wof:lastmodified":1561831028,
+    "wof:lastmodified":1563580232,
     "wof:name":"Sylhet",
     "wof:parent_id":85632475,
     "wof:placetype":"region",

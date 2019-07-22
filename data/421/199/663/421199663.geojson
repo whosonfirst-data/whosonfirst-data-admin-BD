@@ -32,6 +32,9 @@
     "name:arz_x_preferred":[
         "\u0634\u064a\u062a\u0627\u062c\u0648\u0646\u062c"
     ],
+    "name:arz_x_variant":[
+        "\u0686\u064a\u062a\u0627\u062c\u0648\u0646\u062c"
+    ],
     "name:ast_x_preferred":[
         "Chittagong"
     ],
@@ -39,9 +42,6 @@
         "\u00c7ittaqonq"
     ],
     "name:bel_x_preferred":[
-        "\u0427\u044b\u0442\u0430\u0433\u043e\u043d\u0433"
-    ],
-    "name:bel_x_variant":[
         "\u0427\u044b\u0442\u0430\u0433\u043e\u043d\u0433"
     ],
     "name:ben_x_preferred":[
@@ -93,6 +93,9 @@
     "name:diq_x_preferred":[
         "\u00c7itagong"
     ],
+    "name:diq_x_variant":[
+        "Chittagong"
+    ],
     "name:ell_x_preferred":[
         "\u03a4\u03c3\u03b9\u03c4\u03b1\u03b3\u03ba\u03cc\u03bd\u03b3\u03ba"
     ],
@@ -129,8 +132,14 @@
     "name:frp_x_preferred":[
         "Chittagong"
     ],
+    "name:frr_x_preferred":[
+        "Chittagong"
+    ],
     "name:fry_x_preferred":[
         "Chittagong"
+    ],
+    "name:gan_x_preferred":[
+        "\u5409\u5927\u6e2f"
     ],
     "name:gla_x_preferred":[
         "Chittagong"
@@ -201,6 +210,9 @@
     "name:kaz_x_preferred":[
         "\u0427\u0438\u0442\u0442\u0430\u0433\u043e\u043d\u0433"
     ],
+    "name:kir_x_preferred":[
+        "\u0427\u0438\u0442\u0442\u0430\u0433\u043e\u043d\u0433"
+    ],
     "name:kor_x_preferred":[
         "\uce58\ud0c0\uacf5"
     ],
@@ -263,6 +275,9 @@
     ],
     "name:oci_x_preferred":[
         "Chittagong"
+    ],
+    "name:oss_x_preferred":[
+        "\u0427\u0438\u0442\u0442\u0430\u0433\u043e\u043d\u0433"
     ],
     "name:pap_x_preferred":[
         "Chittagong"
@@ -351,6 +366,9 @@
     "name:ukr_x_preferred":[
         "\u0427\u0438\u0442\u0442\u0430\u0491\u043e\u043d\u0491"
     ],
+    "name:ukr_x_variant":[
+        "\u0427\u0438\u0442\u0442\u0430\u0433\u043e\u043d\u0433"
+    ],
     "name:unk_x_variant":[
         "Chittagong Ghat"
     ],
@@ -368,6 +386,9 @@
     ],
     "name:war_x_preferred":[
         "Chittagong"
+    ],
+    "name:wuu_x_preferred":[
+        "\u5409\u5927\u6e2f\u5e02"
     ],
     "name:yid_x_preferred":[
         "\u05d8\u05e9\u05d9\u05d8\u05d0\u05d2\u05d0\u05e0\u05d2"
@@ -524,7 +545,7 @@
         }
     ],
     "wof:id":421199663,
-    "wof:lastmodified":1561831135,
+    "wof:lastmodified":1563584392,
     "wof:name":"Chittagong",
     "wof:parent_id":421201541,
     "wof:placetype":"locality",

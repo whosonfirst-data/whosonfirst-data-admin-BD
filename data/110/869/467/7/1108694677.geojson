@@ -37,11 +37,13 @@
     "name:bpy_x_preferred":[
         "\u099d\u09be\u09b2\u0995\u09be\u09a0\u09bf \u099c\u09bf\u09b2\u09be"
     ],
+    "name:ceb_x_preferred":[
+        "Jhalokati"
+    ],
     "name:eng_x_preferred":[
         "Jhalokati"
     ],
     "name:eng_x_variant":[
-        "Jhalokati",
         "Jhalakati",
         "Jhalokati District",
         "JHALOKATI"
@@ -55,11 +57,17 @@
     "name:hin_x_preferred":[
         "\u091d\u093e\u0932\u094b\u0915\u091f\u0940 \u091c\u093f\u0932\u093e"
     ],
+    "name:ind_x_preferred":[
+        "Distrik Jhalakathi"
+    ],
     "name:ita_x_preferred":[
         "distretto di Jhalakati"
     ],
     "name:jpn_x_preferred":[
         "\u30b8\u30e7\u30eb\u30b3\u30bf\u770c"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d1c\u0d32\u0d32\u0d4b\u0d15\u0d4d\u0d15\u0d24\u0d3f \u0d1c\u0d3f\u0d32\u0d4d\u0d32"
     ],
     "name:pnb_x_preferred":[
         "\u0636\u0644\u0639 \u062c\u06be\u0627\u0644\u0648\u06a9\u0627\u0679\u06cc"
@@ -81,6 +89,9 @@
     ],
     "name:swe_x_preferred":[
         "Jhalokati"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c1d\u0c32\u0c3e\u0c15\u0c1f\u0c3f \u0c1c\u0c3f\u0c32\u0c4d\u0c32\u0c3e"
     ],
     "name:urd_x_preferred":[
         "\u062c\u06be\u0627\u0644\u0648\u06a9\u0627\u0679\u06cc \u0636\u0644\u0639"
@@ -127,7 +138,7 @@
         }
     ],
     "wof:id":1108694677,
-    "wof:lastmodified":1561831102,
+    "wof:lastmodified":1563583263,
     "wof:name":"Jhalokati",
     "wof:parent_id":85669019,
     "wof:placetype":"county",

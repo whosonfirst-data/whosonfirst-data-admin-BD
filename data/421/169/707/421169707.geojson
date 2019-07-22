@@ -35,6 +35,9 @@
     "name:ben_x_preferred":[
         "\u09a8\u09b0\u09b8\u09bf\u0982\u09a6\u09c0"
     ],
+    "name:ben_x_variant":[
+        "\u09a8\u09b0\u09b8\u09bf\u0982\u09a6\u09c0 \u099c\u09c7\u09b2\u09be"
+    ],
     "name:bpy_x_preferred":[
         "\u09a8\u09b0\u09b8\u09bf\u0982\u09a6\u09c0 \u099c\u09bf\u09b2\u09be"
     ],
@@ -42,7 +45,6 @@
         "Narsingdi"
     ],
     "name:eng_x_variant":[
-        "Narsingdi",
         "Narshingdi",
         "NARSINGDI",
         "Narsingdi District"
@@ -61,6 +63,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30ca\u30eb\u30b7\u30f3\u30b0\u30c7\u30a3\u770c"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d28\u0d30\u0d38\u0d3f\u0d02\u0d17\u0d21\u0d3f \u0d1c\u0d3f\u0d32\u0d4d\u0d32"
     ],
     "name:new_x_preferred":[
         "\u0928\u0930\u0938\u093f\u0902\u0926\u0940 \u091c\u093f\u0932\u094d\u0932\u093e"
@@ -88,6 +93,9 @@
     ],
     "name:tam_x_preferred":[
         "\u0ba8\u0bb0\u0b9a\u0bbf\u0b99\u0bcd\u0b95\u0b9f\u0bbf \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0bae\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c28\u0c30\u0c4d\u0c38\u0c3f\u0c02\u0c17\u0c3f \u0c1c\u0c3f\u0c32\u0c4d\u0c32\u0c3e"
     ],
     "name:unk_x_variant":[
         "N\u00f4rshingdi"
@@ -161,7 +169,7 @@
         }
     ],
     "wof:id":421169707,
-    "wof:lastmodified":1561831131,
+    "wof:lastmodified":1563584354,
     "wof:name":"Narsingdi",
     "wof:parent_id":85669009,
     "wof:placetype":"county",

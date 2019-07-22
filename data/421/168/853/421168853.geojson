@@ -17,11 +17,23 @@
     "name:ben_x_preferred":[
         "Naw\u0101bganj"
     ],
+    "name:ben_x_variant":[
+        "\u09a8\u09ac\u09be\u09ac\u0997\u099e\u09cd\u099c \u09b6\u09b9\u09b0"
+    ],
     "name:cat_x_preferred":[
         "Nawabganj"
     ],
+    "name:ceb_x_preferred":[
+        "Naw\u0101bganj"
+    ],
+    "name:ell_x_preferred":[
+        "\u039d\u03b1\u03bf\u03c5\u03b1\u03bc\u03c0\u03b3\u03ba\u03ac\u03bd\u03c4\u03b6"
+    ],
     "name:eng_x_preferred":[
         "Nawabganj"
+    ],
+    "name:epo_x_preferred":[
+        "Navabgan\u011d"
     ],
     "name:fra_x_preferred":[
         "Nawabganj"
@@ -37,6 +49,9 @@
     ],
     "name:swe_x_preferred":[
         "Nawabganj"
+    ],
+    "name:zho_x_preferred":[
+        "\u6770\u7d22\u5c14\u53bf"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Bangladesh",
@@ -176,7 +191,7 @@
         }
     ],
     "wof:id":421168853,
-    "wof:lastmodified":1561831130,
+    "wof:lastmodified":1563584344,
     "wof:name":"Nawabganj",
     "wof:parent_id":421191607,
     "wof:placetype":"locality",

@@ -14,6 +14,12 @@
     "mz:is_current":1,
     "mz:min_zoom":6.7,
     "mz:note":"quattroshapes points import (201603)",
+    "name:aka_x_preferred":[
+        "Mymensingh"
+    ],
+    "name:ara_x_preferred":[
+        "\u0645\u064a\u0645\u064a\u0646\u0633\u064a\u0646\u063a"
+    ],
     "name:ben_x_preferred":[
         "\u09ae\u09af\u09bc\u09ae\u09a8\u09b8\u09bf\u0982\u09b9"
     ],
@@ -29,6 +35,9 @@
     "name:ces_x_preferred":[
         "Mymensingh"
     ],
+    "name:cym_x_preferred":[
+        "Mymensingh"
+    ],
     "name:dan_x_preferred":[
         "Mymensingh"
     ],
@@ -41,11 +50,20 @@
     "name:eng_x_preferred":[
         "Mymensingh"
     ],
+    "name:epo_x_preferred":[
+        "Majmansing"
+    ],
     "name:fas_x_preferred":[
         "\u0645\u06cc\u0645\u0646\u200c\u0633\u06cc\u0646\u06af"
     ],
     "name:fra_x_preferred":[
         "Mymensingh"
+    ],
+    "name:frr_x_preferred":[
+        "Maimansingh"
+    ],
+    "name:hin_x_preferred":[
+        "\u092e\u092f\u093c\u092e\u0928\u0938\u093f\u0902\u0939"
     ],
     "name:ind_x_preferred":[
         "Mymensingh"
@@ -56,14 +74,23 @@
     "name:jpn_x_preferred":[
         "\u30de\u30a4\u30e1\u30f3\u30b7\u30f3"
     ],
+    "name:kat_x_preferred":[
+        "\u10db\u10d0\u10d8\u10db\u10d0\u10dc\u10e1\u10d8\u10dc\u10d2\u10f0\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\ub9c8\uc774\uba58\uc2f1"
     ],
     "name:lit_x_preferred":[
         "Maimansinghas"
     ],
+    "name:mai_x_preferred":[
+        "\u092e\u092f\u092e\u0928\u0938\u093f\u0902\u0939"
+    ],
     "name:mkd_x_preferred":[
         "\u041c\u0430\u0458\u043c\u0430\u043d\u0441\u0438\u043d\u0433"
+    ],
+    "name:nep_x_preferred":[
+        "\u092e\u092f\u092e\u0928\u0938\u093f\u0902\u0939"
     ],
     "name:nld_x_preferred":[
         "Mymensingh"
@@ -102,6 +129,9 @@
     "name:tam_x_preferred":[
         "\u0bae\u0bc8\u0bae\u0ba9\u0bcd\u0b9a\u0bbf\u0b99\u0bcd"
     ],
+    "name:tgl_x_preferred":[
+        "Mymensingh"
+    ],
     "name:tha_x_preferred":[
         "\u0e44\u0e21\u0e21\u0e31\u0e19\u0e2a\u0e34\u0e07\u0e2b\u0e4c"
     ],
@@ -114,8 +144,17 @@
     "name:urd_x_preferred":[
         "\u0645\u0627\u06cc\u0645\u0646 \u0633\u0646\u06af\u06be"
     ],
+    "name:urd_x_variant":[
+        "\u0645\u0627\u0626\u0645\u0646 \u0633\u0646\u06af\u06be"
+    ],
     "name:war_x_preferred":[
         "Mymensingh"
+    ],
+    "name:wuu_x_preferred":[
+        "\u8fc8\u95e8\u8f9b\u5e02"
+    ],
+    "name:zho_x_preferred":[
+        "\u8fc8\u95e8\u8f9b\u5e02"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Bangladesh",
@@ -265,7 +304,7 @@
         }
     ],
     "wof:id":421174957,
-    "wof:lastmodified":1561831132,
+    "wof:lastmodified":1563584362,
     "wof:name":"Mymensingh",
     "wof:parent_id":421185469,
     "wof:placetype":"locality",

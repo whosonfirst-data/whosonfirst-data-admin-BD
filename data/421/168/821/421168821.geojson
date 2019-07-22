@@ -27,6 +27,9 @@
     "name:cat_x_preferred":[
         "Rajshahi"
     ],
+    "name:ceb_x_preferred":[
+        "R\u0101jsh\u0101hi"
+    ],
     "name:dan_x_preferred":[
         "Rajshahi"
     ],
@@ -38,6 +41,9 @@
     ],
     "name:eng_x_preferred":[
         "Rajshahi"
+    ],
+    "name:epo_x_preferred":[
+        "Ra\u011d\u015daho"
     ],
     "name:eus_x_preferred":[
         "Rajshahi"
@@ -51,8 +57,14 @@
     "name:fra_x_preferred":[
         "R\u00e2jsh\u00e2h\u00ee"
     ],
+    "name:frr_x_preferred":[
+        "Rajshahi"
+    ],
     "name:guj_x_preferred":[
         "\u0ab0\u0abe\u0a9c\u0ab6\u0abe\u0ab9\u0ac0"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e8\u05d0\u05d2'\u05e9\u05d0\u05d4\u05d9"
     ],
     "name:hin_x_preferred":[
         "\u0930\u093e\u091c\u0936\u093e\u0939\u0940 \u091c\u093f\u0932\u093e"
@@ -98,6 +110,9 @@
     ],
     "name:msa_x_preferred":[
         "Rajshahi"
+    ],
+    "name:nep_x_preferred":[
+        "\u0930\u093e\u091c\u0936\u093e\u0939\u0940"
     ],
     "name:nld_x_preferred":[
         "Rajshahi"
@@ -161,6 +176,9 @@
     ],
     "name:war_x_preferred":[
         "Rajshahi"
+    ],
+    "name:wuu_x_preferred":[
+        "\u62c9\u6770\u6c99\u5e0c\u5e02"
     ],
     "name:zho_x_preferred":[
         "\u62c9\u6770\u6c99\u5e0c\u5e02"
@@ -310,7 +328,7 @@
         }
     ],
     "wof:id":421168821,
-    "wof:lastmodified":1561831130,
+    "wof:lastmodified":1563584341,
     "wof:name":"Rajshahi",
     "wof:parent_id":421172439,
     "wof:placetype":"locality",

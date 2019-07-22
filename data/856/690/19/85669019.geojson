@@ -28,6 +28,12 @@
     "name:ara_x_preferred":[
         "\u0645\u062d\u0627\u0641\u0638\u0629 \u0628\u0627\u0631\u064a\u0633\u0627\u0644"
     ],
+    "name:ara_x_variant":[
+        "\u0625\u0642\u0644\u064a\u0645 \u0628\u0627\u0631\u064a\u0633\u0627\u0644"
+    ],
+    "name:aze_x_preferred":[
+        "Barisal"
+    ],
     "name:ben_x_preferred":[
         "\u09ac\u09b0\u09bf\u09b6\u09be\u09b2 \u09ac\u09bf\u09ad\u09be\u0997"
     ],
@@ -40,14 +46,26 @@
     "name:cat_x_preferred":[
         "Divisi\u00f3 de Barisal"
     ],
+    "name:ceb_x_preferred":[
+        "Barisal Division"
+    ],
     "name:deu_x_preferred":[
         "Barishal"
+    ],
+    "name:ell_x_preferred":[
+        "\u0394\u03b9\u03b1\u03af\u03c1\u03b5\u03c3\u03b7 \u039c\u03c0\u03b1\u03c1\u03b9\u03c3\u03ac\u03bb"
     ],
     "name:eng_x_preferred":[
         "Barisal"
     ],
+    "name:eng_x_variant":[
+        "Barisal Division"
+    ],
     "name:epo_x_preferred":[
         "Barizalo"
+    ],
+    "name:eus_x_preferred":[
+        "Barisal dibisioa"
     ],
     "name:fas_x_preferred":[
         "\u0627\u0633\u062a\u0627\u0646 \u0628\u0627\u0631\u06cc\u0633\u0627\u0644"
@@ -61,8 +79,14 @@
     "name:fra_x_variant":[
         "Barisal"
     ],
+    "name:frr_x_preferred":[
+        "Barishal"
+    ],
     "name:hin_x_preferred":[
         "\u092c\u093e\u0930\u0940\u0938\u093e\u0932 \u0909\u092a\u0915\u094d\u0937\u0947\u0924\u094d\u0930"
+    ],
+    "name:ina_x_preferred":[
+        "Division Barisal"
     ],
     "name:ind_x_preferred":[
         "Divisi Baris\u0101l"
@@ -81,6 +105,9 @@
     ],
     "name:mon_x_preferred":[
         "\u0411\u0430\u0440\u0438\u0441\u0430\u043b \u043c\u0443\u0436"
+    ],
+    "name:nan_x_preferred":[
+        "Barisal Ko\u00e1n-khu"
     ],
     "name:new_x_preferred":[
         "\u092c\u0930\u093f\u0936\u093e\u0932 \u0935\u093f\u092d\u093e\u0917"
@@ -102,6 +129,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0411\u0430\u0440\u0438\u0441\u0430\u043b"
+    ],
+    "name:sat_x_preferred":[
+        "\u1c75\u1c5a\u1c68\u1c64\u1c65\u1c5f\u1c5e \u1c6f\u1c5a\u1c71\u1c5a\u1c5b"
     ],
     "name:sco_x_preferred":[
         "Barisal Diveesion"
@@ -132,6 +162,9 @@
     ],
     "name:vie_x_preferred":[
         "Barisal"
+    ],
+    "name:wuu_x_preferred":[
+        "\u5df4\u91cc\u8428\u5c14\u4e13\u533a"
     ],
     "name:zho_x_preferred":[
         "\u5df4\u91cc\u85a9\u723e\u5c08\u5340"
@@ -259,7 +292,7 @@
     "wof:lang_x_spoken":[
         "ben"
     ],
-    "wof:lastmodified":1561831025,
+    "wof:lastmodified":1563580225,
     "wof:name":"Barisal",
     "wof:parent_id":85632475,
     "wof:placetype":"region",

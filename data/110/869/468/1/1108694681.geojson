@@ -37,11 +37,16 @@
     "name:bpy_x_preferred":[
         "\u099c\u09af\u09bc\u09aa\u09c1\u09b0\u09b9\u09be\u099f \u099c\u09bf\u09b2\u09be"
     ],
+    "name:ceb_x_preferred":[
+        "Joypurhat"
+    ],
+    "name:ell_x_preferred":[
+        "\u0395\u03c0\u03b1\u03c1\u03c7\u03af\u03b1 \u03a4\u03b6\u03b1\u03ca\u03c0\u03bf\u03c5\u03c1\u03c7\u03ac\u03c4"
+    ],
     "name:eng_x_preferred":[
         "Joypurhat"
     ],
     "name:eng_x_variant":[
-        "Joypurhat",
         "Jaipurhat",
         "Joypurhat District",
         "JOYPURHAT"
@@ -60,6 +65,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30b8\u30e7\u30a4\u30d7\u30fc\u30eb\u30cf\u30c3\u30c8\u770c"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d1c\u0d2f\u0d4d\u0d2f\u0d4d\u0d2a\u0d7c\u0d39\u0d24\u0d4d \u0d1c\u0d3f\u0d32\u0d4d\u0d32"
     ],
     "name:pnb_x_preferred":[
         "\u0636\u0644\u0639 \u062c\u06cc\u067e\u0648\u0631\u06c1\u0679"
@@ -130,7 +138,7 @@
         }
     ],
     "wof:id":1108694681,
-    "wof:lastmodified":1561831104,
+    "wof:lastmodified":1563583268,
     "wof:name":"Joypurhat",
     "wof:parent_id":85669031,
     "wof:placetype":"county",

@@ -19,6 +19,9 @@
     "name:ceb_x_preferred":[
         "Feni"
     ],
+    "name:ell_x_preferred":[
+        "\u03a6\u03ad\u03bd\u03b9"
+    ],
     "name:eng_x_preferred":[
         "Feni"
     ],
@@ -34,11 +37,17 @@
     "name:pol_x_preferred":[
         "Pheni"
     ],
+    "name:pol_x_variant":[
+        "Feni"
+    ],
     "name:swe_x_preferred":[
         "Feni"
     ],
     "name:unk_x_variant":[
         "Fenny"
+    ],
+    "name:zho_x_preferred":[
+        "Bandarban"
     ],
     "qs:gn_country":"BD",
     "qs:gn_fcode":"PPL",
@@ -90,7 +99,7 @@
         }
     ],
     "wof:id":421199125,
-    "wof:lastmodified":1561831135,
+    "wof:lastmodified":1563584393,
     "wof:name":"Feni",
     "wof:parent_id":421181771,
     "wof:placetype":"locality",

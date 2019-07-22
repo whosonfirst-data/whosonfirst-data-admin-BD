@@ -39,11 +39,17 @@
     "name:eng_x_preferred":[
         "Rajshahi"
     ],
+    "name:eng_x_variant":[
+        "Rangpur"
+    ],
     "name:fra_x_preferred":[
         "Rangpur"
     ],
     "name:ind_x_preferred":[
         "Rangpur"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d30\u0d02\u0d17\u0d4d\u200d\u0d2a\u0d42\u0d7c \u0d2a\u0d1f\u0d4d\u0d1f\u0d23\u0d02"
     ],
     "name:nld_x_preferred":[
         "Rangpur"
@@ -180,7 +186,7 @@
     "wof:lang_x_spoken":[
         "ben"
     ],
-    "wof:lastmodified":1553550324,
+    "wof:lastmodified":1563580223,
     "wof:name":"Rangpur",
     "wof:parent_id":85632475,
     "wof:placetype":"region",

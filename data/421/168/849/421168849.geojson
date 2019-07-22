@@ -20,14 +20,26 @@
     "name:ben_x_preferred":[
         "Jessore"
     ],
+    "name:ben_x_variant":[
+        "\u09af\u09b6\u09cb\u09b0"
+    ],
     "name:cat_x_preferred":[
+        "Jessore"
+    ],
+    "name:ceb_x_preferred":[
         "Jessore"
     ],
     "name:deu_x_preferred":[
         "Jessore"
     ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03b6\u03b5\u03c3\u03cc\u03c1"
+    ],
     "name:eng_x_preferred":[
         "Jessore"
+    ],
+    "name:epo_x_preferred":[
+        "\u011cesor"
     ],
     "name:fin_x_preferred":[
         "Jessore"
@@ -65,11 +77,17 @@
     "name:rus_x_preferred":[
         "\u0414\u0436\u0435\u0441\u0441\u043e\u0440"
     ],
+    "name:snd_x_preferred":[
+        "\u062c\u064a\u0633\u064f\u0648\u0631"
+    ],
     "name:swe_x_preferred":[
         "Jessore"
     ],
     "name:war_x_preferred":[
         "Jessore"
+    ],
+    "name:zho_x_preferred":[
+        "\u6770\u7d22\u5c14\u5e02"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Bangladesh",
@@ -210,7 +228,7 @@
         }
     ],
     "wof:id":421168849,
-    "wof:lastmodified":1561831130,
+    "wof:lastmodified":1563584344,
     "wof:name":"Jessore",
     "wof:parent_id":421176039,
     "wof:placetype":"locality",

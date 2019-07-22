@@ -26,6 +26,9 @@
     "name:ace_x_preferred":[
         "Banglad\u00e8sh"
     ],
+    "name:ace_x_variant":[
+        "Bangladesh"
+    ],
     "name:ady_x_preferred":[
         "\u0411\u0430\u043d\u0433\u043b\u0430\u0434\u0435\u0448"
     ],
@@ -37,6 +40,9 @@
     ],
     "name:aka_x_preferred":[
         "Banglad\u025bhye"
+    ],
+    "name:aka_x_variant":[
+        "Bangladesh"
     ],
     "name:als_x_preferred":[
         "Bangladesch"
@@ -70,6 +76,12 @@
     ],
     "name:ast_x_variant":[
         "Bangladex"
+    ],
+    "name:ava_x_preferred":[
+        "\u0411\u0430\u043d\u0433\u043b\u0430\u0434\u0435\u0448"
+    ],
+    "name:aym_x_preferred":[
+        "Banladish"
     ],
     "name:azb_x_preferred":[
         "\u0628\u0646\u0642\u0644\u0627\u062f\u0634"
@@ -369,6 +381,9 @@
     "name:ind_x_variant":[
         "Banglades"
     ],
+    "name:inh_x_preferred":[
+        "\u0411\u0430\u043d\u0433\u043b\u0430\u0434\u0435\u0448"
+    ],
     "name:isl_x_preferred":[
         "Bangladess"
     ],
@@ -380,6 +395,9 @@
     ],
     "name:jav_x_preferred":[
         "Banggalad\u00e9sa"
+    ],
+    "name:jav_x_variant":[
+        "Bangladesh"
     ],
     "name:jbo_x_preferred":[
         "begygu'e"
@@ -468,11 +486,17 @@
     "name:lat_x_preferred":[
         "Bangladesa"
     ],
+    "name:lat_x_variant":[
+        "Bangladesha"
+    ],
     "name:lav_x_preferred":[
         "Banglade\u0161a"
     ],
     "name:lez_x_preferred":[
         "\u0411\u0430\u043d\u0433\u043b\u0430\u0434\u0435\u0448"
+    ],
+    "name:lfn_x_preferred":[
+        "Bangladex"
     ],
     "name:lij_x_preferred":[
         "Bangladesh"
@@ -498,6 +522,9 @@
     "name:lrc_x_preferred":[
         "\u0628\u0623\u0646\u06af\u0626\u0644\u0627\u062f\u0626\u0634"
     ],
+    "name:lrc_x_variant":[
+        "\u0628\u0646\u06af\u0644\u0627\u062f\u0634"
+    ],
     "name:ltz_x_preferred":[
         "Bangladesch"
     ],
@@ -521,6 +548,9 @@
     ],
     "name:mar_x_variant":[
         "\u092c\u093e\u0902\u0917\u094d\u0932\u093e\u0926\u0947\u0936"
+    ],
+    "name:min_x_preferred":[
+        "Bangladesh"
     ],
     "name:mkd_x_preferred":[
         "\u0411\u0430\u043d\u0433\u043b\u0430\u0434\u0435\u0448"
@@ -546,6 +576,9 @@
     "name:mya_x_variant":[
         "\u1018\u1004\u103a\u1039\u1002\u101c\u102c\u1038\u1012\u1031\u1037\u101b\u103e\u103a",
         "bangla\u1018\u1004\u103a\u1039\u1002\u101c\u102c\u1038\u1012\u1031\u1037\u101b\u103e\u103a\u1014\u102d\u102f\u1004\u103a\u1004\u1036"
+    ],
+    "name:myv_x_preferred":[
+        "\u0411\u0430\u043d\u0433\u043b\u0430\u0434\u0435\u0448 \u041c\u0430\u0441\u0442\u043e\u0440"
     ],
     "name:mzn_x_preferred":[
         "\u0628\u0646\u06af\u0644\u0627\u062f\u0634"
@@ -684,6 +717,12 @@
     "name:san_x_preferred":[
         "\u092c\u093e\u0919\u094d\u0917\u0932\u093e\u0926\u0947\u0936\u0903"
     ],
+    "name:san_x_variant":[
+        "\u092c\u0902\u0917\u0932\u093e\u0926\u0947\u0936\u0903"
+    ],
+    "name:sat_x_preferred":[
+        "\u1c75\u1c5f\u1c5d\u1c5e\u1c5f\u1c6b\u1c64\u1c65\u1c5f\u1c79\u1c62"
+    ],
     "name:scn_x_preferred":[
         "Bangladesci"
     ],
@@ -692,6 +731,9 @@
     ],
     "name:sgs_x_preferred":[
         "Banglade\u0161os"
+    ],
+    "name:shn_x_preferred":[
+        "\u1015\u1062\u1004\u103a\u1038\u1075\u101c\u1083\u1038\u1010\u1035\u101e\u103b\u103a\u1089"
     ],
     "name:sin_x_preferred":[
         "\u0db6\u0d82\u0d9c\u0dca\u0dbd\u0dcf\u0daf\u0dda\u0dc1\u0dba"
@@ -769,6 +811,9 @@
     "name:tat_x_preferred":[
         "\u0411\u0430\u043d\u0433\u043b\u0430\u0434\u0435\u0448"
     ],
+    "name:tat_x_variant":[
+        "\u0411\u0430\u04a3\u043b\u0430\u0434\u0435\u0448"
+    ],
     "name:tel_x_preferred":[
         "\u0c2c\u0c02\u0c17\u0c4d\u0c32\u0c3e\u0c26\u0c47\u0c36\u0c4d"
     ],
@@ -797,10 +842,16 @@
     "name:tir_x_preferred":[
         "\u1263\u1295\u130d\u120b\u12f2\u123d"
     ],
+    "name:tir_x_variant":[
+        "\u1263\u1295\u130d\u120b\u12f0\u123d"
+    ],
     "name:ton_x_preferred":[
         "Pengil\u0101tesi"
     ],
     "name:tpi_x_preferred":[
+        "Bangladesh"
+    ],
+    "name:tso_x_preferred":[
         "Bangladesh"
     ],
     "name:tuk_x_preferred":[
@@ -869,6 +920,9 @@
     ],
     "name:wuu_x_preferred":[
         "\u5b5f\u52a0\u62c9\u56fd"
+    ],
+    "name:wuu_x_variant":[
+        "\u5b5f\u52a0\u62c9"
     ],
     "name:xal_x_preferred":[
         "\u0411\u0435\u043d\u0433\u0430\u043b\u043c\u0443\u0434\u0438\u043d \u0423\u043b\u0441 \u041e\u0440\u043d"
@@ -1059,7 +1113,7 @@
     "wof:lang_x_spoken":[
         "ben"
     ],
-    "wof:lastmodified":1561831023,
+    "wof:lastmodified":1563580219,
     "wof:name":"Bangladesh",
     "wof:parent_id":102191569,
     "wof:placetype":"country",

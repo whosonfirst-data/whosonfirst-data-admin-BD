@@ -41,6 +41,9 @@
     "name:cat_x_preferred":[
         "Districte de Bandarban"
     ],
+    "name:ceb_x_preferred":[
+        "Bandarban"
+    ],
     "name:deu_x_preferred":[
         "Bandarban"
     ],
@@ -48,7 +51,6 @@
         "Bandarban"
     ],
     "name:eng_x_variant":[
-        "Bandarban",
         "Bandarbon",
         "Bandarban District",
         "BANDARBAN"
@@ -100,6 +102,9 @@
     ],
     "name:tam_x_preferred":[
         "\u0baa\u0ba8\u0bcd\u0ba4\u0bb0\u0bcd\u0baa\u0ba9\u0bcd \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0bae\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c2c\u0c02\u0c21\u0c3e\u0c30\u0c4d\u0c2c\u0c28\u0c4d \u0c1c\u0c3f\u0c32\u0c4d\u0c32\u0c3e"
     ],
     "name:ukr_x_preferred":[
         "\u0411\u0430\u043d\u0434\u0430\u0440\u0431\u0430\u043d"
@@ -172,7 +177,7 @@
         }
     ],
     "wof:id":421169477,
-    "wof:lastmodified":1561831131,
+    "wof:lastmodified":1563584355,
     "wof:name":"Bandarban",
     "wof:parent_id":85669023,
     "wof:placetype":"county",

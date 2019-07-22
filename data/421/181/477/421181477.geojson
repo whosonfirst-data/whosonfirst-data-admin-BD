@@ -44,6 +44,9 @@
     "name:ast_x_preferred":[
         "Daca"
     ],
+    "name:ast_x_variant":[
+        "Dhaka"
+    ],
     "name:azb_x_preferred":[
         "\u062f\u0627\u06a9\u0627"
     ],
@@ -52,6 +55,9 @@
     ],
     "name:bak_x_preferred":[
         "\u0414\u0430\u043a\u043a\u0430"
+    ],
+    "name:bcl_x_preferred":[
+        "Dhaka"
     ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0414\u0430\u043a\u0430"
@@ -164,8 +170,14 @@
     "name:frp_x_preferred":[
         "Dhaka"
     ],
+    "name:frr_x_preferred":[
+        "Dhaka"
+    ],
     "name:fry_x_preferred":[
         "Daka"
+    ],
+    "name:gan_x_preferred":[
+        "\u9054\u5361"
     ],
     "name:gla_x_preferred":[
         "Dhaka"
@@ -190,6 +202,9 @@
     ],
     "name:hat_x_preferred":[
         "Daka"
+    ],
+    "name:hau_x_preferred":[
+        "Dhaka"
     ],
     "name:hbs_x_preferred":[
         "Dhaka"
@@ -227,6 +242,9 @@
     "name:ind_x_preferred":[
         "Dhaka"
     ],
+    "name:inh_x_preferred":[
+        "\u0414\u0430\u043a\u043a\u0430"
+    ],
     "name:isl_x_preferred":[
         "Dakka"
     ],
@@ -235,6 +253,9 @@
     ],
     "name:ita_x_variant":[
         "Dh\u00e2k\u00e2"
+    ],
+    "name:jam_x_preferred":[
+        "Daaka"
     ],
     "name:jpn_x_preferred":[
         "\u30c0\u30c3\u30ab"
@@ -259,6 +280,9 @@
     ],
     "name:kbp_x_preferred":[
         "Taakaa"
+    ],
+    "name:khm_x_preferred":[
+        "\u178a\u17b6\u1780\u17b6"
     ],
     "name:kik_x_preferred":[
         "Dhaka"
@@ -302,6 +326,9 @@
     "name:ltz_x_preferred":[
         "Dhaka"
     ],
+    "name:lzh_x_preferred":[
+        "\u9054\u5361"
+    ],
     "name:mai_x_preferred":[
         "\u0922\u093e\u0915\u093e"
     ],
@@ -314,11 +341,17 @@
     "name:mhr_x_preferred":[
         "\u0414\u0430\u043a\u043a\u0435"
     ],
+    "name:mhr_x_variant":[
+        "\u0414\u0430\u043a\u043a\u0430"
+    ],
     "name:mkd_x_preferred":[
         "\u0414\u0430\u043a\u0430"
     ],
     "name:mon_x_preferred":[
         "\u0414\u0430\u043a\u043a\u0430"
+    ],
+    "name:mon_x_variant":[
+        "\u0414\u0430\u043a\u0430"
     ],
     "name:mri_x_preferred":[
         "Dhaka"
@@ -329,10 +362,16 @@
     "name:mya_x_preferred":[
         "\u1012\u102b\u1000\u102c\u1019\u103c\u102d\u102f\u1037"
     ],
+    "name:myv_x_preferred":[
+        "\u0414\u0430\u043a\u043a\u0430"
+    ],
     "name:nah_x_preferred":[
         "Daca"
     ],
     "name:nan_x_preferred":[
+        "Dhaka"
+    ],
+    "name:nds_x_preferred":[
         "Dhaka"
     ],
     "name:nep_x_preferred":[
@@ -404,8 +443,14 @@
     "name:sah_x_preferred":[
         "\u0414\u0430\u0430\u043a\u0430"
     ],
+    "name:sah_x_variant":[
+        "\u0414\u0430\u043a\u0430"
+    ],
     "name:san_x_preferred":[
         "\u0922\u093e\u0915\u093e"
+    ],
+    "name:sat_x_preferred":[
+        "\u1c70\u1c77\u1c5f\u1c60\u1c5f"
     ],
     "name:scn_x_preferred":[
         "Dacca"
@@ -461,11 +506,17 @@
     "name:tat_x_preferred":[
         "Dakka"
     ],
+    "name:tat_x_variant":[
+        "\u0414\u0430\u043a\u043a\u0430"
+    ],
     "name:tel_x_preferred":[
         "\u0c22\u0c3e\u0c15\u0c3e"
     ],
     "name:tgk_x_preferred":[
         "\u0414\u0430\u043a\u0430"
+    ],
+    "name:tgk_x_variant":[
+        "\u0414\u0430\u043a\u043a\u0430"
     ],
     "name:tgl_x_preferred":[
         "Dhaka"
@@ -484,6 +535,9 @@
     ],
     "name:uig_x_preferred":[
         "\u062f\u0627\u0643\u0627"
+    ],
+    "name:uig_x_variant":[
+        "\u062f\u0627\u0643\u0643\u0627"
     ],
     "name:ukr_x_preferred":[
         "\u0414\u0430\u043a\u043a\u0430"
@@ -508,6 +562,9 @@
     ],
     "name:war_x_preferred":[
         "Dhaka"
+    ],
+    "name:wuu_x_preferred":[
+        "\u8fbe\u5361"
     ],
     "name:xmf_x_preferred":[
         "\u10d3\u10d0\u10d9\u10d0"
@@ -681,7 +738,7 @@
         }
     ],
     "wof:id":421181477,
-    "wof:lastmodified":1561831134,
+    "wof:lastmodified":1563584378,
     "wof:name":"Dhaka",
     "wof:parent_id":421187803,
     "wof:placetype":"locality",

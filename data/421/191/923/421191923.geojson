@@ -35,17 +35,28 @@
     "name:ben_x_preferred":[
         "\u099c\u09be\u09ae\u09be\u09b2\u09aa\u09c1\u09b0"
     ],
+    "name:ben_x_variant":[
+        "\u099c\u09be\u09ae\u09be\u09b2\u09aa\u09c1\u09b0 \u099c\u09c7\u09b2\u09be"
+    ],
     "name:bpy_x_preferred":[
         "\u099c\u09be\u09ae\u09be\u09b2\u09aa\u09c1\u09b0"
     ],
+    "name:bpy_x_variant":[
+        "\u099c\u09be\u09ae\u09be\u09b2\u09aa\u09c1\u09b0 \u099c\u09bf\u09b2\u09be"
+    ],
     "name:ceb_x_preferred":[
         "Jamalpur"
+    ],
+    "name:deu_x_preferred":[
+        "Jamalpur"
+    ],
+    "name:ell_x_preferred":[
+        "\u0395\u03c0\u03b1\u03c1\u03c7\u03af\u03b1 \u03a4\u03b6\u03b1\u03bc\u03b1\u03bb\u03c0\u03bf\u03cd\u03c1"
     ],
     "name:eng_x_preferred":[
         "Jamalpur"
     ],
     "name:eng_x_variant":[
-        "Jamalpur",
         "Jamalpur District",
         "JAMALPUR"
     ],
@@ -66,6 +77,9 @@
     ],
     "name:lit_x_preferred":[
         "D\u017eamalpuras"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d1c\u0d2e\u0d7d\u0d2a\u0d41\u0d7c \u0d1c\u0d3f\u0d32\u0d4d\u0d32"
     ],
     "name:new_x_preferred":[
         "\u091c\u092e\u0932\u092a\u0941\u0930"
@@ -97,6 +111,9 @@
     "name:tam_x_preferred":[
         "\u0b9c\u0bae\u0bbe\u0bb2\u0bcd\u0baa\u0bc2\u0bb0\u0bcd \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0bae\u0bcd"
     ],
+    "name:tel_x_preferred":[
+        "\u0c1c\u0c2e\u0c32\u0c4d\u0c2a\u0c42\u0c30\u0c4d \u0c1c\u0c3f\u0c32\u0c4d\u0c32\u0c3e"
+    ],
     "name:urd_x_preferred":[
         "\u062c\u0645\u0627\u0644\u067e\u0648\u0631 \u0636\u0644\u0639"
     ],
@@ -105,6 +122,9 @@
     ],
     "name:war_x_preferred":[
         "Jamalpur"
+    ],
+    "name:wuu_x_preferred":[
+        "\u6770\u9a6c\u52d2\u5e03\u5c14\u53bf"
     ],
     "name:zho_x_preferred":[
         "\u6770\u9a6c\u52d2\u5e03\u5c14\u53bf"
@@ -169,7 +189,7 @@
         }
     ],
     "wof:id":421191923,
-    "wof:lastmodified":1561831134,
+    "wof:lastmodified":1563584385,
     "wof:name":"Jamalpur",
     "wof:parent_id":1108803101,
     "wof:placetype":"county",

@@ -38,11 +38,13 @@
     "name:bpy_x_preferred":[
         "\u09b6\u09b0\u09bf\u09af\u09bc\u09a4\u09aa\u09c1\u09b0 \u099c\u09bf\u09b2\u09be"
     ],
+    "name:ceb_x_preferred":[
+        "Shariatpur"
+    ],
     "name:eng_x_preferred":[
         "Shariatpur"
     ],
     "name:eng_x_variant":[
-        "Shariatpur",
         "Shariatpur District",
         "SHARIATPUR"
     ],
@@ -57,6 +59,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30b7\u30e3\u30ea\u30a2\u30c8\u30d7\u30eb\u770c"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d36\u0d30\u0d3f\u0d2f\u0d24\u0d4d\u0d2a\u0d42\u0d7c \u0d1c\u0d3f\u0d32\u0d4d\u0d32"
     ],
     "name:nld_x_preferred":[
         "Shariatpur"
@@ -81,6 +86,9 @@
     ],
     "name:tam_x_preferred":[
         "\u0b9a\u0bb0\u0bbf\u0baf\u0ba4\u0bcd\u0baa\u0bc2\u0bb0\u0bcd \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0bae\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c37\u0c30\u0c3f\u0c2f\u0c24\u0c4d\u0c2a\u0c42\u0c30\u0c4d \u0c1c\u0c3f\u0c32\u0c4d\u0c32\u0c3e"
     ],
     "name:urd_x_preferred":[
         "\u0634\u0631\u06cc\u0639\u062a \u067e\u0648\u0631 \u0636\u0644\u0639"
@@ -150,7 +158,7 @@
         }
     ],
     "wof:id":421188359,
-    "wof:lastmodified":1561831133,
+    "wof:lastmodified":1563584372,
     "wof:name":"Shariatpur",
     "wof:parent_id":85669009,
     "wof:placetype":"county",
