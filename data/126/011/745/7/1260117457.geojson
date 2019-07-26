@@ -31,6 +31,12 @@
     "name:ben_x_preferred":[
         "Dharampura"
     ],
+    "name:fas_x_preferred":[
+        "\u062f\u0647\u0631\u0645\u200c\u067e\u0648\u0631\u0647"
+    ],
+    "name:urd_x_preferred":[
+        "\u062f\u06be\u0631\u0645 \u067e\u0648\u0631\u06c1"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":1260117457,
-    "wof:lastmodified":1537586691,
+    "wof:lastmodified":1564156832,
     "wof:name":"Dharampura",
     "wof:parent_id":421191607,
     "wof:placetype":"locality",

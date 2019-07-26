@@ -31,6 +31,42 @@
     "name:ben_x_preferred":[
         "Kuchinda"
     ],
+    "name:ben_x_variant":[
+        "\u0995\u09cb\u099a\u09bf\u09a8\u09a6\u09be"
+    ],
+    "name:bpy_x_preferred":[
+        "\u0995\u09cb\u099a\u09bf\u09a8\u09a6\u09be"
+    ],
+    "name:ceb_x_preferred":[
+        "Kochinda"
+    ],
+    "name:ita_x_preferred":[
+        "Kochinda"
+    ],
+    "name:lit_x_preferred":[
+        "Ko\u010dinda"
+    ],
+    "name:msa_x_preferred":[
+        "Kochinda"
+    ],
+    "name:nld_x_preferred":[
+        "Kochinda"
+    ],
+    "name:ori_x_preferred":[
+        "\u0b15\u0b41\u0b1a\u0b3f\u0b23\u0b4d\u0b21\u0b3e"
+    ],
+    "name:por_x_preferred":[
+        "Kochinda"
+    ],
+    "name:swe_x_preferred":[
+        "Kochinda"
+    ],
+    "name:vie_x_preferred":[
+        "Kochinda"
+    ],
+    "name:zho_x_preferred":[
+        "\u79d1\u94a6\u8fbe"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -54,7 +90,7 @@
         }
     ],
     "wof:id":1293129163,
-    "wof:lastmodified":1537585912,
+    "wof:lastmodified":1564154009,
     "wof:name":"Kuchinda",
     "wof:parent_id":421191663,
     "wof:placetype":"locality",

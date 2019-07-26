@@ -31,6 +31,12 @@
     "name:ben_x_preferred":[
         "\u0100mtali"
     ],
+    "name:ceb_x_preferred":[
+        "Amtali"
+    ],
+    "name:swe_x_preferred":[
+        "Amtali"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":1259918103,
-    "wof:lastmodified":1537586262,
+    "wof:lastmodified":1564159001,
     "wof:name":"Amtali",
     "wof:parent_id":421201541,
     "wof:placetype":"locality",

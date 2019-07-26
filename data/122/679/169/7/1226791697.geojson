@@ -31,6 +31,36 @@
     "name:ben_x_preferred":[
         "Mahira"
     ],
+    "name:ben_x_variant":[
+        "\u09ae\u09be\u09b9\u09bf\u09b0\u09be"
+    ],
+    "name:bpy_x_preferred":[
+        "\u09ae\u09be\u09b9\u09bf\u09b0\u09be"
+    ],
+    "name:ita_x_preferred":[
+        "Mahira"
+    ],
+    "name:mlg_x_preferred":[
+        "Mahira"
+    ],
+    "name:msa_x_preferred":[
+        "Mahira"
+    ],
+    "name:new_x_preferred":[
+        "\u092e\u0939\u093f\u0930\u093e"
+    ],
+    "name:nld_x_preferred":[
+        "Mahira"
+    ],
+    "name:por_x_preferred":[
+        "Mahira"
+    ],
+    "name:vie_x_preferred":[
+        "Mahira"
+    ],
+    "name:zho_x_preferred":[
+        "\u9a6c\u5e0c\u62c9"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -54,7 +84,7 @@
         }
     ],
     "wof:id":1226791697,
-    "wof:lastmodified":1537586220,
+    "wof:lastmodified":1564160046,
     "wof:name":"Mahira",
     "wof:parent_id":421201541,
     "wof:placetype":"locality",

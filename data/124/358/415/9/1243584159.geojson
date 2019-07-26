@@ -31,6 +31,15 @@
     "name:ben_x_preferred":[
         "\u0100lipur"
     ],
+    "name:cat_x_preferred":[
+        "Alipur"
+    ],
+    "name:ceb_x_preferred":[
+        "Alipur"
+    ],
+    "name:swe_x_preferred":[
+        "Alipur"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":1243584159,
-    "wof:lastmodified":1537586205,
+    "wof:lastmodified":1564158598,
     "wof:name":"Alipur",
     "wof:parent_id":421172439,
     "wof:placetype":"locality",

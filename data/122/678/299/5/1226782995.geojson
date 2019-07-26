@@ -31,6 +31,12 @@
     "name:ben_x_preferred":[
         "Kuak\u0101ta"
     ],
+    "name:ben_x_variant":[
+        "\u0995\u09c1\u09af\u09bc\u09be\u0995\u09be\u099f\u09be"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e93\u4e9a\u52a0\u5854"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":1226782995,
-    "wof:lastmodified":1537585912,
+    "wof:lastmodified":1564160045,
     "wof:name":"Kuakata",
     "wof:parent_id":421169845,
     "wof:placetype":"locality",

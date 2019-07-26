@@ -31,6 +31,15 @@
     "name:ben_x_preferred":[
         "Morla"
     ],
+    "name:deu_x_preferred":[
+        "Morla"
+    ],
+    "name:ita_x_preferred":[
+        "Morla"
+    ],
+    "name:lmo_x_preferred":[
+        "M\u00f3rla"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":1326860423,
-    "wof:lastmodified":1537586492,
+    "wof:lastmodified":1564152062,
     "wof:name":"Morla",
     "wof:parent_id":421191663,
     "wof:placetype":"locality",

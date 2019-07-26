@@ -28,8 +28,32 @@
     "iso:country":"BD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0627\u0645\u0648\u0631\u06cc\u0627"
+    ],
     "name:ben_x_preferred":[
         "Amuria"
+    ],
+    "name:ceb_x_preferred":[
+        "Amuria"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0645\u0648\u0631\u06cc\u0627"
+    ],
+    "name:lug_x_preferred":[
+        "Amuria"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d05\u0d2e\u0d41\u0d31\u0d3f\u0d2f"
+    ],
+    "name:ron_x_preferred":[
+        "Amuria"
+    ],
+    "name:swa_x_preferred":[
+        "Amuria"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u0645\u0648\u0631\u06cc\u0627"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +78,7 @@
         }
     ],
     "wof:id":1343389323,
-    "wof:lastmodified":1537586202,
+    "wof:lastmodified":1564152780,
     "wof:name":"Amuria",
     "wof:parent_id":1108694689,
     "wof:placetype":"locality",

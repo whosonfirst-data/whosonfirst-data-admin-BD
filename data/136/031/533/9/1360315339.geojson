@@ -28,8 +28,41 @@
     "iso:country":"BD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0634\u0627\u0647\u062a\u0631\u0628\u0627\u062a\u064a"
+    ],
     "name:ben_x_preferred":[
         "Chhatrapati"
+    ],
+    "name:ben_x_variant":[
+        "\u099b\u09a4\u09cd\u09b0\u09aa\u09a4\u09bf"
+    ],
+    "name:ces_x_preferred":[
+        "\u010chatrapat\u00ed"
+    ],
+    "name:fra_x_preferred":[
+        "Chhatrapati"
+    ],
+    "name:hin_x_preferred":[
+        "\u091b\u0924\u094d\u0930\u092a\u0924\u093f"
+    ],
+    "name:ita_x_preferred":[
+        "Chhatrapati"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c1\u30e3\u30c8\u30e9\u30d1\u30c6\u30a3"
+    ],
+    "name:lit_x_preferred":[
+        "\u010chatrapatis"
+    ],
+    "name:mar_x_preferred":[
+        "\u091b\u0924\u094d\u0930\u092a\u0924\u0940"
+    ],
+    "name:por_x_preferred":[
+        "Chhatrapati"
+    ],
+    "name:urd_x_preferred":[
+        "\u0686\u06be\u062a\u0631\u067e\u062a\u06cc"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +87,7 @@
         }
     ],
     "wof:id":1360315339,
-    "wof:lastmodified":1537586088,
+    "wof:lastmodified":1564157595,
     "wof:name":"Chhatrapati",
     "wof:parent_id":421191663,
     "wof:placetype":"locality",

@@ -31,6 +31,45 @@
     "name:ben_x_preferred":[
         "Konnagar"
     ],
+    "name:ben_x_variant":[
+        "\u0995\u09cb\u09a8\u09cd\u09a8\u0997\u09b0"
+    ],
+    "name:bpy_x_preferred":[
+        "\u0995\u09cb\u09a8\u09cd\u09a8\u0997\u09b0"
+    ],
+    "name:ceb_x_preferred":[
+        "Konnagar"
+    ],
+    "name:hif_x_preferred":[
+        "Konnagar"
+    ],
+    "name:ind_x_preferred":[
+        "Konnagar"
+    ],
+    "name:ita_x_preferred":[
+        "Konnagar"
+    ],
+    "name:msa_x_preferred":[
+        "Konnagar"
+    ],
+    "name:new_x_preferred":[
+        "\u0915\u094b\u0928\u094d\u0928\u0917\u0930"
+    ],
+    "name:por_x_preferred":[
+        "Konnagar"
+    ],
+    "name:spa_x_preferred":[
+        "Konnagar"
+    ],
+    "name:swe_x_preferred":[
+        "Konnagar"
+    ],
+    "name:vie_x_preferred":[
+        "Konnagar"
+    ],
+    "name:zho_x_preferred":[
+        "\u79d1\u7eb3\u52a0\u5c14"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -54,7 +93,7 @@
         }
     ],
     "wof:id":1259913399,
-    "wof:lastmodified":1537586794,
+    "wof:lastmodified":1564158995,
     "wof:name":"Konnagar",
     "wof:parent_id":421190979,
     "wof:placetype":"locality",

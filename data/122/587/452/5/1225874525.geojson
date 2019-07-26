@@ -28,7 +28,31 @@
     "iso:country":"BD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bar_x_preferred":[
+        "Telia"
+    ],
     "name:ben_x_preferred":[
+        "Telia"
+    ],
+    "name:bih_x_preferred":[
+        "\u0924\u0947\u0932\u093f\u092f\u093e"
+    ],
+    "name:cat_x_preferred":[
+        "Telia"
+    ],
+    "name:ceb_x_preferred":[
+        "Telia"
+    ],
+    "name:deu_x_preferred":[
+        "Telia"
+    ],
+    "name:nep_x_preferred":[
+        "\u0924\u0947\u0932\u093f\u092f\u093e"
+    ],
+    "name:new_x_preferred":[
+        "\u0924\u0947\u0932\u093f\u092f\u093e"
+    ],
+    "name:pol_x_preferred":[
         "Telia"
     ],
     "src:geom":"geonames",
@@ -54,7 +78,7 @@
         }
     ],
     "wof:id":1225874525,
-    "wof:lastmodified":1537586753,
+    "wof:lastmodified":1564159816,
     "wof:name":"Telia",
     "wof:parent_id":1108694675,
     "wof:placetype":"locality",

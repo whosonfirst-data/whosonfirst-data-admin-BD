@@ -31,6 +31,27 @@
     "name:ben_x_preferred":[
         "Bh\u0101l\u0101m"
     ],
+    "name:ceb_x_preferred":[
+        "Valam"
+    ],
+    "name:fra_x_preferred":[
+        "Valam"
+    ],
+    "name:mai_x_preferred":[
+        "\u092d\u0932\u093e\u092e"
+    ],
+    "name:msa_x_preferred":[
+        "Valam"
+    ],
+    "name:nep_x_preferred":[
+        "\u092d\u0932\u093e\u092e"
+    ],
+    "name:new_x_preferred":[
+        "\u092d\u093e\u0932\u092e"
+    ],
+    "name:pol_x_preferred":[
+        "Valam"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -54,7 +75,7 @@
         }
     ],
     "wof:id":1326760313,
-    "wof:lastmodified":1537586143,
+    "wof:lastmodified":1564152428,
     "wof:name":"Bhalam",
     "wof:parent_id":421191663,
     "wof:placetype":"locality",

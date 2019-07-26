@@ -31,6 +31,21 @@
     "name:ben_x_preferred":[
         "Kharpa"
     ],
+    "name:ceb_x_preferred":[
+        "Kharpa"
+    ],
+    "name:mai_x_preferred":[
+        "\u0916\u093e\u0930\u094d\u092a\u093e"
+    ],
+    "name:msa_x_preferred":[
+        "Kharpa"
+    ],
+    "name:new_x_preferred":[
+        "\u0916\u0930\u094d\u092a\u093e"
+    ],
+    "name:pol_x_preferred":[
+        "Kharpa"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -54,7 +69,7 @@
         }
     ],
     "wof:id":1310342623,
-    "wof:lastmodified":1537586691,
+    "wof:lastmodified":1564157480,
     "wof:name":"Kharpa",
     "wof:parent_id":421191607,
     "wof:placetype":"locality",

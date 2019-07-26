@@ -31,6 +31,15 @@
     "name:ben_x_preferred":[
         "Paigaon"
     ],
+    "name:hin_x_preferred":[
+        "\u092a\u0948\u0917\u093e\u0901\u0935"
+    ],
+    "name:mai_x_preferred":[
+        "\u092a\u0948\u0917\u093e\u0901\u0935"
+    ],
+    "name:san_x_preferred":[
+        "\u092a\u0948\u0917\u094d\u0930\u093e\u092e"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":1226078495,
-    "wof:lastmodified":1537586730,
+    "wof:lastmodified":1564160207,
     "wof:name":"Paigaon",
     "wof:parent_id":1108694671,
     "wof:placetype":"locality",

@@ -31,6 +31,42 @@
     "name:ben_x_preferred":[
         "Charta"
     ],
+    "name:ceb_x_preferred":[
+        "Charta"
+    ],
+    "name:fra_x_preferred":[
+        "Charta"
+    ],
+    "name:ita_x_preferred":[
+        "Charta"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e9\u10d0\u10e0\u10e2\u10d0"
+    ],
+    "name:msa_x_preferred":[
+        "Charta"
+    ],
+    "name:nld_x_preferred":[
+        "Charta"
+    ],
+    "name:spa_x_preferred":[
+        "Charta"
+    ],
+    "name:swe_x_preferred":[
+        "Charta"
+    ],
+    "name:tgl_x_preferred":[
+        "Charta"
+    ],
+    "name:vie_x_preferred":[
+        "Charta"
+    ],
+    "name:war_x_preferred":[
+        "Charta"
+    ],
+    "name:zho_x_preferred":[
+        "\u67e5\u723e\u5854"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -54,7 +90,7 @@
         }
     ],
     "wof:id":1326860335,
-    "wof:lastmodified":1537586629,
+    "wof:lastmodified":1564152075,
     "wof:name":"Charta",
     "wof:parent_id":1108694703,
     "wof:placetype":"locality",

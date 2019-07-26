@@ -34,6 +34,12 @@
     "name:ben_x_variant":[
         "Salia"
     ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03ac\u03bb\u03bf\u03c5\u03b1"
+    ],
+    "name:slk_x_preferred":[
+        "Salua"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -57,7 +63,7 @@
         }
     ],
     "wof:id":1343691625,
-    "wof:lastmodified":1537585771,
+    "wof:lastmodified":1564153333,
     "wof:name":"Salua",
     "wof:parent_id":421172439,
     "wof:placetype":"locality",

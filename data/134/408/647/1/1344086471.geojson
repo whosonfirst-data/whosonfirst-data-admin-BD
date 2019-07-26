@@ -28,6 +28,21 @@
     "name:ben_x_preferred":[
         "Beguni"
     ],
+    "name:ben_x_variant":[
+        "\u09ac\u09c7\u0997\u09c1\u09a8\u09c0"
+    ],
+    "name:fra_x_preferred":[
+        "Beguni"
+    ],
+    "name:guj_x_preferred":[
+        "\u0aac\u0ac7\u0a97\u0ac1\u0aa8\u0ac0"
+    ],
+    "name:ita_x_preferred":[
+        "Beguni"
+    ],
+    "name:spa_x_preferred":[
+        "Beguni"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -51,7 +66,7 @@
         }
     ],
     "wof:id":1344086471,
-    "wof:lastmodified":1537586775,
+    "wof:lastmodified":1564152964,
     "wof:name":"Beguni",
     "wof:parent_id":1108694675,
     "wof:placetype":"locality",

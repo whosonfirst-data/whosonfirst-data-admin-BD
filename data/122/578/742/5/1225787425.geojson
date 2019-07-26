@@ -28,6 +28,12 @@
     "iso:country":"BD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "\u0995\u09c0\u09b0\u09cd\u09a4\u09a8\u0996\u09cb\u09b2\u09be \u09a8\u09a6\u09c0"
+    ],
+    "name:hin_x_preferred":[
+        "\u0915\u0940\u0930\u094d\u0924\u0928\u0916\u094b\u0932\u093e \u0928\u0926\u0940"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1225787425,
-    "wof:lastmodified":1537094631,
+    "wof:lastmodified":1564160244,
     "wof:name":"Kirtankhola",
     "wof:parent_id":1108694669,
     "wof:placetype":"locality",

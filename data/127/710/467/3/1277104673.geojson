@@ -28,8 +28,26 @@
     "iso:country":"BD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "\u09ae\u09b9\u09be\u09b8\u09cd\u09a5\u09be\u09a8\u0997\u09a1\u09bc"
+    ],
+    "name:bpy_x_preferred":[
+        "\u09ae\u09b9\u09be\u09b8\u09cd\u09a5\u09be\u09a8\u0997\u09a1\u09bc"
+    ],
     "name:eng_x_preferred":[
         "Mahastan"
+    ],
+    "name:epo_x_preferred":[
+        "Mahasthangarh"
+    ],
+    "name:fra_x_preferred":[
+        "Mahasthangarh"
+    ],
+    "name:ibo_x_preferred":[
+        "Mahasthangarh"
+    ],
+    "name:ind_x_preferred":[
+        "Mahasthangarh"
     ],
     "name:rus_x_preferred":[
         "\u041c\u0430\u0445\u0430\u0441\u0442\u0430\u043d"
@@ -58,7 +76,7 @@
         }
     ],
     "wof:id":1277104673,
-    "wof:lastmodified":1537586875,
+    "wof:lastmodified":1564155410,
     "wof:name":"Mahasthangarh",
     "wof:parent_id":421187793,
     "wof:placetype":"locality",

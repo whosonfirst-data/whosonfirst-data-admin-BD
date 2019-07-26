@@ -31,6 +31,15 @@
     "name:ben_x_preferred":[
         "Deogaon"
     ],
+    "name:cat_x_preferred":[
+        "Deogaon"
+    ],
+    "name:fas_x_preferred":[
+        "\u062f\u0626\u0648\u06af\u0627\u0626\u0648\u0646"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c7\u30fc\u30aa\u30ac\u30fc\u30aa\u30f3"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":1343987751,
-    "wof:lastmodified":1537586635,
+    "wof:lastmodified":1564152828,
     "wof:name":"Deogaon",
     "wof:parent_id":1108694703,
     "wof:placetype":"locality",

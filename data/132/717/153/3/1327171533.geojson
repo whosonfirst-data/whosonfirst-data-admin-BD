@@ -31,6 +31,42 @@
     "name:ben_x_preferred":[
         "Bh\u0101nd\u0101rdaha"
     ],
+    "name:ben_x_variant":[
+        "\u09ad\u09be\u09a3\u09cd\u09a1\u09be\u09b0\u09a6\u09b9"
+    ],
+    "name:bpy_x_preferred":[
+        "\u09ad\u09be\u09a3\u09cd\u09a1\u09be\u09b0\u09a6\u09b9"
+    ],
+    "name:ceb_x_preferred":[
+        "Bhand\u0101rdaha"
+    ],
+    "name:hif_x_preferred":[
+        "Bhandardaha"
+    ],
+    "name:ita_x_preferred":[
+        "Bhandardaha"
+    ],
+    "name:msa_x_preferred":[
+        "Bhandardaha"
+    ],
+    "name:new_x_preferred":[
+        "\u0935\u0928\u094d\u0926\u0930\u0926\u0939"
+    ],
+    "name:nld_x_preferred":[
+        "Bhandardaha"
+    ],
+    "name:por_x_preferred":[
+        "Bhandardaha"
+    ],
+    "name:swe_x_preferred":[
+        "Bhand\u0101rdaha"
+    ],
+    "name:vie_x_preferred":[
+        "Bhandardaha"
+    ],
+    "name:zho_x_preferred":[
+        "\u73ed\u8fbe\u5c14\u8fbe\u54c8"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -54,7 +90,7 @@
         }
     ],
     "wof:id":1327171533,
-    "wof:lastmodified":1537586553,
+    "wof:lastmodified":1564152670,
     "wof:name":"Bhandardaha",
     "wof:parent_id":1108694687,
     "wof:placetype":"locality",

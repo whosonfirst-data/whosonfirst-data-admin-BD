@@ -31,6 +31,12 @@
     "name:ben_x_preferred":[
         "Shilaidaha"
     ],
+    "name:ben_x_variant":[
+        "\u09b6\u09bf\u09b2\u09be\u0987\u09a6\u09b9"
+    ],
+    "name:ind_x_preferred":[
+        "Shilaidaha"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":1259716971,
-    "wof:lastmodified":1537586599,
+    "wof:lastmodified":1564159211,
     "wof:name":"Shilaidaha",
     "wof:parent_id":890438075,
     "wof:placetype":"locality",

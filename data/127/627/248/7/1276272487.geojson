@@ -31,8 +31,20 @@
     "name:ben_x_preferred":[
         "K\u0101liganj"
     ],
+    "name:ceb_x_preferred":[
+        "Kaliganj"
+    ],
+    "name:ita_x_preferred":[
+        "Kaliganj"
+    ],
+    "name:swe_x_preferred":[
+        "Kaliganj"
+    ],
     "name:und_x_variant":[
         "Kaligang"
+    ],
+    "name:zho_x_preferred":[
+        "\u5361\u5229\u7518\u5091"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -57,7 +69,7 @@
         }
     ],
     "wof:id":1276272487,
-    "wof:lastmodified":1537585955,
+    "wof:lastmodified":1564154708,
     "wof:name":"Kaliganj",
     "wof:parent_id":421205057,
     "wof:placetype":"locality",

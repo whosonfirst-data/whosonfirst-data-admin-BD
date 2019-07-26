@@ -28,6 +28,24 @@
     "iso:country":"BD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "\u09a8\u0993\u0997\u09be\u0981"
+    ],
+    "name:epo_x_preferred":[
+        "Naogaon"
+    ],
+    "name:ron_x_preferred":[
+        "Naogaon"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u0430\u043e\u0433\u0430\u043e\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Naogaon"
+    ],
+    "name:urd_x_preferred":[
+        "\u0646\u0627\u0648 \u06af\u0627\u0624\u06ba"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632475
@@ -45,7 +63,7 @@
         }
     ],
     "wof:id":1209548953,
-    "wof:lastmodified":1536283754,
+    "wof:lastmodified":1564155480,
     "wof:name":"Naogaon",
     "wof:parent_id":85632475,
     "wof:placetype":"locality",

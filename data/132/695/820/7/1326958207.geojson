@@ -28,6 +28,27 @@
     "name:ben_x_preferred":[
         "Chakia"
     ],
+    "name:ben_x_variant":[
+        "\u099a\u09be\u0995\u09bf\u09af\u09bc\u09be"
+    ],
+    "name:bpy_x_preferred":[
+        "\u099a\u09be\u0995\u09bf\u09af\u09bc\u09be"
+    ],
+    "name:ceb_x_preferred":[
+        "Chakia"
+    ],
+    "name:new_x_preferred":[
+        "\u091a\u0915\u093f\u092f\u093e"
+    ],
+    "name:nld_x_preferred":[
+        "Chakia"
+    ],
+    "name:pol_x_preferred":[
+        "Chakia"
+    ],
+    "name:swe_x_preferred":[
+        "Chakia"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -51,7 +72,7 @@
         }
     ],
     "wof:id":1326958207,
-    "wof:lastmodified":1537586778,
+    "wof:lastmodified":1564152267,
     "wof:name":"Chakia",
     "wof:parent_id":1108694675,
     "wof:placetype":"locality",

@@ -31,6 +31,42 @@
     "name:ben_x_preferred":[
         "Beldanga"
     ],
+    "name:ben_x_variant":[
+        "\u09ac\u09c7\u09b2\u09a1\u09be\u0999\u09be"
+    ],
+    "name:bpy_x_preferred":[
+        "\u09ac\u09c7\u09b2\u09a1\u09be\u0999\u09be"
+    ],
+    "name:ceb_x_preferred":[
+        "Beld\u0101nga"
+    ],
+    "name:fra_x_preferred":[
+        "Beldanga"
+    ],
+    "name:ita_x_preferred":[
+        "Beldanga"
+    ],
+    "name:msa_x_preferred":[
+        "Beldanga"
+    ],
+    "name:new_x_preferred":[
+        "\u092c\u0947\u0932\u094d\u0926\u0902\u0917\u093e"
+    ],
+    "name:por_x_preferred":[
+        "Beldanga"
+    ],
+    "name:spa_x_preferred":[
+        "Beldanga"
+    ],
+    "name:swe_x_preferred":[
+        "Beld\u0101nga"
+    ],
+    "name:vie_x_preferred":[
+        "Beldanga"
+    ],
+    "name:zho_x_preferred":[
+        "\u8d1d\u5c14\u5f53\u683c\u963f"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -54,7 +90,7 @@
         }
     ],
     "wof:id":1193167011,
-    "wof:lastmodified":1537586149,
+    "wof:lastmodified":1564156502,
     "wof:name":"Beldanga",
     "wof:parent_id":421191663,
     "wof:placetype":"locality",

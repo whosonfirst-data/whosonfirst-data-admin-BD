@@ -28,8 +28,14 @@
     "iso:country":"BD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0627\u06af\u0631\u0628\u0627\u0631\u06cc"
+    ],
     "name:und_x_variant":[
         "Agharb\u0101ri"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u06af\u0631\u0628\u0627\u0631\u06cc"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":1326958379,
-    "wof:lastmodified":1537586210,
+    "wof:lastmodified":1564152293,
     "wof:name":"Agharbari",
     "wof:parent_id":1108694677,
     "wof:placetype":"locality",

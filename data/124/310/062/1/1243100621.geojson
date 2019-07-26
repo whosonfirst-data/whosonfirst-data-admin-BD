@@ -34,6 +34,12 @@
     "name:ben_x_variant":[
         "Madanpura"
     ],
+    "name:ceb_x_preferred":[
+        "Madanpur"
+    ],
+    "name:swe_x_preferred":[
+        "Madanpur"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -57,7 +63,7 @@
         }
     ],
     "wof:id":1243100621,
-    "wof:lastmodified":1537585898,
+    "wof:lastmodified":1564158951,
     "wof:name":"Madanpur",
     "wof:parent_id":421169845,
     "wof:placetype":"locality",

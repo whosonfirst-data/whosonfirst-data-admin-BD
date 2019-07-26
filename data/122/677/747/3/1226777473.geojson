@@ -34,6 +34,12 @@
     "name:ben_x_variant":[
         "Samaspur"
     ],
+    "name:fas_x_preferred":[
+        "\u0634\u0645\u0633\u200c\u067e\u0648\u0631"
+    ],
+    "name:urd_x_preferred":[
+        "\u0634\u0645\u0633 \u067e\u0648\u0631"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -57,7 +63,7 @@
         }
     ],
     "wof:id":1226777473,
-    "wof:lastmodified":1537585769,
+    "wof:lastmodified":1564160060,
     "wof:name":"Shamaspur",
     "wof:parent_id":421191607,
     "wof:placetype":"locality",

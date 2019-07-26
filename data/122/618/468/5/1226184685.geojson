@@ -28,6 +28,12 @@
     "iso:country":"BD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Madhyam"
+    ],
+    "name:hin_x_preferred":[
+        "\u092e\u093e\u0927\u094d\u092f\u092e"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1226184685,
-    "wof:lastmodified":1537020688,
+    "wof:lastmodified":1564159552,
     "wof:name":"Madhyam",
     "wof:parent_id":421201541,
     "wof:placetype":"locality",

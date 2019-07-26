@@ -31,6 +31,51 @@
     "name:ben_x_preferred":[
         "Baidyab\u0101ti"
     ],
+    "name:ben_x_variant":[
+        "\u09ac\u09c8\u09a6\u09cd\u09af\u09ac\u09be\u099f\u09bf"
+    ],
+    "name:bih_x_preferred":[
+        "\u092c\u0948\u0926\u094d\u092f\u093e\u092c\u093e\u0924\u0940"
+    ],
+    "name:bpy_x_preferred":[
+        "\u09ac\u09c8\u09a6\u09cd\u09af\u09ac\u09be\u09a4\u09bf"
+    ],
+    "name:ceb_x_preferred":[
+        "Baidyab\u0101ti"
+    ],
+    "name:hif_x_preferred":[
+        "Baidyabati"
+    ],
+    "name:ind_x_preferred":[
+        "Baidyabati"
+    ],
+    "name:ita_x_preferred":[
+        "Baidyabati"
+    ],
+    "name:msa_x_preferred":[
+        "Baidyabati"
+    ],
+    "name:new_x_preferred":[
+        "\u0935\u0948\u0926\u094d\u092f\u092c\u0924\u093f"
+    ],
+    "name:nld_x_preferred":[
+        "Baidyabati"
+    ],
+    "name:por_x_preferred":[
+        "Baidyabati"
+    ],
+    "name:spa_x_preferred":[
+        "Baidyabati"
+    ],
+    "name:swe_x_preferred":[
+        "Baidyabati"
+    ],
+    "name:vie_x_preferred":[
+        "Baidyabati"
+    ],
+    "name:zho_x_preferred":[
+        "\u62dc\u8fea\u4e9a\u5df4\u8482"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -54,7 +99,7 @@
         }
     ],
     "wof:id":1226580935,
-    "wof:lastmodified":1537586183,
+    "wof:lastmodified":1564159644,
     "wof:name":"Baidyabati",
     "wof:parent_id":421191663,
     "wof:placetype":"locality",

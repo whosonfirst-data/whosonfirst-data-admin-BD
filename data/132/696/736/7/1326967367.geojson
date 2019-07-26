@@ -31,6 +31,81 @@
     "name:ben_x_preferred":[
         "Balurghat"
     ],
+    "name:ben_x_variant":[
+        "\u09ac\u09be\u09b2\u09c1\u09b0\u0998\u09be\u099f"
+    ],
+    "name:bih_x_preferred":[
+        "\u092c\u093e\u0932\u0941\u0930\u0918\u093e\u091f"
+    ],
+    "name:bpy_x_preferred":[
+        "\u09ac\u09be\u09b2\u09c1\u09b0\u0998\u09be\u099f"
+    ],
+    "name:cat_x_preferred":[
+        "Balurghat"
+    ],
+    "name:ceb_x_preferred":[
+        "B\u0101lurgh\u0101t"
+    ],
+    "name:fra_x_preferred":[
+        "Balurghat"
+    ],
+    "name:guj_x_preferred":[
+        "\u0aac\u0abe\u0ab2\u0ac1\u0ab0\u0a98\u0abe\u0a9f"
+    ],
+    "name:hif_x_preferred":[
+        "Balurghat"
+    ],
+    "name:hin_x_preferred":[
+        "\u092c\u093e\u0932\u0941\u0930\u0918\u093e\u091f"
+    ],
+    "name:ita_x_preferred":[
+        "Balurghat"
+    ],
+    "name:mar_x_preferred":[
+        "\u092c\u093e\u0932\u0941\u0930\u0918\u093e\u091f"
+    ],
+    "name:mlg_x_preferred":[
+        "Balurghat"
+    ],
+    "name:msa_x_preferred":[
+        "Balurghat"
+    ],
+    "name:new_x_preferred":[
+        "\u092c\u093e\u0932\u0941\u0930\u0918\u093e\u091f"
+    ],
+    "name:ori_x_preferred":[
+        "\u0b2c\u0b3e\u0b32\u0b41\u0b30\u0b4d\u200c\u0b18\u0b3e\u0b1f"
+    ],
+    "name:pam_x_preferred":[
+        "Balurghat"
+    ],
+    "name:pol_x_preferred":[
+        "Balurghat"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u043b\u0443\u0440\u0433\u0445\u0430\u0442"
+    ],
+    "name:san_x_preferred":[
+        "\u092c\u093e\u0932\u0941\u0930\u0918\u093e\u091f"
+    ],
+    "name:spa_x_preferred":[
+        "Balurghat"
+    ],
+    "name:swe_x_preferred":[
+        "Balurghat"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u0627\u0644\u0648\u0631 \u06af\u06be\u0627\u0679"
+    ],
+    "name:vie_x_preferred":[
+        "Balurghat"
+    ],
+    "name:war_x_preferred":[
+        "Balurghat"
+    ],
+    "name:zho_x_preferred":[
+        "\u5df4\u5362\u5c14\u52a0\u7279"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -54,7 +129,7 @@
         }
     ],
     "wof:id":1326967367,
-    "wof:lastmodified":1537586785,
+    "wof:lastmodified":1564152561,
     "wof:name":"Balurghat",
     "wof:parent_id":421190979,
     "wof:placetype":"locality",

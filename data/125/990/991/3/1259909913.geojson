@@ -31,8 +31,26 @@
     "name:ben_x_preferred":[
         "Sh\u012bk\u0101rpur"
     ],
+    "name:ceb_x_preferred":[
+        "Shikarpur"
+    ],
+    "name:pol_x_preferred":[
+        "Shikarpur"
+    ],
+    "name:pus_x_preferred":[
+        "\u0634\u06a9\u0627\u0631\u067e\u0648\u0631"
+    ],
+    "name:swe_x_preferred":[
+        "Shikarpur"
+    ],
     "name:und_x_variant":[
         "Sikarpur"
+    ],
+    "name:urd_x_preferred":[
+        "\u0634\u06a9\u0627\u0631\u067e\u0648\u0631"
+    ],
+    "name:vie_x_preferred":[
+        "Shikarpur"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -57,7 +75,7 @@
         }
     ],
     "wof:id":1259909913,
-    "wof:lastmodified":1537585752,
+    "wof:lastmodified":1564159074,
     "wof:name":"Shikarpur",
     "wof:parent_id":1108694697,
     "wof:placetype":"locality",

@@ -28,6 +28,21 @@
     "iso:country":"BD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Palli"
+    ],
+    "name:fin_x_preferred":[
+        "Palli"
+    ],
+    "name:ita_x_preferred":[
+        "Palli"
+    ],
+    "name:swe_x_preferred":[
+        "Palli"
+    ],
+    "name:vol_x_preferred":[
+        "Palli"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -51,7 +66,7 @@
         }
     ],
     "wof:id":1327060013,
-    "wof:lastmodified":1536721073,
+    "wof:lastmodified":1564151885,
     "wof:name":"Palli",
     "wof:parent_id":421187803,
     "wof:placetype":"locality",

@@ -28,6 +28,93 @@
     "iso:country":"BD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062f\u0648\u063a\u0627\u0631"
+    ],
+    "name:ben_x_preferred":[
+        "\u09a6\u09c7\u0993\u0998\u09b0"
+    ],
+    "name:bih_x_preferred":[
+        "\u0926\u0947\u0935\u0918\u0930"
+    ],
+    "name:bpy_x_preferred":[
+        "\u09a6\u09c7\u0993\u0998\u09b0"
+    ],
+    "name:ceb_x_preferred":[
+        "Deoghar"
+    ],
+    "name:deu_x_preferred":[
+        "Deoghar"
+    ],
+    "name:fra_x_preferred":[
+        "Deoghar"
+    ],
+    "name:hif_x_preferred":[
+        "Deoghar"
+    ],
+    "name:hin_x_preferred":[
+        "\u0926\u0947\u0935\u0918\u0930"
+    ],
+    "name:ita_x_preferred":[
+        "Deoghar"
+    ],
+    "name:mai_x_preferred":[
+        "\u0926\u0947\u0935\u0918\u0930"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d26\u0d47\u0d35\u0d4d\u0d18\u0d7c"
+    ],
+    "name:mar_x_preferred":[
+        "\u0926\u0947\u0935\u0918\u0930"
+    ],
+    "name:mlg_x_preferred":[
+        "Deoghar"
+    ],
+    "name:msa_x_preferred":[
+        "Deoghar"
+    ],
+    "name:nep_x_preferred":[
+        "\u0926\u0947\u0935\u0918\u0930"
+    ],
+    "name:new_x_preferred":[
+        "\u0926\u0947\u0935\u0918\u0930"
+    ],
+    "name:ori_x_preferred":[
+        "\u0b26\u0b47\u0b13\u0b17\u0b21\u0b3c"
+    ],
+    "name:pam_x_preferred":[
+        "Deoghar"
+    ],
+    "name:pol_x_preferred":[
+        "Deoghar"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0435\u043e\u0433\u0430\u0440\u0445"
+    ],
+    "name:san_x_preferred":[
+        "\u0926\u0947\u0935\u0918\u0930"
+    ],
+    "name:sat_x_preferred":[
+        "\u1c6b\u1c6e\u1c63\u1c5c\u1c77\u1c5a\u1c68"
+    ],
+    "name:spa_x_preferred":[
+        "Deoghar"
+    ],
+    "name:srp_x_preferred":[
+        "\u0414\u0435\u043e\u0433\u0430\u0440"
+    ],
+    "name:swe_x_preferred":[
+        "Deoghar"
+    ],
+    "name:vie_x_preferred":[
+        "Deoghar"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10d3\u10d4\u10dd\u10d2\u10d0\u10e0\u10f0\u10d8"
+    ],
+    "name:zho_x_preferred":[
+        "\u5fb7\u5965\u52a0\u5c14"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -51,7 +138,7 @@
         }
     ],
     "wof:id":1276156663,
-    "wof:lastmodified":1537014813,
+    "wof:lastmodified":1564155068,
     "wof:name":"Deoghar",
     "wof:parent_id":421170483,
     "wof:placetype":"locality",

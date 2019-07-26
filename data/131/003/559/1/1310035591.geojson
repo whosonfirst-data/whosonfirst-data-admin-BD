@@ -28,7 +28,19 @@
     "iso:country":"BD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0631\u0636\u0648\u0629"
+    ],
     "name:ben_x_preferred":[
+        "Radwa"
+    ],
+    "name:fas_x_preferred":[
+        "\u0631\u0636\u0648\u0647"
+    ],
+    "name:pol_x_preferred":[
+        "Ridwa"
+    ],
+    "name:vie_x_preferred":[
         "Radwa"
     ],
     "src:geom":"geonames",
@@ -54,7 +66,7 @@
         }
     ],
     "wof:id":1310035591,
-    "wof:lastmodified":1537586862,
+    "wof:lastmodified":1564157389,
     "wof:name":"Radwa",
     "wof:parent_id":1108694687,
     "wof:placetype":"locality",

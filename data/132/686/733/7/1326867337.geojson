@@ -28,6 +28,15 @@
     "iso:country":"BD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0644\u064a\u0645 \u0623\u0628\u0627\u062f"
+    ],
+    "name:fas_x_preferred":[
+        "\u0639\u0644\u06cc\u0645\u200c\u0622\u0628\u0627\u062f"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u043b\u0456\u043c\u0430\u0431\u0430\u0434"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -51,7 +60,7 @@
         }
     ],
     "wof:id":1326867337,
-    "wof:lastmodified":1536997319,
+    "wof:lastmodified":1564152053,
     "wof:name":"Alimabad",
     "wof:parent_id":421187745,
     "wof:placetype":"locality",

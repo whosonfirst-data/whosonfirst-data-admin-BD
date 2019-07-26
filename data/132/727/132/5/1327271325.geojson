@@ -34,6 +34,24 @@
     "name:ben_x_variant":[
         "Mohanpur"
     ],
+    "name:ceb_x_preferred":[
+        "Moha"
+    ],
+    "name:deu_x_preferred":[
+        "Moha"
+    ],
+    "name:fra_x_preferred":[
+        "Moha"
+    ],
+    "name:hun_x_preferred":[
+        "Moha"
+    ],
+    "name:nld_x_preferred":[
+        "Moha"
+    ],
+    "name:swe_x_preferred":[
+        "Moha"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -57,7 +75,7 @@
         }
     ],
     "wof:id":1327271325,
-    "wof:lastmodified":1537585865,
+    "wof:lastmodified":1564152739,
     "wof:name":"Moha",
     "wof:parent_id":421172439,
     "wof:placetype":"locality",

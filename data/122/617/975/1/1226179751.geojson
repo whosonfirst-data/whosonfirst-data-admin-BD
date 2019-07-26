@@ -28,7 +28,19 @@
     "iso:country":"BD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u062d\u0648\u0631\u0649"
+    ],
     "name:ben_x_preferred":[
+        "Bhora"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u062d\u0648\u0631\u06cc"
+    ],
+    "name:pol_x_preferred":[
+        "Bahura"
+    ],
+    "name:vie_x_preferred":[
         "Bhora"
     ],
     "src:geom":"geonames",
@@ -54,7 +66,7 @@
         }
     ],
     "wof:id":1226179751,
-    "wof:lastmodified":1537586343,
+    "wof:lastmodified":1564159541,
     "wof:name":"Bhora",
     "wof:parent_id":421176043,
     "wof:placetype":"locality",

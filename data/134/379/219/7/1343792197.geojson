@@ -31,6 +31,15 @@
     "name:ben_x_preferred":[
         "Kesabpur"
     ],
+    "name:ben_x_variant":[
+        "\u0995\u09c7\u09b6\u09ac\u09aa\u09c1\u09b0"
+    ],
+    "name:ceb_x_preferred":[
+        "Kesabpur"
+    ],
+    "name:swe_x_preferred":[
+        "Kesabpur"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":1343792197,
-    "wof:lastmodified":1537586528,
+    "wof:lastmodified":1564153045,
     "wof:name":"Kesabpur",
     "wof:parent_id":421191663,
     "wof:placetype":"locality",

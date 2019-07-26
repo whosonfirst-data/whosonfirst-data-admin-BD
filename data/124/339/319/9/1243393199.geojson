@@ -31,6 +31,12 @@
     "name:ben_x_preferred":[
         "Amla"
     ],
+    "name:ben_x_variant":[
+        "\u0986\u09ae\u09b2\u09be"
+    ],
+    "name:fra_x_preferred":[
+        "Amla"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":1243393199,
-    "wof:lastmodified":1537586203,
+    "wof:lastmodified":1564158310,
     "wof:name":"Amla",
     "wof:parent_id":890438075,
     "wof:placetype":"locality",

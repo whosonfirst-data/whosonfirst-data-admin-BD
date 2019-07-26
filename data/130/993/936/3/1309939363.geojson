@@ -31,6 +31,18 @@
     "name:ben_x_preferred":[
         "P\u0101rkh\u0101li"
     ],
+    "name:deu_x_preferred":[
+        "Barhal"
+    ],
+    "name:kat_x_preferred":[
+        "\u10de\u10d0\u10e0\u10ee\u10d0\u10da\u10d8"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0430\u0440\u0445\u0430\u043b\u0438"
+    ],
+    "name:tur_x_preferred":[
+        "Parhali Manast\u0131r\u0131"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -54,7 +66,7 @@
         }
     ],
     "wof:id":1309939363,
-    "wof:lastmodified":1537586612,
+    "wof:lastmodified":1564157957,
     "wof:name":"Parkhali",
     "wof:parent_id":421185473,
     "wof:placetype":"locality",

@@ -28,9 +28,33 @@
     "iso:country":"BD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "\u09b8\u09be\u09b0\u09bf\u09af\u09bc\u09be\u0995\u09be\u09a8\u09cd\u09a6\u09bf \u0989\u09aa\u099c\u09c7\u09b2\u09be"
+    ],
+    "name:bpy_x_preferred":[
+        "\u09b8\u09be\u09b0\u09bf\u09af\u09bc\u09be\u0995\u09be\u09a8\u09cd\u09a6\u09bf \u0989\u09aa\u099c\u09bf\u09b2\u09be"
+    ],
+    "name:fra_x_preferred":[
+        "Sariakandi"
+    ],
+    "name:hin_x_preferred":[
+        "\u0938\u093e\u0930\u093f\u092f\u093c\u093e\u0915\u093e\u0928\u094d\u0926\u0940 \u0909\u092a\u091c\u093f\u0932\u093e"
+    ],
+    "name:ita_x_preferred":[
+        "Sariakandi"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u0440\u0438\u0430\u043a\u0430\u043d\u0434\u0438"
+    ],
+    "name:spa_x_preferred":[
+        "Sariakandi"
+    ],
     "name:und_x_variant":[
         "Sariakandi",
         "Sh\u0101ri\u0101k\u0101ndi"
+    ],
+    "name:zho_x_preferred":[
+        "\u8428\u91cc\u963f\u574e\u8482\u4e4c\u5e15\u9f50\u62c9"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -56,7 +80,7 @@
         }
     ],
     "wof:id":1293817399,
-    "wof:lastmodified":1537585687,
+    "wof:lastmodified":1564154440,
     "wof:name":"Shariakandi",
     "wof:parent_id":421187793,
     "wof:placetype":"locality",

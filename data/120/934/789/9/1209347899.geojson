@@ -28,6 +28,27 @@
     "iso:country":"BD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u067e\u0648\u0644\u0627"
+    ],
+    "name:cat_x_preferred":[
+        "Polla"
+    ],
+    "name:ceb_x_preferred":[
+        "Polla"
+    ],
+    "name:ita_x_preferred":[
+        "Polla"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u043e\u043b\u043b\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Polla"
+    ],
+    "name:swe_x_preferred":[
+        "Polla"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632475
@@ -37,7 +58,7 @@
         "gn:id":1191017
     },
     "wof:country":"BD",
-    "wof:geomhash":"8201e2c1c82e66eb19366ebf9b74f418",
+    "wof:geomhash":"29885d296bedc65855455ca3a54c4faa",
     "wof:hierarchy":[
         {
             "country_id":85632475,
@@ -45,7 +66,7 @@
         }
     ],
     "wof:id":1209347899,
-    "wof:lastmodified":1536289847,
+    "wof:lastmodified":1564156113,
     "wof:name":"Polla",
     "wof:parent_id":85632475,
     "wof:placetype":"locality",
@@ -56,9 +77,9 @@
 },
   "bbox": [
     89.0927,
-    24.917720000000006,
+    24.91772000000001,
     89.0927,
-    24.917720000000006
+    24.91772000000001
 ],
   "geometry": {"coordinates":[89.09269999999999,24.91772000000001],"type":"Point"}
 }

@@ -28,6 +28,9 @@
     "iso:country":"BD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bpy_x_preferred":[
+        "\u0989\u09b0\u09be\u09a8\u09bf\u09af\u09bc\u09be \u0987\u0989\u09a8\u09bf\u09af\u09bc\u09a8"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1293129181,
-    "wof:lastmodified":1536806557,
+    "wof:lastmodified":1564154011,
     "wof:name":"Ulania",
     "wof:parent_id":421187745,
     "wof:placetype":"locality",

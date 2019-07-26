@@ -31,6 +31,21 @@
     "name:ben_x_preferred":[
         "Birp\u0101ra"
     ],
+    "name:ben_x_variant":[
+        "\u09ac\u09c0\u09b0\u09aa\u09be\u09a1\u09bc\u09be"
+    ],
+    "name:ceb_x_preferred":[
+        "Birpara"
+    ],
+    "name:hin_x_preferred":[
+        "\u092c\u0940\u0930\u092a\u093e\u0921\u093c\u093e"
+    ],
+    "name:spa_x_preferred":[
+        "Birpara"
+    ],
+    "name:swe_x_preferred":[
+        "Birpara"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -54,7 +69,7 @@
         }
     ],
     "wof:id":1226272457,
-    "wof:lastmodified":1537586286,
+    "wof:lastmodified":1564159564,
     "wof:name":"Birpara",
     "wof:parent_id":1108694697,
     "wof:placetype":"locality",

@@ -31,6 +31,18 @@
     "name:ben_x_preferred":[
         "Ben\u0101pol"
     ],
+    "name:ben_x_variant":[
+        "\u09ac\u09c7\u09a8\u09be\u09aa\u09cb\u09b2"
+    ],
+    "name:fra_x_preferred":[
+        "Benapole"
+    ],
+    "name:hin_x_preferred":[
+        "\u092c\u0947\u0928\u093e\u092a\u094b\u0932"
+    ],
+    "name:pan_x_preferred":[
+        "\u0a2c\u0a48\u0a02\u0a28\u0a3e\u0a2a\u0a4b\u0a32"
+    ],
     "name:und_x_variant":[
         "Benapole"
     ],
@@ -58,7 +70,7 @@
         }
     ],
     "wof:id":1226172431,
-    "wof:lastmodified":1537586148,
+    "wof:lastmodified":1564159487,
     "wof:name":"Benapol",
     "wof:parent_id":421176039,
     "wof:placetype":"locality",

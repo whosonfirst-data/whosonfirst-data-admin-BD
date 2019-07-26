@@ -28,6 +28,18 @@
     "iso:country":"BD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0420\u0438\u0447\u0438"
+    ],
+    "name:cat_x_preferred":[
+        "Richi"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0438\u0447\u0438"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u0456\u0447\u0456"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -51,7 +63,7 @@
         }
     ],
     "wof:id":1243100627,
-    "wof:lastmodified":1536806797,
+    "wof:lastmodified":1564158951,
     "wof:name":"Richi",
     "wof:parent_id":421176045,
     "wof:placetype":"locality",

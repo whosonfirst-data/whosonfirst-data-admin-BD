@@ -31,6 +31,9 @@
     "name:ben_x_preferred":[
         "G\u0101ngua"
     ],
+    "name:ben_x_variant":[
+        "\u09aa\u09be\u09b0\u09ad\u09c7\u099c \u0997\u09be\u0999\u09cd\u0997\u09c1\u09af\u09bc\u09be"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1326660307,
-    "wof:lastmodified":1537586645,
+    "wof:lastmodified":1564152223,
     "wof:name":"Gangua",
     "wof:parent_id":1108694703,
     "wof:placetype":"locality",

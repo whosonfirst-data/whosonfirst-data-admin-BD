@@ -31,6 +31,15 @@
     "name:ben_x_preferred":[
         "Digha"
     ],
+    "name:ben_x_variant":[
+        "\u09a6\u09c0\u0998\u09be"
+    ],
+    "name:ceb_x_preferred":[
+        "Digha"
+    ],
+    "name:nep_x_preferred":[
+        "\u0926\u0940\u0918\u093e"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":1343295565,
-    "wof:lastmodified":1537586541,
+    "wof:lastmodified":1564153464,
     "wof:name":"Digha",
     "wof:parent_id":421191663,
     "wof:placetype":"locality",

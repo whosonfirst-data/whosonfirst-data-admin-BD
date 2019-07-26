@@ -31,6 +31,12 @@
     "name:ben_x_preferred":[
         "Jirat"
     ],
+    "name:ben_x_variant":[
+        "\u099c\u09bf\u09b0\u09be\u099f"
+    ],
+    "name:hin_x_preferred":[
+        "\u091c\u093f\u0930\u093e\u091f"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632475
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1209549035,
-    "wof:lastmodified":1537586570,
+    "wof:lastmodified":1564155495,
     "wof:name":"Jirat",
     "wof:parent_id":85632475,
     "wof:placetype":"locality",

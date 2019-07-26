@@ -31,6 +31,21 @@
     "name:ben_x_preferred":[
         "Ambar"
     ],
+    "name:ceb_x_preferred":[
+        "Ambar"
+    ],
+    "name:por_x_preferred":[
+        "\u00c2mbar"
+    ],
+    "name:spa_x_preferred":[
+        "\u00c1mbar"
+    ],
+    "name:swe_x_preferred":[
+        "Ambar"
+    ],
+    "name:tur_x_preferred":[
+        "Ambar"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -54,7 +69,7 @@
         }
     ],
     "wof:id":1259613371,
-    "wof:lastmodified":1537586765,
+    "wof:lastmodified":1564159245,
     "wof:name":"Ambar",
     "wof:parent_id":1108694675,
     "wof:placetype":"locality",

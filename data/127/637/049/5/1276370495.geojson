@@ -28,6 +28,15 @@
     "name:ben_x_preferred":[
         "Patua"
     ],
+    "name:ben_x_variant":[
+        "\u09aa\u099f\u09c1\u09af\u09bc\u09be"
+    ],
+    "name:deu_x_preferred":[
+        "Patua"
+    ],
+    "name:hin_x_preferred":[
+        "\u092a\u091f\u0941\u0906"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -51,7 +60,7 @@
         }
     ],
     "wof:id":1276370495,
-    "wof:lastmodified":1537585830,
+    "wof:lastmodified":1564155259,
     "wof:name":"Patua",
     "wof:parent_id":421169845,
     "wof:placetype":"locality",

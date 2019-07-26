@@ -31,6 +31,12 @@
     "name:ben_x_preferred":[
         "Haradatta"
     ],
+    "name:hin_x_preferred":[
+        "\u0939\u0930\u0926\u0924\u094d\u0924"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b85\u0bb0\u0ba4\u0ba4\u0bcd\u0ba4\u0bb0\u0bcd"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":1242903793,
-    "wof:lastmodified":1537586808,
+    "wof:lastmodified":1564158770,
     "wof:name":"Haradatta",
     "wof:parent_id":1108694687,
     "wof:placetype":"locality",

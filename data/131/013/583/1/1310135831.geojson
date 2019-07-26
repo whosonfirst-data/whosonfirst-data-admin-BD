@@ -31,6 +31,33 @@
     "name:ben_x_preferred":[
         "Madhumati"
     ],
+    "name:fas_x_preferred":[
+        "\u0645\u0627\u062f\u0647\u0648\u0645\u0627\u062a\u06cc"
+    ],
+    "name:hin_x_preferred":[
+        "\u092e\u0927\u0941\u092e\u0924\u0940"
+    ],
+    "name:ind_x_preferred":[
+        "Madhumati"
+    ],
+    "name:ita_x_preferred":[
+        "Madhumati"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d2e\u0d27\u0d41\u0d2e\u0d24\u0d3f"
+    ],
+    "name:mar_x_preferred":[
+        "\u092e\u0927\u0941\u092e\u0924\u0940"
+    ],
+    "name:new_x_preferred":[
+        "\u092e\u0927\u0941\u092e\u0924\u0940"
+    ],
+    "name:por_x_preferred":[
+        "Madhumati"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c2e\u0c27\u0c41\u0c2e\u0c24\u0c3f"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -54,7 +81,7 @@
         }
     ],
     "wof:id":1310135831,
-    "wof:lastmodified":1537586514,
+    "wof:lastmodified":1564157101,
     "wof:name":"Madhumati",
     "wof:parent_id":421172439,
     "wof:placetype":"locality",

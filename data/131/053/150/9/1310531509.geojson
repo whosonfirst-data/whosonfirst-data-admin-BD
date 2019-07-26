@@ -31,6 +31,12 @@
     "name:ben_x_preferred":[
         "Atr\u0101i"
     ],
+    "name:ben_x_variant":[
+        "\u0986\u09a4\u09cd\u09b0\u09be\u0987"
+    ],
+    "name:deu_x_preferred":[
+        "Atrai"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":1310531509,
-    "wof:lastmodified":1537586525,
+    "wof:lastmodified":1564157176,
     "wof:name":"Atrai",
     "wof:parent_id":421172439,
     "wof:placetype":"locality",

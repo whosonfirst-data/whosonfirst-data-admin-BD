@@ -31,6 +31,24 @@
     "name:ben_x_preferred":[
         "Phalia"
     ],
+    "name:ceb_x_preferred":[
+        "Ph\u0101lia"
+    ],
+    "name:fas_x_preferred":[
+        "\u062a\u062d\u0635\u06cc\u0644 \u067e\u0647\u0627\u0644\u06cc\u0647"
+    ],
+    "name:fra_x_preferred":[
+        "Phalia"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0641\u0627\u0644\u06cc\u0627"
+    ],
+    "name:por_x_preferred":[
+        "Phalia"
+    ],
+    "name:urd_x_preferred":[
+        "\u067e\u06be\u0627\u0644\u06cc\u06c1"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -54,7 +72,7 @@
         }
     ],
     "wof:id":1243393339,
-    "wof:lastmodified":1537586445,
+    "wof:lastmodified":1564158293,
     "wof:name":"Phalia",
     "wof:parent_id":421205213,
     "wof:placetype":"locality",

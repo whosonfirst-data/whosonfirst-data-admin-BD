@@ -28,6 +28,15 @@
     "iso:country":"BD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Mahara"
+    ],
+    "name:fra_x_preferred":[
+        "Mahara"
+    ],
+    "name:swe_x_preferred":[
+        "Mahara"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -51,7 +60,7 @@
         }
     ],
     "wof:id":1260113705,
-    "wof:lastmodified":1536945036,
+    "wof:lastmodified":1564156786,
     "wof:name":"Mahara",
     "wof:parent_id":421200811,
     "wof:placetype":"locality",

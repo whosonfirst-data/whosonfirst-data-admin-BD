@@ -31,6 +31,24 @@
     "name:ben_x_preferred":[
         "B\u0101nsb\u0101ri"
     ],
+    "name:ceb_x_preferred":[
+        "Bansbari"
+    ],
+    "name:fra_x_preferred":[
+        "Bansbari"
+    ],
+    "name:msa_x_preferred":[
+        "Bansbari"
+    ],
+    "name:nep_x_preferred":[
+        "\u092c\u093e\u0901\u0938\u092c\u093e\u0930\u0940"
+    ],
+    "name:new_x_preferred":[
+        "\u092c\u093e\u0901\u0938\u092c\u093e\u0930\u0940"
+    ],
+    "name:pol_x_preferred":[
+        "Bansbari"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -54,7 +72,7 @@
         }
     ],
     "wof:id":1242711607,
-    "wof:lastmodified":1537586645,
+    "wof:lastmodified":1564158694,
     "wof:name":"Bansbari",
     "wof:parent_id":1108694703,
     "wof:placetype":"locality",

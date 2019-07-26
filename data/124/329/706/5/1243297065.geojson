@@ -31,6 +31,9 @@
     "name:ben_x_preferred":[
         "Maniktala"
     ],
+    "name:ben_x_variant":[
+        "\u09ae\u09be\u09a8\u09bf\u0995\u09a4\u09b2\u09be"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1243297065,
-    "wof:lastmodified":1537586606,
+    "wof:lastmodified":1564158881,
     "wof:name":"Maniktala",
     "wof:parent_id":421185473,
     "wof:placetype":"locality",

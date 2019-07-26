@@ -34,6 +34,12 @@
     "name:ben_x_variant":[
         "Ras\u016blpur Kumedpur"
     ],
+    "name:fas_x_preferred":[
+        "\u0631\u0633\u0648\u0644\u200c\u067e\u0648\u0631"
+    ],
+    "name:urd_x_preferred":[
+        "\u0631\u0633\u0648\u0644\u067e\u0648\u0631"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -57,7 +63,7 @@
         }
     ],
     "wof:id":1243491825,
-    "wof:lastmodified":1537585785,
+    "wof:lastmodified":1564158547,
     "wof:name":"Rasulpur",
     "wof:parent_id":421172439,
     "wof:placetype":"locality",

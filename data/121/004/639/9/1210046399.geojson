@@ -31,6 +31,24 @@
     "name:ben_x_preferred":[
         "Gop\u0101lganj"
     ],
+    "name:ben_x_variant":[
+        "\u0997\u09cb\u09aa\u09be\u09b2\u0997\u099e\u09cd\u099c"
+    ],
+    "name:ceb_x_preferred":[
+        "Gopalganj"
+    ],
+    "name:deu_x_preferred":[
+        "Gopalganj"
+    ],
+    "name:nld_x_preferred":[
+        "Gopalganj"
+    ],
+    "name:sco_x_preferred":[
+        "Gopalganj"
+    ],
+    "name:swe_x_preferred":[
+        "Gopalganj"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -54,7 +72,7 @@
         }
     ],
     "wof:id":1210046399,
-    "wof:lastmodified":1537586455,
+    "wof:lastmodified":1564156329,
     "wof:name":"Gopalganj",
     "wof:parent_id":421194867,
     "wof:placetype":"locality",
