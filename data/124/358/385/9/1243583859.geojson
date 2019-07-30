@@ -31,6 +31,30 @@
     "name:ben_x_preferred":[
         "Bauria"
     ],
+    "name:fra_x_preferred":[
+        "Bauria"
+    ],
+    "name:ita_x_preferred":[
+        "Bauria"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d0\u30a6\u30ea\u30a2"
+    ],
+    "name:pol_x_preferred":[
+        "Bauria"
+    ],
+    "name:por_x_preferred":[
+        "Bauria"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u0443\u0440\u0438\u044f"
+    ],
+    "name:spa_x_preferred":[
+        "Bauria"
+    ],
+    "name:zho_x_preferred":[
+        "\u5305\u6c0f\u7378\u5c6c"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -54,7 +78,7 @@
         }
     ],
     "wof:id":1243583859,
-    "wof:lastmodified":1537586390,
+    "wof:lastmodified":1564158611,
     "wof:name":"Bauria",
     "wof:parent_id":421184491,
     "wof:placetype":"locality",

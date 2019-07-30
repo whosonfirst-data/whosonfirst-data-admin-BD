@@ -31,6 +31,42 @@
     "name:ben_x_preferred":[
         "Ch\u0101ndrakona"
     ],
+    "name:ben_x_variant":[
+        "\u099a\u09a8\u09cd\u09a6\u09cd\u09b0\u0995\u09cb\u09a3\u09be"
+    ],
+    "name:bpy_x_preferred":[
+        "\u099a\u09a8\u09cd\u09a6\u09cd\u09b0\u0995\u09cb\u09a3\u09be"
+    ],
+    "name:ceb_x_preferred":[
+        "Chandrakona"
+    ],
+    "name:ita_x_preferred":[
+        "Chandrakona"
+    ],
+    "name:msa_x_preferred":[
+        "Chandrakona"
+    ],
+    "name:new_x_preferred":[
+        "\u091a\u0928\u094d\u0926\u094d\u0930\u0915\u094b\u0923"
+    ],
+    "name:pan_x_preferred":[
+        "\u0a1a\u0a70\u0a26\u0a30\u0a15\u0a4b\u0a28\u0a3e"
+    ],
+    "name:por_x_preferred":[
+        "Chandrakona"
+    ],
+    "name:spa_x_preferred":[
+        "Chandrakona"
+    ],
+    "name:swe_x_preferred":[
+        "Chandrakona"
+    ],
+    "name:vie_x_preferred":[
+        "Chandrakona"
+    ],
+    "name:zho_x_preferred":[
+        "\u94b1\u5fb7\u62c9\u79d1\u7eb3"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -54,7 +90,7 @@
         }
     ],
     "wof:id":1327164441,
-    "wof:lastmodified":1537586524,
+    "wof:lastmodified":1564152722,
     "wof:name":"Chandrakona",
     "wof:parent_id":421191663,
     "wof:placetype":"locality",

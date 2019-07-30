@@ -34,6 +34,18 @@
     "name:ben_x_variant":[
         "Par\u0101m\u0101li"
     ],
+    "name:bul_x_preferred":[
+        "\u041f\u0430\u0440\u0430\u043c\u0430\u043b\u0438"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a0\u03b1\u03c1\u03b1\u03bc\u03ac\u03bb\u03b9"
+    ],
+    "name:fra_x_preferred":[
+        "Param\u00e1li"
+    ],
+    "name:pol_x_preferred":[
+        "Paramali"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -57,7 +69,7 @@
         }
     ],
     "wof:id":1243491833,
-    "wof:lastmodified":1537585836,
+    "wof:lastmodified":1564158545,
     "wof:name":"Paramali",
     "wof:parent_id":1108694685,
     "wof:placetype":"locality",

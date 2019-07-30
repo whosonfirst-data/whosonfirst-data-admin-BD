@@ -31,6 +31,12 @@
     "name:ben_x_preferred":[
         "Kharta"
     ],
+    "name:hin_x_preferred":[
+        "\u0916\u0930\u0924\u093e"
+    ],
+    "name:ita_x_preferred":[
+        "Kharta"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":1293517535,
-    "wof:lastmodified":1537586532,
+    "wof:lastmodified":1564154328,
     "wof:name":"Kharta",
     "wof:parent_id":421172439,
     "wof:placetype":"locality",

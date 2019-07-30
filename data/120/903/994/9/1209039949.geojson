@@ -28,6 +28,9 @@
     "iso:country":"BD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a7\u03b1\u03c1\u03b9\u03ac \u0397\u03bb\u03b5\u03af\u03b1\u03c2"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632475
@@ -45,7 +48,7 @@
         }
     ],
     "wof:id":1209039949,
-    "wof:lastmodified":1536299577,
+    "wof:lastmodified":1564155960,
     "wof:name":"Charia",
     "wof:parent_id":85632475,
     "wof:placetype":"locality",

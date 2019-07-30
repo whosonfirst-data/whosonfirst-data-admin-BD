@@ -34,6 +34,12 @@
     "name:ben_x_variant":[
         "Kasipur"
     ],
+    "name:hin_x_preferred":[
+        "\u0915\u093e\u0936\u0940\u092a\u0941\u0930"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0448\u0438\u043f\u0443\u0440"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -57,7 +63,7 @@
         }
     ],
     "wof:id":1309834275,
-    "wof:lastmodified":1537585939,
+    "wof:lastmodified":1564157914,
     "wof:name":"Kashipur",
     "wof:parent_id":421191663,
     "wof:placetype":"locality",

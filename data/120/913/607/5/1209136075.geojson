@@ -31,6 +31,12 @@
     "name:ben_x_preferred":[
         "Bh\u0101dra"
     ],
+    "name:mal_x_preferred":[
+        "\u0d2d\u0d26\u0d4d\u0d30"
+    ],
+    "name:pan_x_preferred":[
+        "\u0a2d\u0a26\u0a30"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632475
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1209136075,
-    "wof:lastmodified":1537586404,
+    "wof:lastmodified":1564155833,
     "wof:name":"Bhadra",
     "wof:parent_id":85632475,
     "wof:placetype":"locality",

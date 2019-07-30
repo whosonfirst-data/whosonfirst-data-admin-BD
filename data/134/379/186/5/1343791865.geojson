@@ -31,6 +31,9 @@
     "name:ben_x_preferred":[
         "\u0100ngram"
     ],
+    "name:pol_x_preferred":[
+        "Angram"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1343791865,
-    "wof:lastmodified":1537586295,
+    "wof:lastmodified":1564153058,
     "wof:name":"Angram",
     "wof:parent_id":1108694697,
     "wof:placetype":"locality",

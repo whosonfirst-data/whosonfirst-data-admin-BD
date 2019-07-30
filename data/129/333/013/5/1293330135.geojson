@@ -31,11 +31,56 @@
     "name:ben_x_preferred":[
         "N\u0101tor"
     ],
+    "name:ben_x_variant":[
+        "\u09a8\u09be\u099f\u09cb\u09b0 \u099c\u09c7\u09b2\u09be"
+    ],
+    "name:bpy_x_preferred":[
+        "\u09a8\u09be\u099f\u09cb\u09b0 \u099c\u09bf\u09b2\u09be"
+    ],
+    "name:ceb_x_preferred":[
+        "Natore"
+    ],
     "name:eng_x_preferred":[
+        "Natore"
+    ],
+    "name:fas_x_preferred":[
+        "\u0646\u0627\u062d\u06cc\u0647 \u0646\u0627\u062a\u0648\u0631\u0647"
+    ],
+    "name:fra_x_preferred":[
+        "Natore"
+    ],
+    "name:hin_x_preferred":[
+        "\u0928\u091f\u094b\u0930\u0947 \u091c\u093f\u0932\u093e"
+    ],
+    "name:nep_x_preferred":[
+        "\u0928\u093e\u091f\u094b\u0930 \u091c\u093f\u0932\u094d\u0932\u093e"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0636\u0644\u0639 \u0646\u0627\u0679\u0648\u0631"
+    ],
+    "name:pol_x_preferred":[
+        "Nator"
+    ],
+    "name:por_x_preferred":[
         "Natore"
     ],
     "name:rus_x_preferred":[
         "\u041d\u0430\u0442\u043e\u0440"
+    ],
+    "name:spa_x_preferred":[
+        "Natore"
+    ],
+    "name:tam_x_preferred":[
+        "\u0ba8\u0ba4\u0bcd\u0ba4\u0bcb\u0bb0\u0bcd \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0bae\u0bcd"
+    ],
+    "name:urd_x_preferred":[
+        "\u0636\u0644\u0639 \u0646\u062a\u0648\u0631"
+    ],
+    "name:vie_x_preferred":[
+        "Huy\u1ec7n Natore"
+    ],
+    "name:zho_x_preferred":[
+        "\u8bfa\u591a\u5c14\u53bf"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -62,7 +107,7 @@
         }
     ],
     "wof:id":1293330135,
-    "wof:lastmodified":1537586547,
+    "wof:lastmodified":1564154367,
     "wof:name":"Natore",
     "wof:parent_id":421182115,
     "wof:placetype":"locality",

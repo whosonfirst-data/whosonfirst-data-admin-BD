@@ -31,6 +31,9 @@
     "name:ben_x_preferred":[
         "Mahali"
     ],
+    "name:ben_x_variant":[
+        "\u09ae\u09be\u09b9\u09be\u09b2\u09c0"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632475
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1209444843,
-    "wof:lastmodified":1537585893,
+    "wof:lastmodified":1564156205,
     "wof:name":"Mahali",
     "wof:parent_id":85632475,
     "wof:placetype":"locality",

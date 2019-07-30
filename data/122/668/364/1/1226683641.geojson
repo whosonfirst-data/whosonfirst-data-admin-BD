@@ -31,6 +31,21 @@
     "name:ben_x_preferred":[
         "Deoli"
     ],
+    "name:ben_x_variant":[
+        "\u09a6\u09c7\u0993\u09b2\u09bf"
+    ],
+    "name:bih_x_preferred":[
+        "\u0926\u0947\u0935\u0932\u0940"
+    ],
+    "name:ceb_x_preferred":[
+        "Deoli"
+    ],
+    "name:nld_x_preferred":[
+        "Deoli"
+    ],
+    "name:swe_x_preferred":[
+        "Deoli"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -54,7 +69,7 @@
         }
     ],
     "wof:id":1226683641,
-    "wof:lastmodified":1537586570,
+    "wof:lastmodified":1564159704,
     "wof:name":"Deoli",
     "wof:parent_id":421194153,
     "wof:placetype":"locality",

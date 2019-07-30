@@ -34,8 +34,23 @@
     "name:ben_x_variant":[
         "Gari\u0101bania"
     ],
+    "name:msa_x_preferred":[
+        "Gariabania"
+    ],
+    "name:tgl_x_preferred":[
+        "Gariabania"
+    ],
     "name:und_x_variant":[
         "Goriabania"
+    ],
+    "name:vie_x_preferred":[
+        "Gariabania"
+    ],
+    "name:wuu_x_preferred":[
+        "\u52a0\u91cc\u4e9a\u5df4\u5c3c\u4e9a"
+    ],
+    "name:zho_x_preferred":[
+        "\u52a0\u91cc\u4e9a\u5df4\u5c3c\u4e9a"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -61,7 +76,7 @@
         }
     ],
     "wof:id":1226786779,
-    "wof:lastmodified":1537586025,
+    "wof:lastmodified":1564160038,
     "wof:name":"Gariabunia",
     "wof:parent_id":421176043,
     "wof:placetype":"locality",

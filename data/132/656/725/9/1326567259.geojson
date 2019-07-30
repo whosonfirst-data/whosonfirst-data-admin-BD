@@ -31,6 +31,21 @@
     "name:ben_x_preferred":[
         "Kaur"
     ],
+    "name:deu_x_preferred":[
+        "Kaur"
+    ],
+    "name:hin_x_preferred":[
+        "\u0915\u094c\u0930"
+    ],
+    "name:nld_x_preferred":[
+        "Kaur"
+    ],
+    "name:pan_x_preferred":[
+        "\u0a15\u0a4c\u0a30"
+    ],
+    "name:por_x_preferred":[
+        "Kaur"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -54,7 +69,7 @@
         }
     ],
     "wof:id":1326567259,
-    "wof:lastmodified":1537586530,
+    "wof:lastmodified":1564152145,
     "wof:name":"Kaur",
     "wof:parent_id":421172439,
     "wof:placetype":"locality",

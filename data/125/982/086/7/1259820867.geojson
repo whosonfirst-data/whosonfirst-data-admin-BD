@@ -28,6 +28,24 @@
     "iso:country":"BD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Dhap"
+    ],
+    "name:fra_x_preferred":[
+        "Dhap"
+    ],
+    "name:msa_x_preferred":[
+        "Dhap"
+    ],
+    "name:nep_x_preferred":[
+        "\u0927\u093e\u092a"
+    ],
+    "name:new_x_preferred":[
+        "\u0927\u093e\u092a"
+    ],
+    "name:pol_x_preferred":[
+        "Dhap"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -51,7 +69,7 @@
         }
     ],
     "wof:id":1259820867,
-    "wof:lastmodified":1536868203,
+    "wof:lastmodified":1564159233,
     "wof:name":"Dhap",
     "wof:parent_id":421187793,
     "wof:placetype":"locality",

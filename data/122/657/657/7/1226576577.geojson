@@ -31,6 +31,18 @@
     "name:ben_x_preferred":[
         "Kaly\u0101ni"
     ],
+    "name:ben_x_variant":[
+        "\u0995\u09b2\u09cd\u09af\u09be\u09a3\u09c0"
+    ],
+    "name:bih_x_preferred":[
+        "\u0915\u0932\u094d\u092f\u093e\u0923\u0940"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d15\u0d32\u0d4d\u0d2f\u0d3e\u0d23\u0d3f"
+    ],
+    "name:new_x_preferred":[
+        "\u0915\u0932\u094d\u092f\u093e\u0923\u0940"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -54,7 +66,7 @@
         }
     ],
     "wof:id":1226576577,
-    "wof:lastmodified":1537586591,
+    "wof:lastmodified":1564159743,
     "wof:name":"Kalyani",
     "wof:parent_id":421176039,
     "wof:placetype":"locality",

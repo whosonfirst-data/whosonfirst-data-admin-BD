@@ -31,6 +31,15 @@
     "name:ben_x_preferred":[
         "Uttara"
     ],
+    "name:ben_x_variant":[
+        "\u0989\u09a4\u09cd\u09a4\u09b0\u09be"
+    ],
+    "name:deu_x_preferred":[
+        "Uttara"
+    ],
+    "name:hin_x_preferred":[
+        "\u0909\u0924\u094d\u0924\u0930\u093e"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":1209849035,
-    "wof:lastmodified":1537586840,
+    "wof:lastmodified":1564155651,
     "wof:name":"Uttara",
     "wof:parent_id":1108694671,
     "wof:placetype":"locality",

@@ -31,6 +31,33 @@
     "name:ben_x_preferred":[
         "Mur\u0101g\u0101chha"
     ],
+    "name:ben_x_variant":[
+        "\u09ae\u09c1\u09a1\u09bc\u09be\u0997\u09be\u099b\u09be"
+    ],
+    "name:bpy_x_preferred":[
+        "\u09ae\u09cb\u09b0\u09be\u0997\u09be\u099b\u09be"
+    ],
+    "name:ita_x_preferred":[
+        "Muragachha"
+    ],
+    "name:msa_x_preferred":[
+        "Muragachha"
+    ],
+    "name:new_x_preferred":[
+        "\u092e\u0941\u0930\u093e\u0917\u091b\u093e"
+    ],
+    "name:nld_x_preferred":[
+        "Muragachha"
+    ],
+    "name:por_x_preferred":[
+        "Muragachha"
+    ],
+    "name:vie_x_preferred":[
+        "Muragachha"
+    ],
+    "name:zho_x_preferred":[
+        "\u7a46\u62c9\u52a0\u6070"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -54,7 +81,7 @@
         }
     ],
     "wof:id":1293622549,
-    "wof:lastmodified":1537585859,
+    "wof:lastmodified":1564153733,
     "wof:name":"Muragachha",
     "wof:parent_id":421176039,
     "wof:placetype":"locality",

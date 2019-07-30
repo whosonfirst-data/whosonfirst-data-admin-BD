@@ -31,6 +31,15 @@
     "name:ben_x_preferred":[
         "Bikrampur"
     ],
+    "name:ben_x_variant":[
+        "\u09ac\u09bf\u0995\u09cd\u09b0\u09ae\u09aa\u09c1\u09b0"
+    ],
+    "name:cat_x_preferred":[
+        "Bikrampur"
+    ],
+    "name:epo_x_preferred":[
+        "Bikrampur"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632475
@@ -48,7 +57,7 @@
         }
     ],
     "wof:id":1209648589,
-    "wof:lastmodified":1537586591,
+    "wof:lastmodified":1564155563,
     "wof:name":"Bikrampur",
     "wof:parent_id":85632475,
     "wof:placetype":"locality",

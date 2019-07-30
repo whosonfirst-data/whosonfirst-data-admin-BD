@@ -31,6 +31,33 @@
     "name:ben_x_preferred":[
         "Hijuli"
     ],
+    "name:ben_x_variant":[
+        "\u09b9\u09bf\u099c\u09c1\u09b2\u09bf"
+    ],
+    "name:bpy_x_preferred":[
+        "\u09b9\u09bf\u099c\u09c1\u09b2\u09bf"
+    ],
+    "name:ita_x_preferred":[
+        "Hijuli"
+    ],
+    "name:msa_x_preferred":[
+        "Hijuli"
+    ],
+    "name:new_x_preferred":[
+        "\u0939\u093f\u091c\u0941\u0932\u0940"
+    ],
+    "name:nld_x_preferred":[
+        "Hijuli"
+    ],
+    "name:por_x_preferred":[
+        "Hijuli"
+    ],
+    "name:vie_x_preferred":[
+        "Hijuli"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e0c\u4e45\u5229"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -54,7 +81,7 @@
         }
     ],
     "wof:id":1259917123,
-    "wof:lastmodified":1537586560,
+    "wof:lastmodified":1564159014,
     "wof:name":"Hijuli",
     "wof:parent_id":421191661,
     "wof:placetype":"locality",

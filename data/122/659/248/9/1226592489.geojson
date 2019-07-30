@@ -31,6 +31,21 @@
     "name:ben_x_preferred":[
         "Kube"
     ],
+    "name:ceb_x_preferred":[
+        "Kube"
+    ],
+    "name:deu_x_preferred":[
+        "Kube"
+    ],
+    "name:fra_x_preferred":[
+        "Kube"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0443\u0431\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Kube"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -54,7 +69,7 @@
         }
     ],
     "wof:id":1226592489,
-    "wof:lastmodified":1537586333,
+    "wof:lastmodified":1564159699,
     "wof:name":"Kube",
     "wof:parent_id":421169477,
     "wof:placetype":"locality",

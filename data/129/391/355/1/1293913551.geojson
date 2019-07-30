@@ -31,6 +31,15 @@
     "name:ben_x_preferred":[
         "P\u0101h\u0101rpur"
     ],
+    "name:ben_x_variant":[
+        "\u09aa\u09be\u09b9\u09be\u09a1\u09bc\u09aa\u09c1\u09b0"
+    ],
+    "name:ceb_x_preferred":[
+        "Paharpur"
+    ],
+    "name:nld_x_preferred":[
+        "Paharpur"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":1293913551,
-    "wof:lastmodified":1537585815,
+    "wof:lastmodified":1564153645,
     "wof:name":"Paharpur",
     "wof:parent_id":890438075,
     "wof:placetype":"locality",

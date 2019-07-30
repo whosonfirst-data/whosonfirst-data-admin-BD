@@ -28,8 +28,17 @@
     "iso:country":"BD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Dh\u0101mura"
+    ],
+    "name:swe_x_preferred":[
+        "Dh\u0101mura"
+    ],
     "name:und_x_variant":[
         "Dh\u0101mura"
+    ],
+    "name:zho_x_preferred":[
+        "\u8fbe\u7a46\u62c9"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":1243393509,
-    "wof:lastmodified":1537586057,
+    "wof:lastmodified":1564158287,
     "wof:name":"Dhamura",
     "wof:parent_id":421187745,
     "wof:placetype":"locality",

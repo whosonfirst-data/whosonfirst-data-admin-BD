@@ -31,6 +31,21 @@
     "name:ben_x_preferred":[
         "N\u0101r\u0101yanpur"
     ],
+    "name:ceb_x_preferred":[
+        "Narayanpur"
+    ],
+    "name:fra_x_preferred":[
+        "Narayanpur"
+    ],
+    "name:pol_x_preferred":[
+        "Narayanpur"
+    ],
+    "name:swe_x_preferred":[
+        "Narayanpur"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c28\u0c3e\u0c30\u0c3e\u0c2f\u0c23\u0c4d\u200c\u0c2a\u0c42\u0c30\u0c4d"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -54,7 +69,7 @@
         }
     ],
     "wof:id":1260110275,
-    "wof:lastmodified":1537586504,
+    "wof:lastmodified":1564156811,
     "wof:name":"Narayanpur",
     "wof:parent_id":421191607,
     "wof:placetype":"locality",

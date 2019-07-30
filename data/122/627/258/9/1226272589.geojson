@@ -31,6 +31,15 @@
     "name:ben_x_preferred":[
         "Bhalka"
     ],
+    "name:guj_x_preferred":[
+        "\u0aad\u0abe\u0ab2\u0a95\u0abe \u0aa4\u0ac0\u0ab0\u0acd\u0aa5"
+    ],
+    "name:hin_x_preferred":[
+        "\u092d\u093e\u0932\u0915\u093e"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c2d\u0c3e\u0c32\u0c4d\u0c15\u0c3e \u0c24\u0c40\u0c30\u0c4d\u0c25\u0c02"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":1226272589,
-    "wof:lastmodified":1537586841,
+    "wof:lastmodified":1564159574,
     "wof:name":"Bhalka",
     "wof:parent_id":1108694671,
     "wof:placetype":"locality",

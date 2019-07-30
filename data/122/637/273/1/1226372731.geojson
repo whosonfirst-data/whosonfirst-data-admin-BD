@@ -31,8 +31,59 @@
     "name:ben_x_preferred":[
         "Jh\u0101rgr\u0101m"
     ],
+    "name:ben_x_variant":[
+        "\u099d\u09be\u09a1\u09bc\u0997\u09cd\u09b0\u09be\u09ae"
+    ],
+    "name:bpy_x_preferred":[
+        "\u099d\u09be\u09a1\u09bc\u0997\u09cd\u09b0\u09be\u09ae"
+    ],
+    "name:cat_x_preferred":[
+        "Jhargram"
+    ],
+    "name:ceb_x_preferred":[
+        "Jh\u0101rgr\u0101m"
+    ],
+    "name:hif_x_preferred":[
+        "Jhargram"
+    ],
+    "name:hin_x_preferred":[
+        "\u091d\u093e\u0921\u093c\u0917\u094d\u0930\u093e\u092e"
+    ],
+    "name:ita_x_preferred":[
+        "Jhargram"
+    ],
+    "name:mlg_x_preferred":[
+        "Jhargram"
+    ],
+    "name:msa_x_preferred":[
+        "Jhargram"
+    ],
+    "name:nep_x_preferred":[
+        "\u091d\u093e\u0921\u093c\u0917\u094d\u0930\u093e\u092e"
+    ],
+    "name:new_x_preferred":[
+        "\u091d\u0930\u0917\u094d\u0930\u093e\u092e"
+    ],
+    "name:ori_x_preferred":[
+        "\u0b1d\u0b3e\u0b21\u0b3c\u0b17\u0b4d\u0b30\u0b3e\u0b2e"
+    ],
+    "name:spa_x_preferred":[
+        "Jhargram"
+    ],
+    "name:swe_x_preferred":[
+        "Jh\u0101rgr\u0101m"
+    ],
     "name:und_x_variant":[
         "Jharagram"
+    ],
+    "name:urd_x_preferred":[
+        "\u062c\u06be\u0631\u06af\u0631\u0627\u0645"
+    ],
+    "name:vie_x_preferred":[
+        "Jhargram"
+    ],
+    "name:zho_x_preferred":[
+        "\u8d3e\u5c14\u683c\u62c9\u59c6"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -57,7 +108,7 @@
         }
     ],
     "wof:id":1226372731,
-    "wof:lastmodified":1537585970,
+    "wof:lastmodified":1564160099,
     "wof:name":"Jhargram",
     "wof:parent_id":421191663,
     "wof:placetype":"locality",

@@ -31,6 +31,21 @@
     "name:ben_x_preferred":[
         "Digri"
     ],
+    "name:ceb_x_preferred":[
+        "Digri"
+    ],
+    "name:fas_x_preferred":[
+        "\u062f\u0647\u06af\u0631\u06cc"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0688\u06af\u0631\u06cc"
+    ],
+    "name:snd_x_preferred":[
+        "\u068a\u06af\u06be\u0699\u064a"
+    ],
+    "name:urd_x_preferred":[
+        "\u0688\u06be\u06af\u0691\u06cc"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -54,7 +69,7 @@
         }
     ],
     "wof:id":1276478191,
-    "wof:lastmodified":1537586589,
+    "wof:lastmodified":1564154986,
     "wof:name":"Digri",
     "wof:parent_id":421176039,
     "wof:placetype":"locality",

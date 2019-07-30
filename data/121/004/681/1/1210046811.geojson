@@ -28,8 +28,20 @@
     "iso:country":"BD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0641\u0631\u064a\u200c\u0623\u0628\u0627\u062f"
+    ],
     "name:ben_x_preferred":[
         "Fari\u0101b\u0101d"
+    ],
+    "name:ceb_x_preferred":[
+        "Far\u012b\u0101b\u0101d"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u06cc\u200c\u0622\u0628\u0627\u062f"
+    ],
+    "name:swe_x_preferred":[
+        "Far\u012b\u0101b\u0101d"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +66,7 @@
         }
     ],
     "wof:id":1210046811,
-    "wof:lastmodified":1537586320,
+    "wof:lastmodified":1564156292,
     "wof:name":"Fariabad",
     "wof:parent_id":1108694671,
     "wof:placetype":"locality",

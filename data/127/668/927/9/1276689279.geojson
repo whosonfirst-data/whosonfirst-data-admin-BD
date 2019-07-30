@@ -28,6 +28,24 @@
     "iso:country":"BD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Ph\u0101lia"
+    ],
+    "name:fas_x_preferred":[
+        "\u062a\u062d\u0635\u06cc\u0644 \u067e\u0647\u0627\u0644\u06cc\u0647"
+    ],
+    "name:fra_x_preferred":[
+        "Phalia"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0641\u0627\u0644\u06cc\u0627"
+    ],
+    "name:por_x_preferred":[
+        "Phalia"
+    ],
+    "name:urd_x_preferred":[
+        "\u067e\u06be\u0627\u0644\u06cc\u06c1"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -51,7 +69,7 @@
         }
     ],
     "wof:id":1276689279,
-    "wof:lastmodified":1536798984,
+    "wof:lastmodified":1564154900,
     "wof:name":"Phalia",
     "wof:parent_id":421198063,
     "wof:placetype":"locality",

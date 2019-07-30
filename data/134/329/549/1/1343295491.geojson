@@ -31,6 +31,15 @@
     "name:ben_x_preferred":[
         "K\u0101lim\u0101n"
     ],
+    "name:deu_x_preferred":[
+        "Kaliman"
+    ],
+    "name:fra_x_preferred":[
+        "Kaliman"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ab\u30ea\u30de\u30f3"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":1343295491,
-    "wof:lastmodified":1537586448,
+    "wof:lastmodified":1564153532,
     "wof:name":"Kaliman",
     "wof:parent_id":421205213,
     "wof:placetype":"locality",

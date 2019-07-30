@@ -31,6 +31,33 @@
     "name:ben_x_preferred":[
         "Baran"
     ],
+    "name:deu_x_preferred":[
+        "Baran"
+    ],
+    "name:fra_x_preferred":[
+        "Baran"
+    ],
+    "name:ita_x_preferred":[
+        "Baran"
+    ],
+    "name:nld_x_preferred":[
+        "Baran"
+    ],
+    "name:pol_x_preferred":[
+        "Baran"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u0440\u0430\u043d"
+    ],
+    "name:slk_x_preferred":[
+        "Baran"
+    ],
+    "name:swe_x_preferred":[
+        "Baran"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0430\u0440\u0430\u043d"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -54,7 +81,7 @@
         }
     ],
     "wof:id":1225874767,
-    "wof:lastmodified":1537586714,
+    "wof:lastmodified":1564159807,
     "wof:name":"Baran",
     "wof:parent_id":1108694681,
     "wof:placetype":"locality",

@@ -28,6 +28,18 @@
     "iso:country":"BD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Basan"
+    ],
+    "name:por_x_preferred":[
+        "Basan"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u0441\u0430\u043d"
+    ],
+    "name:spa_x_preferred":[
+        "Basan"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -51,7 +63,7 @@
         }
     ],
     "wof:id":1343699159,
-    "wof:lastmodified":1536899155,
+    "wof:lastmodified":1564153321,
     "wof:name":"Basan",
     "wof:parent_id":421203493,
     "wof:placetype":"locality",

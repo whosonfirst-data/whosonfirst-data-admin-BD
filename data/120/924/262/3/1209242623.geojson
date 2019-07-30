@@ -31,6 +31,12 @@
     "name:ben_x_preferred":[
         "Rasulpur"
     ],
+    "name:fas_x_preferred":[
+        "\u0631\u0633\u0648\u0644\u200c\u067e\u0648\u0631"
+    ],
+    "name:urd_x_preferred":[
+        "\u0631\u0633\u0648\u0644\u067e\u0648\u0631"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632475
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1209242623,
-    "wof:lastmodified":1537586554,
+    "wof:lastmodified":1564155735,
     "wof:name":"Rasulpur",
     "wof:parent_id":85632475,
     "wof:placetype":"locality",

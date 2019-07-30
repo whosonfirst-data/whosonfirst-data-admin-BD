@@ -31,6 +31,18 @@
     "name:ben_x_preferred":[
         "D\u0101rak"
     ],
+    "name:ell_x_preferred":[
+        "\u039d\u03c4\u03b1\u03c1\u03ac\u03ba"
+    ],
+    "name:fra_x_preferred":[
+        "Darak"
+    ],
+    "name:msa_x_preferred":[
+        "Darak"
+    ],
+    "name:por_x_preferred":[
+        "Darak"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -54,7 +66,7 @@
         }
     ],
     "wof:id":1276709185,
-    "wof:lastmodified":1537586220,
+    "wof:lastmodified":1564155163,
     "wof:name":"Darak",
     "wof:parent_id":421201541,
     "wof:placetype":"locality",

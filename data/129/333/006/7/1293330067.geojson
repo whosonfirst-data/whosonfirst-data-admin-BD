@@ -31,6 +31,18 @@
     "name:ben_x_preferred":[
         "Chopra"
     ],
+    "name:heb_x_preferred":[
+        "\u05e6'\u05d5\u05e4\u05e8\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u091a\u094b\u092a\u0921\u093c\u093e"
+    ],
+    "name:mar_x_preferred":[
+        "\u091a\u094b\u092a\u0921\u093e"
+    ],
+    "name:swe_x_preferred":[
+        "Jater#C"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -54,7 +66,7 @@
         }
     ],
     "wof:id":1293330067,
-    "wof:lastmodified":1537586644,
+    "wof:lastmodified":1564154373,
     "wof:name":"Chopra",
     "wof:parent_id":1108694703,
     "wof:placetype":"locality",

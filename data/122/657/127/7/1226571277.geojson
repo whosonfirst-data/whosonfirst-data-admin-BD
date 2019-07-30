@@ -31,6 +31,12 @@
     "name:ben_x_preferred":[
         "Musuri"
     ],
+    "name:ind_x_preferred":[
+        "Musuri"
+    ],
+    "name:kor_x_preferred":[
+        "\ubb34\uc218\ub9ac"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":1226571277,
-    "wof:lastmodified":1537586437,
+    "wof:lastmodified":1564159746,
     "wof:name":"Musuri",
     "wof:parent_id":421205213,
     "wof:placetype":"locality",

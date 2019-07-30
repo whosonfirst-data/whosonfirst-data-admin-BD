@@ -31,6 +31,30 @@
     "name:ben_x_preferred":[
         "S\u0101tai"
     ],
+    "name:ben_x_variant":[
+        "\u09b8\u09be\u09a4\u09be\u0987"
+    ],
+    "name:bpy_x_preferred":[
+        "\u09b8\u09be\u09a4\u09be\u0987"
+    ],
+    "name:ita_x_preferred":[
+        "Satai"
+    ],
+    "name:mlg_x_preferred":[
+        "Satai"
+    ],
+    "name:msa_x_preferred":[
+        "Satai"
+    ],
+    "name:nld_x_preferred":[
+        "Satai"
+    ],
+    "name:por_x_preferred":[
+        "Satai"
+    ],
+    "name:vie_x_preferred":[
+        "Satai"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632475
@@ -48,7 +72,7 @@
         }
     ],
     "wof:id":1209645409,
-    "wof:lastmodified":1537586591,
+    "wof:lastmodified":1564155595,
     "wof:name":"Satai",
     "wof:parent_id":85632475,
     "wof:placetype":"locality",

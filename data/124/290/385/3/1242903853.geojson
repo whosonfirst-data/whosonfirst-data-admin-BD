@@ -28,6 +28,24 @@
     "name:ben_x_preferred":[
         "Birat"
     ],
+    "name:ceb_x_preferred":[
+        "Birat"
+    ],
+    "name:mai_x_preferred":[
+        "\u092c\u093f\u0930\u093e\u091f"
+    ],
+    "name:msa_x_preferred":[
+        "Birat"
+    ],
+    "name:nep_x_preferred":[
+        "\u092c\u093f\u0930\u093e\u091f"
+    ],
+    "name:new_x_preferred":[
+        "\u092c\u093f\u0930\u093e\u091f"
+    ],
+    "name:pol_x_preferred":[
+        "Birat"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -51,7 +69,7 @@
         }
     ],
     "wof:id":1242903853,
-    "wof:lastmodified":1537586731,
+    "wof:lastmodified":1564158775,
     "wof:name":"Birat",
     "wof:parent_id":1108694675,
     "wof:placetype":"locality",

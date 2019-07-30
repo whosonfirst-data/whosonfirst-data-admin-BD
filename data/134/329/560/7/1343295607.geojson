@@ -31,6 +31,24 @@
     "name:ben_x_preferred":[
         "Belb\u0101ri"
     ],
+    "name:ceb_x_preferred":[
+        "Belbari"
+    ],
+    "name:deu_x_preferred":[
+        "Belbari"
+    ],
+    "name:mai_x_preferred":[
+        "\u092c\u0947\u0932\u0935\u093e\u0930\u0940"
+    ],
+    "name:msa_x_preferred":[
+        "Belbari"
+    ],
+    "name:nep_x_preferred":[
+        "\u092c\u0947\u0932\u0935\u093e\u0930\u0940 \u0928\u0917\u0930\u092a\u093e\u0932\u093f\u0915\u093e"
+    ],
+    "name:pol_x_preferred":[
+        "Belbari"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -54,7 +72,7 @@
         }
     ],
     "wof:id":1343295607,
-    "wof:lastmodified":1537586665,
+    "wof:lastmodified":1564153465,
     "wof:name":"Belbari",
     "wof:parent_id":1108694671,
     "wof:placetype":"locality",

@@ -31,6 +31,15 @@
     "name:ben_x_preferred":[
         "S\u0101mra"
     ],
+    "name:ceb_x_preferred":[
+        "Samra"
+    ],
+    "name:deu_x_preferred":[
+        "Samra"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u043c\u0440\u0430"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":1293717349,
-    "wof:lastmodified":1537585769,
+    "wof:lastmodified":1564154032,
     "wof:name":"Samra",
     "wof:parent_id":421191663,
     "wof:placetype":"locality",

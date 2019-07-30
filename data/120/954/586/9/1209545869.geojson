@@ -31,6 +31,9 @@
     "name:ben_x_preferred":[
         "H\u0101ti\u0101ra"
     ],
+    "name:ben_x_variant":[
+        "\u09b9\u09be\u09a4\u09bf\u09af\u09bc\u09be\u09a1\u09bc\u09be"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632475
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1209545869,
-    "wof:lastmodified":1537585995,
+    "wof:lastmodified":1564155483,
     "wof:name":"Hatiara",
     "wof:parent_id":85632475,
     "wof:placetype":"locality",

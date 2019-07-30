@@ -31,6 +31,12 @@
     "name:ben_x_preferred":[
         "Nidhi"
     ],
+    "name:hin_x_preferred":[
+        "\u0928\u093f\u0927\u093f"
+    ],
+    "name:pan_x_preferred":[
+        "\u0a28\u0a3f\u0a71\u0a27\u0a40"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":1360115029,
-    "wof:lastmodified":1537586802,
+    "wof:lastmodified":1564157705,
     "wof:name":"Nidhi",
     "wof:parent_id":1108694685,
     "wof:placetype":"locality",

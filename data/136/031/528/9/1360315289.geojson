@@ -31,6 +31,18 @@
     "name:ben_x_preferred":[
         "Th\u0101na"
     ],
+    "name:ben_x_variant":[
+        "\u09a5\u09be\u09a8\u09be"
+    ],
+    "name:deu_x_preferred":[
+        "Thana"
+    ],
+    "name:fra_x_preferred":[
+        "Thana"
+    ],
+    "name:hun_x_preferred":[
+        "Thana"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -54,7 +66,7 @@
         }
     ],
     "wof:id":1360315289,
-    "wof:lastmodified":1537585714,
+    "wof:lastmodified":1564157610,
     "wof:name":"Thana",
     "wof:parent_id":1108694685,
     "wof:placetype":"locality",

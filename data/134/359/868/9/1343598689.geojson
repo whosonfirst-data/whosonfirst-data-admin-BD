@@ -28,6 +28,15 @@
     "iso:country":"BD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062c\u0627\u0644\u0633\u0627"
+    ],
+    "name:new_x_preferred":[
+        "\u091c\u0932\u094d\u0938\u093e"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c1c\u0c32\u0c4d\u0c38\u0c3e"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -51,7 +60,7 @@
         }
     ],
     "wof:id":1343598689,
-    "wof:lastmodified":1537042276,
+    "wof:lastmodified":1564153223,
     "wof:name":"Jalsa",
     "wof:parent_id":421187803,
     "wof:placetype":"locality",

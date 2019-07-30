@@ -31,6 +31,12 @@
     "name:ben_x_preferred":[
         "Naup\u0101ra"
     ],
+    "name:rus_x_preferred":[
+        "\u041c\u043e\u043d\u0430\u0441\u0442\u044b\u0440\u044c \u041d\u0430\u0443\u043f\u0430\u0440\u0430"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u0430\u043d\u0430\u0441\u0442\u0438\u0440 \u041d\u0430\u0443\u043f\u0430\u0440\u0430"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":1260320091,
-    "wof:lastmodified":1537586374,
+    "wof:lastmodified":1564156912,
     "wof:name":"Naupara",
     "wof:parent_id":421176043,
     "wof:placetype":"locality",

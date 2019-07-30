@@ -13,6 +13,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Joka"
+    ],
+    "name:swe_x_preferred":[
+        "Joka"
+    ],
     "qs:gn_country":"BD",
     "qs:gn_fcode":"PPL",
     "qs:gn_id":1199796,
@@ -34,10 +40,10 @@
     "src:geom":"quattroshapes",
     "wd:wordcount":40,
     "wof:belongsto":[
+        85669015,
         102191569,
         85632475,
-        421176039,
-        85669015
+        421176039
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,7 +65,7 @@
         }
     ],
     "wof:id":421184353,
-    "wof:lastmodified":1531858529,
+    "wof:lastmodified":1564158120,
     "wof:name":"Joka",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -31,6 +31,9 @@
     "name:ben_x_preferred":[
         "Behala"
     ],
+    "name:ben_x_variant":[
+        "\u09ac\u09c7\u09b9\u09be\u09b2\u09be"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1344090241,
-    "wof:lastmodified":1537586356,
+    "wof:lastmodified":1564152982,
     "wof:name":"Behala",
     "wof:parent_id":421176043,
     "wof:placetype":"locality",

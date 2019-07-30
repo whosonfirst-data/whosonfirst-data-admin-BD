@@ -31,6 +31,12 @@
     "name:ben_x_preferred":[
         "Mahakuma"
     ],
+    "name:ben_x_variant":[
+        "\u09ae\u09b9\u0995\u09c1\u09ae\u09be"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03b1\u03c7\u03b1\u03ba\u03bf\u03cd\u03bc\u03b1"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":1293038107,
-    "wof:lastmodified":1537585893,
+    "wof:lastmodified":1564154192,
     "wof:name":"Mahakuma",
     "wof:parent_id":421169845,
     "wof:placetype":"locality",

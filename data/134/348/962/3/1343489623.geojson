@@ -31,6 +31,15 @@
     "name:ben_x_preferred":[
         "Habu"
     ],
+    "name:fra_x_preferred":[
+        "Habu"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30cf\u30d6"
+    ],
+    "name:por_x_preferred":[
+        "Habu"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":1343489623,
-    "wof:lastmodified":1537586806,
+    "wof:lastmodified":1564153103,
     "wof:name":"Habu",
     "wof:parent_id":1108694701,
     "wof:placetype":"locality",

@@ -28,9 +28,21 @@
     "iso:country":"BD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Madla"
+    ],
+    "name:nno_x_preferred":[
+        "Madla"
+    ],
+    "name:nor_x_preferred":[
+        "Madla"
+    ],
     "name:und_x_variant":[
         "Madia",
         "M\u0101dla"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u06cc\u0688\u0644\u0627"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +67,7 @@
         }
     ],
     "wof:id":1226073165,
-    "wof:lastmodified":1537585895,
+    "wof:lastmodified":1564160220,
     "wof:name":"Madla",
     "wof:parent_id":421187793,
     "wof:placetype":"locality",

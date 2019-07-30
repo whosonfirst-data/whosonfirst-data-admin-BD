@@ -31,6 +31,27 @@
     "name:ben_x_preferred":[
         "Bothia"
     ],
+    "name:ceb_x_preferred":[
+        "Bothia castanella"
+    ],
+    "name:fra_x_preferred":[
+        "Bothia castanella"
+    ],
+    "name:rus_x_preferred":[
+        "Bothia castanella"
+    ],
+    "name:spa_x_preferred":[
+        "Bothia"
+    ],
+    "name:swe_x_preferred":[
+        "Bothia castanella"
+    ],
+    "name:ukr_x_preferred":[
+        "Bothia"
+    ],
+    "name:war_x_preferred":[
+        "Bothia castanella"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -54,7 +75,7 @@
         }
     ],
     "wof:id":1276904887,
-    "wof:lastmodified":1537586337,
+    "wof:lastmodified":1564155227,
     "wof:name":"Bothia",
     "wof:parent_id":421172031,
     "wof:placetype":"locality",

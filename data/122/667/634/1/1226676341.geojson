@@ -31,6 +31,15 @@
     "name:ben_x_preferred":[
         "Barua"
     ],
+    "name:deu_x_preferred":[
+        "Barua"
+    ],
+    "name:fra_x_preferred":[
+        "Barua"
+    ],
+    "name:zho_x_preferred":[
+        "\u5df4\u9b6f\u963f"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":1226676341,
-    "wof:lastmodified":1537586155,
+    "wof:lastmodified":1564159664,
     "wof:name":"Barua",
     "wof:parent_id":1108694687,
     "wof:placetype":"locality",

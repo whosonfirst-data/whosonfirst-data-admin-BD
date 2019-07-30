@@ -31,6 +31,12 @@
     "name:ben_x_preferred":[
         "Lohar"
     ],
+    "name:fra_x_preferred":[
+        "Lohar"
+    ],
+    "name:nep_x_preferred":[
+        "\u0932\u094b\u0939\u093e\u0930"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":1276798551,
-    "wof:lastmodified":1537586793,
+    "wof:lastmodified":1564155149,
     "wof:name":"Lohar",
     "wof:parent_id":421190979,
     "wof:placetype":"locality",

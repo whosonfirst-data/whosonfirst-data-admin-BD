@@ -34,6 +34,12 @@
     "name:ben_x_variant":[
         "Lakhra"
     ],
+    "name:fas_x_preferred":[
+        "\u0644\u06a9\u0647\u0631\u0627"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u06a9\u06be\u0631\u0627"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -57,7 +63,7 @@
         }
     ],
     "wof:id":1310035813,
-    "wof:lastmodified":1537585905,
+    "wof:lastmodified":1564157399,
     "wof:name":"Lakhra",
     "wof:parent_id":1108694703,
     "wof:placetype":"locality",

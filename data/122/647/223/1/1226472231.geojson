@@ -31,6 +31,15 @@
     "name:ben_x_preferred":[
         "Elata"
     ],
+    "name:ceb_x_preferred":[
+        "El\u00e1ta"
+    ],
+    "name:ell_x_preferred":[
+        "\u0395\u03bb\u03ac\u03c4\u03b1 \u03a7\u03af\u03bf\u03c5"
+    ],
+    "name:swe_x_preferred":[
+        "El\u00e1ta"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":1226472231,
-    "wof:lastmodified":1537586728,
+    "wof:lastmodified":1564159979,
     "wof:name":"Elata",
     "wof:parent_id":1108694681,
     "wof:placetype":"locality",

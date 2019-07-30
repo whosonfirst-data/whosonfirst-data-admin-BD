@@ -31,6 +31,12 @@
     "name:ben_x_preferred":[
         "Kharda"
     ],
+    "name:jpn_x_preferred":[
+        "\u30ab\u30eb\u30c0\u30fc"
+    ],
+    "name:mar_x_preferred":[
+        "\u0916\u0930\u094d\u0921\u093e"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":1226576391,
-    "wof:lastmodified":1537586825,
+    "wof:lastmodified":1564159768,
     "wof:name":"Kharda",
     "wof:parent_id":1108694675,
     "wof:placetype":"locality",

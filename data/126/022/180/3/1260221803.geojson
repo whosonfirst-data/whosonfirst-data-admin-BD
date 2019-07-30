@@ -28,6 +28,18 @@
     "iso:country":"BD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:est_x_preferred":[
+        "Rundid"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0411\u0430\u0440\u0443\u043d\u0434\u0438"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0443\u043d\u0434\u0438"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u0443\u043d\u0434\u0456"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -51,7 +63,7 @@
         }
     ],
     "wof:id":1260221803,
-    "wof:lastmodified":1536795883,
+    "wof:lastmodified":1564156619,
     "wof:name":"Barundi",
     "wof:parent_id":421197045,
     "wof:placetype":"locality",

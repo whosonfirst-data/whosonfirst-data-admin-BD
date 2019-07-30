@@ -28,10 +28,37 @@
     "name:ben_x_preferred":[
         "Khosnad"
     ],
+    "name:ben_x_variant":[
+        "\u09a4\u099c\u09c1\u09ae\u09a6\u09cd\u09a6\u09bf\u09a8 \u0989\u09aa\u099c\u09c7\u09b2\u09be"
+    ],
+    "name:bpy_x_preferred":[
+        "\u09a4\u099c\u09ae\u09c1\u09a6\u09cd\u09a6\u09bf\u09a8 \u0989\u09aa\u099c\u09bf\u09b2\u09be"
+    ],
+    "name:ceb_x_preferred":[
+        "Tazumuddin Upazila"
+    ],
+    "name:fra_x_preferred":[
+        "Tazumuddin"
+    ],
+    "name:hin_x_preferred":[
+        "\u0924\u091c\u092e\u0941\u0926\u094d\u0926\u0940\u0928 \u0909\u092a\u091c\u093c\u093f\u0932\u093e"
+    ],
+    "name:ita_x_preferred":[
+        "Tazumuddin"
+    ],
+    "name:spa_x_preferred":[
+        "Tazumuddin"
+    ],
+    "name:swe_x_preferred":[
+        "Tazumuddin Upazila"
+    ],
     "name:und_x_variant":[
         "Khosnodi",
         "Khoshnadi",
         "T\u0101zumuddin"
+    ],
+    "name:zho_x_preferred":[
+        "\u5854\u7956\u7a46\u4e01\u70cf\u5e15\u9f4a\u62c9"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -57,7 +84,7 @@
         }
     ],
     "wof:id":1242715345,
-    "wof:lastmodified":1537585718,
+    "wof:lastmodified":1564158690,
     "wof:name":"Khosnad",
     "wof:parent_id":421184491,
     "wof:placetype":"locality",

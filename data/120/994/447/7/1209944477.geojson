@@ -31,6 +31,12 @@
     "name:ben_x_preferred":[
         "K\u0101n\u0101i"
     ],
+    "name:deu_x_preferred":[
+        "Kanai"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u043d\u0430\u0438"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":1209944477,
-    "wof:lastmodified":1537586485,
+    "wof:lastmodified":1564156018,
     "wof:name":"Kanai",
     "wof:parent_id":421191663,
     "wof:placetype":"locality",

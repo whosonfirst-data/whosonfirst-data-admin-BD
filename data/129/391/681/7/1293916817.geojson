@@ -32,7 +32,35 @@
         "K\u0101jipur"
     ],
     "name:ben_x_variant":[
-        "K\u0101zipur"
+        "K\u0101zipur",
+        "\u0995\u09be\u099c\u09c0\u09aa\u09c1\u09b0 \u0989\u09aa\u099c\u09c7\u09b2\u09be"
+    ],
+    "name:bpy_x_preferred":[
+        "\u0995\u09be\u099c\u09c0\u09aa\u09c1\u09b0 \u0989\u09aa\u099c\u09bf\u09b2\u09be"
+    ],
+    "name:ceb_x_preferred":[
+        "Kazipur"
+    ],
+    "name:fra_x_preferred":[
+        "Kazipur"
+    ],
+    "name:hin_x_preferred":[
+        "\u0915\u093e\u091c\u0940\u092a\u0941\u0930 \u0909\u092a\u091c\u093c\u093f\u0932\u093e"
+    ],
+    "name:ita_x_preferred":[
+        "Kazipur"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0437\u0438\u043f\u0443\u0440"
+    ],
+    "name:spa_x_preferred":[
+        "Kazipur"
+    ],
+    "name:swe_x_preferred":[
+        "Kazipur"
+    ],
+    "name:zho_x_preferred":[
+        "\u5361\u9f4a\u5e03\u723e\u70cf\u5e15\u9f4a\u62c9"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -58,7 +86,7 @@
         }
     ],
     "wof:id":1293916817,
-    "wof:lastmodified":1537585935,
+    "wof:lastmodified":1564153647,
     "wof:name":"Kajipur",
     "wof:parent_id":890438075,
     "wof:placetype":"locality",

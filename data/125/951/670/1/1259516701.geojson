@@ -31,6 +31,42 @@
     "name:ben_x_preferred":[
         "Baduria"
     ],
+    "name:ben_x_variant":[
+        "\u09ac\u09be\u09a6\u09c1\u09a1\u09bc\u09bf\u09af\u09bc\u09be"
+    ],
+    "name:bpy_x_preferred":[
+        "\u09ac\u09be\u09a6\u09c1\u09a1\u09bc\u09bf\u09af\u09bc\u09be"
+    ],
+    "name:ceb_x_preferred":[
+        "Bad\u016bria"
+    ],
+    "name:hin_x_preferred":[
+        "\u092c\u093e\u0926\u0942\u0921\u093c\u093f\u092f\u093e"
+    ],
+    "name:ita_x_preferred":[
+        "Baduria"
+    ],
+    "name:msa_x_preferred":[
+        "Baduria"
+    ],
+    "name:new_x_preferred":[
+        "\u092c\u093e\u0926\u094c\u0930\u093f\u092f"
+    ],
+    "name:por_x_preferred":[
+        "Baduria"
+    ],
+    "name:spa_x_preferred":[
+        "Baduria"
+    ],
+    "name:swe_x_preferred":[
+        "Bad\u016bria"
+    ],
+    "name:vie_x_preferred":[
+        "Baduria"
+    ],
+    "name:zho_x_preferred":[
+        "\u5df4\u675c\u91cc\u4e9a"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -54,7 +90,7 @@
         }
     ],
     "wof:id":1259516701,
-    "wof:lastmodified":1537586601,
+    "wof:lastmodified":1564159341,
     "wof:name":"Baduria",
     "wof:parent_id":421201927,
     "wof:placetype":"locality",

@@ -31,6 +31,21 @@
     "name:ben_x_preferred":[
         "Baidar"
     ],
+    "name:ita_x_preferred":[
+        "Baidar"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d0\u30a4\u30c0\u30eb"
+    ],
+    "name:pol_x_preferred":[
+        "Bajdar"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u0439\u0434\u0430\u0440"
+    ],
+    "name:spa_x_preferred":[
+        "Baidar"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -54,7 +69,7 @@
         }
     ],
     "wof:id":1293622571,
-    "wof:lastmodified":1537586763,
+    "wof:lastmodified":1564153708,
     "wof:name":"Baidar",
     "wof:parent_id":1108694671,
     "wof:placetype":"locality",

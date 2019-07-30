@@ -25,7 +25,13 @@
     "iso:country":"BD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:amh_x_preferred":[
+        "\u121b\u1295\u12f1\u122b"
+    ],
     "name:ben_x_preferred":[
+        "Mandura"
+    ],
+    "name:fra_x_preferred":[
         "Mandura"
     ],
     "src:geom":"geonames",
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1292933769,
-    "wof:lastmodified":1537586778,
+    "wof:lastmodified":1564153836,
     "wof:name":"Mandura",
     "wof:parent_id":1108694675,
     "wof:placetype":"locality",

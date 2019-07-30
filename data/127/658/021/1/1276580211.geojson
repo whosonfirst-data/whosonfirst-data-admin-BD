@@ -31,6 +31,36 @@
     "name:ben_x_preferred":[
         "Kod\u0101lia"
     ],
+    "name:ben_x_variant":[
+        "\u0995\u09cb\u09a6\u09be\u09b2\u09bf\u09af\u09bc\u09be"
+    ],
+    "name:bpy_x_preferred":[
+        "\u0995\u09cb\u09a6\u09be\u09b2\u09bf\u09af\u09bc\u09be"
+    ],
+    "name:ind_x_preferred":[
+        "Kodalia"
+    ],
+    "name:ita_x_preferred":[
+        "Kodalia"
+    ],
+    "name:msa_x_preferred":[
+        "Kodalia"
+    ],
+    "name:new_x_preferred":[
+        "\u0915\u094b\u0926\u0932\u093f\u092f\u093e"
+    ],
+    "name:nld_x_preferred":[
+        "Kodalia"
+    ],
+    "name:por_x_preferred":[
+        "Kodalia"
+    ],
+    "name:vie_x_preferred":[
+        "Kodalia"
+    ],
+    "name:zho_x_preferred":[
+        "\u79d1\u8fbe\u5229\u4e9a"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -54,7 +84,7 @@
         }
     ],
     "wof:id":1276580211,
-    "wof:lastmodified":1537586567,
+    "wof:lastmodified":1564154833,
     "wof:name":"Kodalia",
     "wof:parent_id":890438075,
     "wof:placetype":"locality",

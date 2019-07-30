@@ -31,6 +31,12 @@
     "name:ben_x_preferred":[
         "Narapati"
     ],
+    "name:mya_x_preferred":[
+        "\u1014\u101b\u1015\u1010\u102d"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e19\u0e23\u0e1b\u0e15\u0e34"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":1259816763,
-    "wof:lastmodified":1537586393,
+    "wof:lastmodified":1564159427,
     "wof:name":"Narapati",
     "wof:parent_id":1108694689,
     "wof:placetype":"locality",

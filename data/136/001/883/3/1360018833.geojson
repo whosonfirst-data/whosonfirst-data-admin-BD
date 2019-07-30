@@ -28,6 +28,12 @@
     "iso:country":"BD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:pol_x_preferred":[
+        "Damodar"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0430\u043c\u043e\u0434\u0430\u0440"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1360018833,
-    "wof:lastmodified":1537039595,
+    "wof:lastmodified":1564157683,
     "wof:name":"Damodar",
     "wof:parent_id":421185473,
     "wof:placetype":"locality",

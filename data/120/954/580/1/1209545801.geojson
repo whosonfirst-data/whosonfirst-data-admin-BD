@@ -31,6 +31,33 @@
     "name:ben_x_preferred":[
         "Dh\u0101kuria"
     ],
+    "name:ben_x_variant":[
+        "\u09a2\u09be\u0995\u09c1\u09b0\u09bf\u09af\u09bc\u09be"
+    ],
+    "name:bpy_x_preferred":[
+        "\u09a2\u09be\u0995\u09c1\u09b0\u09bf\u09af\u09bc\u09be"
+    ],
+    "name:hin_x_preferred":[
+        "\u0922\u0915\u0941\u0930\u093f\u092f\u093e"
+    ],
+    "name:ita_x_preferred":[
+        "Dhakuria"
+    ],
+    "name:msa_x_preferred":[
+        "Dhakuria"
+    ],
+    "name:new_x_preferred":[
+        "\u0922\u0915\u0941\u0930\u093f\u092f\u093e"
+    ],
+    "name:nld_x_preferred":[
+        "Dhakuria"
+    ],
+    "name:vie_x_preferred":[
+        "Dhakuria"
+    ],
+    "name:zho_x_preferred":[
+        "\u8fbe\u5e93\u91cc\u4e9a"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632475
@@ -48,7 +75,7 @@
         }
     ],
     "wof:id":1209545801,
-    "wof:lastmodified":1537586058,
+    "wof:lastmodified":1564155491,
     "wof:name":"Dhakuria",
     "wof:parent_id":85632475,
     "wof:placetype":"locality",

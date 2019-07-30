@@ -28,8 +28,32 @@
     "iso:country":"BD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Suhita"
+    ],
+    "name:hin_x_preferred":[
+        "\u0938\u0941\u0939\u093f\u0924"
+    ],
+    "name:ind_x_preferred":[
+        "Suhita"
+    ],
+    "name:jav_x_preferred":[
+        "Suhita"
+    ],
+    "name:msa_x_preferred":[
+        "Ratu Suhita"
+    ],
+    "name:san_x_preferred":[
+        "\u0938\u0941\u0939\u093f\u0924"
+    ],
+    "name:swe_x_preferred":[
+        "Suhita"
+    ],
     "name:und_x_variant":[
         "Suhila"
+    ],
+    "name:zho_x_preferred":[
+        "\u82cf\u5e0c\u8fbe"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +78,7 @@
         }
     ],
     "wof:id":1242715507,
-    "wof:lastmodified":1537585728,
+    "wof:lastmodified":1564158693,
     "wof:name":"Suhita",
     "wof:parent_id":421185469,
     "wof:placetype":"locality",

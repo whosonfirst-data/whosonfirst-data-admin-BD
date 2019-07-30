@@ -31,6 +31,9 @@
     "name:ben_x_preferred":[
         "Belgharia"
     ],
+    "name:ben_x_variant":[
+        "\u09ac\u09c7\u09b2\u0998\u09b0\u09bf\u09af\u09bc\u09be"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1276472515,
-    "wof:lastmodified":1537586149,
+    "wof:lastmodified":1564155004,
     "wof:name":"Belgharia",
     "wof:parent_id":421172439,
     "wof:placetype":"locality",

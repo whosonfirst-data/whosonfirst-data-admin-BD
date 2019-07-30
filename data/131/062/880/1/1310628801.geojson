@@ -28,6 +28,15 @@
     "name:ben_x_preferred":[
         "Kathor"
     ],
+    "name:ceb_x_preferred":[
+        "K\u0101thor"
+    ],
+    "name:guj_x_preferred":[
+        "\u0a95\u0aa0\u0acb\u0ab0"
+    ],
+    "name:swe_x_preferred":[
+        "K\u0101thor"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -51,7 +60,7 @@
         }
     ],
     "wof:id":1310628801,
-    "wof:lastmodified":1537586778,
+    "wof:lastmodified":1564157129,
     "wof:name":"Kathor",
     "wof:parent_id":1108694675,
     "wof:placetype":"locality",

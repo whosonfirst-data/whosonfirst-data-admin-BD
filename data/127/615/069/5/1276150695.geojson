@@ -31,6 +31,12 @@
     "name:ben_x_preferred":[
         "Dogar"
     ],
+    "name:cat_x_preferred":[
+        "Dogars"
+    ],
+    "name:urd_x_preferred":[
+        "\u0688\u0648\u06af\u0631"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":1276150695,
-    "wof:lastmodified":1537586488,
+    "wof:lastmodified":1564155099,
     "wof:name":"Dogar",
     "wof:parent_id":1108694681,
     "wof:placetype":"locality",

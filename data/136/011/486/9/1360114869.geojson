@@ -28,8 +28,38 @@
     "iso:country":"BD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Madan"
+    ],
+    "name:deu_x_preferred":[
+        "Madan"
+    ],
+    "name:fra_x_preferred":[
+        "Madan"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d3\u05df"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30de\u30c0\u30f3"
+    ],
+    "name:por_x_preferred":[
+        "Madan"
+    ],
+    "name:ron_x_preferred":[
+        "Madan"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u0434\u0430\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Madan"
+    ],
     "name:und_x_variant":[
         "\u0100kh\u0101sri"
+    ],
+    "name:vie_x_preferred":[
+        "Madan"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +84,7 @@
         }
     ],
     "wof:id":1360114869,
-    "wof:lastmodified":1537586207,
+    "wof:lastmodified":1564157741,
     "wof:name":"Madan",
     "wof:parent_id":421200811,
     "wof:placetype":"locality",

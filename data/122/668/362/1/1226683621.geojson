@@ -31,6 +31,18 @@
     "name:ben_x_preferred":[
         "M\u0101npur"
     ],
+    "name:ceb_x_preferred":[
+        "Manpur"
+    ],
+    "name:fra_x_preferred":[
+        "Manpur"
+    ],
+    "name:pol_x_preferred":[
+        "Manpur"
+    ],
+    "name:swe_x_preferred":[
+        "Manpur"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -54,7 +66,7 @@
         }
     ],
     "wof:id":1226683621,
-    "wof:lastmodified":1537586440,
+    "wof:lastmodified":1564159703,
     "wof:name":"Manpur",
     "wof:parent_id":421197541,
     "wof:placetype":"locality",

@@ -31,6 +31,15 @@
     "name:ben_x_preferred":[
         "Salepur"
     ],
+    "name:ceb_x_preferred":[
+        "S\u0101lepur"
+    ],
+    "name:ori_x_preferred":[
+        "\u0b38\u0b3e\u0b32\u0b47\u0b2a\u0b41\u0b30"
+    ],
+    "name:swe_x_preferred":[
+        "S\u0101lepur"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":1360318663,
-    "wof:lastmodified":1537586441,
+    "wof:lastmodified":1564157607,
     "wof:name":"Salepur",
     "wof:parent_id":1108694699,
     "wof:placetype":"locality",

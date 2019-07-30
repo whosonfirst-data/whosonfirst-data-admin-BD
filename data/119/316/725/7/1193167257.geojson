@@ -34,6 +34,18 @@
     "name:ben_x_variant":[
         "S\u0101tor"
     ],
+    "name:ceb_x_preferred":[
+        "Sator"
+    ],
+    "name:deu_x_preferred":[
+        "Sator"
+    ],
+    "name:fra_x_preferred":[
+        "Sator"
+    ],
+    "name:swe_x_preferred":[
+        "Sator"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -57,7 +69,7 @@
         }
     ],
     "wof:id":1193167257,
-    "wof:lastmodified":1537585762,
+    "wof:lastmodified":1564156511,
     "wof:name":"Sator",
     "wof:parent_id":1108694671,
     "wof:placetype":"locality",
