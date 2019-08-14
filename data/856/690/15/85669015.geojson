@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "division"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "KH"
+    ],
     "lbl:latitude":23.003365,
     "lbl:longitude":89.315305,
     "mps:latitude":22.765995,
@@ -310,16 +313,13 @@
         }
     ],
     "wof:id":85669015,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "ben"
     ],
     "wof:lang_x_spoken":[
         "ben"
     ],
-    "wof:lastmodified":1563580230,
+    "wof:lastmodified":1565653350,
     "wof:name":"Khulna",
     "wof:parent_id":85632475,
     "wof:placetype":"region",

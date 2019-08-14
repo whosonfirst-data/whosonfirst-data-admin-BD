@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "division"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "CG"
+    ],
     "lbl:latitude":22.795468,
     "lbl:longitude":92.026916,
     "mps:latitude":22.797756,
@@ -293,16 +296,13 @@
         }
     ],
     "wof:id":85669023,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "ben"
     ],
     "wof:lang_x_spoken":[
         "ben"
     ],
-    "wof:lastmodified":1563580229,
+    "wof:lastmodified":1565653350,
     "wof:name":"Chittagong",
     "wof:parent_id":85632475,
     "wof:placetype":"region",

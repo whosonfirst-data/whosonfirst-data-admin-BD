@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "division"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "SY"
+    ],
     "lbl:latitude":24.705173,
     "lbl:longitude":91.678084,
     "mps:latitude":24.68436,
@@ -275,16 +278,13 @@
         }
     ],
     "wof:id":85669025,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "ben"
     ],
     "wof:lang_x_spoken":[
         "ben"
     ],
-    "wof:lastmodified":1563580232,
+    "wof:lastmodified":1565653351,
     "wof:name":"Sylhet",
     "wof:parent_id":85632475,
     "wof:placetype":"region",

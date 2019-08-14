@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "division"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "RS"
+    ],
     "lbl:latitude":24.602989,
     "lbl:longitude":89.118462,
     "mps:latitude":24.68075,
@@ -267,16 +270,13 @@
         }
     ],
     "wof:id":85669031,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "ben"
     ],
     "wof:lang_x_spoken":[
         "ben"
     ],
-    "wof:lastmodified":1563580228,
+    "wof:lastmodified":1565653349,
     "wof:name":"Rajshahi",
     "wof:parent_id":85632475,
     "wof:placetype":"region",

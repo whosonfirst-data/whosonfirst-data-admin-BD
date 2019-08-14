@@ -15,6 +15,9 @@
     "itu:country_code":[
         "880"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "BD"
+    ],
     "lbl:latitude":24.045958,
     "lbl:longitude":90.032723,
     "mps:latitude":24.045958,
@@ -1104,16 +1107,13 @@
         }
     ],
     "wof:id":85632475,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "ben"
     ],
     "wof:lang_x_spoken":[
         "ben"
     ],
-    "wof:lastmodified":1563580219,
+    "wof:lastmodified":1565653345,
     "wof:name":"Bangladesh",
     "wof:parent_id":102191569,
     "wof:placetype":"country",
