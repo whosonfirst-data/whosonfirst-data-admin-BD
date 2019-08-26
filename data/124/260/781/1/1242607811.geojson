@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.50873,22.195,90.54873,22.235",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Guli \u0100uli\u0101pur"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1242607811,
-    "wof:lastmodified":1537586386,
+    "wof:lastmodified":1566609602,
     "wof:name":"Guli Auliapur",
     "wof:parent_id":421169845,
     "wof:placetype":"locality",

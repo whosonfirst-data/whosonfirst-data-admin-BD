@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.09892,24.79129,88.13892,24.83129",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Azmatpur"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1310638061,
-    "wof:lastmodified":1537586493,
+    "wof:lastmodified":1566608873,
     "wof:name":"Azmatpur",
     "wof:parent_id":421191607,
     "wof:placetype":"locality",

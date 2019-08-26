@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.37053,22.93942,90.41053,22.97942",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1327164263,
-    "wof:lastmodified":1537065218,
+    "wof:lastmodified":1566606229,
     "wof:name":"North Galaibhanga",
     "wof:parent_id":421187745,
     "wof:placetype":"locality",

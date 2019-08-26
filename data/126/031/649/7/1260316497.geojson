@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"91.92901,24.66646,91.96901,24.70646",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Maijgaon",
         "Maiglaon",
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1260316497,
-    "wof:lastmodified":1537585885,
+    "wof:lastmodified":1566608517,
     "wof:name":"Majgram",
     "wof:parent_id":421187795,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.21103,25.01078,89.25103,25.05078",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Sikta"
     ],
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1209143215,
-    "wof:lastmodified":1537586732,
+    "wof:lastmodified":1566607984,
     "wof:name":"Sikta",
     "wof:parent_id":85632475,
     "wof:placetype":"locality",

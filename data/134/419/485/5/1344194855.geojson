@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.20083,26.02254,88.24083,26.06254",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Jhabortola"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1344194855,
-    "wof:lastmodified":1537586618,
+    "wof:lastmodified":1566606553,
     "wof:name":"Jhabortola",
     "wof:parent_id":1108694703,
     "wof:placetype":"locality",

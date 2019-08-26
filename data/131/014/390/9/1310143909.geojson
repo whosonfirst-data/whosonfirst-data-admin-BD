@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.91333,23.16333,90.95333,23.20333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ori_x_preferred":[
         "\u0b27\u0b3e\u0b2e\u0b30\u0b3e"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1310143909,
-    "wof:lastmodified":1564157106,
+    "wof:lastmodified":1566608767,
     "wof:name":"Dhamra",
     "wof:parent_id":1108694669,
     "wof:placetype":"locality",

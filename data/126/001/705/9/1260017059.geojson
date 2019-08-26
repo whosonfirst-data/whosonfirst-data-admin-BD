@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.75511,24.58629,88.79511,24.62629",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Haludghar"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1260017059,
-    "wof:lastmodified":1537586003,
+    "wof:lastmodified":1566608543,
     "wof:name":"Haludghar",
     "wof:parent_id":421172439,
     "wof:placetype":"locality",

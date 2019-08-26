@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.75573,24.27323,90.79573,24.31323",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1360318657,
-    "wof:lastmodified":1536605752,
+    "wof:lastmodified":1566609084,
     "wof:name":"Baniagaon",
     "wof:parent_id":421170483,
     "wof:placetype":"locality",

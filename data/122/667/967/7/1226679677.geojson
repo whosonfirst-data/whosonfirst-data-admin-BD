@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.3103,21.86871,90.3503,21.90871",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "H\u0101tkhola"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1226679677,
-    "wof:lastmodified":1537586711,
+    "wof:lastmodified":1566610410,
     "wof:name":"Hatkhola",
     "wof:parent_id":421169845,
     "wof:placetype":"locality",

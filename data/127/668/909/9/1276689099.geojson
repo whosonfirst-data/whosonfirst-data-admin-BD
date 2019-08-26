@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.17747,24.83437,88.21747,24.87437",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Karnakh\u0101li"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1276689099,
-    "wof:lastmodified":1537586495,
+    "wof:lastmodified":1566607264,
     "wof:name":"Karnakhali",
     "wof:parent_id":421191607,
     "wof:placetype":"locality",

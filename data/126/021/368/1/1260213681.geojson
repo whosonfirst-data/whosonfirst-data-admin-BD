@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.76578,23.80203,89.80578,23.84203",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1260213681,
-    "wof:lastmodified":1536806530,
+    "wof:lastmodified":1566608627,
     "wof:name":"Chhota Anulia",
     "wof:parent_id":421191745,
     "wof:placetype":"locality",

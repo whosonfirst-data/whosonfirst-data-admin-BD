@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.10481,21.83061,90.14481,21.87061",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Alipur"
     ],
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":1276579959,
-    "wof:lastmodified":1564154909,
+    "wof:lastmodified":1566607309,
     "wof:name":"Alipur",
     "wof:parent_id":421169845,
     "wof:placetype":"locality",

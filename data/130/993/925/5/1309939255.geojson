@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.92042,22.90154,88.96042,22.94154",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Kayb\u0101y"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1309939255,
-    "wof:lastmodified":1537585936,
+    "wof:lastmodified":1566609288,
     "wof:name":"Kaybay",
     "wof:parent_id":421176039,
     "wof:placetype":"locality",

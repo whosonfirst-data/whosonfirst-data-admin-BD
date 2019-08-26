@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.29446,22.41157,90.33446,22.45157",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Mallikkh\u0101li"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1343691635,
-    "wof:lastmodified":1537586338,
+    "wof:lastmodified":1566606540,
     "wof:name":"Mallikkhali",
     "wof:parent_id":421169845,
     "wof:placetype":"locality",

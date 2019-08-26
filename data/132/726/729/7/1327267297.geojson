@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.25109,23.35672,89.29109,23.39672",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Nitvanandi"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1327267297,
-    "wof:lastmodified":1537586413,
+    "wof:lastmodified":1566606201,
     "wof:name":"Nitvanandi",
     "wof:parent_id":1108694689,
     "wof:placetype":"locality",

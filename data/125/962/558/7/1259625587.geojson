@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.92527,23.21731,90.96527,23.25731",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Karirkamta",
         "K\u0101zir K\u0101mta"
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1259625587,
-    "wof:lastmodified":1537585934,
+    "wof:lastmodified":1566609976,
     "wof:name":"Kazir Kamta",
     "wof:parent_id":1108694669,
     "wof:placetype":"locality",

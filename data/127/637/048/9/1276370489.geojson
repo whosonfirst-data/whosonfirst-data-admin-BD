@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.01323,25.85882,89.05323,25.89882",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Muchia"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1276370489,
-    "wof:lastmodified":1564155255,
+    "wof:lastmodified":1566607595,
     "wof:name":"Muchia",
     "wof:parent_id":1108694695,
     "wof:placetype":"locality",

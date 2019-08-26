@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.06918,23.24661,89.10918,23.28661",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Ch\u0101r\u0101b\u0101ri"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1343394373,
-    "wof:lastmodified":1537586700,
+    "wof:lastmodified":1566606306,
     "wof:name":"Charabari",
     "wof:parent_id":421176039,
     "wof:placetype":"locality",

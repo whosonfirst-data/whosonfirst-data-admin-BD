@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.73494,25.57095,88.77494,25.61095",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Durg\u0101d\u0101ng\u0101"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1226272501,
-    "wof:lastmodified":1537586462,
+    "wof:lastmodified":1566610331,
     "wof:name":"Durgadanga",
     "wof:parent_id":1108694671,
     "wof:placetype":"locality",

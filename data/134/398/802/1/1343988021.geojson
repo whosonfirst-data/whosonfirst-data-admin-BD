@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.67475,23.41963,89.71475,23.45963",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Mohanpur"
     ],
@@ -69,7 +73,7 @@
         }
     ],
     "wof:id":1343988021,
-    "wof:lastmodified":1564152810,
+    "wof:lastmodified":1566606269,
     "wof:name":"Mohanpur",
     "wof:parent_id":421198063,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.97327,24.96417,89.01327,25.00417",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Uj\u0101lpur"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1277012545,
-    "wof:lastmodified":1564154597,
+    "wof:lastmodified":1566607065,
     "wof:name":"Ujalpur",
     "wof:parent_id":421191663,
     "wof:placetype":"locality",

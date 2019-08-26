@@ -26,16 +26,17 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.83652,24.77095,88.87652,24.81095",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Shashidharpur"
     ],
     "name:ben_x_variant":[
         "Sasidharpur",
-        "Shasidharpur"
-    ],
-    "name:und_x_variant":[
         "Shasidharpur"
     ],
     "src:geom":"geonames",
@@ -61,7 +62,7 @@
         }
     ],
     "wof:id":1226172671,
-    "wof:lastmodified":1537585763,
+    "wof:lastmodified":1566610279,
     "wof:name":"Shashidharpur",
     "wof:parent_id":421191663,
     "wof:placetype":"locality",

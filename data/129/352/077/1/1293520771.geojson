@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.39603,23.07339,90.43603,23.11339",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Bakshampatti",
         "Baksampatti"
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1293520771,
-    "wof:lastmodified":1537586178,
+    "wof:lastmodified":1566606719,
     "wof:name":"Baksampatti",
     "wof:parent_id":421188359,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.17275,21.93502,90.21275,21.97502",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Gutib\u0101chha"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1259613269,
-    "wof:lastmodified":1537586377,
+    "wof:lastmodified":1566610141,
     "wof:name":"Gutibachha",
     "wof:parent_id":421169845,
     "wof:placetype":"locality",

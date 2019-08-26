@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.87106,24.79742,90.91106,24.83742",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1344090031,
-    "wof:lastmodified":1536832031,
+    "wof:lastmodified":1566606387,
     "wof:name":"Sabajpur",
     "wof:parent_id":421200811,
     "wof:placetype":"locality",

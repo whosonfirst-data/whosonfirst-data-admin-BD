@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.52798,25.66306,89.56798,25.70306",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Arjun"
     ],
@@ -75,7 +79,7 @@
         }
     ],
     "wof:id":1360015583,
-    "wof:lastmodified":1564157646,
+    "wof:lastmodified":1566609094,
     "wof:name":"Arjun",
     "wof:parent_id":1108694685,
     "wof:placetype":"locality",

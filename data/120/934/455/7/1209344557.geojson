@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.49114,23.41286,90.53114,23.45286",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Silai"
     ],
@@ -35,8 +39,7 @@
         "Silai"
     ],
     "name:und_x_variant":[
-        "Char Silai",
-        "Silai"
+        "Char Silai"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1209344557,
-    "wof:lastmodified":1564156077,
+    "wof:lastmodified":1566608126,
     "wof:name":"Silai",
     "wof:parent_id":85632475,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"92.36894,22.5388,92.40894,22.5788",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Jarulchhari",
         "J\u0101rulchari"
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1276702529,
-    "wof:lastmodified":1537585975,
+    "wof:lastmodified":1566607501,
     "wof:name":"Jarulchari",
     "wof:parent_id":421188983,
     "wof:placetype":"locality",

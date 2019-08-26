@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"92.20953,22.53801,92.24953,22.57801",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Gobagona"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1310247133,
-    "wof:lastmodified":1537586232,
+    "wof:lastmodified":1566608684,
     "wof:name":"Gobagona",
     "wof:parent_id":421188983,
     "wof:placetype":"locality",

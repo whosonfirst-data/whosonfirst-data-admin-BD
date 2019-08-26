@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.24976,23.04856,89.28976,23.08856",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Dh\u0101kuria"
     ],
@@ -75,7 +79,7 @@
         }
     ],
     "wof:id":1209545801,
-    "wof:lastmodified":1564155491,
+    "wof:lastmodified":1566607724,
     "wof:name":"Dhakuria",
     "wof:parent_id":85632475,
     "wof:placetype":"locality",

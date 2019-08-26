@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.64492,23.72732,90.68492,23.76732",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1309839389,
-    "wof:lastmodified":1536882084,
+    "wof:lastmodified":1566609222,
     "wof:name":"Ilamdi",
     "wof:parent_id":421197045,
     "wof:placetype":"locality",

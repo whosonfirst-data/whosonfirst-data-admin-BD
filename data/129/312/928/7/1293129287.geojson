@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.19351,22.75976,90.23351,22.79976",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Paschim N\u0101r\u0101yanpur",
         "West N\u0101r\u0101yanpur"
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1293129287,
-    "wof:lastmodified":1537585697,
+    "wof:lastmodified":1566606827,
     "wof:name":"Paschim Narayanpur",
     "wof:parent_id":421187745,
     "wof:placetype":"locality",

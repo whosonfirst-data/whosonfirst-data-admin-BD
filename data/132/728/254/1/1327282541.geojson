@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"92.1352,21.8647,92.1752,21.9047",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Got\u0101i\u0101p\u0101ra"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1327282541,
-    "wof:lastmodified":1537586231,
+    "wof:lastmodified":1566606213,
     "wof:name":"Gotaiapara",
     "wof:parent_id":421169477,
     "wof:placetype":"locality",

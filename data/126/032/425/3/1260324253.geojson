@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"91.47984,24.20479,91.51984,24.24479",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Latipur",
         "Latifpur"
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1260324253,
-    "wof:lastmodified":1564156903,
+    "wof:lastmodified":1566608644,
     "wof:name":"Latifpur",
     "wof:parent_id":421176045,
     "wof:placetype":"locality",

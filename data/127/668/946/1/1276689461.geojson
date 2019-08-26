@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.03442,23.01828,90.07442,23.05828",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Betb\u0101ri",
         "Batb\u0101ri"
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1276689461,
-    "wof:lastmodified":1537586153,
+    "wof:lastmodified":1566607274,
     "wof:name":"Betbari",
     "wof:parent_id":421194867,
     "wof:placetype":"locality",

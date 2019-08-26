@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.38307,21.89127,90.42307,21.93127",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Char K\u0101nda"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1242811343,
-    "wof:lastmodified":1537586713,
+    "wof:lastmodified":1566609537,
     "wof:name":"Char Kanda",
     "wof:parent_id":421169845,
     "wof:placetype":"locality",

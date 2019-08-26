@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"92.32524,22.49083,92.36524,22.53083",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Bel\u0101ichhari",
         "Bilaichhari",
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1226791693,
-    "wof:lastmodified":1537585693,
+    "wof:lastmodified":1566610674,
     "wof:name":"Belaichari",
     "wof:parent_id":421188983,
     "wof:placetype":"locality",

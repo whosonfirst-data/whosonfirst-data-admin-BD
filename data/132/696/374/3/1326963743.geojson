@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.52075,23.19825,89.56075,23.23825",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "B\u0101dhal"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1326963743,
-    "wof:lastmodified":1537586189,
+    "wof:lastmodified":1566606173,
     "wof:name":"Badhal",
     "wof:parent_id":421205213,
     "wof:placetype":"locality",

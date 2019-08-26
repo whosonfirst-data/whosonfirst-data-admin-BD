@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.85146,23.07889,89.89146,23.11889",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Padmabila"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1327167573,
-    "wof:lastmodified":1537586456,
+    "wof:lastmodified":1566606229,
     "wof:name":"Padmabila",
     "wof:parent_id":421194867,
     "wof:placetype":"locality",

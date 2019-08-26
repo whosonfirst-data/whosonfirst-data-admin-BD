@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.69295,23.75288,90.73295,23.79288",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:nld_x_preferred":[
         "Manikpur"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1360019051,
-    "wof:lastmodified":1564157675,
+    "wof:lastmodified":1566609111,
     "wof:name":"Manikpur",
     "wof:parent_id":421197045,
     "wof:placetype":"locality",

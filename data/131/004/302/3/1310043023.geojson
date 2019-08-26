@@ -26,19 +26,18 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.18298,25.55937,89.22298,25.59937",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Cheng\u0101m\u0101ri"
     ],
     "name:ben_x_variant":[
         "Chengm\u0101ri",
         "Changamaree"
-    ],
-    "name:und_x_variant":[
-        "Changamaree",
-        "Chengm\u0101ri",
-        "Cheng\u0101m\u0101ri"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -63,7 +62,7 @@
         }
     ],
     "wof:id":1310043023,
-    "wof:lastmodified":1537586090,
+    "wof:lastmodified":1566608972,
     "wof:name":"Chengamari",
     "wof:parent_id":1108694701,
     "wof:placetype":"locality",

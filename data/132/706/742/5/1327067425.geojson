@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.07432,25.36536,89.11432,25.40536",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Rangaipur"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1327067425,
-    "wof:lastmodified":1537586850,
+    "wof:lastmodified":1566605879,
     "wof:name":"Rangaipur",
     "wof:parent_id":1108694671,
     "wof:placetype":"locality",

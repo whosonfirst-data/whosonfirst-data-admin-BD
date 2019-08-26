@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.86593,24.4427,88.90593,24.4827",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "K\u0101ora J\u0101ora"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1293813775,
-    "wof:lastmodified":1537585946,
+    "wof:lastmodified":1566607010,
     "wof:name":"Kaora Jaora",
     "wof:parent_id":421172439,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.45366,22.57029,90.49366,22.61029",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "West Sarsi"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1259416433,
-    "wof:lastmodified":1537585696,
+    "wof:lastmodified":1566610017,
     "wof:name":"Paschim Sarsi",
     "wof:parent_id":421187745,
     "wof:placetype":"locality",

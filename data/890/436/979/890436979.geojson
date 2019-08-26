@@ -11,10 +11,14 @@
     "geom:longitude":88.94875,
     "gn:country":"BD",
     "gn:fcode":"PPL",
-    "gn:pop":192464,
+    "gn:population":192464,
     "iso:country":"BD",
+    "lbl:bbox":"88.92875,24.78418,88.96875,24.82418",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":7.0,
     "name:ben_x_preferred":[
         "P\u0101r Naogaon"
     ],
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":1192366,
         "gp:id":1915165,
-        "qs:id":1030135
+        "qs_pg:id":1030135
     },
     "wof:country":"BD",
     "wof:created":1469052133,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890436979,
-    "wof:lastmodified":1505343557,
+    "wof:lastmodified":1566609402,
     "wof:name":"P\u0101r Naogaon",
     "wof:parent_id":421191663,
     "wof:placetype":"locality",

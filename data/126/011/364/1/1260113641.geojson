@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.24389,22.66259,90.28389,22.70259",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:snd_x_preferred":[
         "\u0686\u0627\u0686\u0699"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1260113641,
-    "wof:lastmodified":1564156761,
+    "wof:lastmodified":1566608561,
     "wof:name":"Chachar",
     "wof:parent_id":1108694677,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.11456,24.64661,88.15456,24.68661",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Afrashia"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1343494541,
-    "wof:lastmodified":1537586499,
+    "wof:lastmodified":1566606465,
     "wof:name":"Afrashia",
     "wof:parent_id":421191607,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.73958,24.70026,88.77958,24.74026",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Ranj Nadi"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1243484317,
-    "wof:lastmodified":1537586539,
+    "wof:lastmodified":1566609615,
     "wof:name":"Ranj Nadi",
     "wof:parent_id":421191663,
     "wof:placetype":"locality",

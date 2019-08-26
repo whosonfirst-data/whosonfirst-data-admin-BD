@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":24.931003,
     "lbl:longitude":91.380189,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"SYLHET",
     "meso:gadm_admin":"Sun Amgonj",
     "meso:gadm_hasc2":"BD.SY.SN",
@@ -31,6 +33,7 @@
     "mps:longitude":91.380189,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ben_x_preferred":[
         "\u09b8\u09c1\u09a8\u09be\u09ae\u0997\u099e\u09cd\u099c \u099c\u09c7\u09b2\u09be"
@@ -128,9 +131,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-03-15",
+    "src:population_date":"2011-03-15",
     "statoids:area_km":"3,747",
     "statoids:as_of_date":"2011-03-15",
     "statoids:capital":"Sunamganj",
@@ -150,7 +153,7 @@
     "wof:concordances":{
         "gp:id":23706448,
         "hasc:id":"BD.SY.SN",
-        "qs:id":215999,
+        "qs_pg:id":215999,
         "wd:id":"Q2093388"
     },
     "wof:country":"BD",
@@ -165,7 +168,7 @@
         }
     ],
     "wof:id":421201931,
-    "wof:lastmodified":1563584396,
+    "wof:lastmodified":1566609392,
     "wof:name":"Sunamganj",
     "wof:parent_id":85669025,
     "wof:placetype":"county",

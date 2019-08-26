@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.79776,24.17101,88.83776,24.21101",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Chak Chh\u0101t\u0101ri"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1310043049,
-    "wof:lastmodified":1537586118,
+    "wof:lastmodified":1566608970,
     "wof:name":"Chak Chhatari",
     "wof:parent_id":421172439,
     "wof:placetype":"locality",

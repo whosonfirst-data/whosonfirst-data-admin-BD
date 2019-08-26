@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.23391,24.82551,90.27391,24.86551",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Tarapur"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1243291823,
-    "wof:lastmodified":1564158931,
+    "wof:lastmodified":1566609902,
     "wof:name":"Tarapur",
     "wof:parent_id":421185469,
     "wof:placetype":"locality",

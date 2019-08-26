@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.18723,21.9098,90.22723,21.9498",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Teg\u0101chhia"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1226179681,
-    "wof:lastmodified":1537586377,
+    "wof:lastmodified":1566610290,
     "wof:name":"Tegachhia",
     "wof:parent_id":421169845,
     "wof:placetype":"locality",

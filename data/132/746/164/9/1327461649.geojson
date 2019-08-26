@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.34667,24.84667,89.38667,24.88667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1327461649,
-    "wof:lastmodified":1536637553,
+    "wof:lastmodified":1566606074,
     "wof:name":"Sibbati",
     "wof:parent_id":421187793,
     "wof:placetype":"locality",

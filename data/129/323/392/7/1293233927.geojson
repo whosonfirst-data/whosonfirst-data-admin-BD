@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.69202,24.00122,90.73202,24.04122",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Petipal\u0101si",
         "Petipal\u0101shi"
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1293233927,
-    "wof:lastmodified":1537585811,
+    "wof:lastmodified":1566606798,
     "wof:name":"Petipalashi",
     "wof:parent_id":421169707,
     "wof:placetype":"locality",

@@ -26,15 +26,16 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.64092,25.87116,88.68092,25.91116",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Nijp\u0101ra"
     ],
     "name:ben_x_variant":[
-        "Nizpara"
-    ],
-    "name:und_x_variant":[
         "Nizpara"
     ],
     "src:geom":"geonames",
@@ -60,7 +61,7 @@
         }
     ],
     "wof:id":1225874833,
-    "wof:lastmodified":1537585841,
+    "wof:lastmodified":1566610510,
     "wof:name":"Nijpara",
     "wof:parent_id":1108694671,
     "wof:placetype":"locality",

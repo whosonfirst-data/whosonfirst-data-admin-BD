@@ -10,8 +10,11 @@
     "geom:latitude":22.46447,
     "geom:longitude":89.21032,
     "iso:country":"BD",
+    "lbl:bbox":"89.20532,22.45947,89.21532,22.46947",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ben_x_preferred":[
         "Cheutla"
@@ -36,16 +39,16 @@
     "qs:woe_id":55926183,
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85669015,
         102191569,
         85632475,
-        421201927,
-        85669015
+        421201927
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7485859,
         "gp:id":55926183,
-        "qs:id":1101571
+        "qs_pg:id":1101571
     },
     "wof:country":"BD",
     "wof:created":1459009569,
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":421188563,
-    "wof:lastmodified":1531858626,
+    "wof:lastmodified":1566609382,
     "wof:name":"Chetla",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

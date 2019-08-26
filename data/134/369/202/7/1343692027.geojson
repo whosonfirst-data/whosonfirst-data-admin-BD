@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.1269,23.10155,89.1669,23.14155",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Bara Meghla"
     ],
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1343692027,
-    "wof:lastmodified":1537586160,
+    "wof:lastmodified":1566606528,
     "wof:name":"Bara Meghla",
     "wof:parent_id":421176039,
     "wof:placetype":"locality",

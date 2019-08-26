@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.24702,24.7914,89.28702,24.8314",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Paphra",
         "P\u0101fra"
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1310039291,
-    "wof:lastmodified":1537585816,
+    "wof:lastmodified":1566608958,
     "wof:name":"Pafra",
     "wof:parent_id":421187793,
     "wof:placetype":"locality",

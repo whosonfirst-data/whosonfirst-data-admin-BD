@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.97085,22.20487,90.01085,22.24487",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Lakshmana"
     ],
@@ -150,7 +154,7 @@
         }
     ],
     "wof:id":1276154425,
-    "wof:lastmodified":1564155091,
+    "wof:lastmodified":1566607421,
     "wof:name":"Lakshmana",
     "wof:parent_id":421172031,
     "wof:placetype":"locality",

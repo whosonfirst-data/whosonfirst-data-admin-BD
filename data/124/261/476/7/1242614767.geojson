@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"91.3614,24.96751,91.4014,25.00751",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kolya",
         "Kol\u0101y",
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1242614767,
-    "wof:lastmodified":1537585916,
+    "wof:lastmodified":1566609568,
     "wof:name":"Kolaya",
     "wof:parent_id":421201931,
     "wof:placetype":"locality",

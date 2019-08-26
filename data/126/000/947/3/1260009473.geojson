@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.66821,26.03443,89.70821,26.07443",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Andharijhar Khamer"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1260009473,
-    "wof:lastmodified":1537586833,
+    "wof:lastmodified":1566608486,
     "wof:name":"Andharijhar Khamer",
     "wof:parent_id":1108694685,
     "wof:placetype":"locality",

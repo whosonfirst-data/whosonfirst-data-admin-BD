@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.87428,23.32833,90.91428,23.36833",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1226180597,
-    "wof:lastmodified":1537026226,
+    "wof:lastmodified":1566610318,
     "wof:name":"Masimpur",
     "wof:parent_id":1108694669,
     "wof:placetype":"locality",

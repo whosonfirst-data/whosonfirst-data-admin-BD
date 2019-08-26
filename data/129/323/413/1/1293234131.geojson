@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.00767,26.34021,89.04767,26.38021",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Sohagpur"
     ],
@@ -99,7 +103,7 @@
         }
     ],
     "wof:id":1293234131,
-    "wof:lastmodified":1564153918,
+    "wof:lastmodified":1566606786,
     "wof:name":"Sohagpur",
     "wof:parent_id":1108694687,
     "wof:placetype":"locality",

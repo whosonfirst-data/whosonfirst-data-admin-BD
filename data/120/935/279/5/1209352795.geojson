@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.91642,23.47143,90.95642,23.51143",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kashimpur",
         "K\u0101simpur",
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1209352795,
-    "wof:lastmodified":1537585940,
+    "wof:lastmodified":1566608024,
     "wof:name":"Qasimpur",
     "wof:parent_id":85632475,
     "wof:placetype":"locality",

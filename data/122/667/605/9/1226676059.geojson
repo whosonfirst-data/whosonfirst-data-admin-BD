@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.54773,24.86787,88.58773,24.90787",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Nandigaon"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1226676059,
-    "wof:lastmodified":1537585853,
+    "wof:lastmodified":1566610402,
     "wof:name":"Nandigaon",
     "wof:parent_id":421191663,
     "wof:placetype":"locality",

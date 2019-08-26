@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.2481,23.07242,90.2881,23.11242",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "In\u0101yetnagar",
         "En\u0101yetnagar"
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1243010503,
-    "wof:lastmodified":1537586037,
+    "wof:lastmodified":1566609479,
     "wof:name":"Inayetnagar",
     "wof:parent_id":421183929,
     "wof:placetype":"locality",

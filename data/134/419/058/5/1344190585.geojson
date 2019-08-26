@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.73008,24.72094,88.77008,24.76094",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "En\u0101yetpur"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1344190585,
-    "wof:lastmodified":1564153415,
+    "wof:lastmodified":1566606570,
     "wof:name":"Enayetpur",
     "wof:parent_id":421191663,
     "wof:placetype":"locality",

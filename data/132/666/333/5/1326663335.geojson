@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.98364,23.01383,89.02364,23.05383",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Gil\u0101poal Gil"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1326663335,
-    "wof:lastmodified":1537586401,
+    "wof:lastmodified":1566606021,
     "wof:name":"Gilapoal Gil",
     "wof:parent_id":421176039,
     "wof:placetype":"locality",

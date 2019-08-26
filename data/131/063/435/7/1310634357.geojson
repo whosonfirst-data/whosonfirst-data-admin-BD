@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.2988,25.68101,89.3388,25.72101",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Taiyab"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1310634357,
-    "wof:lastmodified":1537586727,
+    "wof:lastmodified":1566608875,
     "wof:name":"Taiyab",
     "wof:parent_id":1108694701,
     "wof:placetype":"locality",

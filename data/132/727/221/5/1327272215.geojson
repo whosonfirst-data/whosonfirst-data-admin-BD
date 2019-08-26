@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"91.78195,22.96749,91.82195,23.00749",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Sigir\u0101ip\u0101ra"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1327272215,
-    "wof:lastmodified":1537586368,
+    "wof:lastmodified":1566606238,
     "wof:name":"Sigiraipara",
     "wof:parent_id":1108694683,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.51471,24.91326,88.55471,24.95326",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "H\u0101shura"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1293230465,
-    "wof:lastmodified":1537585996,
+    "wof:lastmodified":1566606786,
     "wof:name":"Hashura",
     "wof:parent_id":421191663,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.44416,25.79798,88.48416,25.83798",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Subidh\u0101t"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1209852841,
-    "wof:lastmodified":1537586652,
+    "wof:lastmodified":1566607907,
     "wof:name":"Subidhat",
     "wof:parent_id":1108694671,
     "wof:placetype":"locality",

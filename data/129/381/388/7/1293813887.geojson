@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.40632,24.19347,90.44632,24.23347",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Kewa"
     ],
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1293813887,
-    "wof:lastmodified":1564154499,
+    "wof:lastmodified":1566607026,
     "wof:name":"Kewa",
     "wof:parent_id":421203493,
     "wof:placetype":"locality",

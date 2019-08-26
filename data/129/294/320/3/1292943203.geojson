@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.94211,22.00505,89.98211,22.04505",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Gaharpur"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1292943203,
-    "wof:lastmodified":1537586334,
+    "wof:lastmodified":1566606739,
     "wof:name":"Gaharpur",
     "wof:parent_id":421176043,
     "wof:placetype":"locality",

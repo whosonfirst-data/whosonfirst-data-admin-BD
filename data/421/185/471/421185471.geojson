@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":24.352042,
     "lbl:longitude":90.003178,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"DHAKA",
     "meso:gadm_admin":"Tangail",
     "meso:gadm_hasc2":"BD.DA.TA",
@@ -31,6 +33,7 @@
     "mps:longitude":90.003178,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0645\u0646\u0637\u0642\u0629 \u062a\u0627\u0646\u063a\u064a\u0644"
@@ -93,7 +96,7 @@
     "name:ukr_x_preferred":[
         "\u0422\u0430\u043d\u0433\u0430\u0439\u043b"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Tangail Zila"
     ],
     "name:urd_x_preferred":[
@@ -133,7 +136,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"quattroshapes",
     "wof:belongsto":[
         102191569,
@@ -145,7 +148,7 @@
         "gn:id":1337174,
         "gp:id":23706435,
         "hasc:id":"BD.DA.TA",
-        "qs:id":896531,
+        "qs_pg:id":896531,
         "wd:id":"Q952184",
         "wk:page":"Tangail District"
     },
@@ -161,7 +164,7 @@
         }
     ],
     "wof:id":421185471,
-    "wof:lastmodified":1563584410,
+    "wof:lastmodified":1566609400,
     "wof:name":"Tangail",
     "wof:parent_id":85669009,
     "wof:placetype":"county",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.90936,24.83864,88.94936,24.87864",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Bakt\u0101rpur"
     ],
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1293913263,
-    "wof:lastmodified":1537586178,
+    "wof:lastmodified":1566606695,
     "wof:name":"Baktarpur",
     "wof:parent_id":421191663,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.83137,23.9623,89.87137,24.0023",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Seolaid",
         "Seol\u0101i"
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1243487695,
-    "wof:lastmodified":1537585758,
+    "wof:lastmodified":1566609623,
     "wof:name":"Seolai",
     "wof:parent_id":421185471,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.48412,25.19105,89.52412,25.23105",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Mord\u0101khia"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1310531563,
-    "wof:lastmodified":1537586774,
+    "wof:lastmodified":1566608812,
     "wof:name":"Mordakhia",
     "wof:parent_id":1108694675,
     "wof:placetype":"locality",

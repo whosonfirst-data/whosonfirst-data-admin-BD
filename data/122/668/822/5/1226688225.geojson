@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.86745,23.28957,90.90745,23.32957",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:mal_x_preferred":[
         "\u0d36\u0d3e\u0d26\u0d3f\u0d2a\u0d42\u0d7c"
     ],
@@ -62,7 +66,7 @@
         }
     ],
     "wof:id":1226688225,
-    "wof:lastmodified":1564159719,
+    "wof:lastmodified":1566610441,
     "wof:name":"Shadipur",
     "wof:parent_id":1108694669,
     "wof:placetype":"locality",

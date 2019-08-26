@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.09667,23.93,89.13667,23.97",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u09ae\u09b9\u09be\u09a8\u0997\u09b0"
     ],
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1209845941,
-    "wof:lastmodified":1564155623,
+    "wof:lastmodified":1566607814,
     "wof:name":"Mahanagar",
     "wof:parent_id":890438075,
     "wof:placetype":"locality",

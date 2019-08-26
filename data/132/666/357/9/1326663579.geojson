@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.74031,25.03629,89.78031,25.07629",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1326663579,
-    "wof:lastmodified":1536794981,
+    "wof:lastmodified":1566606018,
     "wof:name":"Kachinara",
     "wof:parent_id":421191923,
     "wof:placetype":"locality",

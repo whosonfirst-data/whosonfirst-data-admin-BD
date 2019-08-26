@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.73072,23.99715,88.77072,24.03715",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Kurmip\u0101ra"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1343398441,
-    "wof:lastmodified":1537586549,
+    "wof:lastmodified":1566606303,
     "wof:name":"Kurmipara",
     "wof:parent_id":890438075,
     "wof:placetype":"locality",

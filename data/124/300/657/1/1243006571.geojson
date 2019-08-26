@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.38536,25.34608,89.42536,25.38608",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Ganganarayanpur"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1243006571,
-    "wof:lastmodified":1537586769,
+    "wof:lastmodified":1566609417,
     "wof:name":"Ganganarayanpur",
     "wof:parent_id":1108694675,
     "wof:placetype":"locality",

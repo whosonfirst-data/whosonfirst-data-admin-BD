@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.61507,23.0544,90.65507,23.0944",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Char Hime",
         "Char H\u0101im"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1276350277,
-    "wof:lastmodified":1537586102,
+    "wof:lastmodified":1566607246,
     "wof:name":"Char Haim",
     "wof:parent_id":1108694669,
     "wof:placetype":"locality",

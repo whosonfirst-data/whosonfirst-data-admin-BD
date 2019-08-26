@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"91.61306,22.65889,91.65306,22.69889",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1209965217,
-    "wof:lastmodified":1536369199,
+    "wof:lastmodified":1566607754,
     "wof:name":"Purba Mahalanka",
     "wof:parent_id":421201541,
     "wof:placetype":"locality",

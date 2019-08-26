@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.76217,25.02224,88.80217,25.06224",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "B\u0101bn\u0101b\u0101j"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1209845891,
-    "wof:lastmodified":1537586482,
+    "wof:lastmodified":1566607827,
     "wof:name":"Babnabaj",
     "wof:parent_id":421191663,
     "wof:placetype":"locality",

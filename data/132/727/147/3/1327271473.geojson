@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.63746,23.76431,90.67746,23.80431",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "L\u0101s\u0101rdi"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1327271473,
-    "wof:lastmodified":1537585901,
+    "wof:lastmodified":1566606247,
     "wof:name":"Latardi",
     "wof:parent_id":421197045,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.77946,25.93618,89.81946,25.97618",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "M\u0101d\u0101rganj"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1343489487,
-    "wof:lastmodified":1537585898,
+    "wof:lastmodified":1566606433,
     "wof:name":"Madarganj",
     "wof:parent_id":1108694685,
     "wof:placetype":"locality",

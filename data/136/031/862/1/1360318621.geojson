@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.92093,25.72632,88.96093,25.76632",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Lakshmanpur B\u0101l\u0101p\u0101ra"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1360318621,
-    "wof:lastmodified":1537585904,
+    "wof:lastmodified":1566609084,
     "wof:name":"Lakshmanpur Balapara",
     "wof:parent_id":1108694695,
     "wof:placetype":"locality",

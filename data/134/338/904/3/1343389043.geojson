@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.05549,23.68191,89.09549,23.72191",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Harishpur"
     ],
@@ -87,7 +91,7 @@
         }
     ],
     "wof:id":1343389043,
-    "wof:lastmodified":1564152782,
+    "wof:lastmodified":1566606257,
     "wof:name":"Harishpur",
     "wof:parent_id":1108694679,
     "wof:placetype":"locality",

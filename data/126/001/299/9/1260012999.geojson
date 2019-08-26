@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"92.37634,24.96172,92.41634,25.00172",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1260012999,
-    "wof:lastmodified":1537086319,
+    "wof:lastmodified":1566608552,
     "wof:name":"Chargram",
     "wof:parent_id":421187795,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.69201,23.17704,90.73201,23.21704",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Char Muki",
         "Char Matki"
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1343499387,
-    "wof:lastmodified":1537586097,
+    "wof:lastmodified":1566606450,
     "wof:name":"Char Matki",
     "wof:parent_id":1108694669,
     "wof:placetype":"locality",

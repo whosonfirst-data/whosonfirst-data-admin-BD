@@ -10,8 +10,12 @@
     "geom:latitude":23.60612,
     "geom:longitude":89.84064,
     "iso:country":"BD",
+    "lbl:bbox":"89.82064,23.58612,89.86064,23.62612",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":7.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bpy_x_preferred":[
         "\u09ab\u09b0\u09bf\u09a6\u09aa\u09c1\u09b0"
@@ -64,7 +68,7 @@
     "wof:concordances":{
         "gn:id":1203344,
         "gp:id":1915053,
-        "qs:id":266890
+        "qs_pg:id":266890
     },
     "wof:country":"BD",
     "wof:created":1459008692,
@@ -79,7 +83,7 @@
         }
     ],
     "wof:id":421166487,
-    "wof:lastmodified":1564158107,
+    "wof:lastmodified":1566609367,
     "wof:name":"Faridpur",
     "wof:parent_id":421198063,
     "wof:placetype":"locality",

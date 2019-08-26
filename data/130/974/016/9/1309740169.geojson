@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.06607,24.45376,90.10607,24.49376",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1309740169,
-    "wof:lastmodified":1537024741,
+    "wof:lastmodified":1566609349,
     "wof:name":"Konabari",
     "wof:parent_id":421185471,
     "wof:placetype":"locality",

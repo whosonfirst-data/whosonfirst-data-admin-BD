@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.11878,23.49663,89.15878,23.53663",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "B\u0101ni\u0101k\u0101nda H\u0101t"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1326467787,
-    "wof:lastmodified":1537586403,
+    "wof:lastmodified":1566606132,
     "wof:name":"Baniakanda Hat",
     "wof:parent_id":1108694679,
     "wof:placetype":"locality",

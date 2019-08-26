@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.29239,25.74542,88.33239,25.78542",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "D\u0101n\u0101jpur"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1276259107,
-    "wof:lastmodified":1537586069,
+    "wof:lastmodified":1566607344,
     "wof:name":"Danajpur",
     "wof:parent_id":1108694703,
     "wof:placetype":"locality",

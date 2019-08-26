@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.31634,25.88632,88.35634,25.92632",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Kush\u0101rigaon"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1209849145,
-    "wof:lastmodified":1537585908,
+    "wof:lastmodified":1566607828,
     "wof:name":"Kusharigaon",
     "wof:parent_id":1108694703,
     "wof:placetype":"locality",

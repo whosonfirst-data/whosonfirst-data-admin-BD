@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.12852,25.82661,89.16852,25.86661",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Kh\u0101tari"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1293038251,
-    "wof:lastmodified":1537586813,
+    "wof:lastmodified":1566606923,
     "wof:name":"Khatari",
     "wof:parent_id":1108694701,
     "wof:placetype":"locality",

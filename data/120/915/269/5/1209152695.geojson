@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"92.08398,21.84501,92.12398,21.88501",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Keoulip\u0101ra"
     ],
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1209152695,
-    "wof:lastmodified":1537586353,
+    "wof:lastmodified":1566607854,
     "wof:name":"Keoulipara",
     "wof:parent_id":85632475,
     "wof:placetype":"locality",

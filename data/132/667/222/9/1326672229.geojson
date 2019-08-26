@@ -27,8 +27,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"91.08778,22.1925,91.12778,22.2325",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Sunadia",
         "Son\u0101dia"
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1326672229,
-    "wof:lastmodified":1537585742,
+    "wof:lastmodified":1566606003,
     "wof:name":"Sonadia",
     "wof:parent_id":421177051,
     "wof:placetype":"locality",

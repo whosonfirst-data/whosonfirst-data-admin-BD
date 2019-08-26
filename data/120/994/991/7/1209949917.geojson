@@ -26,16 +26,16 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.53591,25.92902,89.57591,25.96902",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Phulb\u0101ri"
     ],
     "name:ben_x_variant":[
-        "Fulb\u0101ri"
-    ],
-    "name:und_x_variant":[
-        "Phulb\u0101ri",
         "Fulb\u0101ri"
     ],
     "src:geom":"geonames",
@@ -61,7 +61,7 @@
         }
     ],
     "wof:id":1209949917,
-    "wof:lastmodified":1537585688,
+    "wof:lastmodified":1566608085,
     "wof:name":"Phulbari",
     "wof:parent_id":1108694685,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"91.85645,22.28756,91.89645,22.32756",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Mohammad Nagar"
     ],
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1209147235,
-    "wof:lastmodified":1537586218,
+    "wof:lastmodified":1566607975,
     "wof:name":"Mohammad Nagar",
     "wof:parent_id":85632475,
     "wof:placetype":"locality",

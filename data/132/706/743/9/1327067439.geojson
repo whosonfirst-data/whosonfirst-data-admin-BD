@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.40873,23.02019,90.44873,23.06019",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Desh Bhulia",
         "Des Bhu\u0101i"
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1327067439,
-    "wof:lastmodified":1537586060,
+    "wof:lastmodified":1566605877,
     "wof:name":"Des Bhuai",
     "wof:parent_id":421188359,
     "wof:placetype":"locality",

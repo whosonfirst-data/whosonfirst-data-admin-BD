@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.923,23.36248,88.963,23.40248",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Go\u0101l Huda"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1327164539,
-    "wof:lastmodified":1537586584,
+    "wof:lastmodified":1566606224,
     "wof:name":"Goal Huda",
     "wof:parent_id":1108694679,
     "wof:placetype":"locality",

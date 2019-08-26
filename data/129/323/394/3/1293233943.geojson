@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.20461,24.03691,89.24461,24.07691",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kshudra Matiabari",
         "Khudra M\u0101tiab\u0101ri"
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1293233943,
-    "wof:lastmodified":1537585912,
+    "wof:lastmodified":1566606798,
     "wof:name":"Khudra Matiabari",
     "wof:parent_id":421197541,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.3745,24.8655,88.4145,24.9055",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Maioil Bil"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1309740353,
-    "wof:lastmodified":1537586691,
+    "wof:lastmodified":1566609356,
     "wof:name":"Maioil Bil",
     "wof:parent_id":421191607,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.53735,25.59828,88.57735,25.63828",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Puria"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1277104755,
-    "wof:lastmodified":1537586662,
+    "wof:lastmodified":1566607675,
     "wof:name":"Puria",
     "wof:parent_id":1108694671,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.70228,23.02892,89.74228,23.06892",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Dumaria Debdun"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1310435571,
-    "wof:lastmodified":1537586444,
+    "wof:lastmodified":1566608893,
     "wof:name":"Dumaria Debdun",
     "wof:parent_id":421205213,
     "wof:placetype":"locality",

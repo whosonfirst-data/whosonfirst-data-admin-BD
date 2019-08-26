@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.36061,25.89899,88.40061,25.93899",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u0100r\u0101zi \u0100lampur"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1259820929,
-    "wof:lastmodified":1537586647,
+    "wof:lastmodified":1566610100,
     "wof:name":"Arazi Alampur",
     "wof:parent_id":1108694703,
     "wof:placetype":"locality",

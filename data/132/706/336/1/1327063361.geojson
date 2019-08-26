@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.72121,25.10494,88.76121,25.14494",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Chak Ara"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1327063361,
-    "wof:lastmodified":1537586680,
+    "wof:lastmodified":1566605850,
     "wof:name":"Chak Ara",
     "wof:parent_id":421191663,
     "wof:placetype":"locality",

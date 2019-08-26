@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.14187,22.39813,89.18187,22.43813",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "B\u0101liakh\u0101li"
     ],
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1209445207,
-    "wof:lastmodified":1537586601,
+    "wof:lastmodified":1566608218,
     "wof:name":"Baliakhali",
     "wof:parent_id":85632475,
     "wof:placetype":"locality",

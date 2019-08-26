@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.20739,22.11561,90.24739,22.15561",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Amtali"
     ],
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1343598763,
-    "wof:lastmodified":1564153262,
+    "wof:lastmodified":1566606508,
     "wof:name":"Amtali",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.17413,23.12116,90.21413,23.16116",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kardi"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1326560185,
-    "wof:lastmodified":1537585945,
+    "wof:lastmodified":1566605987,
     "wof:name":"Kordi",
     "wof:parent_id":421183929,
     "wof:placetype":"locality",

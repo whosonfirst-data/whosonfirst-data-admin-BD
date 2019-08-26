@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.68611,24.68579,88.72611,24.72579",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Char Umed"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1226472483,
-    "wof:lastmodified":1537586528,
+    "wof:lastmodified":1566610627,
     "wof:name":"Char Umed",
     "wof:parent_id":421191663,
     "wof:placetype":"locality",

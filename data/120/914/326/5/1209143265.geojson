@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.90707,23.21444,88.94707,23.25444",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Andulia"
     ],
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1209143265,
-    "wof:lastmodified":1537586587,
+    "wof:lastmodified":1566607984,
     "wof:name":"Andulia",
     "wof:parent_id":85632475,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.83957,23.00933,89.87957,23.04933",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Kon\u0101gram"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1242607675,
-    "wof:lastmodified":1537586455,
+    "wof:lastmodified":1566609597,
     "wof:name":"Konagram",
     "wof:parent_id":421194867,
     "wof:placetype":"locality",

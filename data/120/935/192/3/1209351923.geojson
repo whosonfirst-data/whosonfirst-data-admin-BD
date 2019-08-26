@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.89247,24.62906,88.93247,24.66906",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Gandagoh\u0101li"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1209351923,
-    "wof:lastmodified":1537586029,
+    "wof:lastmodified":1566608013,
     "wof:name":"Gandagohali",
     "wof:parent_id":85632475,
     "wof:placetype":"locality",

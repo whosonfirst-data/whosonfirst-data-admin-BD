@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.83988,23.14257,89.87988,23.18257",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Tartulia"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1293423333,
-    "wof:lastmodified":1537586456,
+    "wof:lastmodified":1566606992,
     "wof:name":"Tartulia",
     "wof:parent_id":421194867,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.47823,23.02835,89.51823,23.06835",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1327164485,
-    "wof:lastmodified":1537064905,
+    "wof:lastmodified":1566606219,
     "wof:name":"Arpara Mirzapur",
     "wof:parent_id":421205213,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.21343,24.99105,90.25343,25.03105",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Laikhah\u0101san Khila",
         "Laykha H\u0101sankhila"
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1209139099,
-    "wof:lastmodified":1537585900,
+    "wof:lastmodified":1566607931,
     "wof:name":"Laikhahasan Khila",
     "wof:parent_id":85632475,
     "wof:placetype":"locality",

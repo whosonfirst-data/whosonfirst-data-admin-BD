@@ -10,6 +10,9 @@
     "geom:latitude":24.91965,
     "geom:longitude":89.94812,
     "iso:country":"BD",
+    "lbl:bbox":"89.92812,24.89965,89.96812,24.93965",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":6.7,
@@ -74,7 +77,7 @@
     "name:tel_x_preferred":[
         "\u0c1c\u0c2e\u0c32\u0c4d\u0c2a\u0c42\u0c30\u0c4d \u0c1c\u0c3f\u0c32\u0c4d\u0c32\u0c3e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Singhj\u0101ni"
     ],
     "name:urd_x_preferred":[
@@ -215,7 +218,7 @@
     "wof:concordances":{
         "gn:id":1185106,
         "gp:id":1915091,
-        "qs:id":493052,
+        "qs_pg:id":493052,
         "wd:id":"Q2039306",
         "wk:page":"Jamalpur District"
     },
@@ -239,7 +242,7 @@
         }
     ],
     "wof:id":421199785,
-    "wof:lastmodified":1563584390,
+    "wof:lastmodified":1566609390,
     "wof:name":"Jamalpur",
     "wof:parent_id":421191923,
     "wof:placetype":"locality",

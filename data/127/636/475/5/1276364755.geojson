@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.69338,23.27093,88.73338,23.31093",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "B\u0101g\u0101d\u0101nga"
     ],
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1276364755,
-    "wof:lastmodified":1537586188,
+    "wof:lastmodified":1566607652,
     "wof:name":"Bagadanga",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

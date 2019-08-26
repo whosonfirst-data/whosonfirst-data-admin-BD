@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.43967,25.52744,89.47967,25.56744",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1343888387,
-    "wof:lastmodified":1536624480,
+    "wof:lastmodified":1566606658,
     "wof:name":"Sibram",
     "wof:parent_id":1108694675,
     "wof:placetype":"locality",

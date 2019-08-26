@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.81974,23.86505,88.85974,23.90505",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "B\u0101otp\u0101ra"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1360022849,
-    "wof:lastmodified":1537586563,
+    "wof:lastmodified":1566609217,
     "wof:name":"Baotpara",
     "wof:parent_id":421191661,
     "wof:placetype":"locality",

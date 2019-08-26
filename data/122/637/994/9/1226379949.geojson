@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.51211,24.46809,88.55211,24.50809",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "T\u0101luk Dharampur"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1226379949,
-    "wof:lastmodified":1537585721,
+    "wof:lastmodified":1566610725,
     "wof:name":"Taluk Dharampur",
     "wof:parent_id":421172439,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.79947,23.47294,90.83947,23.51294",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Hal\u0101p\u0101ra",
         "Khal\u0101p\u0101ra"
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1343996165,
-    "wof:lastmodified":1537585931,
+    "wof:lastmodified":1566606336,
     "wof:name":"Halapara",
     "wof:parent_id":421187801,
     "wof:placetype":"locality",

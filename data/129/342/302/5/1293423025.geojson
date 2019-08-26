@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.50023,25.76636,89.54023,25.80636",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Dakshin Pr\u0101npati"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1293423025,
-    "wof:lastmodified":1537586803,
+    "wof:lastmodified":1566606993,
     "wof:name":"Dakshin Pranpati",
     "wof:parent_id":1108694685,
     "wof:placetype":"locality",

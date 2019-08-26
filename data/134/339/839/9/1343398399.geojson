@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.01031,22.41603,89.05031,22.45603",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Chardaha"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1343398399,
-    "wof:lastmodified":1537586104,
+    "wof:lastmodified":1566606327,
     "wof:name":"Chardaha",
     "wof:parent_id":421201927,
     "wof:placetype":"locality",

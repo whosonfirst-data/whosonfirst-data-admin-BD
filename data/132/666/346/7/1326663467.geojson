@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.56581,22.44373,90.60581,22.48373",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Bakla T\u0101terkati"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1326663467,
-    "wof:lastmodified":1537586383,
+    "wof:lastmodified":1566606015,
     "wof:name":"Bakla Taterkati",
     "wof:parent_id":421169845,
     "wof:placetype":"locality",

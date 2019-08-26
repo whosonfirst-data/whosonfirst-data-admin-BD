@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.85753,24.10891,90.89753,24.14891",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ell_x_preferred":[
         "\u03a3\u03ac\u03bb\u03bf\u03c5\u03b1"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1310238419,
-    "wof:lastmodified":1564157008,
+    "wof:lastmodified":1566608713,
     "wof:name":"Salua",
     "wof:parent_id":421170483,
     "wof:placetype":"locality",

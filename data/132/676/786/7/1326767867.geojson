@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.77609,25.65375,88.81609,25.69375",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Nandrai"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1326767867,
-    "wof:lastmodified":1537585853,
+    "wof:lastmodified":1566606120,
     "wof:name":"Nandrai",
     "wof:parent_id":1108694671,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.38944,23.22922,89.42944,23.26922",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u0100nt\u0101ikhola"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1277015973,
-    "wof:lastmodified":1537586435,
+    "wof:lastmodified":1566607057,
     "wof:name":"Antaikhola",
     "wof:parent_id":421176039,
     "wof:placetype":"locality",

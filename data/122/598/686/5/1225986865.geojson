@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"91.98389,22.54967,92.02389,22.58967",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Lambaghona"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1225986865,
-    "wof:lastmodified":1537586247,
+    "wof:lastmodified":1566610587,
     "wof:name":"Lambaghona",
     "wof:parent_id":421188983,
     "wof:placetype":"locality",

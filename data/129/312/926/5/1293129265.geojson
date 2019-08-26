@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.03097,23.20863,89.07097,23.24863",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Garibpur"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1293129265,
-    "wof:lastmodified":1537586025,
+    "wof:lastmodified":1566606826,
     "wof:name":"Garibpur",
     "wof:parent_id":421176039,
     "wof:placetype":"locality",

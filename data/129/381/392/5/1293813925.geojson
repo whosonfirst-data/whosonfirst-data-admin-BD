@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.87387,24.05779,88.91387,24.09779",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Koldi\u0101r"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1293813925,
-    "wof:lastmodified":1537585915,
+    "wof:lastmodified":1566607015,
     "wof:name":"Koldiar",
     "wof:parent_id":890438075,
     "wof:placetype":"locality",

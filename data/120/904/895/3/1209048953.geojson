@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.96173,23.40992,91.00173,23.44992",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632475
@@ -37,7 +41,7 @@
         "gn:id":1198361
     },
     "wof:country":"BD",
-    "wof:geomhash":"062690e97a072b6b2ec865a531c8960f",
+    "wof:geomhash":"2841a868447006d4471ec9d3a16609aa",
     "wof:hierarchy":[
         {
             "country_id":85632475,
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":1209048953,
-    "wof:lastmodified":1536299312,
+    "wof:lastmodified":1566608069,
     "wof:name":"Kartala",
     "wof:parent_id":85632475,
     "wof:placetype":"locality",
@@ -56,9 +60,9 @@
 },
   "bbox": [
     90.98173,
-    23.429920000000006,
+    23.42992000000001,
     90.98173,
-    23.429920000000006
+    23.42992000000001
 ],
   "geometry": {"coordinates":[90.98173,23.42992000000001],"type":"Point"}
 }

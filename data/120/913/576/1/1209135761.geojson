@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.91668,22.97423,88.95668,23.01423",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Raghunandanpur"
     ],
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1209135761,
-    "wof:lastmodified":1537586591,
+    "wof:lastmodified":1566607959,
     "wof:name":"Raghunandanpur",
     "wof:parent_id":85632475,
     "wof:placetype":"locality",

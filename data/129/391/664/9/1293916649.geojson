@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.78292,24.73353,88.82292,24.77353",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "K\u0101therd\u0101nga"
     ],
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1293916649,
-    "wof:lastmodified":1537585937,
+    "wof:lastmodified":1566606689,
     "wof:name":"Katherdanga",
     "wof:parent_id":421191663,
     "wof:placetype":"locality",

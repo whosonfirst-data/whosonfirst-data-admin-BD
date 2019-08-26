@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.29298,23.47138,89.33298,23.51138",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Gauricharanpur"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1309740171,
-    "wof:lastmodified":1537586024,
+    "wof:lastmodified":1566609352,
     "wof:name":"Gauricharanpur",
     "wof:parent_id":1108694689,
     "wof:placetype":"locality",

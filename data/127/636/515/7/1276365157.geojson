@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.98919,23.56781,90.02919,23.60781",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "S\u0101lepur"
     ],
@@ -38,8 +42,7 @@
         "S\u0101lepur"
     ],
     "name:und_x_variant":[
-        "Shalepur",
-        "S\u0101lepur"
+        "Shalepur"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":1276365157,
-    "wof:lastmodified":1564155370,
+    "wof:lastmodified":1566607657,
     "wof:name":"Salepur",
     "wof:parent_id":421198063,
     "wof:placetype":"locality",

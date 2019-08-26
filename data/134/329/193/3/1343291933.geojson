@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.52236,25.34466,89.56236,25.38466",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Kholahati"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1343291933,
-    "wof:lastmodified":1537585923,
+    "wof:lastmodified":1566606597,
     "wof:name":"Kholahati",
     "wof:parent_id":1108694675,
     "wof:placetype":"locality",

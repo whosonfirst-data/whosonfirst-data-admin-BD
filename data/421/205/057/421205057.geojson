@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":21.771675,
     "lbl:longitude":91.995934,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"CHITTAGONG",
     "meso:gadm_admin":"Cox's Bazar",
     "meso:gadm_hasc2":"BD.CG.CB",
@@ -31,6 +33,7 @@
     "mps:longitude":91.995934,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0643\u0648\u0643\u0633 \u0628\u0627\u0632\u0627\u0631"
@@ -153,7 +156,7 @@
     "name:ukr_x_variant":[
         "\u041a\u043e\u043a\u0441\u0441-\u0411\u0430\u0437\u0430\u0440"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Cox\u2019s B\u0101z\u0101r"
     ],
     "name:urd_x_preferred":[
@@ -196,9 +199,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-03-15",
+    "src:population_date":"2011-03-15",
     "statoids:area_km":"2,492",
     "statoids:as_of_date":"2011-03-15",
     "statoids:capital":"Cox's Bazar",
@@ -220,7 +223,7 @@
         "gn:id":1337202,
         "gp:id":23706415,
         "hasc:id":"BD.CG.CB",
-        "qs:id":1192910,
+        "qs_pg:id":1192910,
         "wd:id":"Q1122278",
         "wk:page":"Cox's Bazar"
     },
@@ -236,7 +239,7 @@
         }
     ],
     "wof:id":421205057,
-    "wof:lastmodified":1563584361,
+    "wof:lastmodified":1566609375,
     "wof:name":"Cox's Bazar",
     "wof:parent_id":85669023,
     "wof:placetype":"county",

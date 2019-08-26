@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.95303,21.97816,89.99303,22.01816",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Char L\u0101thim\u0101ra"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1343591281,
-    "wof:lastmodified":1537586103,
+    "wof:lastmodified":1566606500,
     "wof:name":"Char Lathimara",
     "wof:parent_id":421176043,
     "wof:placetype":"locality",

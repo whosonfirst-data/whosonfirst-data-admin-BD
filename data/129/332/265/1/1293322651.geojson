@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.21837,25.52454,89.25837,25.56454",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Myharpoor",
         "M\u0101hi\u0101rpur"
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1293322651,
-    "wof:lastmodified":1537585890,
+    "wof:lastmodified":1566606952,
     "wof:name":"Mahiarpur",
     "wof:parent_id":1108694701,
     "wof:placetype":"locality",

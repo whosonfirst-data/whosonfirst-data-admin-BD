@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.82781,23.75114,89.86781,23.79114",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1293913335,
-    "wof:lastmodified":1536670402,
+    "wof:lastmodified":1566606686,
     "wof:name":"Ghonapara",
     "wof:parent_id":421191745,
     "wof:placetype":"locality",

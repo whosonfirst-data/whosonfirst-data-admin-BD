@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.80879,24.87902,88.84879,24.91902",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Son\u0101dighi"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1226676003,
-    "wof:lastmodified":1537585742,
+    "wof:lastmodified":1566610422,
     "wof:name":"Sonadighi",
     "wof:parent_id":421191663,
     "wof:placetype":"locality",

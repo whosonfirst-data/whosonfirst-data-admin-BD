@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.61433,24.57034,88.65433,24.61034",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Bis\u0101lpur"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1193167169,
-    "wof:lastmodified":1537586525,
+    "wof:lastmodified":1566608414,
     "wof:name":"Bisalpur",
     "wof:parent_id":421172439,
     "wof:placetype":"locality",

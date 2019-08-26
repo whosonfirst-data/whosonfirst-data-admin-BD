@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.36366,24.90617,88.40366,24.94617",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Bibison"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1326958337,
-    "wof:lastmodified":1537586134,
+    "wof:lastmodified":1566606039,
     "wof:name":"Bibison",
     "wof:parent_id":421191607,
     "wof:placetype":"locality",

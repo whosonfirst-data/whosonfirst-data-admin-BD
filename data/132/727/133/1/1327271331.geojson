@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.77994,24.32793,88.81994,24.36793",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Sh\u0101h\u0101b\u0101jpur"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1327271331,
-    "wof:lastmodified":1537586545,
+    "wof:lastmodified":1566606237,
     "wof:name":"Shahabajpur",
     "wof:parent_id":421172439,
     "wof:placetype":"locality",

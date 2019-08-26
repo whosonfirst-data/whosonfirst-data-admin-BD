@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.98151,22.15048,90.02151,22.19048",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Khastabak"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1276365173,
-    "wof:lastmodified":1537586332,
+    "wof:lastmodified":1566607644,
     "wof:name":"Khastabak",
     "wof:parent_id":421176043,
     "wof:placetype":"locality",

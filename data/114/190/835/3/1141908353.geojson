@@ -10,10 +10,14 @@
     "geom:latitude":25.800426,
     "geom:longitude":88.999983,
     "iso:country":"BD",
+    "lbl:bbox":"88.9799832753,25.7804264516,89.0199832753,25.8204264516",
     "lbl:latitude":25.800426,
     "lbl:longitude":88.999983,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u09b8\u09c8\u09af\u09bc\u09a6\u09aa\u09c1\u09b0"
     ],
@@ -178,7 +182,7 @@
         }
     ],
     "wof:id":1141908353,
-    "wof:lastmodified":1563586607,
+    "wof:lastmodified":1566610815,
     "wof:name":"Saidpur",
     "wof:parent_id":1108694701,
     "wof:placetype":"locality",

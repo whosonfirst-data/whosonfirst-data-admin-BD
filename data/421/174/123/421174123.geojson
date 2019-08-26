@@ -10,6 +10,9 @@
     "geom:latitude":22.80978,
     "geom:longitude":89.56439,
     "iso:country":"BD",
+    "lbl:bbox":"89.54439,22.78978,89.58439,22.82978",
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":6.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":5.6,
@@ -335,7 +338,7 @@
     "wof:concordances":{
         "gn:id":1336135,
         "gp:id":1915118,
-        "qs:id":317170,
+        "qs_pg:id":317170,
         "wd:id":"Q243325",
         "wk:page":"Khulna"
     },
@@ -352,7 +355,7 @@
         }
     ],
     "wof:id":421174123,
-    "wof:lastmodified":1563584363,
+    "wof:lastmodified":1566609376,
     "wof:name":"Khulna",
     "wof:parent_id":421185473,
     "wof:placetype":"locality",

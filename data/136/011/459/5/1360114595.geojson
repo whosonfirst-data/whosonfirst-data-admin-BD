@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.41398,22.46315,90.45398,22.50315",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u0100f\u0101lk\u0101ti"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1360114595,
-    "wof:lastmodified":1537586210,
+    "wof:lastmodified":1566609158,
     "wof:name":"Afalkati",
     "wof:parent_id":421187745,
     "wof:placetype":"locality",

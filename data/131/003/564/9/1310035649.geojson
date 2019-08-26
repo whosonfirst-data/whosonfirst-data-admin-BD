@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.92481,24.88594,88.96481,24.92594",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Katakb\u0101ri"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1310035649,
-    "wof:lastmodified":1537585939,
+    "wof:lastmodified":1566608948,
     "wof:name":"Katakbari",
     "wof:parent_id":421191663,
     "wof:placetype":"locality",

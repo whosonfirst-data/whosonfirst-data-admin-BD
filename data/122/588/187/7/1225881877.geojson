@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"91.73051,24.8138,91.77051,24.8538",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kadipur"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1225881877,
-    "wof:lastmodified":1537585961,
+    "wof:lastmodified":1566610491,
     "wof:name":"Kdapur",
     "wof:parent_id":421187795,
     "wof:placetype":"locality",

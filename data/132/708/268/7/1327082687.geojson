@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.97289,23.27385,91.01289,23.31385",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Nach\u0101p\u0101r",
         "Nach\u0101rp\u0101r"
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1327082687,
-    "wof:lastmodified":1537585857,
+    "wof:lastmodified":1566605881,
     "wof:name":"Nacharpar",
     "wof:parent_id":421187801,
     "wof:placetype":"locality",

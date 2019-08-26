@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.61181,26.17138,88.65181,26.21138",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Paranikp\u0101ra"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1260316375,
-    "wof:lastmodified":1537586293,
+    "wof:lastmodified":1566608524,
     "wof:name":"Paranikpara",
     "wof:parent_id":1108694697,
     "wof:placetype":"locality",

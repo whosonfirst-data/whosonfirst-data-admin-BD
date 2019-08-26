@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.7326,25.79783,88.7726,25.83783",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Chak Kanchan"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1326458523,
-    "wof:lastmodified":1537586685,
+    "wof:lastmodified":1566605967,
     "wof:name":"Chak Kanchan",
     "wof:parent_id":1108694671,
     "wof:placetype":"locality",

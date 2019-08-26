@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.20433,25.04342,89.24433,25.08342",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Gopinathpur"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1259917279,
-    "wof:lastmodified":1537586729,
+    "wof:lastmodified":1566609975,
     "wof:name":"Gopinathpur",
     "wof:parent_id":1108694681,
     "wof:placetype":"locality",

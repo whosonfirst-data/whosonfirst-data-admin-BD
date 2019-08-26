@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.89505,24.86652,88.93505,24.90652",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Sherpur"
     ],
@@ -69,7 +73,7 @@
         }
     ],
     "wof:id":1326563257,
-    "wof:lastmodified":1564152153,
+    "wof:lastmodified":1566605984,
     "wof:name":"Sherpur",
     "wof:parent_id":421191663,
     "wof:placetype":"locality",

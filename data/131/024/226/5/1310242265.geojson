@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"92.20746,24.99005,92.24746,25.03005",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Sripur",
         "Siripur"
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1310242265,
-    "wof:lastmodified":1537585744,
+    "wof:lastmodified":1566608681,
     "wof:name":"Siripur",
     "wof:parent_id":421187795,
     "wof:placetype":"locality",

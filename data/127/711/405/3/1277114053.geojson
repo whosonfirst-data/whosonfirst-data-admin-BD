@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.81129,24.88798,90.85129,24.92798",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Deuli"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1277114053,
-    "wof:lastmodified":1537586059,
+    "wof:lastmodified":1566607703,
     "wof:name":"Dewly",
     "wof:parent_id":421200811,
     "wof:placetype":"locality",

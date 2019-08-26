@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.20878,23.90606,90.24878,23.94606",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1326763785,
-    "wof:lastmodified":1536650024,
+    "wof:lastmodified":1566606107,
     "wof:name":"Pathalia",
     "wof:parent_id":421187803,
     "wof:placetype":"locality",

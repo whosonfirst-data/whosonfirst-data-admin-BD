@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.09713,26.20055,89.13713,26.24055",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Dalap\u0101ra"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1327461977,
-    "wof:lastmodified":1537586830,
+    "wof:lastmodified":1566606075,
     "wof:name":"Dalapara",
     "wof:parent_id":1108694687,
     "wof:placetype":"locality",

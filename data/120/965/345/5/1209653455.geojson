@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"92.27583,20.81901,92.31583,20.85901",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Ch\u0101ndalip\u0101ra"
     ],
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1209653455,
-    "wof:lastmodified":1537586343,
+    "wof:lastmodified":1566607754,
     "wof:name":"Chandalipara",
     "wof:parent_id":85632475,
     "wof:placetype":"locality",

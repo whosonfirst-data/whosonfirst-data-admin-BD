@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.79795,23.85866,90.83795,23.89866",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Char M\u0101dhapur",
         "Char M\u0101dhabpur"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1276918009,
-    "wof:lastmodified":1537586098,
+    "wof:lastmodified":1566607630,
     "wof:name":"Char Madhabpur",
     "wof:parent_id":421169707,
     "wof:placetype":"locality",

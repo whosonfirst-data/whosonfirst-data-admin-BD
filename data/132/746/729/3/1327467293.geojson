@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.65495,23.42497,89.69495,23.46497",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Patipara Ramchandrapur",
         "P\u0101tit\u0101p\u0101ra R\u0101mchandrapur"
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1327467293,
-    "wof:lastmodified":1537585830,
+    "wof:lastmodified":1566606082,
     "wof:name":"Patitapara Ramchandrapur",
     "wof:parent_id":421198063,
     "wof:placetype":"locality",

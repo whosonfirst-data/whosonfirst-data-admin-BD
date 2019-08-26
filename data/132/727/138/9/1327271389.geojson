@@ -27,8 +27,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.81333,23.33,89.85333,23.37",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Jagannathdi",
         "Jagan\u0101thdi"
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1327271389,
-    "wof:lastmodified":1537585981,
+    "wof:lastmodified":1566606242,
     "wof:name":"Jaganathdi",
     "wof:parent_id":421198063,
     "wof:placetype":"locality",

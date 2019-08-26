@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.80069,23.91023,89.84069,23.95023",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u09a6\u09cc\u09b2\u09a4\u09aa\u09c1\u09b0"
     ],
@@ -53,8 +57,7 @@
         "Daulatpur"
     ],
     "name:und_x_variant":[
-        "Bishnupur",
-        "Daulatpur"
+        "Bishnupur"
     ],
     "name:zho_x_preferred":[
         "\u8fbe\u4e4c\u62c9\u7279\u666e\u5c14"
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":1260217491,
-    "wof:lastmodified":1564156858,
+    "wof:lastmodified":1566608620,
     "wof:name":"Daulatpur",
     "wof:parent_id":421191745,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.76733,23.10338,90.80733,23.14338",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Badiyazzam\u0101pur"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1226390975,
-    "wof:lastmodified":1537586189,
+    "wof:lastmodified":1566610758,
     "wof:name":"Badiyazzamapur",
     "wof:parent_id":1108694669,
     "wof:placetype":"locality",

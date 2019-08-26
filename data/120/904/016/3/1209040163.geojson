@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.23099,25.0123,89.27099,25.0523",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Putkur"
     ],
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1209040163,
-    "wof:lastmodified":1537586738,
+    "wof:lastmodified":1566608079,
     "wof:name":"Putkur",
     "wof:parent_id":85632475,
     "wof:placetype":"locality",

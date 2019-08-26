@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.98619,25.83045,89.02619,25.87045",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Uttar B\u0101h\u0101gili"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1344086419,
-    "wof:lastmodified":1537586872,
+    "wof:lastmodified":1566606367,
     "wof:name":"Uttar Bahagili",
     "wof:parent_id":1108694695,
     "wof:placetype":"locality",

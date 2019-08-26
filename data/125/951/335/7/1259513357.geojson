@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.72107,24.98574,89.76107,25.02574",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Imampur"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1259513357,
-    "wof:lastmodified":1537586779,
+    "wof:lastmodified":1566610170,
     "wof:name":"Imampur",
     "wof:parent_id":421191923,
     "wof:placetype":"locality",

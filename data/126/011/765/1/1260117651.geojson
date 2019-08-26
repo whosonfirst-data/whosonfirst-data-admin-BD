@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.0649,24.42606,90.1049,24.46606",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "B\u012bl Kaly\u0101",
         "Bil Kaly\u0101n"
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1260117651,
-    "wof:lastmodified":1537586132,
+    "wof:lastmodified":1566608559,
     "wof:name":"Bil Kalya",
     "wof:parent_id":421185471,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"91.81293,22.85293,91.85293,22.89293",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Niringm\u0101in"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1209764113,
-    "wof:lastmodified":1537586367,
+    "wof:lastmodified":1566607916,
     "wof:name":"Niringmain",
     "wof:parent_id":1108694683,
     "wof:placetype":"locality",

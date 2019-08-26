@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.59155,23.77737,88.63155,23.81737",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "K\u0101mdebpur"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1310442751,
-    "wof:lastmodified":1537586555,
+    "wof:lastmodified":1566608885,
     "wof:name":"Kamdebpur",
     "wof:parent_id":421191661,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.99284,25.48453,89.03284,25.52453",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Uttarsahabazpur",
         "Uttar Sh\u0101hb\u0101zpur",
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1277104669,
-    "wof:lastmodified":1537585702,
+    "wof:lastmodified":1566607681,
     "wof:name":"Uttar Sahabazpur",
     "wof:parent_id":1108694671,
     "wof:placetype":"locality",

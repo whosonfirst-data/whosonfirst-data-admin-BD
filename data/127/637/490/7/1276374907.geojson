@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.42188,23.96588,90.46188,24.00588",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Bangang\u0101chh",
         "B\u0101ng\u0101lg\u0101chh"
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1276374907,
-    "wof:lastmodified":1537586171,
+    "wof:lastmodified":1566607601,
     "wof:name":"Bangangachh",
     "wof:parent_id":421203493,
     "wof:placetype":"locality",

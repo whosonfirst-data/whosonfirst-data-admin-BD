@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.32321,24.81846,89.36321,24.85846",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1343292171,
-    "wof:lastmodified":1536988435,
+    "wof:lastmodified":1566606601,
     "wof:name":"Belail",
     "wof:parent_id":421187793,
     "wof:placetype":"locality",

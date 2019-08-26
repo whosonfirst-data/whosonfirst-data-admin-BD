@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.15268,23.71748,89.19268,23.75748",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Uttar Bo\u0101lia"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1277110155,
-    "wof:lastmodified":1537586407,
+    "wof:lastmodified":1566607686,
     "wof:name":"Uttar Boalia",
     "wof:parent_id":890438075,
     "wof:placetype":"locality",

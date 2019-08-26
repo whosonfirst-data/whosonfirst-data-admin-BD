@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.74557,25.42977,89.78557,25.46977",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Sankar M\u0101dhabpur",
         "M\u0101dhabpur Sankarpur"
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1259813599,
-    "wof:lastmodified":1537585897,
+    "wof:lastmodified":1566610223,
     "wof:name":"Sankar Madhabpur",
     "wof:parent_id":1108694685,
     "wof:placetype":"locality",

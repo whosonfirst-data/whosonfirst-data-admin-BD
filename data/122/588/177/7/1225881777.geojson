@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.33231,23.33973,90.37231,23.37973",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1225881777,
-    "wof:lastmodified":1536961484,
+    "wof:lastmodified":1566610497,
     "wof:name":"Abdul Beparir Kandi",
     "wof:parent_id":421188359,
     "wof:placetype":"locality",

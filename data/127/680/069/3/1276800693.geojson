@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.57089,24.60449,90.61089,24.64449",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1276800693,
-    "wof:lastmodified":1536649466,
+    "wof:lastmodified":1566607123,
     "wof:name":"Pyari Narayanpur",
     "wof:parent_id":421185469,
     "wof:placetype":"locality",

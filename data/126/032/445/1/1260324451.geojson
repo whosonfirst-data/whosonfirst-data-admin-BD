@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.35934,22.18529,90.39934,22.22529",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "B\u0101uria Ch\u0101ri\u0101na"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1260324451,
-    "wof:lastmodified":1537586397,
+    "wof:lastmodified":1566608660,
     "wof:name":"Bauria Chariana",
     "wof:parent_id":421169845,
     "wof:placetype":"locality",

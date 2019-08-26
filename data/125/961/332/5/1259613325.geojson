@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.3642,25.86053,89.4042,25.90053",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Monishkhoeha"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1259613325,
-    "wof:lastmodified":1537586809,
+    "wof:lastmodified":1566610126,
     "wof:name":"Monishkhoeha",
     "wof:parent_id":1108694687,
     "wof:placetype":"locality",

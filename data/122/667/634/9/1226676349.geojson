@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.37906,23.39507,89.41906,23.43507",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Maiharam"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1226676349,
-    "wof:lastmodified":1537586420,
+    "wof:lastmodified":1566610401,
     "wof:name":"Maiharam",
     "wof:parent_id":1108694689,
     "wof:placetype":"locality",

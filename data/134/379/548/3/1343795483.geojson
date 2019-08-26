@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.92633,23.9719,88.96633,24.0119",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Solua"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1343795483,
-    "wof:lastmodified":1537586567,
+    "wof:lastmodified":1566606426,
     "wof:name":"Solua",
     "wof:parent_id":890438075,
     "wof:placetype":"locality",

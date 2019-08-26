@@ -11,7 +11,7 @@
     "geom:longitude":89.035384,
     "gn:country":"BD",
     "gn:fcode":"ADM2",
-    "gn:pop":1867660,
+    "gn:population":1867660,
     "iso:country":"BD",
     "label:eng_x_preferred_longname":[
         "Kushtia District"
@@ -21,6 +21,8 @@
     ],
     "lbl:latitude":23.889446,
     "lbl:longitude":89.007253,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"KHULNA",
     "meso:gadm_admin":"Kustia",
     "meso:gadm_hasc2":"BD.KH.KU",
@@ -34,6 +36,7 @@
     "mps:longitude":89.007253,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ben_x_preferred":[
         "\u0995\u09c1\u09b7\u09cd\u099f\u09bf\u09af\u09bc\u09be \u099c\u09c7\u09b2\u09be"
     ],
@@ -114,7 +117,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u0443\u0448\u0442\u0456\u044f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kusthia"
     ],
     "name:urd_x_preferred":[
@@ -137,9 +140,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-03-15",
+    "src:population_date":"2011-03-15",
     "statoids:area_km":"1,609",
     "statoids:as_of_date":"2011-03-15",
     "statoids:capital":"Kushtia",
@@ -160,7 +163,7 @@
     "wof:concordances":{
         "gn:id":1185185,
         "hasc:id":"BD.KH.KU",
-        "qs:id":84364,
+        "qs_pg:id":84364,
         "wd:id":"Q956895",
         "wk:page":"Kushtia District"
     },
@@ -176,7 +179,7 @@
         }
     ],
     "wof:id":890438075,
-    "wof:lastmodified":1563584415,
+    "wof:lastmodified":1566609402,
     "wof:name":"Kushtia",
     "wof:parent_id":85669015,
     "wof:placetype":"county",

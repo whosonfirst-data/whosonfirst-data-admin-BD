@@ -5,18 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":60160595.962556,
+    "geom:area_square_m":0.0,
     "geom:bbox":"90.393385,23.715054,90.393385,23.715054",
     "geom:latitude":23.715054,
     "geom:longitude":90.393385,
-    "gn:gn_country":"BD",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":0,
+    "gn:country":"BD",
+    "gn:fcode":"PPLX",
     "gn:latitude":23.71667,
     "gn:longitude":90.38333,
+    "gn:population":0,
     "iso:country":"BD",
+    "lbl:bbox":"90.388385,23.710054,90.398385,23.720054",
     "lbl:latitude":23.715054,
     "lbl:longitude":90.393385,
+    "lbl:max_zoom":18.0,
     "mps:latitude":23.699123,
     "mps:longitude":90.389935,
     "mz:hierarchy_label":0,
@@ -29,9 +31,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":2,
     "name:eng_x_preferred":[
-        "Amla Para"
-    ],
-    "name:unk_x_variant":[
         "Amla Para"
     ],
     "qs:gn_adm0_cc":"BD",
@@ -82,7 +81,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85669009,
         102191569,
@@ -93,7 +92,6 @@
     "wof:concordances":{
         "gn:id":1212814,
         "gp:id":1888427,
-        "qs:id":235464,
         "qs_pg:id":235464
     },
     "wof:country":"BD",
@@ -112,7 +110,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1534379234,
+    "wof:lastmodified":1566606661,
     "wof:name":"Amla Para",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.60373,23.32608,89.64373,23.36608",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Dakshinchar Narayandia",
         "South Char N\u0101r\u0101yandia"
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1293526725,
-    "wof:lastmodified":1537585738,
+    "wof:lastmodified":1566606718,
     "wof:name":"South Char Narayandia",
     "wof:parent_id":421198063,
     "wof:placetype":"locality",

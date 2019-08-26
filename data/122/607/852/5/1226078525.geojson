@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.47079,24.75604,90.51079,24.79604",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Mochhara",
         "Mochhra"
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1226078525,
-    "wof:lastmodified":1537585865,
+    "wof:lastmodified":1566610790,
     "wof:name":"Mochhra",
     "wof:parent_id":421185469,
     "wof:placetype":"locality",

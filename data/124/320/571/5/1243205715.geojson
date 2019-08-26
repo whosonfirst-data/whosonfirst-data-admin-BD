@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.11049,23.00058,89.15049,23.04058",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Hariharnagar"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1243205715,
-    "wof:lastmodified":1537586000,
+    "wof:lastmodified":1566609860,
     "wof:name":"Hariharnagar",
     "wof:parent_id":421176039,
     "wof:placetype":"locality",

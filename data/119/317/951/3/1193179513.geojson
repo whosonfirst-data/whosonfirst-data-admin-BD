@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.9388,23.21817,90.9788,23.25817",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Sh\u0101n\u0101pur",
         "Son\u0101pur"
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1193179513,
-    "wof:lastmodified":1537585741,
+    "wof:lastmodified":1566608434,
     "wof:name":"Shanapur",
     "wof:parent_id":1108694669,
     "wof:placetype":"locality",

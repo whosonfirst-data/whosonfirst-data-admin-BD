@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.22263,26.13906,88.26263,26.17906",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Elu\u0101tuli"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1327164225,
-    "wof:lastmodified":1537586616,
+    "wof:lastmodified":1566606218,
     "wof:name":"Eluatuli",
     "wof:parent_id":1108694703,
     "wof:placetype":"locality",

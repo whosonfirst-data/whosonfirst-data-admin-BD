@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.76861,23.32636,88.80861,23.36636",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Guidaha"
     ],
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1226683759,
-    "wof:lastmodified":1537586006,
+    "wof:lastmodified":1566610443,
     "wof:name":"Guidaha",
     "wof:parent_id":1108694679,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.88018,23.53191,90.92018,23.57191",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u09aa\u09be\u09b9\u09be\u09a1\u09bc\u09aa\u09c1\u09b0"
     ],
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1310054045,
-    "wof:lastmodified":1564157544,
+    "wof:lastmodified":1566609027,
     "wof:name":"Paharpur",
     "wof:parent_id":421187801,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.9111,24.30344,90.9511,24.34344",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "S\u0101itd\u0101r",
         "S\u0101itdh\u0101r"
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1193055465,
-    "wof:lastmodified":1537585773,
+    "wof:lastmodified":1566608373,
     "wof:name":"Saitdar",
     "wof:parent_id":421170483,
     "wof:placetype":"locality",

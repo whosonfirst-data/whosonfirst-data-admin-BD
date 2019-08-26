@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.12089,25.34094,89.16089,25.38094",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Saltimuradpur"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1327267113,
-    "wof:lastmodified":1537585770,
+    "wof:lastmodified":1566606200,
     "wof:name":"Saltimuradpur",
     "wof:parent_id":1108694671,
     "wof:placetype":"locality",

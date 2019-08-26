@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.95137,22.02349,89.99137,22.06349",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "P\u0101tharghata"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1259917249,
-    "wof:lastmodified":1537585694,
+    "wof:lastmodified":1566609955,
     "wof:name":"Patharghata",
     "wof:parent_id":421176043,
     "wof:placetype":"locality",

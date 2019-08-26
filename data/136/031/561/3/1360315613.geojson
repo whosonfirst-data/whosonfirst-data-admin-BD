@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.08765,22.49832,90.12765,22.53832",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1360315613,
-    "wof:lastmodified":1536610579,
+    "wof:lastmodified":1566609060,
     "wof:name":"Chaudhurani Galua",
     "wof:parent_id":1108694677,
     "wof:placetype":"locality",

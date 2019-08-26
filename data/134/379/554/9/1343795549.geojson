@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.44606,23.9155,90.48606,23.9555",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1343795549,
-    "wof:lastmodified":1536760589,
+    "wof:lastmodified":1566606417,
     "wof:name":"Maijgaon",
     "wof:parent_id":421203493,
     "wof:placetype":"locality",

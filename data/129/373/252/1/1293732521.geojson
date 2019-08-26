@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"91.88275,23.26674,91.92275,23.30674",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Panchari"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1293732521,
-    "wof:lastmodified":1537586215,
+    "wof:lastmodified":1566607002,
     "wof:name":"Panchari Bazar",
     "wof:parent_id":1108694683,
     "wof:placetype":"locality",

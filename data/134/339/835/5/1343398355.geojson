@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.11498,23.72896,89.15498,23.76896",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Harnar\u0101yanpur"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1343398355,
-    "wof:lastmodified":1537586000,
+    "wof:lastmodified":1566606307,
     "wof:name":"Harnarayanpur",
     "wof:parent_id":890438075,
     "wof:placetype":"locality",

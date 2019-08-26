@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.70924,24.68583,88.74924,24.72583",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Chak Udayn\u0101r\u0101yanpur"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1209848871,
-    "wof:lastmodified":1537586529,
+    "wof:lastmodified":1566607821,
     "wof:name":"Chak Udaynarayanpur",
     "wof:parent_id":421191663,
     "wof:placetype":"locality",

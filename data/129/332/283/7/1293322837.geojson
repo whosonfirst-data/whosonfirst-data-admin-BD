@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.16502,25.82234,88.20502,25.86234",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Jiga"
     ],
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1293322837,
-    "wof:lastmodified":1564154301,
+    "wof:lastmodified":1566606946,
     "wof:name":"Jiga",
     "wof:parent_id":1108694703,
     "wof:placetype":"locality",

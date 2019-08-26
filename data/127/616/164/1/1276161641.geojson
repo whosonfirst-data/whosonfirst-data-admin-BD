@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"92.25381,20.84022,92.29381,20.88022",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Mahishkh\u0101lip\u0101ra"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1276161641,
-    "wof:lastmodified":1537586331,
+    "wof:lastmodified":1566607139,
     "wof:name":"Mahishkhalipara",
     "wof:parent_id":421205057,
     "wof:placetype":"locality",

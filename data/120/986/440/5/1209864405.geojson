@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"91.82621,21.84743,91.86621,21.88743",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Ali Fakirdeil"
     ],
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1209864405,
-    "wof:lastmodified":1537586363,
+    "wof:lastmodified":1566608256,
     "wof:name":"Ali Fakirdeil",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

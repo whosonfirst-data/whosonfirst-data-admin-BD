@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.62533,22.56392,90.66533,22.60392",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "South Dighaldi"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1193170691,
-    "wof:lastmodified":1537585737,
+    "wof:lastmodified":1566608443,
     "wof:name":"Dakshin Dighaldi",
     "wof:parent_id":421184491,
     "wof:placetype":"locality",

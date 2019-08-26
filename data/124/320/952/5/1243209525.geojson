@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.15551,24.26319,90.19551,24.30319",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Sola Pratima"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1243209525,
-    "wof:lastmodified":1537585742,
+    "wof:lastmodified":1566609825,
     "wof:name":"Sola Pratinia",
     "wof:parent_id":421185471,
     "wof:placetype":"locality",

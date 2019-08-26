@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.37141,23.40401,89.41141,23.44401",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Titarkhanpara"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1310139165,
-    "wof:lastmodified":1537586420,
+    "wof:lastmodified":1566608757,
     "wof:name":"Titarkhanpara",
     "wof:parent_id":1108694689,
     "wof:placetype":"locality",

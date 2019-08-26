@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.009,23.66796,90.049,23.70796",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bug_x_preferred":[
         "Archail"
     ],
@@ -147,7 +151,7 @@
         }
     ],
     "wof:id":1293034169,
-    "wof:lastmodified":1564154238,
+    "wof:lastmodified":1566606920,
     "wof:name":"Archail",
     "wof:parent_id":421191745,
     "wof:placetype":"locality",

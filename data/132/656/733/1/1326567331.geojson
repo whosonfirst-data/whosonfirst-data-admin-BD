@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.93206,25.89142,88.97206,25.93142",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Beradanga"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1326567331,
-    "wof:lastmodified":1537586688,
+    "wof:lastmodified":1566605984,
     "wof:name":"Beradanga",
     "wof:parent_id":1108694695,
     "wof:placetype":"locality",

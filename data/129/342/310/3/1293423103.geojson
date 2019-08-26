@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.81077,24.34852,89.85077,24.38852",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Beripatal"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1293423103,
-    "wof:lastmodified":1537586147,
+    "wof:lastmodified":1566606998,
     "wof:name":"Char Beri Potol",
     "wof:parent_id":421185471,
     "wof:placetype":"locality",

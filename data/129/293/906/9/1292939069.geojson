@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.22327,24.67149,88.26327,24.71149",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "R\u0101ninagar"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1292939069,
-    "wof:lastmodified":1537586503,
+    "wof:lastmodified":1566606744,
     "wof:name":"Raninagar",
     "wof:parent_id":421191607,
     "wof:placetype":"locality",

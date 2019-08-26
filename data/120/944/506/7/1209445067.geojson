@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.39669,25.83843,88.43669,25.87843",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Phutkib\u0101ri"
     ],
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1209445067,
-    "wof:lastmodified":1537585809,
+    "wof:lastmodified":1566608220,
     "wof:name":"Phutkibari",
     "wof:parent_id":85632475,
     "wof:placetype":"locality",

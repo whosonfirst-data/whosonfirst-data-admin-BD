@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.94141,24.65787,89.98141,24.69787",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Chandbaree",
         "Dhanb\u0101ri",
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1243097159,
-    "wof:lastmodified":1537585918,
+    "wof:lastmodified":1566609449,
     "wof:name":"Kishmat Dhanbari",
     "wof:parent_id":421185471,
     "wof:placetype":"locality",

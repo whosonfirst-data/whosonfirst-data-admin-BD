@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.49704,24.78617,88.53704,24.82617",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Bar\u0101il"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1260113819,
-    "wof:lastmodified":1537586162,
+    "wof:lastmodified":1566608604,
     "wof:name":"Barail",
     "wof:parent_id":421191663,
     "wof:placetype":"locality",

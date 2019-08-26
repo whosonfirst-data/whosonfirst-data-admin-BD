@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.55192,23.66494,89.59192,23.70494",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1276151095,
-    "wof:lastmodified":1537022045,
+    "wof:lastmodified":1566607404,
     "wof:name":"Baharpur",
     "wof:parent_id":1108694699,
     "wof:placetype":"locality",

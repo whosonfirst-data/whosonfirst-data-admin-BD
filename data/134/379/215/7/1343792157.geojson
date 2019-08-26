@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.01247,25.79249,89.05247,25.83249",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Ganirampur"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1343792157,
-    "wof:lastmodified":1537586815,
+    "wof:lastmodified":1566606418,
     "wof:name":"Ganirampur",
     "wof:parent_id":1108694701,
     "wof:placetype":"locality",

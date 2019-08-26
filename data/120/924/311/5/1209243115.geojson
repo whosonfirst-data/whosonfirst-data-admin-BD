@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.15834,23.08016,90.19834,23.12016",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Purba M\u0101ijp\u0101ra",
         "East M\u0101ijp\u0101ra"
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1209243115,
-    "wof:lastmodified":1537586040,
+    "wof:lastmodified":1566607898,
     "wof:name":"Purba Maijpara",
     "wof:parent_id":85632475,
     "wof:placetype":"locality",

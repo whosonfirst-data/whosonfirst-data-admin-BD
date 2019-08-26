@@ -26,17 +26,18 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.15072,24.70843,88.19072,24.74843",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Kansat"
     ],
     "name:ben_x_variant":[
         "Khansat",
         "\u0995\u09be\u09a8\u09b8\u09be\u099f"
-    ],
-    "name:und_x_variant":[
-        "Khansat"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -61,7 +62,7 @@
         }
     ],
     "wof:id":1193167369,
-    "wof:lastmodified":1564156506,
+    "wof:lastmodified":1566608397,
     "wof:name":"Kansat",
     "wof:parent_id":421191607,
     "wof:placetype":"locality",

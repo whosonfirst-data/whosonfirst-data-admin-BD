@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.85195,25.77616,88.89195,25.81616",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Botl\u0101g\u0101ri"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1225974405,
-    "wof:lastmodified":1537586685,
+    "wof:lastmodified":1566610547,
     "wof:name":"Botlagari",
     "wof:parent_id":1108694695,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.21215,23.65907,90.25215,23.69907",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kali\u0101il",
         "Kail\u0101il"
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1293330091,
-    "wof:lastmodified":1537585956,
+    "wof:lastmodified":1566606974,
     "wof:name":"Kailail",
     "wof:parent_id":421187803,
     "wof:placetype":"locality",

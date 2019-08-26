@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.68068,24.81999,88.72068,24.85999",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Gorura"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1259513497,
-    "wof:lastmodified":1537586009,
+    "wof:lastmodified":1566610165,
     "wof:name":"Gorura",
     "wof:parent_id":421191663,
     "wof:placetype":"locality",

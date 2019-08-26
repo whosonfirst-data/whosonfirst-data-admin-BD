@@ -10,8 +10,11 @@
     "geom:latitude":23.28215,
     "geom:longitude":88.79658,
     "iso:country":"BD",
+    "lbl:bbox":"88.79158,23.27715,88.80158,23.28715",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ben_x_preferred":[
         "Sripur"
@@ -36,16 +39,16 @@
     "qs:woe_id":55926164,
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85669015,
         102191569,
         85632475,
-        1108694679,
-        85669015
+        1108694679
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7485003,
         "gp:id":55926164,
-        "qs:id":1104610
+        "qs_pg:id":1104610
     },
     "wof:country":"BD",
     "wof:created":1459009581,
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":421188839,
-    "wof:lastmodified":1531858636,
+    "wof:lastmodified":1566609383,
     "wof:name":"Shripur",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

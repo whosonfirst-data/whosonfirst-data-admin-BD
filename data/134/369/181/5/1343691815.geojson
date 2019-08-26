@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.83535,24.39699,88.87535,24.43699",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "No\u0101p\u0101ra"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1343691815,
-    "wof:lastmodified":1537585851,
+    "wof:lastmodified":1566606535,
     "wof:name":"Noapara",
     "wof:parent_id":421172439,
     "wof:placetype":"locality",

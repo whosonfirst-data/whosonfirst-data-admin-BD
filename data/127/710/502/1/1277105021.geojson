@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.10452,25.53767,89.14452,25.57767",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Gutibari"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1277105021,
-    "wof:lastmodified":1537586838,
+    "wof:lastmodified":1566607659,
     "wof:name":"Gutibari",
     "wof:parent_id":1108694701,
     "wof:placetype":"locality",

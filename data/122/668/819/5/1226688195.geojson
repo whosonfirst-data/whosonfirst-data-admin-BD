@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"91.90504,22.39571,91.94504,22.43571",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Chaudhury Gh\u0101t"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1226688195,
-    "wof:lastmodified":1537586222,
+    "wof:lastmodified":1566610431,
     "wof:name":"Chaudhury Ghat",
     "wof:parent_id":421201541,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.2138,25.06431,89.2538,25.10431",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Parba Krishnagur"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1225977793,
-    "wof:lastmodified":1537586732,
+    "wof:lastmodified":1566610565,
     "wof:name":"Parba Krishnagur",
     "wof:parent_id":1108694681,
     "wof:placetype":"locality",

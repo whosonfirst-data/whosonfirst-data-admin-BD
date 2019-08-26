@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.77473,23.27437,89.81473,23.31437",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Nawradola",
         "N\u0101o\u0101ra Dola"
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1343389063,
-    "wof:lastmodified":1537585852,
+    "wof:lastmodified":1566606252,
     "wof:name":"Naoara Dola",
     "wof:parent_id":421194867,
     "wof:placetype":"locality",

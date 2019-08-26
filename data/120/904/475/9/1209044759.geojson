@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"92.00229,22.0913,92.04229,22.1313",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "W\u0101darp\u0101ra"
     ],
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1209044759,
-    "wof:lastmodified":1537586261,
+    "wof:lastmodified":1566608077,
     "wof:name":"Wadarpara",
     "wof:parent_id":85632475,
     "wof:placetype":"locality",

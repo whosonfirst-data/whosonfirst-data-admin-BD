@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.43754,23.25342,90.47754,23.29342",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1276154341,
-    "wof:lastmodified":1537017853,
+    "wof:lastmodified":1566607424,
     "wof:name":"Saldha",
     "wof:parent_id":421188359,
     "wof:placetype":"locality",

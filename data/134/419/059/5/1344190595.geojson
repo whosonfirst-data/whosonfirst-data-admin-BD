@@ -27,8 +27,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.44667,24.91333,89.48667,24.95333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Tiorpara",
         "Tiarp\u0101ra"
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1344190595,
-    "wof:lastmodified":1537585713,
+    "wof:lastmodified":1566606567,
     "wof:name":"Tiarpara",
     "wof:parent_id":421187793,
     "wof:placetype":"locality",

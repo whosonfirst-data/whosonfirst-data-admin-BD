@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.18289,23.03843,89.22289,23.07843",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u0100r\u0101zi Gayespur"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1343695161,
-    "wof:lastmodified":1537586199,
+    "wof:lastmodified":1566606534,
     "wof:name":"Arazi Gayespur",
     "wof:parent_id":421176039,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.86225,22.25876,89.90225,22.29876",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Nizamiah"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1259713835,
-    "wof:lastmodified":1537586329,
+    "wof:lastmodified":1566610066,
     "wof:name":"Nizamiah",
     "wof:parent_id":421172031,
     "wof:placetype":"locality",

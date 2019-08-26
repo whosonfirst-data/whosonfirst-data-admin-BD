@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"92.22968,20.99285,92.26968,21.03285",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Nhila"
     ],
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1226184673,
-    "wof:lastmodified":1537586072,
+    "wof:lastmodified":1566610317,
     "wof:name":"Nhila",
     "wof:parent_id":421205057,
     "wof:placetype":"locality",

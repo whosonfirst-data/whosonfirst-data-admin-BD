@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.32792,25.47849,89.36792,25.51849",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Bhagwatpur"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1243583763,
-    "wof:lastmodified":1537586748,
+    "wof:lastmodified":1566609696,
     "wof:name":"Bhagwatpur",
     "wof:parent_id":1108694701,
     "wof:placetype":"locality",

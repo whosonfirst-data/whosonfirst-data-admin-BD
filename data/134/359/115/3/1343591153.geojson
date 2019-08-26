@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.3339,23.15574,89.3739,23.19574",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Dakshin Sr\u012br\u0101mpur"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1343591153,
-    "wof:lastmodified":1537586432,
+    "wof:lastmodified":1566606515,
     "wof:name":"Dakshin Srirampur",
     "wof:parent_id":421176039,
     "wof:placetype":"locality",

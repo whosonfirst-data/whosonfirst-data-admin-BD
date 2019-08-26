@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.43726,23.33736,89.47726,23.37736",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Balugr\u0101m"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1276150705,
-    "wof:lastmodified":1537586422,
+    "wof:lastmodified":1566607386,
     "wof:name":"Balugram",
     "wof:parent_id":1108694689,
     "wof:placetype":"locality",

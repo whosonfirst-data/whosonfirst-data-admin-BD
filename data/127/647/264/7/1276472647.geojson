@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.56062,24.89767,88.60062,24.93767",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Lakshmipu"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1276472647,
-    "wof:lastmodified":1537585903,
+    "wof:lastmodified":1566607379,
     "wof:name":"Lakshmipu",
     "wof:parent_id":421191663,
     "wof:placetype":"locality",

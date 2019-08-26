@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.74756,23.18281,89.78756,23.22281",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Bh\u0101dulia"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1344190577,
-    "wof:lastmodified":1537586453,
+    "wof:lastmodified":1566606568,
     "wof:name":"Bhadulia",
     "wof:parent_id":421194867,
     "wof:placetype":"locality",

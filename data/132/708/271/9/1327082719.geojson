@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"92.21693,22.15359,92.25693,22.19359",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Khamrut\u0101nrop\u0101ra"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1327082719,
-    "wof:lastmodified":1537586271,
+    "wof:lastmodified":1566605882,
     "wof:name":"Khamrutanropara",
     "wof:parent_id":421169477,
     "wof:placetype":"locality",

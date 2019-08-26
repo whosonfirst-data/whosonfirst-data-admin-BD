@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.35488,25.03552,89.39488,25.07552",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Rahabal"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1276904643,
-    "wof:lastmodified":1537585797,
+    "wof:lastmodified":1566607562,
     "wof:name":"Rahbal",
     "wof:parent_id":421187793,
     "wof:placetype":"locality",

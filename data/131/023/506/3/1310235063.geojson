@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.60251,25.50343,88.64251,25.54343",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062e\u0627\u0646\u0628\u0648\u0631"
     ],
@@ -108,7 +112,7 @@
         }
     ],
     "wof:id":1310235063,
-    "wof:lastmodified":1564157005,
+    "wof:lastmodified":1566608712,
     "wof:name":"Khanpur",
     "wof:parent_id":1108694671,
     "wof:placetype":"locality",

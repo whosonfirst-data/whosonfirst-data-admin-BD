@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.92199,22.63369,88.96199,22.67369",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Padma S\u0101nkhra"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1259910185,
-    "wof:lastmodified":1537586593,
+    "wof:lastmodified":1566609960,
     "wof:name":"Padma Sankhra",
     "wof:parent_id":421201927,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.00079,25.21595,89.04079,25.25595",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kuth\u0101ra",
         "Kut\u0101h\u0101ra"
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1276912559,
-    "wof:lastmodified":1537585906,
+    "wof:lastmodified":1566607632,
     "wof:name":"Kutahara",
     "wof:parent_id":1108694681,
     "wof:placetype":"locality",

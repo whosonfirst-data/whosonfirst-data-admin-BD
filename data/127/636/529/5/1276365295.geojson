@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.8501,24.30721,90.8901,24.34721",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ind_x_preferred":[
         "Nakhla"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1276365295,
-    "wof:lastmodified":1564155352,
+    "wof:lastmodified":1566607647,
     "wof:name":"Nakhla",
     "wof:parent_id":421170483,
     "wof:placetype":"locality",

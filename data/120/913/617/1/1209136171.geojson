@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.69522,25.98643,88.73522,26.02643",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Bil\u0101tup\u0101ra"
     ],
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1209136171,
-    "wof:lastmodified":1537586297,
+    "wof:lastmodified":1566607937,
     "wof:name":"Bilatupara",
     "wof:parent_id":85632475,
     "wof:placetype":"locality",

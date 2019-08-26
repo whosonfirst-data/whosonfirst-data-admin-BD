@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.96263,24.82209,89.00263,24.86209",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Chati\u0101ngr\u0101m"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1259813651,
-    "wof:lastmodified":1537586093,
+    "wof:lastmodified":1566610204,
     "wof:name":"Chatiangram",
     "wof:parent_id":421187793,
     "wof:placetype":"locality",

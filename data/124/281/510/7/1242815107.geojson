@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"91.41925,24.76326,91.45925,24.80326",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Raibangali",
         "R\u0101ybangali"
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1242815107,
-    "wof:lastmodified":1537585784,
+    "wof:lastmodified":1566609538,
     "wof:name":"Raybangali",
     "wof:parent_id":421201931,
     "wof:placetype":"locality",

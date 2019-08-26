@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.04313,24.57281,90.08313,24.61281",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Gangabari",
         "Gang\u0101hari"
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1226683763,
-    "wof:lastmodified":1537586028,
+    "wof:lastmodified":1566610435,
     "wof:name":"Gangahari",
     "wof:parent_id":421185471,
     "wof:placetype":"locality",

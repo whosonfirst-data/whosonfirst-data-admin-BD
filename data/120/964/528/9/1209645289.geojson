@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.19783,21.92668,90.23783,21.96668",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Ar\u0101mganj"
     ],
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1209645289,
-    "wof:lastmodified":1537586377,
+    "wof:lastmodified":1566607771,
     "wof:name":"Aramganj",
     "wof:parent_id":85632475,
     "wof:placetype":"locality",

@@ -10,8 +10,12 @@
     "geom:latitude":21.45388,
     "geom:longitude":91.96765,
     "iso:country":"BD",
+    "lbl:bbox":"91.94765,21.43388,91.98765,21.47388",
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0643\u0648\u0643\u0633 \u0628\u0627\u0632\u0627\u0631"
@@ -160,7 +164,7 @@
     "wof:concordances":{
         "gn:id":1336134,
         "gp:id":1915034,
-        "qs:id":493048,
+        "qs_pg:id":493048,
         "wd:id":"Q949746"
     },
     "wof:country":"BD",
@@ -176,7 +180,7 @@
         }
     ],
     "wof:id":421173199,
-    "wof:lastmodified":1563584370,
+    "wof:lastmodified":1566609380,
     "wof:name":"Cox's Bazar",
     "wof:parent_id":421205057,
     "wof:placetype":"locality",

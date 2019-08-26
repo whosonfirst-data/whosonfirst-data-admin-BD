@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.4481,26.25973,88.4881,26.29973",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "J\u0101girp\u0101ra"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1226679721,
-    "wof:lastmodified":1537586628,
+    "wof:lastmodified":1566610426,
     "wof:name":"Jagirpara",
     "wof:parent_id":1108694697,
     "wof:placetype":"locality",

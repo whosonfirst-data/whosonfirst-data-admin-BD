@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.39215,25.11636,89.43215,25.15636",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "B\u0101mankuri"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1343394535,
-    "wof:lastmodified":1537586750,
+    "wof:lastmodified":1566606313,
     "wof:name":"Bamankuri",
     "wof:parent_id":1108694675,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.51656,24.60958,88.55656,24.64958",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "In\u0101md\u0101hi"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1327367017,
-    "wof:lastmodified":1537586520,
+    "wof:lastmodified":1566605891,
     "wof:name":"Inamdahi",
     "wof:parent_id":421172439,
     "wof:placetype":"locality",

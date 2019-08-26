@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.86943,23.05398,88.90943,23.09398",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Sarb\u0101nghuda"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1276263055,
-    "wof:lastmodified":1537586587,
+    "wof:lastmodified":1566607092,
     "wof:name":"Sarbanghuda",
     "wof:parent_id":421176039,
     "wof:placetype":"locality",

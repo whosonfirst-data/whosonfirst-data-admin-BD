@@ -27,8 +27,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"92.03,24.94667,92.07,24.98667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Haripur"
     ],
@@ -54,8 +58,7 @@
         "Haripur"
     ],
     "name:und_x_variant":[
-        "Haripur Bazar",
-        "Haripur"
+        "Haripur Bazar"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":1293234279,
-    "wof:lastmodified":1564153961,
+    "wof:lastmodified":1566606805,
     "wof:name":"Haripur",
     "wof:parent_id":421187795,
     "wof:placetype":"locality",

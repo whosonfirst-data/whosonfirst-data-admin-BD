@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.81341,23.69856,88.85341,23.73856",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Elliottnagar"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1293626427,
-    "wof:lastmodified":1537586573,
+    "wof:lastmodified":1566606698,
     "wof:name":"Elliottnagar",
     "wof:parent_id":421194153,
     "wof:placetype":"locality",

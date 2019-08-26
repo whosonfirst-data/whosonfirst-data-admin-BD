@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.38189,24.75347,89.42189,24.79347",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Duralia",
         "Durlia"
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1327261719,
-    "wof:lastmodified":1537586044,
+    "wof:lastmodified":1566606202,
     "wof:name":"Durlia",
     "wof:parent_id":421187793,
     "wof:placetype":"locality",

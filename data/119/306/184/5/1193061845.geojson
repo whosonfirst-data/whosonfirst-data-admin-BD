@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"91.93651,21.95147,91.97651,21.99147",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Paschim Chambal"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1193061845,
-    "wof:lastmodified":1537586243,
+    "wof:lastmodified":1566608318,
     "wof:name":"Paschim Chambal",
     "wof:parent_id":421201541,
     "wof:placetype":"locality",

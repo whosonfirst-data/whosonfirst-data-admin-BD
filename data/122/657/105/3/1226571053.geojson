@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.50396,22.76604,89.54396,22.80604",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "S\u0101nchibunia"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1226571053,
-    "wof:lastmodified":1537585769,
+    "wof:lastmodified":1566610445,
     "wof:name":"Sanchibunia",
     "wof:parent_id":421185473,
     "wof:placetype":"locality",

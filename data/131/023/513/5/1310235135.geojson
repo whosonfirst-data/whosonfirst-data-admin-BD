@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.22468,23.0828,90.26468,23.1228",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "South K\u0101n\u0101ipur"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1310235135,
-    "wof:lastmodified":1537585736,
+    "wof:lastmodified":1566608726,
     "wof:name":"Dakshin Kalaipur",
     "wof:parent_id":421183929,
     "wof:placetype":"locality",

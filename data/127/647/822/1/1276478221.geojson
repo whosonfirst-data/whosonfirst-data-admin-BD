@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.48869,24.45187,89.52869,24.49187",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1276478221,
-    "wof:lastmodified":1537078731,
+    "wof:lastmodified":1566607372,
     "wof:name":"Langalmura",
     "wof:parent_id":421201929,
     "wof:placetype":"locality",

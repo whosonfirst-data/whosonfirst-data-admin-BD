@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.27745,21.98953,90.31745,22.02953",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "M\u0101chhu\u0101khali"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1293234019,
-    "wof:lastmodified":1537586396,
+    "wof:lastmodified":1566606792,
     "wof:name":"Machhuakhali",
     "wof:parent_id":421169845,
     "wof:placetype":"locality",

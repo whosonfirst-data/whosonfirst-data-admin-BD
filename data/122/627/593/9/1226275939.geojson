@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.87567,24.45997,88.91567,24.49997",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Kozipur"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1226275939,
-    "wof:lastmodified":1537586546,
+    "wof:lastmodified":1566610322,
     "wof:name":"Kozipur",
     "wof:parent_id":421172439,
     "wof:placetype":"locality",

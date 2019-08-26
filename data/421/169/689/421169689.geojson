@@ -10,6 +10,9 @@
     "geom:latitude":24.24984,
     "geom:longitude":89.91655,
     "iso:country":"BD",
+    "lbl:bbox":"89.89655,24.22984,89.93655,24.26984",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":7.0,
@@ -58,9 +61,6 @@
     ],
     "name:swe_x_preferred":[
         "Tangail"
-    ],
-    "name:unk_x_variant":[
-        "T\u0101ng\u0101il"
     ],
     "name:urd_x_preferred":[
         "\u062a\u0646\u06af\u06cc\u0644"
@@ -194,7 +194,7 @@
     "wof:concordances":{
         "gn:id":1336144,
         "gp:id":1915249,
-        "qs:id":229280,
+        "qs_pg:id":229280,
         "wd:id":"Q2306321",
         "wk:page":"Tangail"
     },
@@ -211,7 +211,7 @@
         }
     ],
     "wof:id":421169689,
-    "wof:lastmodified":1563584356,
+    "wof:lastmodified":1566609373,
     "wof:name":"Tangail",
     "wof:parent_id":421185471,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.8896,25.85224,88.9296,25.89224",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Char\u0101ikhola"
     ],
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1209549099,
-    "wof:lastmodified":1537586106,
+    "wof:lastmodified":1566607708,
     "wof:name":"Charaikhola",
     "wof:parent_id":85632475,
     "wof:placetype":"locality",

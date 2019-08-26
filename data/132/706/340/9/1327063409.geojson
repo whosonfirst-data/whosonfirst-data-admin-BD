@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.03173,25.90339,89.07173,25.94339",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Ronachandi"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1327063409,
-    "wof:lastmodified":1537585788,
+    "wof:lastmodified":1566605864,
     "wof:name":"Ronachandi",
     "wof:parent_id":1108694695,
     "wof:placetype":"locality",

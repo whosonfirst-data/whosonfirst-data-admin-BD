@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.89088,23.23215,90.93088,23.27215",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Setra"
     ],
@@ -126,7 +130,7 @@
         }
     ],
     "wof:id":1193214547,
-    "wof:lastmodified":1564156595,
+    "wof:lastmodified":1566608454,
     "wof:name":"Setra",
     "wof:parent_id":1108694669,
     "wof:placetype":"locality",

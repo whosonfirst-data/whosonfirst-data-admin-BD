@@ -9,20 +9,23 @@
     "geom:bbox":"88.46989,26.03097,88.46989,26.03097",
     "geom:latitude":26.03097,
     "geom:longitude":88.46989,
-    "gn:gn_country":"BD",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":71096,
+    "gn:country":"BD",
+    "gn:fcode":"PPL",
     "gn:population":71096,
     "iso:country":"BD",
+    "lbl:bbox":"88.44989,26.01097,88.48989,26.05097",
     "lbl:latitude":26.03097,
     "lbl:longitude":88.46989,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":8.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ben_x_preferred":[
         "Th\u0101kurgaon"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Thakus Gaon"
     ],
     "qs_pg:aaroncc":"BD",
@@ -37,7 +40,7 @@
     "qs_pg:qs_id":1030095,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191569,
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":1125903363,
-    "wof:lastmodified":1509399580,
+    "wof:lastmodified":1566609405,
     "wof:name":"Th\u0101kurgaon",
     "wof:parent_id":1108694703,
     "wof:placetype":"locality",

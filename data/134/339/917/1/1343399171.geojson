@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"91.95576,21.70245,91.99576,21.74245",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "S\u0101td\u0101lia"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1343399171,
-    "wof:lastmodified":1537586259,
+    "wof:lastmodified":1566606332,
     "wof:name":"Satdalia",
     "wof:parent_id":421205057,
     "wof:placetype":"locality",

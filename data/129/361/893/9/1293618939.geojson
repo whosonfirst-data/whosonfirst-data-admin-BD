@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.75545,24.83302,89.79545,24.87302",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Gajaria",
         "Banda Gaj\u0101ria"
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1293618939,
-    "wof:lastmodified":1537586172,
+    "wof:lastmodified":1566606877,
     "wof:name":"Banda Gajaria",
     "wof:parent_id":421191923,
     "wof:placetype":"locality",

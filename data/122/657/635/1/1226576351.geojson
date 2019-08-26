@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.23012,22.4664,90.27012,22.5064",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Tengr\u0101kh\u0101li"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1226576351,
-    "wof:lastmodified":1537586326,
+    "wof:lastmodified":1566610458,
     "wof:name":"Tengrakhali",
     "wof:parent_id":421187745,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"91.92667,22.15361,91.96667,22.19361",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Madhyam"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1226184685,
-    "wof:lastmodified":1564159552,
+    "wof:lastmodified":1566610320,
     "wof:name":"Madhyam",
     "wof:parent_id":421201541,
     "wof:placetype":"locality",

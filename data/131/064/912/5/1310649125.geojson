@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.8139,23.51932,90.8539,23.55932",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Singula",
         "Singulia"
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1310649125,
-    "wof:lastmodified":1537585745,
+    "wof:lastmodified":1566608877,
     "wof:name":"Singulia",
     "wof:parent_id":421187801,
     "wof:placetype":"locality",

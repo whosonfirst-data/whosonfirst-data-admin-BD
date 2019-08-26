@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.79543,25.6738,88.83543,25.7138",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Daksin Nagar"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1209135911,
-    "wof:lastmodified":1537586072,
+    "wof:lastmodified":1566607952,
     "wof:name":"Daksin Nagar",
     "wof:parent_id":85632475,
     "wof:placetype":"locality",

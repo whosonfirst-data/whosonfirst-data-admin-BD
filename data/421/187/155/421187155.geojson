@@ -10,8 +10,12 @@
     "geom:latitude":26.17079,
     "geom:longitude":88.87936,
     "iso:country":"BD",
+    "lbl:bbox":"88.85936,26.15079,88.89936,26.19079",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ben_x_preferred":[
         "Jaldanp\u0101ra"
@@ -45,7 +49,7 @@
     "wof:concordances":{
         "gn:id":7105511,
         "gp:id":29000905,
-        "qs:id":1081943
+        "qs_pg:id":1081943
     },
     "wof:country":"BD",
     "wof:created":1459009503,
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":421187155,
-    "wof:lastmodified":1501273150,
+    "wof:lastmodified":1566609378,
     "wof:name":"Jaldapara",
     "wof:parent_id":1108694695,
     "wof:placetype":"locality",

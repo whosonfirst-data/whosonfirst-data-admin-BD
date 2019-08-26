@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.67156,22.37802,90.71156,22.41802",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Debir Char"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1326563137,
-    "wof:lastmodified":1537586062,
+    "wof:lastmodified":1566605983,
     "wof:name":"Debir Char",
     "wof:parent_id":421184491,
     "wof:placetype":"locality",

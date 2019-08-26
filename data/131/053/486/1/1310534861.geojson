@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.92209,21.99161,89.96209,22.03161",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Harintana"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1310534861,
-    "wof:lastmodified":1537586335,
+    "wof:lastmodified":1566608834,
     "wof:name":"Harintana",
     "wof:parent_id":421176043,
     "wof:placetype":"locality",

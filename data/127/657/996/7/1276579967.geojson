@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.91684,22.49987,89.95684,22.53987",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Dari Char G\u0101zipur"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1276579967,
-    "wof:lastmodified":1537586066,
+    "wof:lastmodified":1566607306,
     "wof:name":"Dari Char Gazipur",
     "wof:parent_id":421172031,
     "wof:placetype":"locality",

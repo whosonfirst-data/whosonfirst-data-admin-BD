@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.40563,23.02778,90.44563,23.06778",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ikarkandi",
         "Ikar\u0101k\u0101ndi"
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1259410865,
-    "wof:lastmodified":1537585986,
+    "wof:lastmodified":1566610041,
     "wof:name":"Ikarakandi",
     "wof:parent_id":421188359,
     "wof:placetype":"locality",

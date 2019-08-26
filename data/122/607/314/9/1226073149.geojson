@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.44234,24.87437,90.48234,24.91437",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "P\u0101tr\u0101 Bh\u0101tp\u0101r\u0101",
         "Batta Bhatpara",
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1226073149,
-    "wof:lastmodified":1537586153,
+    "wof:lastmodified":1566610777,
     "wof:name":"Batra Bhatpara",
     "wof:parent_id":421185469,
     "wof:placetype":"locality",

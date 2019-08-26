@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.21591,25.87623,88.25591,25.91623",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "B\u0101nsdar"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1226272647,
-    "wof:lastmodified":1537586642,
+    "wof:lastmodified":1566610357,
     "wof:name":"Bansdar",
     "wof:parent_id":1108694703,
     "wof:placetype":"locality",

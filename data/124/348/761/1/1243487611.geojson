@@ -27,8 +27,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.78,24.09667,88.82,24.13667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Mulluck Chandpur",
         "Malluk Ch\u0101ndpur"
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1243487611,
-    "wof:lastmodified":1537585881,
+    "wof:lastmodified":1566609624,
     "wof:name":"Malluk Chandpur",
     "wof:parent_id":890438075,
     "wof:placetype":"locality",

@@ -27,8 +27,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"91.57534,24.06404,91.61534,24.10404",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Balla"
     ],
@@ -69,8 +73,7 @@
         "\u0411\u0430\u043b\u043b\u0430"
     ],
     "name:und_x_variant":[
-        "Ballabazar",
-        "Balla"
+        "Ballabazar"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":1243010531,
-    "wof:lastmodified":1564158243,
+    "wof:lastmodified":1566609474,
     "wof:name":"Balla",
     "wof:parent_id":421176045,
     "wof:placetype":"locality",

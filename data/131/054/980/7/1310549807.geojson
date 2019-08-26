@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.84407,23.22879,90.88407,23.26879",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1310549807,
-    "wof:lastmodified":1536852082,
+    "wof:lastmodified":1566608804,
     "wof:name":"Jakani",
     "wof:parent_id":1108694669,
     "wof:placetype":"locality",

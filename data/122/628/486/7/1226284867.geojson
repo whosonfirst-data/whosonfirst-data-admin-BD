@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"91.92101,21.68159,91.96101,21.72159",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Haimm\u0101ra"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1226284867,
-    "wof:lastmodified":1537586259,
+    "wof:lastmodified":1566610266,
     "wof:name":"Haimmara",
     "wof:parent_id":421205057,
     "wof:placetype":"locality",

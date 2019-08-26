@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.89198,24.56394,88.93198,24.60394",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Jugip\u0101ra"
     ],
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1209247987,
-    "wof:lastmodified":1537585964,
+    "wof:lastmodified":1566607862,
     "wof:name":"Jugipara",
     "wof:parent_id":85632475,
     "wof:placetype":"locality",

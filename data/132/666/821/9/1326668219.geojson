@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"92.08715,22.42958,92.12715,22.46958",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Kodala"
     ],
@@ -90,7 +94,7 @@
         }
     ],
     "wof:id":1326668219,
-    "wof:lastmodified":1564152218,
+    "wof:lastmodified":1566606012,
     "wof:name":"Kodala",
     "wof:parent_id":421201541,
     "wof:placetype":"locality",

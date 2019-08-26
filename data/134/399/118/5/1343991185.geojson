@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.52943,23.72814,89.56943,23.76814",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Araji Gariana",
         "\u0100r\u0101zi G\u0101ri\u0101na"
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1343991185,
-    "wof:lastmodified":1537586199,
+    "wof:lastmodified":1566606338,
     "wof:name":"Arazi Gariana",
     "wof:parent_id":1108694699,
     "wof:placetype":"locality",

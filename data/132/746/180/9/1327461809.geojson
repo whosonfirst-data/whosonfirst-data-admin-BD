@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.82777,25.35088,88.86777,25.39088",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Gonad\u0101spur"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1327461809,
-    "wof:lastmodified":1537586471,
+    "wof:lastmodified":1566606065,
     "wof:name":"Gonadaspur",
     "wof:parent_id":1108694671,
     "wof:placetype":"locality",

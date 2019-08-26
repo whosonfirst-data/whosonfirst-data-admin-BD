@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.99823,25.09804,89.03823,25.13804",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Balup\u014dra"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1243202041,
-    "wof:lastmodified":1537586716,
+    "wof:lastmodified":1566609833,
     "wof:name":"Balupora",
     "wof:parent_id":1108694681,
     "wof:placetype":"locality",

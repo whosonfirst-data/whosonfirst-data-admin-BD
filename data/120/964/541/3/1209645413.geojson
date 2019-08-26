@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.59957,25.58056,89.63957,25.62056",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Um\u0101nanda"
     ],
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1209645413,
-    "wof:lastmodified":1537586827,
+    "wof:lastmodified":1566607796,
     "wof:name":"Umananda",
     "wof:parent_id":85632475,
     "wof:placetype":"locality",

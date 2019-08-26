@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.05013,24.73579,89.09013,24.77579",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1243202443,
-    "wof:lastmodified":1536660556,
+    "wof:lastmodified":1566609832,
     "wof:name":"Gutna Gobindapur",
     "wof:parent_id":421191663,
     "wof:placetype":"locality",

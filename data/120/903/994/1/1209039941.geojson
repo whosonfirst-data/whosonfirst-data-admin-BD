@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.19222,25.03964,89.23222,25.07964",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Nandail Dighi"
     ],
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1209039941,
-    "wof:lastmodified":1537586729,
+    "wof:lastmodified":1566608048,
     "wof:name":"Nandail Dighi",
     "wof:parent_id":85632475,
     "wof:placetype":"locality",

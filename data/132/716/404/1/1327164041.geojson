@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.77758,23.81642,88.81758,23.85642",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Baniapukur"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1327164041,
-    "wof:lastmodified":1537586561,
+    "wof:lastmodified":1566606234,
     "wof:name":"Baniapukur",
     "wof:parent_id":421191661,
     "wof:placetype":"locality",

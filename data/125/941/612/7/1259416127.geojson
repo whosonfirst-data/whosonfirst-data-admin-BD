@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.09577,23.00596,89.13577,23.04596",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "In\u0101yetpur"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1259416127,
-    "wof:lastmodified":1537586037,
+    "wof:lastmodified":1566610041,
     "wof:name":"Inayetpur",
     "wof:parent_id":421176039,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.15181,23.68479,90.19181,23.72479",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Singara"
     ],
@@ -81,7 +85,7 @@
         }
     ],
     "wof:id":1242707867,
-    "wof:lastmodified":1564158678,
+    "wof:lastmodified":1566609738,
     "wof:name":"Singara",
     "wof:parent_id":421187803,
     "wof:placetype":"locality",

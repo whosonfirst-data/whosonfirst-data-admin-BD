@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.32613,22.27726,90.36613,22.31726",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "East \u0100uliapur"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1310139269,
-    "wof:lastmodified":1537586340,
+    "wof:lastmodified":1566608760,
     "wof:name":"East Auliapur",
     "wof:parent_id":421169845,
     "wof:placetype":"locality",

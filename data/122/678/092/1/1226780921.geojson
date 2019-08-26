@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.00355,22.47797,89.04355,22.51797",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "M\u0101gri"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1226780921,
-    "wof:lastmodified":1537585894,
+    "wof:lastmodified":1566610670,
     "wof:name":"Magri",
     "wof:parent_id":421201927,
     "wof:placetype":"locality",

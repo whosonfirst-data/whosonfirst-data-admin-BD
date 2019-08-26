@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.74947,23.22936,90.78947,23.26936",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1326568115,
-    "wof:lastmodified":1536932998,
+    "wof:lastmodified":1566605976,
     "wof:name":"Debpur",
     "wof:parent_id":1108694669,
     "wof:placetype":"locality",

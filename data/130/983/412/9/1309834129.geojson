@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.38436,26.23311,88.42436,26.27311",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Bo\u0101lmari"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1309834129,
-    "wof:lastmodified":1537586625,
+    "wof:lastmodified":1566609229,
     "wof:name":"Boalmari",
     "wof:parent_id":1108694697,
     "wof:placetype":"locality",

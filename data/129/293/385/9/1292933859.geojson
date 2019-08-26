@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.02637,22.29834,89.06637,22.33834",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Haripur"
     ],
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1292933859,
-    "wof:lastmodified":1564153836,
+    "wof:lastmodified":1566606753,
     "wof:name":"Haripur",
     "wof:parent_id":421201927,
     "wof:placetype":"locality",

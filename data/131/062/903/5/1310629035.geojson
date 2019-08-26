@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.11211,22.11007,90.15211,22.15007",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Bara Labangola"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1310629035,
-    "wof:lastmodified":1537586353,
+    "wof:lastmodified":1566608790,
     "wof:name":"Bara Labangola",
     "wof:parent_id":421176043,
     "wof:placetype":"locality",

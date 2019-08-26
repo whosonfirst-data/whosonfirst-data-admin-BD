@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"91.89935,21.66734,91.93935,21.70734",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Jh\u0101pua"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1343300167,
-    "wof:lastmodified":1537585970,
+    "wof:lastmodified":1566606295,
     "wof:name":"Jhapua",
     "wof:parent_id":421205057,
     "wof:placetype":"locality",

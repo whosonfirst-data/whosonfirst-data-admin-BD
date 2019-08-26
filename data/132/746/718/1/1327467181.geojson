@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.51556,22.82507,89.55556,22.86507",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Mujgunni"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1327467181,
-    "wof:lastmodified":1537586607,
+    "wof:lastmodified":1566606085,
     "wof:name":"Mujgunni",
     "wof:parent_id":421185473,
     "wof:placetype":"locality",

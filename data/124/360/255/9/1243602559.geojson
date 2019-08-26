@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"92.30731,23.04239,92.34731,23.08239",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Phaikhua"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1243602559,
-    "wof:lastmodified":1537586362,
+    "wof:lastmodified":1566609718,
     "wof:name":"Phaikhua",
     "wof:parent_id":421188983,
     "wof:placetype":"locality",

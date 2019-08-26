@@ -10,8 +10,11 @@
     "geom:latitude":22.71902,
     "geom:longitude":88.97202,
     "iso:country":"BD",
+    "lbl:bbox":"88.96702,22.71402,88.97702,22.72402",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ben_x_preferred":[
         "Sanka"
@@ -40,16 +43,16 @@
     "src:geom":"quattroshapes",
     "wd:wordcount":32,
     "wof:belongsto":[
+        85669015,
         102191569,
         85632475,
-        421201927,
-        85669015
+        421201927
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1349221,
         "gp:id":55926002,
-        "qs:id":1104608
+        "qs_pg:id":1104608
     },
     "wof:country":"BD",
     "wof:created":1459009581,
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":421188837,
-    "wof:lastmodified":1531858636,
+    "wof:lastmodified":1566609382,
     "wof:name":"Sanpa",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

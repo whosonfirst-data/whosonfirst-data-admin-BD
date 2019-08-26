@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.73039,24.85177,88.77039,24.89177",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Jot Bhagaban",
         "Jot Bhagw\u0101n"
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1293813739,
-    "wof:lastmodified":1537585966,
+    "wof:lastmodified":1566607021,
     "wof:name":"Jot Bhagwan",
     "wof:parent_id":421191663,
     "wof:placetype":"locality",

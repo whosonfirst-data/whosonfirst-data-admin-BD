@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.83249,24.54585,89.87249,24.58585",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Sheml\u0101p\u0101ra",
         "Siml\u0101p\u0101ra"
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1276370463,
-    "wof:lastmodified":1537585747,
+    "wof:lastmodified":1566607594,
     "wof:name":"Shemlapara",
     "wof:parent_id":421185471,
     "wof:placetype":"locality",

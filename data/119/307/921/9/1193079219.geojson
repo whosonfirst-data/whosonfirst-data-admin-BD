@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.64667,23.23,90.68667,23.27",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Puranthapur",
         "Purandopur",
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1193079219,
-    "wof:lastmodified":1537585803,
+    "wof:lastmodified":1566608311,
     "wof:name":"Purandip",
     "wof:parent_id":1108694669,
     "wof:placetype":"locality",

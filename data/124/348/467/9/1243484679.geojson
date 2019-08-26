@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.07601,24.81101,89.11601,24.85101",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Morgram"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1243484679,
-    "wof:lastmodified":1564158514,
+    "wof:lastmodified":1566609629,
     "wof:name":"Morgram",
     "wof:parent_id":421187793,
     "wof:placetype":"locality",

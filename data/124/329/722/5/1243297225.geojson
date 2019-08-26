@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.45639,22.47974,90.49639,22.51974",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Chhota Ar\u0101iha"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1243297225,
-    "wof:lastmodified":1537586350,
+    "wof:lastmodified":1566609879,
     "wof:name":"Chhota Araiha",
     "wof:parent_id":421169845,
     "wof:placetype":"locality",

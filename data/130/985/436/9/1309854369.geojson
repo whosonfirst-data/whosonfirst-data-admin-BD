@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.80743,23.33655,90.84743,23.37655",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Tulpai Fatepur",
         "Tulp\u0101i Fatehpur",
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1309854369,
-    "wof:lastmodified":1537585711,
+    "wof:lastmodified":1566609271,
     "wof:name":"Tulpar Fatehpur",
     "wof:parent_id":1108694669,
     "wof:placetype":"locality",

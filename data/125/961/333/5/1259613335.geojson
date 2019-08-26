@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.34879,24.74171,90.38879,24.78171",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1259613335,
-    "wof:lastmodified":1536671866,
+    "wof:lastmodified":1566610128,
     "wof:name":"Bade Kalpa",
     "wof:parent_id":421185469,
     "wof:placetype":"locality",

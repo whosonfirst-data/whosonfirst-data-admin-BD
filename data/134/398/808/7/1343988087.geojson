@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.99956,23.25878,89.03956,23.29878",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Berb\u0101ri"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1343988087,
-    "wof:lastmodified":1537586700,
+    "wof:lastmodified":1566606281,
     "wof:name":"Berbari",
     "wof:parent_id":421176039,
     "wof:placetype":"locality",

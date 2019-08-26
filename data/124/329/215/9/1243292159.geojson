@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.5496,23.87245,90.5896,23.91245",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Kalinga"
     ],
@@ -81,7 +85,7 @@
         }
     ],
     "wof:id":1243292159,
-    "wof:lastmodified":1564158914,
+    "wof:lastmodified":1566609892,
     "wof:name":"Kalinga",
     "wof:parent_id":421197045,
     "wof:placetype":"locality",

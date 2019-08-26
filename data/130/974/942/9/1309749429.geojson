@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.11476,24.78015,90.15476,24.82015",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1309749429,
-    "wof:lastmodified":1537011591,
+    "wof:lastmodified":1566609360,
     "wof:name":"Hati Bandha",
     "wof:parent_id":421191923,
     "wof:placetype":"locality",

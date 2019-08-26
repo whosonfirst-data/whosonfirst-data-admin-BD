@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.44329,23.35964,89.48329,23.39964",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Baharba"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1326958527,
-    "wof:lastmodified":1537586422,
+    "wof:lastmodified":1566606045,
     "wof:name":"Baharba",
     "wof:parent_id":1108694689,
     "wof:placetype":"locality",

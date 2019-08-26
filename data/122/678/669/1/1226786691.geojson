@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.58405,24.87478,88.62405,24.91478",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Dasara"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1226786691,
-    "wof:lastmodified":1537586065,
+    "wof:lastmodified":1566610657,
     "wof:name":"Dasara",
     "wof:parent_id":421191663,
     "wof:placetype":"locality",

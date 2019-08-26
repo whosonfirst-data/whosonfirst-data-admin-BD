@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.33825,25.9547,89.37825,25.9947",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Bara Kamal\u0101b\u0101ri"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1293230649,
-    "wof:lastmodified":1537586161,
+    "wof:lastmodified":1566606796,
     "wof:name":"Bara Kamalabari",
     "wof:parent_id":1108694687,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.25242,23.66651,89.29242,23.70651",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Sonadaha",
         "Sondaha"
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1292939033,
-    "wof:lastmodified":1537585740,
+    "wof:lastmodified":1566606756,
     "wof:name":"Sondaha",
     "wof:parent_id":1108694679,
     "wof:placetype":"locality",

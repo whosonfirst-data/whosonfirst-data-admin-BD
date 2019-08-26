@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.96704,25.15381,89.00704,25.19381",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0627\u0646\u0627\u0646\u062a\u0627\u0628\u0648\u0631"
     ],
@@ -156,7 +160,7 @@
         }
     ],
     "wof:id":1310629227,
-    "wof:lastmodified":1564157140,
+    "wof:lastmodified":1566608788,
     "wof:name":"Anantapur",
     "wof:parent_id":1108694681,
     "wof:placetype":"locality",

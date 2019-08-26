@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.63129,22.95809,89.67129,22.99809",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "B\u012blduria"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1343389263,
-    "wof:lastmodified":1537586612,
+    "wof:lastmodified":1566606261,
     "wof:name":"Bilduria",
     "wof:parent_id":421205213,
     "wof:placetype":"locality",

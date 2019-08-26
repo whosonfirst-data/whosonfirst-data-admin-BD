@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.36096,25.79932,88.40096,25.83932",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "S\u0101guni"
     ],
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":1360318645,
-    "wof:lastmodified":1564157636,
+    "wof:lastmodified":1566609086,
     "wof:name":"Saguni",
     "wof:parent_id":1108694703,
     "wof:placetype":"locality",

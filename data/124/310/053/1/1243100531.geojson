@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.17745,25.53654,89.21745,25.57654",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Abirerpara"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1243100531,
-    "wof:lastmodified":1537586838,
+    "wof:lastmodified":1566609916,
     "wof:name":"Abirerpara",
     "wof:parent_id":1108694701,
     "wof:placetype":"locality",

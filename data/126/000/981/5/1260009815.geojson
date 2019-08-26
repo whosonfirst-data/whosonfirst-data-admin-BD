@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.62106,24.67964,88.66106,24.71964",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Kurkuti"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1260009815,
-    "wof:lastmodified":1537586523,
+    "wof:lastmodified":1566608500,
     "wof:name":"Kurkuti",
     "wof:parent_id":421191663,
     "wof:placetype":"locality",

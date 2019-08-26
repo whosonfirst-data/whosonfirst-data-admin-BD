@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"92.01391,21.56082,92.05391,21.60082",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Kah\u0101rghona"
     ],
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1209156883,
-    "wof:lastmodified":1537586235,
+    "wof:lastmodified":1566607851,
     "wof:name":"Kaharghona",
     "wof:parent_id":85632475,
     "wof:placetype":"locality",

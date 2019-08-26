@@ -10,10 +10,14 @@
     "geom:latitude":24.432,
     "geom:longitude":90.5585,
     "iso:country":"BD",
+    "lbl:bbox":"90.5385,24.412,90.5785,24.452",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ghafargaon"
     ],
     "qs:gn_country":"BD",
@@ -47,7 +51,7 @@
     "wof:concordances":{
         "gn:id":1185218,
         "gp:id":1915057,
-        "qs:id":1091356
+        "qs_pg:id":1091356
     },
     "wof:country":"BD",
     "wof:created":1459009539,
@@ -69,7 +73,7 @@
         }
     ],
     "wof:id":421188265,
-    "wof:lastmodified":1505340699,
+    "wof:lastmodified":1566609382,
     "wof:name":"Gaffargaon",
     "wof:parent_id":421185469,
     "wof:placetype":"locality",

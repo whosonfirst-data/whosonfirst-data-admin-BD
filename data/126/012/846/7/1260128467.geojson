@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.75232,23.49581,90.79232,23.53581",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Bakisatpara",
         "Bekis\u0101tp\u0101ra"
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1260128467,
-    "wof:lastmodified":1537586149,
+    "wof:lastmodified":1566608462,
     "wof:name":"Bekisatpara",
     "wof:parent_id":421187801,
     "wof:placetype":"locality",

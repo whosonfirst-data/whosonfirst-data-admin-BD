@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.30119,25.79472,88.34119,25.83472",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Sengaon"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1277104803,
-    "wof:lastmodified":1564155408,
+    "wof:lastmodified":1566607677,
     "wof:name":"Sengaon",
     "wof:parent_id":1108694703,
     "wof:placetype":"locality",

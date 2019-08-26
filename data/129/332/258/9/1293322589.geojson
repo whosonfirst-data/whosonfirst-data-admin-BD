@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.67295,24.91062,90.71295,24.95062",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Noop\u0101ra",
         "Naop\u0101ra"
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1293322589,
-    "wof:lastmodified":1537585851,
+    "wof:lastmodified":1566606941,
     "wof:name":"Noopara",
     "wof:parent_id":421200811,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.10979,21.93451,90.14979,21.97451",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Shekare Para"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1293423049,
-    "wof:lastmodified":1537586373,
+    "wof:lastmodified":1566606989,
     "wof:name":"Shekare Para",
     "wof:parent_id":421176043,
     "wof:placetype":"locality",

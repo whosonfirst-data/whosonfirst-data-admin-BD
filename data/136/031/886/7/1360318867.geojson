@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.79907,23.64278,88.83907,23.68278",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Monirampur"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1360318867,
-    "wof:lastmodified":1537586572,
+    "wof:lastmodified":1566609064,
     "wof:name":"Monirampur",
     "wof:parent_id":421194153,
     "wof:placetype":"locality",

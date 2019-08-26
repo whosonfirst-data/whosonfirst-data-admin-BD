@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.26784,22.22387,90.30784,22.26387",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "B\u0101z\u0101rghona"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1242707673,
-    "wof:lastmodified":1537586394,
+    "wof:lastmodified":1566609730,
     "wof:name":"Bazarghona",
     "wof:parent_id":421176043,
     "wof:placetype":"locality",

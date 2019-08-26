@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.21824,23.11201,89.25824,23.15201",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "K\u0101zipur"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1226576417,
-    "wof:lastmodified":1537585935,
+    "wof:lastmodified":1566610473,
     "wof:name":"Kazipur",
     "wof:parent_id":421176039,
     "wof:placetype":"locality",

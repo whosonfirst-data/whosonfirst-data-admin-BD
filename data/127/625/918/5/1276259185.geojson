@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.77336,26.03883,88.81336,26.07883",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "J\u0101mirb\u0101ri"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1276259185,
-    "wof:lastmodified":1537586302,
+    "wof:lastmodified":1566607342,
     "wof:name":"Jamirbari",
     "wof:parent_id":1108694695,
     "wof:placetype":"locality",

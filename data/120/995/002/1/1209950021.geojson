@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.90149,25.20422,89.94149,25.24422",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "K\u00fcr"
     ],
@@ -96,7 +100,7 @@
         }
     ],
     "wof:id":1209950021,
-    "wof:lastmodified":1564155903,
+    "wof:lastmodified":1566608005,
     "wof:name":"Kura",
     "wof:parent_id":421190979,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.26157,22.42891,89.30157,22.46891",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Shola H\u0101lia"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1326760503,
-    "wof:lastmodified":1537585752,
+    "wof:lastmodified":1566606116,
     "wof:name":"Shola Halia",
     "wof:parent_id":421185473,
     "wof:placetype":"locality",

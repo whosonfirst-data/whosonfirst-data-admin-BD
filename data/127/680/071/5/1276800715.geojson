@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.32784,23.69888,90.36784,23.73888",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Bara Sik\u0101ritola",
         "Bara Shik\u0101ritola"
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1276800715,
-    "wof:lastmodified":1537586158,
+    "wof:lastmodified":1566607106,
     "wof:name":"Bara Shikaritola",
     "wof:parent_id":421187803,
     "wof:placetype":"locality",

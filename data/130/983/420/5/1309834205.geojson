@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.36377,22.45966,90.40377,22.49966",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Jh\u0101tra"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1309834205,
-    "wof:lastmodified":1537585970,
+    "wof:lastmodified":1566609248,
     "wof:name":"Jhatra",
     "wof:parent_id":421169845,
     "wof:placetype":"locality",

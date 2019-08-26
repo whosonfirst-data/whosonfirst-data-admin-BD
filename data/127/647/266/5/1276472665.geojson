@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.82156,25.44684,89.86156,25.48684",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Alga Char"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1276472665,
-    "wof:lastmodified":1537586818,
+    "wof:lastmodified":1566607358,
     "wof:name":"Alga Char",
     "wof:parent_id":1108694685,
     "wof:placetype":"locality",

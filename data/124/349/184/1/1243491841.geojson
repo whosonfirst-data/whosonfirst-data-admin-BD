@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.93077,25.78451,88.97077,25.82451",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "F\u0101zilpur"
     ],
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1243491841,
-    "wof:lastmodified":1564158543,
+    "wof:lastmodified":1566609650,
     "wof:name":"Fazilpur",
     "wof:parent_id":1108694695,
     "wof:placetype":"locality",

@@ -26,14 +26,17 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.49333,23.54167,89.53333,23.58167",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Duman"
     ],
     "name:und_x_variant":[
-        "Dumain",
-        "Duman"
+        "Dumain"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":1276478031,
-    "wof:lastmodified":1564154998,
+    "wof:lastmodified":1566607360,
     "wof:name":"Duman",
     "wof:parent_id":421198063,
     "wof:placetype":"locality",

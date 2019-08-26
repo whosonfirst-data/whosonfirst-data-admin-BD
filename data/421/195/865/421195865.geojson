@@ -10,8 +10,12 @@
     "geom:latitude":23.17097,
     "geom:longitude":90.20935,
     "iso:country":"BD",
+    "lbl:bbox":"90.18935,23.15097,90.22935,23.19097",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":8.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":"BD",
     "qs:gn_fcode":"PPL",
@@ -43,7 +47,7 @@
     "wof:concordances":{
         "gn:id":1337245,
         "gp:id":1915136,
-        "qs:id":132717
+        "qs_pg:id":132717
     },
     "wof:country":"BD",
     "wof:created":1459009862,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":421195865,
-    "wof:lastmodified":1505340745,
+    "wof:lastmodified":1566609368,
     "wof:name":"Madaripur",
     "wof:parent_id":421183929,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"92.35828,23.04901,92.39828,23.08901",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Bh\u0101d\u012bp\u0101ra"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1309844173,
-    "wof:lastmodified":1537586362,
+    "wof:lastmodified":1566609265,
     "wof:name":"Bhadipara",
     "wof:parent_id":421188983,
     "wof:placetype":"locality",

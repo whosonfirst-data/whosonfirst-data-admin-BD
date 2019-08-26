@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.12969,25.53053,89.16969,25.57053",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "H\u0101sia"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1310238223,
-    "wof:lastmodified":1537585996,
+    "wof:lastmodified":1566608721,
     "wof:name":"Hasia",
     "wof:parent_id":1108694701,
     "wof:placetype":"locality",

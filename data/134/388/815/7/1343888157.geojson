@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.38694,24.44518,88.42694,24.48518",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Mur\u0101ripur"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1343888157,
-    "wof:lastmodified":1537585859,
+    "wof:lastmodified":1566606656,
     "wof:name":"Muraripur",
     "wof:parent_id":421172439,
     "wof:placetype":"locality",

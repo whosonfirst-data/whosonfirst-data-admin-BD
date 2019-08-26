@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.70389,22.46045,90.74389,22.50045",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Kutba"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1293619177,
-    "wof:lastmodified":1537585907,
+    "wof:lastmodified":1566606886,
     "wof:name":"Kutba",
     "wof:parent_id":421184491,
     "wof:placetype":"locality",

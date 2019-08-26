@@ -11,10 +11,14 @@
     "geom:longitude":90.06273,
     "gn:country":"BD",
     "gn:fcode":"PPL",
-    "gn:pop":30219,
+    "gn:population":30219,
     "iso:country":"BD",
+    "lbl:bbox":"90.04273,22.46898,90.08273,22.50898",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ben_x_preferred":[
         "Bh\u0101nd\u0101ria"
     ],
@@ -45,7 +49,7 @@
     "wof:concordances":{
         "gn:id":1477498,
         "gp:id":1915110,
-        "qs:id":132753,
+        "qs_pg:id":132753,
         "wd:id":"Q4900976"
     },
     "wof:country":"BD",
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":890433735,
-    "wof:lastmodified":1563584417,
+    "wof:lastmodified":1566609404,
     "wof:name":"Bh\u0101nd\u0101ria",
     "wof:parent_id":421172031,
     "wof:placetype":"locality",

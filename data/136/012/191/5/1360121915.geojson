@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.31252,25.061,89.35252,25.101",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Mukharj\u0101n"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1360121915,
-    "wof:lastmodified":1537586743,
+    "wof:lastmodified":1566609037,
     "wof:name":"Mukharjan",
     "wof:parent_id":421187793,
     "wof:placetype":"locality",

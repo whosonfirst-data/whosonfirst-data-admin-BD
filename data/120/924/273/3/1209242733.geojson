@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.21624,23.89054,89.25624,23.93054",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "M\u0101jgram"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1209242733,
-    "wof:lastmodified":1537585886,
+    "wof:lastmodified":1566607867,
     "wof:name":"Majgram",
     "wof:parent_id":85632475,
     "wof:placetype":"locality",

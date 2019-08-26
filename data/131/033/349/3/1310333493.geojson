@@ -26,18 +26,18 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.78383,25.50595,89.82383,25.54595",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Char Jadu"
     ],
     "name:ben_x_variant":[
         "J\u0101dur Char",
         "Jadurchar"
-    ],
-    "name:und_x_variant":[
-        "Jadurchar",
-        "Char Jadu"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -62,7 +62,7 @@
         }
     ],
     "wof:id":1310333493,
-    "wof:lastmodified":1537586101,
+    "wof:lastmodified":1566609005,
     "wof:name":"Char Jadu",
     "wof:parent_id":1108694685,
     "wof:placetype":"locality",

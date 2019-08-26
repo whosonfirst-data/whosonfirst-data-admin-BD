@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.46383,24.57646,89.50383,24.61646",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Chomar Pathalia",
         "Ch\u0101mor P\u0101th\u0101lia"
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1276585715,
-    "wof:lastmodified":1537586111,
+    "wof:lastmodified":1566607243,
     "wof:name":"Chamor Pathalia",
     "wof:parent_id":421187793,
     "wof:placetype":"locality",

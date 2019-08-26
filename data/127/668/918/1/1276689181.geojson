@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.3813,22.97905,90.4213,23.01905",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Char Sologhar",
         "Char Shola Ghar",
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1276689181,
-    "wof:lastmodified":1537586094,
+    "wof:lastmodified":1566607296,
     "wof:name":"Char Sholaghar",
     "wof:parent_id":421187745,
     "wof:placetype":"locality",

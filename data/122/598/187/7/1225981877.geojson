@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.22211,24.68795,88.26211,24.72795",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Po\u0101dang\u0101"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1225981877,
-    "wof:lastmodified":1537586503,
+    "wof:lastmodified":1566610589,
     "wof:name":"Poadanga",
     "wof:parent_id":421191607,
     "wof:placetype":"locality",

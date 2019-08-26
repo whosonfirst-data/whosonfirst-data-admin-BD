@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.95601,24.81868,88.99601,24.85868",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Ant\u0101h\u0101r"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1310143099,
-    "wof:lastmodified":1537586539,
+    "wof:lastmodified":1566608765,
     "wof:name":"Antahar",
     "wof:parent_id":421191663,
     "wof:placetype":"locality",

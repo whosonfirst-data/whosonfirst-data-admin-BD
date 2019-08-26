@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.81448,22.36522,90.85448,22.40522",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Keyamulla"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1276478405,
-    "wof:lastmodified":1537586393,
+    "wof:lastmodified":1566607371,
     "wof:name":"Keyamulla",
     "wof:parent_id":421184491,
     "wof:placetype":"locality",

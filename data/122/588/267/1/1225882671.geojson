@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"92.11214,22.50812,92.15214,22.54812",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Dalunia"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1225882671,
-    "wof:lastmodified":1537586233,
+    "wof:lastmodified":1566610489,
     "wof:name":"Dalunia",
     "wof:parent_id":421188983,
     "wof:placetype":"locality",

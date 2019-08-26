@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.39807,25.66499,88.43807,25.70499",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Indr\u0101il"
     ],
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1209344371,
-    "wof:lastmodified":1537585985,
+    "wof:lastmodified":1566608125,
     "wof:name":"Indrail",
     "wof:parent_id":85632475,
     "wof:placetype":"locality",

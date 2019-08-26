@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.18941,23.36074,89.22941,23.40074",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Mirk\u0101d\u0101nga"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1243583967,
-    "wof:lastmodified":1537586708,
+    "wof:lastmodified":1566609682,
     "wof:name":"Mirkadanga",
     "wof:parent_id":1108694679,
     "wof:placetype":"locality",

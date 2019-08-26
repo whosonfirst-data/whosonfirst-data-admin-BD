@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"92.48453,22.60187,92.52453,22.64187",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Ramukyachari"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1360033761,
-    "wof:lastmodified":1537586358,
+    "wof:lastmodified":1566609198,
     "wof:name":"Ramukyachari",
     "wof:parent_id":421188983,
     "wof:placetype":"locality",

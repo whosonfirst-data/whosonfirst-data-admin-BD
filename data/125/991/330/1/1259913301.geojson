@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.51045,24.98806,88.55045,25.02806",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "B\u0101rinda"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1259913301,
-    "wof:lastmodified":1537586673,
+    "wof:lastmodified":1566609942,
     "wof:name":"Barinda",
     "wof:parent_id":421191663,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.28548,23.16296,89.32548,23.20296",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Dar\u0101jh\u0101t"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1326760527,
-    "wof:lastmodified":1537586067,
+    "wof:lastmodified":1566606101,
     "wof:name":"Darajhat",
     "wof:parent_id":421176039,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.44355,24.99119,88.48355,25.03119",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Chaihati"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1292939373,
-    "wof:lastmodified":1537586658,
+    "wof:lastmodified":1566606745,
     "wof:name":"Chaihati",
     "wof:parent_id":421191663,
     "wof:placetype":"locality",

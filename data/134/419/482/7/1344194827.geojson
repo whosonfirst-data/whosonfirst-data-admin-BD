@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.06498,22.93095,90.10498,22.97095",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ch\u0101nd Trisira"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1344194827,
-    "wof:lastmodified":1537586107,
+    "wof:lastmodified":1566606553,
     "wof:name":"Chand Trisira",
     "wof:parent_id":421187745,
     "wof:placetype":"locality",

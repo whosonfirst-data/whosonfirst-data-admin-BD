@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.65499,24.93926,88.69499,24.97926",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Son\u0101kuri"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1259613295,
-    "wof:lastmodified":1537586517,
+    "wof:lastmodified":1566610138,
     "wof:name":"Sonakuri",
     "wof:parent_id":421191663,
     "wof:placetype":"locality",

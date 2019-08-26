@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"91.96937,22.96762,92.00937,23.00762",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Manchandr\u0101p\u0101ra"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1326768721,
-    "wof:lastmodified":1537586371,
+    "wof:lastmodified":1566606096,
     "wof:name":"Manchandrapara",
     "wof:parent_id":1108694683,
     "wof:placetype":"locality",

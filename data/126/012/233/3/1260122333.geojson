@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.77149,23.08849,90.81149,23.12849",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Bhatertrad",
         "Bh\u0101ter Hrad"
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1260122333,
-    "wof:lastmodified":1537586141,
+    "wof:lastmodified":1566608461,
     "wof:name":"Bhater Hrad",
     "wof:parent_id":1108694669,
     "wof:placetype":"locality",

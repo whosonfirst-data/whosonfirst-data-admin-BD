@@ -27,8 +27,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.66333,25.08,89.70333,25.12",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Sindurtala",
         "Sindurtali"
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1226475807,
-    "wof:lastmodified":1537585746,
+    "wof:lastmodified":1566610621,
     "wof:name":"Sindurtali",
     "wof:parent_id":421191923,
     "wof:placetype":"locality",

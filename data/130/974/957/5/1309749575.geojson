@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.87039,24.30135,90.91039,24.34135",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "K\u0101ona M\u0101mudpur"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1309749575,
-    "wof:lastmodified":1537585946,
+    "wof:lastmodified":1566609341,
     "wof:name":"Kona Mamudpur",
     "wof:parent_id":421170483,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.00465,22.73284,89.04465,22.77284",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u09aa\u09c1\u09b0\u09c1\u09b7\u09cb\u09a4\u09cd\u09a4\u09ae\u09aa\u09c1\u09b0"
     ],
@@ -53,8 +57,7 @@
         "Purusottampur"
     ],
     "name:und_x_variant":[
-        "Purushottampur",
-        "Purusottampur"
+        "Purushottampur"
     ],
     "name:vie_x_preferred":[
         "Purusottampur"
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":1209950009,
-    "wof:lastmodified":1564155885,
+    "wof:lastmodified":1566607993,
     "wof:name":"Purusottampur",
     "wof:parent_id":421201927,
     "wof:placetype":"locality",

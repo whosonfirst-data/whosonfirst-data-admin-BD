@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.77521,25.32022,89.81521,25.36022",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Uttar Mo\u0101m\u0101ri"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1326958265,
-    "wof:lastmodified":1537586818,
+    "wof:lastmodified":1566606035,
     "wof:name":"Uttar Moamari",
     "wof:parent_id":421191923,
     "wof:placetype":"locality",

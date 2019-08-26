@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.96089,23.86654,90.00089,23.90654",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1277114095,
-    "wof:lastmodified":1536722700,
+    "wof:lastmodified":1566607694,
     "wof:name":"Pitlai",
     "wof:parent_id":421191745,
     "wof:placetype":"locality",

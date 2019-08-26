@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.42375,26.32375,88.46375,26.36375",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Munn\u0101p\u0101ra"
     ],
@@ -64,7 +68,7 @@
         }
     ],
     "wof:id":1243587397,
-    "wof:lastmodified":1537586625,
+    "wof:lastmodified":1566609682,
     "wof:name":"Munnapara",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

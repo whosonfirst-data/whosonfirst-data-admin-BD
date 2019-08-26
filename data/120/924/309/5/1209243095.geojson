@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.70845,23.79088,89.74845,23.83088",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Kolia Bhango"
     ],
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1209243095,
-    "wof:lastmodified":1537586438,
+    "wof:lastmodified":1566607861,
     "wof:name":"Kolia Bhango",
     "wof:parent_id":85632475,
     "wof:placetype":"locality",

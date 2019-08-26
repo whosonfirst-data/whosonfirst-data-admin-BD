@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.18438,23.84382,90.22438,23.88382",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Palli"
     ],
@@ -66,7 +70,7 @@
         }
     ],
     "wof:id":1327060013,
-    "wof:lastmodified":1564151885,
+    "wof:lastmodified":1566605860,
     "wof:name":"Palli",
     "wof:parent_id":421187803,
     "wof:placetype":"locality",

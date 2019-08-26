@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.71139,25.8357,89.75139,25.8757",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "R\u0101uita"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1360315489,
-    "wof:lastmodified":1537586796,
+    "wof:lastmodified":1566609091,
     "wof:name":"Rauita",
     "wof:parent_id":1108694685,
     "wof:placetype":"locality",

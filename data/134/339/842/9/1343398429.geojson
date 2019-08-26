@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.61335,23.6653,90.65335,23.7053",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1343398429,
-    "wof:lastmodified":1536834599,
+    "wof:lastmodified":1566606300,
     "wof:name":"Naypara",
     "wof:parent_id":421197045,
     "wof:placetype":"locality",

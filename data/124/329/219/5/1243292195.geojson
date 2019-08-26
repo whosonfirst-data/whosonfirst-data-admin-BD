@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.96878,22.81423,89.00878,22.85423",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Baliad\u0101nga"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1243292195,
-    "wof:lastmodified":1537586593,
+    "wof:lastmodified":1566609876,
     "wof:name":"Baliadanga",
     "wof:parent_id":421201927,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.80926,23.24366,89.84926,23.28366",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Govindapur",
         "Gobindapur"
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1293916727,
-    "wof:lastmodified":1537586014,
+    "wof:lastmodified":1566606675,
     "wof:name":"Gobindapur",
     "wof:parent_id":421194867,
     "wof:placetype":"locality",

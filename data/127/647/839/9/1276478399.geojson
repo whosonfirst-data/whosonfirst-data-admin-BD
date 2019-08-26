@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.0006,25.46798,89.0406,25.50798",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Chamunda"
     ],
@@ -111,7 +115,7 @@
         }
     ],
     "wof:id":1276478399,
-    "wof:lastmodified":1564155039,
+    "wof:lastmodified":1566607379,
     "wof:name":"Chamunda",
     "wof:parent_id":1108694671,
     "wof:placetype":"locality",

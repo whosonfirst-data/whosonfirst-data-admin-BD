@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.71488,23.45143,90.75488,23.49143",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Sonakandi",
         "Son\u0101k\u0101nda"
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1293240867,
-    "wof:lastmodified":1537585741,
+    "wof:lastmodified":1566606781,
     "wof:name":"Sonakanda",
     "wof:parent_id":421187801,
     "wof:placetype":"locality",

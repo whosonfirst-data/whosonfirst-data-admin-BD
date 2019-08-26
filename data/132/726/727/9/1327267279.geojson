@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.48193,25.29289,89.52193,25.33289",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Bahadurpur"
     ],
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1327267279,
-    "wof:lastmodified":1564152657,
+    "wof:lastmodified":1566606202,
     "wof:name":"Bahadurpur",
     "wof:parent_id":1108694675,
     "wof:placetype":"locality",

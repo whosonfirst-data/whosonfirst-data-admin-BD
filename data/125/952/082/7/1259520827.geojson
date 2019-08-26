@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.98609,22.09794,90.02609,22.13794",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Madhya Kupdon"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1259520827,
-    "wof:lastmodified":1537586338,
+    "wof:lastmodified":1566610007,
     "wof:name":"Madhya Kupdon",
     "wof:parent_id":421176043,
     "wof:placetype":"locality",

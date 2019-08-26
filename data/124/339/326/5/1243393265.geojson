@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.68872,22.3557,90.72872,22.3957",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Titia"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1243393265,
-    "wof:lastmodified":1537586865,
+    "wof:lastmodified":1566609510,
     "wof:name":"Titia",
     "wof:parent_id":421184491,
     "wof:placetype":"locality",

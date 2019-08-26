@@ -20,6 +20,8 @@
     ],
     "lbl:latitude":24.045958,
     "lbl:longitude":90.032723,
+    "lbl:max_zoom":8.0,
+    "lbl:min_zoom":4.0,
     "mps:latitude":24.045958,
     "mps:longitude":90.032723,
     "mz:hierarchy_label":1,
@@ -878,10 +880,7 @@
     "name:ukr_x_variant":[
         "\u0411\u0430\u043d\u0491\u043b\u0430\u0434\u0435\u0448"
     ],
-    "name:und_x_preferred":[
-        "Bangladess"
-    ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "East Pakistan"
     ],
     "name:urd_x_preferred":[
@@ -1047,7 +1046,7 @@
         "naturalearth",
         "meso"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "statoids:dial":"880",
     "statoids:ds":"BD",
@@ -1091,7 +1090,7 @@
         "marc:id":"bg",
         "ne:adm0_a3":"BGD",
         "nyt:id":"18164362816332181141",
-        "qs:id":1314250,
+        "qs_pg:id":1314250,
         "uncrt:id":"BD",
         "wd:id":"Q902",
         "wk:page":"Bangladesh",
@@ -1113,7 +1112,7 @@
     "wof:lang_x_spoken":[
         "ben"
     ],
-    "wof:lastmodified":1565653345,
+    "wof:lastmodified":1566606662,
     "wof:name":"Bangladesh",
     "wof:parent_id":102191569,
     "wof:placetype":"country",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.46612,23.19274,89.50612,23.23274",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Saraspur"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1226479731,
-    "wof:lastmodified":1537586436,
+    "wof:lastmodified":1566610642,
     "wof:name":"Saraspur",
     "wof:parent_id":421205213,
     "wof:placetype":"locality",

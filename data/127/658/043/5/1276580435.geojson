@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.82985,24.19981,90.86985,24.23981",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1276580435,
-    "wof:lastmodified":1536945759,
+    "wof:lastmodified":1566607239,
     "wof:name":"Pirijpur",
     "wof:parent_id":421170483,
     "wof:placetype":"locality",

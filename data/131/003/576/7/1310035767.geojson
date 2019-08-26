@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.40311,24.81616,89.44311,24.85616",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Smasankandi-Dakshinpara",
         "Sas\u0101nk\u0101ndi Dakhinp\u0101ra"
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1310035767,
-    "wof:lastmodified":1537585763,
+    "wof:lastmodified":1566608956,
     "wof:name":"Sasankandi Dakhinpara",
     "wof:parent_id":421187793,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.99619,23.81423,89.03619,23.85423",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Anandanagar"
     ],
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1226073083,
-    "wof:lastmodified":1564160177,
+    "wof:lastmodified":1566610764,
     "wof:name":"Anandanagar",
     "wof:parent_id":890438075,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.79991,23.4629,90.83991,23.5029",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Dorazkhola",
         "Dar\u0101zkhola"
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1293427955,
-    "wof:lastmodified":1537586067,
+    "wof:lastmodified":1566606992,
     "wof:name":"Darazkhola",
     "wof:parent_id":421187801,
     "wof:placetype":"locality",

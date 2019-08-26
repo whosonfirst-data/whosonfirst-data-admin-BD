@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.58118,22.36882,90.62118,22.40882",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "K\u0101l\u0101iya"
     ],
@@ -96,7 +100,7 @@
         }
     ],
     "wof:id":1310438641,
-    "wof:lastmodified":1564157368,
+    "wof:lastmodified":1566608921,
     "wof:name":"Kalaiya",
     "wof:parent_id":421169845,
     "wof:placetype":"locality",

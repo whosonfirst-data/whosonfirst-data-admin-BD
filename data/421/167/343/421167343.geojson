@@ -10,8 +10,12 @@
     "geom:latitude":22.68759,
     "geom:longitude":90.64403,
     "iso:country":"BD",
+    "lbl:bbox":"90.62403,22.66759,90.66403,22.70759",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":8.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ben_x_preferred":[
         "\u09ad\u09cb\u09b2\u09be \u099c\u09c7\u09b2\u09be"
@@ -116,7 +120,7 @@
     "wof:concordances":{
         "gn:id":1336136,
         "gp:id":1915008,
-        "qs:id":132715,
+        "qs_pg:id":132715,
         "wd:id":"Q855042"
     },
     "wof:country":"BD",
@@ -132,7 +136,7 @@
         }
     ],
     "wof:id":421167343,
-    "wof:lastmodified":1563584354,
+    "wof:lastmodified":1566609371,
     "wof:name":"Bhola",
     "wof:parent_id":421184491,
     "wof:placetype":"locality",

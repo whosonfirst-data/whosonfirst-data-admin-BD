@@ -10,6 +10,9 @@
     "geom:latitude":23.61352,
     "geom:longitude":90.50298,
     "iso:country":"BD",
+    "lbl:bbox":"90.48298,23.59352,90.52298,23.63352",
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
@@ -113,7 +116,7 @@
     "name:tur_x_preferred":[
         "Narayanganj"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Narajanganj"
     ],
     "name:urd_x_preferred":[
@@ -253,7 +256,7 @@
     "wof:concordances":{
         "gn:id":1185155,
         "gp:id":1915168,
-        "qs:id":493063,
+        "qs_pg:id":493063,
         "wd:id":"Q1990163",
         "wk:page":"Narayanganj"
     },
@@ -270,7 +273,7 @@
         }
     ],
     "wof:id":421181475,
-    "wof:lastmodified":1563584380,
+    "wof:lastmodified":1566609385,
     "wof:name":"Narayanganj",
     "wof:parent_id":421197045,
     "wof:placetype":"locality",

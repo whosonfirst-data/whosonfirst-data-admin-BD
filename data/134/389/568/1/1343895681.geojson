@@ -26,15 +26,16 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.62374,25.43813,89.66374,25.47813",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Bhati Kapasia"
     ],
     "name:ben_x_variant":[
-        "Kap\u0101sia"
-    ],
-    "name:und_x_variant":[
         "Kap\u0101sia"
     ],
     "src:geom":"geonames",
@@ -60,7 +61,7 @@
         }
     ],
     "wof:id":1343895681,
-    "wof:lastmodified":1537585946,
+    "wof:lastmodified":1566606629,
     "wof:name":"Bhati Kapasia",
     "wof:parent_id":1108694675,
     "wof:placetype":"locality",

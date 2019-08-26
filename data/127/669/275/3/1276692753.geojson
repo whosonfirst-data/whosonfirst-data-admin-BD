@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.37616,23.13577,89.41616,23.17577",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Ghoran\u0101ch"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1276692753,
-    "wof:lastmodified":1537586434,
+    "wof:lastmodified":1566607169,
     "wof:name":"Ghoranach",
     "wof:parent_id":421176039,
     "wof:placetype":"locality",

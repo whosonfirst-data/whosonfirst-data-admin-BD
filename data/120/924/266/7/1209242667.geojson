@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.46045,24.79358,88.50045,24.83358",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "J\u0101murhat"
     ],
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1209242667,
-    "wof:lastmodified":1537586697,
+    "wof:lastmodified":1566607875,
     "wof:name":"Jamurhat",
     "wof:parent_id":85632475,
     "wof:placetype":"locality",

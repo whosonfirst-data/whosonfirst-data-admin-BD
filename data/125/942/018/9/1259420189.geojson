@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.48405,25.86715,89.52405,25.90715",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Chh\u0101t Haran\u0101r\u0101yan"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1259420189,
-    "wof:lastmodified":1537586800,
+    "wof:lastmodified":1566610195,
     "wof:name":"Chhat Haranarayan",
     "wof:parent_id":1108694687,
     "wof:placetype":"locality",

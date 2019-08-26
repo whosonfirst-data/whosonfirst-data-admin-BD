@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.68698,24.60576,88.72698,24.64576",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Khujipur"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1209845667,
-    "wof:lastmodified":1537585995,
+    "wof:lastmodified":1566607816,
     "wof:name":"Khujipur",
     "wof:parent_id":421172439,
     "wof:placetype":"locality",

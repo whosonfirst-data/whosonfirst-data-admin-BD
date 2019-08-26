@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.20458,25.80159,88.24458,25.84159",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Tengaria"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1343494459,
-    "wof:lastmodified":1537585716,
+    "wof:lastmodified":1566606470,
     "wof:name":"Tengaria",
     "wof:parent_id":1108694703,
     "wof:placetype":"locality",

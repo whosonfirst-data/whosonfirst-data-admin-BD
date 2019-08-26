@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.87133,23.85809,90.91133,23.89809",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "S\u0101mi\u0101b\u0101d Char",
         "Samib\u0101d Char"
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1226576353,
-    "wof:lastmodified":1537585769,
+    "wof:lastmodified":1566610458,
     "wof:name":"Samiabad Char",
     "wof:parent_id":421169707,
     "wof:placetype":"locality",

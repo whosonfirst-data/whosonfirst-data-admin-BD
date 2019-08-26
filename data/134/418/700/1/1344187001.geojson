@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.07639,24.22269,89.11639,24.26269",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1344187001,
-    "wof:lastmodified":1536693339,
+    "wof:lastmodified":1566606578,
     "wof:name":"Dangapara",
     "wof:parent_id":421182115,
     "wof:placetype":"locality",

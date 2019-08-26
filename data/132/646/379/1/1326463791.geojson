@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.19501,25.81093,88.23501,25.85093",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Ch\u0101b\u0101sar"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1326463791,
-    "wof:lastmodified":1537586643,
+    "wof:lastmodified":1566606130,
     "wof:name":"Chabasar",
     "wof:parent_id":1108694703,
     "wof:placetype":"locality",

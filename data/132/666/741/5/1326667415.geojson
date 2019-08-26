@@ -26,16 +26,17 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.6918,25.9286,89.7318,25.9686",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Purba P\u0101yr\u0101danga"
     ],
     "name:ben_x_variant":[
         "Purba Payradanga",
-        "Purba P\u0101y\u0101d\u0101nga"
-    ],
-    "name:und_x_variant":[
         "Purba P\u0101y\u0101d\u0101nga"
     ],
     "src:geom":"geonames",
@@ -61,7 +62,7 @@
         }
     ],
     "wof:id":1326667415,
-    "wof:lastmodified":1537585801,
+    "wof:lastmodified":1566606017,
     "wof:name":"Purba Payradanga",
     "wof:parent_id":1108694685,
     "wof:placetype":"locality",

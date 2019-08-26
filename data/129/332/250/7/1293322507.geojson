@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.29345,24.61705,88.33345,24.65705",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Champatala"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1293322507,
-    "wof:lastmodified":1537586505,
+    "wof:lastmodified":1566606938,
     "wof:name":"Champatala",
     "wof:parent_id":421191607,
     "wof:placetype":"locality",

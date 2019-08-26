@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.05697,25.20868,90.09697,25.24868",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Kochpura"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1259813309,
-    "wof:lastmodified":1537586788,
+    "wof:lastmodified":1566610206,
     "wof:name":"Kochpura",
     "wof:parent_id":421190979,
     "wof:placetype":"locality",

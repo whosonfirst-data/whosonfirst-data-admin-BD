@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.88731,25.06113,88.92731,25.10113",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "B\u0101d\u0101l"
     ],
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1343591403,
-    "wof:lastmodified":1564153287,
+    "wof:lastmodified":1566606518,
     "wof:name":"Badal",
     "wof:parent_id":421191663,
     "wof:placetype":"locality",

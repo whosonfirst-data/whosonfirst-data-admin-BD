@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.74342,23.9578,88.78342,23.9978",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Naojitp\u0101ra"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1292933779,
-    "wof:lastmodified":1537586561,
+    "wof:lastmodified":1566606751,
     "wof:name":"Naojitpara",
     "wof:parent_id":890438075,
     "wof:placetype":"locality",

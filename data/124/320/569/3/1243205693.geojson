@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.31458,23.03743,89.35458,23.07743",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Arp\u0101ra"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1243205693,
-    "wof:lastmodified":1537586429,
+    "wof:lastmodified":1566609820,
     "wof:name":"Arpara",
     "wof:parent_id":421176039,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.15926,25.93002,88.19926,25.97002",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Sukhani"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1293622559,
-    "wof:lastmodified":1537586640,
+    "wof:lastmodified":1566606712,
     "wof:name":"Sukhani",
     "wof:parent_id":1108694703,
     "wof:placetype":"locality",

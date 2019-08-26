@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"92.20141,21.69038,92.24141,21.73038",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "L\u0101rup\u0101ra"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1259631807,
-    "wof:lastmodified":1537586239,
+    "wof:lastmodified":1566609989,
     "wof:name":"Larupara",
     "wof:parent_id":421169477,
     "wof:placetype":"locality",

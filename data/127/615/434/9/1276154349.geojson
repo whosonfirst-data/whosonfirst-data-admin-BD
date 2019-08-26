@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.35581,25.07628,89.39581,25.11628",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Kandarpur"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1276154349,
-    "wof:lastmodified":1537586746,
+    "wof:lastmodified":1566607424,
     "wof:name":"Kandarpur",
     "wof:parent_id":1108694675,
     "wof:placetype":"locality",

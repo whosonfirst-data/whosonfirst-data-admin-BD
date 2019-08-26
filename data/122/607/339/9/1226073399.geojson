@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.11921,25.78692,88.15921,25.82692",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Tinua"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1226073399,
-    "wof:lastmodified":1537586639,
+    "wof:lastmodified":1566610765,
     "wof:name":"Tinua",
     "wof:parent_id":1108694703,
     "wof:placetype":"locality",

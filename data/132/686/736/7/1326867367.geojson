@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.56049,26.3911,88.60049,26.4311",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Thukrip\u0101ra"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1326867367,
-    "wof:lastmodified":1537586284,
+    "wof:lastmodified":1566605925,
     "wof:name":"Thukripara",
     "wof:parent_id":1108694697,
     "wof:placetype":"locality",

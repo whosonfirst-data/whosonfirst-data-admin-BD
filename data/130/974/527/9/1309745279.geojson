@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.15156,23.85948,89.19156,23.89948",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Uttar Par S\u0101ota"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1309745279,
-    "wof:lastmodified":1537586598,
+    "wof:lastmodified":1566609337,
     "wof:name":"Uttar Par Saota",
     "wof:parent_id":890438075,
     "wof:placetype":"locality",

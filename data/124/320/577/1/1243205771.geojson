@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.05459,22.91821,90.09459,22.95821",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "B\u0101gdha"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1243205771,
-    "wof:lastmodified":1537586187,
+    "wof:lastmodified":1566609864,
     "wof:name":"Bagdha",
     "wof:parent_id":421187745,
     "wof:placetype":"locality",

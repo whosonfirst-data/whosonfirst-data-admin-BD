@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.02003,25.37245,89.06003,25.41245",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Paschim Baidahar"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1343598771,
-    "wof:lastmodified":1537586850,
+    "wof:lastmodified":1566606506,
     "wof:name":"Paschim Baidahar",
     "wof:parent_id":1108694671,
     "wof:placetype":"locality",

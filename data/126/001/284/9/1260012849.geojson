@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.60836,24.91938,88.64836,24.95938",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "Pungi"
     ],
@@ -111,7 +115,7 @@
         }
     ],
     "wof:id":1260012849,
-    "wof:lastmodified":1564156736,
+    "wof:lastmodified":1566608546,
     "wof:name":"Pungi",
     "wof:parent_id":421191663,
     "wof:placetype":"locality",

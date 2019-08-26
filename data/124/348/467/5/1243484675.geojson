@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.94252,25.51673,88.98252,25.55673",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "K\u0101lup\u0101ra"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1243484675,
-    "wof:lastmodified":1537586470,
+    "wof:lastmodified":1566609630,
     "wof:name":"Kalupara",
     "wof:parent_id":1108694671,
     "wof:placetype":"locality",

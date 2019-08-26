@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.95913,25.62322,88.99913,25.66322",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Dhobakol"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1310043145,
-    "wof:lastmodified":1537586468,
+    "wof:lastmodified":1566608969,
     "wof:name":"Dhobakol",
     "wof:parent_id":1108694671,
     "wof:placetype":"locality",

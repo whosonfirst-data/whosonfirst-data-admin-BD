@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.28049,24.8272,88.32049,24.8672",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Mamnagar"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1276904967,
-    "wof:lastmodified":1537586693,
+    "wof:lastmodified":1566607571,
     "wof:name":"Mamnagar",
     "wof:parent_id":421191607,
     "wof:placetype":"locality",

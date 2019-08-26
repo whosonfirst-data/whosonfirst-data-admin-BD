@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.95076,23.85908,90.99076,23.89908",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0639\u0644\u06cc\u200c\u0622\u0628\u0627\u062f"
     ],
@@ -81,7 +85,7 @@
         }
     ],
     "wof:id":1344105307,
-    "wof:lastmodified":1564153419,
+    "wof:lastmodified":1566606572,
     "wof:name":"Aliabad",
     "wof:parent_id":1108694667,
     "wof:placetype":"locality",

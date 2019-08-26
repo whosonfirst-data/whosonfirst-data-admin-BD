@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.79835,24.65846,88.83835,24.69846",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Abidp\u0101ra"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1293813953,
-    "wof:lastmodified":1537586212,
+    "wof:lastmodified":1566607014,
     "wof:name":"Abidpara",
     "wof:parent_id":421191663,
     "wof:placetype":"locality",

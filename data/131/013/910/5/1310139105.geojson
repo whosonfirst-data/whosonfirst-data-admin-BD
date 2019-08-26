@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.99262,23.11486,89.03262,23.15486",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Radhanagar"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1310139105,
-    "wof:lastmodified":1537585798,
+    "wof:lastmodified":1566608764,
     "wof:name":"Radhanagar",
     "wof:parent_id":421176039,
     "wof:placetype":"locality",

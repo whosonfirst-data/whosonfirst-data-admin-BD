@@ -27,14 +27,17 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"91.16333,23.43,91.20333,23.47",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ita_x_preferred":[
         "Asrafpur"
     ],
     "name:und_x_variant":[
-        "\u0100sr\u0101bpur",
-        "Asrafpur"
+        "\u0100sr\u0101bpur"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":1343699953,
-    "wof:lastmodified":1564153332,
+    "wof:lastmodified":1566606537,
     "wof:name":"Asrafpur",
     "wof:parent_id":421187801,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.01149,24.59186,90.05149,24.63186",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ita_x_preferred":[
         "Madhupur"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1226571285,
-    "wof:lastmodified":1564159750,
+    "wof:lastmodified":1566610466,
     "wof:name":"Madhupur",
     "wof:parent_id":421185471,
     "wof:placetype":"locality",

@@ -11,14 +11,18 @@
     "geom:longitude":89.13801,
     "gn:country":"BD",
     "gn:fcode":"PPL",
-    "gn:pop":45631,
+    "gn:population":45631,
     "iso:country":"BD",
+    "lbl:bbox":"89.11801,23.38964,89.15801,23.42964",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "name:ben_x_preferred":[
         "K\u0101l\u012bganj"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Aliganj"
     ],
     "qs:name":"K\u0101l\u012bganj",
@@ -36,7 +40,7 @@
     "wof:concordances":{
         "gn:id":1185199,
         "gp:id":1901634,
-        "qs:id":130903
+        "qs_pg:id":130903
     },
     "wof:country":"BD",
     "wof:created":1469051988,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":890433643,
-    "wof:lastmodified":1505343536,
+    "wof:lastmodified":1566609403,
     "wof:name":"K\u0101l\u012bganj",
     "wof:parent_id":1108694679,
     "wof:placetype":"locality",

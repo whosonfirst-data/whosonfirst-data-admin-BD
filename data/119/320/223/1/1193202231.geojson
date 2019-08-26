@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"91.96692,21.71351,92.00692,21.75351",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Dadighona"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1193202231,
-    "wof:lastmodified":1537586362,
+    "wof:lastmodified":1566608384,
     "wof:name":"Dadighona",
     "wof:parent_id":421205057,
     "wof:placetype":"locality",

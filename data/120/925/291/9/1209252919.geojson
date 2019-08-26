@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"91.91556,21.78796,91.95556,21.82796",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Matk\u0101bh\u0101nga"
     ],
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1209252919,
-    "wof:lastmodified":1537586249,
+    "wof:lastmodified":1566607929,
     "wof:name":"Matkabhanga",
     "wof:parent_id":85632475,
     "wof:placetype":"locality",

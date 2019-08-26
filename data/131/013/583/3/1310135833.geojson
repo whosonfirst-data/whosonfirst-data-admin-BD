@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.58975,24.52115,89.62975,24.56115",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "B\u0101gb\u0101ti",
         "B\u0101gb\u0101ri"
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1310135833,
-    "wof:lastmodified":1537586188,
+    "wof:lastmodified":1566608765,
     "wof:name":"Bagbati",
     "wof:parent_id":421201929,
     "wof:placetype":"locality",

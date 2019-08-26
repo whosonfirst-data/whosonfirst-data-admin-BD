@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.73876,24.51967,88.77876,24.55967",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Mahabbatpur"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1260217353,
-    "wof:lastmodified":1537585894,
+    "wof:lastmodified":1566608629,
     "wof:name":"Mahabbatpur",
     "wof:parent_id":421172439,
     "wof:placetype":"locality",

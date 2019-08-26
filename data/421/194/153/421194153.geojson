@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":23.605977,
     "lbl:longitude":88.846985,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"KHULNA",
     "meso:gadm_admin":"Choua Danga",
     "meso:gadm_hasc2":"BD.KH.CD",
@@ -31,6 +33,7 @@
     "mps:longitude":88.846985,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ben_x_preferred":[
         "\u099a\u09c1\u09af\u09bc\u09be\u09a1\u09be\u0999\u09cd\u0997\u09be \u099c\u09c7\u09b2\u09be"
@@ -125,9 +128,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-03-15",
+    "src:population_date":"2011-03-15",
     "statoids:area_km":"1,174",
     "statoids:as_of_date":"2011-03-15",
     "statoids:capital":"Chuadanga",
@@ -147,7 +150,7 @@
     "wof:concordances":{
         "gp:id":23706419,
         "hasc:id":"BD.KH.CD",
-        "qs:id":1026966,
+        "qs_pg:id":1026966,
         "wd:id":"Q2094570"
     },
     "wof:country":"BD",
@@ -162,7 +165,7 @@
         }
     ],
     "wof:id":421194153,
-    "wof:lastmodified":1563584349,
+    "wof:lastmodified":1566609369,
     "wof:name":"Chuadanga",
     "wof:parent_id":85669015,
     "wof:placetype":"county",

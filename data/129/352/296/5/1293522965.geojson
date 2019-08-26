@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.35487,25.65136,89.39487,25.69136",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Ch\u0101lni"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1293522965,
-    "wof:lastmodified":1537586726,
+    "wof:lastmodified":1566606731,
     "wof:name":"Chalni",
     "wof:parent_id":1108694701,
     "wof:placetype":"locality",

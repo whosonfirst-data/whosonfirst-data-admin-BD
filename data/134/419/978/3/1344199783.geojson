@@ -27,8 +27,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"91.13,23.63,91.17,23.67",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Mallikerdighi",
         "M\u0101likerdighi"
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1344199783,
-    "wof:lastmodified":1537585881,
+    "wof:lastmodified":1566606561,
     "wof:name":"Malikerdighi",
     "wof:parent_id":421187801,
     "wof:placetype":"locality",

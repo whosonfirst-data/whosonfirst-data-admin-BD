@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.87659,23.01237,90.91659,23.05237",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Maminpore",
         "Maminpur",
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1243301973,
-    "wof:lastmodified":1537585880,
+    "wof:lastmodified":1566609465,
     "wof:name":"Mominpur",
     "wof:parent_id":421177051,
     "wof:placetype":"locality",

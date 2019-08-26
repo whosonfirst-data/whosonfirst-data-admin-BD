@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.63139,25.17796,88.67139,25.21796",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Sitaim\u0101t"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1259913317,
-    "wof:lastmodified":1537586678,
+    "wof:lastmodified":1566609941,
     "wof:name":"Sitaimat",
     "wof:parent_id":421191663,
     "wof:placetype":"locality",

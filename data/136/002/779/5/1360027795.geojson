@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.63585,23.56283,90.67585,23.60283",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Sonarchar",
         "Son\u0101 Char"
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1360027795,
-    "wof:lastmodified":1537585742,
+    "wof:lastmodified":1566609215,
     "wof:name":"Sona Char",
     "wof:parent_id":421187801,
     "wof:placetype":"locality",

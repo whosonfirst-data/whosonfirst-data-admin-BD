@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.83896,25.13018,89.87896,25.17018",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1243587245,
-    "wof:lastmodified":1537096292,
+    "wof:lastmodified":1566609697,
     "wof:name":"Binoder Char",
     "wof:parent_id":421191923,
     "wof:placetype":"locality",

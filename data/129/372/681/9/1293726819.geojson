@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.21069,23.8044,89.25069,23.8444",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Chhatian Lakshmipur"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1293726819,
-    "wof:lastmodified":1537586088,
+    "wof:lastmodified":1566607027,
     "wof:name":"Chhatian Lakshmipur",
     "wof:parent_id":890438075,
     "wof:placetype":"locality",

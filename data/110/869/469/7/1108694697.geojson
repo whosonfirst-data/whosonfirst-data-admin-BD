@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":26.283094,
     "lbl:longitude":88.604623,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"RAJSHAHI",
     "meso:gadm_admin":"Panchagarh",
     "meso:gadm_hasc2":"BD.RP.PN",
@@ -31,6 +33,7 @@
     "mps:longitude":88.604623,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ben_x_preferred":[
         "\u09aa\u099e\u09cd\u099a\u0997\u09a1\u09bc \u099c\u09c7\u09b2\u09be"
     ],
@@ -111,9 +114,9 @@
         "\u73ed\u4e54\u6208\u5c14\u53bf"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-03-15",
+    "src:population_date":"2011-03-15",
     "statoids:area_km":"1,405",
     "statoids:as_of_date":"2011-03-15",
     "statoids:capital":"Panchagarh",
@@ -146,7 +149,7 @@
         }
     ],
     "wof:id":1108694697,
-    "wof:lastmodified":1563583265,
+    "wof:lastmodified":1566608675,
     "wof:name":"Panchagarh",
     "wof:parent_id":85669035,
     "wof:placetype":"county",

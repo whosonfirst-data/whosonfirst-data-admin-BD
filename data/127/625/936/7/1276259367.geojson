@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.91685,25.79229,88.95685,25.83229",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Dhop\u0101gh\u0101t"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1276259367,
-    "wof:lastmodified":1537586689,
+    "wof:lastmodified":1566607328,
     "wof:name":"Dhopaghat",
     "wof:parent_id":1108694695,
     "wof:placetype":"locality",

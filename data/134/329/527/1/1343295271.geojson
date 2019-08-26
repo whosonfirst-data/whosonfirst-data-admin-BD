@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.40559,24.85353,90.44559,24.89353",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Purbataldighi",
         "Purbba T\u0101ldighi",
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1343295271,
-    "wof:lastmodified":1537585800,
+    "wof:lastmodified":1566606605,
     "wof:name":"Purba Taldighi",
     "wof:parent_id":421185469,
     "wof:placetype":"locality",

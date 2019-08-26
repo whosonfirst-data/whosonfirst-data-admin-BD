@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.19408,25.12663,89.23408,25.16663",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "G\u014drail"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1226786675,
-    "wof:lastmodified":1537586730,
+    "wof:lastmodified":1566610658,
     "wof:name":"Gorail",
     "wof:parent_id":1108694681,
     "wof:placetype":"locality",

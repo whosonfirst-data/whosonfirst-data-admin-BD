@@ -10,10 +10,14 @@
     "geom:latitude":23.15509,
     "geom:longitude":89.49515,
     "iso:country":"BD",
+    "lbl:bbox":"89.47515,23.13509,89.51515,23.17509",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":8.0,
     "mz:note":"quattroshapes points import (201603)",
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Al\u0101d\u0101tpur"
     ],
     "qs:gn_country":"BD",
@@ -46,7 +50,7 @@
     "wof:concordances":{
         "gn:id":1185293,
         "gp:id":1907236,
-        "qs:id":130916
+        "qs_pg:id":130916
     },
     "wof:country":"BD",
     "wof:created":1459008726,
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":421167309,
-    "wof:lastmodified":1505340585,
+    "wof:lastmodified":1566609370,
     "wof:name":"Narail",
     "wof:parent_id":421205213,
     "wof:placetype":"locality",

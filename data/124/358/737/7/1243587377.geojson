@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.92229,23.49094,88.96229,23.53094",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Chu\u0101b"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1243587377,
-    "wof:lastmodified":1537586577,
+    "wof:lastmodified":1566609683,
     "wof:name":"Chuab",
     "wof:parent_id":421194153,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.23389,22.59314,89.27389,22.63314",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Banka"
     ],
@@ -74,8 +78,7 @@
         "\u0411\u0430\u043d\u043a\u0430"
     ],
     "name:und_x_variant":[
-        "B\u0101nka Bhaw\u0101nipur",
-        "Banka"
+        "B\u0101nka Bhaw\u0101nipur"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":1260012903,
-    "wof:lastmodified":1564156745,
+    "wof:lastmodified":1566608551,
     "wof:name":"Banka",
     "wof:parent_id":421185473,
     "wof:placetype":"locality",

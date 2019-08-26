@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.37298,22.66331,90.41298,22.70331",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Char \u0100icha"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1259613191,
-    "wof:lastmodified":1537586106,
+    "wof:lastmodified":1566610141,
     "wof:name":"Char Aicha",
     "wof:parent_id":421187745,
     "wof:placetype":"locality",

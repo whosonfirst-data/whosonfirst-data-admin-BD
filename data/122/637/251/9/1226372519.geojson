@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.79797,24.1191,88.83797,24.1591",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Chak R\u0101j\u0101pur"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1226372519,
-    "wof:lastmodified":1537585794,
+    "wof:lastmodified":1566610717,
     "wof:name":"Chak Rajapur",
     "wof:parent_id":421172439,
     "wof:placetype":"locality",

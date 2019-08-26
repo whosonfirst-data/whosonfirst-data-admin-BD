@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.14872,23.1843,89.18872,23.2243",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Kshitibdia"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1327164207,
-    "wof:lastmodified":1537585912,
+    "wof:lastmodified":1566606232,
     "wof:name":"Kshitibdia",
     "wof:parent_id":421176039,
     "wof:placetype":"locality",

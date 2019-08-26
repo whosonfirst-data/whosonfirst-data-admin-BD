@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.8869,23.26238,90.9269,23.30238",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Laokora",
         "L\u0101okara"
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1209965245,
-    "wof:lastmodified":1537585902,
+    "wof:lastmodified":1566607757,
     "wof:name":"Laokara",
     "wof:parent_id":1108694669,
     "wof:placetype":"locality",

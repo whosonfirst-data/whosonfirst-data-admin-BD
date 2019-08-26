@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.22568,21.98275,90.26568,22.02275",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Dakshin Ti\u0101kh\u0101li",
         "South Ti\u0101kh\u0101li"
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1343489453,
-    "wof:lastmodified":1537585732,
+    "wof:lastmodified":1566606443,
     "wof:name":"Dakshin Tiakhali",
     "wof:parent_id":421169845,
     "wof:placetype":"locality",

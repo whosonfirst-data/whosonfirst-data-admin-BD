@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.38776,26.06717,89.42776,26.10717",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Batrigach"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1293034445,
-    "wof:lastmodified":1537586153,
+    "wof:lastmodified":1566606918,
     "wof:name":"Batrigach",
     "wof:parent_id":1108696069,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.59447,24.8669,88.63447,24.9069",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Bhatpara"
     ],
@@ -138,7 +142,7 @@
         }
     ],
     "wof:id":1343398405,
-    "wof:lastmodified":1564152872,
+    "wof:lastmodified":1566606321,
     "wof:name":"Bhatpara",
     "wof:parent_id":421191663,
     "wof:placetype":"locality",

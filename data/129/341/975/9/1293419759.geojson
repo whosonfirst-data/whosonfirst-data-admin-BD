@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.32906,24.76644,88.36906,24.80644",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Pakharia Chandi"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1293419759,
-    "wof:lastmodified":1537586695,
+    "wof:lastmodified":1566606777,
     "wof:name":"Pakharia Chandi",
     "wof:parent_id":421191607,
     "wof:placetype":"locality",

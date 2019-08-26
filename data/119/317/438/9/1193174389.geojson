@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.9695,23.87499,90.0095,23.91499",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Joydebpatti",
         "Jaydebpatti"
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1193174389,
-    "wof:lastmodified":1537585973,
+    "wof:lastmodified":1566608428,
     "wof:name":"Jaydebpatti",
     "wof:parent_id":421191745,
     "wof:placetype":"locality",

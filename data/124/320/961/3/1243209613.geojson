@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.50479,26.44185,88.54479,26.48185",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Fakirp\u0101ra"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1243209613,
-    "wof:lastmodified":1537586275,
+    "wof:lastmodified":1566609843,
     "wof:name":"Fakirpara",
     "wof:parent_id":1108694697,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.08307,25.16991,90.12307,25.20991",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Barwa"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1293030797,
-    "wof:lastmodified":1564154187,
+    "wof:lastmodified":1566606899,
     "wof:name":"Barwa",
     "wof:parent_id":421190979,
     "wof:placetype":"locality",

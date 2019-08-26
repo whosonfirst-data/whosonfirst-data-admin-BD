@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.56902,22.69703,90.60902,22.73703",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632475
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":1209143273,
-    "wof:lastmodified":1536296435,
+    "wof:lastmodified":1566607978,
     "wof:name":"Pangasia",
     "wof:parent_id":85632475,
     "wof:placetype":"locality",

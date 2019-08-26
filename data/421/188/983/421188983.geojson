@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":22.758512,
     "lbl:longitude":92.240249,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"CHITTAGONG",
     "meso:gadm_admin":"Parbattya Chattagram",
     "meso:gadm_hasc2":"BD.CG.PC",
@@ -31,6 +33,7 @@
     "mps:longitude":92.240249,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ben_x_preferred":[
         "\u09b0\u09be\u0999\u09be\u09ae\u09be\u099f\u09bf \u099c\u09c7\u09b2\u09be"
@@ -159,9 +162,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-03-15",
+    "src:population_date":"2011-03-15",
     "statoids:area_km":"6,116",
     "statoids:as_of_date":"2011-03-15",
     "statoids:capital":"Parbattya Chattagram",
@@ -182,7 +185,7 @@
     "wof:concordances":{
         "gp:id":23706413,
         "hasc:id":"BD.CG.PC",
-        "qs:id":1190323,
+        "qs_pg:id":1190323,
         "wd:id":"Q2121686"
     },
     "wof:country":"BD",
@@ -197,7 +200,7 @@
         }
     ],
     "wof:id":421188983,
-    "wof:lastmodified":1563584371,
+    "wof:lastmodified":1566609381,
     "wof:name":"Rangamati",
     "wof:parent_id":85669023,
     "wof:placetype":"county",

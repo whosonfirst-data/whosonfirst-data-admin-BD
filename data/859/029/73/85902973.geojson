@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":69723123.674314,
+    "geom:area_square_m":0.0,
     "geom:bbox":"90.403004,23.744696,90.403004,23.744696",
     "geom:latitude":23.744696,
     "geom:longitude":90.403004,
     "gn:latitude":23.73333,
     "gn:longitude":90.4,
     "iso:country":"BD",
+    "lbl:bbox":"90.398004,23.739696,90.408004,23.749696",
     "lbl:latitude":23.744696,
     "lbl:longitude":90.403004,
+    "lbl:max_zoom":18.0,
     "mps:latitude":23.746829,
     "mps:longitude":90.413549,
     "mz:hierarchy_label":0,
@@ -31,10 +33,6 @@
     "name:eng_x_variant":[
         "Dacca Ramna",
         "Ramna"
-    ],
-    "name:unk_x_variant":[
-        "Dacca Ramna",
-        "Ramna Maidan"
     ],
     "qs:gn_adm0_cc":"BD",
     "qs:gn_fcode":"PPLX",
@@ -64,18 +62,18 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85669009,
         102191569,
         85632475,
-        421187803,
-        85669009
+        421187803
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1185240,
         "gp:id":1910433,
-        "qs:id":1083622
+        "qs_pg:id":1083622
     },
     "wof:country":"BD",
     "wof:geomhash":"ecd072dd3466489cc33e28da37b45057",
@@ -93,7 +91,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531935974,
+    "wof:lastmodified":1566606661,
     "wof:name":"Ramna Maidan",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

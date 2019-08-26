@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"91.84599,22.09529,91.88599,22.13529",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Premesia"
     ],
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1293921795,
-    "wof:lastmodified":1537586243,
+    "wof:lastmodified":1566606894,
     "wof:name":"Premesia",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

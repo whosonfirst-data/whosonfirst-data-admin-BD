@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.39834,25.70082,88.43834,25.74082",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Dakshin Madhabpur"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1293726747,
-    "wof:lastmodified":1537586655,
+    "wof:lastmodified":1566607029,
     "wof:name":"Dakshin Madhabpur",
     "wof:parent_id":1108694703,
     "wof:placetype":"locality",

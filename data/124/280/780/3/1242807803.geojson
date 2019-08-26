@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.15021,22.22125,89.19021,22.26125",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Kultali"
     ],
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1242807803,
-    "wof:lastmodified":1564158345,
+    "wof:lastmodified":1566609529,
     "wof:name":"Kultali",
     "wof:parent_id":421201927,
     "wof:placetype":"locality",

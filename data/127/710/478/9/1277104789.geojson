@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.4779,25.81313,88.5179,25.85313",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "K\u0101shipur"
     ],
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1277104789,
-    "wof:lastmodified":1564155377,
+    "wof:lastmodified":1566607662,
     "wof:name":"Kashipur",
     "wof:parent_id":1108694671,
     "wof:placetype":"locality",

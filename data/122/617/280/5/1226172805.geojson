@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.64947,24.7544,88.68947,24.7944",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Khurd Kochra"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1226172805,
-    "wof:lastmodified":1537585920,
+    "wof:lastmodified":1566610270,
     "wof:name":"Khurd Kochra",
     "wof:parent_id":421191663,
     "wof:placetype":"locality",

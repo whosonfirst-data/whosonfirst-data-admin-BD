@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.18078,25.49163,89.22078,25.53163",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Bagduar Gopinathpur"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1276482431,
-    "wof:lastmodified":1537586839,
+    "wof:lastmodified":1566607512,
     "wof:name":"Bagduar Gopinathpur",
     "wof:parent_id":1108694701,
     "wof:placetype":"locality",

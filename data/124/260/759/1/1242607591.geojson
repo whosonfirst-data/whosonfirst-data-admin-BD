@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.29745,23.86717,90.33745,23.90717",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Gauripur"
     ],
@@ -38,8 +42,7 @@
         "Gauripur"
     ],
     "name:und_x_variant":[
-        "Gouripur",
-        "Gauripur"
+        "Gouripur"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":1242607591,
-    "wof:lastmodified":1564158467,
+    "wof:lastmodified":1566609601,
     "wof:name":"Gauripur",
     "wof:parent_id":421187803,
     "wof:placetype":"locality",

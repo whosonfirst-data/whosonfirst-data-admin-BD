@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.46661,24.74794,88.50661,24.78794",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Pirpur"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1276370441,
-    "wof:lastmodified":1537585808,
+    "wof:lastmodified":1566607609,
     "wof:name":"Pirpur",
     "wof:parent_id":421191607,
     "wof:placetype":"locality",

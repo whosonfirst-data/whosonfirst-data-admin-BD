@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.58336,21.7039,89.62336,21.7439",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Dubla"
     ],
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1310435647,
-    "wof:lastmodified":1564157351,
+    "wof:lastmodified":1566608911,
     "wof:name":"Dubla",
     "wof:parent_id":421187747,
     "wof:placetype":"locality",
