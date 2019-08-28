@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.18176,24.74612,90.22176,24.78612",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1343494775,
-    "wof:lastmodified":1536696910,
+    "wof:lastmodified":1566606455,
     "wof:name":"Tegharia",
     "wof:parent_id":421185469,
     "wof:placetype":"locality",

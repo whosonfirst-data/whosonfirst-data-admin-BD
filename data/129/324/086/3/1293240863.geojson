@@ -27,8 +27,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"91.21333,23.38,91.25333,23.42",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Fultali",
         "Phultali"
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1293240863,
-    "wof:lastmodified":1537585809,
+    "wof:lastmodified":1566606781,
     "wof:name":"Phultali",
     "wof:parent_id":421187801,
     "wof:placetype":"locality",

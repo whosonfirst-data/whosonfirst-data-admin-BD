@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.94589,23.01376,88.98589,23.05376",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Matipukuria"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1293517743,
-    "wof:lastmodified":1537586588,
+    "wof:lastmodified":1566606968,
     "wof:name":"Matipukuria",
     "wof:parent_id":421176039,
     "wof:placetype":"locality",

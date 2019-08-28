@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.97635,25.33992,89.01635,25.37992",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Begumpur"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1209645463,
-    "wof:lastmodified":1537586478,
+    "wof:lastmodified":1566607797,
     "wof:name":"Begampur",
     "wof:parent_id":85632475,
     "wof:placetype":"locality",

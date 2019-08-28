@@ -11,11 +11,15 @@
     "geom:longitude":90.14251,
     "gn:country":"BD",
     "gn:fcode":"PPL",
-    "gn:pop":45543,
+    "gn:population":45543,
     "iso:country":"BD",
+    "lbl:bbox":"90.12251,23.57311,90.16251,23.61311",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":9.0,
+    "name:und_x_variant":[
         "Sut\u0101rpara"
     ],
     "qs:name":"Doh\u0101r",
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":1185100,
         "gp:id":1915035,
-        "qs:id":1030102
+        "qs_pg:id":1030102
     },
     "wof:country":"BD",
     "wof:created":1469052430,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890443599,
-    "wof:lastmodified":1505343594,
+    "wof:lastmodified":1566609403,
     "wof:name":"Doh\u0101r",
     "wof:parent_id":421187803,
     "wof:placetype":"locality",

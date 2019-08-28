@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.16382,23.18128,89.20382,23.22128",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Tola Nurpur"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1343591333,
-    "wof:lastmodified":1537585711,
+    "wof:lastmodified":1566606484,
     "wof:name":"Tola Nurpur",
     "wof:parent_id":421176039,
     "wof:placetype":"locality",

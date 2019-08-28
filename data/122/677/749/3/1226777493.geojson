@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.00303,22.26726,89.04303,22.30726",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Garakh\u0101li"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1226777493,
-    "wof:lastmodified":1537586026,
+    "wof:lastmodified":1566610683,
     "wof:name":"Garakhali",
     "wof:parent_id":421201927,
     "wof:placetype":"locality",

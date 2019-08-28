@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.93801,24.01737,88.97801,24.05737",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "R\u0101mchandrapur"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1277012359,
-    "wof:lastmodified":1537586552,
+    "wof:lastmodified":1566607053,
     "wof:name":"Ramchandrapur",
     "wof:parent_id":890438075,
     "wof:placetype":"locality",

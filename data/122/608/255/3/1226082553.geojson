@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.99391,25.16343,89.03391,25.20343",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Bara N\u0101r\u014dyanpur"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1226082553,
-    "wof:lastmodified":1537586715,
+    "wof:lastmodified":1566610756,
     "wof:name":"Bara Naroyanpur",
     "wof:parent_id":1108694681,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.69255,23.51546,90.73255,23.55546",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "No\u0101k\u0101ndi",
         "Daudk\u0101ndi"
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1310143893,
-    "wof:lastmodified":1537585688,
+    "wof:lastmodified":1566608775,
     "wof:name":"Daudkandi",
     "wof:parent_id":421187801,
     "wof:placetype":"locality",

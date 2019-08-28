@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.70022,23.74401,89.74022,23.78401",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "K\u0101chranda"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1243104785,
-    "wof:lastmodified":1537586439,
+    "wof:lastmodified":1566609908,
     "wof:name":"Kachranda",
     "wof:parent_id":1108694699,
     "wof:placetype":"locality",

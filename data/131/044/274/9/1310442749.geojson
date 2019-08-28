@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.81043,25.68883,89.85043,25.72883",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Gaij\u0101mari"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1310442749,
-    "wof:lastmodified":1537586828,
+    "wof:lastmodified":1566608883,
     "wof:name":"Gaijamari",
     "wof:parent_id":1108694685,
     "wof:placetype":"locality",

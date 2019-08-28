@@ -10,8 +10,12 @@
     "geom:latitude":23.97464,
     "geom:longitude":91.11228,
     "iso:country":"BD",
+    "lbl:bbox":"91.09228,23.95464,91.13228,23.99464",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0628\u0631\u0627\u0647\u0645\u0627\u0646\u0628\u0627\u0631\u064a\u0627"
@@ -115,7 +119,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u0440\u0430\u0445\u043c\u0430\u043d\u0431\u0430\u0440\u0456\u044f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Br\u0101hmanb\u0101ria"
     ],
     "name:urd_x_preferred":[
@@ -156,7 +160,7 @@
     "wof:concordances":{
         "gn:id":1336142,
         "gp:id":1892952,
-        "qs:id":1353272,
+        "qs_pg:id":1353272,
         "wd:id":"Q897320",
         "wk:page":"Brahmanbaria District"
     },
@@ -173,7 +177,7 @@
         }
     ],
     "wof:id":421177765,
-    "wof:lastmodified":1563584401,
+    "wof:lastmodified":1566609395,
     "wof:name":"Brahmanbaria",
     "wof:parent_id":1108694667,
     "wof:placetype":"locality",

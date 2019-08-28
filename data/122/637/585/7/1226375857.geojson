@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.45354,25.67025,89.49354,25.71025",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "B\u0101l\u0101t\u0101ri"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1226375857,
-    "wof:lastmodified":1537586718,
+    "wof:lastmodified":1566610743,
     "wof:name":"Balatari",
     "wof:parent_id":1108694701,
     "wof:placetype":"locality",

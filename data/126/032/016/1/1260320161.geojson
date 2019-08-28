@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.86734,24.71585,88.90734,24.75585",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Batuakh\u0101li"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1260320161,
-    "wof:lastmodified":1537586540,
+    "wof:lastmodified":1566608657,
     "wof:name":"Batuakhali",
     "wof:parent_id":421191663,
     "wof:placetype":"locality",

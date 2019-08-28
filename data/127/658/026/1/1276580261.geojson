@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.34434,23.70919,89.38434,23.74919",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Bajeapti Bagli",
         "B\u0101ze\u0101pti B\u0101gli"
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1276580261,
-    "wof:lastmodified":1537586151,
+    "wof:lastmodified":1566607240,
     "wof:name":"Bazeapti Bagli",
     "wof:parent_id":1108694699,
     "wof:placetype":"locality",

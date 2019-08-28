@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.12289,21.81757,90.16289,21.85757",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Kh\u0101njup\u0101ra"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1344187243,
-    "wof:lastmodified":1537586376,
+    "wof:lastmodified":1566606581,
     "wof:name":"Khanjupara",
     "wof:parent_id":421169845,
     "wof:placetype":"locality",

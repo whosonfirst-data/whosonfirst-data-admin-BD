@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.47359,23.54717,90.51359,23.58717",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:hif_x_preferred":[
         "Gopalnagar"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1309745335,
-    "wof:lastmodified":1564158036,
+    "wof:lastmodified":1566609321,
     "wof:name":"Gopalnagar",
     "wof:parent_id":421205059,
     "wof:placetype":"locality",

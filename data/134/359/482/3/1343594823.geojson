@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.90971,24.47666,90.94971,24.51666",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:por_x_preferred":[
         "Kajla"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1343594823,
-    "wof:lastmodified":1564153214,
+    "wof:lastmodified":1566606486,
     "wof:name":"Kajla",
     "wof:parent_id":421170483,
     "wof:placetype":"locality",

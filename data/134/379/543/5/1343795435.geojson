@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.88702,25.05416,88.92702,25.09416",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Bhat Gobordha"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1343795435,
-    "wof:lastmodified":1537586484,
+    "wof:lastmodified":1566606408,
     "wof:name":"Bhat Gobordha",
     "wof:parent_id":421191663,
     "wof:placetype":"locality",

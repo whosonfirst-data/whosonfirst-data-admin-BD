@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.88054,24.27313,88.92054,24.31313",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "R\u0101mp\u0101ra"
     ],
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1209344611,
-    "wof:lastmodified":1537585789,
+    "wof:lastmodified":1566608144,
     "wof:name":"Rampara",
     "wof:parent_id":85632475,
     "wof:placetype":"locality",

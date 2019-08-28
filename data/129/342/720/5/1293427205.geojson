@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.24407,22.47378,90.28407,22.51378",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Kuku\u0101kh\u0101li"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1293427205,
-    "wof:lastmodified":1537585912,
+    "wof:lastmodified":1566607000,
     "wof:name":"Kukuakhali",
     "wof:parent_id":421187745,
     "wof:placetype":"locality",

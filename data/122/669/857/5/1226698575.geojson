@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.86678,23.64269,90.90678,23.68269",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Shunaullah",
         "Son\u0101ulla"
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1226698575,
-    "wof:lastmodified":1537585740,
+    "wof:lastmodified":1566610367,
     "wof:name":"Sonaulla",
     "wof:parent_id":421187801,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.32165,23.59752,90.36165,23.63752",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632475
@@ -37,7 +41,7 @@
         "gn:id":1187943
     },
     "wof:country":"BD",
-    "wof:geomhash":"9647006f0c078e3c7e8bf3d4a4b99699",
+    "wof:geomhash":"d946a196a55867a837f02ee2dfdff9ed",
     "wof:hierarchy":[
         {
             "country_id":85632475,
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":1209445001,
-    "wof:lastmodified":1536286845,
+    "wof:lastmodified":1566608221,
     "wof:name":"Sikarpur",
     "wof:parent_id":85632475,
     "wof:placetype":"locality",
@@ -56,9 +60,9 @@
 },
   "bbox": [
     90.34165,
-    23.617520000000006,
+    23.61752000000001,
     90.34165,
-    23.617520000000006
+    23.61752000000001
 ],
   "geometry": {"coordinates":[90.34165,23.61752000000001],"type":"Point"}
 }

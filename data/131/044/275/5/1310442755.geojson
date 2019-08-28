@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.68615,25.10709,88.72615,25.14709",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Gun"
     ],
@@ -126,7 +130,7 @@
         }
     ],
     "wof:id":1310442755,
-    "wof:lastmodified":1564157310,
+    "wof:lastmodified":1566608885,
     "wof:name":"Gun",
     "wof:parent_id":421191663,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.52206,26.19991,88.56206,26.23991",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Lakshmidwar"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1276692911,
-    "wof:lastmodified":1537586289,
+    "wof:lastmodified":1566607194,
     "wof:name":"Lakshmidwar",
     "wof:parent_id":1108694697,
     "wof:placetype":"locality",

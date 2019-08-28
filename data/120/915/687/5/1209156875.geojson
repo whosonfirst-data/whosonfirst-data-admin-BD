@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"91.9661,21.76566,92.0061,21.80566",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Khonanali"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1209156875,
-    "wof:lastmodified":1537586250,
+    "wof:lastmodified":1566607853,
     "wof:name":"Khonanali",
     "wof:parent_id":85632475,
     "wof:placetype":"locality",

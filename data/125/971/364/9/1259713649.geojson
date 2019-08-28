@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.55373,25.05555,89.59373,25.09555",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Arazi B\u0101d\u012bn\u0101p\u0101ra"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1259713649,
-    "wof:lastmodified":1537586778,
+    "wof:lastmodified":1566610059,
     "wof:name":"Arazi Badinapara",
     "wof:parent_id":1108694675,
     "wof:placetype":"locality",

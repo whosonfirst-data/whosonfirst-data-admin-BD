@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.85195,23.6726,90.89195,23.7126",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Nagerchar North",
         "North N\u0101ger Char"
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1310638965,
-    "wof:lastmodified":1537585822,
+    "wof:lastmodified":1566608871,
     "wof:name":"North Nager Char",
     "wof:parent_id":421187801,
     "wof:placetype":"locality",

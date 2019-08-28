@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.10964,25.16886,89.14964,25.20886",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Dh\u0101k\u0101rp\u0101ra"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1260320021,
-    "wof:lastmodified":1537586724,
+    "wof:lastmodified":1566608662,
     "wof:name":"Dhakarpara",
     "wof:parent_id":1108694681,
     "wof:placetype":"locality",

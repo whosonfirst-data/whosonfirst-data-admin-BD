@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.13145,24.99096,89.17145,25.03096",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Gol\u014dh\u0101r"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1259420199,
-    "wof:lastmodified":1537586723,
+    "wof:lastmodified":1566610197,
     "wof:name":"Golohar",
     "wof:parent_id":1108694681,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.63038,25.15161,88.67038,25.19161",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "P\u0101ik Kanda"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1259416461,
-    "wof:lastmodified":1537586679,
+    "wof:lastmodified":1566610043,
     "wof:name":"Paik Kanda",
     "wof:parent_id":421191663,
     "wof:placetype":"locality",

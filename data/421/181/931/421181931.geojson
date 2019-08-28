@@ -10,8 +10,12 @@
     "geom:latitude":23.9028,
     "geom:longitude":89.11943,
     "iso:country":"BD",
+    "lbl:bbox":"89.09943,23.8828,89.13943,23.9228",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":7.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ben_x_preferred":[
         "Kushtia"
@@ -43,7 +47,7 @@
     "name:swe_x_preferred":[
         "Kushtia"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Khustia"
     ],
     "qs:gn_country":"BD",
@@ -77,7 +81,7 @@
     "wof:concordances":{
         "gn:id":1185191,
         "gp:id":29007451,
-        "qs:id":514864,
+        "qs_pg:id":514864,
         "wd:id":"Q1897952"
     },
     "wof:country":"BD",
@@ -93,7 +97,7 @@
         }
     ],
     "wof:id":421181931,
-    "wof:lastmodified":1563584376,
+    "wof:lastmodified":1566609384,
     "wof:name":"Kushtia",
     "wof:parent_id":890438075,
     "wof:placetype":"locality",

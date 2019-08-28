@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.94349,25.30005,88.98349,25.34005",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "D\u0101udpur"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1225978021,
-    "wof:lastmodified":1564159877,
+    "wof:lastmodified":1566610559,
     "wof:name":"Daudpur",
     "wof:parent_id":1108694671,
     "wof:placetype":"locality",

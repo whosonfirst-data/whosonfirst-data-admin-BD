@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.1763,25.63785,89.2163,25.67785",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Bhelu"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1326559849,
-    "wof:lastmodified":1537586837,
+    "wof:lastmodified":1566606151,
     "wof:name":"Bhelu",
     "wof:parent_id":1108694701,
     "wof:placetype":"locality",

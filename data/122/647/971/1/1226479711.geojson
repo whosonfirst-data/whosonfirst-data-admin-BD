@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.60741,25.13497,88.64741,25.17497",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Nirmal"
     ],
@@ -105,7 +109,7 @@
         }
     ],
     "wof:id":1226479711,
-    "wof:lastmodified":1564159966,
+    "wof:lastmodified":1566610619,
     "wof:name":"Nirmal",
     "wof:parent_id":421191663,
     "wof:placetype":"locality",

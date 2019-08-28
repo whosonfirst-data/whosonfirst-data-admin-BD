@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.09595,24.72709,88.13595,24.76709",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "H\u0101dmagar"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1310043085,
-    "wof:lastmodified":1537586496,
+    "wof:lastmodified":1566608966,
     "wof:name":"Hadmagar",
     "wof:parent_id":421191607,
     "wof:placetype":"locality",

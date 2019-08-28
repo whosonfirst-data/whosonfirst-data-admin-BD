@@ -27,8 +27,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"91.81583,22.74056,91.85583,22.78056",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Madhya K\u0101nchannagar"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1343399131,
-    "wof:lastmodified":1537585896,
+    "wof:lastmodified":1566606315,
     "wof:name":"Kanchan Nagar",
     "wof:parent_id":421201541,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.44329,23.03303,89.48329,23.07303",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Hakabpur"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1326667413,
-    "wof:lastmodified":1537586416,
+    "wof:lastmodified":1566606017,
     "wof:name":"Hakabpur",
     "wof:parent_id":421205213,
     "wof:placetype":"locality",

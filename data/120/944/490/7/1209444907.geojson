@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.96521,23.25036,89.00521,23.29036",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Bhalupeta"
     ],
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1209444907,
-    "wof:lastmodified":1537586586,
+    "wof:lastmodified":1566608209,
     "wof:name":"Bhalupeta",
     "wof:parent_id":85632475,
     "wof:placetype":"locality",

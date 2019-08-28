@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.05763,24.63656,88.09763,24.67656",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Ghughndanga"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1260009625,
-    "wof:lastmodified":1537586500,
+    "wof:lastmodified":1566608480,
     "wof:name":"Ghughndanga",
     "wof:parent_id":421191607,
     "wof:placetype":"locality",

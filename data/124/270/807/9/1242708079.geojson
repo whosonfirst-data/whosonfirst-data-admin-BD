@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.98748,25.22641,89.02748,25.26641",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Gang\u014dprasad"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1242708079,
-    "wof:lastmodified":1537586714,
+    "wof:lastmodified":1566609735,
     "wof:name":"Gangoprasad",
     "wof:parent_id":1108694681,
     "wof:placetype":"locality",

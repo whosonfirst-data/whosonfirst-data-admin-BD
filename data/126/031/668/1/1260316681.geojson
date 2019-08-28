@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.87923,25.05021,88.91923,25.09021",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "R\u0101dh\u0101mahan"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1260316681,
-    "wof:lastmodified":1537586484,
+    "wof:lastmodified":1566608514,
     "wof:name":"Radhamahan",
     "wof:parent_id":421191663,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.10634,24.77125,88.14634,24.81125",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Sh\u0101hebnagar"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1243587453,
-    "wof:lastmodified":1537586493,
+    "wof:lastmodified":1566609711,
     "wof:name":"Shahebnagar",
     "wof:parent_id":421191607,
     "wof:placetype":"locality",

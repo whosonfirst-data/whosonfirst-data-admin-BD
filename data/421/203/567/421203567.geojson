@@ -10,13 +10,16 @@
     "geom:latitude":22.60965,
     "geom:longitude":89.27034,
     "iso:country":"BD",
+    "lbl:bbox":"89.26534,22.60465,89.27534,22.61465",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:fra_x_preferred":[
         "Bhawanipur"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bhabanipur"
     ],
     "qs:gn_country":"BD",
@@ -40,16 +43,16 @@
     "src:geom":"quattroshapes",
     "wd:wordcount":54,
     "wof:belongsto":[
+        85669015,
         102191569,
         85632475,
-        421185473,
-        85669015
+        421185473
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1208964,
         "gp:id":55926186,
-        "qs:id":233582
+        "qs_pg:id":233582
     },
     "wof:country":"BD",
     "wof:created":1459010156,
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":421203567,
-    "wof:lastmodified":1531858828,
+    "wof:lastmodified":1566609374,
     "wof:name":"Bhawanipur",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

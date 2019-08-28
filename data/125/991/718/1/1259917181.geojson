@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.77893,23.51056,89.81893,23.55056",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1259917181,
-    "wof:lastmodified":1536730863,
+    "wof:lastmodified":1566609976,
     "wof:name":"Bengdoba",
     "wof:parent_id":421198063,
     "wof:placetype":"locality",

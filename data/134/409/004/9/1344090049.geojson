@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.28348,25.59897,89.32348,25.63897",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "K\u0101frikh\u0101li"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1344090049,
-    "wof:lastmodified":1537586734,
+    "wof:lastmodified":1566606387,
     "wof:name":"Kafrikhali",
     "wof:parent_id":1108694701,
     "wof:placetype":"locality",

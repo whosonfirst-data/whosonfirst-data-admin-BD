@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.4636,22.92752,90.5036,22.96752",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Tardhali",
         "Tar Dahali"
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1310338559,
-    "wof:lastmodified":1537585719,
+    "wof:lastmodified":1566609018,
     "wof:name":"Tar Dahali",
     "wof:parent_id":421187745,
     "wof:placetype":"locality",

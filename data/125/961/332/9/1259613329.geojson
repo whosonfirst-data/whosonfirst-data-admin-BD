@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.77355,24.01077,88.81355,24.05077",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "B\u0101go\u0101n"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1259613329,
-    "wof:lastmodified":1537586186,
+    "wof:lastmodified":1566610125,
     "wof:name":"Bagoan",
     "wof:parent_id":890438075,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.92071,22.60928,88.96071,22.64928",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Hardaha"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1193170415,
-    "wof:lastmodified":1537586593,
+    "wof:lastmodified":1566608419,
     "wof:name":"Hardaha",
     "wof:parent_id":421201927,
     "wof:placetype":"locality",

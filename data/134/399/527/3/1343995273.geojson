@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.61941,22.85685,89.65941,22.89685",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u0100mtala"
     ],
@@ -90,7 +94,7 @@
         }
     ],
     "wof:id":1343995273,
-    "wof:lastmodified":1564152902,
+    "wof:lastmodified":1566606339,
     "wof:name":"Amtala",
     "wof:parent_id":421185473,
     "wof:placetype":"locality",

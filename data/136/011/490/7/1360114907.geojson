@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.67262,26.14395,88.71262,26.18395",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Simulguri"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1360114907,
-    "wof:lastmodified":1537586295,
+    "wof:lastmodified":1566609140,
     "wof:name":"Simulguri",
     "wof:parent_id":1108694697,
     "wof:placetype":"locality",

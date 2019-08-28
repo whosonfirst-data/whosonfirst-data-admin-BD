@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.92101,24.89045,88.96101,24.93045",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "R\u0101msh\u0101pur"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1277012725,
-    "wof:lastmodified":1537585789,
+    "wof:lastmodified":1566607050,
     "wof:name":"Ramshapur",
     "wof:parent_id":421191663,
     "wof:placetype":"locality",

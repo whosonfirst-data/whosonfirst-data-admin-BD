@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.75706,24.32618,90.79706,24.36618",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Simuha Digirpara",
         "Simuha Digh\u012brp\u0101ra",
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1259909871,
-    "wof:lastmodified":1537585747,
+    "wof:lastmodified":1566609999,
     "wof:name":"Simuha Dighirpar",
     "wof:parent_id":421170483,
     "wof:placetype":"locality",

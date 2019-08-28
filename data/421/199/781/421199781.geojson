@@ -10,8 +10,12 @@
     "geom:latitude":22.19534,
     "geom:longitude":92.21946,
     "iso:country":"BD",
+    "lbl:bbox":"92.19946,22.17534,92.23946,22.21534",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ben_x_preferred":[
         "B\u0101ndarban"
@@ -19,7 +23,7 @@
     "name:rus_x_preferred":[
         "\u0411\u0430\u043d\u0434\u0430\u0440\u0431\u0430\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bardarban"
     ],
     "qs:gn_country":"BD",
@@ -52,7 +56,7 @@
     "wof:concordances":{
         "gn:id":1185270,
         "gp:id":1914992,
-        "qs:id":493034
+        "qs_pg:id":493034
     },
     "wof:country":"BD",
     "wof:created":1459010000,
@@ -67,7 +71,7 @@
         }
     ],
     "wof:id":421199781,
-    "wof:lastmodified":1505340764,
+    "wof:lastmodified":1566609391,
     "wof:name":"Bandarban",
     "wof:parent_id":421169477,
     "wof:placetype":"locality",

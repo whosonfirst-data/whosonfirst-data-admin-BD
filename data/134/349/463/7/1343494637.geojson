@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.19345,24.57097,88.23345,24.61097",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Hayatpur"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1343494637,
-    "wof:lastmodified":1537586501,
+    "wof:lastmodified":1566606462,
     "wof:name":"Hayatpur",
     "wof:parent_id":421191607,
     "wof:placetype":"locality",

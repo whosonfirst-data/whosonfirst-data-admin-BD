@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.96816,23.19152,91.00816,23.23152",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Nahara"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1309754611,
-    "wof:lastmodified":1564158105,
+    "wof:lastmodified":1566609365,
     "wof:name":"Nahara",
     "wof:parent_id":1108694669,
     "wof:placetype":"locality",

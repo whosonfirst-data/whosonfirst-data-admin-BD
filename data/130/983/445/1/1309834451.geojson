@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.51295,23.69783,89.55295,23.73783",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Bara Mallicka",
         "B\u0101ra Mallika"
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1309834451,
-    "wof:lastmodified":1537586160,
+    "wof:lastmodified":1566609250,
     "wof:name":"Bara Mallika",
     "wof:parent_id":1108694699,
     "wof:placetype":"locality",

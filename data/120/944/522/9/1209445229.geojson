@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.00283,25.48094,89.04283,25.52094",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Amerdanga"
     ],
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1209445229,
-    "wof:lastmodified":1537586841,
+    "wof:lastmodified":1566608238,
     "wof:name":"Amerdanga",
     "wof:parent_id":85632475,
     "wof:placetype":"locality",

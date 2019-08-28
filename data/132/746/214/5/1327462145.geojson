@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.1729,23.04644,89.2129,23.08644",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "N\u0101dra"
     ],
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1327462145,
-    "wof:lastmodified":1564152370,
+    "wof:lastmodified":1566606076,
     "wof:name":"Nadra",
     "wof:parent_id":421176039,
     "wof:placetype":"locality",

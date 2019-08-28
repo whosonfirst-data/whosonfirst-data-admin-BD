@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.56751,23.94079,89.60751,23.98079",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "D\u0101ri\u0101pur"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1209849139,
-    "wof:lastmodified":1537586425,
+    "wof:lastmodified":1566607827,
     "wof:name":"Dariapur",
     "wof:parent_id":421197541,
     "wof:placetype":"locality",

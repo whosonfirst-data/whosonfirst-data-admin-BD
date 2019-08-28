@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":22.967411,
     "lbl:longitude":91.417968,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"CHITTAGONG",
     "meso:gadm_admin":"Feni",
     "meso:gadm_hasc2":"BD.CG.FN",
@@ -31,6 +33,7 @@
     "mps:longitude":91.417968,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ben_x_preferred":[
         "\u09ab\u09c7\u09a8\u09c0 \u099c\u09c7\u09b2\u09be"
@@ -102,7 +105,7 @@
     "name:ukr_x_preferred":[
         "\u0424\u0435\u043d\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Feni Zila"
     ],
     "name:urd_x_preferred":[
@@ -139,9 +142,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-03-15",
+    "src:population_date":"2011-03-15",
     "statoids:area_km":"990",
     "statoids:as_of_date":"2011-03-15",
     "statoids:capital":"Feni",
@@ -162,7 +165,7 @@
         "gn:id":1337197,
         "gp:id":23706464,
         "hasc:id":"BD.CG.FN",
-        "qs:id":502769,
+        "qs_pg:id":502769,
         "wd:id":"Q1404741",
         "wk:page":"Feni District"
     },
@@ -178,7 +181,7 @@
         }
     ],
     "wof:id":421181771,
-    "wof:lastmodified":1563584379,
+    "wof:lastmodified":1566609385,
     "wof:name":"Feni",
     "wof:parent_id":85669023,
     "wof:placetype":"county",

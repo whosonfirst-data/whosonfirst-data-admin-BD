@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.51945,22.51429,90.55945,22.55429",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:hif_x_preferred":[
         "Keshabpur"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1309834459,
-    "wof:lastmodified":1564157915,
+    "wof:lastmodified":1566609249,
     "wof:name":"Keshabpur",
     "wof:parent_id":421169845,
     "wof:placetype":"locality",

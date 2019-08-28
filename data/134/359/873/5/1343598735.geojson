@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.79995,22.47362,90.83995,22.51362",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Said Aulia"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1343598735,
-    "wof:lastmodified":1537586394,
+    "wof:lastmodified":1566606488,
     "wof:name":"Said Aulia",
     "wof:parent_id":421184491,
     "wof:placetype":"locality",

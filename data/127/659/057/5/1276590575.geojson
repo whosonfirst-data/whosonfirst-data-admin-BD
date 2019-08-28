@@ -27,8 +27,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"91.26333,22.89667,91.30333,22.93667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Eakubpur",
         "L\u0101kubpur",
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1276590575,
-    "wof:lastmodified":1537585987,
+    "wof:lastmodified":1566607258,
     "wof:name":"Iakubpur",
     "wof:parent_id":421181771,
     "wof:placetype":"locality",

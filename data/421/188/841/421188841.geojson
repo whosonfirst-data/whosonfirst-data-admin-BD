@@ -10,8 +10,11 @@
     "geom:latitude":22.43536,
     "geom:longitude":89.1671,
     "iso:country":"BD",
+    "lbl:bbox":"89.1621,22.43036,89.1721,22.44036",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ben_x_preferred":[
         "Naktara"
@@ -52,7 +55,7 @@
     "wof:concordances":{
         "gn:id":7485842,
         "gp:id":55926165,
-        "qs:id":1104622,
+        "qs_pg:id":1104622,
         "wd:id":"Q6960717"
     },
     "wof:country":"BD",
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":421188841,
-    "wof:lastmodified":1563584372,
+    "wof:lastmodified":1566609382,
     "wof:name":"Naktala",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

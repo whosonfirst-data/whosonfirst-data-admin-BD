@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.37732,25.99357,88.41732,26.03357",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Kristopur"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1226279967,
-    "wof:lastmodified":1537586636,
+    "wof:lastmodified":1566610324,
     "wof:name":"Kristopur",
     "wof:parent_id":1108694703,
     "wof:placetype":"locality",

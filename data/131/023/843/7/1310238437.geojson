@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.23187,22.68344,90.27187,22.72344",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Jalalkati",
         "J\u0101l\u0101k\u0101ti"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1310238437,
-    "wof:lastmodified":1537585978,
+    "wof:lastmodified":1566608702,
     "wof:name":"Jalakati",
     "wof:parent_id":1108694677,
     "wof:placetype":"locality",

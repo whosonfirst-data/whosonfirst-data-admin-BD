@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.63398,23.69293,90.67398,23.73293",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Sekher Char"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1243583997,
-    "wof:lastmodified":1537585759,
+    "wof:lastmodified":1566609684,
     "wof:name":"Shaikher Char",
     "wof:parent_id":421197045,
     "wof:placetype":"locality",

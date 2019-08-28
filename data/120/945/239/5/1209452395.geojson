@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.72695,23.93836,88.76695,23.97836",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Kapaoi"
     ],
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1209452395,
-    "wof:lastmodified":1537586557,
+    "wof:lastmodified":1566608197,
     "wof:name":"Kapaoi",
     "wof:parent_id":85632475,
     "wof:placetype":"locality",

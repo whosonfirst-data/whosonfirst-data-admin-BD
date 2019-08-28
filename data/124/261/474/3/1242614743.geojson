@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.24612,24.57515,88.28612,24.61515",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Ch\u0101inpara"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1242614743,
-    "wof:lastmodified":1537586506,
+    "wof:lastmodified":1566609585,
     "wof:name":"Chainpara",
     "wof:parent_id":421191607,
     "wof:placetype":"locality",

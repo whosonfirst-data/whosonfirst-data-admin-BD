@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.97204,24.91493,90.01204,24.95493",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Balaichar",
         "Bal\u0101ir Char"
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1225977725,
-    "wof:lastmodified":1537586177,
+    "wof:lastmodified":1566610582,
     "wof:name":"Balair Char",
     "wof:parent_id":421190979,
     "wof:placetype":"locality",

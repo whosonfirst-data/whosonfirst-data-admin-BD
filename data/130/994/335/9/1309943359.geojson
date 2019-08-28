@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.77494,22.36125,90.81494,22.40125",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Char Koralm\u0101ra"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1309943359,
-    "wof:lastmodified":1537586389,
+    "wof:lastmodified":1566609313,
     "wof:name":"Char Koralmara",
     "wof:parent_id":421184491,
     "wof:placetype":"locality",

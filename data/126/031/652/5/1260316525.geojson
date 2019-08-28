@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.59311,23.49142,89.63311,23.53142",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Utholi",
         "Uthali"
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1260316525,
-    "wof:lastmodified":1537585707,
+    "wof:lastmodified":1566608523,
     "wof:name":"Uthali",
     "wof:parent_id":421198063,
     "wof:placetype":"locality",

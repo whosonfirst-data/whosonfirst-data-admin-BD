@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"91.97726,22.13449,92.01726,22.17449",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "B\u0101iltali"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1327476085,
-    "wof:lastmodified":1537586243,
+    "wof:lastmodified":1566606054,
     "wof:name":"Bailtali",
     "wof:parent_id":421201541,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.0191,22.98569,89.0591,23.02569",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Kulla"
     ],
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1343591323,
-    "wof:lastmodified":1564153203,
+    "wof:lastmodified":1566606482,
     "wof:name":"Kulla",
     "wof:parent_id":421176039,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.96085,22.27669,91.00085,22.31669",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Iswarganj"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1226175763,
-    "wof:lastmodified":1537586394,
+    "wof:lastmodified":1566610306,
     "wof:name":"Iswarganj",
     "wof:parent_id":421184491,
     "wof:placetype":"locality",

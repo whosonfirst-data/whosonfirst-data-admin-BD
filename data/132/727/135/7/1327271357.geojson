@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.95439,26.41743,88.99439,26.45743",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Jhalangi"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1327271357,
-    "wof:lastmodified":1537586298,
+    "wof:lastmodified":1566606236,
     "wof:name":"Jhalangi",
     "wof:parent_id":1108694687,
     "wof:placetype":"locality",

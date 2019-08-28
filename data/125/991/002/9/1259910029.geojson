@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.1558,25.7856,88.1958,25.8256",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Mas\u0101lgaon"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1259910029,
-    "wof:lastmodified":1537586639,
+    "wof:lastmodified":1566609966,
     "wof:name":"Masalgaon",
     "wof:parent_id":1108694703,
     "wof:placetype":"locality",

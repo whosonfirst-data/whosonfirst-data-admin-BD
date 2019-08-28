@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.53639,22.56082,90.57639,22.60082",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1326760561,
-    "wof:lastmodified":1536654986,
+    "wof:lastmodified":1566606118,
     "wof:name":"Basudebpasa",
     "wof:parent_id":421169845,
     "wof:placetype":"locality",

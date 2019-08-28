@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.14514,23.78417,90.18514,23.82417",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632475
@@ -37,7 +41,7 @@
         "gn:id":1206927
     },
     "wof:country":"BD",
-    "wof:geomhash":"ba4eee8e3a9f615553d8d1d49512b3dc",
+    "wof:geomhash":"eb444c7101a329ee51337fef161255c5",
     "wof:hierarchy":[
         {
             "country_id":85632475,
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":1209645437,
-    "wof:lastmodified":1536280751,
+    "wof:lastmodified":1566607773,
     "wof:name":"Char Gangamalanga",
     "wof:parent_id":85632475,
     "wof:placetype":"locality",
@@ -56,9 +60,9 @@
 },
   "bbox": [
     90.16514,
-    23.804170000000006,
+    23.80417000000001,
     90.16514,
-    23.804170000000006
+    23.80417000000001
 ],
   "geometry": {"coordinates":[90.16513999999999,23.80417000000001],"type":"Point"}
 }

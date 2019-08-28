@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"92.20217,21.93368,92.24217,21.97368",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Saraup\u0101ra"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1360222863,
-    "wof:lastmodified":1537586356,
+    "wof:lastmodified":1566609048,
     "wof:name":"Saraupara",
     "wof:parent_id":421169477,
     "wof:placetype":"locality",

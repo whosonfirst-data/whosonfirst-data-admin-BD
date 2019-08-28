@@ -26,14 +26,17 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.00108,23.32272,89.04108,23.36272",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "T\u0101hirpur"
     ],
     "name:und_x_variant":[
-        "Taherpur",
-        "T\u0101hirpur"
+        "Taherpur"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":1326663451,
-    "wof:lastmodified":1537585723,
+    "wof:lastmodified":1566606028,
     "wof:name":"Tahirpur",
     "wof:parent_id":421176039,
     "wof:placetype":"locality",

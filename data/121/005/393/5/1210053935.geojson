@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.08105,23.13281,89.12105,23.17281",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Phulbari"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1210053935,
-    "wof:lastmodified":1537586402,
+    "wof:lastmodified":1566608298,
     "wof:name":"Phulbari",
     "wof:parent_id":421176039,
     "wof:placetype":"locality",

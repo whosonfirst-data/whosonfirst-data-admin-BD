@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.06317,23.16546,89.10317,23.20546",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Bara Kuli"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1327267361,
-    "wof:lastmodified":1537586161,
+    "wof:lastmodified":1566606180,
     "wof:name":"Bara Kuli",
     "wof:parent_id":421176039,
     "wof:placetype":"locality",

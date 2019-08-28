@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.74294,25.23673,89.78294,25.27673",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Sabujpur"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1259713491,
-    "wof:lastmodified":1537586820,
+    "wof:lastmodified":1566610070,
     "wof:name":"Sabujpur",
     "wof:parent_id":421191923,
     "wof:placetype":"locality",

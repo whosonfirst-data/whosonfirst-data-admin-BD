@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.62828,23.68478,89.66828,23.72478",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Panchtupi",
         "P\u0101nchthupi"
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1293419869,
-    "wof:lastmodified":1537585839,
+    "wof:lastmodified":1566606777,
     "wof:name":"Panchthupi",
     "wof:parent_id":1108694699,
     "wof:placetype":"locality",

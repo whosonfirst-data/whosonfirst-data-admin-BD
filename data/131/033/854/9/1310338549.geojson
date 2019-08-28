@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.55961,26.07572,88.59961,26.11572",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Bagul\u0101d\u0101ngi"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1310338549,
-    "wof:lastmodified":1537586185,
+    "wof:lastmodified":1566609017,
     "wof:name":"Baguladangi",
     "wof:parent_id":1108694703,
     "wof:placetype":"locality",

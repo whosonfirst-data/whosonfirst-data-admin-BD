@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.38734,24.95251,89.42734,24.99251",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ahammadpur",
         "Ahmadpur"
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1276151177,
-    "wof:lastmodified":1537586209,
+    "wof:lastmodified":1566607403,
     "wof:name":"Ahmadpur",
     "wof:parent_id":421187793,
     "wof:placetype":"locality",

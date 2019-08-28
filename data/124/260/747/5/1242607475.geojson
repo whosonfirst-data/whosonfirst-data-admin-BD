@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.87314,24.26279,88.91314,24.30279",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Jhina"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1242607475,
-    "wof:lastmodified":1537585969,
+    "wof:lastmodified":1566609594,
     "wof:name":"Jhina",
     "wof:parent_id":421172439,
     "wof:placetype":"locality",

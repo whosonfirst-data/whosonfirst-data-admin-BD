@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.45518,23.97837,89.49518,24.01837",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fas_x_preferred":[
         "\u0631\u0633\u0648\u0644\u200c\u067e\u0648\u0631"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1343594789,
-    "wof:lastmodified":1564153211,
+    "wof:lastmodified":1566606485,
     "wof:name":"Rasulpur",
     "wof:parent_id":421197541,
     "wof:placetype":"locality",

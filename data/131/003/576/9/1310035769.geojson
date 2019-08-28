@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.57641,25.94444,89.61641,25.98444",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Azo\u0101t\u0101ri"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1310035769,
-    "wof:lastmodified":1537586799,
+    "wof:lastmodified":1566608956,
     "wof:name":"Azoatari",
     "wof:parent_id":1108694685,
     "wof:placetype":"locality",

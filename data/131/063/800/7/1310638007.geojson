@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.82274,22.40787,90.86274,22.44787",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Ghaser Haola"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1310638007,
-    "wof:lastmodified":1537586393,
+    "wof:lastmodified":1566608869,
     "wof:name":"Ghaser Haola",
     "wof:parent_id":421184491,
     "wof:placetype":"locality",

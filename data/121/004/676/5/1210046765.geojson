@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.83823,24.16352,88.87823,24.20352",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Bag S\u0101yasta"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1210046765,
-    "wof:lastmodified":1537586185,
+    "wof:lastmodified":1566608277,
     "wof:name":"Bag Sayasta",
     "wof:parent_id":421172439,
     "wof:placetype":"locality",

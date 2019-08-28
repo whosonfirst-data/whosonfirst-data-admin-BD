@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.84096,23.21804,89.88096,23.25804",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Khord Dubi\u0101sur"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1326763831,
-    "wof:lastmodified":1537586457,
+    "wof:lastmodified":1566606104,
     "wof:name":"Khord Dubiasur",
     "wof:parent_id":421194867,
     "wof:placetype":"locality",

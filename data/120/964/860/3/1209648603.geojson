@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.11982,24.73501,90.15982,24.77501",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ghay\u0101spur",
         "Gayespur"
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1209648603,
-    "wof:lastmodified":1537586023,
+    "wof:lastmodified":1566607769,
     "wof:name":"Ghayaspur",
     "wof:parent_id":85632475,
     "wof:placetype":"locality",

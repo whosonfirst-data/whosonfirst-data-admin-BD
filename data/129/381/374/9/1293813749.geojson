@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.31308,22.12592,90.35308,22.16592",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "K\u0101th\u0101lia"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1293813749,
-    "wof:lastmodified":1537585938,
+    "wof:lastmodified":1566607022,
     "wof:name":"Kathalia",
     "wof:parent_id":421176043,
     "wof:placetype":"locality",

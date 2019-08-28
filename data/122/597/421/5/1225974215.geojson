@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.01215,23.10361,89.05215,23.14361",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Palla"
     ],
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1225974215,
-    "wof:lastmodified":1564159888,
+    "wof:lastmodified":1566610567,
     "wof:name":"Palla",
     "wof:parent_id":421176039,
     "wof:placetype":"locality",

@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":24.718373,
     "lbl:longitude":88.264515,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"RAJSHAHI",
     "meso:gadm_admin":"Nawabganj",
     "meso:gadm_hasc2":"BD.RS.NW",
@@ -31,6 +33,7 @@
     "mps:longitude":88.264515,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ben_x_preferred":[
         "\u099a\u09be\u0981\u09aa\u09be\u0987\u09a8\u09ac\u09be\u09ac\u0997\u099e\u09cd\u099c \u099c\u09c7\u09b2\u09be"
@@ -146,9 +149,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-03-15",
+    "src:population_date":"2011-03-15",
     "statoids:area_km":"1,703",
     "statoids:as_of_date":"2011-03-15",
     "statoids:capital":"Nawabganj",
@@ -169,7 +172,7 @@
     "wof:concordances":{
         "gp:id":23706420,
         "hasc:id":"BD.RS.NW",
-        "qs:id":69611,
+        "qs_pg:id":69611,
         "wd:id":"Q46043"
     },
     "wof:country":"BD",
@@ -184,7 +187,7 @@
         }
     ],
     "wof:id":421191607,
-    "wof:lastmodified":1563584386,
+    "wof:lastmodified":1566609388,
     "wof:name":"Nawabganj",
     "wof:parent_id":85669031,
     "wof:placetype":"county",

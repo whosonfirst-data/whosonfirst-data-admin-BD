@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.68285,24.89128,88.72285,24.93128",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Gourharia"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1343594643,
-    "wof:lastmodified":1537586006,
+    "wof:lastmodified":1566606492,
     "wof:name":"Gourharia",
     "wof:parent_id":421191663,
     "wof:placetype":"locality",

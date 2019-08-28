@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.17269,22.26709,89.21269,22.30709",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Ab\u0101d Chandipur"
     ],
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1209351909,
-    "wof:lastmodified":1537586213,
+    "wof:lastmodified":1566608021,
     "wof:name":"Abad Chandipur",
     "wof:parent_id":85632475,
     "wof:placetype":"locality",

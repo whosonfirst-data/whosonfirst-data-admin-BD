@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"91.92384,21.67765,91.96384,21.71765",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Majergh\u0101t"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1309948267,
-    "wof:lastmodified":1537586259,
+    "wof:lastmodified":1566609309,
     "wof:name":"Majerghat",
     "wof:parent_id":421205057,
     "wof:placetype":"locality",

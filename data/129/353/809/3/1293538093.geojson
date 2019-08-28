@@ -27,8 +27,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"91.13,22.79667,91.17,22.83667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "West Rajurgaon",
         "Pachchhim R\u0101jurgaon"
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1293538093,
-    "wof:lastmodified":1537585817,
+    "wof:lastmodified":1566606715,
     "wof:name":"Pachchhim Rajurgaon",
     "wof:parent_id":421177051,
     "wof:placetype":"locality",

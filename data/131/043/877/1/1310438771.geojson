@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.84538,23.59154,89.88538,23.63154",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Char Madhy Tepakhola",
         "Char Madhya Tep\u0101khola"
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1310438771,
-    "wof:lastmodified":1537586098,
+    "wof:lastmodified":1566608916,
     "wof:name":"Char Madhya Tepakhola",
     "wof:parent_id":421198063,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.82196,23.63094,88.86196,23.67094",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0642\u0631\u064a\u0629 \u062f\u0627\u0648\u0644\u0627\u062a\u062f\u064a\u0627"
     ],
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":1243400753,
-    "wof:lastmodified":1564158563,
+    "wof:lastmodified":1566609663,
     "wof:name":"Daulatdia",
     "wof:parent_id":421194153,
     "wof:placetype":"locality",

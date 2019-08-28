@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.96161,24.84533,89.00161,24.88533",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "D\u0101k\u0101h\u0101r"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1260316625,
-    "wof:lastmodified":1537586076,
+    "wof:lastmodified":1566608525,
     "wof:name":"Dakaher",
     "wof:parent_id":421191663,
     "wof:placetype":"locality",

@@ -10,10 +10,14 @@
     "geom:latitude":22.82257,
     "geom:longitude":90.52859,
     "iso:country":"BD",
+    "lbl:bbox":"90.50859,22.80257,90.54859,22.84257",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Mehdigunj"
     ],
     "qs:gn_country":"BD",
@@ -46,7 +50,7 @@
     "wof:concordances":{
         "gn:id":1185171,
         "gp:id":1906095,
-        "qs:id":917657
+        "qs_pg:id":917657
     },
     "wof:country":"BD",
     "wof:created":1459009775,
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":421193569,
-    "wof:lastmodified":1505340735,
+    "wof:lastmodified":1566609370,
     "wof:name":"Mehendiganj",
     "wof:parent_id":421187745,
     "wof:placetype":"locality",

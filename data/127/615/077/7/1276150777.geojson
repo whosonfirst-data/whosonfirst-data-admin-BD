@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.77837,23.17594,89.81837,23.21594",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Kh\u0101gr\u0101baria"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1276150777,
-    "wof:lastmodified":1537586453,
+    "wof:lastmodified":1566607385,
     "wof:name":"Khagrabaria",
     "wof:parent_id":421194867,
     "wof:placetype":"locality",

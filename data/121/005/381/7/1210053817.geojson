@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.13209,23.78591,89.17209,23.82591",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Durbba Chara"
     ],
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1210053817,
-    "wof:lastmodified":1537586045,
+    "wof:lastmodified":1566608302,
     "wof:name":"Durbba Chara",
     "wof:parent_id":890438075,
     "wof:placetype":"locality",

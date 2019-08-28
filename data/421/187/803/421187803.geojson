@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":23.776703,
     "lbl:longitude":90.355745,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"DHAKA",
     "meso:gadm_admin":"Dhaka",
     "meso:gadm_hasc2":"BD.DA.DH",
@@ -31,6 +33,7 @@
     "mps:longitude":90.355745,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bel_x_preferred":[
         "\u0414\u0430\u043a\u0430"
@@ -114,7 +117,7 @@
     "name:tel_x_preferred":[
         "\u0c22\u0c3e\u0c15\u0c3e \u0c1c\u0c3f\u0c32\u0c4d\u0c32\u0c3e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Dhaka Zila"
     ],
     "name:urd_x_preferred":[
@@ -151,9 +154,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-03-15",
+    "src:population_date":"2011-03-15",
     "statoids:area_km":"1,464",
     "statoids:as_of_date":"2011-03-15",
     "statoids:capital":"Dhaka",
@@ -174,7 +177,7 @@
         "gn:id":1337178,
         "gp:id":23706470,
         "hasc:id":"BD.DH.DH",
-        "qs:id":1086135,
+        "qs_pg:id":1086135,
         "wd:id":"Q1850485",
         "wk:page":"Dhaka District"
     },
@@ -190,7 +193,7 @@
         }
     ],
     "wof:id":421187803,
-    "wof:lastmodified":1563584364,
+    "wof:lastmodified":1566609377,
     "wof:name":"Dhaka",
     "wof:parent_id":85669009,
     "wof:placetype":"county",

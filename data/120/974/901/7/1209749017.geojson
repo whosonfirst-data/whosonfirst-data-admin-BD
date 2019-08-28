@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.95407,25.18431,88.99407,25.22431",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "P\u0101rail"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1209749017,
-    "wof:lastmodified":1537586487,
+    "wof:lastmodified":1566608158,
     "wof:name":"Parail",
     "wof:parent_id":1108694681,
     "wof:placetype":"locality",

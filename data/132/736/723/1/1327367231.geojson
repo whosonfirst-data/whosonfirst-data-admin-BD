@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.06827,26.01307,89.10827,26.05307",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Sholm\u0101ri"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1327367231,
-    "wof:lastmodified":1537585752,
+    "wof:lastmodified":1566605902,
     "wof:name":"Saulmari",
     "wof:parent_id":1108694695,
     "wof:placetype":"locality",

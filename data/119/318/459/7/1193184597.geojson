@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.83565,23.46877,90.87565,23.50877",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Nurpur",
         "North N\u016brpur"
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1193184597,
-    "wof:lastmodified":1537585821,
+    "wof:lastmodified":1566608392,
     "wof:name":"North Nurpur",
     "wof:parent_id":421187801,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.61844,23.90391,90.65844,23.94391",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Atia"
     ],
@@ -66,7 +70,7 @@
         }
     ],
     "wof:id":1276580285,
-    "wof:lastmodified":1564154830,
+    "wof:lastmodified":1566607240,
     "wof:name":"Atia",
     "wof:parent_id":421169707,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.11577,25.91961,88.15577,25.95961",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "P\u0101nchgharia"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1293622399,
-    "wof:lastmodified":1537585839,
+    "wof:lastmodified":1566606711,
     "wof:name":"Panchgharia",
     "wof:parent_id":1108694703,
     "wof:placetype":"locality",

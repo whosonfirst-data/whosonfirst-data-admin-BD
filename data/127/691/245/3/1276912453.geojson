@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.01825,24.58252,90.05825,24.62252",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:als_x_preferred":[
         "Pandura"
     ],
@@ -69,7 +73,7 @@
         }
     ],
     "wof:id":1276912453,
-    "wof:lastmodified":1564155302,
+    "wof:lastmodified":1566607621,
     "wof:name":"Pandura",
     "wof:parent_id":421185471,
     "wof:placetype":"locality",

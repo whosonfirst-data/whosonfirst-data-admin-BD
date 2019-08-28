@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.48696,25.97942,89.52696,26.01942",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Krishnananda Boksi"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1310135627,
-    "wof:lastmodified":1537586799,
+    "wof:lastmodified":1566608750,
     "wof:name":"Krishnananda Boksi",
     "wof:parent_id":1108694685,
     "wof:placetype":"locality",

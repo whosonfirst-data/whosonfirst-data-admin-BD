@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.79369,22.37863,90.83369,22.41863",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0623\u0631\u0627\u0644\u064a\u0627"
     ],
@@ -147,7 +151,7 @@
         }
     ],
     "wof:id":1327461659,
-    "wof:lastmodified":1564152365,
+    "wof:lastmodified":1566606073,
     "wof:name":"Aralia",
     "wof:parent_id":421184491,
     "wof:placetype":"locality",

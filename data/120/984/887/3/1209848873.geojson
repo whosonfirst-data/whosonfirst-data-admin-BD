@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.43472,24.83533,89.47472,24.87533",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kshidra Peri",
         "Khidraperi"
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1209848873,
-    "wof:lastmodified":1537585925,
+    "wof:lastmodified":1566607821,
     "wof:name":"Khidraperi",
     "wof:parent_id":421187793,
     "wof:placetype":"locality",

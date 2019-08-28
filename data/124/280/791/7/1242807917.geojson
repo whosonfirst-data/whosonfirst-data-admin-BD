@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.65964,23.84428,89.69964,23.88428",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "R\u0101j Dardia"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1242807917,
-    "wof:lastmodified":1537586438,
+    "wof:lastmodified":1566609512,
     "wof:name":"Raj Dardia",
     "wof:parent_id":421197541,
     "wof:placetype":"locality",

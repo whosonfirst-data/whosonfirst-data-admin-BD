@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.30081,23.85152,90.34081,23.89152",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1293326161,
-    "wof:lastmodified":1537018868,
+    "wof:lastmodified":1566606936,
     "wof:name":"Uttar Dattapara",
     "wof:parent_id":421187803,
     "wof:placetype":"locality",

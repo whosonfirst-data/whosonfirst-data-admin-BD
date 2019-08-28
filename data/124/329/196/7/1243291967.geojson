@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.21633,25.06815,89.25633,25.10815",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Saranjia"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1243291967,
-    "wof:lastmodified":1537586732,
+    "wof:lastmodified":1566609888,
     "wof:name":"Saranjia",
     "wof:parent_id":1108694681,
     "wof:placetype":"locality",

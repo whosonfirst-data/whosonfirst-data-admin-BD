@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.60108,25.64171,88.64108,25.68171",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "M\u0101ljah\u0101r"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1243001365,
-    "wof:lastmodified":1537585882,
+    "wof:lastmodified":1566609426,
     "wof:name":"Maljahar",
     "wof:parent_id":1108694671,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.34308,23.08212,89.38308,23.12212",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "P\u0101lp\u0101ra"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1293238157,
-    "wof:lastmodified":1537586432,
+    "wof:lastmodified":1566606802,
     "wof:name":"Palpara",
     "wof:parent_id":421176039,
     "wof:placetype":"locality",

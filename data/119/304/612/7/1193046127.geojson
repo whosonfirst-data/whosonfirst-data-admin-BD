@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.99725,26.39125,89.03725,26.43125",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "R\u0101dh\u0101n\u0101th"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1193046127,
-    "wof:lastmodified":1564156418,
+    "wof:lastmodified":1566608341,
     "wof:name":"Radhanath",
     "wof:parent_id":1108694687,
     "wof:placetype":"locality",

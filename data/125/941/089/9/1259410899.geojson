@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.76202,23.84559,89.80202,23.88559",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Dakshin Teuta",
         "Dakhin Teota",
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1259410899,
-    "wof:lastmodified":1537586071,
+    "wof:lastmodified":1566610036,
     "wof:name":"Dakshin Teota",
     "wof:parent_id":421191745,
     "wof:placetype":"locality",

@@ -27,8 +27,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.74667,23.64667,90.78667,23.68667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Bonmali",
         "Banam\u0101li"
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1360133185,
-    "wof:lastmodified":1537586172,
+    "wof:lastmodified":1566609044,
     "wof:name":"Banamali",
     "wof:parent_id":421187801,
     "wof:placetype":"locality",

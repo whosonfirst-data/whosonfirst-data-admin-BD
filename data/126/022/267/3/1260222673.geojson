@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.59935,23.43639,90.63935,23.47639",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Basdi",
         "By\u0101sdi"
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1260222673,
-    "wof:lastmodified":1537586121,
+    "wof:lastmodified":1566608469,
     "wof:name":"Byasdi",
     "wof:parent_id":1108694669,
     "wof:placetype":"locality",

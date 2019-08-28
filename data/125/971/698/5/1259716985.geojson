@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.06051,22.18829,89.10051,22.22829",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "K\u0101linchi"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1259716985,
-    "wof:lastmodified":1537586603,
+    "wof:lastmodified":1566610084,
     "wof:name":"Kalinchi",
     "wof:parent_id":421201927,
     "wof:placetype":"locality",

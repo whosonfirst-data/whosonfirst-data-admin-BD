@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.60254,23.73012,88.64254,23.77012",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Banda"
     ],
@@ -144,7 +148,7 @@
         }
     ],
     "wof:id":1276160735,
-    "wof:lastmodified":1564154729,
+    "wof:lastmodified":1566607140,
     "wof:name":"Banda",
     "wof:parent_id":421191661,
     "wof:placetype":"locality",

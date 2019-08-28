@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.6846,24.72189,88.7246,24.76189",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Barapai"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1309936031,
-    "wof:lastmodified":1537586160,
+    "wof:lastmodified":1566609283,
     "wof:name":"Barapai",
     "wof:parent_id":421191663,
     "wof:placetype":"locality",

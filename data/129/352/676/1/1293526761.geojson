@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.45112,26.32505,88.49112,26.36505",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Patnakhora"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1293526761,
-    "wof:lastmodified":1537586627,
+    "wof:lastmodified":1566606727,
     "wof:name":"Patnakhora",
     "wof:parent_id":1108694697,
     "wof:placetype":"locality",

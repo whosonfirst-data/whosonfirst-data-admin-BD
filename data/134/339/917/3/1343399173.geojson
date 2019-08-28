@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.61293,23.40613,90.65293,23.44613",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:hin_x_preferred":[
         "\u0917\u091c\u0930\u093e"
     ],
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":1343399173,
-    "wof:lastmodified":1564152886,
+    "wof:lastmodified":1566606332,
     "wof:name":"Gajra",
     "wof:parent_id":1108694669,
     "wof:placetype":"locality",

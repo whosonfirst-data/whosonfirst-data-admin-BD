@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"92.21649,22.51159,92.25649,22.55159",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Dhuly\u0101chari"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1344094901,
-    "wof:lastmodified":1537586218,
+    "wof:lastmodified":1566606379,
     "wof:name":"Dhulyachari",
     "wof:parent_id":421188983,
     "wof:placetype":"locality",

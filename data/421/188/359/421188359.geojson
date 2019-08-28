@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":23.267008,
     "lbl:longitude":90.414774,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"DHAKA",
     "meso:gadm_admin":"Shariatpur",
     "meso:gadm_hasc2":"BD.DA.SA",
@@ -31,6 +33,7 @@
     "mps:longitude":90.414774,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ben_x_preferred":[
         "\u09b6\u09b0\u09bf\u09af\u09bc\u09a4\u09aa\u09c1\u09b0 \u099c\u09c7\u09b2\u09be"
@@ -121,9 +124,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-03-15",
+    "src:population_date":"2011-03-15",
     "statoids:area_km":"1,174",
     "statoids:as_of_date":"2011-03-15",
     "statoids:capital":"Shariatpur",
@@ -143,7 +146,7 @@
     "wof:concordances":{
         "gp:id":23706452,
         "hasc:id":"BD.DH.SA",
-        "qs:id":22416,
+        "qs_pg:id":22416,
         "wd:id":"Q253007"
     },
     "wof:country":"BD",
@@ -158,7 +161,7 @@
         }
     ],
     "wof:id":421188359,
-    "wof:lastmodified":1563584372,
+    "wof:lastmodified":1566609382,
     "wof:name":"Shariatpur",
     "wof:parent_id":85669009,
     "wof:placetype":"county",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.2072,22.35052,89.2472,22.39052",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Banyotala"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1310435653,
-    "wof:lastmodified":1537586602,
+    "wof:lastmodified":1566608914,
     "wof:name":"Banyotala",
     "wof:parent_id":421201927,
     "wof:placetype":"locality",

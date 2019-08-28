@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.96501,22.92811,89.00501,22.96811",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "B\u0101guri"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1343888065,
-    "wof:lastmodified":1537586185,
+    "wof:lastmodified":1566606660,
     "wof:name":"Baguri",
     "wof:parent_id":421176039,
     "wof:placetype":"locality",

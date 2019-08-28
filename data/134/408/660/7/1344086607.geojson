@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.99843,22.98089,89.03843,23.02089",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1344086607,
-    "wof:lastmodified":1536836986,
+    "wof:lastmodified":1566606361,
     "wof:name":"Barunhal",
     "wof:parent_id":421176039,
     "wof:placetype":"locality",

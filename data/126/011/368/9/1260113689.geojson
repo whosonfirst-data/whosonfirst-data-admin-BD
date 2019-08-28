@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.19223,22.38267,89.23223,22.42267",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Kh\u0101zra"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1260113689,
-    "wof:lastmodified":1537585901,
+    "wof:lastmodified":1566608582,
     "wof:name":"Khazra",
     "wof:parent_id":421201927,
     "wof:placetype":"locality",

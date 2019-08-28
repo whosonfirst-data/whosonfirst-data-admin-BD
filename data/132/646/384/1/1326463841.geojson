@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.28275,22.32254,90.32275,22.36254",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "West Het\u0101lia"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1326463841,
-    "wof:lastmodified":1537585699,
+    "wof:lastmodified":1566606132,
     "wof:name":"West Hetalia",
     "wof:parent_id":421169845,
     "wof:placetype":"locality",

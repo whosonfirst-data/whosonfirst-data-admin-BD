@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.50924,25.07709,88.54924,25.11709",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Nischintapur"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1226279881,
-    "wof:lastmodified":1537585840,
+    "wof:lastmodified":1566610363,
     "wof:name":"Nischintapur",
     "wof:parent_id":421191663,
     "wof:placetype":"locality",

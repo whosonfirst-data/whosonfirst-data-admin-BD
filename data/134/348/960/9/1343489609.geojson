@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.76234,23.03408,89.80234,23.07408",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0627\u0645\u0648\u0631\u06cc\u0627"
     ],
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1343489609,
-    "wof:lastmodified":1564153124,
+    "wof:lastmodified":1566606440,
     "wof:name":"Amuria",
     "wof:parent_id":421194867,
     "wof:placetype":"locality",

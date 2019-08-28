@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.52362,25.64747,88.56362,25.68747",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "S\u0101bail"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1276692865,
-    "wof:lastmodified":1537586664,
+    "wof:lastmodified":1566607167,
     "wof:name":"Sabail",
     "wof:parent_id":1108694671,
     "wof:placetype":"locality",

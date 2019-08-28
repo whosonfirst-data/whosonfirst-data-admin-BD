@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"91.23824,24.26611,91.27824,24.30611",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Bamoi",
         "Bamai"
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1209545411,
-    "wof:lastmodified":1537586174,
+    "wof:lastmodified":1566607738,
     "wof:name":"Bamai",
     "wof:parent_id":85632475,
     "wof:placetype":"locality",

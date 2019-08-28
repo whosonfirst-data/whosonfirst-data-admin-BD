@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.67592,23.63609,90.71592,23.67609",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Sh\u0101pm\u0101ra Ch\u0101ndanpur",
         "S\u0101pm\u0101ra Chandanpur"
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1360133221,
-    "wof:lastmodified":1537585766,
+    "wof:lastmodified":1566609043,
     "wof:name":"Shapmara Chandanpur",
     "wof:parent_id":421187801,
     "wof:placetype":"locality",

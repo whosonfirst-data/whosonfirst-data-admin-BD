@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.86895,25.39498,88.90895,25.43498",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Nandigr\u0101m"
     ],
@@ -66,7 +70,7 @@
         }
     ],
     "wof:id":1243487747,
-    "wof:lastmodified":1564158528,
+    "wof:lastmodified":1566609639,
     "wof:name":"Nandigram",
     "wof:parent_id":1108694671,
     "wof:placetype":"locality",

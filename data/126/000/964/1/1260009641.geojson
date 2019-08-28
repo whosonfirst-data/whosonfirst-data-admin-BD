@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.96585,24.98754,89.00585,25.02754",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u0100r\u0101zi P\u0101nchgharia"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1260009641,
-    "wof:lastmodified":1537586492,
+    "wof:lastmodified":1566608481,
     "wof:name":"Arazi Panchgharia",
     "wof:parent_id":421191663,
     "wof:placetype":"locality",

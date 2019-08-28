@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.55071,23.35015,89.59071,23.39015",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Moheshpur",
         "Mahespur"
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1209545791,
-    "wof:lastmodified":1537585891,
+    "wof:lastmodified":1566607738,
     "wof:name":"Mahespur",
     "wof:parent_id":85632475,
     "wof:placetype":"locality",

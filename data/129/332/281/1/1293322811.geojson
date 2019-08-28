@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.36493,24.18605,89.40493,24.22605",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "P\u0101r Chaubaria",
         "Chaubaria"
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1293322811,
-    "wof:lastmodified":1537586092,
+    "wof:lastmodified":1566606937,
     "wof:name":"Par Chaubaria",
     "wof:parent_id":421197541,
     "wof:placetype":"locality",

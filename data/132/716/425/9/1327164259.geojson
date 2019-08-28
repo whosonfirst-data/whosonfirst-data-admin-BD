@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.39293,25.96683,88.43293,26.00683",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "S\u0101rali"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1327164259,
-    "wof:lastmodified":1537586650,
+    "wof:lastmodified":1566606218,
     "wof:name":"Sarali",
     "wof:parent_id":1108694703,
     "wof:placetype":"locality",

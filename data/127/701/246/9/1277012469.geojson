@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.97554,25.22563,89.01554,25.26563",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Doghara"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1277012469,
-    "wof:lastmodified":1537586487,
+    "wof:lastmodified":1566607060,
     "wof:name":"Doghara",
     "wof:parent_id":1108694681,
     "wof:placetype":"locality",

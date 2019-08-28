@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.61079,23.41969,89.65079,23.45969",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1293132163,
-    "wof:lastmodified":1536802423,
+    "wof:lastmodified":1566606853,
     "wof:name":"Khailpara",
     "wof:parent_id":421198063,
     "wof:placetype":"locality",

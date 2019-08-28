@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.30206,23.21452,90.34206,23.25452",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Paschim B\u0101gdi",
         "West B\u0101gdi"
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1326567179,
-    "wof:lastmodified":1537585701,
+    "wof:lastmodified":1566605995,
     "wof:name":"Paschim Bagdi",
     "wof:parent_id":421188359,
     "wof:placetype":"locality",

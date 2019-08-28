@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.99747,25.93804,89.03747,25.97804",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "G\u0101r\u0101gaon"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1326463739,
-    "wof:lastmodified":1537586817,
+    "wof:lastmodified":1566606142,
     "wof:name":"Garagaon",
     "wof:parent_id":1108694695,
     "wof:placetype":"locality",

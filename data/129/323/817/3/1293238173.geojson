@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.16921,22.58468,90.20921,22.62468",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1293238173,
-    "wof:lastmodified":1536649137,
+    "wof:lastmodified":1566606788,
     "wof:name":"Deuri",
     "wof:parent_id":1108694677,
     "wof:placetype":"locality",

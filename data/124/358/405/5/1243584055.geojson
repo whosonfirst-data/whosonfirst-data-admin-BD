@@ -27,8 +27,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.29667,24.91333,89.33667,24.95333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0422\u0430\u043d\u0433\u0440\u0430"
     ],
@@ -39,8 +43,7 @@
         "Tangra"
     ],
     "name:und_x_variant":[
-        "Tengra",
-        "Tangra"
+        "Tengra"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":1243584055,
-    "wof:lastmodified":1564158627,
+    "wof:lastmodified":1566609704,
     "wof:name":"Tangra",
     "wof:parent_id":421187793,
     "wof:placetype":"locality",

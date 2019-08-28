@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.70989,26.07454,89.74989,26.11454",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Mahiganj Chalunia"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1276262727,
-    "wof:lastmodified":1537586832,
+    "wof:lastmodified":1566607081,
     "wof:name":"Mahiganj Chalunia",
     "wof:parent_id":1108694685,
     "wof:placetype":"locality",

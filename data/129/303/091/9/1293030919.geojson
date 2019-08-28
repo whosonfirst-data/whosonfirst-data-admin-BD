@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.8651,25.11814,88.9051,25.15814",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Haritakid\u0101nga"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1293030919,
-    "wof:lastmodified":1537586486,
+    "wof:lastmodified":1566606905,
     "wof:name":"Haritakidanga",
     "wof:parent_id":421191663,
     "wof:placetype":"locality",

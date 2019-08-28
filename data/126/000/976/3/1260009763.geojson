@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.5747,23.65556,90.6147,23.69556",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1260009763,
-    "wof:lastmodified":1537090994,
+    "wof:lastmodified":1566608488,
     "wof:name":"Daulatpur Thotalia",
     "wof:parent_id":421197045,
     "wof:placetype":"locality",

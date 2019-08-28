@@ -10,8 +10,11 @@
     "geom:latitude":22.34668,
     "geom:longitude":89.05728,
     "iso:country":"BD",
+    "lbl:bbox":"89.05228,22.34168,89.06228,22.35168",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ben_x_preferred":[
         "Dattanagar"
@@ -61,7 +64,7 @@
     "wof:concordances":{
         "gn:id":1204917,
         "gp:id":55925988,
-        "qs:id":911240,
+        "qs_pg:id":911240,
         "wd:id":"Q810716"
     },
     "wof:country":"BD",
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":421186117,
-    "wof:lastmodified":1563584375,
+    "wof:lastmodified":1566609384,
     "wof:name":"Batanagar",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.02127,23.51482,89.06127,23.55482",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Dahar Pukuria"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1327261971,
-    "wof:lastmodified":1537586401,
+    "wof:lastmodified":1566606193,
     "wof:name":"Dahar Pukuria",
     "wof:parent_id":1108694679,
     "wof:placetype":"locality",

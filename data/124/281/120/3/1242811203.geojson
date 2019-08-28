@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.20173,23.07135,90.24173,23.11135",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "East Mirajdi",
         "East Min\u0101jdi",
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1242811203,
-    "wof:lastmodified":1537586040,
+    "wof:lastmodified":1566609542,
     "wof:name":"Purba Minajdi",
     "wof:parent_id":421183929,
     "wof:placetype":"locality",

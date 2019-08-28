@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.70808,25.6979,88.74808,25.7379",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Jh\u0101njira"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1326660179,
-    "wof:lastmodified":1537585970,
+    "wof:lastmodified":1566606023,
     "wof:name":"Jhanjira",
     "wof:parent_id":1108694671,
     "wof:placetype":"locality",

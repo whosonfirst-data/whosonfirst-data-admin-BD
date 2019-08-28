@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"91.3423,24.3657,91.3823,24.4057",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Gazariakandi",
         "Guj\u0101r\u0101k\u0101ndi",
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1276912545,
-    "wof:lastmodified":1537586007,
+    "wof:lastmodified":1566607631,
     "wof:name":"Gajariakandi",
     "wof:parent_id":421176045,
     "wof:placetype":"locality",

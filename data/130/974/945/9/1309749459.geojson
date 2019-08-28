@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.81948,25.14866,88.85948,25.18866",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Daulatpur"
     ],
@@ -81,7 +85,7 @@
         }
     ],
     "wof:id":1309749459,
-    "wof:lastmodified":1564158098,
+    "wof:lastmodified":1566609361,
     "wof:name":"Daulatpur",
     "wof:parent_id":421191663,
     "wof:placetype":"locality",

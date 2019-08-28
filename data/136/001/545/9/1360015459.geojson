@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.46822,24.94897,88.50822,24.98897",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Non\u0101h\u0101r"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1360015459,
-    "wof:lastmodified":1537585827,
+    "wof:lastmodified":1566609105,
     "wof:name":"Nonahar",
     "wof:parent_id":421191663,
     "wof:placetype":"locality",

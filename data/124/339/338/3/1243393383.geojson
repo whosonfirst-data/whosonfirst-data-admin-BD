@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.73518,24.83712,90.77518,24.87712",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Bil Guzabagi",
         "Bil Guj\u0101bagi",
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1243393383,
-    "wof:lastmodified":1537586132,
+    "wof:lastmodified":1566609481,
     "wof:name":"Bil Gujabag",
     "wof:parent_id":421200811,
     "wof:placetype":"locality",

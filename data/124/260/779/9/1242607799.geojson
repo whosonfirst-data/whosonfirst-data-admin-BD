@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.9847,22.43161,89.0247,22.47161",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Pota"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1242607799,
-    "wof:lastmodified":1537586599,
+    "wof:lastmodified":1566609596,
     "wof:name":"Pota",
     "wof:parent_id":421201927,
     "wof:placetype":"locality",

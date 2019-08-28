@@ -27,8 +27,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.69667,23.11333,90.73667,23.15333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Char Supua",
         "Char S\u0101pua"
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1242921935,
-    "wof:lastmodified":1537586094,
+    "wof:lastmodified":1566609562,
     "wof:name":"Char Sapua",
     "wof:parent_id":1108694669,
     "wof:placetype":"locality",

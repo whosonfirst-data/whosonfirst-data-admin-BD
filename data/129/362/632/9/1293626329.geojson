@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.19501,23.49011,89.23501,23.53011",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Bara M\u0101ndarb\u0101ria"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1293626329,
-    "wof:lastmodified":1537586410,
+    "wof:lastmodified":1566606703,
     "wof:name":"Bara Mandarbaria",
     "wof:parent_id":1108694679,
     "wof:placetype":"locality",

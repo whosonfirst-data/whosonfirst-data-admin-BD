@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.71082,24.04537,90.75082,24.08537",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Bangla Satp\u0101ra",
         "B\u0101ng\u0101l S\u0101tp\u0101ra"
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1310038997,
-    "wof:lastmodified":1537586171,
+    "wof:lastmodified":1566608954,
     "wof:name":"Bangla Satpara",
     "wof:parent_id":421169707,
     "wof:placetype":"locality",

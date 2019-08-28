@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.53576,25.86447,89.57576,25.90447",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Bud\u0101ru"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1326463625,
-    "wof:lastmodified":1537586800,
+    "wof:lastmodified":1566606128,
     "wof:name":"Budaru",
     "wof:parent_id":1108694687,
     "wof:placetype":"locality",

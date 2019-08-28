@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.20386,25.88951,88.24386,25.92951",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "B\u0101lid\u0101ra"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1309834257,
-    "wof:lastmodified":1537586175,
+    "wof:lastmodified":1566609226,
     "wof:name":"Balidara",
     "wof:parent_id":1108694703,
     "wof:placetype":"locality",

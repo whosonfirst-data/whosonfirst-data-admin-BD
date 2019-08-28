@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.79406,23.88816,89.83406,23.92816",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Bardhamankandi",
         "Barddham\u0101n K\u0101ndi"
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1276262677,
-    "wof:lastmodified":1537586158,
+    "wof:lastmodified":1566607083,
     "wof:name":"Barddhaman Kandi",
     "wof:parent_id":421191745,
     "wof:placetype":"locality",

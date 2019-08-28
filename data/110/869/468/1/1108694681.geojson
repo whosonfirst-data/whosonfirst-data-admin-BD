@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":25.126748,
     "lbl:longitude":89.093079,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"RAJSHAHI",
     "meso:gadm_admin":"Jaipurhat",
     "meso:gadm_hasc2":"BD.RS.JP",
@@ -31,6 +33,7 @@
     "mps:longitude":89.093079,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ben_x_preferred":[
         "\u099c\u09af\u09bc\u09aa\u09c1\u09b0\u09b9\u09be\u099f \u099c\u09c7\u09b2\u09be"
     ],
@@ -103,9 +106,9 @@
         "\u7126\u4f0a\u5e03\u5c14\u54c8\u5fb7\u53bf"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-03-15",
+    "src:population_date":"2011-03-15",
     "statoids:area_km":"1,012",
     "statoids:as_of_date":"2011-03-15",
     "statoids:capital":"Jaipurhat",
@@ -138,7 +141,7 @@
         }
     ],
     "wof:id":1108694681,
-    "wof:lastmodified":1563583268,
+    "wof:lastmodified":1566608677,
     "wof:name":"Joypurhat",
     "wof:parent_id":85669031,
     "wof:placetype":"county",

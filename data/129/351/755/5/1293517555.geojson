@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.85045,24.44778,90.89045,24.48778",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0643\u0627\u0631\u064a\u0645\u062c\u0627\u0646\u062c"
     ],
@@ -95,8 +99,7 @@
         "\u041a\u0430\u0439\u043c\u0433\u0430\u043d\u0434\u0436"
     ],
     "name:und_x_variant":[
-        "Kari\u012bganj",
-        "Kar\u012bmganj"
+        "Kari\u012bganj"
     ],
     "name:urd_x_preferred":[
         "\u06a9\u0631\u06cc\u0645 \u06af\u0646\u062c"
@@ -130,7 +133,7 @@
         }
     ],
     "wof:id":1293517555,
-    "wof:lastmodified":1564154325,
+    "wof:lastmodified":1566606955,
     "wof:name":"Karimganj",
     "wof:parent_id":421170483,
     "wof:placetype":"locality",

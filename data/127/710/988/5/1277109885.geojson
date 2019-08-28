@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.76388,24.79171,90.80388,24.83171",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Darun Has\u0101npur",
         "Darun H\u0101s\u0101mpur"
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1277109885,
-    "wof:lastmodified":1537586065,
+    "wof:lastmodified":1566607682,
     "wof:name":"Darun Hasanpur",
     "wof:parent_id":421200811,
     "wof:placetype":"locality",

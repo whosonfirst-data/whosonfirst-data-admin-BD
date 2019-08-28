@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.74253,25.46044,89.78253,25.50044",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Kh\u0101rubhai"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1293134209,
-    "wof:lastmodified":1537586818,
+    "wof:lastmodified":1566606865,
     "wof:name":"Kharubhai",
     "wof:parent_id":1108694685,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"91.94546,22.31692,91.98546,22.35692",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Dhalgh\u0101t"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1343403475,
-    "wof:lastmodified":1537586058,
+    "wof:lastmodified":1566606477,
     "wof:name":"Dhalghat",
     "wof:parent_id":421201541,
     "wof:placetype":"locality",

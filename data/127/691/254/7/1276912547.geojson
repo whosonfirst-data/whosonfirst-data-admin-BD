@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.85199,23.83168,88.89199,23.87168",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Parbhol\u0101d\u0101nga"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1276912547,
-    "wof:lastmodified":1537586565,
+    "wof:lastmodified":1566607631,
     "wof:name":"Parbholadanga",
     "wof:parent_id":890438075,
     "wof:placetype":"locality",

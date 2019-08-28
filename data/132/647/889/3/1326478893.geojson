@@ -26,15 +26,16 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"92.14492,21.74664,92.18492,21.78664",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Phait\u0101p\u0101ra"
     ],
     "name:ben_x_variant":[
-        "Yanohha"
-    ],
-    "name:und_x_variant":[
         "Yanohha"
     ],
     "src:geom":"geonames",
@@ -60,7 +61,7 @@
         }
     ],
     "wof:id":1326478893,
-    "wof:lastmodified":1537586237,
+    "wof:lastmodified":1566606124,
     "wof:name":"Phaitapara",
     "wof:parent_id":421169477,
     "wof:placetype":"locality",

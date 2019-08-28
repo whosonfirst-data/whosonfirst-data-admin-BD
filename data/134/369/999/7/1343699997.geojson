@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"91.87197,21.7134,91.91197,21.7534",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "N\u0101papara"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1343699997,
-    "wof:lastmodified":1537586362,
+    "wof:lastmodified":1566606527,
     "wof:name":"Napapara",
     "wof:parent_id":421205057,
     "wof:placetype":"locality",

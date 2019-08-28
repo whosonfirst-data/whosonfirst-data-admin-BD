@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.42363,24.79088,89.46363,24.83088",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Lakshikhola",
         "Lakshmikhola"
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1309745443,
-    "wof:lastmodified":1537585904,
+    "wof:lastmodified":1566609337,
     "wof:name":"Lakshmikhola",
     "wof:parent_id":421187793,
     "wof:placetype":"locality",

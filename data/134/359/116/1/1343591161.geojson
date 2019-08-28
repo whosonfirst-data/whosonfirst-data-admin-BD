@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.51262,21.91416,90.55262,21.95416",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Dakshin Char Lakshmi"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1343591161,
-    "wof:lastmodified":1537586374,
+    "wof:lastmodified":1566606497,
     "wof:name":"Dakshin Char Lakshmi",
     "wof:parent_id":421169845,
     "wof:placetype":"locality",

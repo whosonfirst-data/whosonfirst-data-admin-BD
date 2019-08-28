@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.25352,24.52381,88.29352,24.56381",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Hypath Biswatuly"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1310531339,
-    "wof:lastmodified":1537586507,
+    "wof:lastmodified":1566608809,
     "wof:name":"Hypath Biswatuly",
     "wof:parent_id":421191607,
     "wof:placetype":"locality",

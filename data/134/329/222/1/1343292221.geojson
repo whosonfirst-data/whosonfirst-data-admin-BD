@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.85096,25.00428,88.89096,25.04428",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Kundan"
     ],
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":1343292221,
-    "wof:lastmodified":1564153524,
+    "wof:lastmodified":1566606616,
     "wof:name":"Kundan",
     "wof:parent_id":421191663,
     "wof:placetype":"locality",

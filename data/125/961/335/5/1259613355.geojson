@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.49623,22.72181,90.53623,22.76181",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Maz Kazir Char",
         "K\u0101z\u012br Char"
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1259613355,
-    "wof:lastmodified":1537585935,
+    "wof:lastmodified":1566610126,
     "wof:name":"Kazir Char",
     "wof:parent_id":421187745,
     "wof:placetype":"locality",

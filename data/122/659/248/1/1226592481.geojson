@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.88691,23.35145,90.92691,23.39145",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Dawchar",
         "D\u0101nr Char"
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1226592481,
-    "wof:lastmodified":1537586068,
+    "wof:lastmodified":1566610427,
     "wof:name":"Danr Char",
     "wof:parent_id":1108694669,
     "wof:placetype":"locality",

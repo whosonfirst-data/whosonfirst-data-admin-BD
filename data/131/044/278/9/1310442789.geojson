@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.15707,25.1515,89.19707,25.1915",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "N\u014dodoba"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1310442789,
-    "wof:lastmodified":1537586727,
+    "wof:lastmodified":1566608888,
     "wof:name":"Noodoba",
     "wof:parent_id":1108694681,
     "wof:placetype":"locality",

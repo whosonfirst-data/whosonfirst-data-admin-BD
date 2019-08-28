@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.27355,22.44556,90.31355,22.48556",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "R\u0101mpur"
     ],
@@ -99,7 +103,7 @@
         }
     ],
     "wof:id":1276370359,
-    "wof:lastmodified":1564155285,
+    "wof:lastmodified":1566607612,
     "wof:name":"Rampur",
     "wof:parent_id":421169845,
     "wof:placetype":"locality",

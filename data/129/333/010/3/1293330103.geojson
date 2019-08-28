@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.90435,25.03933,88.94435,25.07933",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Chak Chaitanya"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1293330103,
-    "wof:lastmodified":1537586451,
+    "wof:lastmodified":1566606979,
     "wof:name":"Chak Chaitanya",
     "wof:parent_id":421191663,
     "wof:placetype":"locality",

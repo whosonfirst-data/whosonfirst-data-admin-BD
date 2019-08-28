@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.96979,23.20707,89.00979,23.24707",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Dhenkipota"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1226272417,
-    "wof:lastmodified":1537586589,
+    "wof:lastmodified":1566610348,
     "wof:name":"Dhenkipota",
     "wof:parent_id":421176039,
     "wof:placetype":"locality",

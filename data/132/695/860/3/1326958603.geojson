@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.13827,24.53019,89.17827,24.57019",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Khorda Changram",
         "Khorda Chaugr\u0101m"
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1326958603,
-    "wof:lastmodified":1537585923,
+    "wof:lastmodified":1566606038,
     "wof:name":"Khorda Chaugram",
     "wof:parent_id":421182115,
     "wof:placetype":"locality",

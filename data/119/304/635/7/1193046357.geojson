@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.83813,26.18188,88.87813,26.22188",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Bechuniap\u0101ra"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1193046357,
-    "wof:lastmodified":1537586306,
+    "wof:lastmodified":1566608335,
     "wof:name":"Bechuniapara",
     "wof:parent_id":1108694695,
     "wof:placetype":"locality",

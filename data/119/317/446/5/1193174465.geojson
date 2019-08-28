@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.14354,22.96976,90.18354,23.00976",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "East Basunda"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1193174465,
-    "wof:lastmodified":1537586042,
+    "wof:lastmodified":1566608420,
     "wof:name":"Purba Basunda",
     "wof:parent_id":421187745,
     "wof:placetype":"locality",

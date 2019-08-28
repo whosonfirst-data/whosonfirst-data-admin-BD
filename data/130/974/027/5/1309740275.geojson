@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.04849,23.95686,90.08849,23.99686",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1309740275,
-    "wof:lastmodified":1537024598,
+    "wof:lastmodified":1566609348,
     "wof:name":"Kamarpara",
     "wof:parent_id":421187803,
     "wof:placetype":"locality",

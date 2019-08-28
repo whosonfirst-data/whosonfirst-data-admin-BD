@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.11302,25.94252,88.15302,25.98252",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Minmanchatar"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1242808131,
-    "wof:lastmodified":1537586637,
+    "wof:lastmodified":1566609523,
     "wof:name":"Minmanchatar",
     "wof:parent_id":1108694703,
     "wof:placetype":"locality",

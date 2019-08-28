@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"91.94011,22.34637,91.98011,22.38637",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Kalaya H\u0101t"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1344199773,
-    "wof:lastmodified":1537586222,
+    "wof:lastmodified":1566606561,
     "wof:name":"Kalaya Hat",
     "wof:parent_id":421201541,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"91.8342,21.77771,91.8742,21.81771",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "K\u0101lurdeil"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1277114821,
-    "wof:lastmodified":1537586253,
+    "wof:lastmodified":1566607686,
     "wof:name":"Kalurdeil",
     "wof:parent_id":421205057,
     "wof:placetype":"locality",

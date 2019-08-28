@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"91.05863,24.25125,91.09863,24.29125",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062f\u0648\u063a\u0627\u0631"
     ],
@@ -138,7 +142,7 @@
         }
     ],
     "wof:id":1276156663,
-    "wof:lastmodified":1564155068,
+    "wof:lastmodified":1566607397,
     "wof:name":"Deoghar",
     "wof:parent_id":421170483,
     "wof:placetype":"locality",

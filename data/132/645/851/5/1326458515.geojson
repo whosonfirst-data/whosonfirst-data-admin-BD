@@ -23,19 +23,18 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.70889,25.13864,89.74889,25.17864",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Halk\u0101r Char"
     ],
     "name:ben_x_variant":[
         "Halker Char",
         "Halk\u0101char"
-    ],
-    "name:und_x_variant":[
-        "Halk\u0101char",
-        "Halker Char",
-        "Halk\u0101r Char"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -60,7 +59,7 @@
         }
     ],
     "wof:id":1326458515,
-    "wof:lastmodified":1537586003,
+    "wof:lastmodified":1566605958,
     "wof:name":"Halkar Char",
     "wof:parent_id":421191923,
     "wof:placetype":"locality",

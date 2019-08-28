@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.64345,23.7068,88.68345,23.7468",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "Kola"
     ],
@@ -150,7 +154,7 @@
         }
     ],
     "wof:id":1276267161,
-    "wof:lastmodified":1564154663,
+    "wof:lastmodified":1566607101,
     "wof:name":"Kola",
     "wof:parent_id":421191661,
     "wof:placetype":"locality",

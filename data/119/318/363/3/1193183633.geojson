@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"91.99729,21.53389,92.03729,21.57389",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Ich\u0101kali"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1193183633,
-    "wof:lastmodified":1537586235,
+    "wof:lastmodified":1566608387,
     "wof:name":"Ichakali",
     "wof:parent_id":421205057,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.96664,22.97635,89.00664,23.01635",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "S\u0101mta"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1242607661,
-    "wof:lastmodified":1537585769,
+    "wof:lastmodified":1566609601,
     "wof:name":"Samta",
     "wof:parent_id":421176039,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.44006,25.84743,89.48006,25.88743",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Satpatki"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1260110059,
-    "wof:lastmodified":1537586808,
+    "wof:lastmodified":1566608601,
     "wof:name":"Satpatki",
     "wof:parent_id":1108694687,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.96007,22.31721,91.00007,22.35721",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "K\u0101lajajir Taluk"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1226082559,
-    "wof:lastmodified":1537586394,
+    "wof:lastmodified":1566610756,
     "wof:name":"Kalajajir Taluk",
     "wof:parent_id":421184491,
     "wof:placetype":"locality",

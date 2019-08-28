@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.24194,25.93219,89.28194,25.97219",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Harabanimagar"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1193046295,
-    "wof:lastmodified":1537586810,
+    "wof:lastmodified":1566608333,
     "wof:name":"Harabanimagar",
     "wof:parent_id":1108694687,
     "wof:placetype":"locality",

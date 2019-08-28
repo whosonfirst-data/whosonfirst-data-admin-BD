@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.13992,22.47888,89.17992,22.51888",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "D\u0101ng\u0101n\u0101t\u0101na"
     ],
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1209645061,
-    "wof:lastmodified":1537586601,
+    "wof:lastmodified":1566607781,
     "wof:name":"Danganatana",
     "wof:parent_id":85632475,
     "wof:placetype":"locality",

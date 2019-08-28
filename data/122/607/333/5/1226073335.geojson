@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.32184,23.49385,89.36184,23.53385",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Alipur",
         "\u0100l\u0101ipur"
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1226073335,
-    "wof:lastmodified":1537586207,
+    "wof:lastmodified":1566610782,
     "wof:name":"Alaipur",
     "wof:parent_id":1108694689,
     "wof:placetype":"locality",

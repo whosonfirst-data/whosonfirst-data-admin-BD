@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.95272,24.59347,90.99272,24.63347",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1225874785,
-    "wof:lastmodified":1536971559,
+    "wof:lastmodified":1566610507,
     "wof:name":"Deosalia",
     "wof:parent_id":421200811,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.04609,22.3944,90.08609,22.4344",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Chechri R\u0101mpur"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1209139199,
-    "wof:lastmodified":1537586090,
+    "wof:lastmodified":1566607965,
     "wof:name":"Chechri Rampur",
     "wof:parent_id":85632475,
     "wof:placetype":"locality",

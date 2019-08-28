@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.46083,23.6329,90.50083,23.6729",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1293517499,
-    "wof:lastmodified":1536743655,
+    "wof:lastmodified":1566606958,
     "wof:name":"Siachar",
     "wof:parent_id":421197045,
     "wof:placetype":"locality",

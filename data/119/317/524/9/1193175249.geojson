@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"91.49722,22.45167,91.53722,22.49167",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1193175249,
-    "wof:lastmodified":1536376066,
+    "wof:lastmodified":1566608446,
     "wof:name":"Magdhara",
     "wof:parent_id":421201541,
     "wof:placetype":"locality",

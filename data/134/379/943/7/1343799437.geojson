@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.12268,24.68956,88.16268,24.72956",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Purba Shampur"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1343799437,
-    "wof:lastmodified":1537586499,
+    "wof:lastmodified":1566606426,
     "wof:name":"Purba Shampur",
     "wof:parent_id":421191607,
     "wof:placetype":"locality",

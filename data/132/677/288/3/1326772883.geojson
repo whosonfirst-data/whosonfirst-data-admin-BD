@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.91379,22.86722,90.95379,22.90722",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Gor\u0101rb\u0101g",
         "Gor\u0101rb\u0101gh",
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1326772883,
-    "wof:lastmodified":1537586009,
+    "wof:lastmodified":1566606147,
     "wof:name":"Gopar Bagh",
     "wof:parent_id":421166521,
     "wof:placetype":"locality",

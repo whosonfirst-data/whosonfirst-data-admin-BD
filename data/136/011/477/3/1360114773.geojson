@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.96536,24.30815,89.00536,24.34815",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Noap\u0101ra"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1360114773,
-    "wof:lastmodified":1537586548,
+    "wof:lastmodified":1566609133,
     "wof:name":"Noapara",
     "wof:parent_id":421182115,
     "wof:placetype":"locality",

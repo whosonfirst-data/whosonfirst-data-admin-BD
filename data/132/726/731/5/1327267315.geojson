@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.41147,24.83559,89.45147,24.87559",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1327267315,
-    "wof:lastmodified":1536919916,
+    "wof:lastmodified":1566606182,
     "wof:name":"Chak Dhanai",
     "wof:parent_id":421187793,
     "wof:placetype":"locality",

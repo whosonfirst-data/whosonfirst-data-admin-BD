@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"92.02548,22.66181,92.06548,22.70181",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Ult\u0101p\u0101ra"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1327172349,
-    "wof:lastmodified":1537586251,
+    "wof:lastmodified":1566606207,
     "wof:name":"Ultapara",
     "wof:parent_id":421188983,
     "wof:placetype":"locality",

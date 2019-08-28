@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.98105,22.59923,90.02105,22.63923",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Tona"
     ],
@@ -102,7 +106,7 @@
         }
     ],
     "wof:id":1327271291,
-    "wof:lastmodified":1564152745,
+    "wof:lastmodified":1566606240,
     "wof:name":"Tona",
     "wof:parent_id":421172031,
     "wof:placetype":"locality",

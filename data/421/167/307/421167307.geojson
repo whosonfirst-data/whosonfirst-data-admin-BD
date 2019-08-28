@@ -10,10 +10,14 @@
     "geom:latitude":25.67419,
     "geom:longitude":89.05377,
     "iso:country":"BD",
+    "lbl:bbox":"89.03377,25.65419,89.07377,25.69419",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Badarganja"
     ],
     "qs:gn_country":"BD",
@@ -46,7 +50,7 @@
     "wof:concordances":{
         "gn:id":1185283,
         "gp:id":1914978,
-        "qs:id":130915
+        "qs_pg:id":130915
     },
     "wof:country":"BD",
     "wof:created":1459008726,
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":421167307,
-    "wof:lastmodified":1505340585,
+    "wof:lastmodified":1566609370,
     "wof:name":"Badarganj",
     "wof:parent_id":1108694701,
     "wof:placetype":"locality",

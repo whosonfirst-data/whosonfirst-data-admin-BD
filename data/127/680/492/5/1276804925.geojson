@@ -26,17 +26,17 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.037,25.47036,89.077,25.51036",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Rah\u012bm\u0101pur"
     ],
     "name:ben_x_variant":[
         "Rahimapoor"
-    ],
-    "name:und_x_variant":[
-        "Rahimapoor",
-        "Rah\u012bm\u0101pur"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -61,7 +61,7 @@
         }
     ],
     "wof:id":1276804925,
-    "wof:lastmodified":1537585797,
+    "wof:lastmodified":1566607123,
     "wof:name":"Rahimapur",
     "wof:parent_id":1108694671,
     "wof:placetype":"locality",

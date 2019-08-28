@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.32065,25.45182,89.36065,25.49182",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Khamar Sadullahpur"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1277020199,
-    "wof:lastmodified":1537586751,
+    "wof:lastmodified":1566607325,
     "wof:name":"Khamar Sadullahpur",
     "wof:parent_id":1108694701,
     "wof:placetype":"locality",

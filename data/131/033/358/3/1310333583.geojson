@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.67581,25.9429,89.71581,25.9829",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Chatia Bil"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1310333583,
-    "wof:lastmodified":1537586798,
+    "wof:lastmodified":1566609010,
     "wof:name":"Chatia Bil",
     "wof:parent_id":1108694685,
     "wof:placetype":"locality",

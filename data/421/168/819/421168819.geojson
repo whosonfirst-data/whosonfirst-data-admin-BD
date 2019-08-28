@@ -10,6 +10,9 @@
     "geom:latitude":24.89904,
     "geom:longitude":91.87198,
     "iso:country":"BD",
+    "lbl:bbox":"91.85198,24.87904,91.89198,24.91904",
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":7.0,
@@ -197,7 +200,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u0456\u043b\u0435\u0442"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "R\u0101jnagar"
     ],
     "name:urd_x_preferred":[
@@ -338,7 +341,7 @@
     "wof:concordances":{
         "gn:id":1185099,
         "gp:id":1915247,
-        "qs:id":273877,
+        "qs_pg:id":273877,
         "wd:id":"Q466221",
         "wk:page":"Sylhet"
     },
@@ -355,7 +358,7 @@
         }
     ],
     "wof:id":421168819,
-    "wof:lastmodified":1563584342,
+    "wof:lastmodified":1566609366,
     "wof:name":"Sylhet",
     "wof:parent_id":421187795,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.96286,23.37995,91.00286,23.41995",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1326578097,
-    "wof:lastmodified":1536918615,
+    "wof:lastmodified":1566606048,
     "wof:name":"Muriara",
     "wof:parent_id":421187801,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.91843,24.93167,88.95843,24.97167",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "K\u0101rtik\u0101h\u0101r"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1225874503,
-    "wof:lastmodified":1537585943,
+    "wof:lastmodified":1566610533,
     "wof:name":"Kartikahar",
     "wof:parent_id":421191663,
     "wof:placetype":"locality",

@@ -27,8 +27,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"92.13,24.71333,92.17,24.75333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Sankarpur"
     ],
@@ -42,8 +46,7 @@
         "Sankarpur"
     ],
     "name:und_x_variant":[
-        "Sanakpur",
-        "Sankarpur"
+        "Sanakpur"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":1310043117,
-    "wof:lastmodified":1564157455,
+    "wof:lastmodified":1566608974,
     "wof:name":"Sankarpur",
     "wof:parent_id":1108694693,
     "wof:placetype":"locality",

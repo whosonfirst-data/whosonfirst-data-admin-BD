@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.9859,22.69595,89.0259,22.73595",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1259909833,
-    "wof:lastmodified":1536741106,
+    "wof:lastmodified":1566609995,
     "wof:name":"Banstala",
     "wof:parent_id":421201927,
     "wof:placetype":"locality",

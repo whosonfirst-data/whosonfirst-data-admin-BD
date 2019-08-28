@@ -27,8 +27,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.89667,23.08,89.93667,23.12",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Thutamanda",
         "Thuta M\u0101ndra"
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1276150947,
-    "wof:lastmodified":1537585713,
+    "wof:lastmodified":1566607433,
     "wof:name":"Thuta Mandra",
     "wof:parent_id":421194867,
     "wof:placetype":"locality",

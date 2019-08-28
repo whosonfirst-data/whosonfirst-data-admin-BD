@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.57273,22.40146,90.61273,22.44146",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Dh\u0101ndi"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1259411245,
-    "wof:lastmodified":1537586057,
+    "wof:lastmodified":1566610049,
     "wof:name":"Dhandi",
     "wof:parent_id":421169845,
     "wof:placetype":"locality",

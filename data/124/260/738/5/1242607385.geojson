@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"91.85683,24.21468,91.89683,24.25468",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kanaideshi",
         "K\u0101n\u0101id\u0101si"
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1242607385,
-    "wof:lastmodified":1537585950,
+    "wof:lastmodified":1566609593,
     "wof:name":"Kanaidasi",
     "wof:parent_id":1108694693,
     "wof:placetype":"locality",

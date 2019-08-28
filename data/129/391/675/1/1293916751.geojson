@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.58222,22.75372,89.62222,22.79372",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "J\u0101busia"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1293916751,
-    "wof:lastmodified":1537585983,
+    "wof:lastmodified":1566606676,
     "wof:name":"Jabusia",
     "wof:parent_id":421185473,
     "wof:placetype":"locality",

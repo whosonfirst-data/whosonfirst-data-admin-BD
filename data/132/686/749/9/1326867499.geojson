@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.69016,25.07311,88.73016,25.11311",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Khodpaniura"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1326867499,
-    "wof:lastmodified":1537586681,
+    "wof:lastmodified":1566605937,
     "wof:name":"Khodpaniura",
     "wof:parent_id":421191663,
     "wof:placetype":"locality",

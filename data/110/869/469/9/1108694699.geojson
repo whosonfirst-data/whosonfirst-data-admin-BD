@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":23.708013,
     "lbl:longitude":89.557705,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"DHAKA",
     "meso:gadm_admin":"Rajbari",
     "meso:gadm_hasc2":"BD.DA.RB",
@@ -31,6 +33,7 @@
     "mps:longitude":89.557705,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ben_x_preferred":[
         "\u09b0\u09be\u099c\u09ac\u09be\u09a1\u09bc\u09c0 \u099c\u09c7\u09b2\u09be"
     ],
@@ -108,9 +111,9 @@
         "\u62c9\u6770\u5df4\u91cc\u53bf"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-03-15",
+    "src:population_date":"2011-03-15",
     "statoids:area_km":"1,092",
     "statoids:as_of_date":"2011-03-15",
     "statoids:capital":"Rajbari",
@@ -143,7 +146,7 @@
         }
     ],
     "wof:id":1108694699,
-    "wof:lastmodified":1563583265,
+    "wof:lastmodified":1566608675,
     "wof:name":"Rajbari",
     "wof:parent_id":85669009,
     "wof:placetype":"county",

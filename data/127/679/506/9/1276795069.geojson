@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.09759,23.69173,89.13759,23.73173",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Pearpur"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1276795069,
-    "wof:lastmodified":1537586406,
+    "wof:lastmodified":1566607470,
     "wof:name":"Pearpur",
     "wof:parent_id":1108694679,
     "wof:placetype":"locality",

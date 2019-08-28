@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.10144,25.05251,90.14144,25.09251",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Goglajani"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1310338623,
-    "wof:lastmodified":1537586794,
+    "wof:lastmodified":1566609016,
     "wof:name":"Goglajani",
     "wof:parent_id":421190979,
     "wof:placetype":"locality",

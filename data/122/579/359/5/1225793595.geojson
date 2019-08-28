@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"91.63778,22.6,91.67778,22.64",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kaz_x_preferred":[
         "\u0421\u0438\u0442\u0430\u043a\u0443\u043d\u0434\u0430"
     ],
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":1225793595,
-    "wof:lastmodified":1564160246,
+    "wof:lastmodified":1566610813,
     "wof:name":"Sitakunda",
     "wof:parent_id":421201541,
     "wof:placetype":"locality",

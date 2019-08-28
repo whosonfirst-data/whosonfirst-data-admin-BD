@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.29182,24.75526,89.33182,24.79526",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kalmasiba",
         "Kalm\u0101shiba"
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1226372417,
-    "wof:lastmodified":1537585953,
+    "wof:lastmodified":1566610730,
     "wof:name":"Kalmashiba",
     "wof:parent_id":421187793,
     "wof:placetype":"locality",

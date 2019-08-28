@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.54262,23.59718,90.58262,23.63718",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "M\u0101h\u0101r\u0101banda Chak"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1327060047,
-    "wof:lastmodified":1537585893,
+    "wof:lastmodified":1566605876,
     "wof:name":"Maharabanda",
     "wof:parent_id":421197045,
     "wof:placetype":"locality",

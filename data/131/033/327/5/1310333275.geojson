@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.59376,24.35165,88.63376,24.39165",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Upar Bhadra"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1310333275,
-    "wof:lastmodified":1537586534,
+    "wof:lastmodified":1566609020,
     "wof:name":"Upar Bhadra",
     "wof:parent_id":421172439,
     "wof:placetype":"locality",

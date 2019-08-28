@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.35328,23.13212,90.39328,23.17212",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Char Mulgaon",
         "Char M\u0101lgaon"
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1242715433,
-    "wof:lastmodified":1537586097,
+    "wof:lastmodified":1566609752,
     "wof:name":"Char Malgaon",
     "wof:parent_id":421188359,
     "wof:placetype":"locality",

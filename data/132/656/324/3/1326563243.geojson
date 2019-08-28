@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.22007,23.41088,90.26007,23.45088",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Bajeswar",
         "Bateswar"
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1326563243,
-    "wof:lastmodified":1537586153,
+    "wof:lastmodified":1566605981,
     "wof:name":"Bateswar",
     "wof:parent_id":421183929,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.54628,25.15916,89.58628,25.19916",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:amh_x_preferred":[
         "\u121b\u1295\u12f1\u122b"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1292933769,
-    "wof:lastmodified":1564153836,
+    "wof:lastmodified":1566606753,
     "wof:name":"Mandura",
     "wof:parent_id":1108694675,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.92023,25.13805,89.96023,25.17805",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Jaikata"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1226073041,
-    "wof:lastmodified":1537586782,
+    "wof:lastmodified":1566610779,
     "wof:name":"Jaikata",
     "wof:parent_id":421190979,
     "wof:placetype":"locality",

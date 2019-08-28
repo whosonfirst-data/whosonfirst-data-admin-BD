@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.95593,24.16195,89.99593,24.20195",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "M\u012br Kumalli"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1276374867,
-    "wof:lastmodified":1537585869,
+    "wof:lastmodified":1566607609,
     "wof:name":"Mir Kumulli",
     "wof:parent_id":421185471,
     "wof:placetype":"locality",

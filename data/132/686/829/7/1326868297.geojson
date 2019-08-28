@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"91.89447,22.78028,91.93447,22.82028",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Jurg\u0101char\u012bp\u0101ra"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1326868297,
-    "wof:lastmodified":1537586370,
+    "wof:lastmodified":1566605928,
     "wof:name":"Jurgacharipara",
     "wof:parent_id":1108694683,
     "wof:placetype":"locality",

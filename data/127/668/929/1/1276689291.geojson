@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.89456,24.26301,88.93456,24.30301",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "M\u0101lig\u0101chhi"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1276689291,
-    "wof:lastmodified":1537585882,
+    "wof:lastmodified":1566607293,
     "wof:name":"Maligachhi",
     "wof:parent_id":421182115,
     "wof:placetype":"locality",

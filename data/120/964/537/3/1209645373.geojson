@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.08759,22.46313,90.12759,22.50313",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Nay\u0101kh\u0101li"
     ],
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1209645373,
-    "wof:lastmodified":1537586352,
+    "wof:lastmodified":1566607780,
     "wof:name":"Nayakhali",
     "wof:parent_id":85632475,
     "wof:placetype":"locality",

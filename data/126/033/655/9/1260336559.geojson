@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"91.74209,22.53838,91.78209,22.57838",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "K\u0101nchanpur"
     ],
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1260336559,
-    "wof:lastmodified":1564156943,
+    "wof:lastmodified":1566608667,
     "wof:name":"Kanchanpur",
     "wof:parent_id":421201541,
     "wof:placetype":"locality",

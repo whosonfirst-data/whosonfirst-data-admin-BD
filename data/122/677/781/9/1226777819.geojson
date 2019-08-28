@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.79117,25.09447,89.83117,25.13447",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Sirajabad"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1226777819,
-    "wof:lastmodified":1537586784,
+    "wof:lastmodified":1566610693,
     "wof:name":"Sirajabad",
     "wof:parent_id":421191923,
     "wof:placetype":"locality",

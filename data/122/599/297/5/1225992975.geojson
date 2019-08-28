@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"92.11431,21.55983,92.15431,21.59983",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Has\u012bn\u0101p\u0101ra"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1225992975,
-    "wof:lastmodified":1537586235,
+    "wof:lastmodified":1566610544,
     "wof:name":"Hasinapara",
     "wof:parent_id":421205057,
     "wof:placetype":"locality",

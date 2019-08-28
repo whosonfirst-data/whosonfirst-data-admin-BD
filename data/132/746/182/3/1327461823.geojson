@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.82604,24.89318,88.86604,24.93318",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Khosh\u0101lb\u0101ri"
     ],
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1327461823,
-    "wof:lastmodified":1537585922,
+    "wof:lastmodified":1566606083,
     "wof:name":"Khoshalbari",
     "wof:parent_id":421191663,
     "wof:placetype":"locality",

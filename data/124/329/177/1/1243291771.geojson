@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.24199,22.42708,90.28199,22.46708",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "B\u0101jita"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1243291771,
-    "wof:lastmodified":1537586335,
+    "wof:lastmodified":1566609898,
     "wof:name":"Bajita",
     "wof:parent_id":421169845,
     "wof:placetype":"locality",

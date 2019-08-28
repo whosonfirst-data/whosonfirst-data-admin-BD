@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.45246,24.98213,89.49246,25.02213",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "K\u0101t\u0101gara"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1293138127,
-    "wof:lastmodified":1537586748,
+    "wof:lastmodified":1566606863,
     "wof:name":"Katagara",
     "wof:parent_id":421187793,
     "wof:placetype":"locality",

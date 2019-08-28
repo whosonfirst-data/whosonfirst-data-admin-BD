@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.89667,24.49667,88.93667,24.53667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1343691597,
-    "wof:lastmodified":1536910638,
+    "wof:lastmodified":1566606523,
     "wof:name":"Krishnabati",
     "wof:parent_id":421182115,
     "wof:placetype":"locality",

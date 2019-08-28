@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.48953,24.77718,88.52953,24.81718",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "D\u0101sh\u0101r\u0101i"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1343398411,
-    "wof:lastmodified":1537586064,
+    "wof:lastmodified":1566606316,
     "wof:name":"Dasharai",
     "wof:parent_id":421191663,
     "wof:placetype":"locality",

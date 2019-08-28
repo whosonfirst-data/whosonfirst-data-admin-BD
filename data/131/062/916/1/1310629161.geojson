@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.96932,25.31892,89.00932,25.35892",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Uttar M\u0101dh\u0101bpur"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1310629161,
-    "wof:lastmodified":1537586479,
+    "wof:lastmodified":1566608797,
     "wof:name":"Uttar Madhabpur",
     "wof:parent_id":1108694671,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.77124,22.47657,90.81124,22.51657",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Moh\u0101debpur"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1344187263,
-    "wof:lastmodified":1537586372,
+    "wof:lastmodified":1566606587,
     "wof:name":"Mohadebpur",
     "wof:parent_id":421184491,
     "wof:placetype":"locality",

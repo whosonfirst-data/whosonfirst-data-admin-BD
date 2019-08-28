@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"91.90386,24.78465,91.94386,24.82465",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Negal",
         "Nig\u0101l"
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1310235105,
-    "wof:lastmodified":1537585842,
+    "wof:lastmodified":1566608708,
     "wof:name":"Nigal",
     "wof:parent_id":421187795,
     "wof:placetype":"locality",

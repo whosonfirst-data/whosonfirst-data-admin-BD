@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.63104,26.35363,88.67104,26.39363",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "B\u0101li\u0101d\u0101ngi"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1225974581,
-    "wof:lastmodified":1537586283,
+    "wof:lastmodified":1566610572,
     "wof:name":"Baliadangi",
     "wof:parent_id":1108694697,
     "wof:placetype":"locality",

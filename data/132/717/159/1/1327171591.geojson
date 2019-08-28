@@ -23,19 +23,18 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.54566,25.04397,89.58566,25.08397",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Jum\u0101b\u0101ri"
     ],
     "name:ben_x_variant":[
         "Jumarbari",
         "Joomarbaree"
-    ],
-    "name:und_x_variant":[
-        "Jumarbari",
-        "Joomarbaree",
-        "Jum\u0101b\u0101ri"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -60,7 +59,7 @@
         }
     ],
     "wof:id":1327171591,
-    "wof:lastmodified":1537585964,
+    "wof:lastmodified":1566606204,
     "wof:name":"Jumabari",
     "wof:parent_id":1108694675,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.85011,23.79993,90.89011,23.83993",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Banda Baherchar",
         "Banda B\u0101hir Char"
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1326571989,
-    "wof:lastmodified":1537586172,
+    "wof:lastmodified":1566606047,
     "wof:name":"Banda Bahir Char",
     "wof:parent_id":1108694667,
     "wof:placetype":"locality",

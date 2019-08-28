@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.90995,24.0325,88.94995,24.0725",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Ranpia"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1360117983,
-    "wof:lastmodified":1537586550,
+    "wof:lastmodified":1566609127,
     "wof:name":"Ranpia",
     "wof:parent_id":890438075,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.72277,23.26511,88.76277,23.30511",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Sulaimanpur"
     ],
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1327261723,
-    "wof:lastmodified":1537586560,
+    "wof:lastmodified":1566606189,
     "wof:name":"Sulaimanpur",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

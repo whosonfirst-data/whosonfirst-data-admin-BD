@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.24545,22.78187,90.28545,22.82187",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1276154413,
-    "wof:lastmodified":1537487044,
+    "wof:lastmodified":1566607387,
     "wof:name":"Char Malanga",
     "wof:parent_id":421187745,
     "wof:placetype":"locality",

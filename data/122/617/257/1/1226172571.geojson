@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.95827,23.22536,89.99827,23.26536",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Debatra"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1226172571,
-    "wof:lastmodified":1537586458,
+    "wof:lastmodified":1566610275,
     "wof:name":"Debatra",
     "wof:parent_id":421194867,
     "wof:placetype":"locality",

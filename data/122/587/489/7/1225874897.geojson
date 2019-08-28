@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.1836,23.30778,89.2236,23.34778",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "B\u0101rpha"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1225874897,
-    "wof:lastmodified":1537586708,
+    "wof:lastmodified":1566610528,
     "wof:name":"Barpha",
     "wof:parent_id":1108694679,
     "wof:placetype":"locality",

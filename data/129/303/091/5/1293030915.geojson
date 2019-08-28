@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.63893,26.30008,88.67893,26.34008",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Kamal\u0101pokhi"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1293030915,
-    "wof:lastmodified":1537586282,
+    "wof:lastmodified":1566606906,
     "wof:name":"Kamalapokhi",
     "wof:parent_id":1108694697,
     "wof:placetype":"locality",

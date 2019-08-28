@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.22118,21.88689,90.26118,21.92689",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Mus\u0101liabad"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1276478189,
-    "wof:lastmodified":1537586378,
+    "wof:lastmodified":1566607348,
     "wof:name":"Musaliabad",
     "wof:parent_id":421169845,
     "wof:placetype":"locality",

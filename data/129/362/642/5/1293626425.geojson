@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.84349,25.90268,89.88349,25.94268",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Char Ph\u0101kiura"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1293626425,
-    "wof:lastmodified":1537586795,
+    "wof:lastmodified":1566606698,
     "wof:name":"Char Phakiura",
     "wof:parent_id":1108694685,
     "wof:placetype":"locality",

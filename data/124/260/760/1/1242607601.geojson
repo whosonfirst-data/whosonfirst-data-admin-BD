@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.44722,25.81664,89.48722,25.85664",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Dhumerkuti"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1242607601,
-    "wof:lastmodified":1537586808,
+    "wof:lastmodified":1566609598,
     "wof:name":"Dhumerkuti",
     "wof:parent_id":1108694687,
     "wof:placetype":"locality",

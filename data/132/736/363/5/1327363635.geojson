@@ -26,8 +26,12 @@
     "gn:population":130000,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.59667,23.63,90.63667,23.67",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":7.0,
     "name:ara_x_preferred":[
         "\u0633\u0648\u0646\u0627\u0631\u063a\u0648\u0646"
     ],
@@ -97,7 +101,7 @@
         }
     ],
     "wof:id":1327363635,
-    "wof:lastmodified":1564151956,
+    "wof:lastmodified":1566605894,
     "wof:name":"Sonargaon",
     "wof:parent_id":421197045,
     "wof:placetype":"locality",

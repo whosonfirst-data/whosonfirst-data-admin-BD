@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.74028,24.31936,90.78028,24.35936",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Maizhati",
         "M\u0101ijh\u0101ti"
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1343792093,
-    "wof:lastmodified":1537585887,
+    "wof:lastmodified":1566606420,
     "wof:name":"Maijhati",
     "wof:parent_id":421170483,
     "wof:placetype":"locality",

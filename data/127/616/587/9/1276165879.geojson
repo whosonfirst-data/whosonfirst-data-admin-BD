@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"92.20983,21.53121,92.24983,21.57121",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Lungdup\u0101ra"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1276165879,
-    "wof:lastmodified":1537586240,
+    "wof:lastmodified":1566607138,
     "wof:name":"Lungdupara",
     "wof:parent_id":421169477,
     "wof:placetype":"locality",

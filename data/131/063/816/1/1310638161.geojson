@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"92.28053,24.99294,92.32053,25.03294",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Jaipur"
     ],
@@ -302,8 +306,7 @@
         "\u0414\u0436\u0430\u0439\u043f\u0443\u0440"
     ],
     "name:und_x_variant":[
-        "Joypur",
-        "Jaipur"
+        "Joypur"
     ],
     "name:urd_x_preferred":[
         "\u062c\u06d2 \u067e\u0648\u0631"
@@ -346,7 +349,7 @@
         }
     ],
     "wof:id":1310638161,
-    "wof:lastmodified":1564157255,
+    "wof:lastmodified":1566608851,
     "wof:name":"Jaipur",
     "wof:parent_id":421187795,
     "wof:placetype":"locality",

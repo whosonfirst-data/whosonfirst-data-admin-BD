@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.40812,24.53199,88.44812,24.57199",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "B\u0101utia"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1276795315,
-    "wof:lastmodified":1537586152,
+    "wof:lastmodified":1566607473,
     "wof:name":"Bautia",
     "wof:parent_id":421172439,
     "wof:placetype":"locality",

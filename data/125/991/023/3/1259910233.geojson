@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.06937,22.73345,89.10937,22.77345",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1259910233,
-    "wof:lastmodified":1536740564,
+    "wof:lastmodified":1566609945,
     "wof:name":"Benerpota",
     "wof:parent_id":421201927,
     "wof:placetype":"locality",

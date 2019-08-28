@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":23.265305,
     "lbl:longitude":90.753564,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"CHITTAGONG",
     "meso:gadm_admin":"Chandpur",
     "meso:gadm_hasc2":"BD.CG.CP",
@@ -31,6 +33,7 @@
     "mps:longitude":90.753564,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ben_x_preferred":[
         "\u099a\u09be\u0981\u09a6\u09aa\u09c1\u09b0 \u099c\u09c7\u09b2\u09be"
     ],
@@ -111,9 +114,9 @@
         "\u5805\u5fb7\u5e03\u723e\u7e23"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-03-15",
+    "src:population_date":"2011-03-15",
     "statoids:area_km":"1,645",
     "statoids:as_of_date":"2011-03-15",
     "statoids:capital":"Chandpur",
@@ -146,7 +149,7 @@
         }
     ],
     "wof:id":1108694669,
-    "wof:lastmodified":1563583269,
+    "wof:lastmodified":1566608678,
     "wof:name":"Chandpur",
     "wof:parent_id":85669023,
     "wof:placetype":"county",

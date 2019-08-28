@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.29581,24.79261,88.33581,24.83261",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "G\u0101p\u0101lnagar"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1226272373,
-    "wof:lastmodified":1537586694,
+    "wof:lastmodified":1566610356,
     "wof:name":"Gapalnagar",
     "wof:parent_id":421191607,
     "wof:placetype":"locality",

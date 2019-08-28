@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.90806,23.34456,90.94806,23.38456",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Bakhaiya",
         "B\u0101khaia"
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1209557705,
-    "wof:lastmodified":1537586179,
+    "wof:lastmodified":1566607804,
     "wof:name":"Bakhaia",
     "wof:parent_id":85632475,
     "wof:placetype":"locality",

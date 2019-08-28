@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.40356,25.94597,88.44356,25.98597",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u0100r\u0101zi R\u0101mpur"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1293128941,
-    "wof:lastmodified":1537586650,
+    "wof:lastmodified":1566606816,
     "wof:name":"Arazi Rampur",
     "wof:parent_id":1108694703,
     "wof:placetype":"locality",

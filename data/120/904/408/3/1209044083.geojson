@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.10195,23.55638,90.14195,23.59638",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Madhur Char",
         "Char Madhur"
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1209044083,
-    "wof:lastmodified":1537586098,
+    "wof:lastmodified":1566608070,
     "wof:name":"Char Madhur",
     "wof:parent_id":85632475,
     "wof:placetype":"locality",

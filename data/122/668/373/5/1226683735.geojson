@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.64306,22.87113,89.68306,22.91113",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "H\u0101nrikh\u0101li"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1226683735,
-    "wof:lastmodified":1537586002,
+    "wof:lastmodified":1566610442,
     "wof:name":"Hanrikhali",
     "wof:parent_id":421185473,
     "wof:placetype":"locality",

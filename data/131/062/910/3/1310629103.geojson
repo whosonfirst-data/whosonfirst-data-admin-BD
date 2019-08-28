@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.24744,25.80681,88.28744,25.84681",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Sind\u0101gar"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1310629103,
-    "wof:lastmodified":1537585746,
+    "wof:lastmodified":1566608801,
     "wof:name":"Sindagar",
     "wof:parent_id":1108694703,
     "wof:placetype":"locality",

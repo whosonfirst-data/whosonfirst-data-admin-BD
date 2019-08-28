@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.55716,23.81791,89.59716,23.85791",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Char Par\u0101npur"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1292943265,
-    "wof:lastmodified":1537586425,
+    "wof:lastmodified":1566606741,
     "wof:name":"Char Paranpur",
     "wof:parent_id":421197541,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.19224,23.39319,89.23224,23.43319",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Kh\u0101nz\u0101pur"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1243583963,
-    "wof:lastmodified":1537586708,
+    "wof:lastmodified":1566609682,
     "wof:name":"Khanzapur",
     "wof:parent_id":1108694679,
     "wof:placetype":"locality",

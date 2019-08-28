@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.62969,22.46635,89.66969,22.50635",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Mithakhali"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1259816891,
-    "wof:lastmodified":1537585866,
+    "wof:lastmodified":1566610213,
     "wof:name":"Mithakhali",
     "wof:parent_id":421187747,
     "wof:placetype":"locality",

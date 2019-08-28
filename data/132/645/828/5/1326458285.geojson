@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.60848,23.55709,89.64848,23.59709",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Char Lowjana",
         "Char L\u0101uj\u0101na"
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1326458285,
-    "wof:lastmodified":1537586098,
+    "wof:lastmodified":1566605954,
     "wof:name":"Char Laujana",
     "wof:parent_id":421198063,
     "wof:placetype":"locality",

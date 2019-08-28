@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.11482,22.31558,90.15482,22.35558",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "B\u0101maner Karuna"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1225874479,
-    "wof:lastmodified":1537586350,
+    "wof:lastmodified":1566610507,
     "wof:name":"Bamaner Karuna",
     "wof:parent_id":421176043,
     "wof:placetype":"locality",

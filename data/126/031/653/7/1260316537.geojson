@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.27856,23.5988,89.31856,23.6388",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1260316537,
-    "wof:lastmodified":1536667746,
+    "wof:lastmodified":1566608525,
     "wof:name":"Madan Gopalpur",
     "wof:parent_id":1108694679,
     "wof:placetype":"locality",

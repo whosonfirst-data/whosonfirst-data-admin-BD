@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.7611,22.32088,90.8011,22.36088",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Uttar Char K\u0101l\u0101ch\u0101nd"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1293517403,
-    "wof:lastmodified":1537586389,
+    "wof:lastmodified":1566606958,
     "wof:name":"Uttar Char Kalachand",
     "wof:parent_id":421184491,
     "wof:placetype":"locality",

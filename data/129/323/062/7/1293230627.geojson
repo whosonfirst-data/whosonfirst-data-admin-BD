@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.52415,23.75613,90.56415,23.79613",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Mirkuti Chhao"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1293230627,
-    "wof:lastmodified":1537585868,
+    "wof:lastmodified":1566606793,
     "wof:name":"Mirkuti Chhar",
     "wof:parent_id":421197045,
     "wof:placetype":"locality",

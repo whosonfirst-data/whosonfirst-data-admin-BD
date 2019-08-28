@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.34583,21.92562,90.38583,21.96562",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Tulatali"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1293916993,
-    "wof:lastmodified":1537585711,
+    "wof:lastmodified":1566606689,
     "wof:name":"Tulatali",
     "wof:parent_id":421169845,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.36712,25.97097,88.40712,26.01097",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "P\u0101rpugi"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1243205759,
-    "wof:lastmodified":1537585834,
+    "wof:lastmodified":1566609837,
     "wof:name":"Parpugi",
     "wof:parent_id":1108694703,
     "wof:placetype":"locality",

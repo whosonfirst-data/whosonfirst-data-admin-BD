@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.8406,23.66989,90.8806,23.70989",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "North Ch\u0101nder Char",
         "North Chander Char"
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1209965225,
-    "wof:lastmodified":1537585826,
+    "wof:lastmodified":1566607756,
     "wof:name":"North Chander Char",
     "wof:parent_id":421187801,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.35421,25.85665,88.39421,25.89665",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Birahali"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1260320061,
-    "wof:lastmodified":1537586648,
+    "wof:lastmodified":1566608651,
     "wof:name":"Birahali",
     "wof:parent_id":1108694703,
     "wof:placetype":"locality",

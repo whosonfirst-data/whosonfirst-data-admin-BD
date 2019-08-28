@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.57583,23.14639,90.61583,23.18639",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1343591211,
-    "wof:lastmodified":1537052926,
+    "wof:lastmodified":1566606499,
     "wof:name":"Chalitatali",
     "wof:parent_id":1108694669,
     "wof:placetype":"locality",

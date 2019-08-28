@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.87696,23.33517,90.91696,23.37517",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Damalia",
         "Dh\u0101m\u0101lia"
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1277125185,
-    "wof:lastmodified":1537586058,
+    "wof:lastmodified":1566607313,
     "wof:name":"Dhamalia",
     "wof:parent_id":1108694669,
     "wof:placetype":"locality",

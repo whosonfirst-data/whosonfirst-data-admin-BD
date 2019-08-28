@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.64606,25.62021,89.68606,25.66021",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Raniganj"
     ],
@@ -74,9 +78,6 @@
     "name:tam_x_preferred":[
         "\u0bb0\u0bbe\u0ba3\u0bbf\u0b95\u0b9e\u0bcd\u0b9a\u0bcd"
     ],
-    "name:und_x_variant":[
-        "R\u0101niganj Dari"
-    ],
     "name:vie_x_preferred":[
         "Raniganj"
     ],
@@ -109,7 +110,7 @@
         }
     ],
     "wof:id":1310438753,
-    "wof:lastmodified":1564157329,
+    "wof:lastmodified":1566608898,
     "wof:name":"Raniganj",
     "wof:parent_id":1108694685,
     "wof:placetype":"locality",

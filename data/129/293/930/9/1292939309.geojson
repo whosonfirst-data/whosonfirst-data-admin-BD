@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.83112,23.82594,89.87112,23.86594",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Phal Satia",
         "Phalsh\u0101tia"
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1292939309,
-    "wof:lastmodified":1537585810,
+    "wof:lastmodified":1566606744,
     "wof:name":"Phalshatia",
     "wof:parent_id":421191745,
     "wof:placetype":"locality",

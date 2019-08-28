@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.64196,23.03794,90.68196,23.07794",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Char B\u0101ngha",
         "Char Bh\u0101nga"
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1326772871,
-    "wof:lastmodified":1537586104,
+    "wof:lastmodified":1566606146,
     "wof:name":"Char Bangha",
     "wof:parent_id":1108694669,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":369138,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.96673,24.39112,89.00673,24.43112",
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":6.0,
     "name:ben_x_preferred":[
         "N\u0101tor"
     ],
@@ -107,7 +111,7 @@
         }
     ],
     "wof:id":1293330135,
-    "wof:lastmodified":1564154367,
+    "wof:lastmodified":1566606973,
     "wof:name":"Natore",
     "wof:parent_id":421182115,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.70041,23.98727,90.74041,24.02727",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Jhowakandi",
         "Jh\u0101w\u0101k\u0101ndi"
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1343691941,
-    "wof:lastmodified":1537585969,
+    "wof:lastmodified":1566606526,
     "wof:name":"Jhawakandi",
     "wof:parent_id":421169707,
     "wof:placetype":"locality",

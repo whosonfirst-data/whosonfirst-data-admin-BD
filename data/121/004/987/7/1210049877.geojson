@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.12995,23.97803,90.16995,24.01803",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1210049877,
-    "wof:lastmodified":1536374870,
+    "wof:lastmodified":1566608288,
     "wof:name":"Chandipur",
     "wof:parent_id":421187803,
     "wof:placetype":"locality",

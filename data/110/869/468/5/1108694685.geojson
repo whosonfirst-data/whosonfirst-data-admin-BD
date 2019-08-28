@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":25.760116,
     "lbl:longitude":89.677476,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"RAJSHAHI",
     "meso:gadm_admin":"Kurigram",
     "meso:gadm_hasc2":"BD.RP.KR",
@@ -31,6 +33,7 @@
     "mps:longitude":89.677476,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ben_x_preferred":[
         "\u0995\u09c1\u09a1\u09bc\u09bf\u0997\u09cd\u09b0\u09be\u09ae \u099c\u09c7\u09b2\u09be"
     ],
@@ -117,9 +120,9 @@
         "\u53e4\u91cc\u683c\u62c9\u59c6\u53bf"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-03-15",
+    "src:population_date":"2011-03-15",
     "statoids:area_km":"2,245",
     "statoids:as_of_date":"2011-03-15",
     "statoids:capital":"Kurigram",
@@ -152,7 +155,7 @@
         }
     ],
     "wof:id":1108694685,
-    "wof:lastmodified":1563583269,
+    "wof:lastmodified":1566608678,
     "wof:name":"Kurigram",
     "wof:parent_id":85669035,
     "wof:placetype":"county",

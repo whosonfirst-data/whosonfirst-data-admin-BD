@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.28813,26.04054,88.32813,26.08054",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Mahadevpur"
     ],
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1344086759,
-    "wof:lastmodified":1564152943,
+    "wof:lastmodified":1566606357,
     "wof:name":"Mahadevpur",
     "wof:parent_id":1108694703,
     "wof:placetype":"locality",

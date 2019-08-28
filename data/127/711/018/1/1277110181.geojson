@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.76942,24.80465,89.80942,24.84465",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Goonerbaree",
         "Gunerb\u0101ri"
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1277110181,
-    "wof:lastmodified":1537586006,
+    "wof:lastmodified":1566607698,
     "wof:name":"Gunerbari",
     "wof:parent_id":421191923,
     "wof:placetype":"locality",

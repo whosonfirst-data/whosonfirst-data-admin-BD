@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.65529,25.8352,88.69529,25.8752",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "K\u0101jal"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1293230563,
-    "wof:lastmodified":1537586322,
+    "wof:lastmodified":1566606809,
     "wof:name":"Kajal",
     "wof:parent_id":1108694671,
     "wof:placetype":"locality",

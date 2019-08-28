@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.79466,25.67887,89.83466,25.71887",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Gend\u0101r \u0100lga"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1242711327,
-    "wof:lastmodified":1537586828,
+    "wof:lastmodified":1566609744,
     "wof:name":"Gendar Alga",
     "wof:parent_id":1108694685,
     "wof:placetype":"locality",

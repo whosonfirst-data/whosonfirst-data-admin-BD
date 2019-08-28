@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.21158,25.13531,89.25158,25.17531",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Dashn\u0101la"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1243393327,
-    "wof:lastmodified":1537586730,
+    "wof:lastmodified":1566609498,
     "wof:name":"Dashnala",
     "wof:parent_id":1108694675,
     "wof:placetype":"locality",

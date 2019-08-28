@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.87407,24.13649,90.91407,24.17649",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1226073405,
-    "wof:lastmodified":1536685459,
+    "wof:lastmodified":1566610776,
     "wof:name":"Bazra",
     "wof:parent_id":421170483,
     "wof:placetype":"locality",

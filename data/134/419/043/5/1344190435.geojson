@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.36785,22.18784,90.40785,22.22784",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Suhari"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1344190435,
-    "wof:lastmodified":1537586397,
+    "wof:lastmodified":1566606565,
     "wof:name":"Suhari",
     "wof:parent_id":421169845,
     "wof:placetype":"locality",

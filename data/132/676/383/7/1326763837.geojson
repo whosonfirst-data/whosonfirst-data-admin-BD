@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.90916,26.14633,88.94916,26.18633",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Kumarp\u0101ra"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1326763837,
-    "wof:lastmodified":1537586308,
+    "wof:lastmodified":1566606104,
     "wof:name":"Kumarpara",
     "wof:parent_id":1108694695,
     "wof:placetype":"locality",

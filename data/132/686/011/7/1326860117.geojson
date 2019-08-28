@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.13786,25.03499,90.17786,25.07499",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "B\u0101lugh\u0101ta"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1326860117,
-    "wof:lastmodified":1537586794,
+    "wof:lastmodified":1566605945,
     "wof:name":"Balughata",
     "wof:parent_id":421190979,
     "wof:placetype":"locality",

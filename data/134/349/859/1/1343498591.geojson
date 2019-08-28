@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.46015,22.47307,90.50015,22.51307",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Pujakhala"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1343498591,
-    "wof:lastmodified":1537586351,
+    "wof:lastmodified":1566606460,
     "wof:name":"Pujakhala",
     "wof:parent_id":421169845,
     "wof:placetype":"locality",

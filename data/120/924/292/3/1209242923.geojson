@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.75979,24.62952,90.79979,24.66952",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632475
@@ -37,7 +41,7 @@
         "gn:id":1197908
     },
     "wof:country":"BD",
-    "wof:geomhash":"061b361f7dcddee258dce53c20a4ad81",
+    "wof:geomhash":"08654741adb91d5f0db0fedf17dc40b7",
     "wof:hierarchy":[
         {
             "country_id":85632475,
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":1209242923,
-    "wof:lastmodified":1536293260,
+    "wof:lastmodified":1566607875,
     "wof:name":"Keradighi",
     "wof:parent_id":85632475,
     "wof:placetype":"locality",
@@ -56,9 +60,9 @@
 },
   "bbox": [
     90.77979,
-    24.649520000000006,
+    24.64952000000001,
     90.77979,
-    24.649520000000006
+    24.64952000000001
 ],
   "geometry": {"coordinates":[90.77979000000001,24.64952000000001],"type":"Point"}
 }

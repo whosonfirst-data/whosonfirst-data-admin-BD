@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.23238,23.2622,89.27238,23.3022",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Durgapur"
     ],
@@ -159,7 +163,7 @@
         }
     ],
     "wof:id":1327059911,
-    "wof:lastmodified":1564152394,
+    "wof:lastmodified":1566606086,
     "wof:name":"Durgapur",
     "wof:parent_id":421176039,
     "wof:placetype":"locality",

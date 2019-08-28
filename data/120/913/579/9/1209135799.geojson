@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.16416,25.01232,90.20416,25.05232",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Chak Jugania"
     ],
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1209135799,
-    "wof:lastmodified":1537586792,
+    "wof:lastmodified":1566607965,
     "wof:name":"Chak Jugania",
     "wof:parent_id":85632475,
     "wof:placetype":"locality",

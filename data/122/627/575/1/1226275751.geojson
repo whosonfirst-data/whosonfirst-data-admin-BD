@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.07624,23.64131,90.11624,23.68131",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Munsinagar",
         "Munshinagar"
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1226275751,
-    "wof:lastmodified":1537585860,
+    "wof:lastmodified":1566610339,
     "wof:name":"Munshinagar",
     "wof:parent_id":421187803,
     "wof:placetype":"locality",

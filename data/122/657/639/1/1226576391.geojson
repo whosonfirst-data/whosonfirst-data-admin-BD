@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.50369,25.59615,89.54369,25.63615",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Kharda"
     ],
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1226576391,
-    "wof:lastmodified":1564159768,
+    "wof:lastmodified":1566610479,
     "wof:name":"Kharda",
     "wof:parent_id":1108694675,
     "wof:placetype":"locality",

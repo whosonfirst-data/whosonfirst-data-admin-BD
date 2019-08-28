@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":26.041703,
     "lbl:longitude":89.184828,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"RAJSHAHI",
     "meso:gadm_admin":"Lalmonirhat",
     "meso:gadm_hasc2":"BD.RP.LL",
@@ -31,6 +33,7 @@
     "mps:longitude":89.184828,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ben_x_preferred":[
         "\u09b2\u09be\u09b2\u09ae\u09a8\u09bf\u09b0\u09b9\u09be\u099f \u099c\u09c7\u09b2\u09be"
     ],
@@ -108,9 +111,9 @@
         "\u62c9\u5c14\u83ab\u5c3c\u54c8\u5fb7\u53bf"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-03-15",
+    "src:population_date":"2011-03-15",
     "statoids:area_km":"1,247",
     "statoids:as_of_date":"2011-03-15",
     "statoids:capital":"Lalmonirhat",
@@ -143,7 +146,7 @@
         }
     ],
     "wof:id":1108694687,
-    "wof:lastmodified":1563583267,
+    "wof:lastmodified":1566608677,
     "wof:name":"Lalmonirhat",
     "wof:parent_id":85669035,
     "wof:placetype":"county",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.93318,23.98996,90.97318,24.02996",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1343489379,
-    "wof:lastmodified":1536704860,
+    "wof:lastmodified":1566606431,
     "wof:name":"Saindhadoba",
     "wof:parent_id":421169707,
     "wof:placetype":"locality",

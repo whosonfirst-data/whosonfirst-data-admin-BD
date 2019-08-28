@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.69443,25.91662,88.73443,25.95662",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Mir\u0101tangi"
     ],
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1209136009,
-    "wof:lastmodified":1537586321,
+    "wof:lastmodified":1566607958,
     "wof:name":"Miratangi",
     "wof:parent_id":85632475,
     "wof:placetype":"locality",

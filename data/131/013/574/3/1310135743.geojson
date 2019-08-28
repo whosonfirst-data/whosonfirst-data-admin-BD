@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.27482,25.07375,89.31482,25.11375",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "S\u0101ldaha",
         "S\u0101ld\u0101ha"
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1310135743,
-    "wof:lastmodified":1537585772,
+    "wof:lastmodified":1566608745,
     "wof:name":"Saldaha",
     "wof:parent_id":421187793,
     "wof:placetype":"locality",

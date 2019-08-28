@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.77193,22.33018,90.81193,22.37018",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Char K\u0101l\u0101ch\u0101nd"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1310139167,
-    "wof:lastmodified":1537586866,
+    "wof:lastmodified":1566608757,
     "wof:name":"Char Kalachand",
     "wof:parent_id":421184491,
     "wof:placetype":"locality",

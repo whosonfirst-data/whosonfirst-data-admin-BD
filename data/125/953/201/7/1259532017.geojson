@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.77793,23.18808,90.81793,23.22808",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "B\u0101chhp\u0101r",
         "B\u0101nchp\u0101r"
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1259532017,
-    "wof:lastmodified":1537586190,
+    "wof:lastmodified":1566609939,
     "wof:name":"Banchpar",
     "wof:parent_id":1108694669,
     "wof:placetype":"locality",

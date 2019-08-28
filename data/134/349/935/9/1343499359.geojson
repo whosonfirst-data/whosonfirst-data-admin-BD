@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"91.84194,22.87708,91.88194,22.91708",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Dipp\u0101ra"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1343499359,
-    "wof:lastmodified":1537586367,
+    "wof:lastmodified":1566606467,
     "wof:name":"Dippara",
     "wof:parent_id":1108694683,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.54183,23.58332,89.58183,23.62332",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Chaito Bhimnagar",
         "Chaita Bhimnagar"
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1209944759,
-    "wof:lastmodified":1537586121,
+    "wof:lastmodified":1566608100,
     "wof:name":"Chaita Bhimnagar",
     "wof:parent_id":1108694699,
     "wof:placetype":"locality",

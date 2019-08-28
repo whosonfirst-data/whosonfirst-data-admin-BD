@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.5008,24.09801,90.5408,24.13801",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Surjyan\u0101r\u0101yanpur"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1259720953,
-    "wof:lastmodified":1537585725,
+    "wof:lastmodified":1566610254,
     "wof:name":"Surjya Narayanpur",
     "wof:parent_id":421203493,
     "wof:placetype":"locality",

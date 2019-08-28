@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":22.559352,
     "lbl:longitude":90.139273,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"BARISAL",
     "meso:gadm_admin":"Jhalakati",
     "meso:gadm_hasc2":"BD.BA.JK",
@@ -31,6 +33,7 @@
     "mps:longitude":90.139273,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ben_x_preferred":[
         "\u099d\u09be\u09b2\u0995\u09be\u09a0\u09bf \u099c\u09c7\u09b2\u09be"
     ],
@@ -103,9 +106,9 @@
         "\u6070\u6d1b\u52a0\u8482\u7e23"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-03-15",
+    "src:population_date":"2011-03-15",
     "statoids:area_km":"707",
     "statoids:as_of_date":"2011-03-15",
     "statoids:capital":"Jhalakati",
@@ -138,7 +141,7 @@
         }
     ],
     "wof:id":1108694677,
-    "wof:lastmodified":1563583263,
+    "wof:lastmodified":1566608673,
     "wof:name":"Jhalokati",
     "wof:parent_id":85669019,
     "wof:placetype":"county",

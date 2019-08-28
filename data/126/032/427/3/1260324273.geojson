@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.72537,24.88866,90.76537,24.92866",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1260324273,
-    "wof:lastmodified":1536657168,
+    "wof:lastmodified":1566608658,
     "wof:name":"Medni",
     "wof:parent_id":421200811,
     "wof:placetype":"locality",

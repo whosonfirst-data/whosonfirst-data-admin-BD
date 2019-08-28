@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.26273,24.66182,88.30273,24.70182",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Balih\u0101rpur"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1226675981,
-    "wof:lastmodified":1537585835,
+    "wof:lastmodified":1566610413,
     "wof:name":"Baliharpur",
     "wof:parent_id":421191607,
     "wof:placetype":"locality",

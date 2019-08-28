@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.08785,22.08505,90.12785,22.12505",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Jailkhana"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1327366969,
-    "wof:lastmodified":1537586354,
+    "wof:lastmodified":1566605909,
     "wof:name":"Jailkhana",
     "wof:parent_id":421176043,
     "wof:placetype":"locality",

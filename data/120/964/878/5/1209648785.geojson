@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.22188,24.76595,90.26188,24.80595",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632475
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":1209648785,
-    "wof:lastmodified":1536280648,
+    "wof:lastmodified":1566607788,
     "wof:name":"Sripur Maijhati",
     "wof:parent_id":85632475,
     "wof:placetype":"locality",

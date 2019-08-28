@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.35561,25.55861,89.39561,25.59861",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Gobindapnr"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1310338631,
-    "wof:lastmodified":1537586737,
+    "wof:lastmodified":1566609018,
     "wof:name":"Gobindapnr",
     "wof:parent_id":1108694701,
     "wof:placetype":"locality",

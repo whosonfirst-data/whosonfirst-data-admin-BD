@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.58655,23.66416,89.62655,23.70416",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Dikdapunia",
         "Digd\u0101punia"
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1260110113,
-    "wof:lastmodified":1537586050,
+    "wof:lastmodified":1566608592,
     "wof:name":"Digdapunia",
     "wof:parent_id":1108694699,
     "wof:placetype":"locality",

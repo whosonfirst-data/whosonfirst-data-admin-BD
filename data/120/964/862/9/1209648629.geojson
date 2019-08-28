@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.8635,23.81385,89.9035,23.85385",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Harinarayanpur",
         "Harir\u0101mpur"
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1209648629,
-    "wof:lastmodified":1537585999,
+    "wof:lastmodified":1566607788,
     "wof:name":"Harirampur",
     "wof:parent_id":85632475,
     "wof:placetype":"locality",

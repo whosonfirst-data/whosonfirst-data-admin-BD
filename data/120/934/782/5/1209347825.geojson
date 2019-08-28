@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.43807,22.58532,90.47807,22.62532",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632475
@@ -37,7 +41,7 @@
         "gn:id":1204902
     },
     "wof:country":"BD",
-    "wof:geomhash":"1e47d8daea86345bb56b026130dac6eb",
+    "wof:geomhash":"f25e7e221988e8f0b2a021d31b154105",
     "wof:hierarchy":[
         {
             "country_id":85632475,
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":1209347825,
-    "wof:lastmodified":1536289850,
+    "wof:lastmodified":1566608132,
     "wof:name":"Datterabad",
     "wof:parent_id":85632475,
     "wof:placetype":"locality",
@@ -56,9 +60,9 @@
 },
   "bbox": [
     90.45807,
-    22.605320000000006,
+    22.60532000000001,
     90.45807,
-    22.605320000000006
+    22.60532000000001
 ],
   "geometry": {"coordinates":[90.45807000000001,22.60532000000001],"type":"Point"}
 }

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.49708,23.13405,89.53708,23.17405",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Auria"
     ],
@@ -69,7 +73,7 @@
         }
     ],
     "wof:id":1226179803,
-    "wof:lastmodified":1564159537,
+    "wof:lastmodified":1566610309,
     "wof:name":"Auria",
     "wof:parent_id":421205213,
     "wof:placetype":"locality",

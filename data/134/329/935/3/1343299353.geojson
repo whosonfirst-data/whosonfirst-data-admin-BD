@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.43418,23.89401,89.47418,23.93401",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u09b8\u09be\u09b9\u09be\u09aa\u09c1\u09b0"
     ],
@@ -56,8 +60,7 @@
         "S\u0101h\u0101pur"
     ],
     "name:und_x_variant":[
-        "Shahapur",
-        "S\u0101h\u0101pur"
+        "Shahapur"
     ],
     "name:urd_x_preferred":[
         "\u0633\u06c1\u067e\u0631"
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":1343299353,
-    "wof:lastmodified":1564153512,
+    "wof:lastmodified":1566606611,
     "wof:name":"Sahapur",
     "wof:parent_id":421197541,
     "wof:placetype":"locality",

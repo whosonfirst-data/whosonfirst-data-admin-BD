@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.83667,25.36556,88.87667,25.40556",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Dashama"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1276697225,
-    "wof:lastmodified":1537586060,
+    "wof:lastmodified":1566607178,
     "wof:name":"Dashama",
     "wof:parent_id":1108694671,
     "wof:placetype":"locality",

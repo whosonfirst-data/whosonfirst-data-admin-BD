@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.59311,26.41823,88.63311,26.45823",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Baru\u0101p\u0101ra"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1310333497,
-    "wof:lastmodified":1537586285,
+    "wof:lastmodified":1566609004,
     "wof:name":"Baruapara",
     "wof:parent_id":1108694697,
     "wof:placetype":"locality",

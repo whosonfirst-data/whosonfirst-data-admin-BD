@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.52623,25.07497,88.56623,25.11497",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "An\u0101rpur"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1277012255,
-    "wof:lastmodified":1537586672,
+    "wof:lastmodified":1566607063,
     "wof:name":"Anarpur",
     "wof:parent_id":421191663,
     "wof:placetype":"locality",

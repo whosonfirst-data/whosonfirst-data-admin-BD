@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.06333,24.91333,89.10333,24.95333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Dial",
         "Diyal"
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1293619261,
-    "wof:lastmodified":1537586049,
+    "wof:lastmodified":1566606885,
     "wof:name":"Diyal",
     "wof:parent_id":1108694681,
     "wof:placetype":"locality",

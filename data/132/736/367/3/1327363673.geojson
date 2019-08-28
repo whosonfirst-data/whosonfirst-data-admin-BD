@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.68125,25.57651,88.72125,25.61651",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Omarpail"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1327363673,
-    "wof:lastmodified":1537586668,
+    "wof:lastmodified":1566605906,
     "wof:name":"Omarpail",
     "wof:parent_id":1108694671,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.84871,23.97758,89.88871,24.01758",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1276160817,
-    "wof:lastmodified":1537009192,
+    "wof:lastmodified":1566607141,
     "wof:name":"Jalalia",
     "wof:parent_id":421185471,
     "wof:placetype":"locality",

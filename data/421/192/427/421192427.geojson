@@ -10,8 +10,12 @@
     "geom:latitude":23.79142,
     "geom:longitude":90.40491,
     "iso:country":"BD",
+    "lbl:bbox":"90.38491,23.77142,90.42491,23.81142",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ben_x_preferred":[
         "\u09ac\u09a8\u09be\u09a8\u09c0 \u09ae\u09a1\u09c7\u09b2 \u099f\u09be\u0989\u09a8"
@@ -46,7 +50,7 @@
     "wof:concordances":{
         "gn:id":1211117,
         "gp:id":1890068,
-        "qs:id":1168166
+        "qs_pg:id":1168166
     },
     "wof:country":"BD",
     "wof:created":1459009736,
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":421192427,
-    "wof:lastmodified":1564158108,
+    "wof:lastmodified":1566609368,
     "wof:name":"Banani Model Town",
     "wof:parent_id":421187803,
     "wof:placetype":"locality",

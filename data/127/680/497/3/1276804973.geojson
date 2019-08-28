@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.06621,24.86433,89.10621,24.90433",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1276804973,
-    "wof:lastmodified":1536643088,
+    "wof:lastmodified":1566607110,
     "wof:name":"Arjungari",
     "wof:parent_id":421187793,
     "wof:placetype":"locality",

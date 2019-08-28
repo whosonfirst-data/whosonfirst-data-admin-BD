@@ -10,8 +10,12 @@
     "geom:latitude":25.8498,
     "geom:longitude":88.1261,
     "iso:country":"BD",
+    "lbl:bbox":"88.1061,25.8298,88.1461,25.8698",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ben_x_preferred":[
         "Rahmatpur"
@@ -45,7 +49,7 @@
     "wof:concordances":{
         "gn:id":7487415,
         "gp:id":29158896,
-        "qs:id":1198176
+        "qs_pg:id":1198176
     },
     "wof:country":"BD",
     "wof:created":1459008771,
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":421168629,
-    "wof:lastmodified":1501273219,
+    "wof:lastmodified":1566609366,
     "wof:name":"Azmatpur",
     "wof:parent_id":1108694703,
     "wof:placetype":"locality",

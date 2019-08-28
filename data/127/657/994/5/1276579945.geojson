@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.62019,24.45088,88.66019,24.49088",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Sabsar"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1276579945,
-    "wof:lastmodified":1537585779,
+    "wof:lastmodified":1566607311,
     "wof:name":"Sabsar",
     "wof:parent_id":421172439,
     "wof:placetype":"locality",

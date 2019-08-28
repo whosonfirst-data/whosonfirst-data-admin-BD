@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.98712,25.11242,91.02712,25.15242",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Rangsi"
     ],
@@ -35,8 +39,7 @@
         "Rangsi"
     ],
     "name:und_x_variant":[
-        "Rangchi",
-        "Rangsi"
+        "Rangchi"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":1277104953,
-    "wof:lastmodified":1564155413,
+    "wof:lastmodified":1566607680,
     "wof:name":"Rangsi",
     "wof:parent_id":421201931,
     "wof:placetype":"locality",

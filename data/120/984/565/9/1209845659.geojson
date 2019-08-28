@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.26632,23.7534,90.30632,23.7934",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Baria Kandi",
         "Barai K\u0101ndi"
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1209845659,
-    "wof:lastmodified":1537586162,
+    "wof:lastmodified":1566607834,
     "wof:name":"Barai Kandi",
     "wof:parent_id":421187803,
     "wof:placetype":"locality",

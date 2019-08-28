@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.44212,23.45051,90.48212,23.49051",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1243583837,
-    "wof:lastmodified":1536604687,
+    "wof:lastmodified":1566609691,
     "wof:name":"Ganaisar",
     "wof:parent_id":421205059,
     "wof:placetype":"locality",

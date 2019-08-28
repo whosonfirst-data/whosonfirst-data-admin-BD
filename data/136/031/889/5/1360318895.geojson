@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.16349,25.08839,89.20349,25.12839",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Kusums\u0101ra"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1360318895,
-    "wof:lastmodified":1537586724,
+    "wof:lastmodified":1566609062,
     "wof:name":"Kusumsara",
     "wof:parent_id":1108694681,
     "wof:placetype":"locality",

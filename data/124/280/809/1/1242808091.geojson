@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.17425,23.94938,90.21425,23.98938",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1242808091,
-    "wof:lastmodified":1536732063,
+    "wof:lastmodified":1566609525,
     "wof:name":"Chhota Bangalpara",
     "wof:parent_id":421187803,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.95763,24.33602,90.99763,24.37602",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Bhabuira G\u0101zipur",
         "B\u0101baria G\u0101zipur"
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1243006585,
-    "wof:lastmodified":1537586191,
+    "wof:lastmodified":1566609415,
     "wof:name":"Bhabuira Gazipur",
     "wof:parent_id":421170483,
     "wof:placetype":"locality",

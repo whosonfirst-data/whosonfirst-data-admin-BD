@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.73365,25.12803,89.77365,25.16803",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Bir Bhabasar"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1226777705,
-    "wof:lastmodified":1537586782,
+    "wof:lastmodified":1566610685,
     "wof:name":"Bir Bhabasar",
     "wof:parent_id":421191923,
     "wof:placetype":"locality",

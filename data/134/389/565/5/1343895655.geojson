@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.45146,23.53112,90.49146,23.57112",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1343895655,
-    "wof:lastmodified":1536613281,
+    "wof:lastmodified":1566606637,
     "wof:name":"Selimabad",
     "wof:parent_id":421205059,
     "wof:placetype":"locality",

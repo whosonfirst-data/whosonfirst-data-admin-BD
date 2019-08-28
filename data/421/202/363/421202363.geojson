@@ -10,8 +10,12 @@
     "geom:latitude":22.33774,
     "geom:longitude":90.73708,
     "iso:country":"BD",
+    "lbl:bbox":"90.71708,22.31774,90.75708,22.35774",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ben_x_preferred":[
         "L\u0101lmohan"
@@ -22,7 +26,7 @@
     "name:swe_x_preferred":[
         "Lalmohan"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Char L\u0101lmohan"
     ],
     "qs:gn_country":"BD",
@@ -56,7 +60,7 @@
     "wof:concordances":{
         "gn:id":1185251,
         "gp:id":1904436,
-        "qs:id":221502
+        "qs_pg:id":221502
     },
     "wof:country":"BD",
     "wof:created":1459010115,
@@ -71,7 +75,7 @@
         }
     ],
     "wof:id":421202363,
-    "wof:lastmodified":1564158112,
+    "wof:lastmodified":1566609375,
     "wof:name":"Lalmohan",
     "wof:parent_id":421184491,
     "wof:placetype":"locality",

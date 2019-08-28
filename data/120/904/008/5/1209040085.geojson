@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.05268,23.45852,89.09268,23.49852",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Paschim Jhenida"
     ],
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1209040085,
-    "wof:lastmodified":1537586702,
+    "wof:lastmodified":1566608074,
     "wof:name":"Paschim Jhenida",
     "wof:parent_id":85632475,
     "wof:placetype":"locality",

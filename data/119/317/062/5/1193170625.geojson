@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.29601,22.76196,90.33601,22.80196",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Bakshirchar",
         "Baksi Char",
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1193170625,
-    "wof:lastmodified":1537586178,
+    "wof:lastmodified":1566608423,
     "wof:name":"Bakhshi Char",
     "wof:parent_id":421187745,
     "wof:placetype":"locality",

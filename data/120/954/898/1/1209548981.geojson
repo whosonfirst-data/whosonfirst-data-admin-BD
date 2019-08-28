@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.01819,23.00963,89.05819,23.04963",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Nandi Dumuria"
     ],
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1209548981,
-    "wof:lastmodified":1537585853,
+    "wof:lastmodified":1566607733,
     "wof:name":"Nandi Dumuria",
     "wof:parent_id":85632475,
     "wof:placetype":"locality",

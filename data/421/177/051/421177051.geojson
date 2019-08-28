@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":22.816467,
     "lbl:longitude":91.121505,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"CHITTAGONG",
     "meso:gadm_admin":"Noakhali",
     "meso:gadm_hasc2":"BD.CG.NO",
@@ -31,6 +33,7 @@
     "mps:longitude":91.121505,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ben_x_preferred":[
         "\u09a8\u09cb\u09af\u09bc\u09be\u0996\u09be\u09b2\u09c0 \u099c\u09c7\u09b2\u09be"
@@ -139,9 +142,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-03-15",
+    "src:population_date":"2011-03-15",
     "statoids:area_km":"3,686",
     "statoids:as_of_date":"2011-03-15",
     "statoids:capital":"Noakhali",
@@ -161,7 +164,7 @@
     "wof:concordances":{
         "gp:id":23706455,
         "hasc:id":"BD.CG.NO",
-        "qs:id":400650,
+        "qs_pg:id":400650,
         "wd:id":"Q68585"
     },
     "wof:country":"BD",
@@ -176,7 +179,7 @@
         }
     ],
     "wof:id":421177051,
-    "wof:lastmodified":1563584403,
+    "wof:lastmodified":1566609395,
     "wof:name":"Noakhali",
     "wof:parent_id":85669023,
     "wof:placetype":"county",

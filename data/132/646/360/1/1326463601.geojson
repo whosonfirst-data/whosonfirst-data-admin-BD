@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.40168,24.435,88.44168,24.475",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "K\u0101n\u0101iodanga"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1326463601,
-    "wof:lastmodified":1537585950,
+    "wof:lastmodified":1566606139,
     "wof:name":"Kanaiodanga",
     "wof:parent_id":421172439,
     "wof:placetype":"locality",

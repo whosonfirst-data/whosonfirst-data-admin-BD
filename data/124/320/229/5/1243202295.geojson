@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.05312,23.88642,89.09312,23.92642",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Kabarb\u0101ri"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1243202295,
-    "wof:lastmodified":1537586597,
+    "wof:lastmodified":1566609826,
     "wof:name":"Kabarbari",
     "wof:parent_id":890438075,
     "wof:placetype":"locality",

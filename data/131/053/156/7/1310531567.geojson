@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.98058,26.22046,89.02058,26.26046",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Char Kharib\u0101ri"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1310531567,
-    "wof:lastmodified":1537586306,
+    "wof:lastmodified":1566608812,
     "wof:name":"Char Kharibari",
     "wof:parent_id":1108694695,
     "wof:placetype":"locality",

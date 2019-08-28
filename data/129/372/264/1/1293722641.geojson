@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.9715,24.20398,89.0115,24.24398",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Dakshin B\u0101nsb\u0101ria"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1293722641,
-    "wof:lastmodified":1537586074,
+    "wof:lastmodified":1566607041,
     "wof:name":"Dakshin Bansbaria",
     "wof:parent_id":421182115,
     "wof:placetype":"locality",

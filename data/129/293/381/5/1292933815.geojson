@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.00617,23.03291,89.04617,23.07291",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Gunnagar"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1292933815,
-    "wof:lastmodified":1537586006,
+    "wof:lastmodified":1566606766,
     "wof:name":"Gunnagar",
     "wof:parent_id":421176039,
     "wof:placetype":"locality",

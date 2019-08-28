@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.03462,23.25993,89.07462,23.29993",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Purahuda"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1276580337,
-    "wof:lastmodified":1537586700,
+    "wof:lastmodified":1566607242,
     "wof:name":"Purahuda",
     "wof:parent_id":421176039,
     "wof:placetype":"locality",

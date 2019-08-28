@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.76534,23.2687,89.80534,23.3087",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Chak Bandal",
         "Chakbandola",
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1343891225,
-    "wof:lastmodified":1537586120,
+    "wof:lastmodified":1566606642,
     "wof:name":"Chak Bandadoa",
     "wof:parent_id":421194867,
     "wof:placetype":"locality",

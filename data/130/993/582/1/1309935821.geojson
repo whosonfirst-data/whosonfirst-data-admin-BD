@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.20051,24.99783,89.24051,25.03783",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Jagadish"
     ],
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":1309935821,
-    "wof:lastmodified":1564157999,
+    "wof:lastmodified":1566609298,
     "wof:name":"Jagadish",
     "wof:parent_id":421187793,
     "wof:placetype":"locality",

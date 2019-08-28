@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.00501,23.05672,89.04501,23.09672",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Uttar Deuli"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1310629205,
-    "wof:lastmodified":1537585706,
+    "wof:lastmodified":1566608797,
     "wof:name":"Uttar Deuli",
     "wof:parent_id":421176039,
     "wof:placetype":"locality",

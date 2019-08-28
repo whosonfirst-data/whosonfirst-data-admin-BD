@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.25532,24.68786,88.29532,24.72786",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Sarjan"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1343795329,
-    "wof:lastmodified":1537585764,
+    "wof:lastmodified":1566606401,
     "wof:name":"Sarjan",
     "wof:parent_id":421191607,
     "wof:placetype":"locality",

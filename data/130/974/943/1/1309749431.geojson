@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.98986,25.4568,89.02986,25.4968",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Hajabnagar"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1309749431,
-    "wof:lastmodified":1537586842,
+    "wof:lastmodified":1566609363,
     "wof:name":"Hajabnagar",
     "wof:parent_id":1108694671,
     "wof:placetype":"locality",

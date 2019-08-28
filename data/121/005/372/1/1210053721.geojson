@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.16855,25.1391,90.20855,25.1791",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "M\u0101rip\u0101ra"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1210053721,
-    "wof:lastmodified":1537586791,
+    "wof:lastmodified":1566608303,
     "wof:name":"Maripara",
     "wof:parent_id":421190979,
     "wof:placetype":"locality",

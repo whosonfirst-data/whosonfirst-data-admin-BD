@@ -27,8 +27,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.89667,24.94667,88.93667,24.98667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Sreekrishnapur",
         "Sri Krishnapur"
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1326863523,
-    "wof:lastmodified":1537585731,
+    "wof:lastmodified":1566605925,
     "wof:name":"Sri Krishnapur",
     "wof:parent_id":421191663,
     "wof:placetype":"locality",

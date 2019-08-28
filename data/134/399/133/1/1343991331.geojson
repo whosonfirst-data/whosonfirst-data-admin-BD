@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.4368,22.90284,90.4768,22.94284",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:vie_x_preferred":[
         "Kauria"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1343991331,
-    "wof:lastmodified":1564152889,
+    "wof:lastmodified":1566606334,
     "wof:name":"Kauria",
     "wof:parent_id":421187745,
     "wof:placetype":"locality",

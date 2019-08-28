@@ -10,8 +10,12 @@
     "geom:latitude":23.76296,
     "geom:longitude":90.38971,
     "iso:country":"BD",
+    "lbl:bbox":"90.36971,23.74296,90.40971,23.78296",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ben_x_preferred":[
         "\u09a4\u09c7\u099c\u0997\u09be\u0981\u0993"
@@ -34,7 +38,7 @@
     "name:swe_x_preferred":[
         "Tejgaon"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Tezgaon"
     ],
     "qs:gn_country":"BD",
@@ -67,7 +71,7 @@
     "wof:concordances":{
         "gn:id":1185093,
         "gp:id":1913953,
-        "qs:id":235465,
+        "qs_pg:id":235465,
         "wd:id":"Q3351196",
         "wk:page":"Tejgaon Thana"
     },
@@ -84,7 +88,7 @@
         }
     ],
     "wof:id":421203871,
-    "wof:lastmodified":1563584357,
+    "wof:lastmodified":1566609374,
     "wof:name":"Tejgaon",
     "wof:parent_id":421187803,
     "wof:placetype":"locality",

@@ -11,11 +11,15 @@
     "geom:longitude":91.12143,
     "gn:country":"BD",
     "gn:fcode":"PPL",
-    "gn:pop":82290,
+    "gn:population":82290,
     "iso:country":"BD",
+    "lbl:bbox":"91.10143,23.22018,91.14143,23.26018",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":8.0,
+    "name:und_x_variant":[
         "Laksam"
     ],
     "qs:name":"L\u0101ksh\u0101m",
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":1185183,
         "gp:id":1915128,
-        "qs:id":130902
+        "qs_pg:id":130902
     },
     "wof:country":"BD",
     "wof:created":1469051415,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890421855,
-    "wof:lastmodified":1505343466,
+    "wof:lastmodified":1566609403,
     "wof:name":"L\u0101ksh\u0101m",
     "wof:parent_id":421187801,
     "wof:placetype":"locality",

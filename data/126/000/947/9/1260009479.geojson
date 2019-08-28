@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.94067,24.74802,90.98067,24.78802",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "K\u0101hitura",
         "K\u0101hetura"
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1260009479,
-    "wof:lastmodified":1537585960,
+    "wof:lastmodified":1566608486,
     "wof:name":"Kahitura",
     "wof:parent_id":421200811,
     "wof:placetype":"locality",

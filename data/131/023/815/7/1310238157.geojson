@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.86421,22.89257,89.90421,22.93257",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Gim\u0101d\u0101nga"
     ],
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1310238157,
-    "wof:lastmodified":1564157015,
+    "wof:lastmodified":1566608717,
     "wof:name":"Gimadanga",
     "wof:parent_id":421194867,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"92.25137,20.88003,92.29137,20.92003",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Kerantali Kh\u0101l"
     ],
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1209357071,
-    "wof:lastmodified":1537586334,
+    "wof:lastmodified":1566608014,
     "wof:name":"Kerantali Khal",
     "wof:parent_id":85632475,
     "wof:placetype":"locality",

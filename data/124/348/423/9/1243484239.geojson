@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.4785,22.39844,90.5185,22.43844",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Char Kayna"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1243484239,
-    "wof:lastmodified":1537586359,
+    "wof:lastmodified":1566609611,
     "wof:name":"Char Kayna",
     "wof:parent_id":421169845,
     "wof:placetype":"locality",

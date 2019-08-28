@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.39344,25.48685,89.43344,25.52685",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ab\u09b0\u09bf\u09a6\u09aa\u09c1\u09b0"
     ],
@@ -72,7 +76,7 @@
         }
     ],
     "wof:id":1293038097,
-    "wof:lastmodified":1564154248,
+    "wof:lastmodified":1566606924,
     "wof:name":"Faridpur",
     "wof:parent_id":1108694701,
     "wof:placetype":"locality",

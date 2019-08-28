@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.95304,24.41065,88.99304,24.45065",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Faridpur\u0101h\u0101ti"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1276472775,
-    "wof:lastmodified":1537586035,
+    "wof:lastmodified":1566607366,
     "wof:name":"Faridpurahati",
     "wof:parent_id":421182115,
     "wof:placetype":"locality",

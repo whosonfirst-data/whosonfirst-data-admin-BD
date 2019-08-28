@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.34774,22.85739,89.38774,22.89739",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Rhoodghara",
         "Rud\u0101ghara"
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1276905113,
-    "wof:lastmodified":1537585782,
+    "wof:lastmodified":1566607573,
     "wof:name":"Rudaghara",
     "wof:parent_id":421185473,
     "wof:placetype":"locality",

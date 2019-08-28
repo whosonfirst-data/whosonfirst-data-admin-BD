@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.36303,24.83248,89.40303,24.87248",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Dhauapara",
         "Dh\u0101o\u0101p\u0101ra"
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1310043029,
-    "wof:lastmodified":1537586055,
+    "wof:lastmodified":1566608971,
     "wof:name":"Dhaoapara",
     "wof:parent_id":421187793,
     "wof:placetype":"locality",

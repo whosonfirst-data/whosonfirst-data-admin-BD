@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.36931,24.58414,88.40931,24.62414",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u06a9\u0646\u062f\u0648\u0644"
     ],
@@ -44,9 +48,6 @@
         "Kandul"
     ],
     "name:tur_x_preferred":[
-        "Kendul"
-    ],
-    "name:und_x_variant":[
         "Kendul"
     ],
     "src:geom":"geonames",
@@ -72,7 +73,7 @@
         }
     ],
     "wof:id":1209852969,
-    "wof:lastmodified":1564155763,
+    "wof:lastmodified":1566607910,
     "wof:name":"Kandul",
     "wof:parent_id":421191607,
     "wof:placetype":"locality",

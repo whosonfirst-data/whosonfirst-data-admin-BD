@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.22197,25.21472,89.26197,25.25472",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Khodatpur"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1259411199,
-    "wof:lastmodified":1537586731,
+    "wof:lastmodified":1566610031,
     "wof:name":"Khodatpur",
     "wof:parent_id":1108694671,
     "wof:placetype":"locality",

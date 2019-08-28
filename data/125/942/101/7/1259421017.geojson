@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.85949,23.10715,90.89949,23.14715",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Sandherkhil",
         "S\u0101udherkhil"
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1259421017,
-    "wof:lastmodified":1537585761,
+    "wof:lastmodified":1566610194,
     "wof:name":"Saudherkhil",
     "wof:parent_id":421166521,
     "wof:placetype":"locality",

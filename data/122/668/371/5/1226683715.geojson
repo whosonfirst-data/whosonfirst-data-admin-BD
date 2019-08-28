@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.91657,24.44437,88.95657,24.48437",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Nasratpur"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1226683715,
-    "wof:lastmodified":1537585846,
+    "wof:lastmodified":1566610435,
     "wof:name":"Nasaratpur",
     "wof:parent_id":421182115,
     "wof:placetype":"locality",

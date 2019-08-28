@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.81587,24.55461,88.85587,24.59461",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Champ\u0101kuri"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1310338785,
-    "wof:lastmodified":1537586111,
+    "wof:lastmodified":1566609016,
     "wof:name":"Champakuri",
     "wof:parent_id":421172439,
     "wof:placetype":"locality",

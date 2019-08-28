@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.98197,22.34381,90.02197,22.38381",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Bara S\u0101ula"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1310634187,
-    "wof:lastmodified":1537586159,
+    "wof:lastmodified":1566608867,
     "wof:name":"Bara Saula",
     "wof:parent_id":421172031,
     "wof:placetype":"locality",

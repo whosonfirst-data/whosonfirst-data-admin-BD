@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"91.93619,22.57761,91.97619,22.61761",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Karnupara"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1344098991,
-    "wof:lastmodified":1537586225,
+    "wof:lastmodified":1566606390,
     "wof:name":"Karnupara",
     "wof:parent_id":421188983,
     "wof:placetype":"locality",

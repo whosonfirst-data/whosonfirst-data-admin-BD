@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.43764,25.69062,88.47764,25.73062",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Mahirpur"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1276804937,
-    "wof:lastmodified":1537586655,
+    "wof:lastmodified":1566607120,
     "wof:name":"Mahirpur",
     "wof:parent_id":1108694671,
     "wof:placetype":"locality",

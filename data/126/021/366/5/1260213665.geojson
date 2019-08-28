@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.30852,22.56313,89.34852,22.60313",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Paikgachha",
         "P\u0101ikg\u0101cha"
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1260213665,
-    "wof:lastmodified":1537585688,
+    "wof:lastmodified":1566608626,
     "wof:name":"Paikgacha",
     "wof:parent_id":421185473,
     "wof:placetype":"locality",

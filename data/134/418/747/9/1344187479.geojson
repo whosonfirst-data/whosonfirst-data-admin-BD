@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.05776,22.80869,89.09776,22.84869",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Raipur"
     ],
@@ -259,7 +263,7 @@
         }
     ],
     "wof:id":1344187479,
-    "wof:lastmodified":1564153438,
+    "wof:lastmodified":1566606580,
     "wof:name":"Raipur",
     "wof:parent_id":421201927,
     "wof:placetype":"locality",

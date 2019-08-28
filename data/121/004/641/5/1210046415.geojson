@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.38,23.718,90.42,23.758",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u09b6\u09be\u09b9\u09ac\u09be\u0997"
     ],
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":1210046415,
-    "wof:lastmodified":1537586714,
+    "wof:lastmodified":1566608281,
     "wof:name":"Shahbag",
     "wof:parent_id":421187803,
     "wof:placetype":"locality",

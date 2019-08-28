@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.03619,22.42074,89.07619,22.46074",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Tekra"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1259516849,
-    "wof:lastmodified":1537585713,
+    "wof:lastmodified":1566610175,
     "wof:name":"Tekra",
     "wof:parent_id":421201927,
     "wof:placetype":"locality",

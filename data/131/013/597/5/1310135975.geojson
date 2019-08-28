@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.99519,22.2695,89.03519,22.3095",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Naik\u0101ti"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1310135975,
-    "wof:lastmodified":1537585856,
+    "wof:lastmodified":1566608749,
     "wof:name":"Naikati",
     "wof:parent_id":421201927,
     "wof:placetype":"locality",

@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":23.944546,
     "lbl:longitude":91.106189,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"CHITTAGONG",
     "meso:gadm_admin":"Brahmanbaria",
     "meso:gadm_hasc2":"BD.CG.BB",
@@ -31,6 +33,7 @@
     "mps:longitude":91.106189,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ben_x_preferred":[
         "\u09ac\u09cd\u09b0\u09be\u09b9\u09cd\u09ae\u09a3\u09ac\u09be\u09a1\u09bc\u09c0\u09af\u09bc\u09be \u099c\u09c7\u09b2\u09be"
     ],
@@ -112,9 +115,9 @@
         "\u5a46\u7f85\u9580\u5df4\u91cc\u4e9e\u7e23"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-03-15",
+    "src:population_date":"2011-03-15",
     "statoids:area_km":"1,881",
     "statoids:as_of_date":"2011-03-15",
     "statoids:capital":"Brahmanbaria",
@@ -147,7 +150,7 @@
         }
     ],
     "wof:id":1108694667,
-    "wof:lastmodified":1563583270,
+    "wof:lastmodified":1566608679,
     "wof:name":"Brahamanbaria",
     "wof:parent_id":85669023,
     "wof:placetype":"county",

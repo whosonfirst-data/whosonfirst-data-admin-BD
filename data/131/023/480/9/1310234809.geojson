@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.7512,22.27145,90.7912,22.31145",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Ram\u0101ganj"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1310234809,
-    "wof:lastmodified":1537586389,
+    "wof:lastmodified":1566608720,
     "wof:name":"Ramaganj",
     "wof:parent_id":421184491,
     "wof:placetype":"locality",

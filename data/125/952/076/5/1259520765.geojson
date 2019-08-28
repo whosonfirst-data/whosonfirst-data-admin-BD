@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.25952,22.16994,90.29952,22.20994",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u0100mr\u0101g\u0101chhia"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1259520765,
-    "wof:lastmodified":1537586395,
+    "wof:lastmodified":1566610007,
     "wof:name":"Amragachhia",
     "wof:parent_id":421176043,
     "wof:placetype":"locality",

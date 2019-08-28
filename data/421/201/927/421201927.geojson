@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":22.588245,
     "lbl:longitude":89.102206,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"KHULNA",
     "meso:gadm_admin":"Shatkhira",
     "meso:gadm_hasc2":"BD.KH.ST",
@@ -31,6 +33,7 @@
     "mps:longitude":89.102206,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ben_x_preferred":[
         "\u09b8\u09be\u09a4\u0995\u09cd\u09b7\u09c0\u09b0\u09be \u099c\u09c7\u09b2\u09be"
@@ -140,9 +143,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-03-15",
+    "src:population_date":"2011-03-15",
     "statoids:area_km":"3,817",
     "statoids:as_of_date":"2011-03-15",
     "statoids:capital":"Satkhira",
@@ -162,7 +165,7 @@
     "wof:concordances":{
         "gp:id":23706436,
         "hasc:id":"BD.KH.ST",
-        "qs:id":215992,
+        "qs_pg:id":215992,
         "wd:id":"Q1233680"
     },
     "wof:country":"BD",
@@ -177,7 +180,7 @@
         }
     ],
     "wof:id":421201927,
-    "wof:lastmodified":1563584397,
+    "wof:lastmodified":1566609393,
     "wof:name":"Satkhira",
     "wof:parent_id":85669015,
     "wof:placetype":"county",

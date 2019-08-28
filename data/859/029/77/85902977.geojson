@@ -5,13 +5,15 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":29209403.963836,
+    "geom:area_square_m":0.0,
     "geom:bbox":"91.824299,22.332965,91.824299,22.332965",
     "geom:latitude":22.332965,
     "geom:longitude":91.824299,
     "iso:country":"BD",
+    "lbl:bbox":"91.819299,22.327965,91.829299,22.337965",
     "lbl:latitude":22.332965,
     "lbl:longitude":91.824299,
+    "lbl:max_zoom":18.0,
     "mps:latitude":22.329752,
     "mps:longitude":91.822694,
     "mz:hierarchy_label":0,
@@ -28,9 +30,6 @@
         "Sadar Ghat"
     ],
     "name:eng_x_preferred":[
-        "Sadar Gh\u00e5t"
-    ],
-    "name:unk_x_variant":[
         "Sadar Gh\u00e5t"
     ],
     "qs:gn_adm0_cc":"BD",
@@ -61,12 +60,12 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85669023,
         102191569,
         85632475,
-        421201541,
-        85669023
+        421201541
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -88,7 +87,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531935974,
+    "wof:lastmodified":1566606661,
     "wof:name":"Sadar Gh\u00e5t",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

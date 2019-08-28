@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.86532,24.71029,90.90532,24.75029",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Shib\u0101sram",
         "Sib\u0101sram"
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1293717461,
-    "wof:lastmodified":1537585751,
+    "wof:lastmodified":1566606834,
     "wof:name":"Shibasram",
     "wof:parent_id":421200811,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.01463,23.63015,90.05463,23.67015",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1343299391,
-    "wof:lastmodified":1536978004,
+    "wof:lastmodified":1566606595,
     "wof:name":"Hatni",
     "wof:parent_id":421187803,
     "wof:placetype":"locality",

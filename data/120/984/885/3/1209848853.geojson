@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.53881,23.58694,90.57881,23.62694",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1209848853,
-    "wof:lastmodified":1536389396,
+    "wof:lastmodified":1566607837,
     "wof:name":"Chelar Char",
     "wof:parent_id":421197045,
     "wof:placetype":"locality",

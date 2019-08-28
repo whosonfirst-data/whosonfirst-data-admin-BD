@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.14429,23.26726,89.18429,23.30726",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Mohish\u0101h\u0101ti"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1293817279,
-    "wof:lastmodified":1537586705,
+    "wof:lastmodified":1566607025,
     "wof:name":"Mohishahati",
     "wof:parent_id":1108694679,
     "wof:placetype":"locality",

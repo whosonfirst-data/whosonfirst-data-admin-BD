@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.74712,24.46811,88.78712,24.50811",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Sy\u0101mpur"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1259513301,
-    "wof:lastmodified":1537585724,
+    "wof:lastmodified":1566610153,
     "wof:name":"Syampur",
     "wof:parent_id":421172439,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.02959,22.97613,89.06959,23.01613",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Ista"
     ],
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1209034699,
-    "wof:lastmodified":1564155973,
+    "wof:lastmodified":1566608056,
     "wof:name":"Ista",
     "wof:parent_id":85632475,
     "wof:placetype":"locality",

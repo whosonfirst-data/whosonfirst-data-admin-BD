@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.59731,23.97607,90.63731,24.01607",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ita_x_preferred":[
         "Baragaon"
     ],
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1277012751,
-    "wof:lastmodified":1564154565,
+    "wof:lastmodified":1566607051,
     "wof:name":"Baragaon",
     "wof:parent_id":421203493,
     "wof:placetype":"locality",

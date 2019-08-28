@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.28021,25.42104,89.32021,25.46104",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Kishorgari"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1242907111,
-    "wof:lastmodified":1537586754,
+    "wof:lastmodified":1566609817,
     "wof:name":"Kishorgari",
     "wof:parent_id":1108694701,
     "wof:placetype":"locality",

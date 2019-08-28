@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.57047,24.82878,88.61047,24.86878",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Bijali"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1309935803,
-    "wof:lastmodified":1537586135,
+    "wof:lastmodified":1566609289,
     "wof:name":"Bijali",
     "wof:parent_id":421191663,
     "wof:placetype":"locality",

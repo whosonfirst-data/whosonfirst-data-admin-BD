@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"92.13634,21.24704,92.17634,21.28704",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Chak Boit\u0101p\u0101long"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1242625871,
-    "wof:lastmodified":1537586265,
+    "wof:lastmodified":1566609768,
     "wof:name":"Chak Boitapalong",
     "wof:parent_id":421205057,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.37767,23.68202,89.41767,23.72202",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Dakshin Kumariraj",
         "South Kumarir\u0101j"
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1276585719,
-    "wof:lastmodified":1537585735,
+    "wof:lastmodified":1566607243,
     "wof:name":"South Kumariraj",
     "wof:parent_id":1108694699,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.39941,24.68979,88.43941,24.72979",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "H\u0101midpur"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1293726741,
-    "wof:lastmodified":1537586509,
+    "wof:lastmodified":1566607029,
     "wof:name":"Hamidpur",
     "wof:parent_id":421191607,
     "wof:placetype":"locality",

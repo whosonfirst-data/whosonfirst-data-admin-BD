@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.97792,23.94562,90.01792,23.98562",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Purba Shimuli\u0101b\u0101ri",
         "Purba Simuli\u0101b\u0101ri"
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1243487715,
-    "wof:lastmodified":1537585800,
+    "wof:lastmodified":1566609619,
     "wof:name":"Purba Shimuliabari",
     "wof:parent_id":421191745,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.14525,21.80905,90.18525,21.84905",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Azimpur"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1310333339,
-    "wof:lastmodified":1537586376,
+    "wof:lastmodified":1566609011,
     "wof:name":"Azimpur",
     "wof:parent_id":421169845,
     "wof:placetype":"locality",

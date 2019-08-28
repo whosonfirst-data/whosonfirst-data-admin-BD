@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.22379,25.18724,89.26379,25.22724",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Ch\u0101lita"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1360114831,
-    "wof:lastmodified":1564157718,
+    "wof:lastmodified":1566609133,
     "wof:name":"Chalita",
     "wof:parent_id":1108694675,
     "wof:placetype":"locality",

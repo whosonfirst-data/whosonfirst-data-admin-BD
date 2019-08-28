@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.84154,25.11427,89.88154,25.15427",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Telipara"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1276364789,
-    "wof:lastmodified":1537586780,
+    "wof:lastmodified":1566607639,
     "wof:name":"Tungrapara",
     "wof:parent_id":421191923,
     "wof:placetype":"locality",

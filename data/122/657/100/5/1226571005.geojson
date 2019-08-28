@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.22784,25.89034,88.26784,25.93034",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Nayanpur"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1226571005,
-    "wof:lastmodified":1537586642,
+    "wof:lastmodified":1566610467,
     "wof:name":"Nayanpur",
     "wof:parent_id":1108694703,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.04073,23.07399,89.08073,23.11399",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Fatehpur"
     ],
@@ -87,7 +91,7 @@
         }
     ],
     "wof:id":1292939177,
-    "wof:lastmodified":1564153867,
+    "wof:lastmodified":1566606765,
     "wof:name":"Fatehpur",
     "wof:parent_id":421176039,
     "wof:placetype":"locality",

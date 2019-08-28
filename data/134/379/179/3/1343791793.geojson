@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.68134,26.03103,89.72134,26.07103",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Dhauria Kuthi",
         "Dhauria Khuti",
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1343791793,
-    "wof:lastmodified":1537586053,
+    "wof:lastmodified":1566606425,
     "wof:name":"Dhaurar Kuti",
     "wof:parent_id":1108694685,
     "wof:placetype":"locality",

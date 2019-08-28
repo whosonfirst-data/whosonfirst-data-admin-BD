@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.8005,25.25388,89.8405,25.29388",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Tailapara"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1293322519,
-    "wof:lastmodified":1537586820,
+    "wof:lastmodified":1566606942,
     "wof:name":"Tailapara",
     "wof:parent_id":421191923,
     "wof:placetype":"locality",

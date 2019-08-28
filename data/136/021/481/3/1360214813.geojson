@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.08137,25.81566,89.12137,25.85566",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Dighalt\u0101ri"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1360214813,
-    "wof:lastmodified":1537586816,
+    "wof:lastmodified":1566609181,
     "wof:name":"Dighaltari",
     "wof:parent_id":1108694701,
     "wof:placetype":"locality",

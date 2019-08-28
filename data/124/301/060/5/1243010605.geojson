@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.62578,26.11087,89.66578,26.15087",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Khamar Iswar Barua"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1243010605,
-    "wof:lastmodified":1537586834,
+    "wof:lastmodified":1566609480,
     "wof:name":"Khamar Iswar Barua",
     "wof:parent_id":1108694685,
     "wof:placetype":"locality",

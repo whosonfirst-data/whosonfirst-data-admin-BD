@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.98215,24.99338,89.02215,25.03338",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Uttar Srir\u014dmpur"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1343292127,
-    "wof:lastmodified":1537586717,
+    "wof:lastmodified":1566606615,
     "wof:name":"Uttar Srirompur",
     "wof:parent_id":421191663,
     "wof:placetype":"locality",

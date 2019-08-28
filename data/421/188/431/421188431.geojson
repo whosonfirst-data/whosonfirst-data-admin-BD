@@ -10,8 +10,12 @@
     "geom:latitude":23.3029,
     "geom:longitude":90.40866,
     "iso:country":"BD",
+    "lbl:bbox":"90.38866,23.2829,90.42866,23.3229",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:als_x_preferred":[
         "Naria"
@@ -70,7 +74,7 @@
     "wof:concordances":{
         "gn:id":8432943,
         "gp:id":1915169,
-        "qs:id":1096506,
+        "qs_pg:id":1096506,
         "wd:id":"Q3336093"
     },
     "wof:country":"BD",
@@ -86,7 +90,7 @@
         }
     ],
     "wof:id":421188431,
-    "wof:lastmodified":1563584371,
+    "wof:lastmodified":1566609381,
     "wof:name":"Naria",
     "wof:parent_id":421188359,
     "wof:placetype":"locality",

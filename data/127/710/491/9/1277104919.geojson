@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.58961,25.30383,89.62961,25.34383",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Sayedpur Ghat"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1277104919,
-    "wof:lastmodified":1537585774,
+    "wof:lastmodified":1566607669,
     "wof:name":"Sayedpur Ghat",
     "wof:parent_id":1108694675,
     "wof:placetype":"locality",

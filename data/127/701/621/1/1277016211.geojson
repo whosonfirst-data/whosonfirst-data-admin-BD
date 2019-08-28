@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.41405,22.01059,90.45405,22.05059",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "K\u0101ukh\u0101li"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1277016211,
-    "wof:lastmodified":1537586399,
+    "wof:lastmodified":1566607047,
     "wof:name":"Kaukhali",
     "wof:parent_id":421169845,
     "wof:placetype":"locality",

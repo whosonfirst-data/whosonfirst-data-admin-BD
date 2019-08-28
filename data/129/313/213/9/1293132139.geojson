@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.55959,23.04037,89.59959,23.08037",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Fuldaha"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1293132139,
-    "wof:lastmodified":1537586447,
+    "wof:lastmodified":1566606866,
     "wof:name":"Fuldaha",
     "wof:parent_id":421205213,
     "wof:placetype":"locality",

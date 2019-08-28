@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.74939,26.01225,88.78939,26.05225",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Arzi Dalua"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1293916867,
-    "wof:lastmodified":1537586302,
+    "wof:lastmodified":1566606675,
     "wof:name":"Arzi Dalua",
     "wof:parent_id":1108694695,
     "wof:placetype":"locality",

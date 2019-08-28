@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.52689,26.46032,88.56689,26.50032",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Mira Jot"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1343991241,
-    "wof:lastmodified":1537586274,
+    "wof:lastmodified":1566606348,
     "wof:name":"Mira Jot",
     "wof:parent_id":1108694697,
     "wof:placetype":"locality",

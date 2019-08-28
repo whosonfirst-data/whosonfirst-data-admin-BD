@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.31337,25.22059,89.35337,25.26059",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "B\u0101hirdanga"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1276794767,
-    "wof:lastmodified":1537586744,
+    "wof:lastmodified":1566607446,
     "wof:name":"Bahirdanga",
     "wof:parent_id":1108694675,
     "wof:placetype":"locality",

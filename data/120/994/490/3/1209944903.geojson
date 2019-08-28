@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.76534,24.74869,88.80534,24.78869",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Nij Kulih\u0101r"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1209944903,
-    "wof:lastmodified":1537585842,
+    "wof:lastmodified":1566608093,
     "wof:name":"Nij Kulihar",
     "wof:parent_id":421191663,
     "wof:placetype":"locality",

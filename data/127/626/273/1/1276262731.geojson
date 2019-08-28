@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.90801,24.75602,88.94801,24.79602",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Chakprasad"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1276262731,
-    "wof:lastmodified":1537586114,
+    "wof:lastmodified":1566607078,
     "wof:name":"Chakprasad",
     "wof:parent_id":421191663,
     "wof:placetype":"locality",

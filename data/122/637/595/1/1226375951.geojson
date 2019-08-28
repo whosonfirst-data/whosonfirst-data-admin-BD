@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.46329,25.82607,88.50329,25.86607",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Isl\u0101mpur"
     ],
@@ -76,7 +80,7 @@
         }
     ],
     "wof:id":1226375951,
-    "wof:lastmodified":1564160095,
+    "wof:lastmodified":1566610704,
     "wof:name":"Islampur",
     "wof:parent_id":1108694671,
     "wof:placetype":"locality",

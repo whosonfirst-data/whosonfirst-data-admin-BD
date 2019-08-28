@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.39883,23.64234,90.43883,23.68234",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Mazid Beara",
         "Majid Be\u0101ra"
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1243587109,
-    "wof:lastmodified":1537585885,
+    "wof:lastmodified":1566609710,
     "wof:name":"Majid Beara",
     "wof:parent_id":421187803,
     "wof:placetype":"locality",

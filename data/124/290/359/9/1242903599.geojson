@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.88592,24.22143,88.92592,24.26143",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "S\u0101dhup\u0101ra"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1242903599,
-    "wof:lastmodified":1537585779,
+    "wof:lastmodified":1566609803,
     "wof:name":"Sadhupara",
     "wof:parent_id":421172439,
     "wof:placetype":"locality",

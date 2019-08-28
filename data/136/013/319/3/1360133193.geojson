@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"91.95861,21.51964,91.99861,21.55964",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Amuddiagh\u0101ta"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1360133193,
-    "wof:lastmodified":1537586259,
+    "wof:lastmodified":1566609044,
     "wof:name":"Amuddiaghata",
     "wof:parent_id":421205057,
     "wof:placetype":"locality",

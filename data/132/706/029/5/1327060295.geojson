@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.7152,24.31931,88.7552,24.35931",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Durlabhpur"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1327060295,
-    "wof:lastmodified":1537586536,
+    "wof:lastmodified":1566605873,
     "wof:name":"Durlabhpur",
     "wof:parent_id":421172439,
     "wof:placetype":"locality",

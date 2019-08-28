@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.87364,24.01089,89.91364,24.05089",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "M\u0101mudnagar",
         "Mahm\u016bdnagar"
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1360117995,
-    "wof:lastmodified":1537585888,
+    "wof:lastmodified":1566609126,
     "wof:name":"Mahmudnagar",
     "wof:parent_id":421185471,
     "wof:placetype":"locality",

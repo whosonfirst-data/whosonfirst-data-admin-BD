@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.13546,24.53737,88.17546,24.57737",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Joharpar"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1327164493,
-    "wof:lastmodified":1537586501,
+    "wof:lastmodified":1566606218,
     "wof:name":"Joharpar",
     "wof:parent_id":421191607,
     "wof:placetype":"locality",

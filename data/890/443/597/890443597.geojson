@@ -11,14 +11,18 @@
     "geom:longitude":92.30153,
     "gn:country":"BD",
     "gn:fcode":"PPL",
-    "gn:pop":40557,
+    "gn:population":40557,
     "iso:country":"BD",
+    "lbl:bbox":"92.28153,20.84382,92.32153,20.88382",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "name:ben_x_preferred":[
         "Tekn\u0101f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Teknaaf"
     ],
     "qs:name":"Tekn\u0101f",
@@ -36,7 +40,7 @@
     "wof:concordances":{
         "gn:id":1185095,
         "gp:id":1915251,
-        "qs:id":1030101
+        "qs_pg:id":1030101
     },
     "wof:country":"BD",
     "wof:created":1469052430,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":890443597,
-    "wof:lastmodified":1505343594,
+    "wof:lastmodified":1566609403,
     "wof:name":"Tekn\u0101f",
     "wof:parent_id":421205057,
     "wof:placetype":"locality",

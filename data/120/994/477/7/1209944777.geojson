@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.67318,22.25974,90.71318,22.29974",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Paschim Char Umed"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1209944777,
-    "wof:lastmodified":1537585700,
+    "wof:lastmodified":1566608090,
     "wof:name":"Paschim Char Umed",
     "wof:parent_id":421184491,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.30918,25.24713,89.34918,25.28713",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Andura"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1209445213,
-    "wof:lastmodified":1564156221,
+    "wof:lastmodified":1566608216,
     "wof:name":"Andura",
     "wof:parent_id":85632475,
     "wof:placetype":"locality",

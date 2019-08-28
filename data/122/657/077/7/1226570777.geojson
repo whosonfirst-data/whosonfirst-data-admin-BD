@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.29369,24.50061,88.33369,24.54061",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Laskarhati"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1226570777,
-    "wof:lastmodified":1537585901,
+    "wof:lastmodified":1566610447,
     "wof:name":"Laskarhati",
     "wof:parent_id":421172439,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.1405,25.14831,90.1805,25.18831",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Bandadhara"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1226570803,
-    "wof:lastmodified":1537586789,
+    "wof:lastmodified":1566610470,
     "wof:name":"Bandadhara",
     "wof:parent_id":421190979,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.47091,25.43386,89.51091,25.47386",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Daksin Dhonadanga"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1259813515,
-    "wof:lastmodified":1537586750,
+    "wof:lastmodified":1566610228,
     "wof:name":"Daksin Dhonadanga",
     "wof:parent_id":1108694675,
     "wof:placetype":"locality",

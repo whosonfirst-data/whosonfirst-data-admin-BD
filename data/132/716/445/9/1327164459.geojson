@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.10263,22.43513,89.14263,22.47513",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Bh\u0101g\u0101b\u0101n Jashamantopur"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1327164459,
-    "wof:lastmodified":1537586144,
+    "wof:lastmodified":1566606232,
     "wof:name":"Bhagaban Jashamantopur",
     "wof:parent_id":421201927,
     "wof:placetype":"locality",

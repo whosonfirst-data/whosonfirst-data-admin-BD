@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.6356,23.86672,90.6756,23.90672",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1242711303,
-    "wof:lastmodified":1536870108,
+    "wof:lastmodified":1566609761,
     "wof:name":"Meherpara",
     "wof:parent_id":421169707,
     "wof:placetype":"locality",

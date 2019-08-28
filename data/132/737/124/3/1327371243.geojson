@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.00029,22.14513,90.04029,22.18513",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Kalirchar"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1327371243,
-    "wof:lastmodified":1537586334,
+    "wof:lastmodified":1566605890,
     "wof:name":"Kalirchar",
     "wof:parent_id":421176043,
     "wof:placetype":"locality",

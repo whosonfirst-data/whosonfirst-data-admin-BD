@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.96566,22.42447,90.00566,22.46447",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Char Bothia"
     ],
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1209652619,
-    "wof:lastmodified":1537586337,
+    "wof:lastmodified":1566607745,
     "wof:name":"Char Bothia",
     "wof:parent_id":85632475,
     "wof:placetype":"locality",

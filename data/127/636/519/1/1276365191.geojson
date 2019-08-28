@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.47177,25.22609,89.51177,25.26609",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Kh\u0101m\u0101r B\u0101lua"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1276365191,
-    "wof:lastmodified":1537586758,
+    "wof:lastmodified":1566607645,
     "wof:name":"Khamar Balua",
     "wof:parent_id":1108694675,
     "wof:placetype":"locality",

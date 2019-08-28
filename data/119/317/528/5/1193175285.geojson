@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"92.05465,22.82059,92.09465,22.86059",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Guilichari"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1193175285,
-    "wof:lastmodified":1537586364,
+    "wof:lastmodified":1566608431,
     "wof:name":"Guilichari",
     "wof:parent_id":421188983,
     "wof:placetype":"locality",

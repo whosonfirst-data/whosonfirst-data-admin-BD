@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.84063,23.32942,90.88063,23.36942",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Manpur"
     ],
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":1276594885,
-    "wof:lastmodified":1564154860,
+    "wof:lastmodified":1566607251,
     "wof:name":"Manpur",
     "wof:parent_id":1108694669,
     "wof:placetype":"locality",

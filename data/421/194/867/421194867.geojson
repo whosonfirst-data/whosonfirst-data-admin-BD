@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":23.087228,
     "lbl:longitude":89.839403,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"DHAKA",
     "meso:gadm_admin":"Gopalgonj",
     "meso:gadm_hasc2":"BD.DA.GG",
@@ -31,6 +33,7 @@
     "mps:longitude":89.839403,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bel_x_preferred":[
         "\u0413\u0430\u043f\u0430\u043b\u0433\u0430\u043d\u0434\u0436"
@@ -137,9 +140,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-03-15",
+    "src:population_date":"2011-03-15",
     "statoids:area_km":"1,469",
     "statoids:as_of_date":"2011-03-15",
     "statoids:capital":"Gopalganj",
@@ -160,7 +163,7 @@
     "wof:concordances":{
         "gp:id":23706451,
         "hasc:id":"BD.DH.GG",
-        "qs:id":22371,
+        "qs_pg:id":22371,
         "wd:id":"Q1537813"
     },
     "wof:country":"BD",
@@ -175,7 +178,7 @@
         }
     ],
     "wof:id":421194867,
-    "wof:lastmodified":1563584349,
+    "wof:lastmodified":1566609369,
     "wof:name":"Gopalganj",
     "wof:parent_id":85669009,
     "wof:placetype":"county",

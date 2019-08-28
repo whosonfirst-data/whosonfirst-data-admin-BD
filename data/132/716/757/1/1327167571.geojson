@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.76962,25.39982,89.80962,25.43982",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1327167571,
-    "wof:lastmodified":1537060606,
+    "wof:lastmodified":1566606229,
     "wof:name":"Joaner Char",
     "wof:parent_id":421191923,
     "wof:placetype":"locality",

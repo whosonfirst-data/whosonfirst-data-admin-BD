@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.92173,23.27799,90.96173,23.31799",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1310443955,
-    "wof:lastmodified":1537005007,
+    "wof:lastmodified":1566608887,
     "wof:name":"Gohat",
     "wof:parent_id":1108694669,
     "wof:placetype":"locality",

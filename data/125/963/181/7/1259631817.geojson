@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"91.97184,22.50084,92.01184,22.54084",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Shophmara"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1259631817,
-    "wof:lastmodified":1537586228,
+    "wof:lastmodified":1566609990,
     "wof:name":"Shophmara",
     "wof:parent_id":421188983,
     "wof:placetype":"locality",

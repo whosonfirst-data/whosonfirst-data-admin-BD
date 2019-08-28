@@ -27,8 +27,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.23,23.84667,89.27,23.88667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Khordda Tarapur",
         "Khurd T\u0101r\u0101pur"
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1260320087,
-    "wof:lastmodified":1537585920,
+    "wof:lastmodified":1566608650,
     "wof:name":"Khurd Tarapur",
     "wof:parent_id":890438075,
     "wof:placetype":"locality",

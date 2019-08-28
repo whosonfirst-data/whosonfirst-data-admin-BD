@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"91.65222,22.55333,91.69222,22.59333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1293732497,
-    "wof:lastmodified":1536931850,
+    "wof:lastmodified":1566607002,
     "wof:name":"Noakhali",
     "wof:parent_id":421201541,
     "wof:placetype":"locality",

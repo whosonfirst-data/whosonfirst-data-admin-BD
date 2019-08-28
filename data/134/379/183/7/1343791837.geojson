@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.65066,24.68071,88.69066,24.72071",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "K\u0101ligaon Muhammadpur"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1343791837,
-    "wof:lastmodified":1537586523,
+    "wof:lastmodified":1566606424,
     "wof:name":"Kaligaon Muhammadpur",
     "wof:parent_id":421191663,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.5401,25.66347,89.5801,25.70347",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Dakshin Daldalia"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1259817013,
-    "wof:lastmodified":1537586823,
+    "wof:lastmodified":1566610203,
     "wof:name":"Dakshin Daldalia",
     "wof:parent_id":1108694685,
     "wof:placetype":"locality",

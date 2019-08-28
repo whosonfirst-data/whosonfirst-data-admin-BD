@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.88404,23.58596,88.92404,23.62596",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Sub\u0101dia"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1310634227,
-    "wof:lastmodified":1537586574,
+    "wof:lastmodified":1566608852,
     "wof:name":"Subadia",
     "wof:parent_id":421194153,
     "wof:placetype":"locality",

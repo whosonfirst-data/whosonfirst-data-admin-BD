@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"92.21946,21.92517,92.25946,21.96517",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "K\u0101yo Faingp\u0101ra"
     ],
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1209357073,
-    "wof:lastmodified":1537586230,
+    "wof:lastmodified":1566608015,
     "wof:name":"Kayo Faingpara",
     "wof:parent_id":85632475,
     "wof:placetype":"locality",

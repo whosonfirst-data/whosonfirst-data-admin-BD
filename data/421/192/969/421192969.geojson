@@ -10,8 +10,12 @@
     "geom:latitude":25.96817,
     "geom:longitude":89.69153,
     "iso:country":"BD",
+    "lbl:bbox":"89.67153,25.94817,89.71153,25.98817",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ben_x_preferred":[
         "Nageswari"
@@ -22,9 +26,6 @@
         "N\u0101geshwari",
         "Nageshawari",
         "Nagasewari"
-    ],
-    "name:unk_x_variant":[
-        "Paschim Nageswari"
     ],
     "qs:gn_country":"BD",
     "qs:gn_fcode":"PPL",
@@ -56,7 +57,7 @@
     "wof:concordances":{
         "gn:id":1185160,
         "gp:id":29001495,
-        "qs:id":513152
+        "qs_pg:id":513152
     },
     "wof:country":"BD",
     "wof:created":1459009755,
@@ -71,7 +72,7 @@
         }
     ],
     "wof:id":421192969,
-    "wof:lastmodified":1505340732,
+    "wof:lastmodified":1566609368,
     "wof:name":"Nageswarguri",
     "wof:parent_id":1108694685,
     "wof:placetype":"locality",

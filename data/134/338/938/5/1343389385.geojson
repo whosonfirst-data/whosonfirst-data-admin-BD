@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.76772,24.75469,88.80772,24.79469",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Ilsh\u0101g\u0101ri"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1343389385,
-    "wof:lastmodified":1537585986,
+    "wof:lastmodified":1566606250,
     "wof:name":"Ilshagari",
     "wof:parent_id":421191663,
     "wof:placetype":"locality",

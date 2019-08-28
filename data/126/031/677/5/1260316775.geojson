@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.16668,22.33798,89.20668,22.37798",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "God\u0101ra"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1260316775,
-    "wof:lastmodified":1537586602,
+    "wof:lastmodified":1566608522,
     "wof:name":"Godara",
     "wof:parent_id":421201927,
     "wof:placetype":"locality",

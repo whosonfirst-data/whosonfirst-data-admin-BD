@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.45024,24.94439,88.49024,24.98439",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Kethli"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1343987753,
-    "wof:lastmodified":1537586325,
+    "wof:lastmodified":1566606282,
     "wof:name":"Kethli",
     "wof:parent_id":421191663,
     "wof:placetype":"locality",

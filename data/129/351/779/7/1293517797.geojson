@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.97072,25.03604,89.01072,25.07604",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Bagamanpur"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1293517797,
-    "wof:lastmodified":1537586451,
+    "wof:lastmodified":1566606961,
     "wof:name":"Bagamanpur",
     "wof:parent_id":1108694681,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.50332,26.03598,88.54332,26.07598",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "S\u0101landar"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1243396595,
-    "wof:lastmodified":1537586290,
+    "wof:lastmodified":1566609490,
     "wof:name":"Salandar",
     "wof:parent_id":1108694703,
     "wof:placetype":"locality",

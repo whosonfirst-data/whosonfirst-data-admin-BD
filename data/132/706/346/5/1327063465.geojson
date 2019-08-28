@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.16181,21.97201,90.20181,22.01201",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Kachup\u0101tra"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1327063465,
-    "wof:lastmodified":1537585962,
+    "wof:lastmodified":1566605860,
     "wof:name":"Kachupatra",
     "wof:parent_id":421176043,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.08207,23.16813,89.12207,23.20813",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Bara Gobindapur"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1226777437,
-    "wof:lastmodified":1537586163,
+    "wof:lastmodified":1566610693,
     "wof:name":"Bara Gobindapur",
     "wof:parent_id":421176039,
     "wof:placetype":"locality",

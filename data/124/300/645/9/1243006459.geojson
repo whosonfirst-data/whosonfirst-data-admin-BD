@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.99165,22.34732,89.03165,22.38732",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Murh\u0101g\u0101chha"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1243006459,
-    "wof:lastmodified":1537586600,
+    "wof:lastmodified":1566609412,
     "wof:name":"Murhagachha",
     "wof:parent_id":421201927,
     "wof:placetype":"locality",

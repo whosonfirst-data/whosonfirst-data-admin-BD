@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.33182,25.06932,89.37182,25.10932",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Mah\u0101b\u0101lar"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1243202081,
-    "wof:lastmodified":1537586743,
+    "wof:lastmodified":1566609858,
     "wof:name":"Mahabalar",
     "wof:parent_id":421187793,
     "wof:placetype":"locality",

@@ -26,18 +26,18 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.15459,25.61413,89.19459,25.65413",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "J\u0101ruly\u0101pur"
     ],
     "name:ben_x_variant":[
         "Jaroolapoor",
         "Jarullapur"
-    ],
-    "name:und_x_variant":[
-        "Jaroolapoor",
-        "J\u0101ruly\u0101pur"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -62,7 +62,7 @@
         }
     ],
     "wof:id":1293322523,
-    "wof:lastmodified":1537585975,
+    "wof:lastmodified":1566606954,
     "wof:name":"Jarulyapur",
     "wof:parent_id":1108694701,
     "wof:placetype":"locality",

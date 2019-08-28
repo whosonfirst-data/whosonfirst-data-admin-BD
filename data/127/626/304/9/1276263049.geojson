@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.04522,24.53069,90.08522,24.57069",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1276263049,
-    "wof:lastmodified":1536871821,
+    "wof:lastmodified":1566607091,
     "wof:name":"Dhama Basuri",
     "wof:parent_id":421185471,
     "wof:placetype":"locality",

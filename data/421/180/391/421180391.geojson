@@ -10,10 +10,14 @@
     "geom:latitude":24.05783,
     "geom:longitude":89.87696,
     "iso:country":"BD",
+    "lbl:bbox":"89.85696,24.03783,89.89696,24.07783",
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Nagurpoor"
     ],
     "qs:gn_country":"BD",
@@ -46,7 +50,7 @@
     "wof:concordances":{
         "gn:id":1185159,
         "gp:id":1906815,
-        "qs:id":429973
+        "qs_pg:id":429973
     },
     "wof:country":"BD",
     "wof:created":1459009254,
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":421180391,
-    "wof:lastmodified":1505340647,
+    "wof:lastmodified":1566609376,
     "wof:name":"Nagarpur",
     "wof:parent_id":421185471,
     "wof:placetype":"locality",

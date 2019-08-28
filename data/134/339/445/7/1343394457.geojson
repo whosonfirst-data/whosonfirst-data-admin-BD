@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.58057,24.98819,89.62057,25.02819",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Simultair"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1343394457,
-    "wof:lastmodified":1537586779,
+    "wof:lastmodified":1566606323,
     "wof:name":"Simultair",
     "wof:parent_id":421187793,
     "wof:placetype":"locality",

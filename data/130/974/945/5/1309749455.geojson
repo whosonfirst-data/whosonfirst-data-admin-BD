@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.99935,24.35388,91.03935,24.39388",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Goradigha",
         "Ghor\u0101dhigha"
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1309749455,
-    "wof:lastmodified":1537586019,
+    "wof:lastmodified":1566609361,
     "wof:name":"Ghoradhigha",
     "wof:parent_id":421170483,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.98269,23.66965,89.02269,23.70965",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "N\u0101r\u0101yanpur"
     ],
@@ -69,7 +73,7 @@
         }
     ],
     "wof:id":1360315473,
-    "wof:lastmodified":1564157638,
+    "wof:lastmodified":1566609088,
     "wof:name":"Narayanpur",
     "wof:parent_id":421194153,
     "wof:placetype":"locality",

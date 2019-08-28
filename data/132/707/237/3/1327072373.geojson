@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.95772,23.22366,90.99772,23.26366",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1327072373,
-    "wof:lastmodified":1536703108,
+    "wof:lastmodified":1566605922,
     "wof:name":"Barulia",
     "wof:parent_id":1108694669,
     "wof:placetype":"locality",

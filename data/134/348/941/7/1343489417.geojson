@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.35005,23.72261,90.39005,23.76261",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Sibpur",
         "Shibpur"
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1343489417,
-    "wof:lastmodified":1564153112,
+    "wof:lastmodified":1566606435,
     "wof:name":"Shibpur",
     "wof:parent_id":421187803,
     "wof:placetype":"locality",

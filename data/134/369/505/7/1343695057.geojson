@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.14336,25.69991,89.18336,25.73991",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Dakshin Chandanpat"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1343695057,
-    "wof:lastmodified":1537586873,
+    "wof:lastmodified":1566606524,
     "wof:name":"Dakshin Chandanpat",
     "wof:parent_id":1108694701,
     "wof:placetype":"locality",

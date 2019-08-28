@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"91.52651,24.88674,91.56651,24.92674",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Jamak",
         "Jh\u0101mak"
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1259813567,
-    "wof:lastmodified":1537585970,
+    "wof:lastmodified":1566610227,
     "wof:name":"Jhamak",
     "wof:parent_id":421201931,
     "wof:placetype":"locality",

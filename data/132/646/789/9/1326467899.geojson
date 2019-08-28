@@ -26,17 +26,17 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.02884,25.79941,89.06884,25.83941",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Ikarch\u0101li"
     ],
     "name:ben_x_variant":[
         "Ekarchali"
-    ],
-    "name:und_x_variant":[
-        "Ekarchali",
-        "Ikarch\u0101li"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -61,7 +61,7 @@
         }
     ],
     "wof:id":1326467899,
-    "wof:lastmodified":1537585986,
+    "wof:lastmodified":1566606144,
     "wof:name":"Ikarchali",
     "wof:parent_id":1108694701,
     "wof:placetype":"locality",

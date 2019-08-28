@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.18421,22.36301,89.22421,22.40301",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Prat\u0101pnagar"
     ],
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1327461665,
-    "wof:lastmodified":1537585805,
+    "wof:lastmodified":1566606060,
     "wof:name":"Pratapnagar",
     "wof:parent_id":421201927,
     "wof:placetype":"locality",

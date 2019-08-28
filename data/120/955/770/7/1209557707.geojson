@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.88491,23.4443,90.92491,23.4843",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Padu\u0101",
         "North Padua"
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1209557707,
-    "wof:lastmodified":1537585821,
+    "wof:lastmodified":1566607804,
     "wof:name":"North Padua",
     "wof:parent_id":85632475,
     "wof:placetype":"locality",

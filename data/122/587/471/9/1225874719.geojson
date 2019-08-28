@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.96444,25.33708,89.00444,25.37708",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Manir\u0101mpur"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1225874719,
-    "wof:lastmodified":1537586478,
+    "wof:lastmodified":1566610507,
     "wof:name":"Manirampur",
     "wof:parent_id":1108694671,
     "wof:placetype":"locality",

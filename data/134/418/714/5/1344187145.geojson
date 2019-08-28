@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.7515,22.44548,90.7915,22.48548",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "D\u0101l\u0101lpur"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1344187145,
-    "wof:lastmodified":1537586373,
+    "wof:lastmodified":1566606579,
     "wof:name":"Dalalpur",
     "wof:parent_id":421184491,
     "wof:placetype":"locality",

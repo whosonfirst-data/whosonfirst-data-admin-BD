@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.19893,25.02626,89.23893,25.06626",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Punat"
     ],
@@ -105,7 +109,7 @@
         }
     ],
     "wof:id":1327267175,
-    "wof:lastmodified":1564152649,
+    "wof:lastmodified":1566606199,
     "wof:name":"Punat",
     "wof:parent_id":1108694681,
     "wof:placetype":"locality",

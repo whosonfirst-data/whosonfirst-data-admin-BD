@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"92.12031,22.18603,92.16031,22.22603",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Silgh\u0101ta"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1226688231,
-    "wof:lastmodified":1537585748,
+    "wof:lastmodified":1566610440,
     "wof:name":"Silghata",
     "wof:parent_id":421169477,
     "wof:placetype":"locality",

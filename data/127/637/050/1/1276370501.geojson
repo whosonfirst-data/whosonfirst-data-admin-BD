@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.2352,22.41489,90.2752,22.45489",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Kismat Jh\u0101tibania"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1276370501,
-    "wof:lastmodified":1537586336,
+    "wof:lastmodified":1566607613,
     "wof:name":"Kismat Jhatibania",
     "wof:parent_id":421169845,
     "wof:placetype":"locality",

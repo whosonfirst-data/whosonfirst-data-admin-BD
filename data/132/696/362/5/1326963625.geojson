@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.08069,25.29239,89.12069,25.33239",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Rustampur"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1326963625,
-    "wof:lastmodified":1537586859,
+    "wof:lastmodified":1566606159,
     "wof:name":"Rustampur",
     "wof:parent_id":1108694671,
     "wof:placetype":"locality",

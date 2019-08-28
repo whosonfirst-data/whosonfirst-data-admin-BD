@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.11291,23.94643,90.15291,23.98643",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1193055475,
-    "wof:lastmodified":1536383294,
+    "wof:lastmodified":1566608369,
     "wof:name":"Paschim Baoza",
     "wof:parent_id":421187803,
     "wof:placetype":"locality",

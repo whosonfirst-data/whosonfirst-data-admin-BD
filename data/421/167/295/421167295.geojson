@@ -10,10 +10,14 @@
     "geom:latitude":22.70817,
     "geom:longitude":89.07185,
     "iso:country":"BD",
+    "lbl:bbox":"89.05185,22.68817,89.09185,22.72817",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":7.0,
     "mz:note":"quattroshapes points import (201603)",
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Shatkhira"
     ],
     "qs:gn_country":"BD",
@@ -46,7 +50,7 @@
     "wof:concordances":{
         "gn:id":1185111,
         "gp:id":1915226,
-        "qs:id":130892
+        "qs_pg:id":130892
     },
     "wof:country":"BD",
     "wof:created":1459008726,
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":421167295,
-    "wof:lastmodified":1505340585,
+    "wof:lastmodified":1566609370,
     "wof:name":"Satkhira",
     "wof:parent_id":421201927,
     "wof:placetype":"locality",

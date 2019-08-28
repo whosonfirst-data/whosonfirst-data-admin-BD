@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.7365,23.17474,90.7765,23.21474",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Balithupa",
         "B\u0101luthupa"
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1326678495,
-    "wof:lastmodified":1537586174,
+    "wof:lastmodified":1566606003,
     "wof:name":"Baluthupa",
     "wof:parent_id":1108694669,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.22593,24.25627,90.26593,24.29627",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "K\u0101lmegha"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1260316343,
-    "wof:lastmodified":1537585953,
+    "wof:lastmodified":1566608508,
     "wof:name":"Kalmegha",
     "wof:parent_id":421185471,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.46333,23.78,89.50333,23.82",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1326663509,
-    "wof:lastmodified":1536795082,
+    "wof:lastmodified":1566606017,
     "wof:name":"Thakurpara",
     "wof:parent_id":1108694699,
     "wof:placetype":"locality",

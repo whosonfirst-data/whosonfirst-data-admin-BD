@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"91.90519,22.26612,91.94519,22.30612",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Berlkh\u0101in"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1326968243,
-    "wof:lastmodified":1537586220,
+    "wof:lastmodified":1566606171,
     "wof:name":"Berlkhain",
     "wof:parent_id":421201541,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.40783,22.33854,90.44783,22.37854",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Narayap Sing"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1259817097,
-    "wof:lastmodified":1537586355,
+    "wof:lastmodified":1566610208,
     "wof:name":"Narayap Sing",
     "wof:parent_id":421169845,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.79233,25.29605,89.83233,25.33605",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Kumrak\u0101ndi"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1243584017,
-    "wof:lastmodified":1537586819,
+    "wof:lastmodified":1566609687,
     "wof:name":"Kumrakandi",
     "wof:parent_id":421191923,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.38721,25.59596,89.42721,25.63596",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ghowdhur\u0101ni",
         "Chowdhurani",
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1259813251,
-    "wof:lastmodified":1537586092,
+    "wof:lastmodified":1566610222,
     "wof:name":"Chawdhurani",
     "wof:parent_id":1108694701,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"91.75227,22.75127,91.79227,22.79127",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "K\u0101jy\u0101p\u0101ra"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1260128427,
-    "wof:lastmodified":1537586362,
+    "wof:lastmodified":1566608459,
     "wof:name":"Kaiyapara",
     "wof:parent_id":421201541,
     "wof:placetype":"locality",

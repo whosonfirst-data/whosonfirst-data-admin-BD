@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"91.43,22.84667,91.47,22.88667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632475
@@ -37,7 +41,7 @@
         "gn:id":1187552
     },
     "wof:country":"BD",
-    "wof:geomhash":"036c78ab4415b19d7253cab85094d23e",
+    "wof:geomhash":"dd7bf0b39aa3842bf3138a30ab6ed3d8",
     "wof:hierarchy":[
         {
             "country_id":85632475,
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":1209044767,
-    "wof:lastmodified":1536299435,
+    "wof:lastmodified":1566608065,
     "wof:name":"Sonapur",
     "wof:parent_id":85632475,
     "wof:placetype":"locality",
@@ -56,9 +60,9 @@
 },
   "bbox": [
     91.45,
-    22.866670000000006,
+    22.86667000000001,
     91.45,
-    22.866670000000006
+    22.86667000000001
 ],
   "geometry": {"coordinates":[91.45,22.86667000000001],"type":"Point"}
 }

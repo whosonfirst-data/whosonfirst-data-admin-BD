@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.99013,23.22789,89.03013,23.26789",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1243297203,
-    "wof:lastmodified":1537019819,
+    "wof:lastmodified":1566609903,
     "wof:name":"Tarinibas",
     "wof:parent_id":421176039,
     "wof:placetype":"locality",

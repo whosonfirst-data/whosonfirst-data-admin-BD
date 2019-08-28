@@ -27,8 +27,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"90.31333,23.33,90.35333,23.37",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ahadi Matabarer Kandi",
         "\u0100h\u0101di M\u0101tbarer K\u0101ndi"
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1209552791,
-    "wof:lastmodified":1537586210,
+    "wof:lastmodified":1566607808,
     "wof:name":"Ahadi Matbarer Kandi",
     "wof:parent_id":85632475,
     "wof:placetype":"locality",

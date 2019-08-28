@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.20449,25.5876,89.24449,25.6276",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Mamudpur"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1260324323,
-    "wof:lastmodified":1537586837,
+    "wof:lastmodified":1566608663,
     "wof:name":"Mamudpur",
     "wof:parent_id":1108694701,
     "wof:placetype":"locality",

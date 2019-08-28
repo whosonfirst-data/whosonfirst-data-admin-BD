@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.28162,24.69113,88.32162,24.73113",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Senpur"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1326764027,
-    "wof:lastmodified":1537585758,
+    "wof:lastmodified":1566606115,
     "wof:name":"Sanpur",
     "wof:parent_id":421191607,
     "wof:placetype":"locality",

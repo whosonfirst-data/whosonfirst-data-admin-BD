@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.07055,23.71942,89.11055,23.75942",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "M\u0101lip\u0101r\u0101 Rahimpur"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1243292145,
-    "wof:lastmodified":1537586406,
+    "wof:lastmodified":1566609892,
     "wof:name":"Malipara Rahimpur",
     "wof:parent_id":1108694679,
     "wof:placetype":"locality",

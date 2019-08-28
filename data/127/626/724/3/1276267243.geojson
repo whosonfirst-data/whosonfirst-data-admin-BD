@@ -26,16 +26,17 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.97684,25.58364,89.01684,25.62364",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Hossanipur"
     ],
     "name:ben_x_variant":[
         "Uttar Hassenpur",
-        "Hosseinpoor"
-    ],
-    "name:und_x_variant":[
         "Hosseinpoor"
     ],
     "src:geom":"geonames",
@@ -61,7 +62,7 @@
         }
     ],
     "wof:id":1276267243,
-    "wof:lastmodified":1537586468,
+    "wof:lastmodified":1566607091,
     "wof:name":"Uttar Hassenpur",
     "wof:parent_id":1108694671,
     "wof:placetype":"locality",

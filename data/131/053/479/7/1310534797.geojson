@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"89.91275,23.03962,89.95275,23.07962",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Bil B\u0101junia"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1310534797,
-    "wof:lastmodified":1537586459,
+    "wof:lastmodified":1566608817,
     "wof:name":"Bil Bajunia",
     "wof:parent_id":421194867,
     "wof:placetype":"locality",

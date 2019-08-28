@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "lbl:bbox":"88.89168,26.12135,88.93168,26.16135",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Som\u0101rganjp\u0101ra"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1293526673,
-    "wof:lastmodified":1537586309,
+    "wof:lastmodified":1566606724,
     "wof:name":"Somarganjpara",
     "wof:parent_id":1108694695,
     "wof:placetype":"locality",
