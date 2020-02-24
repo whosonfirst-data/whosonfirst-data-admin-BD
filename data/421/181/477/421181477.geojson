@@ -729,6 +729,9 @@
     },
     "wof:country":"BD",
     "wof:created":1459009297,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"92786b8a196ad94bc44c4d5b823728d1",
     "wof:hierarchy":[
         {
@@ -740,7 +743,7 @@
         }
     ],
     "wof:id":421181477,
-    "wof:lastmodified":1566609384,
+    "wof:lastmodified":1582318195,
     "wof:name":"Dhaka",
     "wof:parent_id":421187803,
     "wof:placetype":"locality",

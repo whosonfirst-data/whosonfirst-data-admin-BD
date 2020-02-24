@@ -285,6 +285,9 @@
         "wk:page":"Chittagong Division"
     },
     "wof:country":"BD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"3b1f9681bba2e45e9b171a500a125d8a",
     "wof:hierarchy":[
         {
@@ -300,7 +303,7 @@
     "wof:lang_x_spoken":[
         "ben"
     ],
-    "wof:lastmodified":1566606669,
+    "wof:lastmodified":1582318154,
     "wof:name":"Chittagong",
     "wof:parent_id":85632475,
     "wof:placetype":"region",

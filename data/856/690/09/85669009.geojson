@@ -320,6 +320,9 @@
         "wk:page":"Dhaka Division"
     },
     "wof:country":"BD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"b008965699a24f63998379673dc69192",
     "wof:hierarchy":[
         {
@@ -335,7 +338,7 @@
     "wof:lang_x_spoken":[
         "ben"
     ],
-    "wof:lastmodified":1566606669,
+    "wof:lastmodified":1582318154,
     "wof:name":"Dhaka",
     "wof:parent_id":85632475,
     "wof:placetype":"region",

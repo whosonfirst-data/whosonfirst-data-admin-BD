@@ -267,6 +267,9 @@
         "wk:page":"Sylhet Division"
     },
     "wof:country":"BD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"c8f68a6e5f709ed79f6bcf3bc8d0b1bd",
     "wof:hierarchy":[
         {
@@ -282,7 +285,7 @@
     "wof:lang_x_spoken":[
         "ben"
     ],
-    "wof:lastmodified":1566606671,
+    "wof:lastmodified":1582318155,
     "wof:name":"Sylhet",
     "wof:parent_id":85632475,
     "wof:placetype":"region",

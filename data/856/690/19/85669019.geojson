@@ -278,6 +278,9 @@
         "wk:page":"Barisal Division"
     },
     "wof:country":"BD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"3433bf2bb801d08810d9db2475a4bd98",
     "wof:hierarchy":[
         {
@@ -293,7 +296,7 @@
     "wof:lang_x_spoken":[
         "ben"
     ],
-    "wof:lastmodified":1566606668,
+    "wof:lastmodified":1582318153,
     "wof:name":"Barisal",
     "wof:parent_id":85632475,
     "wof:placetype":"region",

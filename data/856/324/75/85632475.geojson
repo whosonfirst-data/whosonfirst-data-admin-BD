@@ -1043,8 +1043,9 @@
     "qs:source":"US State Department, with Natural Earth mods",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
+        "meso",
         "naturalearth",
-        "meso"
+        "naturalearth"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
@@ -1098,6 +1099,11 @@
     },
     "wof:country":"BD",
     "wof:country_alpha3":"BGD",
+    "wof:geom_alt":[
+        "meso",
+        "naturalearth-display-terrestrial-zoom6",
+        "naturalearth"
+    ],
     "wof:geomhash":"f1991a986281fd28138d60aae25b2d8d",
     "wof:hierarchy":[
         {
@@ -1112,7 +1118,7 @@
     "wof:lang_x_spoken":[
         "ben"
     ],
-    "wof:lastmodified":1566606662,
+    "wof:lastmodified":1582318150,
     "wof:name":"Bangladesh",
     "wof:parent_id":102191569,
     "wof:placetype":"country",
