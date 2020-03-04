@@ -262,6 +262,9 @@
         "wk:page":"Rajshahi Division"
     },
     "wof:country":"BD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"c02bed79ddf822d6d837a89051c70686",
     "wof:hierarchy":[
         {
@@ -277,7 +280,7 @@
     "wof:lang_x_spoken":[
         "ben"
     ],
-    "wof:lastmodified":1566606669,
+    "wof:lastmodified":1582318154,
     "wof:name":"Rajshahi",
     "wof:parent_id":85632475,
     "wof:placetype":"region",
