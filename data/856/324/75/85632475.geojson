@@ -1075,9 +1075,7 @@
     ],
     "wof:concordances":{
         "dbp:id":"Bangladesh",
-        "digitalenvoy:country_code":[
-            50
-        ],
+        "digitalenvoy:country_code":50,
         "fb:id":"en.bangladesh",
         "fifa:id":"BAN",
         "fips:code":"BG",
@@ -1120,7 +1118,7 @@
     "wof:lang_x_spoken":[
         "ben"
     ],
-    "wof:lastmodified":1583529078,
+    "wof:lastmodified":1583797281,
     "wof:name":"Bangladesh",
     "wof:parent_id":102191569,
     "wof:placetype":"country",
