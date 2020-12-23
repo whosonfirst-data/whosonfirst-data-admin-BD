@@ -306,14 +306,15 @@
     "wof:belongsto":[
         102191569,
         85632475,
-        85669031,
-        421172439
+        421172439,
+        85669031
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1185128,
         "gp:id":1915203,
         "loc:id":"n81071714",
+        "ne:id":1159150421,
         "qs_pg:id":273878,
         "wd:id":"Q322155",
         "wk:page":"Rajshahi"
@@ -331,7 +332,8 @@
         }
     ],
     "wof:id":421168821,
-    "wof:lastmodified":1566609366,
+    "wof:lastmodified":1608688173,
+    "wof:megacity":1,
     "wof:name":"Rajshahi",
     "wof:parent_id":421172439,
     "wof:placetype":"locality",
