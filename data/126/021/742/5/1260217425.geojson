@@ -35,6 +35,9 @@
     "name:bel_x_preferred":[
         "\u0422\u0430\u0440\u0430"
     ],
+    "name:ben_x_preferred":[
+        "\u09a4\u09be\u09b0\u09be"
+    ],
     "name:bos_x_preferred":[
         "Tara"
     ],
@@ -55,6 +58,9 @@
     ],
     "name:deu_x_preferred":[
         "Tara"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03ac\u03c1\u03b1"
     ],
     "name:epo_x_preferred":[
         "Tara"
@@ -97,6 +103,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30bf\u30e9"
+    ],
+    "name:kor_x_preferred":[
+        "\ud0c0\ub77c"
     ],
     "name:lat_x_preferred":[
         "Tara"
@@ -143,6 +152,9 @@
     "name:ukr_x_preferred":[
         "\u0422\u0430\u0440\u0430"
     ],
+    "name:urd_x_preferred":[
+        "\u0679\u0627\u0631\u0627"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -155,7 +167,7 @@
         "gn:id":1186546
     },
     "wof:country":"BD",
-    "wof:geomhash":"a635d125332a6c2c24562e5631200c24",
+    "wof:geomhash":"f524f267edf95e03ddeb8aa7e0ee35fa",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -166,7 +178,7 @@
         }
     ],
     "wof:id":1260217425,
-    "wof:lastmodified":1566608638,
+    "wof:lastmodified":1636495529,
     "wof:name":"Tara",
     "wof:parent_id":421191745,
     "wof:placetype":"locality",
@@ -176,10 +188,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    90.01666999999998,
+    90.01667,
     23.68333,
-    90.01666999999998,
+    90.01667,
     23.68333
 ],
-  "geometry": {"coordinates":[90.01666999999998,23.68333],"type":"Point"}
+  "geometry": {"coordinates":[90.01667,23.68333],"type":"Point"}
 }

@@ -17,6 +17,9 @@
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0646\u0648\u0627\u0628\u063a\u0627\u0646\u062c"
+    ],
     "name:bpy_x_preferred":[
         "\u09a8\u09f1\u09be\u09ac\u0997\u099e\u09cd\u099c"
     ],
@@ -26,8 +29,32 @@
     "name:ceb_x_preferred":[
         "Nawabganj"
     ],
+    "name:deu_x_preferred":[
+        "Nawabganj"
+    ],
+    "name:fas_x_preferred":[
+        "\u0646\u0648\u0627\u0628 \u06af\u0646\u062c"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e0\u05d5\u05d5\u05d1\u05d2\u05e0\u05d2'"
+    ],
+    "name:hin_x_preferred":[
+        "\u0928\u0935\u093e\u092c\u0917\u0902\u091c"
+    ],
+    "name:hun_x_preferred":[
+        "Nawabganj"
+    ],
+    "name:ind_x_preferred":[
+        "Nawabganj"
+    ],
     "name:ita_x_preferred":[
         "Nawabganj"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ca\u30ef\u30d6\u30ac\u30f3\u30b8"
+    ],
+    "name:kor_x_preferred":[
+        "\ub098\uc640\ube0c\uac04\uc988"
     ],
     "name:new_x_preferred":[
         "\u0928\u0935\u093e\u092c\u0917\u091e\u094d\u091c"
@@ -38,14 +65,38 @@
     "name:pol_x_preferred":[
         "Nawabganj"
     ],
+    "name:por_x_preferred":[
+        "Nawabganj"
+    ],
     "name:rus_x_preferred":[
         "\u041d\u0430\u0432\u0430\u0431\u0433\u0430\u043d\u0434\u0436"
+    ],
+    "name:spa_x_preferred":[
+        "Nawabganj"
     ],
     "name:swe_x_preferred":[
         "Nawabganj"
     ],
+    "name:tur_x_preferred":[
+        "Nawabganj"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041d\u0430\u0432\u0430\u0431\u0433\u0430\u043d\u0434\u0436"
+    ],
     "name:und_x_variant":[
         "Nau\u0101bganj"
+    ],
+    "name:urd_x_preferred":[
+        "\u0646\u0648\u0627\u0628 \u06af\u0646\u062c"
+    ],
+    "name:vie_x_preferred":[
+        "Nawabganj"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u7eb3\u74e6\u7518\u6770"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u7d0d\u74e6\u5e03\u6839\u5091"
     ],
     "qs:gn_country":"BD",
     "qs:gn_fcode":"PPL",
@@ -91,7 +142,7 @@
         }
     ],
     "wof:id":421193973,
-    "wof:lastmodified":1566609370,
+    "wof:lastmodified":1636495539,
     "wof:name":"Nawabganj",
     "wof:parent_id":421187803,
     "wof:placetype":"locality",

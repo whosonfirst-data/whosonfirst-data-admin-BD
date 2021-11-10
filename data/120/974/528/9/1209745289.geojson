@@ -32,6 +32,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ara_x_preferred":[
+        "\u062c\u0645\u0627\u0644\u0628\u0648\u0631"
+    ],
     "name:ben_x_preferred":[
         "J\u0101m\u0101lpur"
     ],
@@ -53,6 +56,18 @@
     "name:fra_x_preferred":[
         "Jamalpur"
     ],
+    "name:heb_x_preferred":[
+        "\u05d2'\u05de\u05dc\u05e4\u05d5\u05e8"
+    ],
+    "name:hun_x_preferred":[
+        "Jamalpur"
+    ],
+    "name:ind_x_preferred":[
+        "Jamalpur"
+    ],
+    "name:kor_x_preferred":[
+        "\uc790\ub9d0\ud478\ub974"
+    ],
     "name:lit_x_preferred":[
         "D\u017eamalpuras"
     ],
@@ -62,8 +77,20 @@
     "name:nld_x_preferred":[
         "Jamalpur"
     ],
+    "name:pol_x_preferred":[
+        "Jamalpur"
+    ],
+    "name:por_x_preferred":[
+        "Jamalpur"
+    ],
     "name:swe_x_preferred":[
         "Jamalpur"
+    ],
+    "name:tur_x_preferred":[
+        "Jamalpur"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u0436\u0430\u043c\u0430\u043b\u043f\u0443\u0440"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -77,7 +104,7 @@
         "gn:id":7484823
     },
     "wof:country":"BD",
-    "wof:geomhash":"c0b2811447414cedf1f350369d6072f0",
+    "wof:geomhash":"17b90044991ebfd618b59c5b2e7fb63e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -88,7 +115,7 @@
         }
     ],
     "wof:id":1209745289,
-    "wof:lastmodified":1566608167,
+    "wof:lastmodified":1636495523,
     "wof:name":"Jamalpur",
     "wof:parent_id":421194153,
     "wof:placetype":"locality",
@@ -98,10 +125,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    88.93491999999998,
+    88.93492,
     23.555,
-    88.93491999999998,
+    88.93492,
     23.555
 ],
-  "geometry": {"coordinates":[88.93491999999998,23.555],"type":"Point"}
+  "geometry": {"coordinates":[88.93492000000001,23.555],"type":"Point"}
 }

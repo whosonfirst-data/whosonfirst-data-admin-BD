@@ -56,6 +56,9 @@
     "name:fra_x_preferred":[
         "Kura"
     ],
+    "name:hin_x_preferred":[
+        "\u0915\u0941\u0930\u093e"
+    ],
     "name:ita_x_preferred":[
         "Kura"
     ],
@@ -77,6 +80,9 @@
     "name:swe_x_preferred":[
         "Kura"
     ],
+    "name:urd_x_preferred":[
+        "\u06a9\u0648\u0631\u0627\u0628"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -89,7 +95,7 @@
         "gn:id":7921193
     },
     "wof:country":"BD",
-    "wof:geomhash":"0b24f7c74cc6864c9f54cb647d9ad422",
+    "wof:geomhash":"1d5d015a268f610292975be5d87a6c25",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -100,7 +106,7 @@
         }
     ],
     "wof:id":1209950021,
-    "wof:lastmodified":1566608005,
+    "wof:lastmodified":1636495521,
     "wof:name":"Kura",
     "wof:parent_id":421190979,
     "wof:placetype":"locality",
@@ -111,9 +117,9 @@
 },
   "bbox": [
     89.92149,
-    25.22422000000001,
+    25.22422,
     89.92149,
-    25.22422000000001
+    25.22422
 ],
-  "geometry": {"coordinates":[89.92149000000001,25.22422000000001],"type":"Point"}
+  "geometry": {"coordinates":[89.92149000000001,25.22422],"type":"Point"}
 }

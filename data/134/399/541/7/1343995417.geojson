@@ -57,6 +57,9 @@
         "Marka"
     ],
     "name:heb_x_preferred":[
+        "\u05de\u05e8\u05e7\u05d4"
+    ],
+    "name:heb_x_variant":[
         "\u05de\u05d0\u05e8\u05e7\u05d4"
     ],
     "name:hrv_x_preferred":[
@@ -95,6 +98,9 @@
     "name:uzb_x_preferred":[
         "Marka"
     ],
+    "name:vie_x_preferred":[
+        "Marka"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -118,7 +124,7 @@
         }
     ],
     "wof:id":1343995417,
-    "wof:lastmodified":1566606350,
+    "wof:lastmodified":1636495486,
     "wof:name":"Marka",
     "wof:parent_id":421201927,
     "wof:placetype":"locality",

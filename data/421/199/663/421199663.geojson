@@ -184,6 +184,9 @@
         "Chittagong"
     ],
     "name:hun_x_preferred":[
+        "Chittagong"
+    ],
+    "name:hun_x_variant":[
         "Csittagong"
     ],
     "name:hye_x_preferred":[
@@ -540,8 +543,8 @@
     "wof:belongsto":[
         102191569,
         85632475,
-        421201541,
-        85669023
+        85669023,
+        421201541
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -568,7 +571,7 @@
         }
     ],
     "wof:id":421199663,
-    "wof:lastmodified":1610148967,
+    "wof:lastmodified":1636495543,
     "wof:megacity":1,
     "wof:name":"Chittagong",
     "wof:parent_id":421201541,

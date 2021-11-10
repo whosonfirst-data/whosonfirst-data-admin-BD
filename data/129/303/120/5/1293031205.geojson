@@ -126,6 +126,9 @@
         "Kayes"
     ],
     "name:rus_x_preferred":[
+        "\u041a\u0430\u0439\u0435\u0441"
+    ],
+    "name:rus_x_variant":[
         "\u041a\u0430\u0435\u0441"
     ],
     "name:spa_x_preferred":[
@@ -134,11 +137,23 @@
     "name:swe_x_preferred":[
         "Kayes"
     ],
+    "name:tur_x_preferred":[
+        "Kayes"
+    ],
     "name:ukr_x_preferred":[
         "\u041a\u0430\u0454\u0441"
     ],
     "name:urd_x_preferred":[
         "\u06a9\u06cc\u0632"
+    ],
+    "name:vie_x_preferred":[
+        "Kayes"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u5361\u8036\u65af"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u51f1\u65af"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -152,7 +167,7 @@
         "gn:id":1198038
     },
     "wof:country":"BD",
-    "wof:geomhash":"1e6276796d718357b60774250a6c4aae",
+    "wof:geomhash":"dc61873f6a5b88b228e35bd2314c12a4",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -163,7 +178,7 @@
         }
     ],
     "wof:id":1293031205,
-    "wof:lastmodified":1566606911,
+    "wof:lastmodified":1636495503,
     "wof:name":"Kayes",
     "wof:parent_id":421191663,
     "wof:placetype":"locality",
@@ -173,10 +188,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    88.63911999999998,
+    88.63912,
     24.85456,
-    88.63911999999998,
+    88.63912,
     24.85456
 ],
-  "geometry": {"coordinates":[88.63911999999998,24.85456],"type":"Point"}
+  "geometry": {"coordinates":[88.63912000000001,24.85456],"type":"Point"}
 }

@@ -33,6 +33,9 @@
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
+        "\u09b0\u09be\u09ae\u09c1"
+    ],
+    "name:ben_x_variant":[
         "R\u0101mu"
     ],
     "name:chv_x_preferred":[
@@ -41,8 +44,26 @@
     "name:deu_x_preferred":[
         "Ramu"
     ],
+    "name:ell_x_preferred":[
+        "\u03a1\u03b1\u03bc\u03bf\u03cd"
+    ],
     "name:fra_x_preferred":[
         "Ramu"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e8\u05d0\u05de\u05d5"
+    ],
+    "name:hun_x_preferred":[
+        "Ramu"
+    ],
+    "name:ind_x_preferred":[
+        "Ramu"
+    ],
+    "name:ita_x_preferred":[
+        "Ramu"
+    ],
+    "name:kor_x_preferred":[
+        "\ub77c\ubb34"
     ],
     "name:lit_x_preferred":[
         "Ramu"
@@ -53,11 +74,26 @@
     "name:rus_x_preferred":[
         "\u0420\u0430\u043c\u0443"
     ],
+    "name:spa_x_preferred":[
+        "Ramu"
+    ],
     "name:swa_x_preferred":[
         "Ramu"
     ],
+    "name:swe_x_preferred":[
+        "Ramu"
+    ],
+    "name:tur_x_preferred":[
+        "lake"
+    ],
     "name:ukr_x_preferred":[
         "\u0420\u0430\u043c\u0443"
+    ],
+    "name:urd_x_preferred":[
+        "\u0631\u0627\u0645\u0648"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00f4ng Ramu"
     ],
     "name:zho_x_preferred":[
         "\u62c9\u7a46\u6cb3"
@@ -85,7 +121,7 @@
         }
     ],
     "wof:id":1242911575,
-    "wof:lastmodified":1566609769,
+    "wof:lastmodified":1636495550,
     "wof:name":"Ramu",
     "wof:parent_id":421169477,
     "wof:placetype":"locality",

@@ -62,6 +62,9 @@
     "name:hin_x_preferred":[
         "\u0915\u094b\u092e\u093f\u0932\u094d\u0932\u093e"
     ],
+    "name:hun_x_preferred":[
+        "Comilla"
+    ],
     "name:ind_x_preferred":[
         "Comilla"
     ],
@@ -107,6 +110,9 @@
     "name:pol_x_preferred":[
         "Kumilla"
     ],
+    "name:por_x_preferred":[
+        "Cumilla"
+    ],
     "name:ron_x_preferred":[
         "Comilla"
     ],
@@ -118,6 +124,9 @@
     ],
     "name:sin_x_preferred":[
         "\u0d9a\u0ddc\u0db8\u0dd2\u0dbd"
+    ],
+    "name:spa_x_preferred":[
+        "Comilla"
     ],
     "name:sun_x_preferred":[
         "Comilla"
@@ -295,7 +304,7 @@
         }
     ],
     "wof:id":421175649,
-    "wof:lastmodified":1566609385,
+    "wof:lastmodified":1636495541,
     "wof:name":"Comilla",
     "wof:parent_id":421187801,
     "wof:placetype":"locality",

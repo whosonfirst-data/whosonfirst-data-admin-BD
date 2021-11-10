@@ -84,8 +84,14 @@
     "name:frr_x_preferred":[
         "Sylhet"
     ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05d9\u05dc\u05d4\u05d8"
+    ],
     "name:hin_x_preferred":[
         "\u0938\u093f\u0932\u0939\u091f \u0909\u092a\u0915\u094d\u0937\u0947\u0924\u094d\u0930"
+    ],
+    "name:hun_x_preferred":[
+        "Sylhet"
     ],
     "name:ind_x_preferred":[
         "Divisi Sylhet"
@@ -143,6 +149,9 @@
     ],
     "name:tam_x_preferred":[
         "\u0b9a\u0bbf\u0bb2\u0bcd\u0bb9\u0bc6\u0b9f\u0bcd \u0b95\u0bcb\u0b9f\u0bcd\u0b9f\u0bae\u0bcd"
+    ],
+    "name:tur_x_preferred":[
+        "Sylhet"
     ],
     "name:ukr_x_preferred":[
         "\u0421\u0456\u043b\u0435\u0442"
@@ -285,7 +294,7 @@
     "wof:lang_x_spoken":[
         "ben"
     ],
-    "wof:lastmodified":1614892896,
+    "wof:lastmodified":1636495497,
     "wof:name":"Sylhet",
     "wof:parent_id":85632475,
     "wof:placetype":"region",

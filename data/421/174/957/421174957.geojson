@@ -50,6 +50,9 @@
     "name:deu_x_variant":[
         "Mymensingh"
     ],
+    "name:ell_x_preferred":[
+        "\u039c\u03ac\u03b9\u03bc\u03b5\u03bd\u03c3\u03b9\u03bd\u03b3\u03ba"
+    ],
     "name:eng_x_preferred":[
         "Mymensingh"
     ],
@@ -65,8 +68,14 @@
     "name:frr_x_preferred":[
         "Maimansingh"
     ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d9\u05de\u05e0\u05e1\u05d9\u05e0\u05d2\u05d7"
+    ],
     "name:hin_x_preferred":[
         "\u092e\u092f\u093c\u092e\u0928\u0938\u093f\u0902\u0939"
+    ],
+    "name:hun_x_preferred":[
+        "Mymensingh"
     ],
     "name:ind_x_preferred":[
         "Mymensingh"
@@ -123,6 +132,9 @@
         "\u041c\u0430\u0439\u043c\u0435\u043d\u0441\u0438\u043d\u0433\u0445",
         "\u041c\u0438\u043c\u0435\u043d\u0441\u0438\u043d\u0433\u0445"
     ],
+    "name:spa_x_preferred":[
+        "Mymensingh"
+    ],
     "name:sun_x_preferred":[
         "Mymensingh"
     ],
@@ -138,6 +150,9 @@
     "name:tha_x_preferred":[
         "\u0e44\u0e21\u0e21\u0e31\u0e19\u0e2a\u0e34\u0e07\u0e2b\u0e4c"
     ],
+    "name:tur_x_preferred":[
+        "Mymensingh"
+    ],
     "name:ukr_x_preferred":[
         "\u041c\u0456\u043c\u0435\u043d\u0441\u0456\u043d\u0433\u0445"
     ],
@@ -149,6 +164,9 @@
     ],
     "name:urd_x_variant":[
         "\u0645\u0627\u0626\u0645\u0646 \u0633\u0646\u06af\u06be"
+    ],
+    "name:vie_x_preferred":[
+        "Mymensingh"
     ],
     "name:war_x_preferred":[
         "Mymensingh"
@@ -307,7 +325,7 @@
         }
     ],
     "wof:id":421174957,
-    "wof:lastmodified":1566609376,
+    "wof:lastmodified":1636495539,
     "wof:name":"Mymensingh",
     "wof:parent_id":421185469,
     "wof:placetype":"locality",

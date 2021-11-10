@@ -38,6 +38,12 @@
     "name:ceb_x_preferred":[
         "Brahmapur"
     ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05e8\u05d4\u05de\u05e4\u05d5\u05e8"
+    ],
+    "name:hun_x_preferred":[
+        "Brahmapur"
+    ],
     "name:swe_x_preferred":[
         "Brahmapur"
     ],
@@ -53,7 +59,7 @@
         "gn:id":1208094
     },
     "wof:country":"BD",
-    "wof:geomhash":"e7852227916b9797606b0ce08b158c75",
+    "wof:geomhash":"2cdfb0222fc4fd17956e1aad31377af7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -64,7 +70,7 @@
         }
     ],
     "wof:id":1276697231,
-    "wof:lastmodified":1566607184,
+    "wof:lastmodified":1636495510,
     "wof:name":"Brahmapur",
     "wof:parent_id":1108694703,
     "wof:placetype":"locality",
@@ -74,10 +80,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    88.23700000000002,
+    88.237,
     25.84504,
-    88.23700000000002,
+    88.237,
     25.84504
 ],
-  "geometry": {"coordinates":[88.23700000000002,25.84504],"type":"Point"}
+  "geometry": {"coordinates":[88.23699999999999,25.84504],"type":"Point"}
 }

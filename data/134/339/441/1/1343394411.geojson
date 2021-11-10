@@ -50,7 +50,19 @@
     "name:deu_x_preferred":[
         "Rampur"
     ],
+    "name:ell_x_preferred":[
+        "\u03a1\u03b1\u03bc\u03c0\u03bf\u03cd\u03c1"
+    ],
     "name:fra_x_preferred":[
+        "Rampur"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e8\u05de\u05e4\u05d5\u05e8"
+    ],
+    "name:hun_x_preferred":[
+        "Rampur"
+    ],
+    "name:ind_x_preferred":[
         "Rampur"
     ],
     "name:ita_x_preferred":[
@@ -77,8 +89,17 @@
     "name:swe_x_preferred":[
         "Rampur"
     ],
+    "name:tur_x_preferred":[
+        "Rampur"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u0430\u043c\u043f\u0443\u0440"
+    ],
     "name:urd_x_preferred":[
         "\u0631\u0627\u0645 \u067e\u0648\u0631"
+    ],
+    "name:vie_x_preferred":[
+        "Rampur"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -92,7 +113,7 @@
         "gn:id":1189951
     },
     "wof:country":"BD",
-    "wof:geomhash":"7902fce192a99cedca52a8e9347cd02e",
+    "wof:geomhash":"38e9b2bd84ba069f6c09bb0d7bfa5533",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -103,7 +124,7 @@
         }
     ],
     "wof:id":1343394411,
-    "wof:lastmodified":1566606302,
+    "wof:lastmodified":1636495485,
     "wof:name":"Rampur",
     "wof:parent_id":1108694699,
     "wof:placetype":"locality",
@@ -113,10 +134,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    89.67241999999997,
+    89.67242,
     23.69431,
-    89.67241999999997,
+    89.67242,
     23.69431
 ],
-  "geometry": {"coordinates":[89.67241999999997,23.69431],"type":"Point"}
+  "geometry": {"coordinates":[89.67242,23.69431],"type":"Point"}
 }

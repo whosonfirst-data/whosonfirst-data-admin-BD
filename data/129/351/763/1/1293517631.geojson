@@ -56,6 +56,9 @@
     "name:deu_x_preferred":[
         "Bhatpara"
     ],
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03b1\u03c4\u03c0\u03b1\u03c1\u03ac"
+    ],
     "name:epo_x_preferred":[
         "Bhatpara"
     ],
@@ -65,8 +68,17 @@
     "name:fra_x_preferred":[
         "Bhatpara"
     ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d7\u05d0\u05d8\u05e4\u05e8\u05d4"
+    ],
     "name:hin_x_preferred":[
         "\u092d\u093e\u091f\u092a\u093e\u0921\u093c\u093e"
+    ],
+    "name:hun_x_preferred":[
+        "Bhatpara"
+    ],
+    "name:ind_x_preferred":[
+        "Bhatpara"
     ],
     "name:ita_x_preferred":[
         "Bhatpara"
@@ -107,6 +119,15 @@
     "name:swe_x_preferred":[
         "Bhatpara"
     ],
+    "name:tur_x_preferred":[
+        "Bhatpara"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0445\u0430\u0442\u043f\u0430\u0440\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u06be\u062a\u067e\u0627\u0631\u0627"
+    ],
     "name:vie_x_preferred":[
         "Bhatpara"
     ],
@@ -128,7 +149,7 @@
         "gn:id":7488426
     },
     "wof:country":"BD",
-    "wof:geomhash":"c871a420ce693ea008a564261a6a6951",
+    "wof:geomhash":"d34c62693930a00fbeaa02b13019fdff",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -139,7 +160,7 @@
         }
     ],
     "wof:id":1293517631,
-    "wof:lastmodified":1566606954,
+    "wof:lastmodified":1636495505,
     "wof:name":"Bhatpara",
     "wof:parent_id":1108694671,
     "wof:placetype":"locality",
@@ -149,10 +170,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    88.66788000000003,
+    88.66788,
     25.63599,
-    88.66788000000003,
+    88.66788,
     25.63599
 ],
-  "geometry": {"coordinates":[88.66788000000003,25.63599],"type":"Point"}
+  "geometry": {"coordinates":[88.66788,25.63599],"type":"Point"}
 }

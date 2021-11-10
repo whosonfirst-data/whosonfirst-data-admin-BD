@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"88.9999832753,25.8004264516,88.9999832753,25.8004264516",
+    "geom:bbox":"88.999983,25.800426,88.999983,25.800426",
     "geom:latitude":25.800426,
     "geom:longitude":88.999983,
     "iso:country":"BD",
@@ -18,11 +18,17 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:ara_x_preferred":[
+        "\u0633\u064a\u062f\u0628\u0648\u0631"
+    ],
     "name:ben_x_preferred":[
         "\u09b8\u09c8\u09af\u09bc\u09a6\u09aa\u09c1\u09b0"
     ],
     "name:ceb_x_preferred":[
         "Saidpur"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03ac\u03b9\u03bd\u03c4\u03c0\u03bf\u03c5\u03c1"
     ],
     "name:eng_x_preferred":[
         "Saidpur"
@@ -30,8 +36,17 @@
     "name:fra_x_preferred":[
         "Saiyadpur"
     ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05e2\u05d9\u05d3\u05e4\u05d5\u05e8"
+    ],
     "name:hin_x_preferred":[
         "\u0938\u0948\u0926\u092a\u0941\u0930"
+    ],
+    "name:hun_x_preferred":[
+        "Saidpur"
+    ],
+    "name:ind_x_preferred":[
+        "Saidpur"
     ],
     "name:ita_x_preferred":[
         "Saidpur"
@@ -39,13 +54,25 @@
     "name:jpn_x_preferred":[
         "\u30b5\u30a4\u30c9\u30d7\u30fc\u30eb"
     ],
+    "name:kor_x_preferred":[
+        "\uc0ac\uc774\ub4dc\ud478\ub974"
+    ],
     "name:lit_x_preferred":[
         "Saidpuras"
     ],
     "name:nld_x_preferred":[
         "Saidpur"
     ],
+    "name:pol_x_preferred":[
+        "Saidpur"
+    ],
+    "name:por_x_preferred":[
+        "Saidpur"
+    ],
     "name:ron_x_preferred":[
+        "Saidpur"
+    ],
+    "name:spa_x_preferred":[
         "Saidpur"
     ],
     "name:sun_x_preferred":[
@@ -54,8 +81,17 @@
     "name:swe_x_preferred":[
         "Saidpur"
     ],
+    "name:tur_x_preferred":[
+        "Saidpur"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0430\u0457\u0434\u043f\u0443\u0440"
+    ],
     "name:urd_x_preferred":[
         "\u0633\u06cc\u062f\u067e\u0648\u0631 \u0633\u0679\u06cc"
+    ],
+    "name:vie_x_preferred":[
+        "Saidpur"
     ],
     "name:war_x_preferred":[
         "Saidpur"
@@ -171,7 +207,7 @@
     },
     "wof:country":"BD",
     "wof:created":1499130884,
-    "wof:geomhash":"b4e97f5e4f08410258fe9190c06f1835",
+    "wof:geomhash":"24197e2ea62e699a9763b1ccd498e1a1",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -182,7 +218,7 @@
         }
     ],
     "wof:id":1141908353,
-    "wof:lastmodified":1566610815,
+    "wof:lastmodified":1636495566,
     "wof:name":"Saidpur",
     "wof:parent_id":1108694701,
     "wof:placetype":"locality",
@@ -192,10 +228,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    88.99998327530864,
-    25.80042645161694,
-    88.99998327530864,
-    25.80042645161694
+    88.999983,
+    25.800426,
+    88.999983,
+    25.800426
 ],
-  "geometry": {"coordinates":[88.99998327530864,25.80042645161694],"type":"Point"}
+  "geometry": {"coordinates":[88.999983,25.800426],"type":"Point"}
 }

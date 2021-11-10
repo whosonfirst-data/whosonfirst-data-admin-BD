@@ -41,7 +41,16 @@
     "name:deu_x_preferred":[
         "Rangpur"
     ],
+    "name:ell_x_preferred":[
+        "\u03a1\u03b1\u03bd\u03b3\u03ba\u03c0\u03bf\u03cd\u03c1"
+    ],
     "name:fra_x_preferred":[
+        "Rangpur"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e8\u05d0\u05e0\u05d2\u05e4\u05d5\u05e8"
+    ],
+    "name:hun_x_preferred":[
         "Rangpur"
     ],
     "name:ind_x_preferred":[
@@ -59,8 +68,14 @@
     "name:swe_x_preferred":[
         "Rangpur"
     ],
+    "name:tur_x_preferred":[
+        "Rangpur"
+    ],
     "name:ukr_x_preferred":[
         "\u0420\u0430\u043d\u0433\u043f\u0443\u0440"
+    ],
+    "name:vie_x_preferred":[
+        "Rangpur"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -74,7 +89,7 @@
         "gn:id":1189839
     },
     "wof:country":"BD",
-    "wof:geomhash":"8f872dafac90f34a49b4a09a3b98c8d8",
+    "wof:geomhash":"05646418dc074c9fb7a61056b6408c1c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -85,7 +100,7 @@
         }
     ],
     "wof:id":1309745509,
-    "wof:lastmodified":1566609323,
+    "wof:lastmodified":1636495538,
     "wof:name":"Rangpur",
     "wof:parent_id":421197045,
     "wof:placetype":"locality",
@@ -96,9 +111,9 @@
 },
   "bbox": [
     90.63568,
-    23.82707000000001,
+    23.82707,
     90.63568,
-    23.82707000000001
+    23.82707
 ],
-  "geometry": {"coordinates":[90.63567999999999,23.82707000000001],"type":"Point"}
+  "geometry": {"coordinates":[90.63567999999999,23.82707],"type":"Point"}
 }

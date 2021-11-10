@@ -50,6 +50,9 @@
     "name:deu_x_preferred":[
         "Mirzapur"
     ],
+    "name:ell_x_preferred":[
+        "\u039c\u03b9\u03c1\u03b6\u03b1\u03c0\u03bf\u03cd\u03c1"
+    ],
     "name:fas_x_preferred":[
         "\u0645\u06cc\u0631\u0632\u0627\u067e\u0648\u0631"
     ],
@@ -64,6 +67,9 @@
     ],
     "name:hin_x_preferred":[
         "\u092e\u093f\u0930\u094d\u091c\u093c\u093e\u092a\u0941\u0930"
+    ],
+    "name:hun_x_preferred":[
+        "Mirzapur"
     ],
     "name:hye_x_preferred":[
         "\u0544\u056b\u0580\u0566\u0561\u057a\u0578\u0582\u0580"
@@ -116,11 +122,17 @@
     "name:tam_x_preferred":[
         "\u0bae\u0bbf\u0bb0\u0bcd\u0b9a\u0bbe\u0baa\u0bc2\u0bb0\u0bcd"
     ],
+    "name:tur_x_preferred":[
+        "Mirzapur"
+    ],
     "name:ukr_x_preferred":[
         "\u041c\u0456\u0440\u0437\u0430\u043f\u0443\u0440"
     ],
     "name:urd_x_preferred":[
         "\u0645\u0631\u0632\u0627\u067e\u0648\u0631"
+    ],
+    "name:vie_x_preferred":[
+        "Mirzapur"
     ],
     "name:zho_x_preferred":[
         "\u5bc6\u672d\u6d66"
@@ -137,7 +149,7 @@
         "gn:id":1194315
     },
     "wof:country":"BD",
-    "wof:geomhash":"700c6ca9e113470aab296959fa88ad84",
+    "wof:geomhash":"fd9bcd7884db9f6b94a3f92fa91c591b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -148,7 +160,7 @@
         }
     ],
     "wof:id":1226272443,
-    "wof:lastmodified":1566610330,
+    "wof:lastmodified":1636495558,
     "wof:name":"Mirzapur",
     "wof:parent_id":1108694689,
     "wof:placetype":"locality",
@@ -158,10 +170,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    89.35528000000002,
+    89.35528,
     23.50524,
-    89.35528000000002,
+    89.35528,
     23.50524
 ],
-  "geometry": {"coordinates":[89.35528000000002,23.50524],"type":"Point"}
+  "geometry": {"coordinates":[89.35527999999999,23.50524],"type":"Point"}
 }

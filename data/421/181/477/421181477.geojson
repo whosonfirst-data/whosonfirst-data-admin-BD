@@ -236,6 +236,9 @@
         "Dhaka"
     ],
     "name:hun_x_preferred":[
+        "Dhaka"
+    ],
+    "name:hun_x_variant":[
         "Dakka"
     ],
     "name:hye_x_preferred":[
@@ -729,8 +732,8 @@
     "wof:belongsto":[
         102191569,
         85632475,
-        421187803,
-        85669009
+        85669009,
+        421187803
     ],
     "wof:breaches":[],
     "wof:capital_of":[
@@ -761,7 +764,7 @@
         }
     ],
     "wof:id":421181477,
-    "wof:lastmodified":1608688187,
+    "wof:lastmodified":1636495541,
     "wof:megacity":1,
     "wof:name":"Dhaka",
     "wof:parent_id":421187803,
