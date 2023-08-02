@@ -35,6 +35,9 @@
     "mz:is_current":1,
     "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0646\u0627\u062d\u064a\u0629 \u0643\u0645\u0644\u0627"
+    ],
     "name:ben_x_preferred":[
         "\u0995\u09c1\u09ae\u09bf\u09b2\u09cd\u09b2\u09be \u099c\u09c7\u09b2\u09be"
     ],
@@ -55,7 +58,8 @@
     ],
     "name:eng_x_variant":[
         "COMILLA",
-        "Comilla District"
+        "Comilla District",
+        "Cumilla District"
     ],
     "name:fas_x_preferred":[
         "\u0646\u0627\u062d\u06cc\u0647 \u06a9\u0648\u0645\u06cc\u0644\u0627"
@@ -75,8 +79,14 @@
     "name:jpn_x_preferred":[
         "\u30b3\u30df\u30e9\u770c"
     ],
+    "name:kor_x_preferred":[
+        "\ucf54\ubc00\ub77c\uad6c"
+    ],
     "name:mal_x_preferred":[
         "\u0d15\u0d4b\u0d2e\u0d3f\u0d32 \u0d1c\u0d3f\u0d32\u0d4d\u0d32"
+    ],
+    "name:nan_x_preferred":[
+        "Comilla Ko\u0101n"
     ],
     "name:new_x_preferred":[
         "\u0915\u0941\u092e\u093f\u0932\u094d\u0932\u093e \u091c\u093f\u0932\u094d\u0932\u093e"
@@ -96,10 +106,12 @@
     "name:rus_x_preferred":[
         "\u041a\u043e\u043c\u0438\u043b\u043b\u0430"
     ],
+    "name:sat_x_preferred":[
+        "\u1c60\u1c69\u1c62\u1c64\u1c5e\u1c5e\u1c5f \u1c66\u1c5a\u1c71\u1c5a\u1c5b"
+    ],
     "name:spa_x_preferred":[
         "Comilla"
     ],
-    "name:spa_x_variant":[],
     "name:srd_x_preferred":[
         "distretto de Comilla"
     ],
@@ -194,7 +206,7 @@
         }
     ],
     "wof:id":421187801,
-    "wof:lastmodified":1636495540,
+    "wof:lastmodified":1690856108,
     "wof:name":"Comilla",
     "wof:parent_id":85669023,
     "wof:placetype":"county",

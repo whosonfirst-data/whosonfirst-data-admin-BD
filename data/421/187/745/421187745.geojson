@@ -70,7 +70,8 @@
     ],
     "name:eng_x_variant":[
         "Barisal District",
-        "BARISAL"
+        "BARISAL",
+        "Barishal District"
     ],
     "name:fas_x_preferred":[
         "\u0646\u0627\u062d\u06cc\u0647 \u0628\u0627\u0631\u06cc\u0633\u0627\u0644"
@@ -105,6 +106,9 @@
     "name:kor_x_preferred":[
         "\ubc14\ub9ac\uc0b4 \uc9c0\uad6c"
     ],
+    "name:kor_x_variant":[
+        "\ubc14\ub9ac\uc0b4\uad6c"
+    ],
     "name:lav_x_preferred":[
         "Baris\u0101las apgabals"
     ],
@@ -119,6 +123,12 @@
     ],
     "name:msa_x_preferred":[
         "Daerah Barisal"
+    ],
+    "name:nan_x_preferred":[
+        "Barisal Ko\u0101n"
+    ],
+    "name:nep_x_preferred":[
+        "\u092c\u0930\u093f\u0936\u093e\u0932 \u091c\u093f\u0932\u094d\u0932\u093e"
     ],
     "name:new_x_preferred":[
         "\u092c\u0930\u093f\u0936\u093e\u0932 \u091c\u093f\u0932\u094d\u0932\u093e"
@@ -140,6 +150,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0411\u0430\u0440\u0438\u0441\u0430\u043b"
+    ],
+    "name:sat_x_preferred":[
+        "\u1c75\u1c5a\u1c68\u1c64\u1c65\u1c5f\u1c5e \u1c66\u1c5a\u1c71\u1c5a\u1c5b"
     ],
     "name:sin_x_preferred":[
         "\u0db6\u0dbb\u0dd2\u0dc3\u0dcf\u0dbd\u0dca \u0daf\u0dd2\u0dc3\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0dca\u0d9a\u0dba"
@@ -242,7 +255,7 @@
         }
     ],
     "wof:id":421187745,
-    "wof:lastmodified":1636495540,
+    "wof:lastmodified":1690856108,
     "wof:name":"Barisal",
     "wof:parent_id":85669019,
     "wof:placetype":"county",

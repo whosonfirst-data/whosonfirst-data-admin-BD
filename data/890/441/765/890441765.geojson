@@ -23,13 +23,17 @@
         "Mathba"
     ],
     "name:ben_x_variant":[
-        "Mathbaria"
+        "Mathbaria",
+        "\u09ae\u09a0\u09ac\u09be\u09a1\u09bc\u09bf\u09af\u09bc\u09be"
     ],
     "name:ceb_x_preferred":[
         "Mathba"
     ],
     "name:eng_x_preferred":[
         "Mathbaria"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u062a\u0628\u0631\u06cc\u0627"
     ],
     "name:nld_x_preferred":[
         "Mathbaria"
@@ -71,7 +75,7 @@
         }
     ],
     "wof:id":890441765,
-    "wof:lastmodified":1566609401,
+    "wof:lastmodified":1690856124,
     "wof:name":"Mathba",
     "wof:parent_id":421172031,
     "wof:placetype":"locality",

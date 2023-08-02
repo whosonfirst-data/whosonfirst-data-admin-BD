@@ -35,6 +35,9 @@
     "mz:is_current":1,
     "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0645\u062f\u064a\u0631\u064a\u0629 \u0634\u064a\u062a\u0627\u063a\u0648\u0646\u063a"
+    ],
     "name:ben_x_preferred":[
         "\u099a\u099f\u09cd\u099f\u0997\u09cd\u09b0\u09be\u09ae \u099c\u09c7\u09b2\u09be"
     ],
@@ -55,7 +58,8 @@
     ],
     "name:eng_x_variant":[
         "CHITTAGONG",
-        "Chittagong District"
+        "Chittagong District",
+        "Chattogram District"
     ],
     "name:fas_x_preferred":[
         "\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u0686\u06cc\u062a\u0627\u06af\u0648\u0646\u06af"
@@ -84,8 +88,14 @@
     "name:jpn_x_preferred":[
         "\u30c1\u30c3\u30bf\u30b4\u30f3\u770c"
     ],
+    "name:kor_x_preferred":[
+        "\uce58\ud0c0\uacf5\uad6c"
+    ],
     "name:mal_x_preferred":[
         "\u0d1a\u0d3f\u0d31\u0d4d\u0d31\u0d17\u0d4b\u0d19\u0d4d \u0d1c\u0d3f\u0d32\u0d4d\u0d32"
+    ],
+    "name:nan_x_preferred":[
+        "Chittagong Ko\u0101n"
     ],
     "name:new_x_preferred":[
         "\u091a\u091f\u094d\u091f\u0917\u094d\u0930\u093e\u092e \u091c\u093f\u0932\u094d\u0932\u093e"
@@ -102,11 +112,17 @@
     "name:por_x_preferred":[
         "Chittagong"
     ],
+    "name:por_x_variant":[
+        "Chatig\u00e3o"
+    ],
     "name:ron_x_preferred":[
         "Chittagong"
     ],
     "name:rus_x_preferred":[
         "\u0427\u0438\u0442\u0442\u0430\u0433\u043e\u043d\u0433"
+    ],
+    "name:sat_x_preferred":[
+        "\u1c6a\u1c5a\u1c74\u1c74\u1c5a\u1c5c\u1c68\u1c5f\u1c62 \u1c66\u1c5a\u1c71\u1c5a\u1c5b"
     ],
     "name:sco_x_preferred":[
         "Chittagong Destrict"
@@ -205,7 +221,7 @@
         }
     ],
     "wof:id":421201541,
-    "wof:lastmodified":1636495543,
+    "wof:lastmodified":1690856118,
     "wof:name":"Chittagong",
     "wof:parent_id":85669023,
     "wof:placetype":"county",

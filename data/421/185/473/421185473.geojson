@@ -50,6 +50,9 @@
     "name:ceb_x_preferred":[
         "Khulna"
     ],
+    "name:deu_x_preferred":[
+        "Khulna"
+    ],
     "name:ell_x_preferred":[
         "\u03a7\u03bf\u03cd\u03bb\u03bd\u03b1"
     ],
@@ -84,8 +87,14 @@
     "name:jpn_x_preferred":[
         "\u30af\u30eb\u30ca\u770c"
     ],
+    "name:kor_x_preferred":[
+        "\ucfe8\ub098\uad6c"
+    ],
     "name:mal_x_preferred":[
         "\u0d16\u0d41\u0d7d\u0d28 \u0d1c\u0d3f\u0d32\u0d4d\u0d32"
+    ],
+    "name:nan_x_preferred":[
+        "Khulna Ko\u0101n"
     ],
     "name:nep_x_preferred":[
         "\u0916\u0941\u0932\u0928\u093e \u091c\u093f\u0932\u094d\u0932\u093e"
@@ -104,6 +113,9 @@
     ],
     "name:rus_x_preferred":[
         "\u041a\u0445\u0443\u043b\u043d\u0430"
+    ],
+    "name:sat_x_preferred":[
+        "\u1c60\u1c77\u1c69\u1c5e\u1c71\u1c5f \u1c66\u1c5a\u1c71\u1c5a\u1c5b"
     ],
     "name:spa_x_preferred":[
         "Khulna"
@@ -202,7 +214,7 @@
         }
     ],
     "wof:id":421185473,
-    "wof:lastmodified":1636495543,
+    "wof:lastmodified":1690856123,
     "wof:name":"Khulna",
     "wof:parent_id":85669015,
     "wof:placetype":"county",

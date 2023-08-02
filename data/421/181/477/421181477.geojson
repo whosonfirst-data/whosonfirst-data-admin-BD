@@ -25,17 +25,26 @@
     "name:afr_x_preferred":[
         "Dhaka"
     ],
+    "name:aka_x_preferred":[
+        "Dhaka"
+    ],
     "name:als_x_preferred":[
         "Dhaka"
     ],
     "name:amh_x_preferred":[
         "\u12f3\u12ab"
     ],
+    "name:anp_x_preferred":[
+        "\u0922\u093e\u0915\u093e"
+    ],
     "name:ara_x_preferred":[
         "\u062f\u0643\u0627"
     ],
     "name:arg_x_preferred":[
         "Dhaka"
+    ],
+    "name:ary_x_preferred":[
+        "\u062f\u0627\u0643\u0627"
     ],
     "name:arz_x_preferred":[
         "\u062f\u0627\u0643\u0627"
@@ -49,6 +58,9 @@
     "name:ast_x_variant":[
         "Dhaka"
     ],
+    "name:awa_x_preferred":[
+        "\u0922\u093e\u0915\u093e"
+    ],
     "name:azb_x_preferred":[
         "\u062f\u0627\u06a9\u0627"
     ],
@@ -57,6 +69,9 @@
     ],
     "name:bak_x_preferred":[
         "\u0414\u0430\u043a\u043a\u0430"
+    ],
+    "name:ban_x_preferred":[
+        "Dhaka"
     ],
     "name:bcl_x_preferred":[
         "Dhaka"
@@ -75,6 +90,9 @@
     ],
     "name:bih_x_preferred":[
         "\u0922\u093e\u0915\u093e"
+    ],
+    "name:blk_x_preferred":[
+        "\u101d\u1031\u1004\u103a\uaa7b\u1012\u102b\u1000\u102c"
     ],
     "name:bod_x_preferred":[
         "\u0f51\u0fb7\u0f0b\u0f41\u0f0d"
@@ -97,6 +115,9 @@
     "name:cat_x_preferred":[
         "Dhaka"
     ],
+    "name:cat_x_variant":[
+        "Dacca"
+    ],
     "name:cdo_x_preferred":[
         "Dhaka"
     ],
@@ -105,6 +126,9 @@
     ],
     "name:ces_x_preferred":[
         "Dh\u00e1ka"
+    ],
+    "name:cha_x_preferred":[
+        "Dhaka"
     ],
     "name:che_x_preferred":[
         "\u0414\u0430\u043a\u043a\u0430"
@@ -202,6 +226,9 @@
     "name:glg_x_variant":[
         "Dacca - \u09a2\u09be\u0995\u09be"
     ],
+    "name:grn_x_preferred":[
+        "Nd\u00e1ka"
+    ],
     "name:gsw_x_preferred":[
         "Dhaka"
     ],
@@ -244,7 +271,13 @@
     "name:hye_x_preferred":[
         "\u0534\u0561\u0584\u0584\u0561"
     ],
+    "name:hyw_x_preferred":[
+        "\u054f\u0561\u0584\u0584\u0561"
+    ],
     "name:ido_x_preferred":[
+        "Dhaka"
+    ],
+    "name:ile_x_preferred":[
         "Dhaka"
     ],
     "name:ilo_x_preferred":[
@@ -252,6 +285,9 @@
     ],
     "name:ina_x_preferred":[
         "Dhaka"
+    ],
+    "name:ina_x_variant":[
+        "Dacca"
     ],
     "name:ind_x_preferred":[
         "Dhaka"
@@ -271,6 +307,9 @@
     "name:jam_x_preferred":[
         "Daaka"
     ],
+    "name:jav_x_preferred":[
+        "Dhaka"
+    ],
     "name:jpn_x_preferred":[
         "\u30c0\u30c3\u30ab"
     ],
@@ -286,6 +325,9 @@
     "name:kan_x_preferred":[
         "\u0ca2\u0cbe\u0c95\u0cbe"
     ],
+    "name:kas_x_preferred":[
+        "\u0688\u0627\u06a9\u0627"
+    ],
     "name:kat_x_preferred":[
         "\u10d3\u10d0\u10d9\u10d0"
     ],
@@ -297,6 +339,9 @@
     ],
     "name:khm_x_preferred":[
         "\u178a\u17b6\u1780\u17b6"
+    ],
+    "name:khm_x_variant":[
+        "\u178a\u17b6\u1780\u17d2\u1780\u17b6"
     ],
     "name:kik_x_preferred":[
         "Dhaka"
@@ -315,6 +360,9 @@
     ],
     "name:lad_x_preferred":[
         "Dhaka"
+    ],
+    "name:lao_x_preferred":[
+        "\u0e97\u0eb2\u0e81\u0eb2"
     ],
     "name:lat_x_preferred":[
         "Dacca"
@@ -358,8 +406,17 @@
     "name:mhr_x_variant":[
         "\u0414\u0430\u043a\u043a\u0430"
     ],
+    "name:min_x_preferred":[
+        "Dhaka"
+    ],
     "name:mkd_x_preferred":[
         "\u0414\u0430\u043a\u0430"
+    ],
+    "name:mlt_x_preferred":[
+        "Dhaka"
+    ],
+    "name:mni_x_preferred":[
+        "\uabd9\uabe5\uabc0\uabe5"
     ],
     "name:mon_x_preferred":[
         "\u0414\u0430\u043a\u043a\u0430"
@@ -378,6 +435,9 @@
     ],
     "name:myv_x_preferred":[
         "\u0414\u0430\u043a\u043a\u0430"
+    ],
+    "name:mzn_x_preferred":[
+        "\u062f\u0627\u06a9\u0627"
     ],
     "name:nah_x_preferred":[
         "Daca"
@@ -433,6 +493,9 @@
     "name:pnb_x_preferred":[
         "\u0688\u06be\u0627\u06a9\u06c1"
     ],
+    "name:pnb_x_variant":[
+        "\u0688\u06be\u0627\u06a9\u0627"
+    ],
     "name:pol_x_preferred":[
         "Dhaka"
     ],
@@ -441,6 +504,9 @@
     ],
     "name:por_x_preferred":[
         "Daca"
+    ],
+    "name:pus_x_preferred":[
+        "\u0689\u0627\u06a9\u0647"
     ],
     "name:roh_x_preferred":[
         "Dhaka"
@@ -486,6 +552,9 @@
     ],
     "name:slv_x_preferred":[
         "Daka"
+    ],
+    "name:smn_x_preferred":[
+        "Dhaka"
     ],
     "name:sna_x_preferred":[
         "Dhaka"
@@ -547,6 +616,9 @@
     "name:tuk_x_preferred":[
         "Dakka"
     ],
+    "name:tum_x_preferred":[
+        "Dhaka"
+    ],
     "name:tur_x_preferred":[
         "Dakka"
     ],
@@ -570,6 +642,9 @@
     ],
     "name:uzb_x_preferred":[
         "Dakka"
+    ],
+    "name:vec_x_preferred":[
+        "Dhaka"
     ],
     "name:vep_x_preferred":[
         "Dakk"
@@ -597,6 +672,9 @@
     ],
     "name:yue_x_preferred":[
         "\u9054\u5361"
+    ],
+    "name:zea_x_preferred":[
+        "Dhaka"
     ],
     "name:zho_min_nan_x_preferred":[
         "Dhaka"
@@ -764,7 +842,7 @@
         }
     ],
     "wof:id":421181477,
-    "wof:lastmodified":1636495541,
+    "wof:lastmodified":1690856111,
     "wof:megacity":1,
     "wof:name":"Dhaka",
     "wof:parent_id":421187803,

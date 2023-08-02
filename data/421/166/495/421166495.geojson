@@ -47,8 +47,14 @@
     "name:jpn_x_preferred":[
         "\u30e9\u30af\u30b7\u30e5\u30df\u30d7\u30fc\u30eb\u770c"
     ],
+    "name:kor_x_preferred":[
+        "\ub77d\uc288\ubbf8\ud478\ub974\uad6c"
+    ],
     "name:mal_x_preferred":[
         "\u0d32\u0d15\u0d4d\u0d37\u0d4d\u0d2e\u0d3f\u0d2a\u0d42\u0d7c \u0d1c\u0d3f\u0d32\u0d4d\u0d32"
+    ],
+    "name:nan_x_preferred":[
+        "Lakshmipur Ko\u0101n"
     ],
     "name:nld_x_preferred":[
         "Lakshmipur"
@@ -64,6 +70,9 @@
     ],
     "name:rus_x_preferred":[
         "\u041b\u0430\u043a\u0448\u043c\u0438\u043f\u0443\u0440"
+    ],
+    "name:sat_x_preferred":[
+        "\u1c5e\u1c5a\u1c60\u1c60\u1c77\u1c64\u1c6f\u1c69\u1c68 \u1c66\u1c5a\u1c71\u1c5a\u1c5b"
     ],
     "name:spa_x_preferred":[
         "Lakshmipur"
@@ -136,7 +145,7 @@
         }
     ],
     "wof:id":421166495,
-    "wof:lastmodified":1566609368,
+    "wof:lastmodified":1690856100,
     "wof:name":"Lakshmipur",
     "wof:parent_id":421166521,
     "wof:placetype":"locality",

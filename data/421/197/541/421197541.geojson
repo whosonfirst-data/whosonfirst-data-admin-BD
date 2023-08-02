@@ -35,6 +35,9 @@
     "mz:is_current":1,
     "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0645\u0642\u0627\u0637\u0639\u0629 \u0628\u0627\u0628\u0646\u0627"
+    ],
     "name:ben_x_preferred":[
         "\u09aa\u09be\u09ac\u09a8\u09be \u099c\u09c7\u09b2\u09be"
     ],
@@ -46,6 +49,12 @@
     ],
     "name:ceb_x_preferred":[
         "Pabna"
+    ],
+    "name:deu_x_preferred":[
+        "Pabna"
+    ],
+    "name:dty_x_preferred":[
+        "\u092a\u093e\u092c\u0928\u093e \u091c\u093f\u0932\u094d\u0932\u093e"
     ],
     "name:eng_x_preferred":[
         "Pabna"
@@ -69,11 +78,17 @@
     "name:jpn_x_preferred":[
         "\u30d1\u30d6\u30ca\u770c"
     ],
+    "name:kor_x_preferred":[
+        "\ud30c\ube0c\ub098\uad6c"
+    ],
     "name:mai_x_preferred":[
         "\u092a\u093e\u092c\u0928\u093e \u091c\u093f\u0932\u093e"
     ],
     "name:mal_x_preferred":[
         "\u0d2a\u0d2c\u0d4d\u0d28\u0d3e \u0d1c\u0d3f\u0d32\u0d4d\u0d32"
+    ],
+    "name:nan_x_preferred":[
+        "Pabna Ko\u0101n"
     ],
     "name:nep_x_preferred":[
         "\u092a\u093e\u092c\u0928\u093e \u091c\u093f\u0932\u094d\u0932\u093e"
@@ -180,7 +195,7 @@
         }
     ],
     "wof:id":421197541,
-    "wof:lastmodified":1636495542,
+    "wof:lastmodified":1690856115,
     "wof:name":"Pabna",
     "wof:parent_id":85669031,
     "wof:placetype":"county",

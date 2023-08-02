@@ -74,6 +74,9 @@
     "name:epo_x_preferred":[
         "\u0124ulno"
     ],
+    "name:est_x_preferred":[
+        "Khulna jaotis"
+    ],
     "name:eus_x_preferred":[
         "Khulna dibisioa"
     ],
@@ -113,6 +116,9 @@
     "name:kor_x_preferred":[
         "\ucfe8\ub098 \uad6c"
     ],
+    "name:kor_x_variant":[
+        "\ucfe8\ub098\uc8fc"
+    ],
     "name:lav_x_preferred":[
         "Khulnas apgabals"
     ],
@@ -122,11 +128,23 @@
     "name:mar_x_preferred":[
         "\u0916\u0941\u0932\u094d\u0928\u093e \u0921\u093f\u0935\u0940\u091c\u0928"
     ],
+    "name:mar_x_variant":[
+        "\u0916\u0941\u0932\u0928\u093e \u0935\u093f\u092d\u093e\u0917"
+    ],
+    "name:mni_x_preferred":[
+        "\uabc8\uabe8\uabdc\uabc5\uabe5 \uabc1\uabd4\uabe8\uabdb"
+    ],
     "name:mon_x_preferred":[
         "\u041a\u0445\u0443\u043b\u043d\u0430 \u043c\u0443\u0436"
     ],
     "name:msa_x_preferred":[
         "Khulna Division"
+    ],
+    "name:nan_x_preferred":[
+        "Khulna Hun-khu"
+    ],
+    "name:nep_x_preferred":[
+        "\u0916\u0941\u0932\u0928\u093e \u0935\u093f\u092d\u093e\u0917"
     ],
     "name:new_x_preferred":[
         "\u0916\u0941\u0932\u0928\u093e \u0935\u093f\u092d\u093e\u0917"
@@ -167,6 +185,9 @@
     "name:swe_x_preferred":[
         "Khulna"
     ],
+    "name:syl_x_preferred":[
+        "\ua807\ua825\ua81f\ua818\ua823 \ua81b\ua824\ua81c\ua823\ua809"
+    ],
     "name:tam_x_preferred":[
         "\u0b95\u0bcd\u0bb9\u0bc1\u0bb2\u0bcd\u0ba9\u0bcd\u0ba9\u0bbe \u0b9f\u0bbf\u0bb5\u0bbf\u0b9a\u0ba9\u0bcd"
     ],
@@ -175,6 +196,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e40\u0e02\u0e15\u0e04\u0e38\u0e25\u0e19\u0e32"
+    ],
+    "name:tha_x_variant":[
+        "\u0e20\u0e32\u0e04\u0e02\u0e38\u0e25\u0e19\u0e32"
     ],
     "name:tur_x_preferred":[
         "Khulna"
@@ -323,7 +347,7 @@
     "wof:lang_x_spoken":[
         "ben"
     ],
-    "wof:lastmodified":1636495496,
+    "wof:lastmodified":1690856079,
     "wof:name":"Khulna",
     "wof:parent_id":85632475,
     "wof:placetype":"region",

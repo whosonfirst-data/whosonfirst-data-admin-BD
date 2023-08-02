@@ -17,11 +17,17 @@
     "mz:is_current":-1,
     "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Sakhipur"
+    ],
     "name:ceb_x_preferred":[
         "Sakhipur"
     ],
     "name:eng_x_preferred":[
         "Sakhipur"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u0627\u062e\u06cc\u200c\u067e\u0648\u0631"
     ],
     "name:swe_x_preferred":[
         "Sakhipur"
@@ -73,7 +79,7 @@
         }
     ],
     "wof:id":421183255,
-    "wof:lastmodified":1566609396,
+    "wof:lastmodified":1690856121,
     "wof:name":"Sakhipur",
     "wof:parent_id":421185471,
     "wof:placetype":"locality",

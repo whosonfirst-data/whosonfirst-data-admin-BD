@@ -71,8 +71,14 @@
     "name:epo_x_preferred":[
         "Barizalo"
     ],
+    "name:est_x_preferred":[
+        "Baris\u0101li jaotis"
+    ],
     "name:eus_x_preferred":[
         "Barisal dibisioa"
+    ],
+    "name:eus_x_variant":[
+        "Barisal"
     ],
     "name:fas_x_preferred":[
         "\u0627\u0633\u062a\u0627\u0646 \u0628\u0627\u0631\u06cc\u0633\u0627\u0644"
@@ -88,6 +94,9 @@
     ],
     "name:frr_x_preferred":[
         "Barishal"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d5\u05e8\u05d9\u05e9\u05dc"
     ],
     "name:hin_x_preferred":[
         "\u092c\u093e\u0930\u0940\u0938\u093e\u0932 \u0909\u092a\u0915\u094d\u0937\u0947\u0924\u094d\u0930"
@@ -110,14 +119,23 @@
     "name:kor_x_preferred":[
         "\ubc14\ub9ac\uc0b4 \uad6c"
     ],
+    "name:kor_x_variant":[
+        "\ubc14\ub9ac\uc0b4\uc8fc"
+    ],
     "name:lit_x_preferred":[
         "Barisalo sritis"
+    ],
+    "name:mar_x_preferred":[
+        "\u092c\u093e\u0930\u093f\u0938\u093e\u0932 \u0935\u093f\u092d\u093e\u0917"
     ],
     "name:mon_x_preferred":[
         "\u0411\u0430\u0440\u0438\u0441\u0430\u043b \u043c\u0443\u0436"
     ],
     "name:nan_x_preferred":[
         "Barisal Ko\u00e1n-khu"
+    ],
+    "name:nep_x_preferred":[
+        "\u092c\u0930\u093f\u0936\u093e\u0932 \u0935\u093f\u092d\u093e\u0917"
     ],
     "name:new_x_preferred":[
         "\u092c\u0930\u093f\u0936\u093e\u0932 \u0935\u093f\u092d\u093e\u0917"
@@ -157,6 +175,9 @@
     ],
     "name:tam_x_preferred":[
         "\u0baa\u0bb0\u0bbf\u0b9a\u0bbe\u0bb2\u0bcd \u0b95\u0bcb\u0b9f\u0bcd\u0b9f\u0bae\u0bcd"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e20\u0e32\u0e04\u0e1a\u0e2d\u0e23\u0e35\u0e0a\u0e31\u0e25"
     ],
     "name:tur_x_preferred":[
         "Barisal B\u00f6l\u00fcm\u00fc"
@@ -302,7 +323,7 @@
     "wof:lang_x_spoken":[
         "ben"
     ],
-    "wof:lastmodified":1636495495,
+    "wof:lastmodified":1690856077,
     "wof:name":"Barisal",
     "wof:parent_id":85632475,
     "wof:placetype":"region",

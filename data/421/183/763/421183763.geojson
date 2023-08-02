@@ -23,6 +23,9 @@
     "name:bpy_x_preferred":[
         "\u09a8\u09cb\u09af\u09bc\u09be\u0996\u09be\u09b2\u09bf \u099c\u09bf\u09b2\u09be"
     ],
+    "name:ceb_x_preferred":[
+        "Noakhali"
+    ],
     "name:deu_x_preferred":[
         "Noakhali"
     ],
@@ -41,11 +44,17 @@
     "name:jpn_x_preferred":[
         "\u30ce\u30a2\u30ab\u30ea\u770c"
     ],
+    "name:kor_x_preferred":[
+        "\ub178\uc544\uce7c\ub9ac\uad6c"
+    ],
     "name:lit_x_preferred":[
         "Noakhalis"
     ],
     "name:mal_x_preferred":[
         "\u0d28\u0d35\u0d16\u0d3e\u0d32\u0d3f"
+    ],
+    "name:nan_x_preferred":[
+        "Noakhali Ko\u0101n"
     ],
     "name:nld_x_preferred":[
         "Noakhali"
@@ -68,8 +77,17 @@
     "name:rus_x_preferred":[
         "\u041d\u043e\u0430\u043a\u0445\u0430\u043b\u0438"
     ],
+    "name:sat_x_preferred":[
+        "\u1c71\u1c73\u1c63\u1c5f\u1c60\u1c77\u1c5f\u1c5e\u1c64 \u1c66\u1c5a\u1c71\u1c5a\u1c5b"
+    ],
     "name:spa_x_preferred":[
         "Noakhali"
+    ],
+    "name:swe_x_preferred":[
+        "Noakhali"
+    ],
+    "name:syl_x_preferred":[
+        "\ua818\ua825\ua800\ua808\ua823\ua81f\ua824 \ua80e\ua824\ua81f\ua823"
     ],
     "name:tam_x_preferred":[
         "\u0ba8\u0bb5\u0b95\u0bbe\u0bb3\u0bbf \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0bae\u0bcd"
@@ -138,7 +156,7 @@
         }
     ],
     "wof:id":421183763,
-    "wof:lastmodified":1566609395,
+    "wof:lastmodified":1690856120,
     "wof:name":"Noakhali",
     "wof:parent_id":421177051,
     "wof:placetype":"locality",
