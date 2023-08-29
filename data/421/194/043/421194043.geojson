@@ -17,6 +17,12 @@
     "mz:is_current":1,
     "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u062a\u0648\u0646\u063a\u064a"
+    ],
+    "name:arz_x_preferred":[
+        "\u062a\u0648\u0646\u062c\u0649"
+    ],
     "name:bar_x_preferred":[
         "Tongi"
     ],
@@ -41,6 +47,12 @@
     "name:epo_x_preferred":[
         "Tongi"
     ],
+    "name:eus_x_preferred":[
+        "Tongi"
+    ],
+    "name:fas_x_preferred":[
+        "\u062a\u0648\u0646\u06af\u06cc"
+    ],
     "name:fin_x_preferred":[
         "Tongi"
     ],
@@ -62,7 +74,13 @@
     "name:nld_x_preferred":[
         "Tongi"
     ],
+    "name:nob_x_preferred":[
+        "Tongi"
+    ],
     "name:pol_x_preferred":[
+        "Tongi"
+    ],
+    "name:ron_x_preferred":[
         "Tongi"
     ],
     "name:rus_x_preferred":[
@@ -70,6 +88,9 @@
     ],
     "name:swe_x_preferred":[
         "Tongi"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u043e\u043d\u0433\u0456"
     ],
     "name:und_x_variant":[
         "Tangi"
@@ -128,7 +149,7 @@
         }
     ],
     "wof:id":421194043,
-    "wof:lastmodified":1566609370,
+    "wof:lastmodified":1690856102,
     "wof:name":"Tongi",
     "wof:parent_id":421203493,
     "wof:placetype":"locality",

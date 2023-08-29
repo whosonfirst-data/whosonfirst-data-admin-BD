@@ -22,11 +22,17 @@
     "name:ben_x_preferred":[
         "Bh\u0101nd\u0101ria"
     ],
+    "name:ben_x_variant":[
+        "\u09ad\u09be\u09a8\u09cd\u09a1\u09be\u09b0\u09bf\u09af\u09bc\u09be"
+    ],
     "name:ceb_x_preferred":[
         "Bh\u0101nd\u0101ria"
     ],
     "name:eng_x_preferred":[
         "Bhandaria"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0627\u0646\u062f\u0627\u0631\u06cc\u0627"
     ],
     "name:nld_x_preferred":[
         "Bhandaria"
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":890433735,
-    "wof:lastmodified":1566609404,
+    "wof:lastmodified":1690856125,
     "wof:name":"Bh\u0101nd\u0101ria",
     "wof:parent_id":421172031,
     "wof:placetype":"locality",

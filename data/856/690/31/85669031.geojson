@@ -66,8 +66,14 @@
     "name:epo_x_preferred":[
         "Ra\u0135\u015daho"
     ],
+    "name:est_x_preferred":[
+        "R\u0101jsh\u0101hi jaotis"
+    ],
     "name:eus_x_preferred":[
         "Rajshahi dibisioa"
+    ],
+    "name:eus_x_variant":[
+        "Rajshahi"
     ],
     "name:fas_x_preferred":[
         "\u0627\u0633\u062a\u0627\u0646 \u0631\u0627\u062c\u200c\u0634\u0627\u0647\u06cc"
@@ -105,8 +111,20 @@
     "name:kor_x_preferred":[
         "\ub77c\uc9c0\uc0e4\ud788 \uad6c"
     ],
+    "name:kor_x_variant":[
+        "\ub77c\uc9c0\uc0e4\ud788\uc8fc"
+    ],
     "name:lit_x_preferred":[
         "Rad\u017e\u0161ahio sritis"
+    ],
+    "name:mar_x_preferred":[
+        "\u0930\u093e\u091c\u0936\u093e\u0939\u0940 \u0935\u093f\u092d\u093e\u0917"
+    ],
+    "name:nan_x_preferred":[
+        "Rajshahi Hun-khu"
+    ],
+    "name:nep_x_preferred":[
+        "\u0930\u093e\u091c\u0936\u093e\u0939\u0940 \u0935\u093f\u092d\u093e\u0917"
     ],
     "name:new_x_preferred":[
         "\u0930\u093e\u091c\u0936\u093e\u0939\u0940 \u0935\u093f\u092d\u093e\u0917"
@@ -129,6 +147,9 @@
     "name:rus_x_preferred":[
         "\u0420\u0430\u0434\u0436\u0448\u0430\u0445\u0438"
     ],
+    "name:sat_x_preferred":[
+        "\u1c68\u1c5f\u1c61\u1c7d\u1c65\u1c5f\u1c66\u1c64 \u1c6f\u1c5a\u1c71\u1c5a\u1c5b"
+    ],
     "name:sco_x_preferred":[
         "Rajshahi Diveesion"
     ],
@@ -141,8 +162,14 @@
     "name:swe_x_preferred":[
         "Rajshahi"
     ],
+    "name:syl_x_preferred":[
+        "\ua81e\ua823\ua80e\ua821\ua823\ua822\ua824 \ua81b\ua824\ua81c\ua823\ua809"
+    ],
     "name:tam_x_preferred":[
         "\u0bb0\u0bbe\u0b9c\u0b9a\u0bbe\u0b95\u0bbf \u0b95\u0bcb\u0b9f\u0bcd\u0b9f\u0bae\u0bcd"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e20\u0e32\u0e04\u0e23\u0e32\u0e0a\u0e0a\u0e32\u0e2e\u0e35"
     ],
     "name:ukr_x_preferred":[
         "\u0420\u0430\u0434\u0436\u0448\u0430\u0445\u0456"
@@ -286,7 +313,7 @@
     "wof:lang_x_spoken":[
         "ben"
     ],
-    "wof:lastmodified":1636495496,
+    "wof:lastmodified":1690856078,
     "wof:name":"Rajshahi",
     "wof:parent_id":85632475,
     "wof:placetype":"region",

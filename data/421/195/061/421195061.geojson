@@ -59,6 +59,9 @@
     "name:kat_x_preferred":[
         "\u10d1\u10d0\u10d2\u10d4\u10e0\u10f0\u10d0\u10d7\u10d8\u10e1 \u10db\u10d4\u10e9\u10d4\u10d7\u10d8"
     ],
+    "name:lav_x_preferred":[
+        "B\u0101gerh\u0101ta"
+    ],
     "name:mai_x_preferred":[
         "\u092c\u0917\u0947\u0930\u0939\u093e\u091f\u0915 \u0910\u0924\u093f\u0939\u093e\u0938\u093f\u0915 \u092e\u0938\u094d\u091c\u093f\u0926 \u0938\u0939\u0930"
     ],
@@ -67,6 +70,9 @@
     ],
     "name:msa_x_preferred":[
         "Masjid Kota Bagerhat"
+    ],
+    "name:mya_x_preferred":[
+        "\u1018\u102c\u1002\u102b\u101f\u1010\u103a \u1017\u101c\u102e\u1019\u103c\u102d\u102f\u1037\u1010\u1031\u102c\u103a"
     ],
     "name:nep_x_preferred":[
         "\u092c\u0917\u0947\u0930\u0939\u093e\u091f \u091c\u093f\u0932\u094d\u0932\u093e\u0915\u094b \u0910\u0924\u093f\u0939\u093e\u0938\u093f\u0915 \u092e\u0938\u094d\u091c\u093f\u0926 \u0938\u0939\u0930"
@@ -106,6 +112,12 @@
     ],
     "name:und_x_variant":[
         "B\u0101gerh\u0101t"
+    ],
+    "name:urd_x_preferred":[
+        "\u0634\u06c1\u0631 \u0645\u0633\u0627\u062c\u062f"
+    ],
+    "name:uzb_x_preferred":[
+        "Bagerxat masjidi"
     ],
     "name:vie_x_preferred":[
         "Th\u00e0nh ph\u1ed1 H\u1ed3i gi\u00e1o l\u1ecbch s\u1eed Bagerhat"
@@ -161,7 +173,7 @@
         }
     ],
     "wof:id":421195061,
-    "wof:lastmodified":1566609368,
+    "wof:lastmodified":1690856101,
     "wof:name":"Bagerhat",
     "wof:parent_id":421187747,
     "wof:placetype":"locality",

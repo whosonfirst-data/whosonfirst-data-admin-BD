@@ -26,6 +26,9 @@
     "name:ceb_x_preferred":[
         "T\u0101ng\u0101il"
     ],
+    "name:deu_x_preferred":[
+        "Tangail"
+    ],
     "name:ell_x_preferred":[
         "\u03a4\u03b1\u03bd\u03b3\u03ba\u03ac\u03b9\u03bb"
     ],
@@ -34,6 +37,9 @@
     ],
     "name:epo_x_preferred":[
         "Tangail"
+    ],
+    "name:fas_x_preferred":[
+        "\u062a\u0627\u0646\u06af\u06cc\u0644"
     ],
     "name:fra_x_preferred":[
         "Tangail"
@@ -59,7 +65,13 @@
     "name:kaz_x_preferred":[
         "\u0422\u0430\u043d\u0433\u0430\u0439\u043b"
     ],
+    "name:kor_x_preferred":[
+        "\ud0d5\uac00\uc77c"
+    ],
     "name:nld_x_preferred":[
+        "Tangail"
+    ],
+    "name:nob_x_preferred":[
         "Tangail"
     ],
     "name:pnb_x_preferred":[
@@ -82,6 +94,9 @@
     ],
     "name:swe_x_preferred":[
         "Tangail"
+    ],
+    "name:tam_x_preferred":[
+        "\u0ba4\u0b99\u0bcd\u0b95\u0bc8\u0bb2\u0bcd"
     ],
     "name:tur_x_preferred":[
         "Tangail"
@@ -241,7 +256,7 @@
         }
     ],
     "wof:id":421169689,
-    "wof:lastmodified":1636495539,
+    "wof:lastmodified":1690856104,
     "wof:name":"Tangail",
     "wof:parent_id":421185471,
     "wof:placetype":"locality",

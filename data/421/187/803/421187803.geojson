@@ -35,6 +35,9 @@
     "mz:is_current":1,
     "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0646\u0627\u062d\u064a\u0629 \u062f\u0643\u0627"
+    ],
     "name:bel_x_preferred":[
         "\u0414\u0430\u043a\u0430"
     ],
@@ -87,8 +90,20 @@
     "name:jpn_x_preferred":[
         "\u30c0\u30c3\u30ab\u770c"
     ],
+    "name:kor_x_preferred":[
+        "\ub2e4\uce74\uad6c"
+    ],
+    "name:mai_x_preferred":[
+        "\u0922\u093e\u0915\u093e \u091c\u093f\u0932\u093e"
+    ],
     "name:mal_x_preferred":[
         "\u0d27\u0d3e\u0d15\u0d4d\u0d15 \u0d1c\u0d3f\u0d32\u0d4d\u0d32"
+    ],
+    "name:nan_x_preferred":[
+        "Dhaka Ko\u0101n"
+    ],
+    "name:nep_x_preferred":[
+        "\u0922\u093e\u0915\u093e \u091c\u093f\u0932\u094d\u0932\u093e"
     ],
     "name:new_x_preferred":[
         "\u0922\u093e\u0915\u093e \u091c\u093f\u0932\u094d\u0932\u093e"
@@ -102,8 +117,14 @@
     "name:por_x_preferred":[
         "Dhaka"
     ],
+    "name:ron_x_preferred":[
+        "Districtul Dacca"
+    ],
     "name:rus_x_preferred":[
         "\u0414\u0430\u043a\u043a\u0430"
+    ],
+    "name:sat_x_preferred":[
+        "\u1c70\u1c77\u1c5f\u1c60\u1c5f \u1c66\u1c5a\u1c71\u1c5a\u1c5b"
     ],
     "name:sco_x_preferred":[
         "Dhaka Destrict"
@@ -122,6 +143,12 @@
     ],
     "name:tel_x_preferred":[
         "\u0c22\u0c3e\u0c15\u0c3e \u0c1c\u0c3f\u0c32\u0c4d\u0c32\u0c3e"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e2d\u0e33\u0e40\u0e20\u0e2d\u0e18\u0e32\u0e01\u0e32"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u0430\u043a\u043a\u0430"
     ],
     "name:und_x_variant":[
         "Dhaka Zila"
@@ -202,7 +229,7 @@
         }
     ],
     "wof:id":421187803,
-    "wof:lastmodified":1636495540,
+    "wof:lastmodified":1690856106,
     "wof:name":"Dhaka",
     "wof:parent_id":85669009,
     "wof:placetype":"county",

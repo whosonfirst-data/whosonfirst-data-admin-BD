@@ -21,7 +21,17 @@
         "\u0633\u064a\u0644\u0647\u062a"
     ],
     "name:ara_x_variant":[
-        "\u0633\u064a\u0644\u0647\u064a\u062a"
+        "\u0633\u064a\u0644\u0647\u064a\u062a",
+        "\u0633\u0644\u0647\u062a"
+    ],
+    "name:arz_x_preferred":[
+        "\u0633\u0644\u0647\u062a"
+    ],
+    "name:ast_x_preferred":[
+        "Sylhet"
+    ],
+    "name:bel_x_preferred":[
+        "\u0421\u0456\u043b\u0445\u0435\u0442"
     ],
     "name:ben_x_preferred":[
         "\u09b8\u09bf\u09b2\u09c7\u099f"
@@ -37,6 +47,9 @@
     ],
     "name:ces_x_preferred":[
         "Sylhet"
+    ],
+    "name:ces_x_variant":[
+        "Sil\u00e9t"
     ],
     "name:dan_x_preferred":[
         "Sylhet"
@@ -60,7 +73,8 @@
         "\u0633\u06cc\u0644\u0647\u062a"
     ],
     "name:fas_x_variant":[
-        "\u0633\u06cc\u0644\u062a"
+        "\u0633\u06cc\u0644\u062a",
+        "\u0633\u0644\u0647\u062a"
     ],
     "name:fin_x_preferred":[
         "Sylhet"
@@ -69,6 +83,9 @@
         "Sylhet"
     ],
     "name:frr_x_preferred":[
+        "Sylhet"
+    ],
+    "name:gle_x_preferred":[
         "Sylhet"
     ],
     "name:guj_x_preferred":[
@@ -87,7 +104,11 @@
         "Sylhet"
     ],
     "name:hun_x_variant":[
-        "Szilhet"
+        "Szilhet",
+        "Szilet"
+    ],
+    "name:hye_x_preferred":[
+        "\u054d\u056b\u056c\u0570\u0565\u0569"
     ],
     "name:ind_x_preferred":[
         "Sylhet"
@@ -127,6 +148,9 @@
     ],
     "name:mar_x_preferred":[
         "\u0938\u093f\u0932\u0939\u091f"
+    ],
+    "name:mdf_x_preferred":[
+        "\u0421\u0438\u043b\u0433\u044d\u0442"
     ],
     "name:mkd_x_preferred":[
         "\u0421\u0438\u043b\u0445\u0435\u0442"
@@ -188,6 +212,9 @@
     "name:syl_x_preferred":[
         "Sil\u00f4\u0163"
     ],
+    "name:syl_x_variant":[
+        "\ua80d\ua824\ua81f\ua810 \ua818\ua809\ua81e"
+    ],
     "name:tam_x_preferred":[
         "\u0b9a\u0bbf\u0bb2\u0bcd\u0bb9\u0bc6\u0b9f\u0bcd"
     ],
@@ -197,17 +224,26 @@
     "name:tha_x_preferred":[
         "\u0e0b\u0e34\u0e25\u0e40\u0e2e\u0e15"
     ],
+    "name:tha_x_variant":[
+        "\u0e2a\u0e34\u0e40\u0e25\u0e0f"
+    ],
     "name:tur_x_preferred":[
         "Sylhet"
     ],
     "name:ukr_x_preferred":[
         "\u0421\u0456\u043b\u0435\u0442"
     ],
+    "name:ukr_x_variant":[
+        "\u0421\u0456\u043b\u0433\u0435\u0442"
+    ],
     "name:und_x_variant":[
         "R\u0101jnagar"
     ],
     "name:urd_x_preferred":[
         "\u0633\u0644\u06c1\u0679"
+    ],
+    "name:vec_x_preferred":[
+        "Sylhet"
     ],
     "name:vie_x_preferred":[
         "Sylhet"
@@ -217,6 +253,9 @@
     ],
     "name:wuu_x_preferred":[
         "\u9521\u5c14\u8d6b\u7279\u5e02"
+    ],
+    "name:yue_x_preferred":[
+        "\u932b\u723e\u8d6b\u7279"
     ],
     "name:zho_x_preferred":[
         "\u932b\u723e\u8d6b\u7279\u5e02"
@@ -361,7 +400,7 @@
         }
     ],
     "wof:id":421168819,
-    "wof:lastmodified":1636495538,
+    "wof:lastmodified":1690856099,
     "wof:name":"Sylhet",
     "wof:parent_id":421187795,
     "wof:placetype":"locality",

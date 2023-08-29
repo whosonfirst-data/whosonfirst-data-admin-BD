@@ -20,6 +20,18 @@
     "name:ara_x_preferred":[
         "\u0643\u0648\u0643\u0633 \u0628\u0627\u0632\u0627\u0631"
     ],
+    "name:arz_x_preferred":[
+        "\u0643\u0648\u0643\u0633 \u0628\u0627\u0632\u0627\u0631"
+    ],
+    "name:asm_x_preferred":[
+        "\u0995\u0995\u09cd\u09b8\u09ac\u09be\u099c\u09be\u09f0"
+    ],
+    "name:ast_x_preferred":[
+        "Cox's Bazar"
+    ],
+    "name:bel_x_preferred":[
+        "\u041a\u043e\u043a\u0441-\u0411\u0430\u0437\u0430\u0440"
+    ],
     "name:ben_x_preferred":[
         "Cox\u2019s B\u0101z\u0101r"
     ],
@@ -47,8 +59,14 @@
     "name:epo_x_preferred":[
         "Koks Bazar"
     ],
+    "name:eus_x_preferred":[
+        "Cox's Bazar"
+    ],
     "name:fas_x_preferred":[
         "\u0628\u0627\u0632\u0627\u0631 \u06a9\u0627\u06a9\u0633"
+    ],
+    "name:fin_x_preferred":[
+        "Cox's Bazar"
     ],
     "name:fra_x_preferred":[
         "Cox's Bazar"
@@ -58,6 +76,9 @@
     ],
     "name:heb_x_preferred":[
         "\u05e7\u05d5\u05e7\u05e1 \u05d1\u05d0\u05d6\u05e8"
+    ],
+    "name:hin_x_preferred":[
+        "\u0915\u093e\u0915\u094d\u0938 \u092c\u093e\u091c\u093e\u0930"
     ],
     "name:hun_x_preferred":[
         "Cox's Bazar"
@@ -104,11 +125,17 @@
     "name:pol_x_preferred":[
         "Cox's Bazar"
     ],
+    "name:por_x_preferred":[
+        "Cox's Bazar"
+    ],
     "name:ron_x_preferred":[
         "Cox's Bazar"
     ],
     "name:rus_x_preferred":[
         "\u041a\u043e\u043a\u0441-\u0411\u0430\u0437\u0430\u0440"
+    ],
+    "name:sat_x_preferred":[
+        "\u1c60\u1c5a\u1c60\u1c65\u1c75\u1c5f\u1c61\u1c5f\u1c68"
     ],
     "name:spa_x_preferred":[
         "Cox's Bazar"
@@ -118,6 +145,9 @@
     ],
     "name:tam_x_preferred":[
         "\u0b95\u0bbe\u0b95\u0bcd\u0bb8\u0bcd \u0baa\u0b9c\u0bbe\u0bb0\u0bcd"
+    ],
+    "name:tur_x_preferred":[
+        "Cox's Bazar"
     ],
     "name:ukr_x_preferred":[
         "\u041a\u043e\u043a\u0441-\u0411\u0430\u0437\u0430\u0440"
@@ -180,7 +210,7 @@
         }
     ],
     "wof:id":421173199,
-    "wof:lastmodified":1566609380,
+    "wof:lastmodified":1690856109,
     "wof:name":"Cox's Bazar",
     "wof:parent_id":421205057,
     "wof:placetype":"locality",

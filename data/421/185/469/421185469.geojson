@@ -79,8 +79,17 @@
     "name:jpn_x_preferred":[
         "\u30df\u30e1\u30f3\u30b7\u30f3\u30b0\u770c"
     ],
+    "name:kor_x_preferred":[
+        "\ub9c8\uc774\uba58\uc2f1\uad6c"
+    ],
     "name:mal_x_preferred":[
         "\u0d2e\u0d48\u0d38\u0d46\u0d28\u0d4d\u0d38\u0d3f\u0d19\u0d4d \u0d1c\u0d3f\u0d32\u0d4d\u0d32"
+    ],
+    "name:nan_x_preferred":[
+        "Mymensingh Ko\u0101n"
+    ],
+    "name:nep_x_preferred":[
+        "\u092e\u092f\u092e\u0928\u0938\u093f\u0919\u094d\u0939 \u091c\u093f\u0932\u094d\u0932\u093e"
     ],
     "name:nld_x_preferred":[
         "Mymensingh"
@@ -93,6 +102,9 @@
     ],
     "name:rus_x_preferred":[
         "\u041c\u0438\u043c\u0435\u043d\u0441\u0438\u043d\u0433\u0445"
+    ],
+    "name:sat_x_preferred":[
+        "\u1c62\u1c5a\u1c6d\u1c62\u1c5a\u1c71\u1c65\u1c64\u1c5d\u1c66\u1c5a \u1c66\u1c5a\u1c71\u1c5a\u1c5b"
     ],
     "name:spa_x_preferred":[
         "Mymensingh"
@@ -185,7 +197,7 @@
         }
     ],
     "wof:id":421185469,
-    "wof:lastmodified":1636495544,
+    "wof:lastmodified":1690856123,
     "wof:name":"Mymensingh",
     "wof:parent_id":1108803101,
     "wof:placetype":"county",

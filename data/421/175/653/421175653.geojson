@@ -20,6 +20,12 @@
     "name:ara_x_preferred":[
         "\u0628\u0627\u0631\u064a\u0633\u0627\u0644"
     ],
+    "name:arz_x_preferred":[
+        "\u0628\u0627\u0631\u064a\u0633\u0627\u0644"
+    ],
+    "name:ast_x_preferred":[
+        "Barisal"
+    ],
     "name:bel_x_preferred":[
         "\u0411\u0430\u0440\u044b\u0441\u0430\u043b"
     ],
@@ -47,11 +53,20 @@
     "name:ell_x_preferred":[
         "\u039c\u03c0\u03ac\u03c1\u03b9\u03c3\u03b1\u03bb"
     ],
+    "name:ell_x_variant":[
+        "\u039c\u03c0\u03bf\u03c1\u03b9\u03c3\u03ac\u03bb"
+    ],
     "name:eng_x_preferred":[
         "Barisal"
     ],
+    "name:eng_x_variant":[
+        "Barishal"
+    ],
     "name:epo_x_preferred":[
         "Barizalo"
+    ],
+    "name:eus_x_preferred":[
+        "Barisal"
     ],
     "name:fas_x_preferred":[
         "\u0628\u0627\u0631\u06cc\u0633\u0627\u0644"
@@ -63,6 +78,9 @@
         "Barisal"
     ],
     "name:frr_x_preferred":[
+        "Barishal"
+    ],
+    "name:gle_x_preferred":[
         "Barishal"
     ],
     "name:guj_x_preferred":[
@@ -92,6 +110,9 @@
     "name:kan_x_preferred":[
         "\u0cac\u0ccd\u0caf\u0cbe\u0cb0\u0cbf\u0cb8\u0cb2\u0ccd"
     ],
+    "name:kas_x_preferred":[
+        "\u0628\u0631\u06cc\u0634\u0627\u0644"
+    ],
     "name:kat_x_preferred":[
         "\u10d1\u10d0\u10e0\u10d8\u10e1\u10d0\u10da\u10d8"
     ],
@@ -106,6 +127,9 @@
     ],
     "name:mai_x_preferred":[
         "\u092c\u0930\u093f\u0938\u093e\u0932"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d2c\u0d3e\u0d30\u0d3f\u0d38\u0d3e\u0d7d"
     ],
     "name:mar_x_preferred":[
         "\u092c\u093e\u0930\u093f\u0938\u093e\u0932"
@@ -164,6 +188,9 @@
     "name:tha_x_preferred":[
         "\u0e1a\u0e32\u0e23\u0e34\u0e0b\u0e32\u0e25"
     ],
+    "name:tha_x_variant":[
+        "\u0e1a\u0e2d\u0e23\u0e35\u0e0a\u0e31\u0e25"
+    ],
     "name:tur_x_preferred":[
         "Barisal"
     ],
@@ -175,6 +202,12 @@
     ],
     "name:urd_x_preferred":[
         "\u0628\u0627\u0631\u06cc\u0633\u0627\u0644"
+    ],
+    "name:urd_x_variant":[
+        "\u0628\u0631\u06cc\u0634\u0627\u0644"
+    ],
+    "name:vec_x_preferred":[
+        "Barisal"
     ],
     "name:vie_x_preferred":[
         "Barisal"
@@ -330,7 +363,7 @@
         }
     ],
     "wof:id":421175653,
-    "wof:lastmodified":1636495542,
+    "wof:lastmodified":1690856112,
     "wof:name":"Barisal",
     "wof:parent_id":421187745,
     "wof:placetype":"locality",
