@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":12.381761,
-    "geom:area_square_m":140056091619.750183,
+    "geom:area_square_m":140012718415.70285,
     "geom:bbox":"88.008589,20.590361,92.680115,26.634243",
     "geom:latitude":23.836499,
     "geom:longitude":90.268722,
@@ -14,6 +14,9 @@
     "iso:country":"BD",
     "itu:country_code":[
         "880"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "country"
     ],
     "label:eng_x_preferred_shortcode":[
         "BD"
@@ -1276,7 +1279,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
+    "src:population":"naturalearth",
+    "src:population_date":"2019",
     "statoids:dial":"880",
     "statoids:ds":"BD",
     "statoids:fifa":"BAN",
@@ -1335,7 +1339,7 @@
         "naturalearth",
         "quattroshapes"
     ],
-    "wof:geomhash":"b1ce4dbd2c2206e3c2cd3ff273b8db0d",
+    "wof:geomhash":"4e61331bbc214adfd75dd2488ce5f722",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -1349,12 +1353,12 @@
     "wof:lang_x_spoken":[
         "ben"
     ],
-    "wof:lastmodified":1690856075,
+    "wof:lastmodified":1694639578,
     "wof:name":"Bangladesh",
     "wof:parent_id":102191569,
     "wof:placetype":"country",
-    "wof:population":156594962,
-    "wof:population_rank":17,
+    "wof:population":163046161,
+    "wof:population_rank":18,
     "wof:repo":"whosonfirst-data-admin-bd",
     "wof:shortcode":"BD",
     "wof:superseded_by":[],
