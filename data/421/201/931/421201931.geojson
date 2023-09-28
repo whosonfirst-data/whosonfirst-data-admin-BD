@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.331353,
-    "geom:area_square_m":3715235648.473568,
+    "geom:area_square_m":3715235286.248152,
     "geom:bbox":"90.933235,24.566199,91.740052,25.205567",
     "geom:latitude":24.937672,
     "geom:longitude":91.347357,
@@ -174,12 +174,13 @@
         "qs_pg:id":215999,
         "wd:id":"Q2093388"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BD",
     "wof:created":1459010092,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"995891339c351f4fa130e09a9ee59326",
+    "wof:geomhash":"683d98d0e99c1b26eb4a4d97880c82a7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -189,7 +190,7 @@
         }
     ],
     "wof:id":421201931,
-    "wof:lastmodified":1690856117,
+    "wof:lastmodified":1695886593,
     "wof:name":"Sunamganj",
     "wof:parent_id":85669025,
     "wof:placetype":"county",

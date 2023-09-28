@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.149708,
-    "geom:area_square_m":1700711503.7622,
+    "geom:area_square_m":1700711812.207829,
     "geom:bbox":"90.539196,22.987232,91.031527,23.503034",
     "geom:latitude":23.259668,
     "geom:longitude":90.753528,
@@ -155,9 +155,10 @@
         "hasc:id":"BD.CG.CP",
         "wd:id":"Q1429697"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BD",
     "wof:created":1474492985,
-    "wof:geomhash":"13ae29effa8070edc55d430594ac3f20",
+    "wof:geomhash":"7c8732c3bef60c21bfd8216843eb469a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -167,7 +168,7 @@
         }
     ],
     "wof:id":1108694669,
-    "wof:lastmodified":1690856094,
+    "wof:lastmodified":1695886813,
     "wof:name":"Chandpur",
     "wof:parent_id":85669023,
     "wof:placetype":"county",

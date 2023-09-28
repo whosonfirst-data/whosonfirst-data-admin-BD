@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.149806,
-    "geom:area_square_m":1664573945.369908,
+    "geom:area_square_m":1664573649.205603,
     "geom:bbox":"88.737876,25.739304,89.196511,26.309501",
     "geom:latitude":26.023697,
     "geom:longitude":88.940098,
@@ -149,9 +149,10 @@
         "hasc:id":"BD.RP.NP",
         "wd:id":"Q2188627"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BD",
     "wof:created":1474493033,
-    "wof:geomhash":"4b7c192c621a70a9ff646f545462315f",
+    "wof:geomhash":"32161a520a54043b8df02287e8244c8a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -161,7 +162,7 @@
         }
     ],
     "wof:id":1108694695,
-    "wof:lastmodified":1690856092,
+    "wof:lastmodified":1695886812,
     "wof:name":"Nilphamari",
     "wof:parent_id":85669035,
     "wof:placetype":"county",

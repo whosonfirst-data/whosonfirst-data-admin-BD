@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.307013,
-    "geom:area_square_m":3458397791.737265,
+    "geom:area_square_m":3458397728.086823,
     "geom:bbox":"89.721124,23.960848,90.301177,24.791218",
     "geom:latitude":24.355739,
     "geom:longitude":89.997683,
@@ -170,12 +170,13 @@
         "wd:id":"Q952184",
         "wk:page":"Tangail District"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BD",
     "wof:created":1459009444,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"969571fdcb13d87c199ac1102babf12d",
+    "wof:geomhash":"c990c8690eac4bb9d9974ce1aef6279a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -185,7 +186,7 @@
         }
     ],
     "wof:id":421185471,
-    "wof:lastmodified":1690856123,
+    "wof:lastmodified":1695886657,
     "wof:name":"Tangail",
     "wof:parent_id":85669009,
     "wof:placetype":"county",

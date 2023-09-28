@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.125421,
-    "geom:area_square_m":1390488307.18879,
+    "geom:area_square_m":1390488651.56742,
     "geom:bbox":"88.321808,26.006139,88.797896,26.634149",
     "geom:latitude":26.285846,
     "geom:longitude":88.581092,
@@ -155,9 +155,10 @@
         "hasc:id":"BD.RP.PN",
         "wd:id":"Q2367822"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BD",
     "wof:created":1474493036,
-    "wof:geomhash":"0855e26e1540e67efa4c9528f098246c",
+    "wof:geomhash":"2285a2a5f70591c6a37f74d67ed0644f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -167,7 +168,7 @@
         }
     ],
     "wof:id":1108694697,
-    "wof:lastmodified":1690856092,
+    "wof:lastmodified":1695886812,
     "wof:name":"Panchagarh",
     "wof:parent_id":85669035,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.098665,
-    "geom:area_square_m":1121243110.552334,
+    "geom:area_square_m":1121243425.429548,
     "geom:bbox":"89.938014,22.963174,90.356569,23.506929",
     "geom:latitude":23.213052,
     "geom:longitude":90.166401,
@@ -182,12 +182,13 @@
         "qs_pg:id":986232,
         "wd:id":"Q928836"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BD",
     "wof:created":1459009395,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"5d11b760ba7a9dc750d5b0bd57ce16fa",
+    "wof:geomhash":"acf8fb8763469eb360f8034fac1e9e9e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -197,7 +198,7 @@
         }
     ],
     "wof:id":421183929,
-    "wof:lastmodified":1690856121,
+    "wof:lastmodified":1695886594,
     "wof:name":"Madaripur",
     "wof:parent_id":85669009,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.116151,
-    "geom:area_square_m":1330328926.273252,
+    "geom:area_square_m":1330328472.54401,
     "geom:bbox":"89.904135,21.859353,90.375709,22.483308",
     "geom:latitude":22.139353,
     "geom:longitude":90.125978,
@@ -191,12 +191,13 @@
         "wd:id":"Q808172",
         "wk:page":"Barguna District"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BD",
     "wof:created":1459009088,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"6c131f35d66979133abf4f7fadea8666",
+    "wof:geomhash":"5e495cfd215f95dd508712ce814554bc",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -206,7 +207,7 @@
         }
     ],
     "wof:id":421176043,
-    "wof:lastmodified":1690856122,
+    "wof:lastmodified":1695886593,
     "wof:name":"Barguna",
     "wof:parent_id":85669019,
     "wof:placetype":"county",

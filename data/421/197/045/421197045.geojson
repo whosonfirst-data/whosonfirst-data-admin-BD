@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.069087,
-    "geom:area_square_m":781985488.851735,
+    "geom:area_square_m":781985977.949165,
     "geom:bbox":"90.431731,23.542405,90.757875,23.958316",
     "geom:latitude":23.740226,
     "geom:longitude":90.575194,
@@ -180,12 +180,13 @@
         "qs_pg:id":1289562,
         "wd:id":"Q2208354"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BD",
     "wof:created":1459009901,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"2498f52684be351f4a0353cdeec4405b",
+    "wof:geomhash":"67e2ce8d35b14bc19f93c5570666f15c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -195,7 +196,7 @@
         }
     ],
     "wof:id":421197045,
-    "wof:lastmodified":1690856115,
+    "wof:lastmodified":1695886657,
     "wof:name":"Narayanganj",
     "wof:parent_id":85669009,
     "wof:placetype":"county",

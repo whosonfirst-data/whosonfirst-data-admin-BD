@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.224027,
-    "geom:area_square_m":2548257631.385668,
+    "geom:area_square_m":2548256916.264602,
     "geom:bbox":"88.847969,22.792541,89.56958,23.375356",
     "geom:latitude":23.087554,
     "geom:longitude":89.176665,
@@ -202,12 +202,13 @@
         "qs_pg:id":1330373,
         "wd:id":"Q1862981"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BD",
     "wof:created":1459009088,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"5567f4992cbe433599e644bb054ab1b0",
+    "wof:geomhash":"560a869538b028f5a04cd22f03fa3a54",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -217,7 +218,7 @@
         }
     ],
     "wof:id":421176039,
-    "wof:lastmodified":1690856122,
+    "wof:lastmodified":1695886593,
     "wof:name":"Jessore",
     "wof:parent_id":85669015,
     "wof:placetype":"county",

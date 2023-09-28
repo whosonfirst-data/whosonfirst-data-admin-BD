@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.184781,
-    "geom:area_square_m":2071215529.371044,
+    "geom:area_square_m":2071216089.860888,
     "geom:bbox":"89.643176,24.564074,90.222294,25.432043",
     "geom:latitude":24.973281,
     "geom:longitude":89.852393,
@@ -219,12 +219,13 @@
         "qs_pg:id":1174951,
         "wd:id":"Q2039306"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BD",
     "wof:created":1459009714,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"51a5ce9158d27a5cd5ae7ceb91900918",
+    "wof:geomhash":"668f9d5f5b017a153c57c99a42445f99",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -234,7 +235,7 @@
         }
     ],
     "wof:id":421191923,
-    "wof:lastmodified":1690856113,
+    "wof:lastmodified":1695886657,
     "wof:name":"Jamalpur",
     "wof:parent_id":1108803101,
     "wof:placetype":"county",

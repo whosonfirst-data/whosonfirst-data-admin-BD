@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.230126,
-    "geom:area_square_m":2592024994.961697,
+    "geom:area_square_m":2592024808.918652,
     "geom:bbox":"91.151234,23.974533,91.701927,24.694336",
     "geom:latitude":24.36909,
     "geom:longitude":91.431173,
@@ -185,12 +185,13 @@
         "wd:id":"Q1438974",
         "wk:page":"Habiganj District"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BD",
     "wof:created":1459009088,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"397f695211e66f8db956a7f6b4cbe4ea",
+    "wof:geomhash":"df1547607ade2475ad7cea38b6f0a234",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -200,7 +201,7 @@
         }
     ],
     "wof:id":421176045,
-    "wof:lastmodified":1690856122,
+    "wof:lastmodified":1695886594,
     "wof:name":"Habiganj",
     "wof:parent_id":85669025,
     "wof:placetype":"county",

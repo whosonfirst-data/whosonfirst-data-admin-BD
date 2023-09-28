@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.320359,
-    "geom:area_square_m":3663249661.985754,
+    "geom:area_square_m":3663250772.075985,
     "geom:bbox":"89.533511,21.712769,89.983386,22.983299",
     "geom:latitude":22.365789,
     "geom:longitude":89.741924,
@@ -176,12 +176,13 @@
         "qs_pg:id":1085899,
         "wd:id":"Q2344861"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BD",
     "wof:created":1459009523,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"f6eef90468a45f3164af7f3263afab7c",
+    "wof:geomhash":"af833340027e6dfcffb6e5ef0d3f4525",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -191,7 +192,7 @@
         }
     ],
     "wof:id":421187747,
-    "wof:lastmodified":1690856107,
+    "wof:lastmodified":1695886589,
     "wof:name":"Bagerhat",
     "wof:parent_id":85669015,
     "wof:placetype":"county",

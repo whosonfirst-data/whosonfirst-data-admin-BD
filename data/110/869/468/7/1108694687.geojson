@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.110388,
-    "geom:area_square_m":1226164996.366975,
+    "geom:area_square_m":1226165398.249036,
     "geom:bbox":"88.908458,25.790158,89.563106,26.457525",
     "geom:latitude":26.063035,
     "geom:longitude":89.240018,
@@ -152,9 +152,10 @@
         "hasc:id":"BD.RP.LL",
         "wd:id":"Q2373734"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BD",
     "wof:created":1474493017,
-    "wof:geomhash":"30c3aef39c2c17489f396fc810c7cf85",
+    "wof:geomhash":"afd5917e6fd112043e23541f5295ff4c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -164,7 +165,7 @@
         }
     ],
     "wof:id":1108694687,
-    "wof:lastmodified":1690856093,
+    "wof:lastmodified":1695886813,
     "wof:name":"Lalmonirhat",
     "wof:parent_id":85669035,
     "wof:placetype":"county",

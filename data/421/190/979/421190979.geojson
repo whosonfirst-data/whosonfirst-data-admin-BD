@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.117962,
-    "geom:area_square_m":1321056268.140466,
+    "geom:area_square_m":1321056157.118459,
     "geom:bbox":"89.881029,24.883183,90.309621,25.303129",
     "geom:latitude":25.084321,
     "geom:longitude":90.078093,
@@ -176,12 +176,13 @@
         "wd:id":"Q2039314",
         "wk:page":"Sherpur District"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BD",
     "wof:created":1459009675,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"0b677f50e10ab050c489171c2dc1d17d",
+    "wof:geomhash":"05a92e0fc97cf51907e8e1423b3eaee3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -191,7 +192,7 @@
         }
     ],
     "wof:id":421190979,
-    "wof:lastmodified":1690856115,
+    "wof:lastmodified":1695886591,
     "wof:name":"Sherpur",
     "wof:parent_id":1108803101,
     "wof:placetype":"county",

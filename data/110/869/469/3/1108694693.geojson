@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.241731,
-    "geom:area_square_m":2720383749.304398,
+    "geom:area_square_m":2720383787.746243,
     "geom:bbox":"91.597095,24.136164,92.291745,24.831867",
     "geom:latitude":24.478355,
     "geom:longitude":91.916004,
@@ -154,9 +154,10 @@
         "hasc:id":"BD.SY.MB",
         "wd:id":"Q281435"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BD",
     "wof:created":1474493022,
-    "wof:geomhash":"6c41109d76bc212f93c85e34aa75e614",
+    "wof:geomhash":"de8361a0283dd46c4f0a06b658d728f3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -166,7 +167,7 @@
         }
     ],
     "wof:id":1108694693,
-    "wof:lastmodified":1690856092,
+    "wof:lastmodified":1695886812,
     "wof:name":"Maulvibazar",
     "wof:parent_id":85669025,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.175992,
-    "geom:area_square_m":2012785021.995933,
+    "geom:area_square_m":2012783447.092537,
     "geom:bbox":"90.539383,21.848535,91.040439,22.792506",
     "geom:latitude":22.343164,
     "geom:longitude":90.74966,
@@ -187,12 +187,13 @@
         "wd:id":"Q855042",
         "wk:page":"Bhola District"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BD",
     "wof:created":1459009412,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"817d49b0e22c4fda25a6037fd19770e2",
+    "wof:geomhash":"6e2eabce5e7e5f9a4c70df1c9588a64d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -202,7 +203,7 @@
         }
     ],
     "wof:id":421184491,
-    "wof:lastmodified":1690856118,
+    "wof:lastmodified":1695886592,
     "wof:name":"Bhola",
     "wof:parent_id":85669019,
     "wof:placetype":"county",

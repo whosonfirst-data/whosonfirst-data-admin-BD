@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.223587,
-    "geom:area_square_m":2518312946.81039,
+    "geom:area_square_m":2518313041.521683,
     "geom:bbox":"90.57663,24.038344,91.255628,24.633847",
     "geom:latitude":24.37242,
     "geom:longitude":90.944409,
@@ -179,12 +179,13 @@
         "qs_pg:id":483047,
         "wd:id":"Q2344833"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BD",
     "wof:created":1459008855,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"36de27f0e7c0d3b00ec3c898ff03ac49",
+    "wof:geomhash":"2538641cb877f93915cb814dafb86c6b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -194,7 +195,7 @@
         }
     ],
     "wof:id":421170483,
-    "wof:lastmodified":1690856119,
+    "wof:lastmodified":1695886592,
     "wof:name":"Kishoreganj",
     "wof:parent_id":85669009,
     "wof:placetype":"county",

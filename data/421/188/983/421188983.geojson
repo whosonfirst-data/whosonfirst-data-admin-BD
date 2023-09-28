@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.533375,
-    "geom:area_square_m":6077925259.320327,
+    "geom:area_square_m":6077925563.97137,
     "geom:bbox":"91.920884,21.909044,92.627166,23.739019",
     "geom:latitude":22.84183,
     "geom:longitude":92.27501,
@@ -191,12 +191,13 @@
         "qs_pg:id":1190323,
         "wd:id":"Q2121686"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BD",
     "wof:created":1459009595,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"09a3a14a56abea36894e680484547c16",
+    "wof:geomhash":"ec13954e8cc4bb57ad153ae433dac21f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -206,7 +207,7 @@
         }
     ],
     "wof:id":421188983,
-    "wof:lastmodified":1690856109,
+    "wof:lastmodified":1695886591,
     "wof:name":"Rangamati",
     "wof:parent_id":85669023,
     "wof:placetype":"county",

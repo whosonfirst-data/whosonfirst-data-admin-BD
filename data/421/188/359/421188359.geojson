@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.109821,
-    "geom:area_square_m":1247618246.272472,
+    "geom:area_square_m":1247618232.900337,
     "geom:bbox":"90.201473,23.007084,90.613702,23.462941",
     "geom:latitude":23.25659,
     "geom:longitude":90.411637,
@@ -170,12 +170,13 @@
         "qs_pg:id":22416,
         "wd:id":"Q253007"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BD",
     "wof:created":1459009543,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"34d9a0a6e225909130ede30699ffd9cb",
+    "wof:geomhash":"e9fc0c864dbe6423cc8dd33a72b10ad8",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -185,7 +186,7 @@
         }
     ],
     "wof:id":421188359,
-    "wof:lastmodified":1690856109,
+    "wof:lastmodified":1695886591,
     "wof:name":"Shariatpur",
     "wof:parent_id":85669009,
     "wof:placetype":"county",

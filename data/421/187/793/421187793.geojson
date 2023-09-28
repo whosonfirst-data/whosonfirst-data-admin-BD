@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.259869,
-    "geom:area_square_m":2916347224.779384,
+    "geom:area_square_m":2916347002.983873,
     "geom:bbox":"88.965769,24.547858,89.749747,25.121579",
     "geom:latitude":24.827139,
     "geom:longitude":89.379253,
@@ -185,12 +185,13 @@
         "wd:id":"Q2039066",
         "wk:page":"Bogra District"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BD",
     "wof:created":1459009524,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"64bb560a81d0fb22a9e021254a0075d4",
+    "wof:geomhash":"027f24037aee89315af5692cb7f25fe7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -200,7 +201,7 @@
         }
     ],
     "wof:id":421187793,
-    "wof:lastmodified":1690856107,
+    "wof:lastmodified":1695886590,
     "wof:name":"Bogra",
     "wof:parent_id":85669031,
     "wof:placetype":"county",

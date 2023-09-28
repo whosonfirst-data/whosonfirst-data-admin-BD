@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.121937,
-    "geom:area_square_m":1379118438.830676,
+    "geom:area_square_m":1379118087.02896,
     "geom:bbox":"89.691972,23.629712,90.256906,24.030702",
     "geom:latitude":23.84059,
     "geom:longitude":89.954506,
@@ -180,12 +180,13 @@
         "qs_pg:id":1154551,
         "wd:id":"Q2024719"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BD",
     "wof:created":1459009704,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"21ab88f9ebfcc82a2e5aa8a30a8171c0",
+    "wof:geomhash":"fad1767c8ab2fec4d8f5a6d2e60eb1ae",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -195,7 +196,7 @@
         }
     ],
     "wof:id":421191745,
-    "wof:lastmodified":1690856114,
+    "wof:lastmodified":1695886592,
     "wof:name":"Manikganj",
     "wof:parent_id":85669009,
     "wof:placetype":"county",

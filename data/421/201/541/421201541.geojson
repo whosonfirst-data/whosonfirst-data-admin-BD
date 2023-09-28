@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.358036,
-    "geom:area_square_m":4091286150.156923,
+    "geom:area_square_m":4091285118.074277,
     "geom:bbox":"91.422002,21.909291,92.186835,22.988774",
     "geom:latitude":22.46141,
     "geom:longitude":91.831395,
@@ -206,12 +206,13 @@
         "wd:id":"Q1074991",
         "wk:page":"Chittagong District"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BD",
     "wof:created":1459010076,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"e04aa7b0aea99c31dcc99af3baf6c313",
+    "wof:geomhash":"e643499e40a23d26ada4e0af1b94592b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -221,7 +222,7 @@
         }
     ],
     "wof:id":421201541,
-    "wof:lastmodified":1690856118,
+    "wof:lastmodified":1695886657,
     "wof:name":"Chittagong",
     "wof:parent_id":85669023,
     "wof:placetype":"county",

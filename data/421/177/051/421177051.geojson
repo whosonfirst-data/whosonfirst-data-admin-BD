@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.231593,
-    "geom:area_square_m":2641844842.702941,
+    "geom:area_square_m":2641845096.254413,
     "geom:bbox":"90.891853,22.022306,91.413332,23.13252",
     "geom:latitude":22.699434,
     "geom:longitude":91.127201,
@@ -185,12 +185,13 @@
         "qs_pg:id":400650,
         "wd:id":"Q68585"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BD",
     "wof:created":1459009131,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"d7c07cfced85327270421b32444d9555",
+    "wof:geomhash":"a3fcb671eb5ac22f1563979509b9ce9a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -200,7 +201,7 @@
         }
     ],
     "wof:id":421177051,
-    "wof:lastmodified":1690856120,
+    "wof:lastmodified":1695886594,
     "wof:name":"Noakhali",
     "wof:parent_id":85669023,
     "wof:placetype":"county",
