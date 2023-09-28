@@ -1318,6 +1318,7 @@
         "hasc:id":"BD",
         "icao:code":"S2",
         "ioc:id":"BAN",
+        "iso:code":"BD",
         "itu:id":"BGD",
         "loc:id":"n81063207",
         "m49:code":"050",
@@ -1331,6 +1332,7 @@
         "wk:page":"Bangladesh",
         "wmo:id":"BW"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"BD",
     "wof:country_alpha3":"BGD",
     "wof:geom_alt":[
@@ -1353,7 +1355,7 @@
     "wof:lang_x_spoken":[
         "ben"
     ],
-    "wof:lastmodified":1694639578,
+    "wof:lastmodified":1695881238,
     "wof:name":"Bangladesh",
     "wof:parent_id":102191569,
     "wof:placetype":"country",
