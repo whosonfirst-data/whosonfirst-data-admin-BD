@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.940398,
-    "geom:area_square_m":10551813598.542303,
+    "geom:area_square_m":10551814753.271008,
     "geom:bbox":"89.643176,24.247401,91.240831,25.432043",
     "geom:latitude":24.84595,
     "geom:longitude":90.385698,
@@ -23,7 +23,7 @@
     "lbl:longitude":90.464141,
     "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":7.7,
     "name:aka_x_preferred":[
@@ -179,11 +179,13 @@
     "wof:concordances":{
         "fips:code":"BG81",
         "hasc:id":"BD.MM",
+        "iso:code":"BD-C",
         "iso:id":"BD-C"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"BD",
     "wof:created":1485221873,
-    "wof:geomhash":"a02f5f21424793b94630816726005306",
+    "wof:geomhash":"4bbf02fa8a9e292f15e64ec25aae3054",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -198,7 +200,7 @@
     "wof:lang_x_spoken":[
         "ben"
     ],
-    "wof:lastmodified":1636495530,
+    "wof:lastmodified":1695884286,
     "wof:name":"Mymensingh",
     "wof:parent_id":85632475,
     "wof:placetype":"region",

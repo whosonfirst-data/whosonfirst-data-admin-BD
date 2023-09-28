@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.869375,
-    "geom:area_square_m":9936952586.915474,
+    "geom:area_square_m":9936951130.720173,
     "geom:bbox":"89.855354,21.76194,91.040439,23.100407",
     "geom:latitude":22.424559,
     "geom:longitude":90.364962,
@@ -298,17 +298,19 @@
         "gn:id":1337229,
         "gp:id":23706410,
         "hasc:id":"BD.BA",
+        "iso:code":"BD-A",
         "iso:id":"BD-A",
         "qs_pg:id":212423,
         "unlc:id":"BD-06",
         "wd:id":"Q459723",
         "wk:page":"Barisal Division"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"BD",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"17cae34c15ba4526e4e8fd26f7387b25",
+    "wof:geomhash":"d4ee3629bde2b580f527712707fe8997",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -323,7 +325,7 @@
     "wof:lang_x_spoken":[
         "ben"
     ],
-    "wof:lastmodified":1690856077,
+    "wof:lastmodified":1695884796,
     "wof:name":"Barisal",
     "wof:parent_id":85632475,
     "wof:placetype":"region",

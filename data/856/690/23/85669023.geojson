@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.751161,
-    "geom:area_square_m":31378353511.345104,
+    "geom:area_square_m":31378352449.004955,
     "geom:bbox":"90.539196,20.576093,92.683448,24.26925",
     "geom:latitude":22.711939,
     "geom:longitude":91.729536,
@@ -318,17 +318,19 @@
         "gn:id":1337200,
         "gp:id":2344790,
         "hasc:id":"BD.CG",
+        "iso:code":"BD-B",
         "iso:id":"BD-B",
         "qs_pg:id":219507,
         "unlc:id":"BD-10",
         "wd:id":"Q158087",
         "wk:page":"Chittagong Division"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"BD",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"f34798f04fb1bd133b050aa4679b756e",
+    "wof:geomhash":"6cdb9b4241105abd219745ec724bab32",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -343,7 +345,7 @@
     "wof:lang_x_spoken":[
         "ben"
     ],
-    "wof:lastmodified":1690856078,
+    "wof:lastmodified":1695884797,
     "wof:name":"Chittagong",
     "wof:parent_id":85632475,
     "wof:placetype":"region",

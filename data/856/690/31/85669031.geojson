@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.621182,
-    "geom:area_square_m":18227684468.298546,
+    "geom:area_square_m":18227684366.216022,
     "geom:bbox":"88.01143,23.798061,89.819781,25.276321",
     "geom:latitude":24.591527,
     "geom:longitude":89.04558,
@@ -289,16 +289,18 @@
         "gn:id":1337166,
         "gp:id":2344793,
         "hasc:id":"BD.RS",
+        "iso:code":"BD-E",
         "iso:id":"BD-E",
         "qs_pg:id":318292,
         "wd:id":"Q379382",
         "wk:page":"Rajshahi Division"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"BD",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"b21024e729e9956db866213689d45ea4",
+    "wof:geomhash":"88d9d4b2e5b186ef3288ea2b818904b1",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -313,7 +315,7 @@
     "wof:lang_x_spoken":[
         "ben"
     ],
-    "wof:lastmodified":1690856078,
+    "wof:lastmodified":1695884797,
     "wof:name":"Rajshahi",
     "wof:parent_id":85632475,
     "wof:placetype":"region",
