@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.099384,
-    "geom:area_square_m":1125048391.713553,
+    "geom:area_square_m":1125048088.790178,
     "geom:bbox":"89.298725,23.566997,89.869552,23.907982",
     "geom:latitude":23.72497,
     "geom:longitude":89.56204,
@@ -149,9 +149,10 @@
         "hasc:id":"BD.DH.RB",
         "wd:id":"Q2348762"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BD",
     "wof:created":1474493040,
-    "wof:geomhash":"4d192b8f5377025c85f83486949b5d26",
+    "wof:geomhash":"c80a6db38a58d30067a139c7519dade1",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -161,7 +162,7 @@
         }
     ],
     "wof:id":1108694699,
-    "wof:lastmodified":1690856092,
+    "wof:lastmodified":1695886812,
     "wof:name":"Rajbari",
     "wof:parent_id":85669009,
     "wof:placetype":"county",

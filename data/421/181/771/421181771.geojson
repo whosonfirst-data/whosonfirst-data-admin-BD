@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.080291,
-    "geom:area_square_m":913899622.654347,
+    "geom:area_square_m":913899611.207766,
     "geom:bbox":"91.249576,22.750761,91.581234,23.284422",
     "geom:latitude":22.997609,
     "geom:longitude":91.415453,
@@ -178,12 +178,13 @@
         "wd:id":"Q1404741",
         "wk:page":"Feni District"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BD",
     "wof:created":1459009306,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"c987baf65cbdb86687fb1dbfc9211cc0",
+    "wof:geomhash":"3467c48bebe1b4719c17cda2b95f2274",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -193,7 +194,7 @@
         }
     ],
     "wof:id":421181771,
-    "wof:lastmodified":1690856111,
+    "wof:lastmodified":1695886591,
     "wof:name":"Feni",
     "wof:parent_id":85669023,
     "wof:placetype":"county",

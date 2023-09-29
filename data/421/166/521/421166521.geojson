@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.105687,
-    "geom:area_square_m":1203854851.689504,
+    "geom:area_square_m":1203854487.752465,
     "geom:bbox":"90.644252,22.575728,91.004582,23.166655",
     "geom:latitude":22.898848,
     "geom:longitude":90.853516,
@@ -178,12 +178,13 @@
         "wd:id":"Q1550252",
         "wk:page":"Lakshmipur District"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BD",
     "wof:created":1459008693,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"f320ee6e2ee51b09af4af5dab6263bd1",
+    "wof:geomhash":"a8a7b40b324ab8e8b4c372d2f7b962ca",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -193,7 +194,7 @@
         }
     ],
     "wof:id":421166521,
-    "wof:lastmodified":1690856100,
+    "wof:lastmodified":1695886588,
     "wof:name":"Lakshmipur",
     "wof:parent_id":85669023,
     "wof:placetype":"county",

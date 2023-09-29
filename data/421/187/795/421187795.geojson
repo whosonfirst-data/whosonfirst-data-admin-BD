@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.305335,
-    "geom:area_square_m":3424015698.192631,
+    "geom:area_square_m":3424015577.158518,
     "geom:bbox":"91.638216,24.592598,92.501155,25.186429",
     "geom:latitude":24.919539,
     "geom:longitude":91.991441,
@@ -235,12 +235,13 @@
         "wd:id":"Q2093352",
         "wk:page":"Sylhet District"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BD",
     "wof:created":1459009524,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"f23beb36aebd3c6c1b755145fd2c171c",
+    "wof:geomhash":"3c4e985cb92db66a3faa43e72b1c7f31",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -250,7 +251,7 @@
         }
     ],
     "wof:id":421187795,
-    "wof:lastmodified":1690856107,
+    "wof:lastmodified":1695886656,
     "wof:name":"Sylhet",
     "wof:parent_id":85669025,
     "wof:placetype":"county",

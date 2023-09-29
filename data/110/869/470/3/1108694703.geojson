@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.16335,
-    "geom:area_square_m":1815569651.816185,
+    "geom:area_square_m":1815569480.408657,
     "geom:bbox":"88.088999,25.66736,88.641933,26.214196",
     "geom:latitude":25.990865,
     "geom:longitude":88.34777,
@@ -152,9 +152,10 @@
         "hasc:id":"BD.RP.TH",
         "wd:id":"Q2367825"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BD",
     "wof:created":1474493051,
-    "wof:geomhash":"d7227b4fcf6001997587abb59a403d0d",
+    "wof:geomhash":"fa18c8379a39955706ae6c1344c8bc7d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -164,7 +165,7 @@
         }
     ],
     "wof:id":1108694703,
-    "wof:lastmodified":1690856090,
+    "wof:lastmodified":1695886812,
     "wof:name":"Thakurgaon",
     "wof:parent_id":85669035,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.381433,
-    "geom:area_square_m":4285092274.056154,
+    "geom:area_square_m":4285092446.196591,
     "geom:bbox":"90.086792,24.247401,90.821533,25.197431",
     "geom:latitude":24.695644,
     "geom:longitude":90.431582,
@@ -182,12 +182,13 @@
         "wd:id":"Q1429976",
         "wk:page":"Mymensingh District"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BD",
     "wof:created":1459009444,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"c865970fe90b0016cf92ecd56c1879ee",
+    "wof:geomhash":"87ac40d1944af9878e444e718e8a494b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -197,7 +198,7 @@
         }
     ],
     "wof:id":421185469,
-    "wof:lastmodified":1690856123,
+    "wof:lastmodified":1695886658,
     "wof:name":"Mymensingh",
     "wof:parent_id":1108803101,
     "wof:placetype":"county",

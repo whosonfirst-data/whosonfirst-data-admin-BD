@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.170155,
-    "geom:area_square_m":1922818486.350508,
+    "geom:area_square_m":1922818430.446941,
     "geom:bbox":"90.722683,23.645687,91.329628,24.26925",
     "geom:latitude":23.95148,
     "geom:longitude":91.08545,
@@ -153,9 +153,10 @@
         "hasc:id":"BD.CG.BB",
         "wd:id":"Q897330"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BD",
     "wof:created":1474492983,
-    "wof:geomhash":"508c72bc3f321fa487c07120d9460472",
+    "wof:geomhash":"06a1803d5d1aee4a175278e74a28ea17",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -165,7 +166,7 @@
         }
     ],
     "wof:id":1108694667,
-    "wof:lastmodified":1690856095,
+    "wof:lastmodified":1695886813,
     "wof:name":"Brahamanbaria",
     "wof:parent_id":85669023,
     "wof:placetype":"county",

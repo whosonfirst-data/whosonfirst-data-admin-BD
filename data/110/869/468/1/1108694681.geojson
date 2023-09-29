@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.087796,
-    "geom:area_square_m":983104818.430991,
+    "geom:area_square_m":983105298.593998,
     "geom:bbox":"88.880046,24.855381,89.278015,25.276321",
     "geom:latitude":25.099278,
     "geom:longitude":89.079656,
@@ -147,9 +147,10 @@
         "hasc:id":"BD.RS.JP",
         "wd:id":"Q2348146"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BD",
     "wof:created":1474493003,
-    "wof:geomhash":"2afb7318c5a4e50ce1bd7e94de3cec71",
+    "wof:geomhash":"596e19a481d8677982c5df53aa8275a4",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -159,7 +160,7 @@
         }
     ],
     "wof:id":1108694681,
-    "wof:lastmodified":1690856093,
+    "wof:lastmodified":1695886812,
     "wof:name":"Joypurhat",
     "wof:parent_id":85669031,
     "wof:placetype":"county",

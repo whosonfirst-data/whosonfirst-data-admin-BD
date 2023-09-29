@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.20137,
-    "geom:area_square_m":2295177776.212229,
+    "geom:area_square_m":2295177014.152854,
     "geom:bbox":"90.017683,22.454337,90.691394,23.100407",
     "geom:latitude":22.813886,
     "geom:longitude":90.354914,
@@ -240,12 +240,13 @@
         "qs_pg:id":1085898,
         "wd:id":"Q1763301"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BD",
     "wof:created":1459009522,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"863854968898cc24ed5a12977208810b",
+    "wof:geomhash":"9b76edef1dbcc423416c8b19b3c55744",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -255,7 +256,7 @@
         }
     ],
     "wof:id":421187745,
-    "wof:lastmodified":1690856108,
+    "wof:lastmodified":1695886656,
     "wof:name":"Barisal",
     "wof:parent_id":85669019,
     "wof:placetype":"county",

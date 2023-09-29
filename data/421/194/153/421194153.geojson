@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.101816,
-    "geom:area_square_m":1153605496.091947,
+    "geom:area_square_m":1153605529.586948,
     "geom:bbox":"88.641554,23.37165,89.019611,23.839585",
     "geom:latitude":23.608071,
     "geom:longitude":88.849911,
@@ -171,12 +171,13 @@
         "qs_pg:id":1026966,
         "wd:id":"Q2094570"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BD",
     "wof:created":1459009795,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"155f730175379e1135a4cf2152f34290",
+    "wof:geomhash":"d122fa12fdddfe92bffcbedb28467850",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -186,7 +187,7 @@
         }
     ],
     "wof:id":421194153,
-    "wof:lastmodified":1690856101,
+    "wof:lastmodified":1695886589,
     "wof:name":"Chuadanga",
     "wof:parent_id":85669015,
     "wof:placetype":"county",

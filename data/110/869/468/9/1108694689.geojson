@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.092352,
-    "geom:area_square_m":1047729277.231801,
+    "geom:area_square_m":1047729372.472764,
     "geom:bbox":"89.248761,23.250424,89.63697,23.675438",
     "geom:latitude":23.438128,
     "geom:longitude":89.435223,
@@ -161,9 +161,10 @@
         "hasc:id":"BD.KH.MG",
         "wd:id":"Q2039085"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BD",
     "wof:created":1474493019,
-    "wof:geomhash":"6de62a19d12dd2a173e6976ec2bfdc4e",
+    "wof:geomhash":"0c80b1a7e294b58c049ce8a2b232c23c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -173,7 +174,7 @@
         }
     ],
     "wof:id":1108694689,
-    "wof:lastmodified":1690856093,
+    "wof:lastmodified":1695886812,
     "wof:name":"Magura",
     "wof:parent_id":85669015,
     "wof:placetype":"county",

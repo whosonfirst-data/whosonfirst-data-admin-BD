@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.064205,
-    "geom:area_square_m":726413371.16401,
+    "geom:area_square_m":726413223.674125,
     "geom:bbox":"88.559091,23.599075,88.889576,23.978488",
     "geom:latitude":23.795527,
     "geom:longitude":88.711144,
@@ -184,12 +184,13 @@
         "wd:id":"Q1474206",
         "wk:page":"Meherpur District"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BD",
     "wof:created":1459009700,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"e034448de28cad3d95ebf2d1f1e83617",
+    "wof:geomhash":"97b18418b8056af5502fb0ba8046b3fe",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -199,7 +200,7 @@
         }
     ],
     "wof:id":421191661,
-    "wof:lastmodified":1690856113,
+    "wof:lastmodified":1695886591,
     "wof:name":"Meherpur",
     "wof:parent_id":85669015,
     "wof:placetype":"county",

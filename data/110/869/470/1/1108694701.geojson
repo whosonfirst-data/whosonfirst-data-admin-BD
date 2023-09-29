@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.209058,
-    "geom:area_square_m":2330397786.915917,
+    "geom:area_square_m":2330397656.975904,
     "geom:bbox":"88.92725,25.300789,89.538078,25.948942",
     "geom:latitude":25.644848,
     "geom:longitude":89.240952,
@@ -210,9 +210,10 @@
         "hasc:id":"BD.RP.RP",
         "wd:id":"Q2344570"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BD",
     "wof:created":1474493043,
-    "wof:geomhash":"03938598849b7c5d4122a591fb3c09e9",
+    "wof:geomhash":"2cec2501bbe06ad44220d35fe82b7d87",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -222,7 +223,7 @@
         }
     ],
     "wof:id":1108694701,
-    "wof:lastmodified":1690856090,
+    "wof:lastmodified":1695886655,
     "wof:name":"Rangpur",
     "wof:parent_id":85669035,
     "wof:placetype":"county",

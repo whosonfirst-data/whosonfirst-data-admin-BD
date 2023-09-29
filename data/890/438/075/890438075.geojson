@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.150271,
-    "geom:area_square_m":1698533954.740834,
+    "geom:area_square_m":1698533610.173521,
     "geom:bbox":"88.697571,23.690454,89.370359,24.207734",
     "geom:latitude":23.920633,
     "geom:longitude":89.035383,
@@ -179,12 +179,13 @@
         "wd:id":"Q956895",
         "wk:page":"Kushtia District"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BD",
     "wof:created":1469052179,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"cdccadbe90384772e3f50035f01b06c7",
+    "wof:geomhash":"3a50b3edcd8afcd2a3a1de403d71207d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -194,7 +195,7 @@
         }
     ],
     "wof:id":890438075,
-    "wof:lastmodified":1690856125,
+    "wof:lastmodified":1695886594,
     "wof:name":"Kushtia",
     "wof:parent_id":85669015,
     "wof:placetype":"county",

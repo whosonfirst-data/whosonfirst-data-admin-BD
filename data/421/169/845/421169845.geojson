@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.215494,
-    "geom:area_square_m":2467345665.410275,
+    "geom:area_square_m":2467347093.73568,
     "geom:bbox":"90.086361,21.76194,90.683054,22.615506",
     "geom:latitude":22.184875,
     "geom:longitude":90.405824,
@@ -168,12 +168,13 @@
         "qs_pg:id":1268227,
         "wd:id":"Q1429761"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BD",
     "wof:created":1459008826,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"4fda6e4b0c5cc70b4a1c52ae1277da24",
+    "wof:geomhash":"e471e811789b82aabd935b6da5c39372",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -183,7 +184,7 @@
         }
     ],
     "wof:id":421169845,
-    "wof:lastmodified":1690856103,
+    "wof:lastmodified":1695886588,
     "wof:name":"Patuakhali",
     "wof:parent_id":85669019,
     "wof:placetype":"county",

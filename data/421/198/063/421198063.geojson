@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.18279,
-    "geom:area_square_m":2073139268.319088,
+    "geom:area_square_m":2073140334.081146,
     "geom:bbox":"89.489348,23.200925,90.187726,23.721302",
     "geom:latitude":23.476046,
     "geom:longitude":89.837466,
@@ -192,12 +192,13 @@
         "qs_pg:id":350673,
         "wd:id":"Q2093552"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BD",
     "wof:created":1459009935,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"047f0dc292c6e8d04ccd5e39336db74f",
+    "wof:geomhash":"dd825efc9c75ab5e69e559538b76141b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -207,7 +208,7 @@
         }
     ],
     "wof:id":421198063,
-    "wof:lastmodified":1690856112,
+    "wof:lastmodified":1695886592,
     "wof:name":"Faridpur",
     "wof:parent_id":85669009,
     "wof:placetype":"county",

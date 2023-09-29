@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.203415,
-    "geom:area_square_m":2264707206.865183,
+    "geom:area_square_m":2264707003.299905,
     "geom:bbox":"89.458201,25.374252,89.889671,26.237582",
     "geom:latitude":25.790748,
     "geom:longitude":89.698552,
@@ -161,9 +161,10 @@
         "hasc:id":"BD.RP.KR",
         "wd:id":"Q2348751"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BD",
     "wof:created":1474493008,
-    "wof:geomhash":"e0fb9b782252a05576fe8d45b873ecf8",
+    "wof:geomhash":"3307d717c7a7233d50c28265d21f2414",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -173,7 +174,7 @@
         }
     ],
     "wof:id":1108694685,
-    "wof:lastmodified":1690856094,
+    "wof:lastmodified":1695886813,
     "wof:name":"Kurigram",
     "wof:parent_id":85669035,
     "wof:placetype":"county",

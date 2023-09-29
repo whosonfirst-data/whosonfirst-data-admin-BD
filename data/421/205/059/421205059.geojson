@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.082471,
-    "geom:area_square_m":934996052.777555,
+    "geom:area_square_m":934995706.960231,
     "geom:bbox":"90.180545,23.377595,90.712809,23.674192",
     "geom:latitude":23.527374,
     "geom:longitude":90.422476,
@@ -189,12 +189,13 @@
         "wd:id":"Q1990519",
         "wk:page":"Munshiganj District"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BD",
     "wof:created":1459010211,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"cf5d488208a1d4fcbd911a01904dee03",
+    "wof:geomhash":"7dddc9a7f9b6f2bac69601bf3138f80e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -204,7 +205,7 @@
         }
     ],
     "wof:id":421205059,
-    "wof:lastmodified":1690856105,
+    "wof:lastmodified":1695886590,
     "wof:name":"Munshiganj",
     "wof:parent_id":85669009,
     "wof:placetype":"county",

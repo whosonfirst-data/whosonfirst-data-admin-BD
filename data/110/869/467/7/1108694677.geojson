@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.062833,
-    "geom:area_square_m":717413341.18354,
+    "geom:area_square_m":717413747.282061,
     "geom:bbox":"90.020868,22.344208,90.390822,22.78425",
     "geom:latitude":22.574676,
     "geom:longitude":90.186137,
@@ -141,9 +141,10 @@
         "hasc:id":"BD.BA.JK",
         "wd:id":"Q2093327"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BD",
     "wof:created":1474493000,
-    "wof:geomhash":"41089697b61d63eb5664990e1c711ba5",
+    "wof:geomhash":"61320c3590ea33ffac6752a23231d4f2",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -153,7 +154,7 @@
         }
     ],
     "wof:id":1108694677,
-    "wof:lastmodified":1690856091,
+    "wof:lastmodified":1695886812,
     "wof:name":"Jhalokati",
     "wof:parent_id":85669019,
     "wof:placetype":"county",

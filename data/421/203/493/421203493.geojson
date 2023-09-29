@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.149008,
-    "geom:area_square_m":1681761657.770659,
+    "geom:area_square_m":1681761219.189167,
     "geom:bbox":"90.151501,23.882544,90.700487,24.339309",
     "geom:latitude":24.111209,
     "geom:longitude":90.449892,
@@ -176,12 +176,13 @@
         "qs_pg:id":1289561,
         "wd:id":"Q2094101"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BD",
     "wof:created":1459010154,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"d1f5fd6430f4760b1bae106f9a7dab5b",
+    "wof:geomhash":"4ac2505a87a877ab045afcbe8898731a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -191,7 +192,7 @@
         }
     ],
     "wof:id":421203493,
-    "wof:lastmodified":1690856104,
+    "wof:lastmodified":1695886590,
     "wof:name":"Gazipur",
     "wof:parent_id":85669009,
     "wof:placetype":"county",

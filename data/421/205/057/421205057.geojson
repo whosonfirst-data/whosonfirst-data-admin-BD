@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.180024,
-    "geom:area_square_m":2071387642.869975,
+    "geom:area_square_m":2071387120.649869,
     "geom:bbox":"91.837178,20.576093,92.364826,21.951325",
     "geom:latitude":21.481,
     "geom:longitude":92.059699,
@@ -242,12 +242,13 @@
         "wd:id":"Q1122278",
         "wk:page":"Cox's Bazar"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BD",
     "wof:created":1459010210,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"a4a20473a0938dad1d6ff9c9126ffb6f",
+    "wof:geomhash":"2fe0595d64924aecab9d91f663cfa04f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -257,7 +258,7 @@
         }
     ],
     "wof:id":421205057,
-    "wof:lastmodified":1690856105,
+    "wof:lastmodified":1695886590,
     "wof:name":"Cox's Bazar",
     "wof:parent_id":85669023,
     "wof:placetype":"county",

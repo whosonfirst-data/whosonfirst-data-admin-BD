@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.216629,
-    "geom:area_square_m":2439398887.014971,
+    "geom:area_square_m":2439399189.949841,
     "geom:bbox":"89.253643,24.01638,89.819781,24.785471",
     "geom:latitude":24.400163,
     "geom:longitude":89.599124,
@@ -193,12 +193,13 @@
         "qs_pg:id":215993,
         "wd:id":"Q2429432"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BD",
     "wof:created":1459010092,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"780bef1dcb853ace06394a1ec345341d",
+    "wof:geomhash":"0d7007b7a20eed5bc69f334a93a9f297",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -208,7 +209,7 @@
         }
     ],
     "wof:id":421201929,
-    "wof:lastmodified":1690856117,
+    "wof:lastmodified":1695886593,
     "wof:name":"Sirajganj",
     "wof:parent_id":85669031,
     "wof:placetype":"county",

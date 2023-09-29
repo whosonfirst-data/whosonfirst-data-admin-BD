@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.433646,
-    "geom:area_square_m":4978534461.425696,
+    "geom:area_square_m":4978535193.197032,
     "geom:bbox":"92.036743,21.177528,92.683448,22.381197",
     "geom:latitude":21.801541,
     "geom:longitude":92.347581,
@@ -177,12 +177,13 @@
         "qs_pg:id":1190324,
         "wd:id":"Q806273"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BD",
     "wof:created":1459008811,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"4c99083d62f1bfd67ed0bca41252d18b",
+    "wof:geomhash":"c469c41ed3bf38a7ec94f5d973553d8c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -192,7 +193,7 @@
         }
     ],
     "wof:id":421169477,
-    "wof:lastmodified":1690856103,
+    "wof:lastmodified":1695886589,
     "wof:name":"Bandarban",
     "wof:parent_id":85669023,
     "wof:placetype":"county",

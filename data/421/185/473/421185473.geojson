@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.313089,
-    "geom:area_square_m":3577559331.687417,
+    "geom:area_square_m":3577558552.088358,
     "geom:bbox":"89.238643,21.695374,89.758914,23.008799",
     "geom:latitude":22.465025,
     "geom:longitude":89.449582,
@@ -199,12 +199,13 @@
         "wd:id":"Q2093344",
         "wk:page":"Khulna District"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BD",
     "wof:created":1459009444,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"f724082a9806f839374fd9190ac37d37",
+    "wof:geomhash":"3b880773c06f088e8cf1803d04909e03",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -214,7 +215,7 @@
         }
     ],
     "wof:id":421185473,
-    "wof:lastmodified":1690856123,
+    "wof:lastmodified":1695886657,
     "wof:name":"Khulna",
     "wof:parent_id":85669015,
     "wof:placetype":"county",

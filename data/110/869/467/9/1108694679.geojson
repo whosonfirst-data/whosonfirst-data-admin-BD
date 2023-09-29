@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.172937,
-    "geom:area_square_m":1961254766.458385,
+    "geom:area_square_m":1961255176.382295,
     "geom:bbox":"88.697679,23.217704,89.378781,23.769229",
     "geom:latitude":23.485594,
     "geom:longitude":89.089155,
@@ -146,9 +146,10 @@
         "hasc:id":"BD.KH.JN",
         "wd:id":"Q2188750"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BD",
     "wof:created":1474493002,
-    "wof:geomhash":"72130667fc086172bd8bc3e98d59869d",
+    "wof:geomhash":"49f0de23cf0584afea51baddcc92bfcb",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -158,7 +159,7 @@
         }
     ],
     "wof:id":1108694679,
-    "wof:lastmodified":1690856090,
+    "wof:lastmodified":1695886812,
     "wof:name":"Jhenaidah",
     "wof:parent_id":85669015,
     "wof:placetype":"county",

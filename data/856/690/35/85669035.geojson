@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.466399,
-    "geom:area_square_m":16327422804.298187,
+    "geom:area_square_m":16327422746.825804,
     "geom:bbox":"88.088999,25.035928,89.889671,26.634149",
     "geom:latitude":25.779542,
     "geom:longitude":89.057564,
@@ -188,15 +188,17 @@
         "gn:id":7671048,
         "gp:id":-2344793,
         "hasc:id":"BD.RP",
+        "iso:code":"BD-F",
         "iso:id":"BD-F",
         "unlc:id":"BD-55",
         "wd:id":"Q402021"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"BD",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"2cacfcada24527b08d98957558218aee",
+    "wof:geomhash":"b7afaa6f8fdd113e9abc6a426c237009",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -211,7 +213,7 @@
     "wof:lang_x_spoken":[
         "ben"
     ],
-    "wof:lastmodified":1690856076,
+    "wof:lastmodified":1695884795,
     "wof:name":"Rangpur",
     "wof:parent_id":85632475,
     "wof:placetype":"region",

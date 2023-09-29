@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.256221,
-    "geom:area_square_m":2874449526.974506,
+    "geom:area_square_m":2874450060.095457,
     "geom:bbox":"90.462421,24.567523,91.240831,25.196069",
     "geom:latitude":24.868135,
     "geom:longitude":90.843617,
@@ -182,12 +182,13 @@
         "wd:id":"Q2344966",
         "wk:page":"Netrokona District"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BD",
     "wof:created":1459010042,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"95ed00af810b431e0e7bd49c8200bf41",
+    "wof:geomhash":"edb88bb36108a371c0806a83e5462404",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -197,7 +198,7 @@
         }
     ],
     "wof:id":421200811,
-    "wof:lastmodified":1690856116,
+    "wof:lastmodified":1695886592,
     "wof:name":"Netrakona",
     "wof:parent_id":1108803101,
     "wof:placetype":"county",

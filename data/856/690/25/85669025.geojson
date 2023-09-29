@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.108546,
-    "geom:area_square_m":12451660090.936243,
+    "geom:area_square_m":12451659460.072384,
     "geom:bbox":"90.933235,23.974533,92.501155,25.205567",
     "geom:latitude":24.714484,
     "geom:longitude":91.666161,
@@ -293,17 +293,19 @@
         "gn:id":1477362,
         "gp:id":23706411,
         "hasc:id":"BD.SY",
+        "iso:code":"BD-G",
         "iso:id":"BD-G",
         "qs_pg:id":1192909,
         "unlc:id":"BD-60",
         "wd:id":"Q459732",
         "wk:page":"Sylhet Division"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"BD",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"9303e792cdf46880a0e9927927f87274",
+    "wof:geomhash":"5bab3fc423d3b8fe4f41416b2037ae8a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -318,7 +320,7 @@
     "wof:lang_x_spoken":[
         "ben"
     ],
-    "wof:lastmodified":1690856080,
+    "wof:lastmodified":1695884797,
     "wof:name":"Sylhet",
     "wof:parent_id":85632475,
     "wof:placetype":"region",

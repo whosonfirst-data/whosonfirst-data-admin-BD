@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.103289,
-    "geom:area_square_m":1166728624.166968,
+    "geom:area_square_m":1166728641.323935,
     "geom:bbox":"90.560568,23.784098,90.988507,24.250126",
     "geom:latitude":24.004128,
     "geom:longitude":90.775978,
@@ -181,12 +181,13 @@
         "qs_pg:id":230091,
         "wd:id":"Q2042638"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BD",
     "wof:created":1459008821,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"d11ee7873e9244f99547b753f86b2d25",
+    "wof:geomhash":"2e995dbc12bfa264f05298716428bf24",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -196,7 +197,7 @@
         }
     ],
     "wof:id":421169707,
-    "wof:lastmodified":1690856103,
+    "wof:lastmodified":1695886588,
     "wof:name":"Narsingdi",
     "wof:parent_id":85669009,
     "wof:placetype":"county",

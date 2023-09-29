@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.195022,
-    "geom:area_square_m":2180199669.511184,
+    "geom:area_square_m":2180199644.937555,
     "geom:bbox":"89.185014,25.035928,89.758754,25.64313",
     "geom:latitude":25.298413,
     "geom:longitude":89.509023,
@@ -162,9 +162,10 @@
         "hasc:id":"BD.RP.GB",
         "wd:id":"Q2344595"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BD",
     "wof:created":1474492995,
-    "wof:geomhash":"b116cb54ee902da0cd96117ec9d9b101",
+    "wof:geomhash":"bebefb1dd4194af62b7d096de0a5ffa3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -174,7 +175,7 @@
         }
     ],
     "wof:id":1108694675,
-    "wof:lastmodified":1690856091,
+    "wof:lastmodified":1695886812,
     "wof:name":"Gaibandha",
     "wof:parent_id":85669035,
     "wof:placetype":"county",

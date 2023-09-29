@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.134782,
-    "geom:area_square_m":1524908764.266685,
+    "geom:area_square_m":1524908385.63869,
     "geom:bbox":"90.011436,23.526321,90.509888,24.043081",
     "geom:latitude":23.797116,
     "geom:longitude":90.25571,
@@ -214,12 +214,13 @@
         "wd:id":"Q1850485",
         "wk:page":"Dhaka District"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BD",
     "wof:created":1459009524,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"a4d4cde6ea09e034dedfd58b9837b742",
+    "wof:geomhash":"a1b7ee1da958c230176001ca153fe399",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -229,7 +230,7 @@
         }
     ],
     "wof:id":421187803,
-    "wof:lastmodified":1690856106,
+    "wof:lastmodified":1695886656,
     "wof:name":"Dhaka",
     "wof:parent_id":85669009,
     "wof:placetype":"county",

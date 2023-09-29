@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.085095,
-    "geom:area_square_m":967662591.494867,
+    "geom:area_square_m":967663019.040614,
     "geom:bbox":"89.376997,22.95402,89.792497,23.31448",
     "geom:latitude":23.126122,
     "geom:longitude":89.575191,
@@ -184,12 +184,13 @@
         "wd:id":"Q1550260",
         "wk:page":"Narail District"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BD",
     "wof:created":1459010215,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"77a1fba2f6bb5930db20f53f37aa010b",
+    "wof:geomhash":"5bc743dbe9d3531a10fe0bff7f7d2493",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -199,7 +200,7 @@
         }
     ],
     "wof:id":421205213,
-    "wof:lastmodified":1690856105,
+    "wof:lastmodified":1695886590,
     "wof:name":"Narail",
     "wof:parent_id":85669015,
     "wof:placetype":"county",

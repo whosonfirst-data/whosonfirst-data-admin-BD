@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.309938,
-    "geom:area_square_m":3455321240.105085,
+    "geom:area_square_m":3455321295.53826,
     "geom:bbox":"88.382314,25.225967,89.304566,26.059657",
     "geom:latitude":25.630539,
     "geom:longitude":88.787803,
@@ -167,9 +167,10 @@
         "hasc:id":"BD.RP.DJ",
         "wd:id":"Q1985120"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BD",
     "wof:created":1474492991,
-    "wof:geomhash":"1660805e06cf725031d75af0ae4de8d2",
+    "wof:geomhash":"1f4b0a6cd3e183aee5618626761527f2",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -179,7 +180,7 @@
         }
     ],
     "wof:id":1108694671,
-    "wof:lastmodified":1690856091,
+    "wof:lastmodified":1695886812,
     "wof:name":"Dinajpur",
     "wof:parent_id":85669035,
     "wof:placetype":"county",
