@@ -46,6 +46,11 @@
     "wof:concordances":{
         "gn:id":1205392
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1185544
+        ]
+    },
     "wof:country":"BD",
     "wof:geomhash":"5232f5f8fbe366123fcbb7238ab82e0f",
     "wof:hierarchy":[
@@ -58,13 +63,15 @@
         }
     ],
     "wof:id":1260110147,
-    "wof:lastmodified":1566608567,
+    "wof:lastmodified":1706239326,
     "wof:name":"Mansantosh",
     "wof:parent_id":421170483,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-bd",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1260221749
+    ],
     "wof:tags":[]
 },
   "bbox": [

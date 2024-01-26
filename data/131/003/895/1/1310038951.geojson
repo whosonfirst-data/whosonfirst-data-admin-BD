@@ -50,8 +50,13 @@
         "gn:id":7105180,
         "wk:page":"Debiganj"
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7105351
+        ]
+    },
     "wof:country":"BD",
-    "wof:geomhash":"b260342b16521d460041af15d4473473",
+    "wof:geomhash":"a27a179c10c6cec95b0e815afad874a6",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -62,20 +67,22 @@
         }
     ],
     "wof:id":1310038951,
-    "wof:lastmodified":1566608937,
+    "wof:lastmodified":1706239326,
     "wof:name":"Debiganj",
     "wof:parent_id":1108694697,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-bd",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1360118183
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    88.75950999999998,
+    88.75951,
     26.11839,
-    88.75950999999998,
+    88.75951,
     26.11839
 ],
-  "geometry": {"coordinates":[88.75950999999998,26.11839],"type":"Point"}
+  "geometry": {"coordinates":[88.75951000000001,26.11839],"type":"Point"}
 }

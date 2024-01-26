@@ -43,8 +43,13 @@
     "wof:concordances":{
         "gn:id":7488047
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7488048
+        ]
+    },
     "wof:country":"BD",
-    "wof:geomhash":"69e2ee1b306a18044f84c626de1c4fd1",
+    "wof:geomhash":"60b48e6dfbfc9423cdfa31a2041f23d3",
     "wof:hierarchy":[
         {
             "country_id":85632475,
@@ -52,20 +57,22 @@
         }
     ],
     "wof:id":1209040179,
-    "wof:lastmodified":1566608079,
+    "wof:lastmodified":1706239324,
     "wof:name":"Sukrail",
     "wof:parent_id":85632475,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-bd",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1243010599
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    88.49401999999998,
+    88.49402,
     25.18357,
-    88.49401999999998,
+    88.49402,
     25.18357
 ],
-  "geometry": {"coordinates":[88.49401999999998,25.18357],"type":"Point"}
+  "geometry": {"coordinates":[88.49402000000001,25.18357],"type":"Point"}
 }

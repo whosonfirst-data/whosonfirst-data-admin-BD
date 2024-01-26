@@ -46,6 +46,11 @@
     "wof:concordances":{
         "gn:id":1185932
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1290488
+        ]
+    },
     "wof:country":"BD",
     "wof:geomhash":"1b870ed5301fba139270f6da577007af",
     "wof:hierarchy":[
@@ -58,13 +63,15 @@
         }
     ],
     "wof:id":1242716317,
-    "wof:lastmodified":1566609762,
+    "wof:lastmodified":1706239325,
     "wof:name":"Tumbru",
     "wof:parent_id":421169477,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-bd",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1360188101
+    ],
     "wof:tags":[]
 },
   "bbox": [

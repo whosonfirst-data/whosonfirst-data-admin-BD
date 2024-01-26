@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"88.4997,24.63912,88.4997,24.63912",
@@ -30,7 +32,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Galla"
@@ -88,12 +90,14 @@
         }
     ],
     "wof:id":1259613505,
-    "wof:lastmodified":1566610125,
+    "wof:lastmodified":1706239324,
     "wof:name":"Galla",
     "wof:parent_id":421172439,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-bd",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1209748719
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

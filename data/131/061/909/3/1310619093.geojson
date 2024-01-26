@@ -23,9 +23,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "ks:ks_id":"KSAB479375DB114CECAA08FE5139F7EF65",
+    "ks:ks_name":"Latu",
+    "ks:ks_pop":2628,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"S|1822000102509500",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_uagg_id":"ESA_1442919",
+    "ks:ks_uagg_main":1,
     "lbl:bbox":"92.24667,24.81333,92.28667,24.85333",
+    "lbl:latitude":24.837579,
+    "lbl:longitude":92.261819,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":24.837579,
+    "mps:longitude":92.261819,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
@@ -35,10 +47,16 @@
     "name:deu_x_preferred":[
         "Latu"
     ],
+    "name:eng_x_preferred":[
+        "Latu"
+    ],
     "name:swe_x_preferred":[
         "Latu"
     ],
     "src:geom":"geonames",
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -47,7 +65,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":1196107
+        "gn:id":1196107,
+        "ks:id":"KSAB479375DB114CECAA08FE5139F7EF65"
     },
     "wof:country":"BD",
     "wof:geomhash":"d6be9ab7dd17e2e62e26a37e178f0474",
@@ -61,13 +80,17 @@
         }
     ],
     "wof:id":1310619093,
-    "wof:lastmodified":1566608980,
+    "wof:lastmodified":1706239327,
     "wof:name":"Latu",
     "wof:parent_id":1108696053,
     "wof:placetype":"locality",
+    "wof:population":2628,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-bd",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1829820869
+    ],
     "wof:tags":[]
 },
   "bbox": [

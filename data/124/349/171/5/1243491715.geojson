@@ -46,8 +46,13 @@
     "wof:concordances":{
         "gn:id":7486815
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7486846
+        ]
+    },
     "wof:country":"BD",
-    "wof:geomhash":"b7731d07d9cb402c3dfa3c460aee905d",
+    "wof:geomhash":"40f4c2f9877ffc006d6e0e4292cb6558",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -58,20 +63,22 @@
         }
     ],
     "wof:id":1243491715,
-    "wof:lastmodified":1566609653,
+    "wof:lastmodified":1706239326,
     "wof:name":"Kalidaspara",
     "wof:parent_id":1108694697,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-bd",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293423215
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    88.44979000000002,
+    88.44979,
     26.50164,
-    88.44979000000002,
+    88.44979,
     26.50164
 ],
-  "geometry": {"coordinates":[88.44979000000002,26.50164],"type":"Point"}
+  "geometry": {"coordinates":[88.44978999999999,26.50164],"type":"Point"}
 }

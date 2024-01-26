@@ -43,6 +43,11 @@
     "wof:concordances":{
         "gn:id":7484093
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7484206
+        ]
+    },
     "wof:country":"BD",
     "wof:geomhash":"fd7b3451aac49292ecccec59698f1982",
     "wof:hierarchy":[
@@ -52,13 +57,15 @@
         }
     ],
     "wof:id":1209135795,
-    "wof:lastmodified":1566607966,
+    "wof:lastmodified":1706239324,
     "wof:name":"Peadapara",
     "wof:parent_id":85632475,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-bd",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343489433
+    ],
     "wof:tags":[]
 },
   "bbox": [

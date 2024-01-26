@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"88.75948,26.11845,88.75948,26.11845",
@@ -30,7 +32,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u09a6\u09c7\u09ac\u09c0\u0997\u099e\u09cd\u099c"
@@ -50,7 +52,7 @@
         "gn:id":7105351
     },
     "wof:country":"BD",
-    "wof:geomhash":"fd09e4a9b41db97de36c55d0b999dd60",
+    "wof:geomhash":"d4c36f06200531841d8a1aec5c89bc22",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -61,20 +63,22 @@
         }
     ],
     "wof:id":1360118183,
-    "wof:lastmodified":1566609129,
+    "wof:lastmodified":1706239326,
     "wof:name":"Debiganj",
     "wof:parent_id":1108694697,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-bd",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1310038951
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    88.75948000000002,
+    88.75948,
     26.11845,
-    88.75948000000002,
+    88.75948,
     26.11845
 ],
-  "geometry": {"coordinates":[88.75948000000002,26.11845],"type":"Point"}
+  "geometry": {"coordinates":[88.75948,26.11845],"type":"Point"}
 }

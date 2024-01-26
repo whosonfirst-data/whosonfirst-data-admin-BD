@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"89.00547,22.48452,89.00547,22.48452",
@@ -30,7 +32,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "D\u0101udpur"
@@ -53,7 +55,7 @@
         "gn:id":1205638
     },
     "wof:country":"BD",
-    "wof:geomhash":"dc749b490ec2042c2e53ea3b92bb2a06",
+    "wof:geomhash":"f886ca75d340bd8e09f2fb25706c33bc",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -64,20 +66,22 @@
         }
     ],
     "wof:id":1360214911,
-    "wof:lastmodified":1566609174,
+    "wof:lastmodified":1706239326,
     "wof:name":"Daudpur",
     "wof:parent_id":421201927,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-bd",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1293720743
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    89.00546999999997,
+    89.00547,
     22.48452,
-    89.00546999999997,
+    89.00547,
     22.48452
 ],
-  "geometry": {"coordinates":[89.00546999999997,22.48452],"type":"Point"}
+  "geometry": {"coordinates":[89.00547,22.48452],"type":"Point"}
 }

@@ -46,6 +46,11 @@
     "wof:concordances":{
         "gn:id":7476583
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7476579
+        ]
+    },
     "wof:country":"BD",
     "wof:geomhash":"6c573a9f325114d64cc4d6bfdd4ab17b",
     "wof:hierarchy":[
@@ -58,13 +63,15 @@
         }
     ],
     "wof:id":1226476005,
-    "wof:lastmodified":1566610638,
+    "wof:lastmodified":1706239325,
     "wof:name":"Kachua",
     "wof:parent_id":1108694677,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-bd",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1242910753
+    ],
     "wof:tags":[]
 },
   "bbox": [

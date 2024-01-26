@@ -32,6 +32,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ben_x_preferred":[
+        "\u0100tgaon"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632475
@@ -40,8 +43,13 @@
     "wof:concordances":{
         "gn:id":1212324
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7105848
+        ]
+    },
     "wof:country":"BD",
-    "wof:geomhash":"98dd3e0b27d913df8e71f27df833ef1e",
+    "wof:geomhash":"e5ddd9f89e176e7c0103fd4252f8f10c",
     "wof:hierarchy":[
         {
             "country_id":85632475,
@@ -49,20 +57,22 @@
         }
     ],
     "wof:id":1209347731,
-    "wof:lastmodified":1566608148,
+    "wof:lastmodified":1706239324,
     "wof:name":"Atgaon",
     "wof:parent_id":85632475,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-bd",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1360015635
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    88.50296999999998,
+    88.50297,
     25.77171,
-    88.50296999999998,
+    88.50297,
     25.77171
 ],
-  "geometry": {"coordinates":[88.50296999999998,25.77171],"type":"Point"}
+  "geometry": {"coordinates":[88.50297,25.77171],"type":"Point"}
 }

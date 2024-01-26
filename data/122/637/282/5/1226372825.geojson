@@ -48,6 +48,11 @@
     "wof:concordances":{
         "gn:id":1187393
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1191848
+        ]
+    },
     "wof:country":"BD",
     "wof:geomhash":"c25f6845eb0fafb9af1ac9e0a16a1679",
     "wof:hierarchy":[
@@ -60,13 +65,15 @@
         }
     ],
     "wof:id":1226372825,
-    "wof:lastmodified":1566610734,
+    "wof:lastmodified":1706239325,
     "wof:name":"Uttar Khilgram",
     "wof:parent_id":421183929,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-bd",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1226777871
+    ],
     "wof:tags":[]
 },
   "bbox": [

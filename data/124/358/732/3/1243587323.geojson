@@ -46,6 +46,11 @@
     "wof:concordances":{
         "gn:id":7482303
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7482304
+        ]
+    },
     "wof:country":"BD",
     "wof:geomhash":"9e877cbedeb30a2080c66c99dfd059b1",
     "wof:hierarchy":[
@@ -58,13 +63,15 @@
         }
     ],
     "wof:id":1243587323,
-    "wof:lastmodified":1566609701,
+    "wof:lastmodified":1706239326,
     "wof:name":"Goabari Chandpur",
     "wof:parent_id":421191607,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-bd",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1260316669
+    ],
     "wof:tags":[]
 },
   "bbox": [

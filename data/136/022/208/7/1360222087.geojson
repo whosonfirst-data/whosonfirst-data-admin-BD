@@ -23,16 +23,33 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "ks:ks_id":"KS523EE8F9A7D041BD9167B0C457B7D50D",
+    "ks:ks_name":"Sangarbari",
+    "ks:ks_pop":1140,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"S|1903001200259800",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_2193412",
     "lbl:bbox":"89.11888,26.23154,89.15888,26.27154",
+    "lbl:latitude":26.244616,
+    "lbl:longitude":89.135926,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":26.244616,
+    "mps:longitude":89.135926,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Sangarbari"
     ],
+    "name:eng_x_preferred":[
+        "Sangarbari"
+    ],
     "src:geom":"geonames",
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -41,7 +58,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":8021634
+        "gn:id":8021634,
+        "ks:id":"KS523EE8F9A7D041BD9167B0C457B7D50D"
     },
     "wof:country":"BD",
     "wof:geomhash":"f65cd735f43978d529449ef67c3ee434",
@@ -55,13 +73,17 @@
         }
     ],
     "wof:id":1360222087,
-    "wof:lastmodified":1566609057,
+    "wof:lastmodified":1706239327,
     "wof:name":"Sangarbari",
     "wof:parent_id":1108696069,
     "wof:placetype":"locality",
+    "wof:population":1140,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-bd",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1830021929
+    ],
     "wof:tags":[]
 },
   "bbox": [

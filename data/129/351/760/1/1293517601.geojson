@@ -49,8 +49,13 @@
     "wof:concordances":{
         "gn:id":7895462
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7890419
+        ]
+    },
     "wof:country":"BD",
-    "wof:geomhash":"d0d65fa577a8d534d522217ce29ee1f3",
+    "wof:geomhash":"4573e062224454c3bed7f8aeeb4f2f2c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -61,20 +66,22 @@
         }
     ],
     "wof:id":1293517601,
-    "wof:lastmodified":1566606963,
+    "wof:lastmodified":1706239326,
     "wof:name":"Bhabanipur",
     "wof:parent_id":1108694675,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-bd",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1327363619
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    89.37248000000002,
+    89.37248,
     25.2503,
-    89.37248000000002,
+    89.37248,
     25.2503
 ],
-  "geometry": {"coordinates":[89.37248000000002,25.2503],"type":"Point"}
+  "geometry": {"coordinates":[89.37248,25.2503],"type":"Point"}
 }
