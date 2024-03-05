@@ -10,6 +10,9 @@
     "geom:latitude":25.26675,
     "geom:longitude":88.99192,
     "gn:admin1_code":"87",
+    "gn:admin2_code":"5038.0",
+    "gn:admin3_code":"503874.0",
+    "gn:admin4_code":"50387442.0",
     "gn:asciiname":"Chechra",
     "gn:country_code":"BD",
     "gn:dem":29,
@@ -43,6 +46,11 @@
     "wof:concordances":{
         "gn:id":7481485
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7481486
+        ]
+    },
     "wof:country":"BD",
     "wof:geomhash":"957f7390473f168c07e7b0ded70d80d0",
     "wof:hierarchy":[
@@ -55,13 +63,15 @@
         }
     ],
     "wof:id":1226676007,
-    "wof:lastmodified":1566610422,
+    "wof:lastmodified":1706239325,
     "wof:name":"Chechra",
     "wof:parent_id":1108694681,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-bd",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293230831
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -46,6 +46,11 @@
     "wof:concordances":{
         "gn:id":7481520
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7481519
+        ]
+    },
     "wof:country":"BD",
     "wof:geomhash":"be9e0cb11ef68696e0edb339dc97fbf3",
     "wof:hierarchy":[
@@ -58,13 +63,15 @@
         }
     ],
     "wof:id":1293913509,
-    "wof:lastmodified":1566606683,
+    "wof:lastmodified":1706239326,
     "wof:name":"Bheram",
     "wof:parent_id":421191663,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-bd",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1326458501
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -35,6 +35,10 @@
     "name:ben_x_preferred":[
         "Dh\u0101nsa"
     ],
+    "name:und_x_variant":[
+        "Dhausa",
+        "Dh\u0101nsa"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -46,6 +50,11 @@
     "wof:concordances":{
         "gn:id":1272921,
         "wk:page":"Dhansa"
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1204384
+        ]
     },
     "wof:country":"BD",
     "wof:geomhash":"1885e1359a1c7e860582df07aa684886",
@@ -59,13 +68,15 @@
         }
     ],
     "wof:id":1243100659,
-    "wof:lastmodified":1566609915,
+    "wof:lastmodified":1706239325,
     "wof:name":"Dhansa",
     "wof:parent_id":421191663,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-bd",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343292223
+    ],
     "wof:tags":[]
 },
   "bbox": [

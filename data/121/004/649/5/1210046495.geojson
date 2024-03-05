@@ -46,8 +46,13 @@
     "wof:concordances":{
         "gn:id":7482384
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7482386
+        ]
+    },
     "wof:country":"BD",
-    "wof:geomhash":"780ec414efaa05a6518343bdb6bc1784",
+    "wof:geomhash":"7b6ff61616414d861d3d783a4f9cdd17",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -58,20 +63,22 @@
         }
     ],
     "wof:id":1210046495,
-    "wof:lastmodified":1566608278,
+    "wof:lastmodified":1706239325,
     "wof:name":"Kushlapara",
     "wof:parent_id":421191607,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-bd",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343791823
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    88.32153000000002,
+    88.32153,
     24.62648,
-    88.32153000000002,
+    88.32153,
     24.62648
 ],
-  "geometry": {"coordinates":[88.32153000000002,24.62648],"type":"Point"}
+  "geometry": {"coordinates":[88.32153,24.62648],"type":"Point"}
 }

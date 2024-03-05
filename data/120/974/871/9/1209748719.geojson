@@ -76,6 +76,11 @@
     "wof:concordances":{
         "gn:id":7482563
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7482854
+        ]
+    },
     "wof:country":"BD",
     "wof:geomhash":"7782ab5d49ee651251fd81f2582f857d",
     "wof:hierarchy":[
@@ -88,13 +93,15 @@
         }
     ],
     "wof:id":1209748719,
-    "wof:lastmodified":1566608181,
+    "wof:lastmodified":1706239324,
     "wof:name":"Galla",
     "wof:parent_id":421172439,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-bd",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1259613505
+    ],
     "wof:tags":[]
 },
   "bbox": [

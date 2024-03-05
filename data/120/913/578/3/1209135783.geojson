@@ -10,6 +10,9 @@
     "geom:latitude":22.25043,
     "geom:longitude":89.9744,
     "gn:admin1_code":"82",
+    "gn:admin2_code":"1079.0",
+    "gn:admin3_code":"107958.0",
+    "gn:admin4_code":"10795851.0",
     "gn:asciiname":"Gulishakhali",
     "gn:country_code":"BD",
     "gn:dem":11,
@@ -40,6 +43,11 @@
     "wof:concordances":{
         "gn:id":7475658
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7475796
+        ]
+    },
     "wof:country":"BD",
     "wof:geomhash":"04b6b7513a7850c61687246eb9bf986c",
     "wof:hierarchy":[
@@ -49,13 +57,15 @@
         }
     ],
     "wof:id":1209135783,
-    "wof:lastmodified":1566607962,
+    "wof:lastmodified":1706239324,
     "wof:name":"Gulishakhali",
     "wof:parent_id":85632475,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-bd",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343591355
+    ],
     "wof:tags":[]
 },
   "bbox": [

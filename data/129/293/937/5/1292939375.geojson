@@ -23,16 +23,33 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dhaka",
     "iso:country":"BD",
+    "ks:ks_id":"KS43C97A7075F94EF39E45D861FBD5E606",
+    "ks:ks_name":"Tharaikhana",
+    "ks:ks_pop":3701,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"S|1903001000253900",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_2184921",
     "lbl:bbox":"89.5367,25.95907,89.5767,25.99907",
+    "lbl:latitude":25.975975,
+    "lbl:longitude":89.557946,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":25.975975,
+    "mps:longitude":89.557946,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "Tharaikh\u0101na"
     ],
+    "name:eng_x_preferred":[
+        "Tharaikhana"
+    ],
     "src:geom":"geonames",
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -41,7 +58,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":7923490
+        "gn:id":7923490,
+        "ks:id":"KS43C97A7075F94EF39E45D861FBD5E606"
     },
     "wof:country":"BD",
     "wof:geomhash":"17c328799d529f440e627f205ca099fe",
@@ -55,13 +73,17 @@
         }
     ],
     "wof:id":1292939375,
-    "wof:lastmodified":1566606745,
+    "wof:lastmodified":1706239326,
     "wof:name":"Tharaikhana",
     "wof:parent_id":1108696069,
     "wof:placetype":"locality",
+    "wof:population":3701,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-bd",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1830021131
+    ],
     "wof:tags":[]
 },
   "bbox": [
